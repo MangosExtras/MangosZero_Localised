@@ -34,3 +34,20 @@ The language pack currently consists of 3 files:
     <Language>_Gameobject.sql
 
 The 3 files ending in `_missing.sql` are entries that need to be translated.
+
+
+
+We would like to acknowledge the work of the following groups who have helped source some of the translations used:
+
+* GMDB (German Mangos Database project)
+* YTDB (non-mangos compatible Database)
+* MA-WOWEE (Spanish database project)
+* UDBFR (French Database Project)
+
+Not to mention a number of people from the Mangos Community who have summitted corrections and updates:
+
+* mpfans
+* talendrys
+* salja
+* AzoG
+* D3thw0lf
