@@ -35,7 +35,22 @@ The language pack currently consists of 3 files:
 
 The 3 files ending in `_missing.sql` are entries that need to be translated.
 
+**Official Websites**
+----
 
+* [**Official MaNGOS Site**](https://getmangos.eu/)  
+* [**Official MaNGOS Community Forum**](https://www.getmangos.eu/home.php)  
+
+**Main Wiki**
+----
+For browsing the Wiki, it is located at the following location:
+
+* [**Wiki Home**](http://getmangos.eu/wiki)  
+
+---
+Proudly brought to you by:
+<br>
+[![getMaNGOS](https://www.getmangos.eu/!assets_mangos/logo.png)](http://getmangos.eu)
 
 We would like to acknowledge the work of the following groups who have helped source some of the translations used:
 
