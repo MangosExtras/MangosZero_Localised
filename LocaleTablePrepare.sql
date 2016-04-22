@@ -9,3 +9,7 @@ INSERT INTO `locales_creature` (`entry`) SELECT `entry` FROM `creature_template`
 
 -- Create the Locales base entries from main table
 INSERT INTO `locales_gameobject` (`entry`) SELECT `entry` FROM `gameobject_template` WHERE `entry` NOT IN (SELECT `entry` FROM `locales_gameobject`);
+
+-- Create the Locales base entries from main table
+INSERT INTO locales_gossip_menu_option (menu_id,id) SELECT menu_id,id FROM gossip_menu_option WHERE gossip_menu_option.menu_id NOT IN (SELECT menu_id FROM locales_gossip_menu_option) AND gossip_menu_option.id NOT IN (SELECT id FROM locales_gossip_menu_option);
+
