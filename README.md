@@ -1,6 +1,6 @@
-# MangosZero Localisation Files
+# MangosZero Localisation Project
 
-This is a culmination of over a years work to generate full localisation files for Mangos.
+This is a culmination of over a years work to generate a full localisation process and files for Mangos.
 
 ### Features
 
@@ -32,6 +32,7 @@ The language pack currently consists of 3 files:
     <Language>_Creature.sql
     <Language>_Items.sql
     <Language>_Gameobject.sql
+    <Language>_GossipMenu.sql
 
 The 3 files ending in `_missing.sql` are entries that need to be translated.
 
@@ -59,10 +60,11 @@ We would like to acknowledge the work of the following groups who have helped so
 * MA-WOWEE (Spanish database project)
 * UDBFR (French Database Project)
 
-Not to mention a number of people from the Mangos Community who have summitted corrections and updates:
+Not to mention a number of people from the Mangos Community who have submitted corrections and updates:
 
 * mpfans
 * talendrys
 * salja
 * AzoG
 * D3thw0lf
+* bdebaere
