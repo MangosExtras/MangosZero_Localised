@@ -1,3 +1,5 @@
+UPDATE locales_creature set name_loc2='Repère de Balisage',subname_loc2='Depiction MJ' where entry=1;
+UPDATE locales_creature set name_loc2='Point d\'apparition',subname_loc2='Depiction MJ' where entry=2;
 UPDATE locales_creature set name_loc2='Dévoreur',subname_loc2='' where entry=3;
 UPDATE locales_creature set name_loc2='Vermine kobold',subname_loc2='' where entry=6;
 UPDATE locales_creature set name_loc2='Araignée forestière',subname_loc2='' where entry=30;
@@ -2444,6 +2446,7 @@ UPDATE locales_creature set name_loc2='Morgan Ladimore',subname_loc2='' where en
 UPDATE locales_creature set name_loc2='Maître Vornal',subname_loc2='' where entry=3304;
 UPDATE locales_creature set name_loc2='Grisha',subname_loc2='Maître des coursiers du vent' where entry=3305;
 UPDATE locales_creature set name_loc2='Keldas',subname_loc2='Maître des familiers' where entry=3306;
+UPDATE locales_creature set name_loc2='Karus',subname_loc2='Banquier' where entry=3309;
 UPDATE locales_creature set name_loc2='Doras',subname_loc2='Maître des coursiers du vent' where entry=3310;
 UPDATE locales_creature set name_loc2='Olvia',subname_loc2='Marchande de viande' where entry=3312;
 UPDATE locales_creature set name_loc2='Trak\'gen',subname_loc2='Fournitures générales' where entry=3313;
@@ -2451,7 +2454,9 @@ UPDATE locales_creature set name_loc2='Urtharo',subname_loc2='Marchand d\'armes'
 UPDATE locales_creature set name_loc2='Tor\'phan',subname_loc2='Marchand d\'armures en étoffe & en cuir' where entry=3315;
 UPDATE locales_creature set name_loc2='Handor',subname_loc2='Marchand d\'armures en étoffe & en cuir' where entry=3316;
 UPDATE locales_creature set name_loc2='Ollanus',subname_loc2='Marchand d\'armures en étoffe' where entry=3317;
+UPDATE locales_creature set name_loc2='Koma',subname_loc2='Banquier' where entry=3318;
 UPDATE locales_creature set name_loc2='Sana',subname_loc2='Marchande de cottes de mailles' where entry=3319;
+UPDATE locales_creature set name_loc2='Soran',subname_loc2='Banquier' where entry=3320;
 UPDATE locales_creature set name_loc2='Morgum',subname_loc2='Marchand d\'armures de cuir' where entry=3321;
 UPDATE locales_creature set name_loc2='Kaja',subname_loc2='Marchande d\'arcs & d\'armes à feu' where entry=3322;
 UPDATE locales_creature set name_loc2='Horthus',subname_loc2='Composants' where entry=3323;
@@ -5123,6 +5128,8 @@ UPDATE locales_creature set name_loc2='Grande chouette cornue',subname_loc2='' w
 UPDATE locales_creature set name_loc2='Chouette blanche',subname_loc2='' where entry=7554;
 UPDATE locales_creature set name_loc2='Chouette-faucon',subname_loc2='' where entry=7555;
 UPDATE locales_creature set name_loc2='Grand-duc',subname_loc2='' where entry=7556;
+UPDATE locales_creature set name_loc2='Lapin à queue blanche',subname_loc2='' where entry=7558;
+UPDATE locales_creature set name_loc2='Lapin tacheté',subname_loc2='' where entry=7559;
 UPDATE locales_creature set name_loc2='Lapin patte-blanche',subname_loc2='' where entry=7560;
 UPDATE locales_creature set name_loc2='Serpent albinos',subname_loc2='' where entry=7561;
 UPDATE locales_creature set name_loc2='Serpent brun',subname_loc2='' where entry=7562;
@@ -5609,6 +5616,7 @@ UPDATE locales_creature set name_loc2='Commissaire-priseur Tolon',subname_loc2='
 UPDATE locales_creature set name_loc2='Commissaire-priseur Chilton',subname_loc2='' where entry=8670;
 UPDATE locales_creature set name_loc2='Commissaire-priseur Latarge',subname_loc2='' where entry=8671;
 UPDATE locales_creature set name_loc2='Commissaire-priseur Leeka',subname_loc2='' where entry=8672;
+UPDATE locales_creature set name_loc2='commissaire-priseur Thathung',subname_loc2='' where entry=8673;
 UPDATE locales_creature set name_loc2='Commissaire-priseur Stampi',subname_loc2='' where entry=8674;
 UPDATE locales_creature set name_loc2='Gangrebête',subname_loc2='' where entry=8675;
 UPDATE locales_creature set name_loc2='Jubie Gadgetaressort',subname_loc2='Fournitures d’ingénieur' where entry=8678;
@@ -5624,6 +5632,7 @@ UPDATE locales_creature set name_loc2='Commissaire-priseur Songerouge',subname_l
 UPDATE locales_creature set name_loc2='Commissaire-priseur Epitwee',subname_loc2='' where entry=8721;
 UPDATE locales_creature set name_loc2='Commissaire-priseur Gullem',subname_loc2='' where entry=8722;
 UPDATE locales_creature set name_loc2='Commissaire-priseur Golothas',subname_loc2='' where entry=8723;
+UPDATE locales_creature set name_loc2='Commissaire-priseur Wabang',subname_loc2='' where entry=8724;
 UPDATE locales_creature set name_loc2='Buzzek Braquéquerre',subname_loc2='Maître des ingénieurs' where entry=8736;
 UPDATE locales_creature set name_loc2='Linken',subname_loc2='' where entry=8737;
 UPDATE locales_creature set name_loc2='Vazario Grasmaillon',subname_loc2='Maître des ingénieurs gobelins' where entry=8738;
@@ -5981,6 +5990,7 @@ UPDATE locales_creature set name_loc2='Tisseur d’effroi main-noire',subname_lo
 UPDATE locales_creature set name_loc2='Invocateur main-noire',subname_loc2='Légion Main-noire' where entry=9818;
 UPDATE locales_creature set name_loc2='Vétéran main-noire',subname_loc2='Légion Main-noire' where entry=9819;
 UPDATE locales_creature set name_loc2='Mathredis Brasétoile',subname_loc2='' where entry=9836;
+UPDATE locales_creature set name_loc2='Commissaire-priseur Grimful',subname_loc2='' where entry=9856;
 UPDATE locales_creature set name_loc2='Commissaire-priseur Grizzlin',subname_loc2='' where entry=9857;
 UPDATE locales_creature set name_loc2='Commissaire-priseur Kresky',subname_loc2='' where entry=9858;
 UPDATE locales_creature set name_loc2='Commissaire-priseur Lympkin',subname_loc2='' where entry=9859;
@@ -8539,6 +8549,7 @@ UPDATE locales_creature set name_loc2='Sergent-chef Maclure',subname_loc2='Recru
 UPDATE locales_creature set name_loc2='Sergent-chef Lunombre',subname_loc2='Recruteuse pour l\'effort de guerre' where entry=15709;
 UPDATE locales_creature set name_loc2='Mini-bonhomme de neige',subname_loc2='' where entry=15710;
 UPDATE locales_creature set name_loc2='Tas de terre',subname_loc2='' where entry=15712;
+UPDATE locales_creature set name_loc2='Char d\'assaut qiraji bleu',subname_loc2='' where entry=15713;
 UPDATE locales_creature set name_loc2='Char d\'assaut qiraji jaune',subname_loc2='' where entry=15714;
 UPDATE locales_creature set name_loc2='Char d\'assaut qiraji vert',subname_loc2='' where entry=15715;
 UPDATE locales_creature set name_loc2='Char d\'assaut qiraji rouge',subname_loc2='' where entry=15716;

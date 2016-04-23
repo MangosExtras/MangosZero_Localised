@@ -181,6 +181,7 @@ UPDATE locales_item set name_loc2='Filière de la taille d\'un poing',descriptio
 UPDATE locales_item set name_loc2='Bâton des horreurs',description_loc2='' where entry=880;
 UPDATE locales_item set name_loc2='Côte de goule',description_loc2='' where entry=884;
 UPDATE locales_item set name_loc2='Hache en métal noir',description_loc2='' where entry=885;
+UPDATE locales_item set name_loc2='Epée courte en métal noir',description_loc2='' where entry=886;
 UPDATE locales_item set name_loc2='Une livre de chair',description_loc2='' where entry=887;
 UPDATE locales_item set name_loc2='Gants de bataille nagas',description_loc2='' where entry=888;
 UPDATE locales_item set name_loc2='Une lettre poussiéreuse',description_loc2='' where entry=889;
@@ -304,6 +305,7 @@ UPDATE locales_item set name_loc2='Hache lupine',description_loc2='' where entry
 UPDATE locales_item set name_loc2='Ecaille ventrale de jeune dragon',description_loc2='' where entry=1221;
 UPDATE locales_item set name_loc2='Bandage en lin',description_loc2='' where entry=1251;
 UPDATE locales_item set name_loc2='Note de Mamie Champierreux',description_loc2='' where entry=1252;
+UPDATE locales_item set name_loc2='Pierre de feu inférieure',description_loc2='' where entry=1254;
 UPDATE locales_item set name_loc2='Feuille de varech cristallin',description_loc2='' where entry=1256;
 UPDATE locales_item set name_loc2='Liqueur d\'invisibilité',description_loc2='' where entry=1257;
 UPDATE locales_item set name_loc2='Tête de Tharil\'zun',description_loc2='' where entry=1260;
@@ -719,6 +721,7 @@ UPDATE locales_item set name_loc2='Hache de guerre en métal noir',description_l
 UPDATE locales_item set name_loc2='Brassards luminescents en cuir',description_loc2='' where entry=2017;
 UPDATE locales_item set name_loc2='Epée longue squelettique',description_loc2='' where entry=2018;
 UPDATE locales_item set name_loc2='Lame griffe-creuse',description_loc2='' where entry=2020;
+UPDATE locales_item set name_loc2='Bouclier Carapace vert',description_loc2='' where entry=2021;
 UPDATE locales_item set name_loc2='Espadon',description_loc2='' where entry=2024;
 UPDATE locales_item set name_loc2='Hache barbue',description_loc2='' where entry=2025;
 UPDATE locales_item set name_loc2='Marteau en pierre',description_loc2='' where entry=2026;
@@ -1203,6 +1206,7 @@ UPDATE locales_item set name_loc2='Lingot de Sancteforge',description_loc2='' wh
 UPDATE locales_item set name_loc2='Caisse de lingots de sancteforge',description_loc2='' where entry=2712;
 UPDATE locales_item set name_loc2='Tête du vieux Noiraud',description_loc2='' where entry=2713;
 UPDATE locales_item set name_loc2='[Monster] - Item, Lantern - Round',description_loc2='' where entry=2715;
+UPDATE locales_item set name_loc2='Petite clé en cuivre',description_loc2='' where entry=2719;
 UPDATE locales_item set name_loc2='Note maculée de boue',description_loc2='' where entry=2720;
 UPDATE locales_item set name_loc2='Voile sacré',description_loc2='' where entry=2721;
 UPDATE locales_item set name_loc2='Bon pour du vin',description_loc2='' where entry=2722;
@@ -1436,6 +1440,7 @@ UPDATE locales_item set name_loc2='Arc renforcé',description_loc2='' where entr
 UPDATE locales_item set name_loc2='Arc lourd à double courbure',description_loc2='' where entry=3027;
 UPDATE locales_item set name_loc2='Flèche rasoir',description_loc2='' where entry=3030;
 UPDATE locales_item set name_loc2='Balle dure',description_loc2='' where entry=3033;
+UPDATE locales_item set name_loc2='Cuirasse glyphée',description_loc2='' where entry=3034;
 UPDATE locales_item set name_loc2='Potiron corsé',description_loc2='' where entry=3035;
 UPDATE locales_item set name_loc2='Arc court lourd',description_loc2='' where entry=3036;
 UPDATE locales_item set name_loc2='Arc à double courbure en bois souple',description_loc2='' where entry=3037;
@@ -1482,6 +1487,7 @@ UPDATE locales_item set name_loc2='Journal d\'Hildelve',description_loc2='' wher
 UPDATE locales_item set name_loc2='Hache de jet lestée brisée',description_loc2='' where entry=3131;
 UPDATE locales_item set name_loc2='Hache de jet aiguisée brisée',description_loc2='' where entry=3135;
 UPDATE locales_item set name_loc2='Hache de jet mortelle brisée',description_loc2='' where entry=3137;
+UPDATE locales_item set name_loc2='Chemise de travailleur',description_loc2='' where entry=3148;
 UPDATE locales_item set name_loc2='Haubergeon de la brigade de siège',description_loc2='' where entry=3151;
 UPDATE locales_item set name_loc2='Gants de pilotage',description_loc2='' where entry=3152;
 UPDATE locales_item set name_loc2='Cape tachée d\'huile',description_loc2='' where entry=3153;
@@ -1550,6 +1556,7 @@ UPDATE locales_item set name_loc2='Boudin',description_loc2='' where entry=3220;
 UPDATE locales_item set name_loc2='Sceptre crins-de-givre',description_loc2='' where entry=3223;
 UPDATE locales_item set name_loc2='Brassards bordés d\'argent',description_loc2='' where entry=3224;
 UPDATE locales_item set name_loc2='Couteau taché de sang',description_loc2='' where entry=3225;
+UPDATE locales_item set name_loc2='Bâton plaie-de-nuit',description_loc2='' where entry=3227;
 UPDATE locales_item set name_loc2='Menottes forcées',description_loc2='' where entry=3228;
 UPDATE locales_item set name_loc2='Echarpe en soie de Tarentule',description_loc2='' where entry=3229;
 UPDATE locales_item set name_loc2='Brassards du loup noir',description_loc2='' where entry=3230;
@@ -1754,6 +1761,7 @@ UPDATE locales_item set name_loc2='Etoile d\'argent brisée',description_loc2=''
 UPDATE locales_item set name_loc2='Flèche ornée de plumes',description_loc2='' where entry=3464;
 UPDATE locales_item set name_loc2='Balle explosive',description_loc2='' where entry=3465;
 UPDATE locales_item set name_loc2='Catalyseur puissant',description_loc2='' where entry=3466;
+UPDATE locales_item set name_loc2='Clé en fer terne',description_loc2='' where entry=3467;
 UPDATE locales_item set name_loc2='Les découvertes de Renferrel',description_loc2='' where entry=3468;
 UPDATE locales_item set name_loc2='Bottes en anneaux de cuivre',description_loc2='' where entry=3469;
 UPDATE locales_item set name_loc2='Silex à aiguiser brut',description_loc2='' where entry=3470;
@@ -1783,6 +1791,7 @@ UPDATE locales_item set name_loc2='Elixir de souffrance',description_loc2='' whe
 UPDATE locales_item set name_loc2='Sang de lion des montagnes',description_loc2='' where entry=3496;
 UPDATE locales_item set name_loc2='Elixir de douleur',description_loc2='' where entry=3497;
 UPDATE locales_item set name_loc2='Collier de Taretha',description_loc2='' where entry=3498;
+UPDATE locales_item set name_loc2='Clé en or bruni',description_loc2='' where entry=3499;
 UPDATE locales_item set name_loc2='Fleur de fangemufle',description_loc2='' where entry=3502;
 UPDATE locales_item set name_loc2='Chevalière d\'Alterac',description_loc2='' where entry=3505;
 UPDATE locales_item set name_loc2='Poudre de fangemufle',description_loc2='' where entry=3506;
@@ -1933,6 +1942,7 @@ UPDATE locales_item set name_loc2='Epée d\'Humbert',description_loc2='' where e
 UPDATE locales_item set name_loc2='Recommandation portant le sceau de Darthalia',description_loc2='' where entry=3701;
 UPDATE locales_item set name_loc2='Vésicule biliaire d\'ours',description_loc2='' where entry=3702;
 UPDATE locales_item set name_loc2='Bière brune d’Austrivage',description_loc2='' where entry=3703;
+UPDATE locales_item set name_loc2='Clé rouillée en fer',description_loc2='' where entry=3704;
 UPDATE locales_item set name_loc2='Parchemin ensorcelé',description_loc2='' where entry=3706;
 UPDATE locales_item set name_loc2='Bâtonnet d\'Helcular',description_loc2='' where entry=3708;
 UPDATE locales_item set name_loc2='Bâtonnet d\'Helcular',description_loc2='' where entry=3710;
@@ -2128,6 +2138,7 @@ UPDATE locales_item set name_loc2='Longue-vue dorée de Jon-Jon',description_loc
 UPDATE locales_item set name_loc2='Grand anneau de Chucky',description_loc2='' where entry=3926;
 UPDATE locales_item set name_loc2='Cheddar affiné',description_loc2='' where entry=3927;
 UPDATE locales_item set name_loc2='Potion de soins excellente',description_loc2='' where entry=3928;
+UPDATE locales_item set name_loc2='Clé de Maury',description_loc2='' where entry=3930;
 UPDATE locales_item set name_loc2='Croc d\'araignée empoisonné',description_loc2='' where entry=3931;
 UPDATE locales_item set name_loc2='Coffre de Smotts',description_loc2='' where entry=3932;
 UPDATE locales_item set name_loc2='Sabre d\'abordage de Smotts',description_loc2='' where entry=3935;
@@ -2872,6 +2883,7 @@ UPDATE locales_item set name_loc2='Arc brisé taché de sang',description_loc2='
 UPDATE locales_item set name_loc2='Carcasse de lapin écrasé',description_loc2='' where entry=4879;
 UPDATE locales_item set name_loc2='Lance brisée',description_loc2='' where entry=4880;
 UPDATE locales_item set name_loc2='Vieille enveloppe',description_loc2='' where entry=4881;
+UPDATE locales_item set name_loc2='Clé de Benedict',description_loc2='' where entry=4882;
 UPDATE locales_item set name_loc2='Ordres de l\'amiral Portvaillant',description_loc2='' where entry=4883;
 UPDATE locales_item set name_loc2='Glande à venin de queue-venin',description_loc2='' where entry=4886;
 UPDATE locales_item set name_loc2='Oeil de makrura intact',description_loc2='' where entry=4887;
@@ -2964,6 +2976,7 @@ UPDATE locales_item set name_loc2='Volonté d\'Azora',description_loc2='' where 
 UPDATE locales_item set name_loc2='Anneau du cœur',description_loc2='' where entry=5001;
 UPDATE locales_item set name_loc2='Talisman vert luminescent',description_loc2='' where entry=5002;
 UPDATE locales_item set name_loc2='Médaillon de l\'étoile de cristal',description_loc2='' where entry=5003;
+UPDATE locales_item set name_loc2='Pendentif braisétincelle',description_loc2='' where entry=5005;
 UPDATE locales_item set name_loc2='Journal de Khazgorm',description_loc2='' where entry=5006;
 UPDATE locales_item set name_loc2='Bague d\'épines',description_loc2='' where entry=5007;
 UPDATE locales_item set name_loc2='Jonc d\'influence mentale',description_loc2='' where entry=5009;
@@ -3040,6 +3053,7 @@ UPDATE locales_item set name_loc2='Croc d\'Ishamuhale',description_loc2='' where
 UPDATE locales_item set name_loc2='Epine caudale d\'Owatanka',description_loc2='' where entry=5102;
 UPDATE locales_item set name_loc2='Plume de Washte Pawne',description_loc2='' where entry=5103;
 UPDATE locales_item set name_loc2='Cœur d\'Isha Awak',description_loc2='' where entry=5104;
+UPDATE locales_item set name_loc2='Obus explosif',description_loc2='' where entry=5105;
 UPDATE locales_item set name_loc2='Chemise de matelot',description_loc2='' where entry=5107;
 UPDATE locales_item set name_loc2='Haillons brisepierre',description_loc2='' where entry=5109;
 UPDATE locales_item set name_loc2='Robe de sorcier de Dalaran',description_loc2='' where entry=5110;
@@ -3122,6 +3136,7 @@ UPDATE locales_item set name_loc2='Cœur de sylvain purifié',description_loc2='
 UPDATE locales_item set name_loc2='Ecorce gravée',description_loc2='' where entry=5219;
 UPDATE locales_item set name_loc2='Croc de Pin-tordu',description_loc2='' where entry=5220;
 UPDATE locales_item set name_loc2='Tête de Melenas',description_loc2='' where entry=5221;
+UPDATE locales_item set name_loc2='Brassards cousus main en cuir',description_loc2='' where entry=5229;
 UPDATE locales_item set name_loc2='Pierre d\'âme',description_loc2='' where entry=5232;
 UPDATE locales_item set name_loc2='Pierre de Relu',description_loc2='' where entry=5233;
 UPDATE locales_item set name_loc2='Fossile d\'Outrepanse',description_loc2='' where entry=5234;
@@ -3237,6 +3252,8 @@ UPDATE locales_item set name_loc2='Dague du bois-chardon',description_loc2='' wh
 UPDATE locales_item set name_loc2='Bâton du bois-chardon',description_loc2='' where entry=5393;
 UPDATE locales_item set name_loc2='Gants d\'entraînement d\'archer',description_loc2='' where entry=5394;
 UPDATE locales_item set name_loc2='Bouclier forestier',description_loc2='' where entry=5395;
+UPDATE locales_item set name_loc2='Clé de la gorge des Vents brûlants',description_loc2='' where entry=5396;
+UPDATE locales_item set name_loc2='Poudre à canon des Défias',description_loc2='' where entry=5397;
 UPDATE locales_item set name_loc2='Jambières de la canopée',description_loc2='' where entry=5398;
 UPDATE locales_item set name_loc2='Bottes de pistage',description_loc2='' where entry=5399;
 UPDATE locales_item set name_loc2='Epaulières ophidiennes',description_loc2='' where entry=5404;
@@ -3330,9 +3347,12 @@ UPDATE locales_item set name_loc2='Pierre de soins',description_loc2='' where en
 UPDATE locales_item set name_loc2='Jade de mana',description_loc2='' where entry=5513;
 UPDATE locales_item set name_loc2='Agate de mana',description_loc2='' where entry=5514;
 UPDATE locales_item set name_loc2='Croc de battrodon',description_loc2='' where entry=5516;
+UPDATE locales_item set name_loc2='Petite clé en bronze',description_loc2='Composant pour les sorts de mage.' where entry=5517;
+UPDATE locales_item set name_loc2='Petite clé en fer',description_loc2='Composant pour les sorts de mage.' where entry=5518;
 UPDATE locales_item set name_loc2='Pommeau en fer',description_loc2='' where entry=5519;
 UPDATE locales_item set name_loc2='Journal de Velinde',description_loc2='' where entry=5520;
 UPDATE locales_item set name_loc2='Clé de Velinde',description_loc2='' where entry=5521;
+UPDATE locales_item set name_loc2='Pierre de sort',description_loc2='' where entry=5522;
 UPDATE locales_item set name_loc2='Petite palourde spiralée',description_loc2='' where entry=5523;
 UPDATE locales_item set name_loc2='Palourde à coque épaisse',description_loc2='' where entry=5524;
 UPDATE locales_item set name_loc2='Palourdes bouillies',description_loc2='' where entry=5525;
@@ -3723,6 +3743,8 @@ UPDATE locales_item set name_loc2='Cargaison de Rempart-du-Néant',description_l
 UPDATE locales_item set name_loc2='Cape de corsaire',description_loc2='' where entry=6179;
 UPDATE locales_item set name_loc2='Peau de Slark',description_loc2='' where entry=6180;
 UPDATE locales_item set name_loc2='Fétiche d\'Hakkar',description_loc2='' where entry=6181;
+UPDATE locales_item set name_loc2='Torche faible',description_loc2='' where entry=6182;
+UPDATE locales_item set name_loc2='Torche éteint pauvre',description_loc2='' where entry=6183;
 UPDATE locales_item set name_loc2='Patte de clampant monstrueux',description_loc2='' where entry=6184;
 UPDATE locales_item set name_loc2='Châle de l\'ours',description_loc2='' where entry=6185;
 UPDATE locales_item set name_loc2='Tranchoir de trogg',description_loc2='' where entry=6186;
@@ -3801,6 +3823,7 @@ UPDATE locales_item set name_loc2='Goujon brillant cru',description_loc2='' wher
 UPDATE locales_item set name_loc2='Lutjan de 10 livres',description_loc2='' where entry=6292;
 UPDATE locales_item set name_loc2='Sang séché de chauve-souris',description_loc2='' where entry=6293;
 UPDATE locales_item set name_loc2='Lutjan de 12 livres',description_loc2='' where entry=6294;
+UPDATE locales_item set name_loc2='Lutjan de 15 livres',description_loc2='' where entry=6295;
 UPDATE locales_item set name_loc2='Poils de chauve-souris',description_loc2='' where entry=6296;
 UPDATE locales_item set name_loc2='Vieux crâne',description_loc2='' where entry=6297;
 UPDATE locales_item set name_loc2='Croc sanglant de chauve-souris',description_loc2='' where entry=6298;
@@ -4810,6 +4833,7 @@ UPDATE locales_item set name_loc2='Gantelets lourds en mithril',description_loc2
 UPDATE locales_item set name_loc2='Pantalon en écailles de mithril',description_loc2='' where entry=7920;
 UPDATE locales_item set name_loc2='Pantalon lourd en mithril',description_loc2='' where entry=7921;
 UPDATE locales_item set name_loc2='Heaume en plaques d\'acier',description_loc2='' where entry=7922;
+UPDATE locales_item set name_loc2='Clé de la tour défias',description_loc2='' where entry=7923;
 UPDATE locales_item set name_loc2='Brassards en écailles de mithril',description_loc2='' where entry=7924;
 UPDATE locales_item set name_loc2='Pantalon orné en mithril',description_loc2='' where entry=7926;
 UPDATE locales_item set name_loc2='Gants ornés en mithril',description_loc2='' where entry=7927;
@@ -4893,6 +4917,7 @@ UPDATE locales_item set name_loc2='Balle lourde fabriquée',description_loc2='' 
 UPDATE locales_item set name_loc2='Balle dure fabriquée',description_loc2='' where entry=8069;
 UPDATE locales_item set name_loc2='Bon de récompense',description_loc2='' where entry=8070;
 UPDATE locales_item set name_loc2='Badine grésillante',description_loc2='' where entry=8071;
+UPDATE locales_item set name_loc2='Clé de la tour de Silixiz',description_loc2='' where entry=8072;
 UPDATE locales_item set name_loc2='Cache de mixture altérée de Zanzil',description_loc2='' where entry=8073;
 UPDATE locales_item set name_loc2='Tête de Bisbiwix',description_loc2='' where entry=8074;
 UPDATE locales_item set name_loc2='Pain de route invoqué',description_loc2='' where entry=8075;
@@ -4971,6 +4996,7 @@ UPDATE locales_item set name_loc2='Grèves de jouteur',description_loc2='' where
 UPDATE locales_item set name_loc2='Visière de jouteur',description_loc2='' where entry=8161;
 UPDATE locales_item set name_loc2='Cuissards de jouteur',description_loc2='' where entry=8162;
 UPDATE locales_item set name_loc2='Espauliers de jouteur',description_loc2='' where entry=8163;
+UPDATE locales_item set name_loc2='Test Stationnaire',description_loc2='' where entry=8164;
 UPDATE locales_item set name_loc2='Ecaille de dragon usée',description_loc2='' where entry=8165;
 UPDATE locales_item set name_loc2='Ecaille de tortue',description_loc2='' where entry=8167;
 UPDATE locales_item set name_loc2='Plume noire',description_loc2='' where entry=8168;
@@ -5206,6 +5232,7 @@ UPDATE locales_item set name_loc2='Balise de détresse OOX-17/TN',description_lo
 UPDATE locales_item set name_loc2='Cierge magique rouge',description_loc2='' where entry=8624;
 UPDATE locales_item set name_loc2='Cierge magique blanc',description_loc2='' where entry=8625;
 UPDATE locales_item set name_loc2='Cierge magique bleu',description_loc2='' where entry=8626;
+UPDATE locales_item set name_loc2='Rênes de sabre-de-nuit tacheté',description_loc2='' where entry=8628;
 UPDATE locales_item set name_loc2='Rênes de sabre-de-nuit rayé',description_loc2='' where entry=8629;
 UPDATE locales_item set name_loc2='Rênes de sabre-de-givre rayé',description_loc2='' where entry=8631;
 UPDATE locales_item set name_loc2='Rênes de sabre-de-givre tacheté',description_loc2='' where entry=8632;
@@ -5261,6 +5288,7 @@ UPDATE locales_item set name_loc2='Bananes frites',description_loc2='' where ent
 UPDATE locales_item set name_loc2='Huile d\'immolation',description_loc2='' where entry=8956;
 UPDATE locales_item set name_loc2='Flétan épineux',description_loc2='' where entry=8957;
 UPDATE locales_item set name_loc2='Flétan épineux cru',description_loc2='' where entry=8959;
+UPDATE locales_item set name_loc2='Codex de Soins rapides',description_loc2='' where entry=8964;
 UPDATE locales_item set name_loc2='Peau de yéti épaisse',description_loc2='' where entry=8973;
 UPDATE locales_item set name_loc2='Poison mortel',description_loc2='' where entry=8984;
 UPDATE locales_item set name_loc2='Poison mortel',description_loc2='' where entry=8985;
@@ -5342,6 +5370,7 @@ UPDATE locales_item set name_loc2='Recette : Potion d\'invisibilité',descripti
 UPDATE locales_item set name_loc2='Recette : Don d\'Arthas',description_loc2='' where entry=9296;
 UPDATE locales_item set name_loc2='Recette : Elixir de vision de rêve',description_loc2='' where entry=9297;
 UPDATE locales_item set name_loc2='Recette : Elixir des géants',description_loc2='' where entry=9298;
+UPDATE locales_item set name_loc2='Combinaison du coffre de Thermojoncteur',description_loc2='' where entry=9299;
 UPDATE locales_item set name_loc2='Recette : Elixir de tueur de démon',description_loc2='' where entry=9300;
 UPDATE locales_item set name_loc2='Recette : Elixir de puissance de l\'Ombre',description_loc2='' where entry=9301;
 UPDATE locales_item set name_loc2='Recette : Teinture fantôme',description_loc2='' where entry=9302;
@@ -5352,6 +5381,7 @@ UPDATE locales_item set name_loc2='Bâton d\'Equinex',description_loc2='' where 
 UPDATE locales_item set name_loc2='Une pierre étincelante',description_loc2='' where entry=9307;
 UPDATE locales_item set name_loc2='Objet sali',description_loc2='' where entry=9308;
 UPDATE locales_item set name_loc2='Entrailles mécaniques de robot',description_loc2='' where entry=9309;
+UPDATE locales_item set name_loc2='Stationnaire par défaut',description_loc2='' where entry=9311;
 UPDATE locales_item set name_loc2='Feu d\'artifice bleu',description_loc2='' where entry=9312;
 UPDATE locales_item set name_loc2='Feu d\'artifice vert',description_loc2='' where entry=9313;
 UPDATE locales_item set name_loc2='Bouquet de feux d\'artifice rouges',description_loc2='' where entry=9314;
@@ -5502,6 +5532,7 @@ UPDATE locales_item set name_loc2='Vibrolame',description_loc2='' where entry=94
 UPDATE locales_item set name_loc2='Hache d\'armes renforcée',description_loc2='' where entry=9486;
 UPDATE locales_item set name_loc2='Super-fusil high-tech',description_loc2='' where entry=9487;
 UPDATE locales_item set name_loc2='Marteau oscillant',description_loc2='' where entry=9488;
+UPDATE locales_item set name_loc2='Glacificateur gyromatique',description_loc2='' where entry=9489;
 UPDATE locales_item set name_loc2='Couperet bidulotronique',description_loc2='' where entry=9490;
 UPDATE locales_item set name_loc2='Gants de l\'as des as',description_loc2='' where entry=9491;
 UPDATE locales_item set name_loc2='Réactivateur de gigaflux électromagnétique',description_loc2='' where entry=9492;
@@ -5563,6 +5594,7 @@ UPDATE locales_item set name_loc2='Parchemin runique',description_loc2='' where 
 UPDATE locales_item set name_loc2='Parchemin béni',description_loc2='' where entry=9569;
 UPDATE locales_item set name_loc2='Lettre consacrée',description_loc2='' where entry=9570;
 UPDATE locales_item set name_loc2='Lettre glyphée',description_loc2='' where entry=9571;
+UPDATE locales_item set name_loc2='Rune glyphé',description_loc2='' where entry=9572;
 UPDATE locales_item set name_loc2='Note de service glyphée',description_loc2='' where entry=9573;
 UPDATE locales_item set name_loc2='Rouleau glyphé',description_loc2='' where entry=9574;
 UPDATE locales_item set name_loc2='Tablette glyphée',description_loc2='' where entry=9575;
@@ -6277,6 +6309,7 @@ UPDATE locales_item set name_loc2='Une bourse rebondie',description_loc2='' wher
 UPDATE locales_item set name_loc2='Coquille d\'escargot de mer vide',description_loc2='' where entry=10457;
 UPDATE locales_item set name_loc2='Prière à Élune',description_loc2='' where entry=10458;
 UPDATE locales_item set name_loc2='Tête du chef Brochaigu Mantépine',description_loc2='' where entry=10459;
+UPDATE locales_item set name_loc2='Sang hakkari',description_loc2='' where entry=10460;
 UPDATE locales_item set name_loc2='Brassards des ténèbres',description_loc2='' where entry=10461;
 UPDATE locales_item set name_loc2='Ceinture des ténèbres',description_loc2='' where entry=10462;
 UPDATE locales_item set name_loc2='Patron : Masque en tisse-ombre',description_loc2='' where entry=10463;
@@ -6475,6 +6508,7 @@ UPDATE locales_item set name_loc2='Coffre incrusté d\'émeraudes',description_l
 UPDATE locales_item set name_loc2='Amulette de Grol',description_loc2='' where entry=10753;
 UPDATE locales_item set name_loc2='Amulette de Sevine',description_loc2='' where entry=10754;
 UPDATE locales_item set name_loc2='Amulette d\'Allistarj',description_loc2='' where entry=10755;
+UPDATE locales_item set name_loc2='Amulette du Souilleur',description_loc2='L\'amulette complète de Rakh\'likh.' where entry=10757;
 UPDATE locales_item set name_loc2='X\'calibhure',description_loc2='' where entry=10758;
 UPDATE locales_item set name_loc2='Corne brisée du Souilleur',description_loc2='' where entry=10759;
 UPDATE locales_item set name_loc2='Poings du pourceau',description_loc2='' where entry=10760;
@@ -6569,6 +6603,7 @@ UPDATE locales_item set name_loc2='Sac en peau de démon',description_loc2='' wh
 UPDATE locales_item set name_loc2='Petit éclat scintillant',description_loc2='' where entry=10978;
 UPDATE locales_item set name_loc2='Essence astrale inférieure',description_loc2='' where entry=10998;
 UPDATE locales_item set name_loc2='Souillefer',description_loc2='' where entry=10999;
+UPDATE locales_item set name_loc2='Clé ombreforge',description_loc2='Clé principale des Profondeurs, avec l\'aimable autorisation de F.F.F.' where entry=11000;
 UPDATE locales_item set name_loc2='Humus d\'Un\'Goro',description_loc2='' where entry=11018;
 UPDATE locales_item set name_loc2='Sacoche de printemps',description_loc2='' where entry=11020;
 UPDATE locales_item set name_loc2='Pochette de graines de Tharlendris',description_loc2='' where entry=11022;
@@ -6581,6 +6616,7 @@ UPDATE locales_item set name_loc2='Formule : Enchantement de cape (Agilité min
 UPDATE locales_item set name_loc2='Fibre d\'aurore',description_loc2='' where entry=11040;
 UPDATE locales_item set name_loc2='Anneau de nez de Sha\'ni',description_loc2='' where entry=11058;
 UPDATE locales_item set name_loc2='Clé du coffret à relique',description_loc2='' where entry=11078;
+UPDATE locales_item set name_loc2='Tête coupée de Gor\'tesh',description_loc2='La tête de Gor\'tesh empalée sur une pique.' where entry=11079;
 UPDATE locales_item set name_loc2='Tête coupée de Gor\'tesh',description_loc2='' where entry=11080;
 UPDATE locales_item set name_loc2='Formule : Enchantement de bouclier (Protection inférieure)',description_loc2='' where entry=11081;
 UPDATE locales_item set name_loc2='Essence astrale supérieure',description_loc2='' where entry=11082;
@@ -7154,6 +7190,7 @@ UPDATE locales_item set name_loc2='Cape de l\'hélionaute',description_loc2='' w
 UPDATE locales_item set name_loc2='Gants tombe-nuit',description_loc2='' where entry=12114;
 UPDATE locales_item set name_loc2='Etreinte infrangible',description_loc2='' where entry=12115;
 UPDATE locales_item set name_loc2='Camelote de Kum\'isha',description_loc2='' where entry=12122;
+UPDATE locales_item set name_loc2='Oeufilloscope',description_loc2='' where entry=12144;
 UPDATE locales_item set name_loc2='Plans : Epée courte en fer trempé',description_loc2='' where entry=12162;
 UPDATE locales_item set name_loc2='Plans : Epée large en acier lunaire',description_loc2='' where entry=12163;
 UPDATE locales_item set name_loc2='Plans : Hache massive en fer',description_loc2='' where entry=12164;
@@ -7232,6 +7269,7 @@ UPDATE locales_item set name_loc2='Jambières de la milice du peuple',descriptio
 UPDATE locales_item set name_loc2='Cierge de la milice du peuple',description_loc2='' where entry=12296;
 UPDATE locales_item set name_loc2='Gants toilés',description_loc2='' where entry=12299;
 UPDATE locales_item set name_loc2='Orbe d\'énergie draconique',description_loc2='' where entry=12300;
+UPDATE locales_item set name_loc2='Clé de la cage en bambou',description_loc2='' where entry=12301;
 UPDATE locales_item set name_loc2='Rênes d\'ancien sabre-de-givre',description_loc2='' where entry=12302;
 UPDATE locales_item set name_loc2='Rênes de sabre-de-nuit',description_loc2='' where entry=12303;
 UPDATE locales_item set name_loc2='Sceau d\'ascension brut',description_loc2='' where entry=12323;
@@ -7273,6 +7311,7 @@ UPDATE locales_item set name_loc2='Gambit d\'Alexi',description_loc2='' where en
 UPDATE locales_item set name_loc2='Clé de la ville',description_loc2='' where entry=12382;
 UPDATE locales_item set name_loc2='Plume de chouettard lunaire',description_loc2='' where entry=12383;
 UPDATE locales_item set name_loc2='Cache de Mau\'ari',description_loc2='' where entry=12384;
+UPDATE locales_item set name_loc2='Martelet du juge',description_loc2='' where entry=12400;
 UPDATE locales_item set name_loc2='Oeuf antique',description_loc2='' where entry=12402;
 UPDATE locales_item set name_loc2='Pierre à aiguiser dense',description_loc2='' where entry=12404;
 UPDATE locales_item set name_loc2='Armure en thorium',description_loc2='' where entry=12405;
@@ -7587,6 +7626,7 @@ UPDATE locales_item set name_loc2='Devoir sacré de Dal\'Rend',description_loc2=
 UPDATE locales_item set name_loc2='Clé de la cage de la panthère',description_loc2='' where entry=12942;
 UPDATE locales_item set name_loc2='Cuissards du duelliste chromatique',description_loc2='' where entry=12945;
 UPDATE locales_item set name_loc2='Hypercapaciteur bidulotron',description_loc2='' where entry=12946;
+UPDATE locales_item set name_loc2='Anneau d\'audace d\'Alex',description_loc2='A l\'air bien. Moins substantiel.' where entry=12947;
 UPDATE locales_item set name_loc2='Crâne de Gyth',description_loc2='' where entry=12952;
 UPDATE locales_item set name_loc2='Camail œil-de-dragon',description_loc2='' where entry=12953;
 UPDATE locales_item set name_loc2='Libram de Davil',description_loc2='' where entry=12954;
@@ -7686,6 +7726,7 @@ UPDATE locales_item set name_loc2='L\'Aiguillonneur',description_loc2='' where e
 UPDATE locales_item set name_loc2='Tonnebois',description_loc2='' where entry=13062;
 UPDATE locales_item set name_loc2='Météorique',description_loc2='' where entry=13063;
 UPDATE locales_item set name_loc2='Boute-flammes de Jaina',description_loc2='' where entry=13064;
+UPDATE locales_item set name_loc2='Baguette d\'Allistarj',description_loc2='' where entry=13065;
 UPDATE locales_item set name_loc2='Spallières de tueur de wyrm',description_loc2='' where entry=13066;
 UPDATE locales_item set name_loc2='Armure hydralique',description_loc2='' where entry=13067;
 UPDATE locales_item set name_loc2='Grèves en obsidienne',description_loc2='' where entry=13068;
@@ -7846,6 +7887,12 @@ UPDATE locales_item set name_loc2='Transperçante',description_loc2='' where ent
 UPDATE locales_item set name_loc2='Patron : Harnais en peau de raptor',description_loc2='' where entry=13287;
 UPDATE locales_item set name_loc2='Patron : Ceinture en peau de raptor',description_loc2='' where entry=13288;
 UPDATE locales_item set name_loc2='Pétoire d\'Egan',description_loc2='' where entry=13289;
+UPDATE locales_item set name_loc2='Clé de la boîte aux lettres de l\'allée du Marché',description_loc2='' where entry=13302;
+UPDATE locales_item set name_loc2='Clé de la boîte aux lettres de la place des Croisés',description_loc2='' where entry=13303;
+UPDATE locales_item set name_loc2='Clé de la boîte aux lettres de l\'allée du Festival',description_loc2='' where entry=13304;
+UPDATE locales_item set name_loc2='Clé de la boîte aux lettres de la place des Anciens',description_loc2='' where entry=13305;
+UPDATE locales_item set name_loc2='Clé de la boîte aux lettres de la place du Roi',description_loc2='' where entry=13306;
+UPDATE locales_item set name_loc2='Clé de la boîte aux lettres de Fras Siabi',description_loc2='' where entry=13307;
 UPDATE locales_item set name_loc2='Schéma : Pare-glace',description_loc2='' where entry=13308;
 UPDATE locales_item set name_loc2='Schéma : Espingole amoureusement construite',description_loc2='' where entry=13309;
 UPDATE locales_item set name_loc2='Schéma : Lunette de précision',description_loc2='' where entry=13310;
@@ -8031,10 +8078,16 @@ UPDATE locales_item set name_loc2='Laisse de zergling',description_loc2='' where
 UPDATE locales_item set name_loc2='Collier de panda',description_loc2='' where entry=13583;
 UPDATE locales_item set name_loc2='Pierre de Diablo',description_loc2='' where entry=13584;
 UPDATE locales_item set name_loc2='Livre du souvenir',description_loc2='' where entry=13585;
+UPDATE locales_item set name_loc2='Pierre de sort supérieure',description_loc2='' where entry=13602;
+UPDATE locales_item set name_loc2='Pierre de sort majeure',description_loc2='' where entry=13603;
 UPDATE locales_item set name_loc2='Souvenir lié',description_loc2='' where entry=13624;
 UPDATE locales_item set name_loc2='Tête humaine de Ras Murmegivre',description_loc2='' where entry=13626;
+UPDATE locales_item set name_loc2='Pierre de feu',description_loc2='' where entry=13699;
+UPDATE locales_item set name_loc2='Pierre de feu supérieure',description_loc2='' where entry=13700;
+UPDATE locales_item set name_loc2='Pierre de feu majeure',description_loc2='' where entry=13701;
 UPDATE locales_item set name_loc2='Herbe maléfique',description_loc2='' where entry=13702;
 UPDATE locales_item set name_loc2='Os de kodo',description_loc2='' where entry=13703;
+UPDATE locales_item set name_loc2='Clé squelette',description_loc2='' where entry=13704;
 UPDATE locales_item set name_loc2='Biscuit de manne enrichi',description_loc2='' where entry=13724;
 UPDATE locales_item set name_loc2='Sac des horreurs de Krastinov',description_loc2='' where entry=13725;
 UPDATE locales_item set name_loc2='Souvenir lié',description_loc2='' where entry=13752;
@@ -8077,6 +8130,7 @@ UPDATE locales_item set name_loc2='Tunique en tisse-givre',description_loc2='' w
 UPDATE locales_item set name_loc2='Gants en tisse-givre',description_loc2='' where entry=13870;
 UPDATE locales_item set name_loc2='Pantalon en tisse-givre',description_loc2='' where entry=13871;
 UPDATE locales_item set name_loc2='Fagot de bois',description_loc2='' where entry=13872;
+UPDATE locales_item set name_loc2='Clé de la Chambre des visions',description_loc2='' where entry=13873;
 UPDATE locales_item set name_loc2='Caisse lourde',description_loc2='' where entry=13874;
 UPDATE locales_item set name_loc2='Coffre à fermetures en fer',description_loc2='' where entry=13875;
 UPDATE locales_item set name_loc2='Mérou de 40 livres',description_loc2='' where entry=13876;
@@ -8194,9 +8248,11 @@ UPDATE locales_item set name_loc2='Gilet indigène',description_loc2='' where en
 UPDATE locales_item set name_loc2='Pantalon indigène',description_loc2='' where entry=14097;
 UPDATE locales_item set name_loc2='Cape indigène',description_loc2='' where entry=14098;
 UPDATE locales_item set name_loc2='Echarpe indigène',description_loc2='' where entry=14099;
+UPDATE locales_item set name_loc2='Robe en étoffe lumineuse',description_loc2='' where entry=14100;
 UPDATE locales_item set name_loc2='Gants en étoffe lumineuse',description_loc2='' where entry=14101;
 UPDATE locales_item set name_loc2='Protège-mains indigènes',description_loc2='' where entry=14102;
 UPDATE locales_item set name_loc2='Cape en étoffe lumineuse',description_loc2='' where entry=14103;
+UPDATE locales_item set name_loc2='Pantalon en étoffe lumineuse',description_loc2='' where entry=14104;
 UPDATE locales_item set name_loc2='Robe en gangrétoffe',description_loc2='' where entry=14106;
 UPDATE locales_item set name_loc2='Pantalon en gangrétoffe',description_loc2='' where entry=14107;
 UPDATE locales_item set name_loc2='Bottes en gangrétoffe',description_loc2='' where entry=14108;
@@ -8972,6 +9028,7 @@ UPDATE locales_item set name_loc2='Cuirasse en écailles de dragon noir',descrip
 UPDATE locales_item set name_loc2='Epaulières en écailles de dragon noir',description_loc2='' where entry=15051;
 UPDATE locales_item set name_loc2='Jambières en écailles de dragon noir',description_loc2='' where entry=15052;
 UPDATE locales_item set name_loc2='Cuirasse volcanique',description_loc2='' where entry=15053;
+UPDATE locales_item set name_loc2='Jambières volcaniques',description_loc2='' where entry=15054;
 UPDATE locales_item set name_loc2='Epaulières volcaniques',description_loc2='' where entry=15055;
 UPDATE locales_item set name_loc2='Armure tempétueuse',description_loc2='' where entry=15056;
 UPDATE locales_item set name_loc2='Pantalon tempétueux',description_loc2='' where entry=15057;
@@ -8985,7 +9042,14 @@ UPDATE locales_item set name_loc2='Harnais de l\'ours de guerre',description_loc
 UPDATE locales_item set name_loc2='Haut-de-chausses de l\'ours de guerre',description_loc2='' where entry=15065;
 UPDATE locales_item set name_loc2='Cuirasse en plumacier',description_loc2='' where entry=15066;
 UPDATE locales_item set name_loc2='Epaulières en plumacier',description_loc2='' where entry=15067;
+UPDATE locales_item set name_loc2='Tunique de sabre-de-givre',description_loc2='' where entry=15068;
+UPDATE locales_item set name_loc2='Jambières de sabre-de-givre',description_loc2='' where entry=15069;
+UPDATE locales_item set name_loc2='Gants de sabre-de-givre',description_loc2='' where entry=15070;
+UPDATE locales_item set name_loc2='Bottes de sabre-de-givre',description_loc2='' where entry=15071;
+UPDATE locales_item set name_loc2='Jambières chimériques',description_loc2='' where entry=15072;
 UPDATE locales_item set name_loc2='Bottes chimériques',description_loc2='' where entry=15073;
+UPDATE locales_item set name_loc2='Gants chimériques',description_loc2='' where entry=15074;
+UPDATE locales_item set name_loc2='Gilet chimérique',description_loc2='' where entry=15075;
 UPDATE locales_item set name_loc2='Broigne en écailles de scorpide épaisses',description_loc2='' where entry=15076;
 UPDATE locales_item set name_loc2='Brassards en écailles de scorpide épaisses',description_loc2='' where entry=15077;
 UPDATE locales_item set name_loc2='Gantelets en écailles de scorpide épaisses',description_loc2='' where entry=15078;
@@ -9863,6 +9927,7 @@ UPDATE locales_item set name_loc2='Schéma : Lunettes de maître ingénieur',de
 UPDATE locales_item set name_loc2='Schéma : Petit dragon en arcanite',description_loc2='' where entry=16054;
 UPDATE locales_item set name_loc2='Schéma : Bombe des Arcanes',description_loc2='' where entry=16055;
 UPDATE locales_item set name_loc2='Schéma : Carabine sans défaut en arcanite',description_loc2='' where entry=16056;
+UPDATE locales_item set name_loc2='Sac d\'explorateur',description_loc2='' where entry=16057;
 UPDATE locales_item set name_loc2='Sceau de Fordring',description_loc2='' where entry=16058;
 UPDATE locales_item set name_loc2='Chemise marron classique',description_loc2='' where entry=16059;
 UPDATE locales_item set name_loc2='Chemise blanche classique',description_loc2='' where entry=16060;
@@ -9875,6 +9940,7 @@ UPDATE locales_item set name_loc2='Manuel : Bandage épais en soie',description
 UPDATE locales_item set name_loc2='Manuel : Bandage en tisse-mage',description_loc2='' where entry=16113;
 UPDATE locales_item set name_loc2='Matraque du contremaître',description_loc2='' where entry=16114;
 UPDATE locales_item set name_loc2='Caisse d\'Osric',description_loc2='' where entry=16115;
+UPDATE locales_item set name_loc2='Test Res d\'Arcanes Jambes Mailles',description_loc2='' where entry=16165;
 UPDATE locales_item set name_loc2='Soupe de haricots',description_loc2='' where entry=16166;
 UPDATE locales_item set name_loc2='Friandise versicolore',description_loc2='' where entry=16167;
 UPDATE locales_item set name_loc2='Pêche céleste',description_loc2='' where entry=16168;
@@ -10597,6 +10663,8 @@ UPDATE locales_item set name_loc2='Oeil de Sulfuras',description_loc2='' where e
 UPDATE locales_item set name_loc2='Saucisse d\'araignée',description_loc2='' where entry=17222;
 UPDATE locales_item set name_loc2='Frappe-tonnerre',description_loc2='' where entry=17223;
 UPDATE locales_item set name_loc2='Lunette d\'observation',description_loc2='' where entry=17224;
+UPDATE locales_item set name_loc2='Clé du coffre de Salem',description_loc2='Ouvre le coffre du sombre clerc Salem.' where entry=17242;
+UPDATE locales_item set name_loc2='Clé de James',description_loc2='Ouvre le coffre volé dans la Cathédrale de la Lumière.' where entry=17262;
 UPDATE locales_item set name_loc2='Paquet cadeau à ruban bleu',description_loc2='' where entry=17302;
 UPDATE locales_item set name_loc2='Papier d\'emballage à ruban bleu',description_loc2='' where entry=17303;
 UPDATE locales_item set name_loc2='Papier d\'emballage à ruban vert',description_loc2='' where entry=17304;
@@ -10607,7 +10675,9 @@ UPDATE locales_item set name_loc2='Paquet cadeau à ruban violet',description_lo
 UPDATE locales_item set name_loc2='Bracelets discordants',description_loc2='' where entry=17309;
 UPDATE locales_item set name_loc2='Aspect de Neptulon',description_loc2='' where entry=17310;
 UPDATE locales_item set name_loc2='Oeil du Prophète ardent',description_loc2='' where entry=17322;
+UPDATE locales_item set name_loc2='Balise de Mulverick',description_loc2='' where entry=17323;
 UPDATE locales_item set name_loc2='Balise de Guse',description_loc2='' where entry=17324;
+UPDATE locales_item set name_loc2='Balise de Jeztor',description_loc2='' where entry=17325;
 UPDATE locales_item set name_loc2='Chair de soldat foudrepique',description_loc2='' where entry=17326;
 UPDATE locales_item set name_loc2='Chair de lieutenant foudrepique',description_loc2='' where entry=17327;
 UPDATE locales_item set name_loc2='Chair de commandant foudrepique',description_loc2='' where entry=17328;
@@ -10625,7 +10695,10 @@ UPDATE locales_item set name_loc2='Breuvage de mana majeur',description_loc2='' 
 UPDATE locales_item set name_loc2='Breuvage de mana excellent',description_loc2='' where entry=17352;
 UPDATE locales_item set name_loc2='Ordres d\'assaut de Foudrepique',description_loc2='' where entry=17353;
 UPDATE locales_item set name_loc2='Lettre de Rabine',description_loc2='' where entry=17355;
+UPDATE locales_item set name_loc2='Balise de Ryson',description_loc2='' where entry=17362;
+UPDATE locales_item set name_loc2='Balise de Ryson',description_loc2='' where entry=17363;
 UPDATE locales_item set name_loc2='Lunette d\'observation',description_loc2='' where entry=17364;
+UPDATE locales_item set name_loc2='Déchiqueteur portatif de Zinfoirux',description_loc2='' where entry=17384;
 UPDATE locales_item set name_loc2='Bière du Grandpère Hiver',description_loc2='' where entry=17402;
 UPDATE locales_item set name_loc2='Mousseux de Gentepression',description_loc2='' where entry=17403;
 UPDATE locales_item set name_loc2='Bière mélangée',description_loc2='' where entry=17404;
@@ -10633,6 +10706,7 @@ UPDATE locales_item set name_loc2='Thé du jardin vert',description_loc2='' wher
 UPDATE locales_item set name_loc2='Roue de fromage de fête',description_loc2='' where entry=17406;
 UPDATE locales_item set name_loc2='Tourte à la viande maison de Graccu',description_loc2='' where entry=17407;
 UPDATE locales_item set name_loc2='Brochette de bœuf épicé',description_loc2='' where entry=17408;
+UPDATE locales_item set name_loc2='Déchiqueteur portatif de Zinfoirux',description_loc2='' where entry=17410;
 UPDATE locales_item set name_loc2='Scie à vapeur',description_loc2='' where entry=17411;
 UPDATE locales_item set name_loc2='Codex : Prière de Robustesse',description_loc2='' where entry=17413;
 UPDATE locales_item set name_loc2='Codex : Prière de Robustesse',description_loc2='Vous apprend Prière de robustesse (Rang 2).' where entry=17414;
@@ -10642,6 +10716,8 @@ UPDATE locales_item set name_loc2='Ordres d\'assaut du clan Loup-de-givre',descr
 UPDATE locales_item set name_loc2='Médaille de soldat loup-de-givre',description_loc2='' where entry=17502;
 UPDATE locales_item set name_loc2='Médaille de lieutenant loup-de-givre',description_loc2='' where entry=17503;
 UPDATE locales_item set name_loc2='Médaille de commandant loup-de-givre',description_loc2='' where entry=17504;
+UPDATE locales_item set name_loc2='Balise d\'Ichman',description_loc2='' where entry=17505;
+UPDATE locales_item set name_loc2='Balise de Vipore',description_loc2='' where entry=17506;
 UPDATE locales_item set name_loc2='Balise de Slidore',description_loc2='' where entry=17507;
 UPDATE locales_item set name_loc2='Targe de la pierre de force',description_loc2='' where entry=17508;
 UPDATE locales_item set name_loc2='Fournitures de Gouffrefer',description_loc2='' where entry=17522;
@@ -10791,6 +10867,7 @@ UPDATE locales_item set name_loc2='Ceinturon d\'armoise',description_loc2='' whe
 UPDATE locales_item set name_loc2='Espauliers du colosse de pierre',description_loc2='' where entry=17779;
 UPDATE locales_item set name_loc2='Lame des ténèbres éternelles',description_loc2='' where entry=17780;
 UPDATE locales_item set name_loc2='Les instructions du Paria',description_loc2='' where entry=17781;
+UPDATE locales_item set name_loc2='Talisman de l\'éclat de lien',description_loc2='' where entry=17782;
 UPDATE locales_item set name_loc2='Cartes loup-de-givre',description_loc2='' where entry=17822;
 UPDATE locales_item set name_loc2='Plans de bataille foudrepique',description_loc2='' where entry=17823;
 UPDATE locales_item set name_loc2='Bannière foudrepique',description_loc2='' where entry=17849;
@@ -10815,6 +10892,9 @@ UPDATE locales_item set name_loc2='Sac à dos en cuir d\'Onyxia',description_loc
 UPDATE locales_item set name_loc2='Ecaille d\'Onyxia chargée',description_loc2='' where entry=17968;
 UPDATE locales_item set name_loc2='Sac de gemmes rouge',description_loc2='' where entry=17969;
 UPDATE locales_item set name_loc2='Noyau de Ragnaros',description_loc2='' where entry=17982;
+UPDATE locales_item set name_loc2='Viande séchée coriace',description_loc2='' where entry=18000;
+UPDATE locales_item set name_loc2='Morceau de pain rassis',description_loc2='' where entry=18001;
+UPDATE locales_item set name_loc2='Eau de source',description_loc2='' where entry=18005;
 UPDATE locales_item set name_loc2='Sceau royal d\'Alexis',description_loc2='' where entry=18022;
 UPDATE locales_item set name_loc2='Flèches à pointe de thorium',description_loc2='' where entry=18042;
 UPDATE locales_item set name_loc2='Bottes du mineur de charbon',description_loc2='' where entry=18043;
@@ -10839,6 +10919,7 @@ UPDATE locales_item set name_loc2='Rune de rappel',description_loc2='' where ent
 UPDATE locales_item set name_loc2='Rune de rappel',description_loc2='' where entry=18150;
 UPDATE locales_item set name_loc2='Flasque d\'améthyste remplie',description_loc2='' where entry=18151;
 UPDATE locales_item set name_loc2='Flasque d\'améthyste',description_loc2='' where entry=18152;
+UPDATE locales_item set name_loc2='Papier à lettre Blizzard',description_loc2='' where entry=18154;
 UPDATE locales_item set name_loc2='Recette : Thé de chardon',description_loc2='' where entry=18160;
 UPDATE locales_item set name_loc2='Disque de force réactif',description_loc2='' where entry=18168;
 UPDATE locales_item set name_loc2='Mantelet de l\'Aube de flammes',description_loc2='' where entry=18169;
@@ -10897,7 +10978,9 @@ UPDATE locales_item set name_loc2='Pierre à aiguiser élémentaire',description
 UPDATE locales_item set name_loc2='Couvre-bras Cœur-de-braise',description_loc2='' where entry=18263;
 UPDATE locales_item set name_loc2='Plans : Pierre à aiguiser élémentaire',description_loc2='' where entry=18264;
 UPDATE locales_item set name_loc2='Patron : Couvre-bras Cœur-de-braise',description_loc2='' where entry=18265;
+UPDATE locales_item set name_loc2='Clé de la cour des Gordok',description_loc2='' where entry=18266;
 UPDATE locales_item set name_loc2='Recette : Courante-surprise',description_loc2='' where entry=18267;
+UPDATE locales_item set name_loc2='Clé de la porte intérieure des Gordok',description_loc2='' where entry=18268;
 UPDATE locales_item set name_loc2='Grog vert gordok',description_loc2='' where entry=18269;
 UPDATE locales_item set name_loc2='Carabine de tireur d\'élite endurci',description_loc2='' where entry=18282;
 UPDATE locales_item set name_loc2='Hyperviseur Biznicks 247 x 128',description_loc2='' where entry=18283;
@@ -11153,6 +11236,8 @@ UPDATE locales_item set name_loc2='Ceinturon de glace éternelle',description_lo
 UPDATE locales_item set name_loc2='Lingot d\'élémentium',description_loc2='' where entry=18562;
 UPDATE locales_item set name_loc2='Liens du Cherchevent',description_loc2='' where entry=18563;
 UPDATE locales_item set name_loc2='Liens du Cherchevent',description_loc2='' where entry=18564;
+UPDATE locales_item set name_loc2='Calice de la renaissance',description_loc2='' where entry=18565;
+UPDATE locales_item set name_loc2='Essence du seigneur du Feu',description_loc2='' where entry=18566;
 UPDATE locales_item set name_loc2='Catalyseur élémentaire',description_loc2='' where entry=18567;
 UPDATE locales_item set name_loc2='Les Lames jumelles d\'Azzinoth',description_loc2='' where entry=18582;
 UPDATE locales_item set name_loc2='Glaive de guerre d\'Azzinoth (droit)',description_loc2='' where entry=18583;
@@ -11444,6 +11529,7 @@ UPDATE locales_item set name_loc2='Longue-vue de guetteur',description_loc2='' w
 UPDATE locales_item set name_loc2='Carapace de Zukk\'ash',description_loc2='' where entry=18961;
 UPDATE locales_item set name_loc2='Glandes de Fouet-cuisant',description_loc2='' where entry=18962;
 UPDATE locales_item set name_loc2='Peau de yéti en parfait état',description_loc2='' where entry=18969;
+UPDATE locales_item set name_loc2='Anneau de test critique 2',description_loc2='' where entry=18970;
 UPDATE locales_item set name_loc2='Peau de yéti parfaite',description_loc2='' where entry=18972;
 UPDATE locales_item set name_loc2='Déchiqueteur dimensionnel - Long-Guet',description_loc2='' where entry=18984;
 UPDATE locales_item set name_loc2='Transporteur ultra-sécurisé : Gadgetzan',description_loc2='' where entry=18986;
@@ -11711,6 +11797,7 @@ UPDATE locales_item set name_loc2='Bouteille d\'eau de source d\'Alterac',descri
 UPDATE locales_item set name_loc2='Carquois en cuir de harpie',description_loc2='' where entry=19319;
 UPDATE locales_item set name_loc2='Cartouchière en peau de gnoll',description_loc2='' where entry=19320;
 UPDATE locales_item set name_loc2='L\'Objet inébranlable',description_loc2='' where entry=19321;
+UPDATE locales_item set name_loc2='Marque d\'honneur Chanteguerre',description_loc2='Preuve de victoire dans le goulet des Chanteguerres' where entry=19322;
 UPDATE locales_item set name_loc2='La Force irrésistible',description_loc2='' where entry=19323;
 UPDATE locales_item set name_loc2='Le Lobotomiseur',description_loc2='' where entry=19324;
 UPDATE locales_item set name_loc2='Bague de don Julio',description_loc2='' where entry=19325;
@@ -11991,6 +12078,7 @@ UPDATE locales_item set name_loc2='Egide primordiale hakkari',description_loc2='
 UPDATE locales_item set name_loc2='Caisse de ressources arathies',description_loc2='' where entry=19725;
 UPDATE locales_item set name_loc2='Vignesang',description_loc2='' where entry=19726;
 UPDATE locales_item set name_loc2='Faucille de sang',description_loc2='' where entry=19727;
+UPDATE locales_item set name_loc2='Etreinte de suzerain',description_loc2='' where entry=19760;
 UPDATE locales_item set name_loc2='Patron : Gilet en vignesang',description_loc2='' where entry=19764;
 UPDATE locales_item set name_loc2='Patron : Jambières en vignesang',description_loc2='' where entry=19765;
 UPDATE locales_item set name_loc2='Patron : Bottes en vignesang',description_loc2='' where entry=19766;
@@ -12086,6 +12174,7 @@ UPDATE locales_item set name_loc2='Coiffe tachée de sang',description_loc2='' w
 UPDATE locales_item set name_loc2='Collier du Corrupteur d\'âmes',description_loc2='' where entry=19876;
 UPDATE locales_item set name_loc2='Jambières d\'animiste',description_loc2='' where entry=19877;
 UPDATE locales_item set name_loc2='Espauliers imprégnés de sang',description_loc2='' where entry=19878;
+UPDATE locales_item set name_loc2='Alex\'s test Bâton découragé',description_loc2='' where entry=19879;
 UPDATE locales_item set name_loc2='Collection de têtes gurubashi',description_loc2='' where entry=19880;
 UPDATE locales_item set name_loc2='Tête de canaliste',description_loc2='' where entry=19881;
 UPDATE locales_item set name_loc2='Tête du maléficieur',description_loc2='' where entry=19882;
@@ -13309,6 +13398,7 @@ UPDATE locales_item set name_loc2='Anneau de ténèbres d\'Ukko',description_loc
 UPDATE locales_item set name_loc2='Bottes du héros déchu',description_loc2='' where entry=21688;
 UPDATE locales_item set name_loc2='Gants d\'Ebru',description_loc2='' where entry=21689;
 UPDATE locales_item set name_loc2='Charme d\'Angelista',description_loc2='' where entry=21690;
+UPDATE locales_item set name_loc2='Gantelets couverts de limon',description_loc2='' where entry=21691;
 UPDATE locales_item set name_loc2='Ceinture de la triade',description_loc2='' where entry=21692;
 UPDATE locales_item set name_loc2='Semblance du dévoreur',description_loc2='' where entry=21693;
 UPDATE locales_item set name_loc2='Mantelet ternaire',description_loc2='' where entry=21694;
@@ -13363,6 +13453,8 @@ UPDATE locales_item set name_loc2='Pétards de fête',description_loc2='' where 
 UPDATE locales_item set name_loc2='Briefing de combat I',description_loc2='' where entry=21749;
 UPDATE locales_item set name_loc2='Briefing de combat II',description_loc2='' where entry=21750;
 UPDATE locales_item set name_loc2='Briefing tactique III',description_loc2='' where entry=21751;
+UPDATE locales_item set name_loc2='Clé de coffre de scarabées',description_loc2='' where entry=21761;
+UPDATE locales_item set name_loc2='Clé de coffre de scarabées supérieur',description_loc2='' where entry=21762;
 UPDATE locales_item set name_loc2='Lanceur silithide à carapace',description_loc2='' where entry=21800;
 UPDATE locales_item set name_loc2='Antenne revigorante',description_loc2='' where entry=21801;
 UPDATE locales_item set name_loc2='Le kriss perdu de Zedd',description_loc2='' where entry=21802;
@@ -13452,6 +13544,7 @@ UPDATE locales_item set name_loc2='Brasero de signal',description_loc2='' where 
 UPDATE locales_item set name_loc2='Brasero de signal',description_loc2='' where entry=22052;
 UPDATE locales_item set name_loc2='Brasero de signal',description_loc2='' where entry=22056;
 UPDATE locales_item set name_loc2='Brasero d\'invocation',description_loc2='' where entry=22057;
+UPDATE locales_item set name_loc2='Papier à lettres de la St-Valentin',description_loc2='' where entry=22058;
 UPDATE locales_item set name_loc2='Carte de la St-Valentin',description_loc2='' where entry=22059;
 UPDATE locales_item set name_loc2='Tunique de belluaire',description_loc2='' where entry=22060;
 UPDATE locales_item set name_loc2='Bottes de belluaire',description_loc2='' where entry=22061;
@@ -13488,6 +13581,14 @@ UPDATE locales_item set name_loc2='Casque d\'Âmeforge',description_loc2='' wher
 UPDATE locales_item set name_loc2='Cuissards d\'Âmeforge',description_loc2='' where entry=22092;
 UPDATE locales_item set name_loc2='Spallières d\'Âmeforge',description_loc2='' where entry=22093;
 UPDATE locales_item set name_loc2='Varech de sang',description_loc2='' where entry=22094;
+UPDATE locales_item set name_loc2='Manchettes des cinq tonnerres',description_loc2='' where entry=22095;
+UPDATE locales_item set name_loc2='Bottes des Cinq tonnerres',description_loc2='' where entry=22096;
+UPDATE locales_item set name_loc2='Coiffe des Cinq tonnerres',description_loc2='' where entry=22097;
+UPDATE locales_item set name_loc2='Corde des Cinq tonnerres',description_loc2='' where entry=22098;
+UPDATE locales_item set name_loc2='Gantelets des cinq tonnerres',description_loc2='' where entry=22099;
+UPDATE locales_item set name_loc2='Kilt des cinq tonnerres',description_loc2='' where entry=22100;
+UPDATE locales_item set name_loc2='Espauliers des cinq tonnerres',description_loc2='' where entry=22101;
+UPDATE locales_item set name_loc2='Gilet des Cinq tonnerres',description_loc2='' where entry=22102;
 UPDATE locales_item set name_loc2='Ceinture Cœur-Farouche',description_loc2='' where entry=22106;
 UPDATE locales_item set name_loc2='Bottes Cœur-Farouche',description_loc2='' where entry=22107;
 UPDATE locales_item set name_loc2='Brassards Cœur-Farouche',description_loc2='' where entry=22108;
@@ -13936,6 +14037,7 @@ UPDATE locales_item set name_loc2='Cape du dévoré',description_loc2='' where e
 UPDATE locales_item set name_loc2='Marque de C\'Thun',description_loc2='' where entry=22732;
 UPDATE locales_item set name_loc2='Tête d\'Atiesh',description_loc2='' where entry=22733;
 UPDATE locales_item set name_loc2='Talon d\'Atiesh',description_loc2='' where entry=22734;
+UPDATE locales_item set name_loc2='Andonisus, Faucheuse des Âmes',description_loc2='Cette lame est dimensionnel. Il semble de s\'estomper du plan d\'existence.' where entry=22736;
 UPDATE locales_item set name_loc2='Atiesh, grand bâton du Gardien',description_loc2='' where entry=22737;
 UPDATE locales_item set name_loc2='Tome de métamorphose : tortue',description_loc2='' where entry=22739;
 UPDATE locales_item set name_loc2='Pantalon de voltigeur en cuir',description_loc2='' where entry=22740;
@@ -14111,6 +14213,7 @@ UPDATE locales_item set name_loc2='Oeil du mort',description_loc2='' where entry
 UPDATE locales_item set name_loc2='Oeil droit de Saphiron',description_loc2='' where entry=23048;
 UPDATE locales_item set name_loc2='Oeil gauche de Saphiron',description_loc2='' where entry=23049;
 UPDATE locales_item set name_loc2='Cape de la nécropole',description_loc2='' where entry=23050;
+UPDATE locales_item set name_loc2='Glaive du défenseur',description_loc2='' where entry=23051;
 UPDATE locales_item set name_loc2='Talisman bouillonnant de Hurlorage',description_loc2='' where entry=23053;
 UPDATE locales_item set name_loc2='Gressil, Aube de la ruine',description_loc2='' where entry=23054;
 UPDATE locales_item set name_loc2='Mot de dégel',description_loc2='' where entry=23055;
@@ -14284,6 +14387,8 @@ UPDATE locales_item set name_loc2='Larve du Grand ver',description_loc2='' where
 UPDATE locales_item set name_loc2='La Carapace du fouisseur',description_loc2='' where entry=23558;
 UPDATE locales_item set name_loc2='Jom Gabbar',description_loc2='' where entry=23570;
 UPDATE locales_item set name_loc2='Le Froid dévorant',description_loc2='' where entry=23577;
+UPDATE locales_item set name_loc2='Régime McWeaksauce',description_loc2='Nourriture pour l\'esprit' where entry=23578;
+UPDATE locales_item set name_loc2='Le McWeaksauce traditionnel',description_loc2='L\'original.' where entry=23579;
 UPDATE locales_item set name_loc2='Ceinturon de fureur élémentaire',description_loc2='' where entry=23663;
 UPDATE locales_item set name_loc2='Espauliers de fureur élémentaire',description_loc2='' where entry=23664;
 UPDATE locales_item set name_loc2='Jambières de fureur élémentaire',description_loc2='' where entry=23665;
