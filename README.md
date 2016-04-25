@@ -4,7 +4,8 @@ This is a culmination of over a years work to generate a full localisation proce
 
 ### Features
 
-Rather than a all or nothing system for localisation, the languages can be chosen individually
+Rather than an all or nothing system for localisation, the languages can be chosen individually
+
 Current support will include the following:
 * Korean
 * French
