@@ -1,10 +1,10 @@
-UPDATE locales_gameobject set name_loc6='Eliza\'s Tombstone' where entry=37; -- Name: Eliza\'s Tombstone
+UPDATE locales_gameobject set name_loc6='Eliza\'s Tombstone' where entry=37; -- Name: Eliza's Tombstone
 UPDATE locales_gameobject set name_loc6='Captain Sanders Chest' where entry=38; -- Name: Captain Sanders Chest
 UPDATE locales_gameobject set name_loc6='Mound of loose dirt' where entry=59; -- Name: Mound of loose dirt
-UPDATE locales_gameobject set name_loc6='Abercrombie\'s Crate' where entry=167; -- Name: Abercrombie\'s Crate
+UPDATE locales_gameobject set name_loc6='Abercrombie\'s Crate' where entry=167; -- Name: Abercrombie's Crate
 UPDATE locales_gameobject set name_loc6='Crate of Foodstuffs' where entry=249; -- Name: Crate of Foodstuffs
 UPDATE locales_gameobject set name_loc6='Research Equipment' where entry=251; -- Name: Research Equipment
-UPDATE locales_gameobject set name_loc6='Wanted: Chok\'Sul' where entry=254; -- Name: Wanted: Chok\'Sul
+UPDATE locales_gameobject set name_loc6='Wanted: Chok\'Sul' where entry=254; -- Name: Wanted: Chok'Sul
 UPDATE locales_gameobject set name_loc6='Water Pitcher' where entry=337; -- Name: Water Pitcher
 UPDATE locales_gameobject set name_loc6='Wanted!' where entry=711; -- Name: Wanted!
 UPDATE locales_gameobject set name_loc6='Corpse Laden Boat' where entry=1593; -- Name: Corpse Laden Boat
@@ -12,7 +12,7 @@ UPDATE locales_gameobject set name_loc6='Shallow Grave' where entry=1599; -- Nam
 UPDATE locales_gameobject set name_loc6='Agamand Mills' where entry=1631; -- Name: Agamand Mills
 UPDATE locales_gameobject set name_loc6='Brill' where entry=1632; -- Name: Brill
 UPDATE locales_gameobject set name_loc6='Deathknell' where entry=1638; -- Name: Deathknell
-UPDATE locales_gameobject set name_loc6='Stanley\'s Dish' where entry=1720; -- Name: Stanley\'s Dish
+UPDATE locales_gameobject set name_loc6='Stanley\'s Dish' where entry=1720; -- Name: Stanley's Dish
 UPDATE locales_gameobject set name_loc6='Syndicate Documents' where entry=1738; -- Name: Syndicate Documents
 UPDATE locales_gameobject set name_loc6='Syndicate Documents' where entry=1739; -- Name: Syndicate Documents
 UPDATE locales_gameobject set name_loc6='Anvil' where entry=1752; -- Name: Anvil
@@ -56,7 +56,7 @@ UPDATE locales_gameobject set name_loc6='Deathknell' where entry=2035; -- Name: 
 UPDATE locales_gameobject set name_loc6='The Wine Cask' where entry=2130; -- Name: The Wine Cask
 UPDATE locales_gameobject set name_loc6='The Cheese Cutters' where entry=2148; -- Name: The Cheese Cutters
 UPDATE locales_gameobject set name_loc6='The Seven Deadly Venoms' where entry=2149; -- Name: The Seven Deadly Venoms
-UPDATE locales_gameobject set name_loc6='Thane\'s Boots and Shoulderpads' where entry=2151; -- Name: Thane\'s Boots and Shoulderpads
+UPDATE locales_gameobject set name_loc6='Thane\'s Boots and Shoulderpads' where entry=2151; -- Name: Thane's Boots and Shoulderpads
 UPDATE locales_gameobject set name_loc6='Mage Quarters' where entry=2188; -- Name: Mage Quarters
 UPDATE locales_gameobject set name_loc6='Wooden Chair' where entry=2413; -- Name: Wooden Chair
 UPDATE locales_gameobject set name_loc6='Need Name' where entry=2414; -- Name: Need Name
@@ -72,7 +72,7 @@ UPDATE locales_gameobject set name_loc6='Seal of the Earth' where entry=2933; --
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=3085; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=3089; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Razor Hill' where entry=3224; -- Name: Razor Hill
-UPDATE locales_gameobject set name_loc6='Benedict\'s Chest' where entry=3239; -- Name: Benedict\'s Chest
+UPDATE locales_gameobject set name_loc6='Benedict\'s Chest' where entry=3239; -- Name: Benedict's Chest
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=3253; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=3254; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=3270; -- Name: Campfire
@@ -81,7 +81,7 @@ UPDATE locales_gameobject set name_loc6='Campfire' where entry=3638; -- Name: Ca
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=3639; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=3760; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=3761; -- Name: Campfire
-UPDATE locales_gameobject set name_loc6='Drizzlik\'s Emporium' where entry=3767; -- Name: Drizzlik\'s Emporium
+UPDATE locales_gameobject set name_loc6='Drizzlik\'s Emporium' where entry=3767; -- Name: Drizzlik's Emporium
 UPDATE locales_gameobject set name_loc6='Fragile - Do Not Drop' where entry=3768; -- Name: Fragile - Do Not Drop
 UPDATE locales_gameobject set name_loc6='Fire Plume Ridge Lava Lake' where entry=4004; -- Name: Fire Plume Ridge Lava Lake
 UPDATE locales_gameobject set name_loc6='Bank' where entry=4005; -- Name: Bank
@@ -107,8 +107,8 @@ UPDATE locales_gameobject set name_loc6='Blacksmith Banner' where entry=15004; -
 UPDATE locales_gameobject set name_loc6='Stable Banner' where entry=15005; -- Name: Stable Banner
 UPDATE locales_gameobject set name_loc6='Cracked Necrotic Crystal' where entry=16431; -- Name: Cracked Necrotic Crystal
 UPDATE locales_gameobject set name_loc6='Buzzbox 323' where entry=17184; -- Name: Buzzbox 323
-UPDATE locales_gameobject set name_loc6='The Lay of Ameth\'Aran' where entry=17188; -- Name: The Lay of Ameth\'Aran
-UPDATE locales_gameobject set name_loc6='The Fall of Ameth\'Aran' where entry=17189; -- Name: The Fall of Ameth\'Aran
+UPDATE locales_gameobject set name_loc6='The Lay of Ameth\'Aran' where entry=17188; -- Name: The Lay of Ameth'Aran
+UPDATE locales_gameobject set name_loc6='The Fall of Ameth\'Aran' where entry=17189; -- Name: The Fall of Ameth'Aran
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=18046; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Bubbling Cauldron' where entry=18084; -- Name: Bubbling Cauldron
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=18085; -- Name: Campfire
@@ -161,7 +161,7 @@ UPDATE locales_gameobject set name_loc6='Campfire' where entry=20983; -- Name: C
 UPDATE locales_gameobject set name_loc6='Hoofprints' where entry=21015; -- Name: Hoofprints
 UPDATE locales_gameobject set name_loc6='Hoofprints' where entry=21016; -- Name: Hoofprints
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=21282; -- Name: Campfire
-UPDATE locales_gameobject set name_loc6='Lashh\'an Spell Circle' where entry=21511; -- Name: Lashh\'an Spell Circle
+UPDATE locales_gameobject set name_loc6='Lashh\'an Spell Circle' where entry=21511; -- Name: Lashh'an Spell Circle
 UPDATE locales_gameobject set name_loc6='Anvil' where entry=21628; -- Name: Anvil
 UPDATE locales_gameobject set name_loc6='Anvil' where entry=21629; -- Name: Anvil
 UPDATE locales_gameobject set name_loc6='Forge' where entry=21630; -- Name: Forge
@@ -209,16 +209,16 @@ UPDATE locales_gameobject set name_loc6='The Park' where entry=25352; -- Name: T
 UPDATE locales_gameobject set name_loc6='Cathedral Square' where entry=25355; -- Name: Cathedral Square
 UPDATE locales_gameobject set name_loc6='Cathedral Square' where entry=25356; -- Name: Cathedral Square
 UPDATE locales_gameobject set name_loc6='Cathedral Square' where entry=25357; -- Name: Cathedral Square
-UPDATE locales_gameobject set name_loc6='Craghelm\'s Plate and Chain' where entry=26480; -- Name: Craghelm\'s Plate and Chain
-UPDATE locales_gameobject set name_loc6='Goldfury\'s Hunting Supplies' where entry=26482; -- Name: Goldfury\'s Hunting Supplies
-UPDATE locales_gameobject set name_loc6='Fizzlespinner\'s General Goods' where entry=26483; -- Name: Fizzlespinner\'s General Goods
-UPDATE locales_gameobject set name_loc6='Thundershot Guns \'n Ammo' where entry=26485; -- Name: Thundershot Guns \'n Ammo
+UPDATE locales_gameobject set name_loc6='Craghelm\'s Plate and Chain' where entry=26480; -- Name: Craghelm's Plate and Chain
+UPDATE locales_gameobject set name_loc6='Goldfury\'s Hunting Supplies' where entry=26482; -- Name: Goldfury's Hunting Supplies
+UPDATE locales_gameobject set name_loc6='Fizzlespinner\'s General Goods' where entry=26483; -- Name: Fizzlespinner's General Goods
+UPDATE locales_gameobject set name_loc6='Thundershot Guns \'n Ammo' where entry=26485; -- Name: Thundershot Guns 'n Ammo
 UPDATE locales_gameobject set name_loc6='The Stonefire Tavern' where entry=26486; -- Name: The Stonefire Tavern
-UPDATE locales_gameobject set name_loc6='Barim\'s Reagents' where entry=26487; -- Name: Barim\'s Reagents
+UPDATE locales_gameobject set name_loc6='Barim\'s Reagents' where entry=26487; -- Name: Barim's Reagents
 UPDATE locales_gameobject set name_loc6='Timberline Arms' where entry=26488; -- Name: Timberline Arms
-UPDATE locales_gameobject set name_loc6='Bruuk\'s Corner' where entry=26489; -- Name: Bruuk\'s Corner
-UPDATE locales_gameobject set name_loc6='Ironforge Visitor\'s Center' where entry=26490; -- Name: Ironforge Visitor\'s Center
-UPDATE locales_gameobject set name_loc6='Pithwick\'s Bags and Supplies' where entry=26491; -- Name: Pithwick\'s Bags and Supplies
+UPDATE locales_gameobject set name_loc6='Bruuk\'s Corner' where entry=26489; -- Name: Bruuk's Corner
+UPDATE locales_gameobject set name_loc6='Ironforge Visitor\'s Center' where entry=26490; -- Name: Ironforge Visitor's Center
+UPDATE locales_gameobject set name_loc6='Pithwick\'s Bags and Supplies' where entry=26491; -- Name: Pithwick's Bags and Supplies
 UPDATE locales_gameobject set name_loc6='Farmountain Maps' where entry=26492; -- Name: Farmountain Maps
 UPDATE locales_gameobject set name_loc6='Stonebranch Herbalist' where entry=26493; -- Name: Stonebranch Herbalist
 UPDATE locales_gameobject set name_loc6='Deep Mountain Mining Guild' where entry=26497; -- Name: Deep Mountain Mining Guild
@@ -246,11 +246,11 @@ UPDATE locales_gameobject set name_loc6='IronForge Elevator' where entry=32056; 
 UPDATE locales_gameobject set name_loc6='IronForge Elevator' where entry=32057; -- Name: IronForge Elevator
 UPDATE locales_gameobject set name_loc6='Roaring Fire' where entry=32109; -- Name: Roaring Fire
 UPDATE locales_gameobject set name_loc6='Bonfire' where entry=32110; -- Name: Bonfire
-UPDATE locales_gameobject set name_loc6='Flinthammer\'s Armorer and Clothier' where entry=32348; -- Name: Flinthammer\'s Armorer and Clothier
-UPDATE locales_gameobject set name_loc6='Finespindle\'s Leather Goods' where entry=32350; -- Name: Finespindle\'s Leather Goods
-UPDATE locales_gameobject set name_loc6='Stonebrow\'s Clothier' where entry=32351; -- Name: Stonebrow\'s Clothier
+UPDATE locales_gameobject set name_loc6='Flinthammer\'s Armorer and Clothier' where entry=32348; -- Name: Flinthammer's Armorer and Clothier
+UPDATE locales_gameobject set name_loc6='Finespindle\'s Leather Goods' where entry=32350; -- Name: Finespindle's Leather Goods
+UPDATE locales_gameobject set name_loc6='Stonebrow\'s Clothier' where entry=32351; -- Name: Stonebrow's Clothier
 UPDATE locales_gameobject set name_loc6='Traveling Fisherman' where entry=32352; -- Name: Traveling Fisherman
-UPDATE locales_gameobject set name_loc6='Springspindle\'s Gadgets' where entry=32353; -- Name: Springspindle\'s Gadgets
+UPDATE locales_gameobject set name_loc6='Springspindle\'s Gadgets' where entry=32353; -- Name: Springspindle's Gadgets
 UPDATE locales_gameobject set name_loc6='Things That Go Boom!' where entry=32354; -- Name: Things That Go Boom!
 UPDATE locales_gameobject set name_loc6='Hall of Explorers' where entry=32356; -- Name: Hall of Explorers
 UPDATE locales_gameobject set name_loc6='The Commerce Ward' where entry=32357; -- Name: The Commerce Ward
@@ -451,7 +451,7 @@ UPDATE locales_gameobject set name_loc6='Lamppost' where entry=70556; -- Name: L
 UPDATE locales_gameobject set name_loc6='Lamppost' where entry=70557; -- Name: Lamppost
 UPDATE locales_gameobject set name_loc6='Cauldron' where entry=74077; -- Name: Cauldron
 UPDATE locales_gameobject set name_loc6='Smoked Meat Rack' where entry=74446; -- Name: Smoked Meat Rack
-UPDATE locales_gameobject set name_loc6='Noggle\'s Satchel' where entry=74731; -- Name: Noggle\'s Satchel
+UPDATE locales_gameobject set name_loc6='Noggle\'s Satchel' where entry=74731; -- Name: Noggle's Satchel
 UPDATE locales_gameobject set name_loc6='Rail' where entry=80024; -- Name: Rail
 UPDATE locales_gameobject set name_loc6='Lamppost' where entry=82139; -- Name: Lamppost
 UPDATE locales_gameobject set name_loc6='Lamppost' where entry=82140; -- Name: Lamppost
@@ -508,7 +508,7 @@ UPDATE locales_gameobject set name_loc6='Campfire' where entry=142018; -- Name: 
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=142019; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=142020; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=142021; -- Name: Campfire
-UPDATE locales_gameobject set name_loc6='Rin\'ji\'s Cage' where entry=142036; -- Name: Rin\'ji\'s Cage
+UPDATE locales_gameobject set name_loc6='Rin\'ji\'s Cage' where entry=142036; -- Name: Rin'ji's Cage
 UPDATE locales_gameobject set name_loc6='Egg-O-Matic' where entry=142071; -- Name: Egg-O-Matic
 UPDATE locales_gameobject set name_loc6='Bonfire' where entry=142101; -- Name: Bonfire
 UPDATE locales_gameobject set name_loc6='Mailbox' where entry=142111; -- Name: Mailbox
@@ -523,7 +523,7 @@ UPDATE locales_gameobject set name_loc6='Stone Chair' where entry=142947; -- Nam
 UPDATE locales_gameobject set name_loc6='Stone Chair' where entry=142948; -- Name: Stone Chair
 UPDATE locales_gameobject set name_loc6='Feralas: A History' where entry=142958; -- Name: Feralas: A History
 UPDATE locales_gameobject set name_loc6='Bonfire' where entry=142966; -- Name: Bonfire
-UPDATE locales_gameobject set name_loc6='Flinthammer\'s Armorer and Clothier' where entry=143332; -- Name: Flinthammer\'s Armorer and Clothier
+UPDATE locales_gameobject set name_loc6='Flinthammer\'s Armorer and Clothier' where entry=143332; -- Name: Flinthammer's Armorer and Clothier
 UPDATE locales_gameobject set name_loc6='Mailbox' where entry=143987; -- Name: Mailbox
 UPDATE locales_gameobject set name_loc6='Mailbox' where entry=143988; -- Name: Mailbox
 UPDATE locales_gameobject set name_loc6='Mailbox' where entry=143989; -- Name: Mailbox
@@ -545,10 +545,10 @@ UPDATE locales_gameobject set name_loc6='Wooden Chair' where entry=148897; -- Na
 UPDATE locales_gameobject set name_loc6='Wooden Chair' where entry=148907; -- Name: Wooden Chair
 UPDATE locales_gameobject set name_loc6='Wooden Chair' where entry=148908; -- Name: Wooden Chair
 UPDATE locales_gameobject set name_loc6='Ani' where entry=149420; -- Name: Ani
-UPDATE locales_gameobject set name_loc6='Rune of Jin\'yael' where entry=149480; -- Name: Rune of Jin\'yael
-UPDATE locales_gameobject set name_loc6='Rune of Beth\'Amara' where entry=149481; -- Name: Rune of Beth\'Amara
+UPDATE locales_gameobject set name_loc6='Rune of Jin\'yael' where entry=149480; -- Name: Rune of Jin'yael
+UPDATE locales_gameobject set name_loc6='Rune of Beth\'Amara' where entry=149481; -- Name: Rune of Beth'Amara
 UPDATE locales_gameobject set name_loc6='Rune of Markri' where entry=149482; -- Name: Rune of Markri
-UPDATE locales_gameobject set name_loc6='Rune of Sael\'hai' where entry=149483; -- Name: Rune of Sael\'hai
+UPDATE locales_gameobject set name_loc6='Rune of Sael\'hai' where entry=149483; -- Name: Rune of Sael'hai
 UPDATE locales_gameobject set name_loc6='Wanted Poster' where entry=150075; -- Name: Wanted Poster
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=150713; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Kaldorei Tome of Summoning' where entry=151286; -- Name: Kaldorei Tome of Summoning
@@ -556,16 +556,16 @@ UPDATE locales_gameobject set name_loc6='Shimmering Flats' where entry=151980; -
 UPDATE locales_gameobject set name_loc6='Steamwheedle Port' where entry=151981; -- Name: Steamwheedle Port
 UPDATE locales_gameobject set name_loc6='Gadgetzan' where entry=151982; -- Name: Gadgetzan
 UPDATE locales_gameobject set name_loc6='auctionhouse' where entry=151992; -- Name: auctionhouse
-UPDATE locales_gameobject set name_loc6='Magus Rimtori\'s Journal' where entry=152098; -- Name: Magus Rimtori\'s Journal
+UPDATE locales_gameobject set name_loc6='Magus Rimtori\'s Journal' where entry=152098; -- Name: Magus Rimtori's Journal
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=152324; -- Name: Campfire
-UPDATE locales_gameobject set name_loc6='Kolkar\'s Booty' where entry=152608; -- Name: Kolkar\'s Booty
+UPDATE locales_gameobject set name_loc6='Kolkar\'s Booty' where entry=152608; -- Name: Kolkar's Booty
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=152619; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Darnassus Auction House' where entry=153113; -- Name: Darnassus Auction House
 UPDATE locales_gameobject set name_loc6='Mailbox' where entry=153578; -- Name: Mailbox
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=153583; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Mailbox' where entry=163313; -- Name: Mailbox
 UPDATE locales_gameobject set name_loc6='The Dead Tree' where entry=164644; -- Name: The Dead Tree
-UPDATE locales_gameobject set name_loc6='Echeyakee\'s Lair' where entry=164651; -- Name: Echeyakee\'s Lair
+UPDATE locales_gameobject set name_loc6='Echeyakee\'s Lair' where entry=164651; -- Name: Echeyakee's Lair
 UPDATE locales_gameobject set name_loc6='Roaring Fire' where entry=164699; -- Name: Roaring Fire
 UPDATE locales_gameobject set name_loc6='Roaring Fire' where entry=164700; -- Name: Roaring Fire
 UPDATE locales_gameobject set name_loc6='Roaring Fire' where entry=164701; -- Name: Roaring Fire
@@ -801,7 +801,7 @@ UPDATE locales_gameobject set name_loc6='Boat to Auberdine' where entry=176370; 
 UPDATE locales_gameobject set name_loc6='Scourge Cauldron' where entry=176393; -- Name: Scourge Cauldron
 UPDATE locales_gameobject set name_loc6='Bonfire' where entry=176505; -- Name: Bonfire
 UPDATE locales_gameobject set name_loc6='Door' where entry=176632; -- Name: Door
-UPDATE locales_gameobject set name_loc6='Arthas\' Tears' where entry=176642; -- Name: Arthas\' Tears
+UPDATE locales_gameobject set name_loc6='Arthas\' Tears' where entry=176642; -- Name: Arthas' Tears
 UPDATE locales_gameobject set name_loc6='Bonfire' where entry=176705; -- Name: Bonfire
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=176786; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=176791; -- Name: Campfire
@@ -816,7 +816,7 @@ UPDATE locales_gameobject set name_loc6='Brazier' where entry=176892; -- Name: B
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=176904; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='CavernDoor01' where entry=176996; -- Name: CavernDoor01
 UPDATE locales_gameobject set name_loc6='Bonfire' where entry=177084; -- Name: Bonfire
-UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Gong' where entry=177223; -- Name: Ahn\'Qiraj Gong
+UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Gong' where entry=177223; -- Name: Ahn'Qiraj Gong
 UPDATE locales_gameobject set name_loc6='Vault Door' where entry=177237; -- Name: Vault Door
 UPDATE locales_gameobject set name_loc6='Vault Door' where entry=177238; -- Name: Vault Door
 UPDATE locales_gameobject set name_loc6='Cauldron' where entry=177244; -- Name: Cauldron
@@ -837,10 +837,10 @@ UPDATE locales_gameobject set name_loc6='Meetingstone01' where entry=179597; -- 
 UPDATE locales_gameobject set name_loc6='Brazier' where entry=179682; -- Name: Brazier
 UPDATE locales_gameobject set name_loc6='Campfire' where entry=179846; -- Name: Campfire
 UPDATE locales_gameobject set name_loc6='Forge' where entry=179924; -- Name: Forge
-UPDATE locales_gameobject set name_loc6='OUT OF ORDER! Use Postman instead - your GM\'s' where entry=179963; -- Name: OUT OF ORDER! Use Postman instead - your GM\'s
+UPDATE locales_gameobject set name_loc6='OUT OF ORDER! Use Postman instead - your GM\'s' where entry=179963; -- Name: OUT OF ORDER! Use Postman instead - your GM's
 UPDATE locales_gameobject set name_loc6='Mysterious Wailing Caverns Chest' where entry=180055; -- Name: Mysterious Wailing Caverns Chest
 UPDATE locales_gameobject set name_loc6='Doodad_SmallBrazierNoOmni20' where entry=180245; -- Name: Doodad_SmallBrazierNoOmni20
-UPDATE locales_gameobject set name_loc6='Gates of Zul\'Gurub' where entry=180323; -- Name: Gates of Zul\'Gurub
+UPDATE locales_gameobject set name_loc6='Gates of Zul\'Gurub' where entry=180323; -- Name: Gates of Zul'Gurub
 UPDATE locales_gameobject set name_loc6='Altar of Zanza' where entry=180367; -- Name: Altar of Zanza
 UPDATE locales_gameobject set name_loc6='Gong of Bethekk' where entry=180526; -- Name: Gong of Bethekk
 UPDATE locales_gameobject set name_loc6='Cooking Brazier' where entry=180688; -- Name: Cooking Brazier
@@ -876,36 +876,36 @@ UPDATE locales_gameobject set name_loc6='New Year Horde Hanging Banner 02' where
 UPDATE locales_gameobject set name_loc6='New Year Alliance Standing Banner' where entry=210214; -- Name: New Year Alliance Standing Banner
 UPDATE locales_gameobject set name_loc6='New Year Horde Standing Banner' where entry=210215; -- Name: New Year Horde Standing Banner
 UPDATE locales_gameobject set name_loc6='Excavation Tent Pavillion' where entry=210286; -- Name: Excavation Tent Pavillion
-UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Ossirian Crystal' where entry=210312; -- Name: Ahn\'Qiraj Ossirian Crystal
-UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Ossirian Crystal' where entry=210313; -- Name: Ahn\'Qiraj Ossirian Crystal
+UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Ossirian Crystal' where entry=210312; -- Name: Ahn'Qiraj Ossirian Crystal
+UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Ossirian Crystal' where entry=210313; -- Name: Ahn'Qiraj Ossirian Crystal
 UPDATE locales_gameobject set name_loc6='Communication Crystal' where entry=210327; -- Name: Communication Crystal
 UPDATE locales_gameobject set name_loc6='Communication Crystal' where entry=210328; -- Name: Communication Crystal
 UPDATE locales_gameobject set name_loc6='Communication Crystal' where entry=210329; -- Name: Communication Crystal
 UPDATE locales_gameobject set name_loc6='Communication Crystal' where entry=210330; -- Name: Communication Crystal
 UPDATE locales_gameobject set name_loc6='Communication Crystal' where entry=210331; -- Name: Communication Crystal
 UPDATE locales_gameobject set name_loc6='Communication Crystal' where entry=210332; -- Name: Communication Crystal
-UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Gong' where entry=210334; -- Name: Ahn\'Qiraj Gong
+UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Gong' where entry=210334; -- Name: Ahn'Qiraj Gong
 UPDATE locales_gameobject set name_loc6='Twilight Tablet' where entry=210335; -- Name: Twilight Tablet
 UPDATE locales_gameobject set name_loc6='Twilight Tablet' where entry=210336; -- Name: Twilight Tablet
 UPDATE locales_gameobject set name_loc6='Glyphed Crystal' where entry=210337; -- Name: Glyphed Crystal
 UPDATE locales_gameobject set name_loc6='Gorishi Silithid Crystal' where entry=210338; -- Name: Gorishi Silithid Crystal
-UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Sand Trap' where entry=210339; -- Name: Ahn\'Qiraj Sand Trap
+UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Sand Trap' where entry=210339; -- Name: Ahn'Qiraj Sand Trap
 UPDATE locales_gameobject set name_loc6='Hive Fireflies 01' where entry=210341; -- Name: Hive Fireflies 01
 UPDATE locales_gameobject set name_loc6='Glyphed Crystal' where entry=210342; -- Name: Glyphed Crystal
 UPDATE locales_gameobject set name_loc6='Sand Worm Rock Base' where entry=210343; -- Name: Sand Worm Rock Base
 UPDATE locales_gameobject set name_loc6='Silithus Crystal Formation 03' where entry=210344; -- Name: Silithus Crystal Formation 03
 UPDATE locales_gameobject set name_loc6='Floating Red Crystal Broken 03' where entry=210345; -- Name: Floating Red Crystal Broken 03
 UPDATE locales_gameobject set name_loc6='Floating Red Crystal Broken 01' where entry=210346; -- Name: Floating Red Crystal Broken 01
-UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Door 01' where entry=210347; -- Name: Ahn\'Qiraj Door 01
+UPDATE locales_gameobject set name_loc6='Ahn\'Qiraj Door 01' where entry=210347; -- Name: Ahn'Qiraj Door 01
 UPDATE locales_gameobject set name_loc6='Floating Purple Crystal Broken 01' where entry=210348; -- Name: Floating Purple Crystal Broken 01
 UPDATE locales_gameobject set name_loc6='Gastric Exit' where entry=210349; -- Name: Gastric Exit
 UPDATE locales_gameobject set name_loc6='Anvil' where entry=211016; -- Name: Anvil
-UPDATE locales_gameobject set name_loc6='Kre\'tal\'s Wagon' where entry=211017; -- Name: Kre\'tal\'s Wagon
-UPDATE locales_gameobject set name_loc6='Asheron\'s Tome of Summoning' where entry=211018; -- Name: Asheron\'s Tome of Summoning
+UPDATE locales_gameobject set name_loc6='Kre\'tal\'s Wagon' where entry=211017; -- Name: Kre'tal's Wagon
+UPDATE locales_gameobject set name_loc6='Asheron\'s Tome of Summoning' where entry=211018; -- Name: Asheron's Tome of Summoning
 UPDATE locales_gameobject set name_loc6='Altar of Hyjal' where entry=211019; -- Name: Altar of Hyjal
 UPDATE locales_gameobject set name_loc6='Summoning Circle' where entry=211020; -- Name: Summoning Circle
 UPDATE locales_gameobject set name_loc6='Eye of Asheron' where entry=211021; -- Name: Eye of Asheron
-UPDATE locales_gameobject set name_loc6='Commander\'s Tent' where entry=211022; -- Name: Commander\'s Tent
+UPDATE locales_gameobject set name_loc6='Commander\'s Tent' where entry=211022; -- Name: Commander's Tent
 UPDATE locales_gameobject set name_loc6='Black Portal' where entry=211023; -- Name: Black Portal
 UPDATE locales_gameobject set name_loc6='Black Portal' where entry=211024; -- Name: Black Portal
 UPDATE locales_gameobject set name_loc6='Banner' where entry=211029; -- Name: Banner
@@ -925,7 +925,7 @@ UPDATE locales_gameobject set name_loc6='Rockwall Fence' where entry=211064; -- 
 UPDATE locales_gameobject set name_loc6='Grave' where entry=211065; -- Name: Grave
 UPDATE locales_gameobject set name_loc6='Sarcophag' where entry=211067; -- Name: Sarcophag
 UPDATE locales_gameobject set name_loc6='Fire Totem' where entry=211068; -- Name: Fire Totem
-UPDATE locales_gameobject set name_loc6='Mephistroph\'s HellFire' where entry=211084; -- Name: Mephistroph\'s HellFire
+UPDATE locales_gameobject set name_loc6='Mephistroph\'s HellFire' where entry=211084; -- Name: Mephistroph's HellFire
 UPDATE locales_gameobject set name_loc6='TEMP Machine Shop' where entry=300010; -- Name: TEMP Machine Shop
 UPDATE locales_gameobject set name_loc6='Nearby Tubers' where entry=300011; -- Name: Nearby Tubers
 UPDATE locales_gameobject set name_loc6='TEMP Stone of Outer Binding' where entry=300012; -- Name: TEMP Stone of Outer Binding
@@ -933,7 +933,7 @@ UPDATE locales_gameobject set name_loc6='TEMP Mana Rift Disturbance' where entry
 UPDATE locales_gameobject set name_loc6='TEMP Water Purity - Silverpine' where entry=300014; -- Name: TEMP Water Purity - Silverpine
 UPDATE locales_gameobject set name_loc6='TEMP Pirate Ship Bilge' where entry=300015; -- Name: TEMP Pirate Ship Bilge
 UPDATE locales_gameobject set name_loc6='TEMP Witherbark Village' where entry=300016; -- Name: TEMP Witherbark Village
-UPDATE locales_gameobject set name_loc6='TEMP Shadra\'Alor Altar' where entry=300017; -- Name: TEMP Shadra\'Alor Altar
+UPDATE locales_gameobject set name_loc6='TEMP Shadra\'Alor Altar' where entry=300017; -- Name: TEMP Shadra'Alor Altar
 UPDATE locales_gameobject set name_loc6='TEMP Hatetalon Stones' where entry=300018; -- Name: TEMP Hatetalon Stones
 UPDATE locales_gameobject set name_loc6='TEMP Sanctum of the Fallen God' where entry=300019; -- Name: TEMP Sanctum of the Fallen God
 UPDATE locales_gameobject set name_loc6='TEMP Miblon Snarltooth' where entry=300020; -- Name: TEMP Miblon Snarltooth
@@ -948,7 +948,7 @@ UPDATE locales_gameobject set name_loc6='TEMP Sacred Fire of Life' where entry=3
 UPDATE locales_gameobject set name_loc6='TEMP Scarlet Crusade Forward Camp' where entry=300029; -- Name: TEMP Scarlet Crusade Forward Camp
 UPDATE locales_gameobject set name_loc6='TEMP Andorhal Tower' where entry=300030; -- Name: TEMP Andorhal Tower
 UPDATE locales_gameobject set name_loc6='TEMP Scholomance Viewing Room' where entry=300031; -- Name: TEMP Scholomance Viewing Room
-UPDATE locales_gameobject set name_loc6='TEMP Umi\'s Friend' where entry=300032; -- Name: TEMP Umi\'s Friend
+UPDATE locales_gameobject set name_loc6='TEMP Umi\'s Friend' where entry=300032; -- Name: TEMP Umi's Friend
 UPDATE locales_gameobject set name_loc6='TEMP the crate in the center of the Northridge Lumber Mill' where entry=300033; -- Name: TEMP the crate in the center of the Northridge Lumber Mill
 UPDATE locales_gameobject set name_loc6='TEMP Darrowshire Town Square' where entry=300034; -- Name: TEMP Darrowshire Town Square
 UPDATE locales_gameobject set name_loc6='TEMP NIU Bright Light Beam' where entry=300035; -- Name: TEMP NIU Bright Light Beam
@@ -965,46 +965,46 @@ UPDATE locales_gameobject set name_loc6='TEMP Snowfall Graveyard' where entry=30
 UPDATE locales_gameobject set name_loc6='TEMP East Crater' where entry=300046; -- Name: TEMP East Crater
 UPDATE locales_gameobject set name_loc6='TEMP West Crater' where entry=300047; -- Name: TEMP West Crater
 UPDATE locales_gameobject set name_loc6='TEMP Orange Crystal Pool' where entry=300048; -- Name: TEMP Orange Crystal Pool
-UPDATE locales_gameobject set name_loc6='TEMP Kroshius\' Remains' where entry=300049; -- Name: TEMP Kroshius\' Remains
-UPDATE locales_gameobject set name_loc6='TEMP Pedestal of Immol\'thar' where entry=300050; -- Name: TEMP Pedestal of Immol\'thar
+UPDATE locales_gameobject set name_loc6='TEMP Kroshius\' Remains' where entry=300049; -- Name: TEMP Kroshius' Remains
+UPDATE locales_gameobject set name_loc6='TEMP Pedestal of Immol\'thar' where entry=300050; -- Name: TEMP Pedestal of Immol'thar
 UPDATE locales_gameobject set name_loc6='TEMP Circle of Dark Summoning' where entry=300051; -- Name: TEMP Circle of Dark Summoning
-UPDATE locales_gameobject set name_loc6='TEMP Pagle\'s Pointe' where entry=300052; -- Name: TEMP Pagle\'s Pointe
+UPDATE locales_gameobject set name_loc6='TEMP Pagle\'s Pointe' where entry=300052; -- Name: TEMP Pagle's Pointe
 UPDATE locales_gameobject set name_loc6='TEMP Altar of Zanza' where entry=300053; -- Name: TEMP Altar of Zanza
 UPDATE locales_gameobject set name_loc6='TEMP Southshore' where entry=300054; -- Name: TEMP Southshore
 UPDATE locales_gameobject set name_loc6='TEMP Bones of Grakkarond' where entry=300055; -- Name: TEMP Bones of Grakkarond
 UPDATE locales_gameobject set name_loc6='TEMP Forsaken Stink Bomb' where entry=300056; -- Name: TEMP Forsaken Stink Bomb
 UPDATE locales_gameobject set name_loc6='TEMP Swirling Maelstrom' where entry=300057; -- Name: TEMP Swirling Maelstrom
 UPDATE locales_gameobject set name_loc6='TEMP Greater Moonlight' where entry=300058; -- Name: TEMP Greater Moonlight
-UPDATE locales_gameobject set name_loc6='TEMP Voone\'s Chamber' where entry=300059; -- Name: TEMP Voone\'s Chamber
-UPDATE locales_gameobject set name_loc6='TEMP Alzzin\'s Chamber' where entry=300060; -- Name: TEMP Alzzin\'s Chamber
+UPDATE locales_gameobject set name_loc6='TEMP Voone\'s Chamber' where entry=300059; -- Name: TEMP Voone's Chamber
+UPDATE locales_gameobject set name_loc6='TEMP Alzzin\'s Chamber' where entry=300060; -- Name: TEMP Alzzin's Chamber
 UPDATE locales_gameobject set name_loc6='TEMP The Crimson Throne' where entry=300061; -- Name: TEMP The Crimson Throne
-UPDATE locales_gameobject set name_loc6='TEMP Ras Frostwhisper\'s Chamber' where entry=300062; -- Name: TEMP Ras Frostwhisper\'s Chamber
-UPDATE locales_gameobject set name_loc6='TEMP The Beast\'s Chamber' where entry=300063; -- Name: TEMP The Beast\'s Chamber
+UPDATE locales_gameobject set name_loc6='TEMP Ras Frostwhisper\'s Chamber' where entry=300062; -- Name: TEMP Ras Frostwhisper's Chamber
+UPDATE locales_gameobject set name_loc6='TEMP The Beast\'s Chamber' where entry=300063; -- Name: TEMP The Beast's Chamber
 UPDATE locales_gameobject set name_loc6='TEMP Haunted Locus' where entry=300064; -- Name: TEMP Haunted Locus
 UPDATE locales_gameobject set name_loc6='TEMP Blackrock Depths Arena' where entry=300065; -- Name: TEMP Blackrock Depths Arena
 UPDATE locales_gameobject set name_loc6='TEMP [PH] Crystal Corpse' where entry=300066; -- Name: TEMP [PH] Crystal Corpse
 UPDATE locales_gameobject set name_loc6='TEMP Midsummer Bonfire' where entry=300068; -- Name: TEMP Midsummer Bonfire
 UPDATE locales_gameobject set name_loc6='TEMP Underground Water Source' where entry=300078; -- Name: TEMP Underground Water Source
-UPDATE locales_gameobject set name_loc6='TEMP Un\'Goro Flat Rock' where entry=300119; -- Name: TEMP Un\'Goro Flat Rock
+UPDATE locales_gameobject set name_loc6='TEMP Un\'Goro Flat Rock' where entry=300119; -- Name: TEMP Un'Goro Flat Rock
 UPDATE locales_gameobject set name_loc6='TEMP Foulweald Totem Mound' where entry=300131; -- Name: TEMP Foulweald Totem Mound
 UPDATE locales_gameobject set name_loc6='TEMP Cliffspring River Waterfall' where entry=300132; -- Name: TEMP Cliffspring River Waterfall
 UPDATE locales_gameobject set name_loc6='TEMP First Tide Pool' where entry=300133; -- Name: TEMP First Tide Pool
 UPDATE locales_gameobject set name_loc6='TEMP Second Tide Pool' where entry=300134; -- Name: TEMP Second Tide Pool
 UPDATE locales_gameobject set name_loc6='TEMP Third Tide Pool' where entry=300135; -- Name: TEMP Third Tide Pool
 UPDATE locales_gameobject set name_loc6='TEMP Fourth Tide Pool' where entry=300136; -- Name: TEMP Fourth Tide Pool
-UPDATE locales_gameobject set name_loc6='TEMP Jintha\'Alor Altar' where entry=300137; -- Name: TEMP Jintha\'Alor Altar
+UPDATE locales_gameobject set name_loc6='TEMP Jintha\'Alor Altar' where entry=300137; -- Name: TEMP Jintha'Alor Altar
 UPDATE locales_gameobject set name_loc6='TEMP Equinex Monolith' where entry=300138; -- Name: TEMP Equinex Monolith
 UPDATE locales_gameobject set name_loc6='TEMP Shards of Myzrael' where entry=300139; -- Name: TEMP Shards of Myzrael
-UPDATE locales_gameobject set name_loc6='TEMP Grom\'s Monument' where entry=300140; -- Name: TEMP Grom\'s Monument
-UPDATE locales_gameobject set name_loc6='TEMP High Chief Winterfall\'s Cave' where entry=300141; -- Name: TEMP High Chief Winterfall\'s Cave
+UPDATE locales_gameobject set name_loc6='TEMP Grom\'s Monument' where entry=300140; -- Name: TEMP Grom's Monument
+UPDATE locales_gameobject set name_loc6='TEMP High Chief Winterfall\'s Cave' where entry=300141; -- Name: TEMP High Chief Winterfall's Cave
 UPDATE locales_gameobject set name_loc6='TEMP Shrine of Remulos' where entry=300142; -- Name: TEMP Shrine of Remulos
 UPDATE locales_gameobject set name_loc6='TEMP Swamplight Manor Dock' where entry=300143; -- Name: TEMP Swamplight Manor Dock
 UPDATE locales_gameobject set name_loc6='TEMP The Great Ossuary' where entry=300144; -- Name: TEMP The Great Ossuary
-UPDATE locales_gameobject set name_loc6='TEMP Uther\'s Tomb Statue' where entry=300145; -- Name: TEMP Uther\'s Tomb Statue
+UPDATE locales_gameobject set name_loc6='TEMP Uther\'s Tomb Statue' where entry=300145; -- Name: TEMP Uther's Tomb Statue
 UPDATE locales_gameobject set name_loc6='TEMP Quilboar Watering Hole' where entry=300146; -- Name: TEMP Quilboar Watering Hole
 UPDATE locales_gameobject set name_loc6='TEMP Spring Well' where entry=300147; -- Name: TEMP Spring Well
 UPDATE locales_gameobject set name_loc6='TEMP Ruins of Stardust Fountain' where entry=300148; -- Name: TEMP Ruins of Stardust Fountain
 UPDATE locales_gameobject set name_loc6='TEMP Blackhoof Village Windmill' where entry=300149; -- Name: TEMP Blackhoof Village Windmill
 UPDATE locales_gameobject set name_loc6='TEMP Grimtotem Tent' where entry=300150; -- Name: TEMP Grimtotem Tent
 UPDATE locales_gameobject set name_loc6='TEMP Hyjal Family Monument' where entry=300151; -- Name: TEMP Hyjal Family Monument
-UPDATE locales_gameobject set name_loc6='TEMP Entrance to Onyxia\'s Lair' where entry=300153; -- Name: TEMP Entrance to Onyxia\'s Lair
+UPDATE locales_gameobject set name_loc6='TEMP Entrance to Onyxia\'s Lair' where entry=300153; -- Name: TEMP Entrance to Onyxia's Lair
