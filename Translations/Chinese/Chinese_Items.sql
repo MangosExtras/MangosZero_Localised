@@ -8002,7 +8002,7 @@ UPDATE locales_item SET name_loc4='净化药水',description_loc4='' WHERE entry
 UPDATE locales_item SET name_loc4='梦叶草',description_loc4='' WHERE entry=13463; -- Name: Dreamfoil
 UPDATE locales_item SET name_loc4='黄金参',description_loc4='' WHERE entry=13464; -- Name: Golden Sansam
 UPDATE locales_item SET name_loc4='山鼠草',description_loc4='' WHERE entry=13465; -- Name: Mountain Silversage
-UPDATE locales_item SET name_loc4='哀伤苔',description_loc4='' WHERE entry=13466; -- Name: Plaguebloom
+UPDATE locales_item SET name_loc4=' plague flowers ',description_loc4='' WHERE entry=13466; -- Name: Plaguebloom
 UPDATE locales_item SET name_loc4='冰盖草',description_loc4='' WHERE entry=13467; -- Name: Icecap
 UPDATE locales_item SET name_loc4='黑莲花',description_loc4='' WHERE entry=13468; -- Name: Black Lotus
 UPDATE locales_item SET name_loc4='维尔顿·巴罗夫的徽记',description_loc4='' WHERE entry=13469; -- Name: Head of Weldon Barov

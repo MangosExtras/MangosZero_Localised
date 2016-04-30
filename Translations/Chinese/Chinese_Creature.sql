@@ -157,7 +157,7 @@ UPDATE locales_creature SET name_loc4='考格·旋轴',subname_loc4='' WHERE ent
 UPDATE locales_creature SET name_loc4='女牧师安妮塔',subname_loc4='牧师训练师' WHERE entry=375; -- Name: Priestess Anetta -- subName: Priest Trainer
 UPDATE locales_creature SET name_loc4='高阶牧师劳瑞娜',subname_loc4='牧师训练师' WHERE entry=376; -- Name: High Priestess Laurena -- subName: Priest Trainer
 UPDATE locales_creature SET name_loc4='女牧师洁塞塔',subname_loc4='牧师训练师' WHERE entry=377; -- Name: Priestess Josetta -- subName: Priest Trainer
-UPDATE locales_creature SET name_loc4='达希·帕克',subname_loc4='' WHERE entry=379; -- Name: Darcy -- subName: Waitress
+UPDATE locales_creature SET name_loc4='达希·帕克',subname_loc4=' waitress ' WHERE entry=379; -- Name: Darcy -- subName: Waitress
 UPDATE locales_creature SET name_loc4='码头管理员巴伦',subname_loc4='' WHERE entry=381; -- Name: Dockmaster Baren
 UPDATE locales_creature SET name_loc4='治安官马瑞斯',subname_loc4='' WHERE entry=382; -- Name: Marshal Marris
 UPDATE locales_creature SET name_loc4='贾森·玛瑟斯',subname_loc4='鱼商' WHERE entry=383; -- Name: Jason Mathers -- subName: Fishmonger
@@ -3985,7 +3985,7 @@ UPDATE locales_creature SET name_loc4='布罗哈恩·铁桶',subname_loc4='探�
 UPDATE locales_creature SET name_loc4='看守者马哈尔巴',subname_loc4='' WHERE entry=5385; -- Name: Watcher Mahar Ba
 UPDATE locales_creature SET name_loc4='助手迪利斯',subname_loc4='' WHERE entry=5386; -- Name: Acolyte Dellis
 UPDATE locales_creature SET name_loc4='资深探险家麦格拉斯',subname_loc4='探险者协会' WHERE entry=5387; -- Name: High Explorer Magellas -- subName: Explorers' League
-UPDATE locales_creature SET name_loc4='因格·绒套',subname_loc4='珠宝加工训练师兼供应商' WHERE entry=5388; -- Name: Ingo Woolybush -- subName: Explorers' League
+UPDATE locales_creature SET name_loc4='因格·绒套',subname_loc4=' Explorer, Association ' WHERE entry=5388; -- Name: Ingo Woolybush -- subName: Explorers' League
 UPDATE locales_creature SET name_loc4='勘察员古斯坦',subname_loc4='探险者协会' WHERE entry=5389; -- Name: Prospector Gunstan -- subName: Explorers' League
 UPDATE locales_creature SET name_loc4='圣者帕尔伦纳',subname_loc4='' WHERE entry=5390; -- Name: Sage Palerunner
 UPDATE locales_creature SET name_loc4='加林·古瓦德',subname_loc4='' WHERE entry=5391; -- Name: Galen Goodward
@@ -5792,7 +5792,7 @@ UPDATE locales_creature SET name_loc4='老双帆龙',subname_loc4='' WHERE entry
 UPDATE locales_creature SET name_loc4='小翼手龙',subname_loc4='' WHERE entry=9165; -- Name: Fledgling Pterrordax
 UPDATE locales_creature SET name_loc4='翼手龙',subname_loc4='' WHERE entry=9166; -- Name: Pterrordax
 UPDATE locales_creature SET name_loc4='狂怒的翼手龙',subname_loc4='' WHERE entry=9167; -- Name: Frenzied Pterrordax
-UPDATE locales_creature SET name_loc4='格尔洛普',subname_loc4='' WHERE entry=9176; -- Name: Gor'tesh
+UPDATE locales_creature SET name_loc4=' Ge Taishi ',subname_loc4='' WHERE entry=9176; -- Name: Gor'tesh
 UPDATE locales_creature SET name_loc4='奥拉留斯',subname_loc4='' WHERE entry=9177; -- Name: Oralius
 UPDATE locales_creature SET name_loc4='燃灵术',subname_loc4='' WHERE entry=9178; -- Name: Burning Spirit
 UPDATE locales_creature SET name_loc4='加兹里克',subname_loc4='锻造供应商' WHERE entry=9179; -- Name: Jazzrik -- subName: Blacksmithing Supplies
@@ -6951,9 +6951,9 @@ UPDATE locales_creature SET name_loc4='阿佐尔·奥达蒙特',subname_loc4='�
 UPDATE locales_creature SET name_loc4='塔姆拉·荒原',subname_loc4='' WHERE entry=11864; -- Name: Tammra Windfield
 UPDATE locales_creature SET name_loc4='布里维夫·石拳',subname_loc4='' WHERE entry=11865; -- Name: Buliwyf Stonehand -- subName: Weapon Master
 UPDATE locales_creature SET name_loc4='伊琳尼雅·月火',subname_loc4='' WHERE entry=11866; -- Name: Ilyenia Moonfire -- subName: Weapon Master
-UPDATE locales_creature SET name_loc4='吴平',subname_loc4='' WHERE entry=11867; -- Name: Woo Ping -- subName: Weapon Master
+UPDATE locales_creature SET name_loc4='吴平',subname_loc4=' master ' WHERE entry=11867; -- Name: Woo Ping -- subName: Weapon Master
 UPDATE locales_creature SET name_loc4='塞尤克',subname_loc4='' WHERE entry=11868; -- Name: Sayoc -- subName: Weapon Master
-UPDATE locales_creature SET name_loc4='安塞瓦',subname_loc4='' WHERE entry=11869; -- Name: Ansekhwa -- subName: Weapon Master
+UPDATE locales_creature SET name_loc4='安塞瓦',subname_loc4=' master ' WHERE entry=11869; -- Name: Ansekhwa -- subName: Weapon Master
 UPDATE locales_creature SET name_loc4='阿基巴德',subname_loc4='' WHERE entry=11870; -- Name: Archibald -- subName: Weapon Master
 UPDATE locales_creature SET name_loc4='呲牙狗',subname_loc4='' WHERE entry=11871; -- Name: Grinning Dog
 UPDATE locales_creature SET name_loc4='巫女麦兰达',subname_loc4='' WHERE entry=11872; -- Name: Myranda the Hag

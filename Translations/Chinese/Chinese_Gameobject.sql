@@ -6957,7 +6957,7 @@ UPDATE locales_gameobject SET name_loc4='贝壳陷阱' WHERE entry=176582; -- Na
 UPDATE locales_gameobject SET name_loc4='黄金参' WHERE entry=176583; -- Name: Golden Sansam
 UPDATE locales_gameobject SET name_loc4='梦叶草' WHERE entry=176584; -- Name: Dreamfoil
 UPDATE locales_gameobject SET name_loc4='山鼠草' WHERE entry=176586; -- Name: Mountain Silversage
-UPDATE locales_gameobject SET name_loc4='哀伤苔' WHERE entry=176587; -- Name: Plaguebloom
+UPDATE locales_gameobject SET name_loc4=' plague flowers ' WHERE entry=176587; -- Name: Plaguebloom
 UPDATE locales_gameobject SET name_loc4='冰盖草' WHERE entry=176588; -- Name: Icecap
 UPDATE locales_gameobject SET name_loc4='黑莲花' WHERE entry=176589; -- Name: Black Lotus
 UPDATE locales_gameobject SET name_loc4='霍古斯的颅骨' WHERE entry=176591; -- Name: Horgus' Skull Trap
@@ -6991,7 +6991,7 @@ UPDATE locales_gameobject SET name_loc4='格罗姆之血' WHERE entry=176637; --
 UPDATE locales_gameobject SET name_loc4='黄金参' WHERE entry=176638; -- Name: Golden Sansam
 UPDATE locales_gameobject SET name_loc4='梦叶草' WHERE entry=176639; -- Name: Dreamfoil
 UPDATE locales_gameobject SET name_loc4='山鼠草' WHERE entry=176640; -- Name: Mountain Silversage
-UPDATE locales_gameobject SET name_loc4='天灾花' WHERE entry=176641; -- Name: Plaguebloom
+UPDATE locales_gameobject SET name_loc4=' plague flowers ' WHERE entry=176641; -- Name: Plaguebloom
 UPDATE locales_gameobject SET name_loc4='阿尔萨斯之泪' WHERE entry=176642; -- Name: Arthas' Tears
 UPDATE locales_gameobject SET name_loc4='瑟银矿脉' WHERE entry=176643; -- Name: Small Thorium Vein
 UPDATE locales_gameobject SET name_loc4='秘银矿脉' WHERE entry=176645; -- Name: Mithril Deposit
