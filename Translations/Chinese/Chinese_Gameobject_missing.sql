@@ -3,24 +3,14 @@ UPDATE locales_gameobject SET name_loc4='Cat Figurine Trap' WHERE entry=12653; -
 UPDATE locales_gameobject SET name_loc4='OUT OF ORDER! Use Postman instead - your GM\'s' WHERE entry=179963; -- Name: OUT OF ORDER! Use Postman instead - your GM's
 UPDATE locales_gameobject SET name_loc4='Mysterious Wailing Caverns Chest' WHERE entry=180055; -- Name: Mysterious Wailing Caverns Chest
 UPDATE locales_gameobject SET name_loc4='Arena Spoils' WHERE entry=181074; -- Name: Arena Spoils
-UPDATE locales_gameobject SET name_loc4='New Year Horde Hanging Banner' WHERE entry=210212; -- Name: New Year Horde Hanging Banner
 UPDATE locales_gameobject SET name_loc4='New Year Horde Hanging Banner 02' WHERE entry=210213; -- Name: New Year Horde Hanging Banner 02
 UPDATE locales_gameobject SET name_loc4='New Year Alliance Standing Banner' WHERE entry=210214; -- Name: New Year Alliance Standing Banner
-UPDATE locales_gameobject SET name_loc4='New Year Horde Standing Banner' WHERE entry=210215; -- Name: New Year Horde Standing Banner
 UPDATE locales_gameobject SET name_loc4='Excavation Tent Pavillion' WHERE entry=210286; -- Name: Excavation Tent Pavillion
 UPDATE locales_gameobject SET name_loc4='Ahn\'Qiraj Ossirian Crystal' WHERE entry=210312; -- Name: Ahn'Qiraj Ossirian Crystal
 UPDATE locales_gameobject SET name_loc4='Ahn\'Qiraj Ossirian Crystal' WHERE entry=210313; -- Name: Ahn'Qiraj Ossirian Crystal
-UPDATE locales_gameobject SET name_loc4='Communication Crystal' WHERE entry=210327; -- Name: Communication Crystal
-UPDATE locales_gameobject SET name_loc4='Communication Crystal' WHERE entry=210328; -- Name: Communication Crystal
-UPDATE locales_gameobject SET name_loc4='Communication Crystal' WHERE entry=210329; -- Name: Communication Crystal
-UPDATE locales_gameobject SET name_loc4='Communication Crystal' WHERE entry=210330; -- Name: Communication Crystal
-UPDATE locales_gameobject SET name_loc4='Communication Crystal' WHERE entry=210331; -- Name: Communication Crystal
-UPDATE locales_gameobject SET name_loc4='Communication Crystal' WHERE entry=210332; -- Name: Communication Crystal
-UPDATE locales_gameobject SET name_loc4='Ahn\'Qiraj Gong' WHERE entry=210334; -- Name: Ahn'Qiraj Gong
 UPDATE locales_gameobject SET name_loc4='Twilight Tablet' WHERE entry=210335; -- Name: Twilight Tablet
 UPDATE locales_gameobject SET name_loc4='Twilight Tablet' WHERE entry=210336; -- Name: Twilight Tablet
 UPDATE locales_gameobject SET name_loc4='Glyphed Crystal' WHERE entry=210337; -- Name: Glyphed Crystal
-UPDATE locales_gameobject SET name_loc4='Gorishi Silithid Crystal' WHERE entry=210338; -- Name: Gorishi Silithid Crystal
 UPDATE locales_gameobject SET name_loc4='Ahn\'Qiraj Sand Trap' WHERE entry=210339; -- Name: Ahn'Qiraj Sand Trap
 UPDATE locales_gameobject SET name_loc4='Hive Fireflies 01' WHERE entry=210341; -- Name: Hive Fireflies 01
 UPDATE locales_gameobject SET name_loc4='Glyphed Crystal' WHERE entry=210342; -- Name: Glyphed Crystal
@@ -28,35 +18,22 @@ UPDATE locales_gameobject SET name_loc4='Sand Worm Rock Base' WHERE entry=210343
 UPDATE locales_gameobject SET name_loc4='Silithus Crystal Formation 03' WHERE entry=210344; -- Name: Silithus Crystal Formation 03
 UPDATE locales_gameobject SET name_loc4='Floating Red Crystal Broken 03' WHERE entry=210345; -- Name: Floating Red Crystal Broken 03
 UPDATE locales_gameobject SET name_loc4='Floating Red Crystal Broken 01' WHERE entry=210346; -- Name: Floating Red Crystal Broken 01
-UPDATE locales_gameobject SET name_loc4='Ahn\'Qiraj Door 01' WHERE entry=210347; -- Name: Ahn'Qiraj Door 01
 UPDATE locales_gameobject SET name_loc4='Floating Purple Crystal Broken 01' WHERE entry=210348; -- Name: Floating Purple Crystal Broken 01
 UPDATE locales_gameobject SET name_loc4='Gastric Exit' WHERE entry=210349; -- Name: Gastric Exit
-UPDATE locales_gameobject SET name_loc4='Anvil' WHERE entry=211016; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc4='Kre\'tal\'s Wagon' WHERE entry=211017; -- Name: Kre'tal's Wagon
 UPDATE locales_gameobject SET name_loc4='Asheron\'s Tome of Summoning' WHERE entry=211018; -- Name: Asheron's Tome of Summoning
 UPDATE locales_gameobject SET name_loc4='Altar of Hyjal' WHERE entry=211019; -- Name: Altar of Hyjal
-UPDATE locales_gameobject SET name_loc4='Summoning Circle' WHERE entry=211020; -- Name: Summoning Circle
 UPDATE locales_gameobject SET name_loc4='Eye of Asheron' WHERE entry=211021; -- Name: Eye of Asheron
 UPDATE locales_gameobject SET name_loc4='Commander\'s Tent' WHERE entry=211022; -- Name: Commander's Tent
 UPDATE locales_gameobject SET name_loc4='Black Portal' WHERE entry=211023; -- Name: Black Portal
 UPDATE locales_gameobject SET name_loc4='Black Portal' WHERE entry=211024; -- Name: Black Portal
-UPDATE locales_gameobject SET name_loc4='Banner' WHERE entry=211029; -- Name: Banner
 UPDATE locales_gameobject SET name_loc4='Gold Mine' WHERE entry=211032; -- Name: Gold Mine
-UPDATE locales_gameobject SET name_loc4='Aura' WHERE entry=211033; -- Name: Aura
-UPDATE locales_gameobject SET name_loc4='Aura' WHERE entry=211034; -- Name: Aura
 UPDATE locales_gameobject SET name_loc4='Lair Exit' WHERE entry=211035; -- Name: Lair Exit
-UPDATE locales_gameobject SET name_loc4='Fire Totem' WHERE entry=211036; -- Name: Fire Totem
 UPDATE locales_gameobject SET name_loc4='Teleport-Stone to Hyjal' WHERE entry=211050; -- Name: Teleport-Stone to Hyjal
-UPDATE locales_gameobject SET name_loc4='Mysterious Tree Stump' WHERE entry=211051; -- Name: Mysterious Tree Stump
 UPDATE locales_gameobject SET name_loc4='Tree Stump' WHERE entry=211052; -- Name: Tree Stump
 UPDATE locales_gameobject SET name_loc4='Mysterious Monument' WHERE entry=211053; -- Name: Mysterious Monument
-UPDATE locales_gameobject SET name_loc4='Lava Crack' WHERE entry=211054; -- Name: Lava Crack
-UPDATE locales_gameobject SET name_loc4='Elwynn Fence' WHERE entry=211062; -- Name: Elwynn Fence
-UPDATE locales_gameobject SET name_loc4='Elwynn Fence' WHERE entry=211063; -- Name: Elwynn Fence
 UPDATE locales_gameobject SET name_loc4='Rockwall Fence' WHERE entry=211064; -- Name: Rockwall Fence
-UPDATE locales_gameobject SET name_loc4='Grave' WHERE entry=211065; -- Name: Grave
 UPDATE locales_gameobject SET name_loc4='Sarcophag' WHERE entry=211067; -- Name: Sarcophag
-UPDATE locales_gameobject SET name_loc4='Fire Totem' WHERE entry=211068; -- Name: Fire Totem
 UPDATE locales_gameobject SET name_loc4='Mephistroph\'s HellFire' WHERE entry=211084; -- Name: Mephistroph's HellFire
 UPDATE locales_gameobject SET name_loc4='TEMP Machine Shop' WHERE entry=300010; -- Name: TEMP Machine Shop
 UPDATE locales_gameobject SET name_loc4='Nearby Tubers' WHERE entry=300011; -- Name: Nearby Tubers
@@ -119,14 +96,11 @@ UPDATE locales_gameobject SET name_loc4='TEMP Fourth Tide Pool' WHERE entry=3001
 UPDATE locales_gameobject SET name_loc4='TEMP Jintha\'Alor Altar' WHERE entry=300137; -- Name: TEMP Jintha'Alor Altar
 UPDATE locales_gameobject SET name_loc4='TEMP Equinex Monolith' WHERE entry=300138; -- Name: TEMP Equinex Monolith
 UPDATE locales_gameobject SET name_loc4='TEMP Shards of Myzrael' WHERE entry=300139; -- Name: TEMP Shards of Myzrael
-UPDATE locales_gameobject SET name_loc4='TEMP Grom\'s Monument' WHERE entry=300140; -- Name: TEMP Grom's Monument
 UPDATE locales_gameobject SET name_loc4='TEMP High Chief Winterfall\'s Cave' WHERE entry=300141; -- Name: TEMP High Chief Winterfall's Cave
 UPDATE locales_gameobject SET name_loc4='TEMP Shrine of Remulos' WHERE entry=300142; -- Name: TEMP Shrine of Remulos
 UPDATE locales_gameobject SET name_loc4='TEMP Swamplight Manor Dock' WHERE entry=300143; -- Name: TEMP Swamplight Manor Dock
 UPDATE locales_gameobject SET name_loc4='TEMP The Great Ossuary' WHERE entry=300144; -- Name: TEMP The Great Ossuary
 UPDATE locales_gameobject SET name_loc4='TEMP Uther\'s Tomb Statue' WHERE entry=300145; -- Name: TEMP Uther's Tomb Statue
-UPDATE locales_gameobject SET name_loc4='TEMP Ruins of Stardust Fountain' WHERE entry=300148; -- Name: TEMP Ruins of Stardust Fountain
-UPDATE locales_gameobject SET name_loc4='TEMP Blackhoof Village Windmill' WHERE entry=300149; -- Name: TEMP Blackhoof Village Windmill
 UPDATE locales_gameobject SET name_loc4='TEMP Grimtotem Tent' WHERE entry=300150; -- Name: TEMP Grimtotem Tent
 UPDATE locales_gameobject SET name_loc4='TEMP Hyjal Family Monument' WHERE entry=300151; -- Name: TEMP Hyjal Family Monument
 UPDATE locales_gameobject SET name_loc4='TEMP Entrance to Onyxia\'s Lair' WHERE entry=300153; -- Name: TEMP Entrance to Onyxia's Lair

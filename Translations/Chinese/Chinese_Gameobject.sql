@@ -9016,6 +9016,7 @@ UPDATE locales_gameobject SET name_loc4='被腐蚀的木材' WHERE entry=181916;
 UPDATE locales_gameobject SET name_loc4='篝火' WHERE entry=181920; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc4='篝火' WHERE entry=181954; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc4='洛丹伦神龛' WHERE entry=181955; -- Name: Lordaeron Shrine
+UPDATE locales_gameobject SET name_loc4='镀金火盆' WHERE entry=181956; -- Name: Gilded Brazier
 UPDATE locales_gameobject SET name_loc4='洞穴火炬' WHERE entry=181959; -- Name: Cave Torch
 UPDATE locales_gameobject SET name_loc4='水晶尘袋' WHERE entry=181962; -- Name: Dust Bag
 UPDATE locales_gameobject SET name_loc4='焦骨碎块' WHERE entry=181963; -- Name: Charred Bone Fragment
@@ -9039,6 +9040,7 @@ UPDATE locales_gameobject SET name_loc4='黑暗火盆' WHERE entry=182020; -- Na
 UPDATE locales_gameobject SET name_loc4='黑暗火盆' WHERE entry=182021; -- Name: Dark Brazier
 UPDATE locales_gameobject SET name_loc4='黑暗火盆' WHERE entry=182022; -- Name: Dark Brazier
 UPDATE locales_gameobject SET name_loc4='黑暗火盆' WHERE entry=182023; -- Name: Dark Brazier
+UPDATE locales_gameobject SET name_loc4='灌血宝珠' WHERE entry=182024; -- Name: Blood Filled Orb
 UPDATE locales_gameobject SET name_loc4='黑暗火盆' WHERE entry=182027; -- Name: Dark Brazier
 UPDATE locales_gameobject SET name_loc4='黑暗火盆' WHERE entry=182028; -- Name: Dark Brazier
 UPDATE locales_gameobject SET name_loc4='黑暗火盆' WHERE entry=182029; -- Name: Dark Brazier
@@ -10243,6 +10245,8 @@ UPDATE locales_gameobject SET name_loc4='熔炉' WHERE entry=186231; -- Name: Fo
 UPDATE locales_gameobject SET name_loc4='铁砧' WHERE entry=186232; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc4='篝火' WHERE entry=186233; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc4='塔贝萨的农场' WHERE entry=186240; -- Name: Tabetha's Farm
+UPDATE locales_gameobject SET name_loc4='泥链镇' WHERE entry=186241; -- Name: Mudsprocket
+UPDATE locales_gameobject SET name_loc4='蕨墙村' WHERE entry=186242; -- Name: Brackenwall Village
 UPDATE locales_gameobject SET name_loc4='篝火' WHERE entry=186243; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc4='啤酒车' WHERE entry=186250; -- Name: Beer Wagon
 UPDATE locales_gameobject SET name_loc4='集合石' WHERE entry=186251; -- Name: Meeting Stone
@@ -10283,6 +10287,7 @@ UPDATE locales_gameobject SET name_loc4='龙尾草' WHERE entry=186463; -- Name:
 UPDATE locales_gameobject SET name_loc4='灯塔光线' WHERE entry=186465; -- Name: Lighthouse Beam
 UPDATE locales_gameobject SET name_loc4='奥卡兹符文法阵' WHERE entry=186469; -- Name: Alcaz Rune Circle
 UPDATE locales_gameobject SET name_loc4='超级美酒杯' WHERE entry=186478; -- Name: Super Brew Stein
+UPDATE locales_gameobject SET name_loc4='祖阿曼箱子（假）敞开' WHERE entry=186482; -- Name: Zul'Aman Dummy Cage - Open
 UPDATE locales_gameobject SET name_loc4='邮箱' WHERE entry=186629; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc4='熔炉' WHERE entry=186630; -- Name: Forge
 UPDATE locales_gameobject SET name_loc4='铁砧' WHERE entry=186631; -- Name: Anvil
@@ -10331,20 +10336,61 @@ UPDATE locales_gameobject SET name_loc4='哈兹莱克的牢笼' WHERE entry=1873
 UPDATE locales_gameobject SET name_loc4='巴卡祖鲁的牢笼' WHERE entry=187378; -- Name: Harkor's Cage
 UPDATE locales_gameobject SET name_loc4='洛尔卡尼的牢笼' WHERE entry=187379; -- Name: Kraz's Cage
 UPDATE locales_gameobject SET name_loc4='卡莎的牢笼' WHERE entry=187380; -- Name: Ashli's Cage
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187559; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187564; -- Name: Alliance Bonfire
 UPDATE locales_gameobject SET name_loc4='悬挂，方型，规模 - MFF' WHERE entry=187576; -- Name: Hanging, Square, Small - MFF
 UPDATE locales_gameobject SET name_loc4='占卜宝珠' WHERE entry=187578; -- Name: Scrying Orb
 UPDATE locales_gameobject SET name_loc4='直立，公布-MFF' WHERE entry=187653; -- Name: Standing, Post - MFF
 UPDATE locales_gameobject SET name_loc4='悬挂，高/瘦，规模' WHERE entry=187667; -- Name: Hanging, Tall/Thin, Small - MFF
+UPDATE locales_gameobject SET name_loc4='火炬目标火盆' WHERE entry=187708; -- Name: Torch Target Brazier
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187914; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187916; -- Name: Alliance Bonfire
 UPDATE locales_gameobject SET name_loc4='暮光营火' WHERE entry=187918; -- Name: Twilight Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187920; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187923; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187924; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187925; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187926; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187927; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187928; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187931; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187932; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187934; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187936; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187938; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187940; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187943; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187944; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187945; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='联盟营火' WHERE entry=187946; -- Name: Alliance Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187947; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187948; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187950; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187951; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187952; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187953; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187954; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187956; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187957; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187959; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187961; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187964; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187968; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187969; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187971; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187972; -- Name: Horde Bonfire
+UPDATE locales_gameobject SET name_loc4='部落营火' WHERE entry=187973; -- Name: Horde Bonfire
 UPDATE locales_gameobject SET name_loc4='暮光火炬' WHERE entry=187988; -- Name: Twilight Torch
 UPDATE locales_gameobject SET name_loc4='暮光火炬' WHERE entry=187989; -- Name: Twilight Torch
 UPDATE locales_gameobject SET name_loc4='寒冰屏障' WHERE entry=188067; -- Name: Ice Block
 UPDATE locales_gameobject SET name_loc4='寒冰之石' WHERE entry=188072; -- Name: Ice Stone Mount
+UPDATE locales_gameobject SET name_loc4='艾胡恩营火' WHERE entry=188073; -- Name: Ahune Bonfire
 UPDATE locales_gameobject SET name_loc4='邮箱' WHERE entry=188123; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc4='邮箱' WHERE entry=188132; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc4='寒冰屏障' WHERE entry=188142; -- Name: Ice Block, Big
 UPDATE locales_gameobject SET name_loc4='仲夏节庆音乐小玩意' WHERE entry=188174; -- Name: Midsummer Music Doodad
 UPDATE locales_gameobject SET name_loc4='篝火' WHERE entry=188214; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc4='撒塔斯之焰' WHERE entry=188352; -- Name: Flame of Shattrath
 UPDATE locales_gameobject SET name_loc4='蓝龙宝珠' WHERE entry=188415; -- Name: Orb of the Blue Flight
 UPDATE locales_gameobject SET name_loc4='钻孔机控制台' WHERE entry=188498; -- Name: Mole Machine Console
 UPDATE locales_gameobject SET name_loc4='大锅的烟雾' WHERE entry=190395; -- Name: Cauldron Smoke
@@ -10356,6 +10402,29 @@ UPDATE locales_gameobject SET name_loc4='奈法利安的王座' WHERE entry=2000
 UPDATE locales_gameobject SET name_loc4='购物中心' WHERE entry=200001; -- Name: Shopping Centre
 UPDATE locales_gameobject SET name_loc4='新年联盟挂旗01' WHERE entry=210210; -- Name: New Year Alliance Hanging Banner
 UPDATE locales_gameobject SET name_loc4='新年联盟挂旗02' WHERE entry=210211; -- Name: New Year Alliance Hanging Banner 02
+UPDATE locales_gameobject SET name_loc4='新年部落挂旗01' WHERE entry=210212; -- Name: New Year Horde Hanging Banner
+UPDATE locales_gameobject SET name_loc4='新年部落旗帜' WHERE entry=210215; -- Name: New Year Horde Standing Banner
+UPDATE locales_gameobject SET name_loc4='通信晶体' WHERE entry=210327; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc4='通信晶体' WHERE entry=210328; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc4='通信晶体' WHERE entry=210329; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc4='通信晶体' WHERE entry=210330; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc4='通信晶体' WHERE entry=210331; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc4='通信晶体' WHERE entry=210332; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc4='安其拉铜锣' WHERE entry=210334; -- Name: Ahn'Qiraj Gong
+UPDATE locales_gameobject SET name_loc4='格里什水晶' WHERE entry=210338; -- Name: Gorishi Silithid Crystal
+UPDATE locales_gameobject SET name_loc4='安其拉之门 01' WHERE entry=210347; -- Name: Ahn'Qiraj Door 01
+UPDATE locales_gameobject SET name_loc4='铁砧' WHERE entry=211016; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc4='召唤法阵' WHERE entry=211020; -- Name: Summoning Circle
+UPDATE locales_gameobject SET name_loc4='旗帜' WHERE entry=211029; -- Name: Banner
+UPDATE locales_gameobject SET name_loc4='光环' WHERE entry=211033; -- Name: Aura
+UPDATE locales_gameobject SET name_loc4='光环' WHERE entry=211034; -- Name: Aura
+UPDATE locales_gameobject SET name_loc4='火焰图腾' WHERE entry=211036; -- Name: Fire Totem
+UPDATE locales_gameobject SET name_loc4='神秘的树桩' WHERE entry=211051; -- Name: Mysterious Tree Stump
+UPDATE locales_gameobject SET name_loc4='熔岩破裂' WHERE entry=211054; -- Name: Lava Crack
+UPDATE locales_gameobject SET name_loc4='艾尔文森林栅栏' WHERE entry=211062; -- Name: Elwynn Fence
+UPDATE locales_gameobject SET name_loc4='艾尔文森林栅栏' WHERE entry=211063; -- Name: Elwynn Fence
+UPDATE locales_gameobject SET name_loc4='坟墓' WHERE entry=211065; -- Name: Grave
+UPDATE locales_gameobject SET name_loc4='火焰图腾' WHERE entry=211068; -- Name: Fire Totem
 UPDATE locales_gameobject SET name_loc4='临时外禁锢之石' WHERE entry=300012; -- Name: TEMP Stone of Outer Binding
 UPDATE locales_gameobject SET name_loc4='临时法力裂隙' WHERE entry=300013; -- Name: TEMP Mana Rift Disturbance
 UPDATE locales_gameobject SET name_loc4='临时莎德拉罗祭坛 ' WHERE entry=300017; -- Name: TEMP Shadra'Alor Altar
@@ -10364,7 +10433,10 @@ UPDATE locales_gameobject SET name_loc4='达隆郡广场' WHERE entry=300034; --
 UPDATE locales_gameobject SET name_loc4='临时赞扎祭坛' WHERE entry=300053; -- Name: TEMP Altar of Zanza
 UPDATE locales_gameobject SET name_loc4='临时南海镇' WHERE entry=300054; -- Name: TEMP Southshore
 UPDATE locales_gameobject SET name_loc4='临时格拉卡洛之骨 ' WHERE entry=300055; -- Name: TEMP Bones of Grakkarond
+UPDATE locales_gameobject SET name_loc4='格罗姆纪念碑' WHERE entry=300140; -- Name: TEMP Grom's Monument
 UPDATE locales_gameobject SET name_loc4='喷水孔' WHERE entry=300146; -- Name: TEMP Quilboar Watering Hole
 UPDATE locales_gameobject SET name_loc4='井' WHERE entry=300147; -- Name: TEMP Spring Well
+UPDATE locales_gameobject SET name_loc4='喷泉' WHERE entry=300148; -- Name: TEMP Ruins of Stardust Fountain
+UPDATE locales_gameobject SET name_loc4='TEMP Blackhoof 风车村' WHERE entry=300149; -- Name: TEMP Blackhoof Village Windmill
 
 SET NAMES 'latin1';
