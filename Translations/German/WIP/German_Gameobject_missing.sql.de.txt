@@ -1,0 +1,1010 @@
+﻿UPDATE Locales_gameobject Set name_loc3 = | Eliza's Grabstein| WHERE entry = 37; --Name: Eliza|s Grabstein
+UPDATE Locales_gameobject Set name_loc3 = | Captain Sanders Brust| WHERE entry = 38; --Name: Captain Sanders Brust
+UPDATE Locales_gameobject Set name_loc3 = | Hügel des losen Schmutz| WHERE entry = 59; --Name: Hügel des losen Schmutz
+UPDATE Locales_gameobject Set name_loc3 = | Abercrombie Kiste| WHERE entry = 167; --Name: Abercrombie|s-Kiste
+UPDATE Locales_gameobject Set name_loc3 = | Kiste von Lebensmitteln| WHERE entry = 249; --Name: Kiste von Lebensmitteln
+UPDATE Locales_gameobject Set name_loc3 = | Forschung Ausrüstung| WHERE entry = 251; --Name: Forschung Ausrüstung
+UPDATE Locales_gameobject Set name_loc3 = | Gesucht: Chok'Sul| WHERE entry = 254; --Name: wollte: Chok| Sul
+UPDATE Locales_gameobject Set name_loc3 = | Wasser Pitcher| WHERE entry = 337; --Name: Wasser-Krug
+UPDATE Locales_gameobject Set name_loc3 = | Wollte! | WHERE entry = 711; --Name: wollte!
+UPDATE Locales_gameobject Set name_loc3 = | Leiche beladenen Boat| WHERE entry = 1593; --Name: Leiche beladenen Boot
+UPDATE Locales_gameobject Set name_loc3 = | Flache Grave| WHERE entry = 1599; --Name: Shallow Grave
+UPDATE Locales_gameobject Set name_loc3 = | Agamand Mills| WHERE entry = 1631; --Name: Agamand Mills
+UPDATE Locales_gameobject Set name_loc3 = | Brill| WHERE entry = 1632; --Name: Brill
+UPDATE Locales_gameobject Set name_loc3 = | Grabgeläute| WHERE entry = 1638; --Name: Grabgeläute
+UPDATE Locales_gameobject Set name_loc3 = | Stanleys Dish| WHERE entry = 1720; --Name: Stanley|s Gericht
+UPDATE Locales_gameobject Set name_loc3 = | Syndikat Dokumente| WHERE entry = 1738; --Name: Syndikat Dokumente
+UPDATE Locales_gameobject Set name_loc3 = | Syndikat Dokumente| WHERE entry = 1739; --Name: Syndikat Dokumente
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 1752; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Schmieden| WHERE entry = 1753; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 1754; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Schmieden| WHERE entry = 1755; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = | wollte| WHERE entry = 1763; --Name: wollte
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1798; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1803; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1818; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1821; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1828; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1830; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1871; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1888; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1889; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1890; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Forge| WHERE entry = 1896; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1905; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1906; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1912; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1922; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1927; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1930; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1931; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1932; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1935; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1938; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1942; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1965; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1968; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1993; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1994; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1995; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 1996; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 2003; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Schwelenden Fire| WHERE entry = 2004; --Name: schwelende Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 2007; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Gefährlich! | WHERE entry = 2008; --Name: gefährlich!
+UPDATE Locales_gameobject Set name_loc3 = | Grabgeläute| WHERE entry = 2035; --Name: Grabgeläute
+UPDATE Locales_gameobject Set name_loc3 = | Wein Fass| WHERE entry = 2130; --Name: Wein Fass
+UPDATE Locales_gameobject Set name_loc3 = | Käse-Schneidgeräte| WHERE entry = 2148; --Name: Käse-Schneidgeräte
+UPDATE Locales_gameobject Set name_loc3 = | die sieben tödliche Gifte| WHERE entry = 2149; --Name: die sieben tödliche Gifte
+UPDATE Locales_gameobject Set name_loc3 = | Thane des Boots und Schulterpolster| WHERE entry = 2151; --Name: Thane|s Stiefel und Schulterpolster
+UPDATE Locales_gameobject Set name_loc3 = | Magier-Viertel| WHERE entry = 2188; --Name: Magier-Viertel
+UPDATE Locales_gameobject Set name_loc3 = | Holzstuhl WHERE entry = 2413; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Brauchen Namen| WHERE entry = 2414; --Name: brauchen Namen
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 2572; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Schmieden| WHERE entry = 2573; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 2649; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Schmieden| WHERE entry = 2650; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 2658; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Säule des Diamond| WHERE entry = 2842; --Name: Säule der Diamond
+UPDATE Locales_gameobject Set name_loc3 = | Säule des Opal| WHERE entry = 2848; --Name: Säule der Opal
+UPDATE Locales_gameobject Set name_loc3 = | Säule des Amethyst| WHERE entry = 2858; --Name: Säule aus Amethyst
+UPDATE Locales_gameobject Set name_loc3 = | Siegel der Earth| WHERE entry = 2933; --Name: Siegel der Erde
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 3085; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 3089; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Rasierer-Hill| WHERE entry = 3224; --Name: Klingenhügel
+UPDATE Locales_gameobject Set name_loc3 = | Benedikts Chest| WHERE entry = 3239; --Name: Benedict|s Brust
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 3253; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 3254; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 3270; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 3306; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 3638; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 3639; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 3760; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 3761; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Drizzlik die Emporium| WHERE entry = 3767; --Name: Drizzlik|s Emporium
+UPDATE Locales_gameobject Set name_loc3 = | Fragile - tun nicht Drop| WHERE entry = 3768; --Name: Fragile - lassen Sie nicht fallen
+UPDATE Locales_gameobject Set name_loc3 = | Feuer-Plume-Ridge-Lava-Lake| WHERE entry = 4004; --Name: Fire Plume Ridge Lavasee
+UPDATE Locales_gameobject Set name_loc3 = | Bank| WHERE entry = 4005; --Name: Bank
+UPDATE Locales_gameobject Set name_loc3 = | Die Crossroads| WHERE entry = 4102; --Name: Scheideweg
+UPDATE Locales_gameobject Set name_loc3 = | Stonetalon Mountains| WHERE entry = 4103; --Name: Steinkrallengebirge
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 6293; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 6294; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 6295; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Rot Raptor Nest| WHERE entry = 6906; --Name: roter Raptor-Nest
+UPDATE Locales_gameobject Set name_loc3 = | Blauer Raptor Nest| WHERE entry = 6907; --Name: blau Raptor-Nest
+UPDATE Locales_gameobject Set name_loc3 = | Gelber Raptor Nest| WHERE entry = 6908; --Name: gelber Raptor-Nest
+UPDATE Locales_gameobject Set name_loc3 = | Kochen Fire| WHERE entry = 9847; --Name: Feuer Kochen
+UPDATE Locales_gameobject Set name_loc3 = | Kochen Fire| WHERE entry = 10388; --Name: Feuer Kochen
+UPDATE Locales_gameobject Set name_loc3 = | Dämmerung-Tome| WHERE entry = 12144; --Name: Twilight Tome
+UPDATE Locales_gameobject Set name_loc3 = | Katze Figur Trap| WHERE entry = 12653; --Name: Katze Figur-Falle
+UPDATE Locales_gameobject Set name_loc3 = | Dämmerung-Tome| WHERE entry = 12666; --Name: Twilight Tome
+UPDATE Locales_gameobject Set name_loc3 = | Friedhof Banner| WHERE entry = 13756; --Name: Friedhof-Banner
+UPDATE Locales_gameobject Set name_loc3 = | Ziel| WHERE entry = 13952; --Name: Ziel
+UPDATE Locales_gameobject Set name_loc3 = | Mine Banner| WHERE entry = 15001; --Name: meine Banner
+UPDATE Locales_gameobject Set name_loc3 = | Sägewerk Banner| WHERE entry = 15002; --Name: Lumber Mill-Banner
+UPDATE Locales_gameobject Set name_loc3 = | Bauernhof Banner| WHERE entry = 15003; --Name: Banner auf dem Bauernhof
+UPDATE Locales_gameobject Set name_loc3 = | Schmied Banner| WHERE entry = 15004; --Name: Schmied-Banner
+UPDATE Locales_gameobject Set name_loc3 = | Stabile Banner| WHERE entry = 15005; --Name: stabile Banner
+UPDATE Locales_gameobject Set name_loc3 = | Nekrotische Crystal| geknackt WHERE entry = 16431; --Name: geknackt nekrotischen Kristall
+UPDATE Locales_gameobject Set name_loc3 = | BUZZBOX 323| WHERE entry = 17184; --Name: Buzzbox 323
+UPDATE Locales_gameobject Set name_loc3 = | Die Lage des Ameth'Aran| WHERE entry = 17188; --Name: Lay of Ameth| Aran
+UPDATE Locales_gameobject Set name_loc3 = | Der Fall der Ameth'Aran| WHERE entry = 17189; --Name: der Fall der Ameth| Aran
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 18046; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Sprudelnden Cauldron| WHERE entry = 18084; --Name: sprudelnde Kessel
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 18085; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 18087; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Cliffspring Falls Höhle Mouth| WHERE entry = 19463; --Name: Cliffspring Falls Cave Mund
+UPDATE Locales_gameobject Set name_loc3 = | Dreadmist Peak Pool| WHERE entry = 19464; --Name: Dreadmist-Peak-Pool
+UPDATE Locales_gameobject Set name_loc3 = | "CRACKLING" Lagerfeuer| WHERE entry = 19536; --Name: knisternde Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Die verkohlten Vale| WHERE entry = 19577; --Name: die verkohlten Vale
+UPDATE Locales_gameobject Set name_loc3 = | Goblin-Shredder-Suit| WHERE entry = 19582; --Name: Goblin-Shredder-Anzug
+UPDATE Locales_gameobject Set name_loc3 = | Pfeilschnelle Post| WHERE entry = 19848; --Name: Pfeilschnelle Post
+UPDATE Locales_gameobject Set name_loc3 = | Schimmernde Flats| WHERE entry = 19849; --Name: schimmernden Wohnungen
+UPDATE Locales_gameobject Set name_loc3 = | Tanaris| WHERE entry = 19850; --Name: Tanaris
+UPDATE Locales_gameobject Set name_loc3 = | Die große Lift| WHERE entry = 19851; --Name: der große Aufzug
+UPDATE Locales_gameobject Set name_loc3 = | Die Barrens| WHERE entry = 19852; --Name: Brachland
+UPDATE Locales_gameobject Set name_loc3 = | Pfeilschnelle Post| WHERE entry = 19853; --Name: Pfeilschnelle Post
+UPDATE Locales_gameobject Set name_loc3 = | Die Barrens| WHERE entry = 19854; --Name: Brachland
+UPDATE Locales_gameobject Set name_loc3 = | Tanaris| WHERE entry = 19855; --Name: Tanaris
+UPDATE Locales_gameobject Set name_loc3 = | Die Barrens| WHERE entry = 19856; --Name: Brachland
+UPDATE Locales_gameobject Set name_loc3 = | Schimmernde Flats| WHERE entry = 19857; --Name: schimmernden Wohnungen
+UPDATE Locales_gameobject Set name_loc3 = | Thalanaar| WHERE entry = 19858; --Name: Thalanaar
+UPDATE Locales_gameobject Set name_loc3 = | Feralas| WHERE entry = 19859; --Name: Feralas
+UPDATE Locales_gameobject Set name_loc3 = | Kreis von Imprisonment| WHERE entry = 19901; --Name: Kreis Freiheitsstrafe
+UPDATE Locales_gameobject Set name_loc3 = | Forge| WHERE entry = 19902; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = | Kreis von Imprisonment| WHERE entry = 20352; --Name: Kreis Freiheitsstrafe
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 20356; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Mine| WHERE entry = 20811; --Name: Meins
+UPDATE Locales_gameobject Set name_loc3 = | Orc-Tower| WHERE entry = 20812; --Name: Orc Tower
+UPDATE Locales_gameobject Set name_loc3 = | Bewachen Tower| WHERE entry = 20816; --Name: Wachturm
+UPDATE Locales_gameobject Set name_loc3 = | Halten Pen| WHERE entry = 20817; --Name: Stift halten
+UPDATE Locales_gameobject Set name_loc3 = | Nacht Elf Mond Well| WHERE entry = 20818; --Name: Nachtelf Mond gut
+UPDATE Locales_gameobject Set name_loc3 = | Mond gut 2| WHERE entry = 20819; --Name: Mond gut 2
+UPDATE Locales_gameobject Set name_loc3 = | Riesen-Meer-Turtle| WHERE entry = 20820; --Name: Riesen-Meeresschildkröte
+UPDATE Locales_gameobject Set name_loc3 = | Riesen Turtle| WHERE entry = 20821; --Name: Riesenschildkröte
+UPDATE Locales_gameobject Set name_loc3 = | Landung-Pad| WHERE entry = 20822; --Name: Landing Pad
+UPDATE Locales_gameobject Set name_loc3 = | Player Housing| WHERE entry = 20823; --Name: Spieler-Gehäuse
+UPDATE Locales_gameobject Set name_loc3 = | Orc-Tower| WHERE entry = 20824; --Name: Orc Tower
+UPDATE Locales_gameobject Set name_loc3 = | Stormwind City| WHERE entry = 20827; --Name: Sturmwind-Stadt
+UPDATE Locales_gameobject Set name_loc3 = | "CRACKLING" Lagerfeuer| WHERE entry = 20850; --Name: knisternde Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Schwelenden Brazier| WHERE entry = 20873; --Name: qualmender Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Schwelenden Brazier| WHERE entry = 20874; --Name: qualmender Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Schwelenden Brazier| WHERE entry = 20875; --Name: qualmender Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Schwelenden Brazier| WHERE entry = 20876; --Name: qualmender Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Cauldron| WHERE entry = 20878; --Name: Cauldron
+UPDATE Locales_gameobject Set name_loc3 = | "CRACKLING" Lagerfeuer| WHERE entry = 20879; --Name: knisternde Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Flackernde Lagerfeuer| WHERE entry = 20881; --Name: flackernde Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 20924; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Flackernde Lagerfeuer| WHERE entry = 20926; --Name: flackernde Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 20972; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 20983; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Hoofprints| WHERE entry = 21015; --Name: Hufabdruck
+UPDATE Locales_gameobject Set name_loc3 = | Hoofprints| WHERE entry = 21016; --Name: Hufabdruck
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 21282; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lashh'an Zauber Circle| WHERE entry = 21511; --Name: Lashh|an Zauber Kreis
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 21628; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 21629; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Forge| WHERE entry = 21630; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = | Forge| WHERE entry = 21631; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = |unk| WHERE entry = 21653; --Name: Unk
+UPDATE Locales_gameobject Set name_loc3 = |unk| WHERE entry = 21654; --Name: Unk
+UPDATE Locales_gameobject Set name_loc3 = |unk| WHERE entry = 21655; --Name: Unk
+UPDATE Locales_gameobject Set name_loc3 = |unk| WHERE entry = 21656; --Name: Unk
+UPDATE Locales_gameobject Set name_loc3 = | Zwergen-Fire| WHERE entry = 22205; --Name: Dwarven Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Zwergen-Fire| WHERE entry = 22207; --Name: Dwarven Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Zwergen-Fire| WHERE entry = 22208; --Name: Dwarven Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22249; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Schreibtisch Chair| WHERE entry = 22256; --Name: Schreibtischstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22542; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22618; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22663; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22796; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22797; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22798; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22799; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hohe hintere Chair| WHERE entry = 22800; --Name: hoher Stuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Hohe hintere Chair| WHERE entry = 22801; --Name: hoher Stuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Hohe hintere Chair| WHERE entry = 22802; --Name: hoher Stuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22808; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22809; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22810; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22816; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 22817; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Gizmorium Versand Crate| WHERE entry = 23505; --Name: Gizmorium Versand Kiste
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 23880; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 23881; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Stein Bench| WHERE entry = 24397; --Name: Stein Sitzbank
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 24493; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 24500; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 24501; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 24502; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 24503; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 24504; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 24505; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 24510; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 24511; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Industrielle District| WHERE entry = 25334; --Name: Industrial District
+UPDATE Locales_gameobject Set name_loc3 = | Die Park| WHERE entry = 25342; --Name: der Park
+UPDATE Locales_gameobject Set name_loc3 = | Die Park| WHERE entry = 25352; --Name: der Park
+UPDATE Locales_gameobject Set name_loc3 = | Dom Square| WHERE entry = 25355; --Name: Domplatz
+UPDATE Locales_gameobject Set name_loc3 = | Dom Square| WHERE entry = 25356; --Name: Domplatz
+UPDATE Locales_gameobject Set name_loc3 = | Dom Square| WHERE entry = 25357; --Name: Domplatz
+UPDATE Locales_gameobject Set name_loc3 = | Craghelm der Platte und Chain| WHERE entry = 26480; --Name: Craghelm|s Platte und Kette
+UPDATE Locales_gameobject Set name_loc3 = | Goldfury der Jagd Supplies| WHERE entry = 26482; --Name: Goldfury|s-Jagd-Zubehör
+UPDATE Locales_gameobject Set name_loc3 = | Fizzlespinner des allgemeinen Goods| WHERE entry = 26483; --Name: Fizzlespinner|s General Goods
+UPDATE Locales_gameobject Set name_loc3 = | Thundershot Guns 'n Ammo| WHERE entry = 26485; --Name: Thundershot Waffen |n Munition
+UPDATE Locales_gameobject Set name_loc3 = | Die Stonefire-Tavern| WHERE entry = 26486; --Name: Stonefire Taverne
+UPDATE Locales_gameobject Set name_loc3 = | Barim des Reagents| WHERE entry = 26487; --Name: Barim|s Reagenzien
+UPDATE Locales_gameobject Set name_loc3 = | Waldgrenze Arms| WHERE entry = 26488; --Name: Timberline Waffen
+UPDATE Locales_gameobject Set name_loc3 = | Bruuk des Corner| WHERE entry = 26489; --Name: Bruuk|s-Ecke
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge Besuchers Center| WHERE entry = 26490; --Name: Ironforge Visitor|s Center
+UPDATE Locales_gameobject Set name_loc3 = | Pithwick Taschen und Supplies| WHERE entry = 26491; --Name: Pithwick|s Taschen und liefert
+UPDATE Locales_gameobject Set name_loc3 = | Farmountain Maps| WHERE entry = 26492; --Name: Farmountain Karten
+UPDATE Locales_gameobject Set name_loc3 = | Stonebranch Herbalist| WHERE entry = 26493; --Name: Stonebranch Kräuterkundler
+UPDATE Locales_gameobject Set name_loc3 = | Deep Mountain Bergbau Guild| WHERE entry = 26497; --Name: Deep Mountain Mining Gilde
+UPDATE Locales_gameobject Set name_loc3 = | Bronze Kettle| WHERE entry = 26498; --Name: Bronze Kessel
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28048; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28049; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28050; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28051; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28052; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28053; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28054; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28055; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28056; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28605; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28606; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28607; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28608; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28609; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28610; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 28611; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 28612; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 28613; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Mittlere Brazier| WHERE entry = 31576; --Name: mittlere Brazier
+UPDATE Locales_gameobject Set name_loc3 = | IronForge-Elevator| WHERE entry = 32056; --Name: Eisenschmiede-Aufzug
+UPDATE Locales_gameobject Set name_loc3 = | IronForge-Elevator| WHERE entry = 32057; --Name: Eisenschmiede-Aufzug
+UPDATE Locales_gameobject Set name_loc3 = | Brüllenden Fire| WHERE entry = 32109; --Name: brüllend Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 32110; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Flinthammer der Rüstungsschmied und Clothier| WHERE entry = 32348; --Name: Flinthammer|s Rüstungsschmied und Tuchmacher
+UPDATE Locales_gameobject Set name_loc3 = | Die Finespindle Leder Goods| WHERE entry = 32350; --Name: Finespindle|s-Lederwaren
+UPDATE Locales_gameobject Set name_loc3 = | Steinbraue des Clothier| WHERE entry = 32351; --Name: Stonebrow|s Clothier
+UPDATE Locales_gameobject Set name_loc3 = | Reisen Fisherman| WHERE entry = 32352; --Name: Fischer Reisen
+UPDATE Locales_gameobject Set name_loc3 = | Springspindle die Gadgets| WHERE entry = 32353; --Name: Springspindle|s-Gadgets
+UPDATE Locales_gameobject Set name_loc3 = | Dinge, die gehen Boom! | WHERE entry = 32354; --Name: Dinge, die gehen Boom!
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32356; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | Die Commerce-Ward| WHERE entry = 32357; --Name: Commerce-Ward
+UPDATE Locales_gameobject Set name_loc3 = | Die militärische Ward| WHERE entry = 32359; --Name: militärische Ward
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32360; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | Die Commerce-Ward| WHERE entry = 32361; --Name: Commerce-Ward
+UPDATE Locales_gameobject Set name_loc3 = | Die mystische Ward| WHERE entry = 32362; --Name: mystische Ward
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32363; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32364; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Die militärische Ward| WHERE entry = 32365; --Name: militärische Ward
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32366; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32367; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32368; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32370; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32371; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | Die große Forge| WHERE entry = 32372; --Name: die große Schmiede
+UPDATE Locales_gameobject Set name_loc3 = | Die große Forge| WHERE entry = 32373; --Name: die große Schmiede
+UPDATE Locales_gameobject Set name_loc3 = | Die große Forge| WHERE entry = 32374; --Name: die große Schmiede
+UPDATE Locales_gameobject Set name_loc3 = | Die große Forge| WHERE entry = 32375; --Name: die große Schmiede
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32376; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Gewölbe des Ironforge| WHERE entry = 32377; --Name: Vault von Eisenschmiede
+UPDATE Locales_gameobject Set name_loc3 = | Die große Forge| WHERE entry = 32378; --Name: die große Schmiede
+UPDATE Locales_gameobject Set name_loc3 = | Die große Forge| WHERE entry = 32379; --Name: die große Schmiede
+UPDATE Locales_gameobject Set name_loc3 = | Gewölbe des Ironforge| WHERE entry = 32380; --Name: Vault von Eisenschmiede
+UPDATE Locales_gameobject Set name_loc3 = | Die verlassenen Caverns| WHERE entry = 32381; --Name: die verlassenen Höhlen
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32384; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Halle Mysteries| WHERE entry = 32386; --Name: Halle der Geheimnisse
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32388; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Halle Arms| WHERE entry = 32390; --Name: Halle der Arme
+UPDATE Locales_gameobject Set name_loc3 = | Die große Forge| WHERE entry = 32392; --Name: die große Schmiede
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32393; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32394; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Die große Forge| WHERE entry = 32395; --Name: die große Schmiede
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32396; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32397; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32398; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32399; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Die Commerce-Ward| WHERE entry = 32400; --Name: Commerce-Ward
+UPDATE Locales_gameobject Set name_loc3 = | Die Commerce-Ward| WHERE entry = 32401; --Name: Commerce-Ward
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32402; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Die Commerce-Ward| WHERE entry = 32403; --Name: Commerce-Ward
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32405; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32406; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32407; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32408; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | Die Commerce-Ward| WHERE entry = 32409; --Name: Commerce-Ward
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32410; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32411; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32412; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32413; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | Die Commerce-Ward| WHERE entry = 32414; --Name: Commerce-Ward
+UPDATE Locales_gameobject Set name_loc3 = | Die Commerce-Ward| WHERE entry = 32417; --Name: Commerce-Ward
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32418; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | GNOMEs| WHERE entry = 32419; --Name: Zwerge
+UPDATE Locales_gameobject Set name_loc3 = | Die Commerce-Ward| WHERE entry = 32420; --Name: Commerce-Ward
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32421; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32423; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | Die militärische Ward| WHERE entry = 32428; --Name: militärische Ward
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32430; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Die militärische Ward| WHERE entry = 32434; --Name: militärische Ward
+UPDATE Locales_gameobject Set name_loc3 = | Die große Forge| WHERE entry = 32436; --Name: die große Schmiede
+UPDATE Locales_gameobject Set name_loc3 = | Die mystische Ward| WHERE entry = 32438; --Name: mystische Ward
+UPDATE Locales_gameobject Set name_loc3 = | Ironforge-Main Gate| WHERE entry = 32440; --Name: Ironforge Haupttor
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 32595; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32783; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32784; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32785; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32786; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32787; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32788; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | Die große Forge| WHERE entry = 32789; --Name: die große Schmiede
+UPDATE Locales_gameobject Set name_loc3 = | Die große Forge| WHERE entry = 32790; --Name: die große Schmiede
+UPDATE Locales_gameobject Set name_loc3 = | Die mystische Ward| WHERE entry = 32791; --Name: mystische Ward
+UPDATE Locales_gameobject Set name_loc3 = | Markt Walk| WHERE entry = 32792; --Name: Spaziergang zu vermarkten
+UPDATE Locales_gameobject Set name_loc3 = | Halle Explorers| WHERE entry = 32793; --Name: Halle der Forscher
+UPDATE Locales_gameobject Set name_loc3 = | BerryFizz Tränke und gemischte Drinks| WHERE entry = 34357; --Name: BerryFizz Tränke und Mischgetränke
+UPDATE Locales_gameobject Set name_loc3 = | Die verlassenen Cavern| WHERE entry = 34358; --Name: die verlassene Höhle
+UPDATE Locales_gameobject Set name_loc3 = | Die verlassenen Cavern| WHERE entry = 34359; --Name: die verlassene Höhle
+UPDATE Locales_gameobject Set name_loc3 = | Die verlassenen Cavern| WHERE entry = 34361; --Name: die verlassene Höhle
+UPDATE Locales_gameobject Set name_loc3 = | Die verlassenen Cavern| WHERE entry = 34362; --Name: die verlassene Höhle
+UPDATE Locales_gameobject Set name_loc3 = | Die verlassenen Cavern| WHERE entry = 34363; --Name: die verlassene Höhle
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 35572; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 35573; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 35574; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 35575; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 35576; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 35577; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 35578; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 35579; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 35580; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 35581; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 35582; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 35583; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 35584; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 35585; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 35588; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 35589; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 36645; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Restaurants Bench| WHERE entry = 36990; --Name: Bench Restaurants
+UPDATE Locales_gameobject Set name_loc3 = | Restaurants Bench| WHERE entry = 36991; --Name: Bench Restaurants
+UPDATE Locales_gameobject Set name_loc3 = | Restaurants Bench| WHERE entry = 36992; --Name: Bench Restaurants
+UPDATE Locales_gameobject Set name_loc3 = | Restaurants Bench| WHERE entry = 36993; --Name: Bench Restaurants
+UPDATE Locales_gameobject Set name_loc3 = | Restaurants Bench| WHERE entry = 36994; --Name: Bench Restaurants
+UPDATE Locales_gameobject Set name_loc3 = | Restaurants Bench| WHERE entry = 36995; --Name: Bench Restaurants
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37473; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 37474; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 37475; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37476; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37477; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37479; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 37480; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 37481; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37482; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 37483; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 37484; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37485; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37486; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37487; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37488; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37489; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37490; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 37491; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 37492; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 37493; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Cookpot| WHERE entry = 38019; --Name: Cookpot
+UPDATE Locales_gameobject Set name_loc3 = | PotBelly Stove| WHERE entry = 38020; --Name: Potbelly Herd
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 38021; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 38022; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 38023; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 38024; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 38025; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 38026; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 38027; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Fire| WHERE entry = 40198; --Name: Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 40299; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 55616; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 56820; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 57709; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 57710; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 57725; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 57726; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 57727; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 57748; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 57749; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 57750; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 57751; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 57752; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 57753; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Cauldron| WHERE entry = 59529; --Name: Cauldron
+UPDATE Locales_gameobject Set name_loc3 = | Cauldron| WHERE entry = 59530; --Name: Cauldron
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 60394; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 61927; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 61928; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 61952; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 61953; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 64849; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 64850; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Feuer Totem| WHERE entry = 67234; --Name: Feuer-Totem
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 69425; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 69431; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70518; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70519; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70520; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70521; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70522; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70523; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70524; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70525; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70526; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70527; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70528; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70530; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70531; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70532; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70533; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70534; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70535; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70536; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70537; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70538; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70539; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70540; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70541; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70542; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70543; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70544; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70545; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70546; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70547; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70548; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70549; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70551; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70552; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70553; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70554; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70555; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70556; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 70557; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Cauldron| WHERE entry = 74077; --Name: Cauldron
+UPDATE Locales_gameobject Set name_loc3 = | Geräuchertes Fleisch Rack| WHERE entry = 74446; --Name: geräuchertem Fleisch Rack
+UPDATE Locales_gameobject Set name_loc3 = | Noggele Satchel| WHERE entry = 74731; --Name: Noggle|s Satchel
+UPDATE Locales_gameobject Set name_loc3 = | Rail| WHERE entry = 80024; --Name: Schiene
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 82139; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Lamppost| WHERE entry = 82140; --Name: Laterne
+UPDATE Locales_gameobject Set name_loc3 = | Gestohlene Books| WHERE entry = 83763; --Name: Bücher gestohlen
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 88498; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 91738; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 92098; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 94189; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Schamane Shrine| WHERE entry = 100028; --Name: Schamane-Schrein
+UPDATE Locales_gameobject Set name_loc3 = | Schamane Shrine| WHERE entry = 100035; --Name: Schamane-Schrein
+UPDATE Locales_gameobject Set name_loc3 = | Schamane Shrine| WHERE entry = 101750; --Name: Schamane-Schrein
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 111993; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 111994; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 111995; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 111996; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 111998; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 112000; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 112015; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 112023; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 112024; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 112028; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 112068; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Chair| WHERE entry = 112214; --Name: Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 112318; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 113540; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Kohlebecken von Everfount| WHERE entry = 113791; --Name: Kohlebecken von Everfount
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 138316; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Forge| WHERE entry = 138317; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 138318; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Doors| WHERE entry = 138493; --Name: Türen
+UPDATE Locales_gameobject Set name_loc3 = | Heftige Blaze| WHERE entry = 140106; --Name: heftige Blaze
+UPDATE Locales_gameobject Set name_loc3 = | Heftige Blaze| WHERE entry = 140107; --Name: heftige Blaze
+UPDATE Locales_gameobject Set name_loc3 = | Heftige Blaze| WHERE entry = 140108; --Name: heftige Blaze
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 140211; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 140212; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 140213; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 140357; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Schwelenden Coals| WHERE entry = 140358; --Name: schwelenden Kohlen
+UPDATE Locales_gameobject Set name_loc3 = | Schwelenden Coals| WHERE entry = 140359; --Name: schwelenden Kohlen
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 140360; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 140931; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Sun Rock Retreat| WHERE entry = 141076; --Name: Sun Rock Retreat
+UPDATE Locales_gameobject Set name_loc3 = | Greatwood-Vale| WHERE entry = 141077; --Name: Greatwood Vale
+UPDATE Locales_gameobject Set name_loc3 = | Die Barrens| WHERE entry = 141078; --Name: Brachland
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 141839; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 141840; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Forge| WHERE entry = 141841; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 141843; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Cauldron| WHERE entry = 141845; --Name: Cauldron
+UPDATE Locales_gameobject Set name_loc3 = | Cannon| WHERE entry = 141860; --Name: Cannon
+UPDATE Locales_gameobject Set name_loc3 = | Cannon| WHERE entry = 141861; --Name: Cannon
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 141971; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 142018; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 142019; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 142020; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 142021; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Rin'jis Cage| WHERE entry = 142036; --Name: Rin|ji|s Käfig
+UPDATE Locales_gameobject Set name_loc3 = | Ei-O-Matic| WHERE entry = 142071; --Name: Ei-O-Matic
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 142101; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 142111; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 142119; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 142196; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Sprudelnden Cauldron| WHERE entry = 142693; --Name: sprudelnde Kessel
+UPDATE Locales_gameobject Set name_loc3 = | Gift-Bottle| WHERE entry = 142708; --Name: Gift-Flasche
+UPDATE Locales_gameobject Set name_loc3 = | Gift-Bottle| WHERE entry = 142709; --Name: Gift-Flasche
+UPDATE Locales_gameobject Set name_loc3 = | Gift-Bottle| WHERE entry = 142710; --Name: Gift-Flasche
+UPDATE Locales_gameobject Set name_loc3 = | Gift-Bottle| WHERE entry = 142711; --Name: Gift-Flasche
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 142947; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 142948; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Feralas: Ein History| WHERE entry = 142958; --Name: Feralas: eine Geschichte
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 142966; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Flinthammer der Rüstungsschmied und Clothier| WHERE entry = 143332; --Name: Flinthammer|s Rüstungsschmied und Tuchmacher
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 143987; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 143988; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 143989; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 143990; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 144570; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 146088; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 146089; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 146090; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 147065; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 147078; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 147079; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 147080; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 147536; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Gestohlene Silver| WHERE entry = 147557; --Name: Silber gestohlen
+UPDATE Locales_gameobject Set name_loc3 = | Kreis von Aquementas| WHERE entry = 148507; --Name: Kreis von Aquementas
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 148890; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 148896; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 148897; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 148907; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 148908; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | ANI| WHERE entry = 149420; --Name: Ani
+UPDATE Locales_gameobject Set name_loc3 = | Rune des Jin'Yael| WHERE entry = 149480; --Name: Rune des Jin|yael
+UPDATE Locales_gameobject Set name_loc3 = | Rune des Beth'Amara| WHERE entry = 149481; --Name: Rune des Beth| Amara
+UPDATE Locales_gameobject Set name_loc3 = | Rune des Markri| WHERE entry = 149482; --Name: Rune von Markri
+UPDATE Locales_gameobject Set name_loc3 = | Rune des Sael'Hai| WHERE entry = 149483; --Name: Rune des Sael|hai
+UPDATE Locales_gameobject Set name_loc3 = | Gewünschte Poster| WHERE entry = 150075; --Name: wollte Poster
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 150713; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Kaldorei Tome des Summoning| WHERE entry = 151286; --Name: Kaldorei Tome der Einberufung
+UPDATE Locales_gameobject Set name_loc3 = | Schimmernde Flats| WHERE entry = 151980; --Name: schimmernde Wohnungen
+UPDATE Locales_gameobject Set name_loc3 = | Steamwheedle Port| WHERE entry = 151981; --Name: Steamwheedle Port
+UPDATE Locales_gameobject Set name_loc3 = | Gadgetzan| WHERE entry = 151982; --Name: Gadgetzan
+UPDATE Locales_gameobject Set name_loc3 = |auctionhouse| WHERE entry = 151992; --Name: Auctionhouse
+UPDATE Locales_gameobject Set name_loc3 = | Magus Rimtori Journal| WHERE entry = 152098; --Name: Magus Rimtori|s Journal
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 152324; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Der Kolkar Booty| WHERE entry = 152608; --Name: Kolkar|s Beute
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 152619; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Darnassus-Auktion House| WHERE entry = 153113; --Name: Darnassus Auktionshaus
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 153578; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 153583; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 163313; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Die Toten Tree| WHERE entry = 164644; --Name: toter Baum
+UPDATE Locales_gameobject Set name_loc3 = | Echeyakee des Lair| WHERE entry = 164651; --Name: Echeyakee|s Lair
+UPDATE Locales_gameobject Set name_loc3 = | Brüllenden Fire| WHERE entry = 164699; --Name: brüllend Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Brüllenden Fire| WHERE entry = 164700; --Name: brüllend Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Brüllenden Fire| WHERE entry = 164701; --Name: brüllend Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Flammende Fire| WHERE entry = 164702; --Name: flammendes Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Flammende Fire| WHERE entry = 164703; --Name: flammendes Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Flammende Fire| WHERE entry = 164705; --Name: flammendes Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Zeppelin-Landung-Tower| WHERE entry = 165557; --Name: Zeppelin-Landung-Turm
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 169286; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 170033; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_GeneralChairLoEnd27| WHERE entry = 170034; --Name: Doodad_GeneralChairLoEnd27
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 170047; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 170053; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 170054; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 170067; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 171567; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 171568; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 171619; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 171620; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 171621; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 171622; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 171648; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Dwarven High zurück Chair| WHERE entry = 171649; --Name: Dwarven Hochstuhl zurück
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 171674; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 171675; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 171676; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 171677; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 171718; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 171719; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 171720; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Stein Chair| WHERE entry = 171721; --Name: Stein Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Zwergen-Brazier| WHERE entry = 171757; --Name: Dwarven Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Zwergen-Brazier| WHERE entry = 171758; --Name: Dwarven Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Zwergen-Brazier| WHERE entry = 171759; --Name: Dwarven Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Zwergen-Brazier| WHERE entry = 171760; --Name: Dwarven Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Zwergen-Brazier| WHERE entry = 171761; --Name: Dwarven Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Zwergen-Brazier| WHERE entry = 171762; --Name: Dwarven Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Zwergen-Brazier| WHERE entry = 171763; --Name: Dwarven Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 172943; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 172998; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 172999; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173000; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173001; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173002; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173003; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173004; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Darkfire Enclave| WHERE entry = 173005; --Name: Darkfire Enklave
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173124; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173126; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173201; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | AuctionNode| WHERE entry = 173227; --Name: AuctionNode
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173228; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173229; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173230; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Mächtige Blaze| WHERE entry = 173231; --Name: mächtig Heiße Glut
+UPDATE Locales_gameobject Set name_loc3 = | Xavian Waterfall| WHERE entry = 174797; --Name: Xavian Wasserfall
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_GeneralChairLoEnd75| WHERE entry = 174864; --Name: Doodad_GeneralChairLoEnd75
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_GeneralChairLoEnd64| WHERE entry = 174865; --Name: Doodad_GeneralChairLoEnd64
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_GeneralChairLoEnd72| WHERE entry = 174866; --Name: Doodad_GeneralChairLoEnd72
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_GeneralChairLoEnd66| WHERE entry = 174867; --Name: Doodad_GeneralChairLoEnd66
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_GeneralChairLoEnd76| WHERE entry = 174868; --Name: Doodad_GeneralChairLoEnd76
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_GeneralChairLoEnd78| WHERE entry = 174869; --Name: Doodad_GeneralChairLoEnd78
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_GeneralChairLoEnd79| WHERE entry = 174870; --Name: Doodad_GeneralChairLoEnd79
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_GeneralChairLoEnd81| WHERE entry = 174871; --Name: Doodad_GeneralChairLoEnd81
+UPDATE Locales_gameobject Set name_loc3 = | Chair| WHERE entry = 174946; --Name: Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Hölzerne Chair| WHERE entry = 174968; --Name: Holzstuhl
+UPDATE Locales_gameobject Set name_loc3 = | Sparklematic-5200| WHERE entry = 175087; --Name: Sparklematic 5200
+UPDATE Locales_gameobject Set name_loc3 = | Strand Meer Creature| WHERE entry = 175226; --Name: strandeten Meer Kreatur
+UPDATE Locales_gameobject Set name_loc3 = | Strand Meer Creature| WHERE entry = 175230; --Name: strandeten Meer Kreatur
+UPDATE Locales_gameobject Set name_loc3 = | Strand Meer Creature| WHERE entry = 175233; --Name: strandeten Meer Kreatur
+UPDATE Locales_gameobject Set name_loc3 = | GESUCHT: Murkdeep! | WHERE entry = 175320; --Name: wollte: Murkdeep!
+UPDATE Locales_gameobject Set name_loc3 = | Blackwood-Nuss-Stores| WHERE entry = 175329; --Name: Blackwood Nut Stores
+UPDATE Locales_gameobject Set name_loc3 = | Blackwood-Obst-Stores| WHERE entry = 175330; --Name: Blackwood Obst Stores
+UPDATE Locales_gameobject Set name_loc3 = | Blackwood Korn Stores| WHERE entry = 175331; --Name: Blackwood Getreidespeicher
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 175406; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Flammende Fire| WHERE entry = 175591; --Name: flammendes Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Kochen Fire| WHERE entry = 175592; --Name: Feuer Kochen
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 175593; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 175594; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 175595; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Kleine Fire| WHERE entry = 175596; --Name: kleines Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 175597; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 175598; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Wütende Fire| WHERE entry = 175599; --Name: tobenden Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Kochen Fire| WHERE entry = 175600; --Name: Feuer Kochen
+UPDATE Locales_gameobject Set name_loc3 = | Kleine Fire| WHERE entry = 175601; --Name: kleines Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 175602; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 175603; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Kochen Fire| WHERE entry = 175604; --Name: Feuer Kochen
+UPDATE Locales_gameobject Set name_loc3 = | Kochen Fire| WHERE entry = 175605; --Name: Feuer Kochen
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 175630; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 175631; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 175632; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_RuinedSign02| WHERE entry = 175644; --Name: Doodad_RuinedSign02
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_RuinedSign03| WHERE entry = 175645; --Name: Doodad_RuinedSign03
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_RuinedSign05| WHERE entry = 175646; --Name: Doodad_RuinedSign05
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_WoodSignPointerNice03| WHERE entry = 175647; --Name: Doodad_WoodSignPointerNice03
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_WoodSignPointerNice05| WHERE entry = 175648; --Name: Doodad_WoodSignPointerNice05
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_WoodSignPointerNice04| WHERE entry = 175649; --Name: Doodad_WoodSignPointerNice04
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_WoodSignPointerNice06| WHERE entry = 175650; --Name: Doodad_WoodSignPointerNice06
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_WoodSignPointerNice07| WHERE entry = 175651; --Name: Doodad_WoodSignPointerNice07
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_WoodSignPointerNice08| WHERE entry = 175652; --Name: Doodad_WoodSignPointerNice08
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_WoodSignPointerNice09| WHERE entry = 175653; --Name: Doodad_WoodSignPointerNice09
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_RuinedSign06| WHERE entry = 175654; --Name: Doodad_RuinedSign06
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_RuinedSign07| WHERE entry = 175655; --Name: Doodad_RuinedSign07
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_WoodSignPointerNice10| WHERE entry = 175656; --Name: Doodad_WoodSignPointerNice10
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_WoodSignPointerNice11| WHERE entry = 175657; --Name: Doodad_WoodSignPointerNice11
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_GnomeSign_Engineer01| WHERE entry = 175663; --Name: Doodad_GnomeSign_Engineer01
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_DwarfSign_Alchemist01| WHERE entry = 175664; --Name: Doodad_DwarfSign_Alchemist01
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_DwarfSign_Fireworks01| WHERE entry = 175665; --Name: Doodad_DwarfSign_Fireworks01
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 175666; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 175667; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Postbox| WHERE entry = 175668; --Name: Postbox
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 175671; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 175672; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Wütende Fire| WHERE entry = 175674; --Name: tobenden Feuer
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 175677; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Forge| WHERE entry = 175678; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 175864; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Gadgetzan-Auction| WHERE entry = 175904; --Name: Gadgetzan Auktion
+UPDATE Locales_gameobject Set name_loc3 = | Beutebucht Alarm Bell| WHERE entry = 175948; --Name: Beutebucht Alarmhupe
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176004; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176005; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176006; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176007; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176008; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176009; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176010; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176011; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176012; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176013; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176014; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176015; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176016; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176017; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176018; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176019; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176020; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176021; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176022; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176023; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176024; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176025; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176026; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176027; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176028; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176029; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176030; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176031; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176032; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176033; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176034; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176035; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176036; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176037; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176038; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176039; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176040; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176041; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176042; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176043; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176044; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176045; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176046; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176047; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176048; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176049; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176050; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176051; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176052; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176053; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176054; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176055; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176056; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176057; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176058; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176059; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176060; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176061; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176062; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176063; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176064; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176065; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176066; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176067; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176068; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176069; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176070; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176071; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176072; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176073; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176074; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176075; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176076; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176077; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176078; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176079; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | Subway| WHERE entry = 176080; --Name: U-Bahn
+UPDATE Locales_gameobject Set name_loc3 = | Subway| WHERE entry = 176081; --Name: U-Bahn
+UPDATE Locales_gameobject Set name_loc3 = | Subway| WHERE entry = 176082; --Name: U-Bahn
+UPDATE Locales_gameobject Set name_loc3 = | Subway| WHERE entry = 176083; --Name: U-Bahn
+UPDATE Locales_gameobject Set name_loc3 = | Subway| WHERE entry = 176084; --Name: U-Bahn
+UPDATE Locales_gameobject Set name_loc3 = | Subway| WHERE entry = 176085; --Name: U-Bahn
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176098; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176099; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176100; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176101; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176102; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176103; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176104; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176105; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176106; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176107; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176108; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | U-Bahn-Bench| WHERE entry = 176109; --Name: U-Bahn-Bank
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 176113; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Strand Meer Turtle| WHERE entry = 176191; --Name: strandeten Meeresschildkröte
+UPDATE Locales_gameobject Set name_loc3 = | Strand Meer Turtle| WHERE entry = 176197; --Name: strandeten Meeresschildkröte
+UPDATE Locales_gameobject Set name_loc3 = | Strand Meer Turtle| WHERE entry = 176198; --Name: strandeten Meeresschildkröte
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 176200; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 176204; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Befehl Tent| WHERE entry = 176210; --Name: Befehls-Zelt
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 176265; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 176282; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 176290; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 176292; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 176293; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 176294; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Plagen Cauldron| WHERE entry = 176361; --Name: Geißel Kessel
+UPDATE Locales_gameobject Set name_loc3 = | Boot nach Menethil| WHERE entry = 176364; --Name: Schiff nach Menethil
+UPDATE Locales_gameobject Set name_loc3 = | Boot nach Teldrassil| WHERE entry = 176365; --Name: Boot nach Teldrassil
+UPDATE Locales_gameobject Set name_loc3 = | Boot nach Theramore| WHERE entry = 176369; --Name: Schiff nach Theramore
+UPDATE Locales_gameobject Set name_loc3 = | Boot nach Auberdine| WHERE entry = 176370; --Name: Schiff nach Auberdine
+UPDATE Locales_gameobject Set name_loc3 = | Plagen Cauldron| WHERE entry = 176393; --Name: Geißel Kessel
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 176505; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Door| WHERE entry = 176632; --Name: Tür
+UPDATE Locales_gameobject Set name_loc3 = | Arthas' Tears| WHERE entry = 176642; --Name: Arthas| Tränen
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 176705; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 176786; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 176791; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 176885; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 176886; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 176887; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 176888; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 176889; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 176890; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 176891; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 176892; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 176904; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | CavernDoor01| WHERE entry = 176996; --Name: CavernDoor01
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 177084; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Ahn Gong| WHERE entry = 177223; --Name: Ahn| Qiraj Gong
+UPDATE Locales_gameobject Set name_loc3 = | Depot-Door| WHERE entry = 177237; --Name: Gewölbe Tür
+UPDATE Locales_gameobject Set name_loc3 = | Depot-Door| WHERE entry = 177238; --Name: Gewölbe Tür
+UPDATE Locales_gameobject Set name_loc3 = | Cauldron| WHERE entry = 177244; --Name: Cauldron
+UPDATE Locales_gameobject Set name_loc3 = | Moonwell| WHERE entry = 177274; --Name: Mondbrunnen
+UPDATE Locales_gameobject Set name_loc3 = | Plagen Cauldron| WHERE entry = 177289; --Name: Geißel Kessel
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 177290; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 177291; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Chair| WHERE entry = 177364; --Name: Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 177424; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Maraudon Portal| WHERE entry = 178400; --Name: Maraudon-Portal
+UPDATE Locales_gameobject Set name_loc3 = | Steamsaw| WHERE entry = 178664; --Name: Steamsaw
+UPDATE Locales_gameobject Set name_loc3 = | Steamsaw| WHERE entry = 178665; --Name: Steamsaw
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 179147; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Sitzung Stone| WHERE entry = 179586; --Name: Versammlungsstein
+UPDATE Locales_gameobject Set name_loc3 = | Sitzung Stone| WHERE entry = 179587; --Name: Versammlungsstein
+UPDATE Locales_gameobject Set name_loc3 = | CavernDoor01| WHERE entry = 179588; --Name: CavernDoor01
+UPDATE Locales_gameobject Set name_loc3 = | Meetingstone01| WHERE entry = 179597; --Name: Meetingstone01
+UPDATE Locales_gameobject Set name_loc3 = | Brazier| WHERE entry = 179682; --Name: Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 179846; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Forge| WHERE entry = 179924; --Name: Schmieden
+UPDATE Locales_gameobject Set name_loc3 = | OUT OF ORDER! Stattdessen Postman - Ihre GM'S| WHERE entry = 179963; --Name: OUT OF bestellen! Stattdessen Sie wird Postman - Ihr GM|s
+UPDATE Locales_gameobject Set name_loc3 = | Geheimnisvolle Wailing Caverns Chest| WHERE entry = 180055; --Name: geheimnisvolle Höhlen Brust jammern
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_SmallBrazierNoOmni20| WHERE entry = 180245; --Name: Doodad_SmallBrazierNoOmni20
+UPDATE Locales_gameobject Set name_loc3 = | Toren von Zul'Gurub| WHERE entry = 180323; --Name: Tore der Zul| Gurub
+UPDATE Locales_gameobject Set name_loc3 = | Altar des Zanza| WHERE entry = 180367; --Name: Altar der Zanzas
+UPDATE Locales_gameobject Set name_loc3 = | Gong von Bethekk| WHERE entry = 180526; --Name: Gong von Bethekk
+UPDATE Locales_gameobject Set name_loc3 = | Kochen Brazier| WHERE entry = 180688; --Name: Kochen Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Kochen Brazier| WHERE entry = 180689; --Name: Kochen Brazier
+UPDATE Locales_gameobject Set name_loc3 = | Arena Spoils| WHERE entry = 181074; --Name: Arena-Beute
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 181099; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Alte Door| WHERE entry = 181137; --Name: antike Tür
+UPDATE Locales_gameobject Set name_loc3 = | Grand Widow HC Door| WHERE entry = 181167; --Name: Grand Widow Patchwerk Tür
+UPDATE Locales_gameobject Set name_loc3 = | Portal| WHERE entry = 181229; --Name: Portal
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 181596; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 181639; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 184161; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Doodad_BlackRockCellDoor01| WHERE entry = 184247; --Name: Doodad_BlackRockCellDoor01
+UPDATE Locales_gameobject Set name_loc3 = | Kochen Fire| WHERE entry = 184618; --Name: Feuer Kochen
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 184648; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 184649; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 184650; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 184651; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Chair| WHERE entry = 184733; --Name: Stuhl
+UPDATE Locales_gameobject Set name_loc3 = | Lagerfeuer| WHERE entry = 184818; --Name: Lagerfeuer
+UPDATE Locales_gameobject Set name_loc3 = | Versiegelte Tome| WHERE entry = 184847; --Name: Tome versiegelt
+UPDATE Locales_gameobject Set name_loc3 = | Sitzung Stone| WHERE entry = 185433; --Name: Versammlungsstein
+UPDATE Locales_gameobject Set name_loc3 = | Bonfire| WHERE entry = 186132; --Name: Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | Bench| WHERE entry = 186898; --Name: Bench
+UPDATE Locales_gameobject Set name_loc3 = | Mailbox| WHERE entry = 187260; --Name: Mailbox
+UPDATE Locales_gameobject Set name_loc3 = | Cannon| WHERE entry = 193011; --Name: Cannon
+UPDATE Locales_gameobject Set name_loc3 = | Fel Orc Lager benutzerdefinierte Area| WHERE entry = 200000; --Name: Fel Orc Lager benutzerdefinierten Bereich
+UPDATE Locales_gameobject Set name_loc3 = | Centre| einkaufen WHERE entry = 200001; --Name: Einkaufszentrum
+UPDATE Locales_gameobject Set name_loc3 = | Neujahr Alliance hängenden Banner| WHERE entry = 210210; --Name: hängende Banner Neujahrs-Alliance
+UPDATE Locales_gameobject Set name_loc3 = | Neujahr-Alliance hängende Banner 02 | WHERE entry = 210211; --Name: hängende Banner 02 Neujahrs-Alliance
+UPDATE Locales_gameobject Set name_loc3 = | Neujahr Horde hängenden Banner| WHERE entry = 210212; --Name: Neujahr Horde hängende Banner
+UPDATE Locales_gameobject Set name_loc3 = | Neujahr-Horde hängende Banner 02 | WHERE entry = 210213; --Name: Neujahr Horde hängende Banner 02
+UPDATE Locales_gameobject Set name_loc3 = | Neujahr Alliance stehen Banner| WHERE entry = 210214; --Name: Neujahrs-Allianz, die ständigen Banner
+UPDATE Locales_gameobject Set name_loc3 = | Neujahr Horde stehend Banner| WHERE entry = 210215; --Name: Neujahr Horde ständigen Banner
+UPDATE Locales_gameobject Set name_loc3 = | Ausgrabung Zelt Pavillion| WHERE entry = 210286; --Name: Ausgrabung Zelt Pavillion
+UPDATE Locales_gameobject Set name_loc3 = | Ahn Ossirian Crystal| WHERE entry = 210312; --Name: Ahn| Qiraj Ossirian Crystal
+UPDATE Locales_gameobject Set name_loc3 = | Ahn Ossirian Crystal| WHERE entry = 210313; --Name: Ahn| Qiraj Ossirian Crystal
+UPDATE Locales_gameobject Set name_loc3 = | Kommunikation Crystal| WHERE entry = 210327; --Name: Kommunikation-Crystal
+UPDATE Locales_gameobject Set name_loc3 = | Kommunikation Crystal| WHERE entry = 210328; --Name: Kommunikation-Crystal
+UPDATE Locales_gameobject Set name_loc3 = | Kommunikation Crystal| WHERE entry = 210329; --Name: Kommunikation-Crystal
+UPDATE Locales_gameobject Set name_loc3 = | Kommunikation Crystal| WHERE entry = 210330; --Name: Kommunikation-Crystal
+UPDATE Locales_gameobject Set name_loc3 = | Kommunikation Crystal| WHERE entry = 210331; --Name: Kommunikation-Crystal
+UPDATE Locales_gameobject Set name_loc3 = | Kommunikation Crystal| WHERE entry = 210332; --Name: Kommunikation-Crystal
+UPDATE Locales_gameobject Set name_loc3 = | Ahn Gong| WHERE entry = 210334; --Name: Ahn| Qiraj Gong
+UPDATE Locales_gameobject Set name_loc3 = | Dämmerung-Tablet| WHERE entry = 210335; --Name: Twilight-Tablet
+UPDATE Locales_gameobject Set name_loc3 = | Dämmerung-Tablet| WHERE entry = 210336; --Name: Twilight-Tablet
+UPDATE Locales_gameobject Set name_loc3 = | Glyphed Crystal| WHERE entry = 210337; --Name: Glyphed Crystal
+UPDATE Locales_gameobject Set name_loc3 = | Gorishi Silithiden Crystal| WHERE entry = 210338; --Name: Gorishi Silithiden Crystal
+UPDATE Locales_gameobject Set name_loc3 = | Ahn Sand Trap| WHERE entry = 210339; --Name: Ahn| Qiraj Sandbunker
+UPDATE Locales_gameobject Set name_loc3 = | Bienenkorb Glühwürmchen 01| WHERE entry = 210341; --Name: Bienenstock Glühwürmchen 01
+UPDATE Locales_gameobject Set name_loc3 = | Glyphed Crystal| WHERE entry = 210342; --Name: Glyphed Crystal
+UPDATE Locales_gameobject Set name_loc3 = | Sand Wurm Rock Base| WHERE entry = 210343; --Name: Sand Wurm Rock Base
+UPDATE Locales_gameobject Set name_loc3 = | Silithus Crystal Formation 03| WHERE entry = 210344; --Name: Silithus Crystal Formation 03
+UPDATE Locales_gameobject Set name_loc3 = | Schwimmenden roten Kristall gebrochen 03| WHERE entry = 210345; --Name: schwimmende roten Kristall gebrochen 03
+UPDATE Locales_gameobject Set name_loc3 = | Schwimmenden roten Kristall gebrochen 01| WHERE entry = 210346; --Name: schwimmende roten Kristall gebrochen 01
+UPDATE Locales_gameobject Set name_loc3 = | Ahn Tür 01| WHERE entry = 210347; --Name: Ahn| Qiraj Tür 01
+UPDATE Locales_gameobject Set name_loc3 = | Schwebende lila Kristall gebrochen 01| WHERE entry = 210348; --Name: schwimmende lila Kristall gebrochen 01
+UPDATE Locales_gameobject Set name_loc3 = | Magen-Exit| WHERE entry = 210349; --Name: Magen verlassen
+UPDATE Locales_gameobject Set name_loc3 = | Anvil| WHERE entry = 211016; --Name: Anvil
+UPDATE Locales_gameobject Set name_loc3 = | Kre'tals Wagon| WHERE entry = 211017; --Name: Kre|tal|s Wagen
+UPDATE Locales_gameobject Set name_loc3 = | Asheron's Tome des Summoning| WHERE entry = 211018; --Name: Asheron|s Tome der Einberufung
+UPDATE Locales_gameobject Set name_loc3 = | Altar des Hyjal| WHERE entry = 211019; --Name: Altar des Hyjal
+UPDATE Locales_gameobject Set name_loc3 = | Einberufung der Circle| WHERE entry = 211020; --Name: Beschwörungsmagie Kreis
+UPDATE Locales_gameobject Set name_loc3 = | Auge des Asheron| WHERE entry = 211021; --Name: Auge des Asheron
+UPDATE Locales_gameobject Set name_loc3 = | Kommandanten Tent| WHERE entry = 211022; --Name: Commander|s-Zelt
+UPDATE Locales_gameobject Set name_loc3 = | Schwarz Portal| WHERE entry = 211023; --Name: schwarz Portal
+UPDATE Locales_gameobject Set name_loc3 = | Schwarz Portal| WHERE entry = 211024; --Name: schwarz Portal
+UPDATE Locales_gameobject Set name_loc3 = | Banner| WHERE entry = 211029; --Name: Banner
+UPDATE Locales_gameobject Set name_loc3 = | Gold Mine| WHERE entry = 211032; --Name: Goldmine
+UPDATE Locales_gameobject Set name_loc3 = | Aura| WHERE entry = 211033; --Name: Aura
+UPDATE Locales_gameobject Set name_loc3 = | Aura| WHERE entry = 211034; --Name: Aura
+UPDATE Locales_gameobject Set name_loc3 = | Hort Exit| WHERE entry = 211035; --Name: Lair Exit
+UPDATE Locales_gameobject Set name_loc3 = | Feuer Totem| WHERE entry = 211036; --Name: Feuer-Totem
+UPDATE Locales_gameobject Set name_loc3 = | Teleport-Stein, Hyjal| WHERE entry = 211050; --Name: Teleport-Stein in Hyjal
+UPDATE Locales_gameobject Set name_loc3 = | Geheimnisvolle Baum Stump| WHERE entry = 211051; --Name: geheimnisvolle Baumstumpf
+UPDATE Locales_gameobject Set name_loc3 = | Baum-Stump| WHERE entry = 211052; --Name: Baum stumpf
+UPDATE Locales_gameobject Set name_loc3 = | Geheimnisvolle Monument| WHERE entry = 211053; --Name: geheimnisvolle Denkmal
+UPDATE Locales_gameobject Set name_loc3 = | Lava-Crack| WHERE entry = 211054; --Name: Lava-Crack
+UPDATE Locales_gameobject Set name_loc3 = | Elwynn Fence| WHERE entry = 211062; --Name: Elwynn Zaun
+UPDATE Locales_gameobject Set name_loc3 = | Elwynn Fence| WHERE entry = 211063; --Name: Elwynn Zaun
+UPDATE Locales_gameobject Set name_loc3 = | Rockwall-Fence| WHERE entry = 211064; --Name: Rockwall-Zaun
+UPDATE Locales_gameobject Set name_loc3 = | Grave| WHERE entry = 211065; --Name: Grab
+UPDATE Locales_gameobject Set name_loc3 = | Sarcophag| WHERE entry = 211067; --Name: Sarcophag
+UPDATE Locales_gameobject Set name_loc3 = | Feuer Totem| WHERE entry = 211068; --Name: Feuer-Totem
+UPDATE Locales_gameobject Set name_loc3 = | Mephistroph die HellFire| WHERE entry = 211084; --Name: Mephistroph|s HellFire
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Machine Policy WHERE entry = 300010; --Name: TEMP Maschinenwerkstatt
+UPDATE Locales_gameobject Set name_loc3 = | In der Nähe Tubers| WHERE entry = 300011; --Name: in der Nähe von Knollen
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Stein des äußeren Binding| WHERE entry = 300012; --Name: TEMP Stein der äußeren Bindung
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Mana Rift Disturbance| WHERE entry = 300013; --Name: TEMP Mana Rift Störung
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Wasserreinheit - Silverpine| WHERE entry = 300014; --Name: TEMP Wasserreinheit - Silberwald
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Pirat Schiff Bilge| WHERE entry = 300015; --Name: TEMP Pirat Schiff Bilge
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Bleichborken Village| WHERE entry = 300016; --Name: TEMP Bleichborken Dorf
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Shadra'Alor Altar| WHERE entry = 300017; --Name: TEMP Shadra| Alor-Altar
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Hatetalon Stones| WHERE entry = 300018; --Name: TEMP Hatetalon Steine
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Sanktum des gefallenen God| WHERE entry = 300019; --Name: TEMP Sanktum des gefallenen Gottes
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Miblon Snarltooth| WHERE entry = 300020; --Name: TEMP Miblon Snarltooth
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Gadgetzan Graveyard| WHERE entry = 300021; --Name: TEMP Gadgetzan Friedhof
+UPDATE Locales_gameobject Set name_loc3 = | Die Ruinen von Irontree Woods| TEMP WHERE entry = 300022; --Name: TEMP die Ruinen von Irontree Woods
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Golakka Crater| WHERE entry = 300023; --Name: TEMP Golakka Krater
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE NIU Grab von der Seven| WHERE entry = 300024; --Name: TEMP NIU Grab der sieben
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE beschädigte Moonwell| WHERE entry = 300025; --Name: TEMP beschädigt Mondbrunnen
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Blackwood Furbolg Nord Bonfire| WHERE entry = 300026; --Name: TEMP Blackwood Furbolg North Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Stein von Shy-Rotam| WHERE entry = 300027; --Name: TEMP Stein von Shy-Rotam
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE heilige Feuer des Leben| WHERE entry = 300028; --Name: TEMP heilige Feuer des Lebens
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE scharlachroten Kreuzzug Forward Camp| WHERE entry = 300029; --Name: TEMP scharlachroten Kreuzzug Forward Camp
+UPDATE Locales_gameobject Set name_loc3 = | Andorhal-Tower| TEMP WHERE entry = 300030; --Name: TEMP Andorhal Tower
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Scholomance anzeigen Room| WHERE entry = 300031; --Name: TEMP Scholomance Grafikvorlage
+UPDATE Locales_gameobject Set name_loc3 = | Umi Friend| TEMP WHERE entry = 300032; --Name: TEMP Umi|s Freund
+UPDATE Locales_gameobject Set name_loc3 = | TEMP der Kiste in der Mitte des Northridge-Lumber-Mill| WHERE entry = 300033; --Name: TEMP die Kiste in der Mitte des Northridge Lumber Mill
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Darrowshire Stadt Square| WHERE entry = 300034; --Name: TEMP Darrowshire Altstädter Ring
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE NIU helles Licht Beam| WHERE entry = 300035; --Name: TEMP NIU hellen Lichtstrahl
+UPDATE Locales_gameobject Set name_loc3 = | TEMP der tot Goliaths| WHERE entry = 300036; --Name: die Toten Goliaths TEMP
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Maraudon Portal| WHERE entry = 300037; --Name: TEMP Maraudon-Portal
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE NIU Horde Globus der Scrying| WHERE entry = 300038; --Name: TEMP NIU Horde Globus der Hellseherei
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE östlichen Crater| WHERE entry = 300039; --Name: TEMP östlichen Krater
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE westlichen Crater| WHERE entry = 300040; --Name: TEMP westlichen Krater
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Schneefall Graveyard| WHERE entry = 300041; --Name: TEMP Snowfall-Friedhof
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Allianz Globus der Scrying| WHERE entry = 300042; --Name: temporäre Allianz Globus der Hellseherei
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Dun Baldar Courtyard| WHERE entry = 300043; --Name: TEMP Dun Baldar Hof
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Frostwolf Keep Courtyard| WHERE entry = 300044; --Name: TEMP Frostwolf halten Hof
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Schneefall Graveyard| WHERE entry = 300045; --Name: TEMP Snowfall-Friedhof
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Ost Crater| WHERE entry = 300046; --Name: TEMP Ost-Krater
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Nordwest Crater| WHERE entry = 300047; --Name: TEMP West-Krater
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Orange Crystal Pool| WHERE entry = 300048; --Name: TEMP Orange Crystal-Pool
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Kroshius Remains| WHERE entry = 300049; --Name: TEMP Kroshius| Bleibt
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Podest Immol'Thar| WHERE entry = 300050; --Name: TEMP Podest aus Immol|thar
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Kreis von dunklen Summoning| WHERE entry = 300051; --Name: TEMP Kreis der dunklen Beschwörung
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Pagle's Pointe| WHERE entry = 300052; --Name: TEMP Pagle|s Pointe
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄREN Altar des Zanza| WHERE entry = 300053; --Name: TEMP Altar der Zanzas
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Southshore| WHERE entry = 300054; --Name: TEMP Southshore
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Knochen von Grakkarond| WHERE entry = 300055; --Name: TEMP Knochen von Grakkarond
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE verlassenen Stink Bomb| WHERE entry = 300056; --Name: TEMP verlassenen Stink Bomb
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE wirbelnden Maelstrom| WHERE entry = 300057; --Name: TEMP wirbelnden Strudel
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE größer Moonlight| WHERE entry = 300058; --Name: TEMP größer Moonlight
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Voone von Chamber| WHERE entry = 300059; --Name: TEMP Voone|s Kammer
+UPDATE Locales_gameobject Set name_loc3 = | Alzzin der Chamber| TEMP WHERE entry = 300060; --Name: TEMP Alzzin|s Kammer
+UPDATE Locales_gameobject Set name_loc3 = | TEMP der purpurrote Throne| WHERE entry = 300061; --Name: TEMP purpurroter Thron
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Ras Frostwhispers Chamber| WHERE entry = 300062; --Name: TEMP Ras Frostwhisper|s Kammer
+UPDATE Locales_gameobject Set name_loc3 = | Das Tier Chamber| TEMP WHERE entry = 300063; --Name: TEMP Beast|s Kammer
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE verfolgt Locus| WHERE entry = 300064; --Name: TEMP spukt Locus
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Blackrock tiefen Arena| WHERE entry = 300065; --Name: TEMP Blackrock-tiefen-Arena
+UPDATE Locales_gameobject Set name_loc3 = | TEMP [PH] Crystal Corpse| WHERE entry = 300066; --Name: TEMP [PH] Crystal Leiche
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Mittsommer Bonfire| WHERE entry = 300068; --Name: TEMP Midsummer Bonfire
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Grundwasser-Source| WHERE entry = 300078; --Name: TEMP unterirdische Wasserquelle
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Un'Goro flache Rock| WHERE entry = 300119; --Name: TEMP Un| Goro Flat Rock
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Foulweald Totem Mound| WHERE entry = 300131; --Name: TEMP Foulweald Totem Mound
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Cliffspring Fluss Waterfall| WHERE entry = 300132; --Name: TEMP Cliffspring River Wasserfall
+UPDATE Locales_gameobject Set name_loc3 = | Erste Flut Pool| TEMP WHERE entry = 300133; --Name: TEMP erste Gezeiten-Schwimmbad
+UPDATE Locales_gameobject Set name_loc3 = | Zweite Tide Pool| TEMP WHERE entry = 300134; --Name: TEMP zweiten Gezeiten-Schwimmbad
+UPDATE Locales_gameobject Set name_loc3 = | Dritte Tide Pool| TEMP WHERE entry = 300135; --Name: TEMP dritten Gezeiten-Schwimmbad
+UPDATE Locales_gameobject Set name_loc3 = | Vierte Tide Pool| TEMP WHERE entry = 300136; --Name: TEMP vierte Gezeiten-Schwimmbad
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Jintha'Alor Altar| WHERE entry = 300137; --Name: TEMP Jintha| Alor-Altar
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Equinex Monolith| WHERE entry = 300138; --Name: TEMP Equinex Monolith
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Fragmente von Myzrael| WHERE entry = 300139; --Name: TEMP Fragmente von Myzrael
+UPDATE Locales_gameobject Set name_loc3 = | Grom Monument| TEMP WHERE entry = 300140; --Name: TEMP Grom|s Denkmal
+UPDATE Locales_gameobject Set name_loc3 = | TEMP hoch Chief Winterfall-Cave| WHERE entry = 300141; --Name: TEMP High Chief Winterfall|s Höhle
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Remulos|-Schrein WHERE entry = 300142; --Name: TEMP Schrein von Remulos
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Swamplight Manor Dock| WHERE entry = 300143; --Name: TEMP Swamplight Manor-Dock
+UPDATE Locales_gameobject Set name_loc3 = | TEMP der große Ossuary| WHERE entry = 300144; --Name: TEMP das große Beinhaus
+UPDATE Locales_gameobject Set name_loc3 = | TEMP des Uther Grab Statue| WHERE entry = 300145; --Name: TEMP Uther|s Grab Statue
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Quilboar Gießen Hole| WHERE entry = 300146; --Name: TEMP Quilboar Wasserstelle
+UPDATE Locales_gameobject Set name_loc3 = | TEMP-Frühling Well| WHERE entry = 300147; --Name: TEMP-Spring-Brunnen
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Ruinen von Stardust Fountain| WHERE entry = 300148; --Name: TEMP Ruinen von Stardust-Brunnen
+UPDATE Locales_gameobject Set name_loc3 = | TEMP Blackhoof Dorf Windmill| WHERE entry = 300149; --Name: TEMP Blackhoof Dorf Windmühle
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Grimtotem Tent| WHERE entry = 300150; --Name: TEMP Grimtotem Zelt
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Hyjal Familie Monument| WHERE entry = 300151; --Name: TEMP-Hyjal-Familie-Denkmal
+UPDATE Locales_gameobject Set name_loc3 = | TEMPORÄRE Eingang Onyxias Lair| WHERE entry = 300153; --Name: TEMP Eingang zum Onyxia|s Lair
