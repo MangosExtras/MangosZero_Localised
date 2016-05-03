@@ -2,8 +2,6 @@ SET NAMES 'utf8';
 UPDATE locales_creature SET name_loc9='Gruff Swiftbite',subname_loc9='' WHERE entry=100; -- Name: Gruff Swiftbite
 UPDATE locales_creature SET name_loc9='Garrick Padfoot',subname_loc9='' WHERE entry=103; -- Name: Garrick Padfoot
 UPDATE locales_creature SET name_loc9='Stonetusk Boar',subname_loc9='' WHERE entry=113; -- Name: Stonetusk Boar
-UPDATE locales_creature SET name_loc9='Sorvegliante del Raccolto',subname_loc9='' WHERE entry=114; -- Name: Harvest Watcher
-UPDATE locales_creature SET name_loc9='Mietitore del Raccolto',subname_loc9='' WHERE entry=115; -- Name: Harvest Reaper
 UPDATE locales_creature SET name_loc9='Defias Bandit',subname_loc9='' WHERE entry=116; -- Name: Defias Bandit
 UPDATE locales_creature SET name_loc9='Riverpaw Gnoll',subname_loc9='' WHERE entry=117; -- Name: Riverpaw Gnoll
 UPDATE locales_creature SET name_loc9='Prowler',subname_loc9='' WHERE entry=118; -- Name: Prowler
@@ -21,7 +19,6 @@ UPDATE locales_creature SET name_loc9='Greater Fleshripper',subname_loc9='' WHER
 UPDATE locales_creature SET name_loc9='Goretusk',subname_loc9='' WHERE entry=157; -- Name: Goretusk
 UPDATE locales_creature SET name_loc9='Morhan Coppertongue',subname_loc9='Metalsmith' WHERE entry=167; -- Name: Morhan Coppertongue -- subName: Metalsmith
 UPDATE locales_creature SET name_loc9='Murloc Warrior',subname_loc9='' WHERE entry=171; -- Name: Murloc Warrior
-UPDATE locales_creature SET name_loc9='Dermot Johns',subname_loc9='Mercante di Armature in Stoffa e Pelle' WHERE entry=190; -- Name: Dermot Johns -- subName: Mercante di Armature in Stoffa e Pelle
 UPDATE locales_creature SET name_loc9='Blue Dragonspawn',subname_loc9='' WHERE entry=193; -- Name: Blue Dragonspawn
 UPDATE locales_creature SET name_loc9='Eagan Peltskinner',subname_loc9='' WHERE entry=196; -- Name: Eagan Peltskinner
 UPDATE locales_creature SET name_loc9='Marshal McBride',subname_loc9='' WHERE entry=197; -- Name: Marshal McBride
@@ -39,7 +36,6 @@ UPDATE locales_creature SET name_loc9='Venom Web Spider',subname_loc9='' WHERE e
 UPDATE locales_creature SET name_loc9='Grave Robber',subname_loc9='' WHERE entry=218; -- Name: Grave Robber
 UPDATE locales_creature SET name_loc9='Nillen Andemar',subname_loc9='Macecrafter' WHERE entry=222; -- Name: Nillen Andemar -- subName: Macecrafter
 UPDATE locales_creature SET name_loc9='Dan Golthas',subname_loc9='Journeyman Leatherworker' WHERE entry=223; -- Name: Dan Golthas -- subName: Journeyman Leatherworker
-UPDATE locales_creature SET name_loc9='Gavin Gnarltree',subname_loc9='Fabbro D\'Armi' WHERE entry=225; -- Name: Gavin Gnarltree -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Morg Gnarltree',subname_loc9='Armorer' WHERE entry=226; -- Name: Morg Gnarltree -- subName: Armorer
 UPDATE locales_creature SET name_loc9='Mabel Solaj',subname_loc9='General Goods' WHERE entry=227; -- Name: Mabel Solaj -- subName: General Goods
 UPDATE locales_creature SET name_loc9='Avette Fellwood',subname_loc9='Bowyer' WHERE entry=228; -- Name: Avette Fellwood -- subName: Bowyer
@@ -433,11 +429,9 @@ UPDATE locales_creature SET name_loc9='Sea Crawler',subname_loc9='' WHERE entry=
 UPDATE locales_creature SET name_loc9='Dust Devil',subname_loc9='' WHERE entry=832; -- Name: Dust Devil
 UPDATE locales_creature SET name_loc9='Coyote Packleader',subname_loc9='' WHERE entry=833; -- Name: Coyote Packleader
 UPDATE locales_creature SET name_loc9='Coyote',subname_loc9='' WHERE entry=834; -- Name: Coyote
-UPDATE locales_creature SET name_loc9='Durnan Furcutter',subname_loc9='Mercante di Armature in Stoffa e Pelle' WHERE entry=836; -- Name: Durnan Furcutter -- subName: Mercante di Armature in Stoffa e Pelle
 UPDATE locales_creature SET name_loc9='Branstock Khalder',subname_loc9='Priest Trainer' WHERE entry=837; -- Name: Branstock Khalder -- subName: Priest Trainer
 UPDATE locales_creature SET name_loc9='Watcher Backus',subname_loc9='The Night Watch' WHERE entry=840; -- Name: Watcher Backus -- subName: The Night Watch
 UPDATE locales_creature SET name_loc9='Lumberjack',subname_loc9='' WHERE entry=842; -- Name: Lumberjack
-UPDATE locales_creature SET name_loc9='Gina MacGregor',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=843; -- Name: Gina MacGregor -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Antonio Perelli',subname_loc9='Traveling Salesman' WHERE entry=844; -- Name: Antonio Perelli -- subName: Traveling Salesman
 UPDATE locales_creature SET name_loc9='Rotten Ghoul',subname_loc9='' WHERE entry=846; -- Name: Rotten Ghoul
 UPDATE locales_creature SET name_loc9='Nathan',subname_loc9='' WHERE entry=847; -- Name: Nathan
@@ -526,7 +520,6 @@ UPDATE locales_creature SET name_loc9='Kurzen Headshrinker',subname_loc9='' WHER
 UPDATE locales_creature SET name_loc9='Kurzen Witch Doctor',subname_loc9='' WHERE entry=942; -- Name: Kurzen Witch Doctor
 UPDATE locales_creature SET name_loc9='Kurzen Wrangler',subname_loc9='' WHERE entry=943; -- Name: Kurzen Wrangler
 UPDATE locales_creature SET name_loc9='Marryk Nurribit',subname_loc9='Mage Trainer' WHERE entry=944; -- Name: Marryk Nurribit -- subName: Mage Trainer
-UPDATE locales_creature SET name_loc9='Rybrad Coldbank',subname_loc9='Fabbro D\'Armi' WHERE entry=945; -- Name: Rybrad Coldbank -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Frostmane Novice',subname_loc9='' WHERE entry=946; -- Name: Frostmane Novice
 UPDATE locales_creature SET name_loc9='Rohh the Silent',subname_loc9='' WHERE entry=947; -- Name: Rohh the Silent
 UPDATE locales_creature SET name_loc9='Rotted One',subname_loc9='' WHERE entry=948; -- Name: Rotted One
@@ -550,12 +543,10 @@ UPDATE locales_creature SET name_loc9='Grimnal',subname_loc9='Mail & Plate Merch
 UPDATE locales_creature SET name_loc9='Hartash',subname_loc9='Weapon Merchant' WHERE entry=981; -- Name: Hartash -- subName: Weapon Merchant
 UPDATE locales_creature SET name_loc9='Thultash',subname_loc9='Food & Drink Vendor' WHERE entry=982; -- Name: Thultash -- subName: Food & Drink Vendor
 UPDATE locales_creature SET name_loc9='Thultazor',subname_loc9='Alchemy Supplies & Reagents' WHERE entry=983; -- Name: Thultazor -- subName: Alchemy Supplies & Reagents
-UPDATE locales_creature SET name_loc9='Thralosh',subname_loc9='Mercante di Armature in Stoffa e Pelle' WHERE entry=984; -- Name: Thralosh -- subName: Mercante di Armature in Stoffa e Pelle
 UPDATE locales_creature SET name_loc9='Malosh',subname_loc9='Warrior Trainer' WHERE entry=985; -- Name: Malosh -- subName: Warrior Trainer
 UPDATE locales_creature SET name_loc9='Haromm',subname_loc9='Shaman Trainer' WHERE entry=986; -- Name: Haromm -- subName: Shaman Trainer
 UPDATE locales_creature SET name_loc9='Ogromm',subname_loc9='Hunter Trainer' WHERE entry=987; -- Name: Ogromm -- subName: Hunter Trainer
 UPDATE locales_creature SET name_loc9='Kartosh',subname_loc9='Warlock Trainer' WHERE entry=988; -- Name: Kartosh -- subName: Warlock Trainer
-UPDATE locales_creature SET name_loc9='Banalash',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=989; -- Name: Banalash -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Watcher Royce',subname_loc9='The Night Watch' WHERE entry=999; -- Name: Watcher Royce -- subName: The Night Watch
 UPDATE locales_creature SET name_loc9='Watcher Blomberg',subname_loc9='The Night Watch' WHERE entry=1000; -- Name: Watcher Blomberg -- subName: The Night Watch
 UPDATE locales_creature SET name_loc9='Watcher Hutchins',subname_loc9='The Night Watch' WHERE entry=1001; -- Name: Watcher Hutchins -- subName: The Night Watch
@@ -684,8 +675,6 @@ UPDATE locales_creature SET name_loc9='Razormaw Matriarch',subname_loc9='' WHERE
 UPDATE locales_creature SET name_loc9='Angus Stern',subname_loc9='Head Chef' WHERE entry=1141; -- Name: Angus Stern -- subName: Head Chef
 UPDATE locales_creature SET name_loc9='Mosh\'Ogg Brute',subname_loc9='' WHERE entry=1142; -- Name: Mosh'Ogg Brute
 UPDATE locales_creature SET name_loc9='Mosh\'Ogg Witch Doctor',subname_loc9='' WHERE entry=1144; -- Name: Mosh'Ogg Witch Doctor
-UPDATE locales_creature SET name_loc9='Vharr',subname_loc9='Superior Fabbro D\'Armi' WHERE entry=1146; -- Name: Vharr -- subName: Superior Fabbro D\'Armi
-UPDATE locales_creature SET name_loc9='Hragran',subname_loc9='Mercante di Armature in Stoffa e Pelle' WHERE entry=1147; -- Name: Hragran -- subName: Mercante di Armature in Stoffa e Pelle
 UPDATE locales_creature SET name_loc9='Nerrist',subname_loc9='Trade Goods' WHERE entry=1148; -- Name: Nerrist -- subName: Trade Goods
 UPDATE locales_creature SET name_loc9='Uthok',subname_loc9='General Supplies' WHERE entry=1149; -- Name: Uthok -- subName: General Supplies
 UPDATE locales_creature SET name_loc9='River Crocolisk',subname_loc9='' WHERE entry=1150; -- Name: River Crocolisk
@@ -763,7 +752,6 @@ UPDATE locales_creature SET name_loc9='Azar Stronghammer',subname_loc9='Paladin 
 UPDATE locales_creature SET name_loc9='Hogral Bakkan',subname_loc9='Rogue Trainer' WHERE entry=1234; -- Name: Hogral Bakkan -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc9='Kobold Digger',subname_loc9='' WHERE entry=1236; -- Name: Kobold Digger
 UPDATE locales_creature SET name_loc9='Kazan Mogosh',subname_loc9='Food & Drink Merchant' WHERE entry=1237; -- Name: Kazan Mogosh -- subName: Food & Drink Merchant
-UPDATE locales_creature SET name_loc9='Gamili Frosthide',subname_loc9='Mercante di Armature in Stoffa e Pelle' WHERE entry=1238; -- Name: Gamili Frosthide -- subName: Mercante di Armature in Stoffa e Pelle
 UPDATE locales_creature SET name_loc9='First Mate Fitzsimmons',subname_loc9='' WHERE entry=1239; -- Name: First Mate Fitzsimmons
 UPDATE locales_creature SET name_loc9='Boran Ironclink',subname_loc9='Armorer' WHERE entry=1240; -- Name: Boran Ironclink -- subName: Armorer
 UPDATE locales_creature SET name_loc9='Tognus Flintfire',subname_loc9='Journeyman Blacksmith' WHERE entry=1241; -- Name: Tognus Flintfire -- subName: Journeyman Blacksmith
@@ -774,7 +762,6 @@ UPDATE locales_creature SET name_loc9='Kogan Forgestone',subname_loc9='' WHERE e
 UPDATE locales_creature SET name_loc9='Vosur Brakthel',subname_loc9='Journeyman Alchemist' WHERE entry=1246; -- Name: Vosur Brakthel -- subName: Journeyman Alchemist
 UPDATE locales_creature SET name_loc9='Innkeeper Belm',subname_loc9='Innkeeper' WHERE entry=1247; -- Name: Innkeeper Belm -- subName: Innkeeper
 UPDATE locales_creature SET name_loc9='Quartermaster Hudson',subname_loc9='Armorer & Shieldcrafter' WHERE entry=1249; -- Name: Quartermaster Hudson -- subName: Armorer & Shieldcrafter
-UPDATE locales_creature SET name_loc9='Drake Lindgren',subname_loc9='General & Mercante di Forniture Commerciali' WHERE entry=1250; -- Name: Drake Lindgren -- subName: General & Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Splinter Fist Firemonger',subname_loc9='' WHERE entry=1251; -- Name: Splinter Fist Firemonger
 UPDATE locales_creature SET name_loc9='Senir Whitebeard',subname_loc9='' WHERE entry=1252; -- Name: Senir Whitebeard
 UPDATE locales_creature SET name_loc9='Father Gavin',subname_loc9='The Argent Dawn' WHERE entry=1253; -- Name: Father Gavin -- subName: The Argent Dawn
@@ -794,7 +781,6 @@ UPDATE locales_creature SET name_loc9='Ozzie Togglevolt',subname_loc9='' WHERE e
 UPDATE locales_creature SET name_loc9='Razzle Sprysprocket',subname_loc9='' WHERE entry=1269; -- Name: Razzle Sprysprocket
 UPDATE locales_creature SET name_loc9='Fetid Corpse',subname_loc9='' WHERE entry=1270; -- Name: Fetid Corpse
 UPDATE locales_creature SET name_loc9='Old Icebeard',subname_loc9='' WHERE entry=1271; -- Name: Old Icebeard
-UPDATE locales_creature SET name_loc9='Grawn Thromwyn',subname_loc9='Fabbro D\'Armi' WHERE entry=1273; -- Name: Grawn Thromwyn -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Senator Barin Redstone',subname_loc9='' WHERE entry=1274; -- Name: Senator Barin Redstone
 UPDATE locales_creature SET name_loc9='Kyra Boucher',subname_loc9='Reagents' WHERE entry=1275; -- Name: Kyra Boucher -- subName: Reagents
 UPDATE locales_creature SET name_loc9='Mountaineer Brokk',subname_loc9='' WHERE entry=1276; -- Name: Mountaineer Brokk
@@ -807,14 +793,12 @@ UPDATE locales_creature SET name_loc9='Mountaineer Veek',subname_loc9='' WHERE e
 UPDATE locales_creature SET name_loc9='Mountaineer Kalmir',subname_loc9='' WHERE entry=1283; -- Name: Mountaineer Kalmir
 UPDATE locales_creature SET name_loc9='Archbishop Benedictus',subname_loc9='' WHERE entry=1284; -- Name: Archbishop Benedictus
 UPDATE locales_creature SET name_loc9='Thurman Mullby',subname_loc9='General Goods' WHERE entry=1285; -- Name: Thurman Mullby -- subName: General Goods
-UPDATE locales_creature SET name_loc9='Edna Mullby',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=1286; -- Name: Edna Mullby -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Marda Weller',subname_loc9='Weapons Merchant' WHERE entry=1287; -- Name: Marda Weller -- subName: Weapons Merchant
 UPDATE locales_creature SET name_loc9='Gunther Weller',subname_loc9='Weapons Merchant' WHERE entry=1289; -- Name: Gunther Weller -- subName: Weapons Merchant
 UPDATE locales_creature SET name_loc9='Carla Granger',subname_loc9='Cloth Armor Merchant' WHERE entry=1291; -- Name: Carla Granger -- subName: Cloth Armor Merchant
 UPDATE locales_creature SET name_loc9='Maris Granger',subname_loc9='Skinning Trainer' WHERE entry=1292; -- Name: Maris Granger -- subName: Skinning Trainer
 UPDATE locales_creature SET name_loc9='Aldric Moore',subname_loc9='Mail Armor Merchant' WHERE entry=1294; -- Name: Aldric Moore -- subName: Mail Armor Merchant
 UPDATE locales_creature SET name_loc9='Lara Moore',subname_loc9='Leather Armor Merchant' WHERE entry=1295; -- Name: Lara Moore -- subName: Leather Armor Merchant
-UPDATE locales_creature SET name_loc9='Felder Stover',subname_loc9='Fabbro D\'Armi' WHERE entry=1296; -- Name: Felder Stover -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Lina Stover',subname_loc9='Bow & Gun Merchant' WHERE entry=1297; -- Name: Lina Stover -- subName: Bow & Gun Merchant
 UPDATE locales_creature SET name_loc9='Frederick Stover',subname_loc9='Bow & Arrow Merchant' WHERE entry=1298; -- Name: Frederick Stover -- subName: Bow & Arrow Merchant
 UPDATE locales_creature SET name_loc9='Lisbeth Schneider',subname_loc9='Clothier' WHERE entry=1299; -- Name: Lisbeth Schneider -- subName: Clothier
@@ -938,7 +922,6 @@ UPDATE locales_creature SET name_loc9='Watcher Cutford',subname_loc9='The Night 
 UPDATE locales_creature SET name_loc9='Thomas Booker',subname_loc9='' WHERE entry=1437; -- Name: Thomas Booker
 UPDATE locales_creature SET name_loc9='Lord Baurles K. Wishock',subname_loc9='House of Nobles' WHERE entry=1439; -- Name: Lord Baurles K. Wishock -- subName: House of Nobles
 UPDATE locales_creature SET name_loc9='Milton Sheaf',subname_loc9='Librarian' WHERE entry=1440; -- Name: Milton Sheaf -- subName: Librarian
-UPDATE locales_creature SET name_loc9='Brak Durnad',subname_loc9='Fabbro D\'Armi' WHERE entry=1441; -- Name: Brak Durnad -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Helgrum the Swift',subname_loc9='' WHERE entry=1442; -- Name: Helgrum the Swift
 UPDATE locales_creature SET name_loc9='Fel\'zerul',subname_loc9='' WHERE entry=1443; -- Name: Fel'zerul
 UPDATE locales_creature SET name_loc9='Brother Kristoff',subname_loc9='' WHERE entry=1444; -- Name: Brother Kristoff
@@ -1058,7 +1041,6 @@ UPDATE locales_creature SET name_loc9='Thorgrum Borrelson',subname_loc9='Gryphon
 UPDATE locales_creature SET name_loc9='Gryth Thurden',subname_loc9='Gryphon Master' WHERE entry=1573; -- Name: Gryth Thurden -- subName: Gryphon Master
 UPDATE locales_creature SET name_loc9='Adele Fielder',subname_loc9='Journeyman Leatherworker' WHERE entry=1632; -- Name: Adele Fielder -- subName: Journeyman Leatherworker
 UPDATE locales_creature SET name_loc9='Northshire Guard',subname_loc9='' WHERE entry=1642; -- Name: Northshire Guard
-UPDATE locales_creature SET name_loc9='Quartermaster Hicks',subname_loc9='Master Fabbro D\'Armi' WHERE entry=1645; -- Name: Quartermaster Hicks -- subName: Master Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Baros Alexston',subname_loc9='City Architect' WHERE entry=1646; -- Name: Baros Alexston -- subName: City Architect
 UPDATE locales_creature SET name_loc9='Terry Palin',subname_loc9='Lumberjack' WHERE entry=1650; -- Name: Terry Palin -- subName: Lumberjack
 UPDATE locales_creature SET name_loc9='Lee Brown',subname_loc9='Fishing Trainer' WHERE entry=1651; -- Name: Lee Brown -- subName: Fishing Trainer
@@ -1106,7 +1088,6 @@ UPDATE locales_creature SET name_loc9='Loslor Rudge',subname_loc9='Engineering S
 UPDATE locales_creature SET name_loc9='Rendow',subname_loc9='Leather Armor Merchant' WHERE entry=1695; -- Name: Rendow -- subName: Leather Armor Merchant
 UPDATE locales_creature SET name_loc9='Targorr the Dread',subname_loc9='' WHERE entry=1696; -- Name: Targorr the Dread
 UPDATE locales_creature SET name_loc9='Keeg Gibn',subname_loc9='Ale & Wine' WHERE entry=1697; -- Name: Keeg Gibn -- subName: Ale & Wine
-UPDATE locales_creature SET name_loc9='Frast Dokner',subname_loc9='Apprentice Fabbro D\'Armi' WHERE entry=1698; -- Name: Frast Dokner -- subName: Apprentice Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Gremlock Pilsnor',subname_loc9='Cooking Trainer' WHERE entry=1699; -- Name: Gremlock Pilsnor -- subName: Cooking Trainer
 UPDATE locales_creature SET name_loc9='Paxton Ganter',subname_loc9='Fishing Trainer' WHERE entry=1700; -- Name: Paxton Ganter -- subName: Fishing Trainer
 UPDATE locales_creature SET name_loc9='Dank Drizzlecut',subname_loc9='Mining Trainer' WHERE entry=1701; -- Name: Dank Drizzlecut -- subName: Mining Trainer
@@ -1408,12 +1389,9 @@ UPDATE locales_creature SET name_loc9='Garneg Charskull',subname_loc9='' WHERE e
 UPDATE locales_creature SET name_loc9='Black Rat',subname_loc9='' WHERE entry=2110; -- Name: Black Rat
 UPDATE locales_creature SET name_loc9='Sida',subname_loc9='' WHERE entry=2111; -- Name: Sida
 UPDATE locales_creature SET name_loc9='Farrin Daris',subname_loc9='' WHERE entry=2112; -- Name: Farrin Daris
-UPDATE locales_creature SET name_loc9='Archibald Kava',subname_loc9='Mercante di Armature in Stoffa e Pelle' WHERE entry=2113; -- Name: Archibald Kava -- subName: Mercante di Armature in Stoffa e Pelle
 UPDATE locales_creature SET name_loc9='Faruza',subname_loc9='Herbalism Trainer' WHERE entry=2114; -- Name: Faruza -- subName: Herbalism Trainer
 UPDATE locales_creature SET name_loc9='Joshua Kien',subname_loc9='General Supplies' WHERE entry=2115; -- Name: Joshua Kien -- subName: General Supplies
 UPDATE locales_creature SET name_loc9='Blacksmith Rand',subname_loc9='Apprentice Armorer' WHERE entry=2116; -- Name: Blacksmith Rand -- subName: Apprentice Armorer
-UPDATE locales_creature SET name_loc9='Harold Raims',subname_loc9='Apprentice Fabbro D\'Armi' WHERE entry=2117; -- Name: Harold Raims -- subName: Apprentice Fabbro D\'Armi
-UPDATE locales_creature SET name_loc9='Abigail Shiel',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=2118; -- Name: Abigail Shiel -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Dannal Stern',subname_loc9='Warrior Trainer' WHERE entry=2119; -- Name: Dannal Stern -- subName: Warrior Trainer
 UPDATE locales_creature SET name_loc9='Archmage Ataeric',subname_loc9='' WHERE entry=2120; -- Name: Archmage Ataeric
 UPDATE locales_creature SET name_loc9='Shadow Priest Allister',subname_loc9='' WHERE entry=2121; -- Name: Shadow Priest Allister
@@ -1429,7 +1407,6 @@ UPDATE locales_creature SET name_loc9='Austil de Mon',subname_loc9='Warrior Trai
 UPDATE locales_creature SET name_loc9='Carolai Anise',subname_loc9='Journeyman Alchemist' WHERE entry=2132; -- Name: Carolai Anise -- subName: Journeyman Alchemist
 UPDATE locales_creature SET name_loc9='Mrs. Winters',subname_loc9='General Supplies' WHERE entry=2134; -- Name: Mrs. Winters -- subName: General Supplies
 UPDATE locales_creature SET name_loc9='Abe Winters',subname_loc9='Apprentice Armorer' WHERE entry=2135; -- Name: Abe Winters -- subName: Apprentice Armorer
-UPDATE locales_creature SET name_loc9='Oliver Dwor',subname_loc9='Apprentice Fabbro D\'Armi' WHERE entry=2136; -- Name: Oliver Dwor -- subName: Apprentice Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Eliza Callen',subname_loc9='Leather Armor Merchant' WHERE entry=2137; -- Name: Eliza Callen -- subName: Leather Armor Merchant
 UPDATE locales_creature SET name_loc9='Edwin Harly',subname_loc9='General Supplies' WHERE entry=2140; -- Name: Edwin Harly -- subName: General Supplies
 UPDATE locales_creature SET name_loc9='Watcher Callahan',subname_loc9='The Night Watch' WHERE entry=2142; -- Name: Watcher Callahan -- subName: The Night Watch
@@ -1707,7 +1684,6 @@ UPDATE locales_creature SET name_loc9='Haren Swifthoof',subname_loc9='Horde Runn
 UPDATE locales_creature SET name_loc9='Sludge',subname_loc9='' WHERE entry=2479; -- Name: Sludge
 UPDATE locales_creature SET name_loc9='Bro\'kin',subname_loc9='Alchemy Supplies' WHERE entry=2480; -- Name: Bro'kin -- subName: Alchemy Supplies
 UPDATE locales_creature SET name_loc9='Bliztik',subname_loc9='Alchemy Supplies' WHERE entry=2481; -- Name: Bliztik -- subName: Alchemy Supplies
-UPDATE locales_creature SET name_loc9='Zarena Cromwind',subname_loc9='Superior Fabbro D\'Armi' WHERE entry=2482; -- Name: Zarena Cromwind -- subName: Superior Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Jaquilina Dramet',subname_loc9='Superior Axecrafter' WHERE entry=2483; -- Name: Jaquilina Dramet -- subName: Superior Axecrafter
 UPDATE locales_creature SET name_loc9='Larimaine Purdue',subname_loc9='Portal Trainer' WHERE entry=2485; -- Name: Larimaine Purdue -- subName: Portal Trainer
 UPDATE locales_creature SET name_loc9='Fin Fizracket',subname_loc9='Blackwater Raiders' WHERE entry=2486; -- Name: Fin Fizracket -- subName: Blackwater Raiders
@@ -2203,11 +2179,9 @@ UPDATE locales_creature SET name_loc9='Pyall Silentstride',subname_loc9='Cook' W
 UPDATE locales_creature SET name_loc9='Mazzranache',subname_loc9='' WHERE entry=3068; -- Name: Mazzranache
 UPDATE locales_creature SET name_loc9='Chaw Stronghide',subname_loc9='Journeyman Leatherworker' WHERE entry=3069; -- Name: Chaw Stronghide -- subName: Journeyman Leatherworker
 UPDATE locales_creature SET name_loc9='Kawnie Softbreeze',subname_loc9='General Goods' WHERE entry=3072; -- Name: Kawnie Softbreeze -- subName: General Goods
-UPDATE locales_creature SET name_loc9='Marjak Keenblade',subname_loc9='Fabbro D\'Armi' WHERE entry=3073; -- Name: Marjak Keenblade -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Varia Hardhide',subname_loc9='Leather Armor Merchant' WHERE entry=3074; -- Name: Varia Hardhide -- subName: Leather Armor Merchant
 UPDATE locales_creature SET name_loc9='Bronk Steelrage',subname_loc9='Armorer & Shieldcrafter' WHERE entry=3075; -- Name: Bronk Steelrage -- subName: Armorer & Shieldcrafter
 UPDATE locales_creature SET name_loc9='Moorat Longstride',subname_loc9='General Goods' WHERE entry=3076; -- Name: Moorat Longstride -- subName: General Goods
-UPDATE locales_creature SET name_loc9='Mahnott Roughwound',subname_loc9='Fabbro D\'Armi' WHERE entry=3077; -- Name: Mahnott Roughwound -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Kennah Hawkseye',subname_loc9='Gunsmith' WHERE entry=3078; -- Name: Kennah Hawkseye -- subName: Gunsmith
 UPDATE locales_creature SET name_loc9='Varg Windwhisper',subname_loc9='Leather Armor Merchant' WHERE entry=3079; -- Name: Varg Windwhisper -- subName: Leather Armor Merchant
 UPDATE locales_creature SET name_loc9='Harant Ironbrace',subname_loc9='Armorer & Shieldcrafter' WHERE entry=3080; -- Name: Harant Ironbrace -- subName: Armorer & Shieldcrafter
@@ -2282,16 +2256,11 @@ UPDATE locales_creature SET name_loc9='Rwag',subname_loc9='Rogue Trainer' WHERE 
 UPDATE locales_creature SET name_loc9='Nartok',subname_loc9='Warlock Trainer' WHERE entry=3156; -- Name: Nartok -- subName: Warlock Trainer
 UPDATE locales_creature SET name_loc9='Shikrik',subname_loc9='Shaman Trainer' WHERE entry=3157; -- Name: Shikrik -- subName: Shaman Trainer
 UPDATE locales_creature SET name_loc9='Duokna',subname_loc9='General Goods' WHERE entry=3158; -- Name: Duokna -- subName: General Goods
-UPDATE locales_creature SET name_loc9='Kzan Thornslash',subname_loc9='Fabbro D\'Armi' WHERE entry=3159; -- Name: Kzan Thornslash -- subName: Fabbro D\'Armi
-UPDATE locales_creature SET name_loc9='Huklah',subname_loc9='Mercante di Armature in Stoffa e Pelle' WHERE entry=3160; -- Name: Huklah -- subName: Mercante di Armature in Stoffa e Pelle
 UPDATE locales_creature SET name_loc9='Rarc',subname_loc9='Armorer & Shieldcrafter' WHERE entry=3161; -- Name: Rarc -- subName: Armorer & Shieldcrafter
 UPDATE locales_creature SET name_loc9='Burdrak Harglhelm',subname_loc9='Leather Armor Merchant' WHERE entry=3162; -- Name: Burdrak Harglhelm -- subName: Leather Armor Merchant
-UPDATE locales_creature SET name_loc9='Uhgar',subname_loc9='Fabbro D\'Armi' WHERE entry=3163; -- Name: Uhgar -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Jark',subname_loc9='General Goods' WHERE entry=3164; -- Name: Jark -- subName: General Goods
 UPDATE locales_creature SET name_loc9='Ghrawt',subname_loc9='Bowyer' WHERE entry=3165; -- Name: Ghrawt -- subName: Bowyer
-UPDATE locales_creature SET name_loc9='Cutac',subname_loc9='Mercante di Armature in Stoffa e Pelle' WHERE entry=3166; -- Name: Cutac -- subName: Mercante di Armature in Stoffa e Pelle
 UPDATE locales_creature SET name_loc9='Wuark',subname_loc9='Armorer & Shieldcrafter' WHERE entry=3167; -- Name: Wuark -- subName: Armorer & Shieldcrafter
-UPDATE locales_creature SET name_loc9='Flakk',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=3168; -- Name: Flakk -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Tarshaw Jaggedscar',subname_loc9='Warrior Trainer' WHERE entry=3169; -- Name: Tarshaw Jaggedscar -- subName: Warrior Trainer
 UPDATE locales_creature SET name_loc9='Kaplak',subname_loc9='Rogue Trainer' WHERE entry=3170; -- Name: Kaplak -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc9='Thotar',subname_loc9='Hunter Trainer' WHERE entry=3171; -- Name: Thotar -- subName: Hunter Trainer
@@ -2299,7 +2268,6 @@ UPDATE locales_creature SET name_loc9='Dhugru Gorelust',subname_loc9='Warlock Tr
 UPDATE locales_creature SET name_loc9='Swart',subname_loc9='Shaman Trainer' WHERE entry=3173; -- Name: Swart -- subName: Shaman Trainer
 UPDATE locales_creature SET name_loc9='Dwukk',subname_loc9='Journeyman Blacksmith' WHERE entry=3174; -- Name: Dwukk -- subName: Journeyman Blacksmith
 UPDATE locales_creature SET name_loc9='Krunn',subname_loc9='Mining Trainer' WHERE entry=3175; -- Name: Krunn -- subName: Mining Trainer
-UPDATE locales_creature SET name_loc9='Turuk Amberstill',subname_loc9='Dwarven Fabbro D\'Armi' WHERE entry=3177; -- Name: Turuk Amberstill -- subName: Dwarven Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Stuart Fleming',subname_loc9='Fishing Supplies' WHERE entry=3178; -- Name: Stuart Fleming -- subName: Fishing Supplies
 UPDATE locales_creature SET name_loc9='Harold Riggs',subname_loc9='Fishing Trainer' WHERE entry=3179; -- Name: Harold Riggs -- subName: Fishing Trainer
 UPDATE locales_creature SET name_loc9='Dark Iron Entrepreneur',subname_loc9='Speciality Goods' WHERE entry=3180; -- Name: Dark Iron Entrepreneur -- subName: Speciality Goods
@@ -2309,7 +2277,6 @@ UPDATE locales_creature SET name_loc9='Yarrog Baneshadow',subname_loc9='' WHERE 
 UPDATE locales_creature SET name_loc9='Miao\'zan',subname_loc9='Journeyman Alchemist' WHERE entry=3184; -- Name: Miao'zan -- subName: Journeyman Alchemist
 UPDATE locales_creature SET name_loc9='Mishiki',subname_loc9='Herbalism Trainer' WHERE entry=3185; -- Name: Mishiki -- subName: Herbalism Trainer
 UPDATE locales_creature SET name_loc9='K\'waii',subname_loc9='General Goods' WHERE entry=3186; -- Name: K'waii -- subName: General Goods
-UPDATE locales_creature SET name_loc9='Tai\'tasi',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=3187; -- Name: Tai'tasi -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Master Gadrin',subname_loc9='' WHERE entry=3188; -- Name: Master Gadrin
 UPDATE locales_creature SET name_loc9='Kor\'ghan',subname_loc9='' WHERE entry=3189; -- Name: Kor'ghan
 UPDATE locales_creature SET name_loc9='Rhinag',subname_loc9='' WHERE entry=3190; -- Name: Rhinag
@@ -2424,8 +2391,6 @@ UPDATE locales_creature SET name_loc9='Doras',subname_loc9='Wind Rider Master' W
 UPDATE locales_creature SET name_loc9='Olvia',subname_loc9='Meat Vendor' WHERE entry=3312; -- Name: Olvia -- subName: Meat Vendor
 UPDATE locales_creature SET name_loc9='Trak\'gen',subname_loc9='General Goods' WHERE entry=3313; -- Name: Trak'gen -- subName: General Goods
 UPDATE locales_creature SET name_loc9='Urtharo',subname_loc9='Weapon Merchant' WHERE entry=3314; -- Name: Urtharo -- subName: Weapon Merchant
-UPDATE locales_creature SET name_loc9='Tor\'phan',subname_loc9='Mercante di Armature in Stoffa e Pelle' WHERE entry=3315; -- Name: Tor'phan -- subName: Mercante di Armature in Stoffa e Pelle
-UPDATE locales_creature SET name_loc9='Handor',subname_loc9='Mercante di Armature in Stoffa e Pelle' WHERE entry=3316; -- Name: Handor -- subName: Mercante di Armature in Stoffa e Pelle
 UPDATE locales_creature SET name_loc9='Ollanus',subname_loc9='Light Armor Merchant' WHERE entry=3317; -- Name: Ollanus -- subName: Light Armor Merchant
 UPDATE locales_creature SET name_loc9='Koma',subname_loc9='Banker' WHERE entry=3318; -- Name: Koma -- subName: Banker
 UPDATE locales_creature SET name_loc9='Sana',subname_loc9='Mail Armor Merchant' WHERE entry=3319; -- Name: Sana -- subName: Mail Armor Merchant
@@ -2475,7 +2440,6 @@ UPDATE locales_creature SET name_loc9='Magar',subname_loc9='Expert Tailor' WHERE
 UPDATE locales_creature SET name_loc9='Borya',subname_loc9='Tailoring Supplies' WHERE entry=3364; -- Name: Borya -- subName: Tailoring Supplies
 UPDATE locales_creature SET name_loc9='Karolek',subname_loc9='Expert Leatherworker' WHERE entry=3365; -- Name: Karolek -- subName: Expert Leatherworker
 UPDATE locales_creature SET name_loc9='Tamar',subname_loc9='Leatherworking Supplies' WHERE entry=3366; -- Name: Tamar -- subName: Leatherworking Supplies
-UPDATE locales_creature SET name_loc9='Felika',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=3367; -- Name: Felika -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Borstan',subname_loc9='Meat Vendor' WHERE entry=3368; -- Name: Borstan -- subName: Meat Vendor
 UPDATE locales_creature SET name_loc9='Gotri',subname_loc9='Bag Vendor' WHERE entry=3369; -- Name: Gotri -- subName: Bag Vendor
 UPDATE locales_creature SET name_loc9='Urtrun Clanbringer',subname_loc9='Guild Master' WHERE entry=3370; -- Name: Urtrun Clanbringer -- subName: Guild Master
@@ -2579,10 +2543,8 @@ UPDATE locales_creature SET name_loc9='Echeyakee',subname_loc9='' WHERE entry=34
 UPDATE locales_creature SET name_loc9='Isha Awak',subname_loc9='' WHERE entry=3476; -- Name: Isha Awak
 UPDATE locales_creature SET name_loc9='Hraq',subname_loc9='Blacksmithing Supplies' WHERE entry=3477; -- Name: Hraq -- subName: Blacksmithing Supplies
 UPDATE locales_creature SET name_loc9='Traugh',subname_loc9='Expert Blacksmith' WHERE entry=3478; -- Name: Traugh -- subName: Expert Blacksmith
-UPDATE locales_creature SET name_loc9='Nargal Deatheye',subname_loc9='Fabbro D\'Armi' WHERE entry=3479; -- Name: Nargal Deatheye -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Moorane Hearthgrain',subname_loc9='Baker' WHERE entry=3480; -- Name: Moorane Hearthgrain -- subName: Baker
 UPDATE locales_creature SET name_loc9='Barg',subname_loc9='General Supplies' WHERE entry=3481; -- Name: Barg -- subName: General Supplies
-UPDATE locales_creature SET name_loc9='Tari\'qa',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=3482; -- Name: Tari'qa -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Jahan Hawkwing',subname_loc9='Leather & Mail Armor Merchant' WHERE entry=3483; -- Name: Jahan Hawkwing -- subName: Leather & Mail Armor Merchant
 UPDATE locales_creature SET name_loc9='Kil\'hala',subname_loc9='Journeyman Tailor' WHERE entry=3484; -- Name: Kil'hala -- subName: Journeyman Tailor
 UPDATE locales_creature SET name_loc9='Wrahk',subname_loc9='Tailoring Supplies' WHERE entry=3485; -- Name: Wrahk -- subName: Tailoring Supplies
@@ -2591,15 +2553,12 @@ UPDATE locales_creature SET name_loc9='Kalyimah Stormcloud',subname_loc9='Bags &
 UPDATE locales_creature SET name_loc9='Uthrok',subname_loc9='Bowyer & Gunsmith' WHERE entry=3488; -- Name: Uthrok -- subName: Bowyer & Gunsmith
 UPDATE locales_creature SET name_loc9='Zargh',subname_loc9='Butcher' WHERE entry=3489; -- Name: Zargh -- subName: Butcher
 UPDATE locales_creature SET name_loc9='Hula\'mahi',subname_loc9='Reagents, Herbs & Poison Supplies' WHERE entry=3490; -- Name: Hula'mahi -- subName: Reagents, Herbs & Poison Supplies
-UPDATE locales_creature SET name_loc9='Ironzar',subname_loc9='Fabbro D\'Armi' WHERE entry=3491; -- Name: Ironzar -- subName: Fabbro D\'Armi
-UPDATE locales_creature SET name_loc9='Vexspindle',subname_loc9='Mercante di Armature in Stoffa e Pelle' WHERE entry=3492; -- Name: Vexspindle -- subName: Mercante di Armature in Stoffa e Pelle
 UPDATE locales_creature SET name_loc9='Grazlix',subname_loc9='Armorer & Shieldcrafter' WHERE entry=3493; -- Name: Grazlix -- subName: Armorer & Shieldcrafter
 UPDATE locales_creature SET name_loc9='Tinkerwiz',subname_loc9='Journeyman Engineer' WHERE entry=3494; -- Name: Tinkerwiz -- subName: Journeyman Engineer
 UPDATE locales_creature SET name_loc9='Gagsprocket',subname_loc9='Engineering Supplies' WHERE entry=3495; -- Name: Gagsprocket -- subName: Engineering Supplies
 UPDATE locales_creature SET name_loc9='Fuzruckle',subname_loc9='Banker' WHERE entry=3496; -- Name: Fuzruckle -- subName: Banker
 UPDATE locales_creature SET name_loc9='Kilxx',subname_loc9='Fisherman' WHERE entry=3497; -- Name: Kilxx -- subName: Fisherman
 UPDATE locales_creature SET name_loc9='Jazzik',subname_loc9='General Supplies' WHERE entry=3498; -- Name: Jazzik -- subName: General Supplies
-UPDATE locales_creature SET name_loc9='Ranik',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=3499; -- Name: Ranik -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Tarhus',subname_loc9='Reagents' WHERE entry=3500; -- Name: Tarhus -- subName: Reagents
 UPDATE locales_creature SET name_loc9='Horde Guard',subname_loc9='' WHERE entry=3501; -- Name: Horde Guard
 UPDATE locales_creature SET name_loc9='Ratchet Bruiser',subname_loc9='' WHERE entry=3502; -- Name: Ratchet Bruiser
@@ -2631,12 +2590,10 @@ UPDATE locales_creature SET name_loc9='Pyrewood Tailor',subname_loc9='' WHERE en
 UPDATE locales_creature SET name_loc9='Moonrage Tailor',subname_loc9='' WHERE entry=3531; -- Name: Moonrage Tailor
 UPDATE locales_creature SET name_loc9='Pyrewood Leatherworker',subname_loc9='' WHERE entry=3532; -- Name: Pyrewood Leatherworker
 UPDATE locales_creature SET name_loc9='Moonrage Leatherworker',subname_loc9='' WHERE entry=3533; -- Name: Moonrage Leatherworker
-UPDATE locales_creature SET name_loc9='Wallace the Blind',subname_loc9='Fabbro D\'Armi' WHERE entry=3534; -- Name: Wallace the Blind -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Blackmoss the Fetid',subname_loc9='' WHERE entry=3535; -- Name: Blackmoss the Fetid
 UPDATE locales_creature SET name_loc9='Kris Legace',subname_loc9='Freewheeling Tradeswoman' WHERE entry=3536; -- Name: Kris Legace -- subName: Freewheeling Tradeswoman
 UPDATE locales_creature SET name_loc9='Zixil',subname_loc9='Merchant Supreme' WHERE entry=3537; -- Name: Zixil -- subName: Merchant Supreme
 UPDATE locales_creature SET name_loc9='Overwatch Mark I',subname_loc9='Protector' WHERE entry=3538; -- Name: Overwatch Mark I -- subName: Protector
-UPDATE locales_creature SET name_loc9='Ott',subname_loc9='Fabbro D\'Armi' WHERE entry=3539; -- Name: Ott -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Hal McAllister',subname_loc9='Fish Merchant' WHERE entry=3540; -- Name: Hal McAllister -- subName: Fish Merchant
 UPDATE locales_creature SET name_loc9='Sarah Raycroft',subname_loc9='General Goods' WHERE entry=3541; -- Name: Sarah Raycroft -- subName: General Goods
 UPDATE locales_creature SET name_loc9='Jaysin Lanyda',subname_loc9='Poisons & Reagents' WHERE entry=3542; -- Name: Jaysin Lanyda -- subName: Poisons & Reagents
@@ -2653,7 +2610,6 @@ UPDATE locales_creature SET name_loc9='Alexandre Lefevre',subname_loc9='Leather 
 UPDATE locales_creature SET name_loc9='Sebastian Meloche',subname_loc9='Armorer' WHERE entry=3553; -- Name: Sebastian Meloche -- subName: Armorer
 UPDATE locales_creature SET name_loc9='Andrea Boynton',subname_loc9='Clothier' WHERE entry=3554; -- Name: Andrea Boynton -- subName: Clothier
 UPDATE locales_creature SET name_loc9='Johan Focht',subname_loc9='Mining Trainer' WHERE entry=3555; -- Name: Johan Focht -- subName: Mining Trainer
-UPDATE locales_creature SET name_loc9='Andrew Hilbert',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=3556; -- Name: Andrew Hilbert -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Guillaume Sorouy',subname_loc9='Journeyman Blacksmith' WHERE entry=3557; -- Name: Guillaume Sorouy -- subName: Journeyman Blacksmith
 UPDATE locales_creature SET name_loc9='Healing Ward',subname_loc9='' WHERE entry=3560; -- Name: Healing Ward
 UPDATE locales_creature SET name_loc9='Kyrai',subname_loc9='Poison Supplies' WHERE entry=3561; -- Name: Kyrai -- subName: Poison Supplies
@@ -2677,7 +2633,6 @@ UPDATE locales_creature SET name_loc9='Therylune',subname_loc9='' WHERE entry=35
 UPDATE locales_creature SET name_loc9='Therysil',subname_loc9='' WHERE entry=3585; -- Name: Therysil
 UPDATE locales_creature SET name_loc9='Miner Johnson',subname_loc9='' WHERE entry=3586; -- Name: Miner Johnson
 UPDATE locales_creature SET name_loc9='Lyrai',subname_loc9='General Supplies' WHERE entry=3587; -- Name: Lyrai -- subName: General Supplies
-UPDATE locales_creature SET name_loc9='Khardan Proudblade',subname_loc9='Fabbro D\'Armi' WHERE entry=3588; -- Name: Khardan Proudblade -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Keina',subname_loc9='Bowyer' WHERE entry=3589; -- Name: Keina -- subName: Bowyer
 UPDATE locales_creature SET name_loc9='Janna Brightmoon',subname_loc9='Clothier' WHERE entry=3590; -- Name: Janna Brightmoon -- subName: Clothier
 UPDATE locales_creature SET name_loc9='Freja Nightwing',subname_loc9='Leather Armor Merchant' WHERE entry=3591; -- Name: Freja Nightwing -- subName: Leather Armor Merchant
@@ -2698,12 +2653,10 @@ UPDATE locales_creature SET name_loc9='Nadyia Maneweaver',subname_loc9='Journeym
 UPDATE locales_creature SET name_loc9='Alanna Raveneye',subname_loc9='Journeyman Enchanter' WHERE entry=3606; -- Name: Alanna Raveneye -- subName: Journeyman Enchanter
 UPDATE locales_creature SET name_loc9='Androl Oakhand',subname_loc9='Fishing Trainer' WHERE entry=3607; -- Name: Androl Oakhand -- subName: Fishing Trainer
 UPDATE locales_creature SET name_loc9='Aldia',subname_loc9='General Supplies' WHERE entry=3608; -- Name: Aldia -- subName: General Supplies
-UPDATE locales_creature SET name_loc9='Shalomon',subname_loc9='Fabbro D\'Armi' WHERE entry=3609; -- Name: Shalomon -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Jeena Featherbow',subname_loc9='Bowyer' WHERE entry=3610; -- Name: Jeena Featherbow -- subName: Bowyer
 UPDATE locales_creature SET name_loc9='Brannol Eaglemoon',subname_loc9='Clothier' WHERE entry=3611; -- Name: Brannol Eaglemoon -- subName: Clothier
 UPDATE locales_creature SET name_loc9='Sinda',subname_loc9='Leather Armor Merchant' WHERE entry=3612; -- Name: Sinda -- subName: Leather Armor Merchant
 UPDATE locales_creature SET name_loc9='Meri Ironweave',subname_loc9='Armorer & Shieldcrafter' WHERE entry=3613; -- Name: Meri Ironweave -- subName: Armorer & Shieldcrafter
-UPDATE locales_creature SET name_loc9='Narret Shadowgrove',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=3614; -- Name: Narret Shadowgrove -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Devrak',subname_loc9='Wind Rider Master' WHERE entry=3615; -- Name: Devrak -- subName: Wind Rider Master
 UPDATE locales_creature SET name_loc9='Onu',subname_loc9='Ancient of Lore' WHERE entry=3616; -- Name: Onu -- subName: Ancient of Lore
 UPDATE locales_creature SET name_loc9='Lordaeron Citizen',subname_loc9='' WHERE entry=3617; -- Name: Lordaeron Citizen
@@ -2756,7 +2709,6 @@ UPDATE locales_creature SET name_loc9='Disciple of Naralex',subname_loc9='' WHER
 UPDATE locales_creature SET name_loc9='Naralex',subname_loc9='' WHERE entry=3679; -- Name: Naralex
 UPDATE locales_creature SET name_loc9='Serpentbloom Snake',subname_loc9='' WHERE entry=3680; -- Name: Serpentbloom Snake
 UPDATE locales_creature SET name_loc9='Wisp',subname_loc9='' WHERE entry=3681; -- Name: Wisp
-UPDATE locales_creature SET name_loc9='Vrang Wildgore',subname_loc9='Fabbro D\'Armi & Armorcrafter' WHERE entry=3682; -- Name: Vrang Wildgore -- subName: Fabbro D\'Armi & Armorcrafter
 UPDATE locales_creature SET name_loc9='Kiknikle',subname_loc9='Stylish Clothier' WHERE entry=3683; -- Name: Kiknikle -- subName: Stylish Clothier
 UPDATE locales_creature SET name_loc9='Pizznukle',subname_loc9='Leather Armor Merchant' WHERE entry=3684; -- Name: Pizznukle -- subName: Leather Armor Merchant
 UPDATE locales_creature SET name_loc9='Harb Clawhoof',subname_loc9='Kodo Mounts' WHERE entry=3685; -- Name: Harb Clawhoof -- subName: Kodo Mounts
@@ -2820,7 +2772,6 @@ UPDATE locales_creature SET name_loc9='Bleakheart Hellcaller',subname_loc9='' WH
 UPDATE locales_creature SET name_loc9='Lesser Felguard',subname_loc9='' WHERE entry=3772; -- Name: Lesser Felguard
 UPDATE locales_creature SET name_loc9='Akkrilus',subname_loc9='' WHERE entry=3773; -- Name: Akkrilus
 UPDATE locales_creature SET name_loc9='Felslayer',subname_loc9='' WHERE entry=3774; -- Name: Felslayer
-UPDATE locales_creature SET name_loc9='Syurana',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=3779; -- Name: Syurana -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Shadethicket Moss Eater',subname_loc9='' WHERE entry=3780; -- Name: Shadethicket Moss Eater
 UPDATE locales_creature SET name_loc9='Shadethicket Wood Shaper',subname_loc9='' WHERE entry=3781; -- Name: Shadethicket Wood Shaper
 UPDATE locales_creature SET name_loc9='Shadethicket Stone Mover',subname_loc9='' WHERE entry=3782; -- Name: Shadethicket Stone Mover
@@ -3137,7 +3088,6 @@ UPDATE locales_creature SET name_loc9='Melea',subname_loc9='Mail Armor Merchant'
 UPDATE locales_creature SET name_loc9='Ealyshia Dewwhisper',subname_loc9='Two Handed Weapon Merchant' WHERE entry=4180; -- Name: Ealyshia Dewwhisper -- subName: Two Handed Weapon Merchant
 UPDATE locales_creature SET name_loc9='Fyrenna',subname_loc9='Food & Drink Vendor' WHERE entry=4181; -- Name: Fyrenna -- subName: Food & Drink Vendor
 UPDATE locales_creature SET name_loc9='Dalmond',subname_loc9='General Goods' WHERE entry=4182; -- Name: Dalmond -- subName: General Goods
-UPDATE locales_creature SET name_loc9='Naram Longclaw',subname_loc9='Fabbro D\'Armi' WHERE entry=4183; -- Name: Naram Longclaw -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Geenia Sunshadow',subname_loc9='Speciality Dress Maker' WHERE entry=4184; -- Name: Geenia Sunshadow -- subName: Speciality Dress Maker
 UPDATE locales_creature SET name_loc9='Shaldyn',subname_loc9='Clothier' WHERE entry=4185; -- Name: Shaldyn -- subName: Clothier
 UPDATE locales_creature SET name_loc9='Mavralyn',subname_loc9='Leather Armor & Leatherworking Supplies' WHERE entry=4186; -- Name: Mavralyn -- subName: Leather Armor & Leatherworking Supplies
@@ -3148,7 +3098,6 @@ UPDATE locales_creature SET name_loc9='Kyndri',subname_loc9='Baker' WHERE entry=
 UPDATE locales_creature SET name_loc9='Allyndia',subname_loc9='Food & Drink Vendor' WHERE entry=4191; -- Name: Allyndia -- subName: Food & Drink Vendor
 UPDATE locales_creature SET name_loc9='Taldan',subname_loc9='Drink Vendor' WHERE entry=4192; -- Name: Taldan -- subName: Drink Vendor
 UPDATE locales_creature SET name_loc9='Grondal Moonbreeze',subname_loc9='Journeyman Tailor' WHERE entry=4193; -- Name: Grondal Moonbreeze -- subName: Journeyman Tailor
-UPDATE locales_creature SET name_loc9='Ullanna',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=4194; -- Name: Ullanna -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Tiyani',subname_loc9='Food & Drink Vendor' WHERE entry=4195; -- Name: Tiyani -- subName: Food & Drink Vendor
 UPDATE locales_creature SET name_loc9='Silithid Swarm',subname_loc9='' WHERE entry=4196; -- Name: Silithid Swarm
 UPDATE locales_creature SET name_loc9='Ken\'zigla',subname_loc9='' WHERE entry=4197; -- Name: Ken'zigla
@@ -3178,7 +3127,6 @@ UPDATE locales_creature SET name_loc9='Fyldan',subname_loc9='Cooking Supplies' W
 UPDATE locales_creature SET name_loc9='Saenorion',subname_loc9='Leatherworking Supplies' WHERE entry=4225; -- Name: Saenorion -- subName: Leatherworking Supplies
 UPDATE locales_creature SET name_loc9='Ulthir',subname_loc9='Alchemy Supplies' WHERE entry=4226; -- Name: Ulthir -- subName: Alchemy Supplies
 UPDATE locales_creature SET name_loc9='Vaean',subname_loc9='Enchanting Supplies' WHERE entry=4228; -- Name: Vaean -- subName: Enchanting Supplies
-UPDATE locales_creature SET name_loc9='Mythrin\'dir',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=4229; -- Name: Mythrin'dir -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Yldan',subname_loc9='Bag Merchant' WHERE entry=4230; -- Name: Yldan -- subName: Bag Merchant
 UPDATE locales_creature SET name_loc9='Kieran',subname_loc9='Weapon Merchant' WHERE entry=4231; -- Name: Kieran -- subName: Weapon Merchant
 UPDATE locales_creature SET name_loc9='Glorandiir',subname_loc9='Axe Merchant' WHERE entry=4232; -- Name: Glorandiir -- subName: Axe Merchant
@@ -3442,7 +3390,6 @@ UPDATE locales_creature SET name_loc9='Louis Warren',subname_loc9='Weapons Merch
 UPDATE locales_creature SET name_loc9='Lauren Newcomb',subname_loc9='Light Armor Merchant' WHERE entry=4558; -- Name: Lauren Newcomb -- subName: Light Armor Merchant
 UPDATE locales_creature SET name_loc9='Timothy Weldon',subname_loc9='Heavy Armor Merchant' WHERE entry=4559; -- Name: Timothy Weldon -- subName: Heavy Armor Merchant
 UPDATE locales_creature SET name_loc9='Walter Ellingson',subname_loc9='Heavy Armor Merchant' WHERE entry=4560; -- Name: Walter Ellingson -- subName: Heavy Armor Merchant
-UPDATE locales_creature SET name_loc9='Daniel Bartlett',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=4561; -- Name: Daniel Bartlett -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Thomas Mordan',subname_loc9='Reagents' WHERE entry=4562; -- Name: Thomas Mordan -- subName: Reagents
 UPDATE locales_creature SET name_loc9='Kaal Soulreaper',subname_loc9='Warlock Trainer' WHERE entry=4563; -- Name: Kaal Soulreaper -- subName: Warlock Trainer
 UPDATE locales_creature SET name_loc9='Luther Pickman',subname_loc9='Warlock Trainer' WHERE entry=4564; -- Name: Luther Pickman -- subName: Warlock Trainer
@@ -3603,7 +3550,6 @@ UPDATE locales_creature SET name_loc9='Kildar',subname_loc9='Riding Trainer' WHE
 UPDATE locales_creature SET name_loc9='Jartsam',subname_loc9='Riding Trainer' WHERE entry=4753; -- Name: Jartsam -- subName: Riding Trainer
 UPDATE locales_creature SET name_loc9='Ultham Ironhorn',subname_loc9='Riding Trainer' WHERE entry=4772; -- Name: Ultham Ironhorn -- subName: Riding Trainer
 UPDATE locales_creature SET name_loc9='Velma Warnam',subname_loc9='Riding Trainer' WHERE entry=4773; -- Name: Velma Warnam -- subName: Riding Trainer
-UPDATE locales_creature SET name_loc9='Felicia Doan',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=4775; -- Name: Felicia Doan -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='White Ram',subname_loc9='' WHERE entry=4777; -- Name: White Ram
 UPDATE locales_creature SET name_loc9='Riding Ram (Blue)',subname_loc9='' WHERE entry=4778; -- Name: Riding Ram (Blue)
 UPDATE locales_creature SET name_loc9='Brown Ram',subname_loc9='' WHERE entry=4779; -- Name: Brown Ram
@@ -3670,25 +3616,20 @@ UPDATE locales_creature SET name_loc9='Jadespine Basilisk',subname_loc9='' WHERE
 UPDATE locales_creature SET name_loc9='Obsidian Golem',subname_loc9='' WHERE entry=4872; -- Name: Obsidian Golem
 UPDATE locales_creature SET name_loc9='Turhaw',subname_loc9='Butcher' WHERE entry=4875; -- Name: Turhaw -- subName: Butcher
 UPDATE locales_creature SET name_loc9='Jawn Highmesa',subname_loc9='General Goods' WHERE entry=4876; -- Name: Jawn Highmesa -- subName: General Goods
-UPDATE locales_creature SET name_loc9='Jandia',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=4877; -- Name: Jandia -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Montarr',subname_loc9='Lorekeeper' WHERE entry=4878; -- Name: Montarr -- subName: Lorekeeper
 UPDATE locales_creature SET name_loc9='Ogg\'marr',subname_loc9='Butcher' WHERE entry=4879; -- Name: Ogg'marr -- subName: Butcher
 UPDATE locales_creature SET name_loc9='"Stinky" Ignatz',subname_loc9='' WHERE entry=4880; -- Name: "Stinky" Ignatz
 UPDATE locales_creature SET name_loc9='Krak',subname_loc9='Armorer' WHERE entry=4883; -- Name: Krak -- subName: Armorer
-UPDATE locales_creature SET name_loc9='Zulrg',subname_loc9='Fabbro D\'Armi' WHERE entry=4884; -- Name: Zulrg -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Gregor MacVince',subname_loc9='Horse Breeder' WHERE entry=4885; -- Name: Gregor MacVince -- subName: Horse Breeder
 UPDATE locales_creature SET name_loc9='Hans Weston',subname_loc9='Armorer & Shieldsmith' WHERE entry=4886; -- Name: Hans Weston -- subName: Armorer & Shieldsmith
 UPDATE locales_creature SET name_loc9='Ghamoo-ra',subname_loc9='' WHERE entry=4887; -- Name: Ghamoo-ra
-UPDATE locales_creature SET name_loc9='Marie Holdston',subname_loc9='Fabbro D\'Armi' WHERE entry=4888; -- Name: Marie Holdston -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Torq Ironblast',subname_loc9='Gunsmith' WHERE entry=4889; -- Name: Torq Ironblast -- subName: Gunsmith
-UPDATE locales_creature SET name_loc9='Piter Verance',subname_loc9='Fabbro D\'Armi & Armorer' WHERE entry=4890; -- Name: Piter Verance -- subName: Fabbro D\'Armi & Armorer
 UPDATE locales_creature SET name_loc9='Dwane Wertle',subname_loc9='Chef' WHERE entry=4891; -- Name: Dwane Wertle -- subName: Chef
 UPDATE locales_creature SET name_loc9='Jensen Farran',subname_loc9='Bowyer' WHERE entry=4892; -- Name: Jensen Farran -- subName: Bowyer
 UPDATE locales_creature SET name_loc9='Bartender Lillian',subname_loc9='Bartender' WHERE entry=4893; -- Name: Bartender Lillian -- subName: Bartender
 UPDATE locales_creature SET name_loc9='Craig Nollward',subname_loc9='Cook' WHERE entry=4894; -- Name: Craig Nollward -- subName: Cook
 UPDATE locales_creature SET name_loc9='Smiling Jim',subname_loc9='' WHERE entry=4895; -- Name: Smiling Jim
 UPDATE locales_creature SET name_loc9='Charity Mipsy',subname_loc9='General Goods' WHERE entry=4896; -- Name: Charity Mipsy -- subName: General Goods
-UPDATE locales_creature SET name_loc9='Helenia Olden',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=4897; -- Name: Helenia Olden -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Brant Jasperbloom',subname_loc9='Herbalism Trainer' WHERE entry=4898; -- Name: Brant Jasperbloom -- subName: Herbalism Trainer
 UPDATE locales_creature SET name_loc9='Uma Bartulm',subname_loc9='Herbalism & Alchemy Supplies' WHERE entry=4899; -- Name: Uma Bartulm -- subName: Herbalism & Alchemy Supplies
 UPDATE locales_creature SET name_loc9='Alchemist Narett',subname_loc9='Expert Alchemist' WHERE entry=4900; -- Name: Alchemist Narett -- subName: Expert Alchemist
@@ -3770,7 +3711,6 @@ UPDATE locales_creature SET name_loc9='Captain Andrews',subname_loc9='Red Team C
 UPDATE locales_creature SET name_loc9='Captain Thomas',subname_loc9='Blue Team Captain' WHERE entry=5096; -- Name: Captain Thomas -- subName: Blue Team Captain
 UPDATE locales_creature SET name_loc9='Lupine Delusion',subname_loc9='' WHERE entry=5097; -- Name: Lupine Delusion
 UPDATE locales_creature SET name_loc9='Soleil Stonemantle',subname_loc9='Banker' WHERE entry=5099; -- Name: Soleil Stonemantle -- subName: Banker
-UPDATE locales_creature SET name_loc9='Fillius Fizzlespinner',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=5100; -- Name: Fillius Fizzlespinner -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Bryllia Ironbrand',subname_loc9='General Goods' WHERE entry=5101; -- Name: Bryllia Ironbrand -- subName: General Goods
 UPDATE locales_creature SET name_loc9='Dolman Steelfury',subname_loc9='Weapon Merchant' WHERE entry=5102; -- Name: Dolman Steelfury -- subName: Weapon Merchant
 UPDATE locales_creature SET name_loc9='Grenil Steelfury',subname_loc9='Weapon Merchant' WHERE entry=5103; -- Name: Grenil Steelfury -- subName: Weapon Merchant
@@ -3829,7 +3769,6 @@ UPDATE locales_creature SET name_loc9='Daryl Riknussun',subname_loc9='Cooking Tr
 UPDATE locales_creature SET name_loc9='Emrul Riknussun',subname_loc9='Cooking Supplies' WHERE entry=5160; -- Name: Emrul Riknussun -- subName: Cooking Supplies
 UPDATE locales_creature SET name_loc9='Grimnur Stonebrand',subname_loc9='Fishing Trainer' WHERE entry=5161; -- Name: Grimnur Stonebrand -- subName: Fishing Trainer
 UPDATE locales_creature SET name_loc9='Tansy Puddlefizz',subname_loc9='Fishing Supplies' WHERE entry=5162; -- Name: Tansy Puddlefizz -- subName: Fishing Supplies
-UPDATE locales_creature SET name_loc9='Burbik Gearspanner',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=5163; -- Name: Burbik Gearspanner -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Grumnus Steelshaper',subname_loc9='Master Armorsmith' WHERE entry=5164; -- Name: Grumnus Steelshaper -- subName: Master Armorsmith
 UPDATE locales_creature SET name_loc9='Hulfdan Blackbeard',subname_loc9='Rogue Trainer' WHERE entry=5165; -- Name: Hulfdan Blackbeard -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc9='Ormyr Flinteye',subname_loc9='Rogue Trainer' WHERE entry=5166; -- Name: Ormyr Flinteye -- subName: Rogue Trainer
@@ -4264,7 +4203,6 @@ UPDATE locales_creature SET name_loc9='Tumi',subname_loc9='Heavy Armor Merchant'
 UPDATE locales_creature SET name_loc9='Innkeeper Thulbek',subname_loc9='Innkeeper' WHERE entry=5814; -- Name: Innkeeper Thulbek -- subName: Innkeeper
 UPDATE locales_creature SET name_loc9='Kurgul',subname_loc9='Demon Trainer' WHERE entry=5815; -- Name: Kurgul -- subName: Demon Trainer
 UPDATE locales_creature SET name_loc9='Katis',subname_loc9='Wand Merchant' WHERE entry=5816; -- Name: Katis -- subName: Wand Merchant
-UPDATE locales_creature SET name_loc9='Shimra',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=5817; -- Name: Shimra -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Mirelle Tremayne',subname_loc9='Heavy Armor Merchant' WHERE entry=5819; -- Name: Mirelle Tremayne -- subName: Heavy Armor Merchant
 UPDATE locales_creature SET name_loc9='Gillian Moore',subname_loc9='Leather Armor Merchant' WHERE entry=5820; -- Name: Gillian Moore -- subName: Leather Armor Merchant
 UPDATE locales_creature SET name_loc9='Sheldon Von Croy',subname_loc9='Cloth Armor Merchant' WHERE entry=5821; -- Name: Sheldon Von Croy -- subName: Cloth Armor Merchant
@@ -4597,7 +4535,6 @@ UPDATE locales_creature SET name_loc9='Kurdram Stonehammer',subname_loc9='Mining
 UPDATE locales_creature SET name_loc9='Thelgrum Stonehammer',subname_loc9='Mining Supplies' WHERE entry=6298; -- Name: Thelgrum Stonehammer -- subName: Mining Supplies
 UPDATE locales_creature SET name_loc9='Delfrum Flintbeard',subname_loc9='Journeyman Blacksmith' WHERE entry=6299; -- Name: Delfrum Flintbeard -- subName: Journeyman Blacksmith
 UPDATE locales_creature SET name_loc9='Elisa Steelhand',subname_loc9='Blacksmithing Supplies' WHERE entry=6300; -- Name: Elisa Steelhand -- subName: Blacksmithing Supplies
-UPDATE locales_creature SET name_loc9='Gorbold Steelhand',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=6301; -- Name: Gorbold Steelhand -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Helene Peltskinner',subname_loc9='Skinning Trainer' WHERE entry=6306; -- Name: Helene Peltskinner -- subName: Skinning Trainer
 UPDATE locales_creature SET name_loc9='Dannie Fizzwizzle',subname_loc9='Demon Trainer' WHERE entry=6328; -- Name: Dannie Fizzwizzle -- subName: Demon Trainer
 UPDATE locales_creature SET name_loc9='Irradiated Pillager',subname_loc9='' WHERE entry=6329; -- Name: Irradiated Pillager
@@ -4907,8 +4844,6 @@ UPDATE locales_creature SET name_loc9='Obsidian Shard',subname_loc9='' WHERE ent
 UPDATE locales_creature SET name_loc9='Sand Storm',subname_loc9='' WHERE entry=7226; -- Name: Sand Storm
 UPDATE locales_creature SET name_loc9='Ironaya',subname_loc9='' WHERE entry=7228; -- Name: Ironaya
 UPDATE locales_creature SET name_loc9='Shayis Steelfury',subname_loc9='Armorsmith Trainer' WHERE entry=7230; -- Name: Shayis Steelfury -- subName: Armorsmith Trainer
-UPDATE locales_creature SET name_loc9='Kelgruk Bloodaxe',subname_loc9='Fabbro D\'Armi Trainer' WHERE entry=7231; -- Name: Kelgruk Bloodaxe -- subName: Fabbro D\'Armi Trainer
-UPDATE locales_creature SET name_loc9='Borgus Steelhand',subname_loc9='Fabbro D\'Armi Trainer' WHERE entry=7232; -- Name: Borgus Steelhand -- subName: Fabbro D\'Armi Trainer
 UPDATE locales_creature SET name_loc9='Taskmaster Fizzule',subname_loc9='' WHERE entry=7233; -- Name: Taskmaster Fizzule
 UPDATE locales_creature SET name_loc9='Ferocitas the Dream Eater',subname_loc9='' WHERE entry=7234; -- Name: Ferocitas the Dream Eater
 UPDATE locales_creature SET name_loc9='Gnarlpine Mystic',subname_loc9='' WHERE entry=7235; -- Name: Gnarlpine Mystic
@@ -5282,7 +5217,6 @@ UPDATE locales_creature SET name_loc9='Harklane',subname_loc9='Fish Vendor' WHER
 UPDATE locales_creature SET name_loc9='Tinkmaster Overspark',subname_loc9='Gnomish Engineering Trainer' WHERE entry=7944; -- Name: Tinkmaster Overspark -- subName: Gnomish Engineering Trainer
 UPDATE locales_creature SET name_loc9='Savanne',subname_loc9='Fishing Supplies' WHERE entry=7945; -- Name: Savanne -- subName: Fishing Supplies
 UPDATE locales_creature SET name_loc9='Brannock',subname_loc9='Fishing Trainer' WHERE entry=7946; -- Name: Brannock -- subName: Fishing Trainer
-UPDATE locales_creature SET name_loc9='Vivianna',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=7947; -- Name: Vivianna -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Kylanna Windwhisper',subname_loc9='Master Alchemist' WHERE entry=7948; -- Name: Kylanna Windwhisper -- subName: Master Alchemist
 UPDATE locales_creature SET name_loc9='Xylinnia Starshine',subname_loc9='Expert Enchanter' WHERE entry=7949; -- Name: Xylinnia Starshine -- subName: Expert Enchanter
 UPDATE locales_creature SET name_loc9='Master Mechanic Castpipe',subname_loc9='' WHERE entry=7950; -- Name: Master Mechanic Castpipe
@@ -5346,7 +5280,6 @@ UPDATE locales_creature SET name_loc9='Captain Evencane',subname_loc9='Warrior T
 UPDATE locales_creature SET name_loc9='Jannos Lighthoof',subname_loc9='Druid Trainer' WHERE entry=8142; -- Name: Jannos Lighthoof -- subName: Druid Trainer
 UPDATE locales_creature SET name_loc9='Loorana',subname_loc9='Food & Drink' WHERE entry=8143; -- Name: Loorana -- subName: Food & Drink
 UPDATE locales_creature SET name_loc9='Kulleg Stonehorn',subname_loc9='Skinning Trainer' WHERE entry=8144; -- Name: Kulleg Stonehorn -- subName: Skinning Trainer
-UPDATE locales_creature SET name_loc9='Sheendra Tallgrass',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=8145; -- Name: Sheendra Tallgrass -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Ruw',subname_loc9='Herbalism Trainer' WHERE entry=8146; -- Name: Ruw -- subName: Herbalism Trainer
 UPDATE locales_creature SET name_loc9='Camp Mojache Brave',subname_loc9='' WHERE entry=8147; -- Name: Camp Mojache Brave
 UPDATE locales_creature SET name_loc9='Sul\'lithuz Warder',subname_loc9='' WHERE entry=8149; -- Name: Sul'lithuz Warder
@@ -5431,7 +5364,6 @@ UPDATE locales_creature SET name_loc9='Ahanu',subname_loc9='Leather Armor Mercha
 UPDATE locales_creature SET name_loc9='Elki',subname_loc9='Mail Armor Merchant' WHERE entry=8360; -- Name: Elki -- subName: Mail Armor Merchant
 UPDATE locales_creature SET name_loc9='Chepi',subname_loc9='Reagents' WHERE entry=8361; -- Name: Chepi -- subName: Reagents
 UPDATE locales_creature SET name_loc9='Kuruk',subname_loc9='General Goods' WHERE entry=8362; -- Name: Kuruk -- subName: General Goods
-UPDATE locales_creature SET name_loc9='Shadi Mistrunner',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=8363; -- Name: Shadi Mistrunner -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Pakwa',subname_loc9='Bag Vendor' WHERE entry=8364; -- Name: Pakwa -- subName: Bag Vendor
 UPDATE locales_creature SET name_loc9='Mechanical Chicken',subname_loc9='' WHERE entry=8376; -- Name: Mechanical Chicken
 UPDATE locales_creature SET name_loc9='Alexandra Blazen',subname_loc9='' WHERE entry=8378; -- Name: Alexandra Blazen
@@ -5679,7 +5611,6 @@ UPDATE locales_creature SET name_loc9='Princess Moira Bronzebeard',subname_loc9=
 UPDATE locales_creature SET name_loc9='Innkeeper Heather',subname_loc9='Innkeeper' WHERE entry=8931; -- Name: Innkeeper Heather -- subName: Innkeeper
 UPDATE locales_creature SET name_loc9='Borer Beetle',subname_loc9='' WHERE entry=8932; -- Name: Borer Beetle
 UPDATE locales_creature SET name_loc9='Cave Creeper',subname_loc9='' WHERE entry=8933; -- Name: Cave Creeper
-UPDATE locales_creature SET name_loc9='Christopher Hewen',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=8934; -- Name: Christopher Hewen -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Pet Bomb',subname_loc9='' WHERE entry=8937; -- Name: Pet Bomb
 UPDATE locales_creature SET name_loc9='Angerclaw Bear',subname_loc9='' WHERE entry=8956; -- Name: Angerclaw Bear
 UPDATE locales_creature SET name_loc9='Angerclaw Grizzly',subname_loc9='' WHERE entry=8957; -- Name: Angerclaw Grizzly
@@ -6119,7 +6050,6 @@ UPDATE locales_creature SET name_loc9='Ressan the Needler',subname_loc9='' WHERE
 UPDATE locales_creature SET name_loc9='Fellicent\'s Shade',subname_loc9='' WHERE entry=10358; -- Name: Fellicent's Shade
 UPDATE locales_creature SET name_loc9='Sri\'skulk',subname_loc9='' WHERE entry=10359; -- Name: Sri'skulk
 UPDATE locales_creature SET name_loc9='Kergul Bloodaxe',subname_loc9='Warsong Gulch Battlemaster' WHERE entry=10360; -- Name: Kergul Bloodaxe -- subName: Warsong Gulch Battlemaster
-UPDATE locales_creature SET name_loc9='Gruul Darkblade',subname_loc9='Fabbro D\'Armi' WHERE entry=10361; -- Name: Gruul Darkblade -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='General Drakkisath',subname_loc9='' WHERE entry=10363; -- Name: General Drakkisath
 UPDATE locales_creature SET name_loc9='Yaelika Farclaw',subname_loc9='Reagents & Poisons' WHERE entry=10364; -- Name: Yaelika Farclaw -- subName: Reagents & Poisons
 UPDATE locales_creature SET name_loc9='Rage Talon Dragon Guard',subname_loc9='' WHERE entry=10366; -- Name: Rage Talon Dragon Guard
@@ -6527,7 +6457,6 @@ UPDATE locales_creature SET name_loc9='Crimson Hammersmith',subname_loc9='' WHER
 UPDATE locales_creature SET name_loc9='Black Guard Swordsmith',subname_loc9='' WHERE entry=11121; -- Name: Black Guard Swordsmith
 UPDATE locales_creature SET name_loc9='Restless Soul',subname_loc9='' WHERE entry=11122; -- Name: Restless Soul
 UPDATE locales_creature SET name_loc9='Freed Soul',subname_loc9='' WHERE entry=11136; -- Name: Freed Soul
-UPDATE locales_creature SET name_loc9='Xai\'ander',subname_loc9='Fabbro D\'Armi' WHERE entry=11137; -- Name: Xai'ander -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Maethrya',subname_loc9='Hippogryph Master' WHERE entry=11138; -- Name: Maethrya -- subName: Hippogryph Master
 UPDATE locales_creature SET name_loc9='Yugrek',subname_loc9='Wind Rider Master' WHERE entry=11139; -- Name: Yugrek -- subName: Wind Rider Master
 UPDATE locales_creature SET name_loc9='Egan',subname_loc9='' WHERE entry=11140; -- Name: Egan
@@ -6535,7 +6464,6 @@ UPDATE locales_creature SET name_loc9='Spirit of Trey Lightforge',subname_loc9='
 UPDATE locales_creature SET name_loc9='Undead Postman',subname_loc9='' WHERE entry=11142; -- Name: Undead Postman
 UPDATE locales_creature SET name_loc9='Postmaster Malown',subname_loc9='' WHERE entry=11143; -- Name: Postmaster Malown
 UPDATE locales_creature SET name_loc9='Myolor Sunderfury',subname_loc9='' WHERE entry=11145; -- Name: Myolor Sunderfury
-UPDATE locales_creature SET name_loc9='Ironus Coldsteel',subname_loc9='Master Fabbro D\'Armi' WHERE entry=11146; -- Name: Ironus Coldsteel -- subName: Master Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Green Mechanostrider',subname_loc9='' WHERE entry=11147; -- Name: Green Mechanostrider
 UPDATE locales_creature SET name_loc9='Riding MechaStrider (Purple)',subname_loc9='' WHERE entry=11148; -- Name: Riding MechaStrider (Purple)
 UPDATE locales_creature SET name_loc9='Riding MechaStrider (Red/Blue)',subname_loc9='' WHERE entry=11149; -- Name: Riding MechaStrider (Red/Blue)
@@ -6548,18 +6476,15 @@ UPDATE locales_creature SET name_loc9='Brown Skeletal Horse',subname_loc9='' WHE
 UPDATE locales_creature SET name_loc9='Green Skeletal Warhorse',subname_loc9='' WHERE entry=11156; -- Name: Green Skeletal Warhorse
 UPDATE locales_creature SET name_loc9='Krathok Moltenfist',subname_loc9='' WHERE entry=11176; -- Name: Krathok Moltenfist
 UPDATE locales_creature SET name_loc9='Okothos Ironrager',subname_loc9='Master Armorsmith' WHERE entry=11177; -- Name: Okothos Ironrager -- subName: Master Armorsmith
-UPDATE locales_creature SET name_loc9='Borgosh Corebender',subname_loc9='Master Fabbro D\'Armi' WHERE entry=11178; -- Name: Borgosh Corebender -- subName: Master Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Crystal Trigger',subname_loc9='' WHERE entry=11179; -- Name: Crystal Trigger
 UPDATE locales_creature SET name_loc9='Bloodvenom Post Brave',subname_loc9='' WHERE entry=11180; -- Name: Bloodvenom Post Brave
 UPDATE locales_creature SET name_loc9='Shi\'alune',subname_loc9='Kaerbrus\' Pet' WHERE entry=11181; -- Name: Shi'alune -- subName: Kaerbrus' Pet
 UPDATE locales_creature SET name_loc9='Nixxrak',subname_loc9='Heavy Armor Merchant' WHERE entry=11182; -- Name: Nixxrak -- subName: Heavy Armor Merchant
 UPDATE locales_creature SET name_loc9='Blixxrak',subname_loc9='Light Armor Merchant' WHERE entry=11183; -- Name: Blixxrak -- subName: Light Armor Merchant
-UPDATE locales_creature SET name_loc9='Wixxrak',subname_loc9='Fabbro D\'Armi & Gunsmith' WHERE entry=11184; -- Name: Wixxrak -- subName: Fabbro D\'Armi & Gunsmith
 UPDATE locales_creature SET name_loc9='Xizzer Fizzbolt',subname_loc9='Engineering Supplies' WHERE entry=11185; -- Name: Xizzer Fizzbolt -- subName: Engineering Supplies
 UPDATE locales_creature SET name_loc9='Lunnix Sprocketslip',subname_loc9='Mining Supplies' WHERE entry=11186; -- Name: Lunnix Sprocketslip -- subName: Mining Supplies
 UPDATE locales_creature SET name_loc9='Himmik',subname_loc9='Food & Drink' WHERE entry=11187; -- Name: Himmik -- subName: Food & Drink
 UPDATE locales_creature SET name_loc9='Evie Whirlbrew',subname_loc9='Alchemy Supplies' WHERE entry=11188; -- Name: Evie Whirlbrew -- subName: Alchemy Supplies
-UPDATE locales_creature SET name_loc9='Qia',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=11189; -- Name: Qia -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Everlook Bruiser',subname_loc9='' WHERE entry=11190; -- Name: Everlook Bruiser
 UPDATE locales_creature SET name_loc9='Lilith the Lithe',subname_loc9='' WHERE entry=11191; -- Name: Lilith the Lithe
 UPDATE locales_creature SET name_loc9='Kilram',subname_loc9='' WHERE entry=11192; -- Name: Kilram
@@ -6988,13 +6913,10 @@ UPDATE locales_creature SET name_loc9='Broodlord Lashlayer',subname_loc9='' WHER
 UPDATE locales_creature SET name_loc9='Majordomo Executus',subname_loc9='' WHERE entry=12018; -- Name: Majordomo Executus
 UPDATE locales_creature SET name_loc9='Dargon',subname_loc9='Food & Drink Merchant' WHERE entry=12019; -- Name: Dargon -- subName: Food & Drink Merchant
 UPDATE locales_creature SET name_loc9='Daeolyn Summerleaf',subname_loc9='General Goods' WHERE entry=12021; -- Name: Daeolyn Summerleaf -- subName: General Goods
-UPDATE locales_creature SET name_loc9='Lorelae Wintersong',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=12022; -- Name: Lorelae Wintersong -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Kharedon',subname_loc9='Light Armor Merchant' WHERE entry=12023; -- Name: Kharedon -- subName: Light Armor Merchant
-UPDATE locales_creature SET name_loc9='Meliri',subname_loc9='Fabbro D\'Armi' WHERE entry=12024; -- Name: Meliri -- subName: Fabbro D\'Armi
 UPDATE locales_creature SET name_loc9='Malvor',subname_loc9='Herbalism Trainer' WHERE entry=12025; -- Name: Malvor -- subName: Herbalism Trainer
 UPDATE locales_creature SET name_loc9='My\'lanna',subname_loc9='Food & Drink Merchant' WHERE entry=12026; -- Name: My'lanna -- subName: Food & Drink Merchant
 UPDATE locales_creature SET name_loc9='Tukk',subname_loc9='General Goods' WHERE entry=12027; -- Name: Tukk -- subName: General Goods
-UPDATE locales_creature SET name_loc9='Lah\'Mawhani',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=12028; -- Name: Lah'Mawhani -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Narianna',subname_loc9='Bowyer' WHERE entry=12029; -- Name: Narianna -- subName: Bowyer
 UPDATE locales_creature SET name_loc9='Malux',subname_loc9='Skinning Trainer' WHERE entry=12030; -- Name: Malux -- subName: Skinning Trainer
 UPDATE locales_creature SET name_loc9='Mai\'Lahii',subname_loc9='Fishing Supplies' WHERE entry=12031; -- Name: Mai'Lahii -- subName: Fishing Supplies
@@ -7003,7 +6925,6 @@ UPDATE locales_creature SET name_loc9='Wulan',subname_loc9='Cooking Supplies' WH
 UPDATE locales_creature SET name_loc9='Koiter',subname_loc9='' WHERE entry=12034; -- Name: Koiter
 UPDATE locales_creature SET name_loc9='Ursol\'lok',subname_loc9='' WHERE entry=12037; -- Name: Ursol'lok
 UPDATE locales_creature SET name_loc9='Loganaar',subname_loc9='Druid Trainer' WHERE entry=12042; -- Name: Loganaar -- subName: Druid Trainer
-UPDATE locales_creature SET name_loc9='Kulwia',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=12043; -- Name: Kulwia -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Hae\'Wilani',subname_loc9='Axecrafter' WHERE entry=12045; -- Name: Hae'Wilani -- subName: Axecrafter
 UPDATE locales_creature SET name_loc9='Gor\'marok the Ravager',subname_loc9='' WHERE entry=12046; -- Name: Gor'marok the Ravager
 UPDATE locales_creature SET name_loc9='Stormpike Mountaineer',subname_loc9='' WHERE entry=12047; -- Name: Stormpike Mountaineer
@@ -7316,13 +7237,10 @@ UPDATE locales_creature SET name_loc9='Critically Injured Alliance Soldier',subn
 UPDATE locales_creature SET name_loc9='Injured Alliance Soldier',subname_loc9='' WHERE entry=12938; -- Name: Injured Alliance Soldier
 UPDATE locales_creature SET name_loc9='Doctor Gustaf VanHowzen',subname_loc9='Trauma Surgeon' WHERE entry=12939; -- Name: Doctor Gustaf VanHowzen -- subName: Trauma Surgeon
 UPDATE locales_creature SET name_loc9='Vorsha the Lasher',subname_loc9='' WHERE entry=12940; -- Name: Vorsha the Lasher
-UPDATE locales_creature SET name_loc9='Jase Farlane',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=12941; -- Name: Jase Farlane -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Leonard Porter',subname_loc9='Leatherworking Supplies' WHERE entry=12942; -- Name: Leonard Porter -- subName: Leatherworking Supplies
 UPDATE locales_creature SET name_loc9='Werg Thickblade',subname_loc9='Leatherworking Supplies' WHERE entry=12943; -- Name: Werg Thickblade -- subName: Leatherworking Supplies
 UPDATE locales_creature SET name_loc9='Lokhtos Darkbargainer',subname_loc9='The Thorium Brotherhood' WHERE entry=12944; -- Name: Lokhtos Darkbargainer -- subName: The Thorium Brotherhood
 UPDATE locales_creature SET name_loc9='Zannok Hidepiercer',subname_loc9='Leatherworking Supplies' WHERE entry=12956; -- Name: Zannok Hidepiercer -- subName: Leatherworking Supplies
-UPDATE locales_creature SET name_loc9='Blimo Gadgetspring',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=12957; -- Name: Blimo Gadgetspring -- subName: Mercante di Forniture Commerciali
-UPDATE locales_creature SET name_loc9='Gigget Zipcoil',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=12958; -- Name: Gigget Zipcoil -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Nergal',subname_loc9='General Goods' WHERE entry=12959; -- Name: Nergal -- subName: General Goods
 UPDATE locales_creature SET name_loc9='Christi Galvanis',subname_loc9='General Goods' WHERE entry=12960; -- Name: Christi Galvanis -- subName: General Goods
 UPDATE locales_creature SET name_loc9='Kil\'Hiwana',subname_loc9='Fishing Trainer' WHERE entry=12961; -- Name: Kil'Hiwana -- subName: Fishing Trainer
@@ -8174,7 +8092,6 @@ UPDATE locales_creature SET name_loc9='Khur Hornstriker',subname_loc9='Reagents'
 UPDATE locales_creature SET name_loc9='Vargus',subname_loc9='Blacksmith' WHERE entry=15176; -- Name: Vargus -- subName: Blacksmith
 UPDATE locales_creature SET name_loc9='Cloud Skydancer',subname_loc9='Hippogryph Master' WHERE entry=15177; -- Name: Cloud Skydancer -- subName: Hippogryph Master
 UPDATE locales_creature SET name_loc9='Runk Windtamer',subname_loc9='Wind Rider Master' WHERE entry=15178; -- Name: Runk Windtamer -- subName: Wind Rider Master
-UPDATE locales_creature SET name_loc9='Mishta',subname_loc9='Mercante di Forniture Commerciali' WHERE entry=15179; -- Name: Mishta -- subName: Mercante di Forniture Commerciali
 UPDATE locales_creature SET name_loc9='Baristolth of the Shifting Sands',subname_loc9='' WHERE entry=15180; -- Name: Baristolth of the Shifting Sands
 UPDATE locales_creature SET name_loc9='Commander Mar\'alith',subname_loc9='' WHERE entry=15181; -- Name: Commander Mar'alith
 UPDATE locales_creature SET name_loc9='Vish Kozus',subname_loc9='Captain of the Guard' WHERE entry=15182; -- Name: Vish Kozus -- subName: Captain of the Guard
