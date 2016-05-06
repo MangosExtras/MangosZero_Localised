@@ -7892,12 +7892,9 @@ UPDATE locales_gameobject SET name_loc8='Наковальня' WHERE entry=17988
 UPDATE locales_gameobject SET name_loc8='Охраняемые чертежи Риззла' WHERE entry=179888; -- Name: Rizzle's Guarded Plans
 UPDATE locales_gameobject SET name_loc8='Почтовый ящик' WHERE entry=179895; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc8='Почтовый ящик' WHERE entry=179896; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc8='Эффект ускорения' WHERE entry=179899; -- Name: Speed Buff
 UPDATE locales_gameobject SET name_loc8='Урон от большого костра' WHERE entry=179900; -- Name: Big Bonfire Damage
 UPDATE locales_gameobject SET name_loc8='Эффект еды' WHERE entry=179904; -- Name: Food Buff
 UPDATE locales_gameobject SET name_loc8='Эффект Берсерка' WHERE entry=179905; -- Name: Berserk Buff
-UPDATE locales_gameobject SET name_loc8='Эффект еды' WHERE entry=179906; -- Name: Food Buff
-UPDATE locales_gameobject SET name_loc8='Эффект Берсерка' WHERE entry=179907; -- Name: Berserk Buff
 UPDATE locales_gameobject SET name_loc8='Потерянные инструменты Углежога' WHERE entry=179908; -- Name: Slagtree's Lost Tools
 UPDATE locales_gameobject SET name_loc8='Обелиск Дуротана' WHERE entry=179909; -- Name: Rock of Durotan
 UPDATE locales_gameobject SET name_loc8='Корзина для пикника Лярда' WHERE entry=179910; -- Name: Lard's Picnic Basket

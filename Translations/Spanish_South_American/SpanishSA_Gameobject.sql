@@ -7154,12 +7154,9 @@ UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=179887; -- Name: An
 UPDATE locales_gameobject SET name_loc7='Planes vigilados de Rizzle' WHERE entry=179888; -- Name: Rizzle's Guarded Plans
 UPDATE locales_gameobject SET name_loc7='Buzón' WHERE entry=179895; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc7='Buzón' WHERE entry=179896; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc7='Beneficio de velocidad' WHERE entry=179899; -- Name: Speed Buff
 UPDATE locales_gameobject SET name_loc7='Daño de fogata grande' WHERE entry=179900; -- Name: Big Bonfire Damage
 UPDATE locales_gameobject SET name_loc7='Beneficio de comida' WHERE entry=179904; -- Name: Food Buff
 UPDATE locales_gameobject SET name_loc7='Beneficio de rabia' WHERE entry=179905; -- Name: Berserk Buff
-UPDATE locales_gameobject SET name_loc7='Beneficio de comida' WHERE entry=179906; -- Name: Food Buff
-UPDATE locales_gameobject SET name_loc7='Beneficio de rabia' WHERE entry=179907; -- Name: Berserk Buff
 UPDATE locales_gameobject SET name_loc7='Herramientas perdidas de Esco' WHERE entry=179908; -- Name: Slagtree's Lost Tools
 UPDATE locales_gameobject SET name_loc7='Roca de Durotan' WHERE entry=179909; -- Name: Rock of Durotan
 UPDATE locales_gameobject SET name_loc7='Cesta de merienda de Lard' WHERE entry=179910; -- Name: Lard's Picnic Basket

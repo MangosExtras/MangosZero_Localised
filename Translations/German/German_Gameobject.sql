@@ -7154,12 +7154,9 @@ UPDATE locales_gameobject SET name_loc3='Amboss' WHERE entry=179887; -- Name: An
 UPDATE locales_gameobject SET name_loc3='Rizzels bewachte Pläne' WHERE entry=179888; -- Name: Rizzle's Guarded Plans
 UPDATE locales_gameobject SET name_loc3='Briefkasten' WHERE entry=179895; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc3='Briefkasten' WHERE entry=179896; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc3='Tempo-Stärkungszauber' WHERE entry=179899; -- Name: Speed Buff
 UPDATE locales_gameobject SET name_loc3='Großer Freudenfeuerschaden' WHERE entry=179900; -- Name: Big Bonfire Damage
 UPDATE locales_gameobject SET name_loc3='Nahrungsmittel-Stärkungszauber' WHERE entry=179904; -- Name: Food Buff
 UPDATE locales_gameobject SET name_loc3='Berserkerzauber' WHERE entry=179905; -- Name: Berserk Buff
-UPDATE locales_gameobject SET name_loc3='Nahrungsmittel-Stärkungszauber' WHERE entry=179906; -- Name: Food Buff
-UPDATE locales_gameobject SET name_loc3='Berserkerzauber' WHERE entry=179907; -- Name: Berserk Buff
 UPDATE locales_gameobject SET name_loc3='Aschenbaums verlorene Werkzeuge' WHERE entry=179908; -- Name: Slagtree's Lost Tools
 UPDATE locales_gameobject SET name_loc3='Fels von Durotan' WHERE entry=179909; -- Name: Rock of Durotan
 UPDATE locales_gameobject SET name_loc3='Lards Picknickkorb' WHERE entry=179910; -- Name: Lard's Picnic Basket

@@ -2679,7 +2679,7 @@ UPDATE locales_item SET name_loc4='铁质宝箱',description_loc4='' WHERE entry
 UPDATE locales_item SET name_loc4='铁趾的护符',description_loc4='' WHERE entry=4635; -- Name: Hammertoe's Amulet
 UPDATE locales_item SET name_loc4='精铁宝箱',description_loc4='' WHERE entry=4636; -- Name: Strong Iron Lockbox
 UPDATE locales_item SET name_loc4='钢质宝箱',description_loc4='' WHERE entry=4637; -- Name: Steel Lockbox
-UPDATE locales_item SET name_loc4='盒装巨石',description_loc4='' WHERE entry=4638; -- Name: Reinforced Steel Lockbox
+UPDATE locales_item SET name_loc4=' reinforced steel box ',description_loc4='' WHERE entry=4638; -- Name: Reinforced Steel Lockbox
 UPDATE locales_item SET name_loc4='魔力海藻',description_loc4='' WHERE entry=4639; -- Name: Enchanted Sea Kelp
 UPDATE locales_item SET name_loc4='大地印章',description_loc4='' WHERE entry=4640; -- Name: Sign of the Earth
 UPDATE locales_item SET name_loc4='达古恩之手',description_loc4='' WHERE entry=4641; -- Name: Hand of Dagun

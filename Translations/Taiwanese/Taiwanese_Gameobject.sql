@@ -7154,12 +7154,9 @@ UPDATE locales_gameobject SET name_loc5='鐵砧' WHERE entry=179887; -- Name: An
 UPDATE locales_gameobject SET name_loc5='有人看守的瑞茲爾設計圖' WHERE entry=179888; -- Name: Rizzle's Guarded Plans
 UPDATE locales_gameobject SET name_loc5='郵箱' WHERE entry=179895; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc5='郵箱' WHERE entry=179896; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc5='速度增益' WHERE entry=179899; -- Name: Speed Buff
 UPDATE locales_gameobject SET name_loc5='大營火傷害' WHERE entry=179900; -- Name: Big Bonfire Damage
 UPDATE locales_gameobject SET name_loc5='進食' WHERE entry=179904; -- Name: Food Buff
 UPDATE locales_gameobject SET name_loc5='狂暴增益' WHERE entry=179905; -- Name: Berserk Buff
-UPDATE locales_gameobject SET name_loc5='進食' WHERE entry=179906; -- Name: Food Buff
-UPDATE locales_gameobject SET name_loc5='狂暴增益' WHERE entry=179907; -- Name: Berserk Buff
 UPDATE locales_gameobject SET name_loc5='斯拉提的工具' WHERE entry=179908; -- Name: Slagtree's Lost Tools
 UPDATE locales_gameobject SET name_loc5='杜洛坦之石' WHERE entry=179909; -- Name: Rock of Durotan
 UPDATE locales_gameobject SET name_loc5='拉爾德的午餐籃' WHERE entry=179910; -- Name: Lard's Picnic Basket

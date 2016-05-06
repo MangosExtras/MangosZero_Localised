@@ -55,7 +55,7 @@ UPDATE locales_creature SET name_loc4='伊根·派特斯金纳',subname_loc4='' 
 UPDATE locales_creature SET name_loc4='治安官玛克布莱德',subname_loc4='' WHERE entry=197; -- Name: Marshal McBride
 UPDATE locales_creature SET name_loc4='凯尔登·布雷门',subname_loc4='法师训练师' WHERE entry=198; -- Name: Khelden Bremen -- subName: Mage Trainer
 UPDATE locales_creature SET name_loc4='小碎尸鸟',subname_loc4='' WHERE entry=199; -- Name: Young Fleshripper
-UPDATE locales_creature SET name_loc4='腐烂恐魔',subname_loc4='' WHERE entry=202; -- Name: Skeletal Horror
+UPDATE locales_creature SET name_loc4=' horror skeleton ',subname_loc4='' WHERE entry=202; -- Name: Skeletal Horror
 UPDATE locales_creature SET name_loc4='骷髅法师',subname_loc4='' WHERE entry=203; -- Name: Skeletal Mage
 UPDATE locales_creature SET name_loc4='夜行黑暗狼人',subname_loc4='' WHERE entry=205; -- Name: Nightbane Dark Runner
 UPDATE locales_creature SET name_loc4='夜行邪齿狼人',subname_loc4='' WHERE entry=206; -- Name: Nightbane Vile Fang

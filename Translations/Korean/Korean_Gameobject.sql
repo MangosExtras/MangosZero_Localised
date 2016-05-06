@@ -7154,12 +7154,9 @@ UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=179887; -- Name: An
 UPDATE locales_gameobject SET name_loc1='지키고 있는 리즐의 설계도' WHERE entry=179888; -- Name: Rizzle's Guarded Plans
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=179895; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=179896; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc1='신속 효과' WHERE entry=179899; -- Name: Speed Buff
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=179900; -- Name: Big Bonfire Damage
 UPDATE locales_gameobject SET name_loc1='음식 효과' WHERE entry=179904; -- Name: Food Buff
 UPDATE locales_gameobject SET name_loc1='광폭화 효과' WHERE entry=179905; -- Name: Berserk Buff
-UPDATE locales_gameobject SET name_loc1='음식 효과' WHERE entry=179906; -- Name: Food Buff
-UPDATE locales_gameobject SET name_loc1='광폭화 효과' WHERE entry=179907; -- Name: Berserk Buff
 UPDATE locales_gameobject SET name_loc1='잃어버린 슬래그트리의 연장' WHERE entry=179908; -- Name: Slagtree's Lost Tools
 UPDATE locales_gameobject SET name_loc1='듀로탄 바위' WHERE entry=179909; -- Name: Rock of Durotan
 UPDATE locales_gameobject SET name_loc1='라드의 소풍용 바구니' WHERE entry=179910; -- Name: Lard's Picnic Basket

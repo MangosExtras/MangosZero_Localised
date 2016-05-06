@@ -245,10 +245,14 @@ UPDATE locales_gameobject SET name_loc2='Gisement de fer' WHERE entry=1735; -- N
 UPDATE locales_gameobject SET name_loc2='Chargement de fer' WHERE entry=1736; -- Name: Shipment of Iron
 UPDATE locales_gameobject SET name_loc2='Documents du Syndicat' WHERE entry=1740; -- Name: Syndicate Documents
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=1743; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=1744; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=1744; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=1745; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=1748; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=1748; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=1749; -- Name: Forge
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=1752; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=1753; -- Name: Forge
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=1754; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=1755; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Registre municipal de Hautebrande' WHERE entry=1759; -- Name: Hillsbrad Town Registry
 UPDATE locales_gameobject SET name_loc2='Bibliothèque dégradée par les intempéries' WHERE entry=1760; -- Name: Weathered Bookcase
 UPDATE locales_gameobject SET name_loc2='Proclamation de Hautebrande' WHERE entry=1761; -- Name: Hillsbrad Proclamation
@@ -284,11 +288,13 @@ UPDATE locales_gameobject SET name_loc2='Donjon de Fort-de-Durn' WHERE entry=179
 UPDATE locales_gameobject SET name_loc2='Dun Garok' WHERE entry=1793; -- Name: Dun Garok
 UPDATE locales_gameobject SET name_loc2='Moulin-de-Tarren' WHERE entry=1794; -- Name: Tarren Mill
 UPDATE locales_gameobject SET name_loc2='Austrivage' WHERE entry=1795; -- Name: Southshore
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=1796; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=1796; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=1797; -- Name: Forge
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1798; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1799; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1801; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1802; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1803; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1804; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1805; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1806; -- Name: Campfire
@@ -303,16 +309,20 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1814; -- Name:
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1815; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1816; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1817; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1818; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1819; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1820; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1821; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1822; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1824; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1825; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1826; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1827; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1828; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1829; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=1831; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=1832; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1830; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=1831; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=1832; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1833; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1834; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1835; -- Name: Campfire
@@ -348,6 +358,7 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1867; -- Name:
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1868; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1869; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1870; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1871; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1872; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1873; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1874; -- Name: Campfire
@@ -359,38 +370,53 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1879; -- Name:
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1880; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1881; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1882; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=1883; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=1884; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=1885; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=1886; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=1887; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=1883; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=1884; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=1885; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=1886; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=1887; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1888; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1889; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1890; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1891; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1892; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1893; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1894; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1895; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=1897; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=1896; -- Name: Forge
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=1897; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1898; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1901; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1902; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1903; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1904; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1905; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1906; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1908; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1909; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1911; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1912; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1914; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=1915; -- Name: Cooking Fire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1916; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1917; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1921; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1922; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1923; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1926; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=1928; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1927; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=1928; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1930; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1931; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1932; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1935; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1936; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1937; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1938; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1939; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1940; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1941; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1942; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1943; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1944; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1945; -- Name: Campfire
@@ -410,7 +436,9 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1960; -- Name:
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1961; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1962; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1964; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1965; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Fosse à feu' WHERE entry=1967; -- Name: Firepit
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1968; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1969; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1970; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1971; -- Name: Campfire
@@ -430,16 +458,22 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1989; -- Name:
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1990; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1991; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1992; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1993; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1994; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1995; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1996; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1997; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1998; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=1999; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2000; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2001; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2002; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2003; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2005; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2006; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=2010; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=2014; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2007; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=2010; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=2014; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=2015; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Moulin-de-Tarren' WHERE entry=2016; -- Name: Tarren Mill
 UPDATE locales_gameobject SET name_loc2='Montagnes d’Alterac' WHERE entry=2017; -- Name: Alterac Mountains
@@ -493,21 +527,21 @@ UPDATE locales_gameobject SET name_loc2='Racine de Musquash' WHERE entry=2084; -
 UPDATE locales_gameobject SET name_loc2='Cartes de la Voile sanglante' WHERE entry=2086; -- Name: Bloodsail Charts
 UPDATE locales_gameobject SET name_loc2='Ordres de la Voile sanglante' WHERE entry=2087; -- Name: Bloodsail Orders
 UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2096; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2098; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2099; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2098; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2099; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=2100; -- Name: Old Town
 UPDATE locales_gameobject SET name_loc2='Quartier des Mages' WHERE entry=2101; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2102; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2105; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2106; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2102; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2105; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2106; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2108; -- Name: Trade District
 UPDATE locales_gameobject SET name_loc2='Fleurs parfumées' WHERE entry=2109; -- Name: Fragrant Flowers
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2110; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2110; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2111; -- Name: Trade District
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=2112; -- Name: Old Town
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=2113; -- Name: Old Town
 UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2115; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2116; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2116; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Donjon de Hurlevent' WHERE entry=2117; -- Name: Stormwind Keep
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=2119; -- Name: Old Town
 UPDATE locales_gameobject SET name_loc2='Donjon de Hurlevent' WHERE entry=2120; -- Name: Stormwind Keep
@@ -517,14 +551,14 @@ UPDATE locales_gameobject SET name_loc2='Quartier des Mages' WHERE entry=2124; -
 UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2125; -- Name: Trade District
 UPDATE locales_gameobject SET name_loc2='Quartier des Mages' WHERE entry=2127; -- Name: Mage Quarter
 UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2128; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2129; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2131; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2129; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2131; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2133; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2134; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2134; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=2136; -- Name: Old Town
 UPDATE locales_gameobject SET name_loc2='Le Carquois vide' WHERE entry=2138; -- Name: The Empty Quiver
 UPDATE locales_gameobject SET name_loc2='Arsenal de Weller' WHERE entry=2139; -- Name: Weller's Arsenal
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2140; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2140; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Quartier des Mages' WHERE entry=2141; -- Name: Mage Quarter
 UPDATE locales_gameobject SET name_loc2='Comté-de-l’Or' WHERE entry=2142; -- Name: Goldshire
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=2143; -- Name: Old Town
@@ -549,27 +583,28 @@ UPDATE locales_gameobject SET name_loc2='Tout pour l\'alchimiste' WHERE entry=21
 UPDATE locales_gameobject SET name_loc2='Bibelot antique' WHERE entry=2167; -- Name: Ancient Curios
 UPDATE locales_gameobject SET name_loc2='Le Solitaire bleu' WHERE entry=2169; -- Name: The Blue Recluse
 UPDATE locales_gameobject SET name_loc2='Quartier des Mages' WHERE entry=2171; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2173; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2175; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2173; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2175; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2176; -- Name: Trade District
 UPDATE locales_gameobject SET name_loc2='Le Fil le plus fin' WHERE entry=2177; -- Name: The Finest Thread
 UPDATE locales_gameobject SET name_loc2='Quartier des Mages' WHERE entry=2178; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2179; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2179; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Quartier des Mages' WHERE entry=2181; -- Name: Mage Quarter
 UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2182; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2186; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2186; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2187; -- Name: Trade District
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=2189; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=2190; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=2190; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2191; -- Name: Trade District
 UPDATE locales_gameobject SET name_loc2='Canot de sauvetage abîmé' WHERE entry=2289; -- Name: Ruined Lifeboat
 UPDATE locales_gameobject SET name_loc2='Ailes de busard grillées' WHERE entry=2332; -- Name: Barbequed Buzzard Wings
 UPDATE locales_gameobject SET name_loc2='Vin de Stranglevine' WHERE entry=2333; -- Name: Stranglevine Wine
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2334; -- Name: campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=2335; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=2335; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2336; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Crâne de chasseur de têtes' WHERE entry=2371; -- Name: Headhunter Skull
-UPDATE locales_gameobject SET name_loc2='Chaise à haut dossier' WHERE entry=2489; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=2413; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=2489; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Crâne bouilli' WHERE entry=2551; -- Name: Boiled Skull
 UPDATE locales_gameobject SET name_loc2='Vapeur de chaudron' WHERE entry=2552; -- Name: Cauldron Steam
 UPDATE locales_gameobject SET name_loc2='Un parchemin trempé' WHERE entry=2553; -- Name: A Soggy Scroll
@@ -581,18 +616,23 @@ UPDATE locales_gameobject SET name_loc2='Bouteille à moitié ensevelie' WHERE e
 UPDATE locales_gameobject SET name_loc2='Piège givrant' WHERE entry=2561; -- Name: Freezing Trap
 UPDATE locales_gameobject SET name_loc2='Pain cuit' WHERE entry=2562; -- Name: Baked Bread
 UPDATE locales_gameobject SET name_loc2='Autel des marées - Focalisé' WHERE entry=2563; -- Name: Altar of the Tides - Focused
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=2574; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=2572; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=2573; -- Name: Forge
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=2574; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=2575; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Autel des marées' WHERE entry=2576; -- Name: Altar of the Tides
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=2649; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=2650; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Cadavre d\'Ebenezer Bouclerouille' WHERE entry=2652; -- Name: Ebenezer Rustlocke's Corpse
 UPDATE locales_gameobject SET name_loc2='Gisement de pierre de sang inférieure' WHERE entry=2653; -- Name: Lesser Bloodstone Deposit
 UPDATE locales_gameobject SET name_loc2='Lettre détrempée' WHERE entry=2656; -- Name: Waterlogged Letter
 UPDATE locales_gameobject SET name_loc2='Légendes de la Terre' WHERE entry=2657; -- Name: Legends of the Earth
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=2658; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2661; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2663; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2664; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=2665; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=2666; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=2665; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=2666; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2667; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Les Paluns' WHERE entry=2670; -- Name: Wetlands
 UPDATE locales_gameobject SET name_loc2='Stromgarde' WHERE entry=2672; -- Name: Stromgarde
@@ -634,10 +674,10 @@ UPDATE locales_gameobject SET name_loc2='Coffret de Trelane' WHERE entry=2718; -
 UPDATE locales_gameobject SET name_loc2='Chaudron bouillonnant' WHERE entry=2719; -- Name: Bubbling Cauldron
 UPDATE locales_gameobject SET name_loc2='Etincelles flottantes' WHERE entry=2722; -- Name: Floating Sparkles
 UPDATE locales_gameobject SET name_loc2='Sac d\'avoine' WHERE entry=2724; -- Name: Sack of Oats
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=2726; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=2726; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=2727; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=2728; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=2729; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=2729; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2732; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Coffre détrempé' WHERE entry=2734; -- Name: Waterlogged Chest
 UPDATE locales_gameobject SET name_loc2='Coffre de la plume noire' WHERE entry=2739; -- Name: Chest of the Black Feather
@@ -689,7 +729,9 @@ UPDATE locales_gameobject SET name_loc2='Camp Narache' WHERE entry=2977; -- Name
 UPDATE locales_gameobject SET name_loc2='Sabot-de-Sang' WHERE entry=2978; -- Name: Bloodhoof Village
 UPDATE locales_gameobject SET name_loc2='Carte couverte de poussière' WHERE entry=3076; -- Name: Dirt-stained Map
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=3084; -- Name: Fire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=3187; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3085; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3089; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=3187; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Plan d\'attaque : Vallée des Épreuves' WHERE entry=3189; -- Name: Attack Plan: Valley of Trials
 UPDATE locales_gameobject SET name_loc2='Plan d\'attaque : Village de Sen’jin' WHERE entry=3190; -- Name: Attack Plan: Sen'jin Village
 UPDATE locales_gameobject SET name_loc2='Plan d\'attaque : Orgrimmar' WHERE entry=3192; -- Name: Attack Plan: Orgrimmar
@@ -718,7 +760,7 @@ UPDATE locales_gameobject SET name_loc2='Grom\'Gol' WHERE entry=3215; -- Name: G
 UPDATE locales_gameobject SET name_loc2='Arène' WHERE entry=3216; -- Name: Arena
 UPDATE locales_gameobject SET name_loc2='Bois de la Pénombre' WHERE entry=3217; -- Name: Duskwood
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3220; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=3222; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=3222; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=3223; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Tranchecolline' WHERE entry=3225; -- Name: Razor Hill
 UPDATE locales_gameobject SET name_loc2='Orgrimmar' WHERE entry=3226; -- Name: Orgrimmar
@@ -739,21 +781,25 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3246; -- Name:
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3249; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3251; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3252; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3253; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3254; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3256; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3258; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3260; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3262; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3264; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=3266; -- Name: Cauldron
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3270; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Village de Sen’jin' WHERE entry=3276; -- Name: Sen'jin Village
 UPDATE locales_gameobject SET name_loc2='Flambée' WHERE entry=3286; -- Name: Roaring Fire
 UPDATE locales_gameobject SET name_loc2='Sac de ravitaillement dérobé' WHERE entry=3290; -- Name: Stolen Supply Sack
 UPDATE locales_gameobject SET name_loc2='Feu bouillonnant' WHERE entry=3296; -- Name: Scorching Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3298; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3298; -- Name: Blazing Fire
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3301; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Feu chaleureux' WHERE entry=3303; -- Name: Warm Fire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3306; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3307; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=3308; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=3308; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3310; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3311; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Les Tarides' WHERE entry=3314; -- Name: The Barrens
@@ -763,12 +809,14 @@ UPDATE locales_gameobject SET name_loc2='La Graine démoniaque' WHERE entry=3524
 UPDATE locales_gameobject SET name_loc2='L\'Autel de feu' WHERE entry=3525; -- Name: The Altar of Fire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3636; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3637; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3638; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3639; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Champignon chargé' WHERE entry=3640; -- Name: Laden Mushroom
 UPDATE locales_gameobject SET name_loc2='Butin des Kolkar' WHERE entry=3642; -- Name: Kolkars' Booty
 UPDATE locales_gameobject SET name_loc2='Vieille cantine' WHERE entry=3643; -- Name: Old Footlocker
 UPDATE locales_gameobject SET name_loc2='Machine volante de Bael Modan' WHERE entry=3644; -- Name: Bael Modan Flying Machine
 UPDATE locales_gameobject SET name_loc2='Coffre du général Doublenattes' WHERE entry=3646; -- Name: General Twinbraid's Strongbox
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=3656; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=3656; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Tonneau d\'eau' WHERE entry=3658; -- Name: Water Barrel
 UPDATE locales_gameobject SET name_loc2='Tonneau de jus de melon' WHERE entry=3659; -- Name: Barrel of Melon Juice
 UPDATE locales_gameobject SET name_loc2='Caisse d\'armures' WHERE entry=3660; -- Name: Armor Crate
@@ -805,6 +853,8 @@ UPDATE locales_gameobject SET name_loc2='Doulourante' WHERE entry=3730; -- Name:
 UPDATE locales_gameobject SET name_loc2='Fissure bouillonnante' WHERE entry=3737; -- Name: Bubbling Fissure
 UPDATE locales_gameobject SET name_loc2='Fissure bouillonnante' WHERE entry=3740; -- Name: Bubbling Fissure
 UPDATE locales_gameobject SET name_loc2='Plante des crevasses' WHERE entry=3743; -- Name: Fissure Plant
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3760; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=3761; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Filon de cuivre' WHERE entry=3763; -- Name: Copper Vein
 UPDATE locales_gameobject SET name_loc2='Filon d\'étain' WHERE entry=3764; -- Name: Tin Vein
 UPDATE locales_gameobject SET name_loc2='Poêle ventru' WHERE entry=3769; -- Name: Potbelly Stove
@@ -821,9 +871,9 @@ UPDATE locales_gameobject SET name_loc2='Feu douillet' WHERE entry=3803; -- Name
 UPDATE locales_gameobject SET name_loc2='Feu douillet' WHERE entry=3804; -- Name: Cozy Fire
 UPDATE locales_gameobject SET name_loc2='Feu chaleureux' WHERE entry=3815; -- Name: Warm Fire
 UPDATE locales_gameobject SET name_loc2='Feu chaleureux' WHERE entry=3816; -- Name: Warm Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3817; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3818; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3819; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3817; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3818; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3819; -- Name: Blazing Fire
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3832; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3833; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3834; -- Name: Burning Embers
@@ -848,90 +898,90 @@ UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3853; -- Na
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3855; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3856; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3857; -- Name: Fierce Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3864; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3864; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3865; -- Name: Burning Embers
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3866; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3867; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3869; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3870; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3871; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3872; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3873; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3874; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3875; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3876; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3877; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3878; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3879; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3880; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3881; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3882; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3883; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3884; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3885; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3886; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3888; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3890; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3891; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3892; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3893; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3894; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3895; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3896; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3897; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3898; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3899; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3900; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3901; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3902; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3903; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3904; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3905; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3906; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3907; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3908; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3909; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3910; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3866; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3867; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3869; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3870; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3871; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3872; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3873; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3874; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3875; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3876; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3877; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3878; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3879; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3880; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3881; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3882; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3883; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3884; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3885; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3886; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3888; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3890; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3891; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3892; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3893; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3894; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3895; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3896; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3897; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3898; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3899; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3900; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3901; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3902; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3903; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3904; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3905; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3906; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3907; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3908; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3909; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3910; -- Name: Blazing Fire
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3911; -- Name: Burning Embers
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3912; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3913; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3912; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3913; -- Name: Blazing Fire
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3914; -- Name: Burning Embers
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3915; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3915; -- Name: Blazing Fire
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3916; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3917; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3918; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3919; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3920; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3921; -- Name: Burning Embers
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3922; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3923; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3924; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3925; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3926; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3927; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3928; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3929; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3930; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3931; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3932; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3933; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=3934; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3922; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3923; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3924; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3925; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3926; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3927; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3928; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3929; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3930; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3931; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3932; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3933; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=3934; -- Name: Blazing Fire
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3936; -- Name: Fierce Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3937; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3937; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3938; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3939; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3940; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3941; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3942; -- Name: Fierce Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3943; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3943; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3944; -- Name: Fierce Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3945; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3945; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3946; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3947; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3948; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3949; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3950; -- Name: Fierce Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=3951; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=3951; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3960; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=3962; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3963; -- Name: Fierce Blaze
@@ -940,9 +990,9 @@ UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3967; -- Na
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=3968; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='AVIS DE RECHERCHE' WHERE entry=3972; -- Name: WANTED
 UPDATE locales_gameobject SET name_loc2='Valve de contrôle principale' WHERE entry=4072; -- Name: Main Control Valve
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=4087; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=4088; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=4089; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=4087; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=4088; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=4089; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=4090; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Coffre de l\'Alliance' WHERE entry=4095; -- Name: Alliance Strongbox
 UPDATE locales_gameobject SET name_loc2='Coffre en morceaux' WHERE entry=4096; -- Name: Tattered Chest
@@ -986,11 +1036,15 @@ UPDATE locales_gameobject SET name_loc2='Flamboiement' WHERE entry=6289; -- Name
 UPDATE locales_gameobject SET name_loc2='Flamboiement' WHERE entry=6290; -- Name: Smoldering Blaze
 UPDATE locales_gameobject SET name_loc2='Brasero fumant' WHERE entry=6291; -- Name: Smoldering Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero fumant' WHERE entry=6292; -- Name: Smoldering Brazier
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=6293; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=6294; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=6295; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Plante aux fruits étranges' WHERE entry=6751; -- Name: Strange Fruited Plant
 UPDATE locales_gameobject SET name_loc2='Plantes aux feuilles étranges' WHERE entry=6752; -- Name: Strange Fronded Plant
 UPDATE locales_gameobject SET name_loc2='Racine éclose' WHERE entry=7510; -- Name: Sprouted Frond
 UPDATE locales_gameobject SET name_loc2='Pot de Denalan' WHERE entry=7923; -- Name: Denalan's Planter
 UPDATE locales_gameobject SET name_loc2='Fossile d\'Outrepanse' WHERE entry=9630; -- Name: Flagongut's Fossil
+UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=9847; -- Name: Cooking Fire
 UPDATE locales_gameobject SET name_loc2='Coupe de divination' WHERE entry=10076; -- Name: Scrying Bowl
 UPDATE locales_gameobject SET name_loc2='Hurlevent' WHERE entry=10082; -- Name: Stormwind
 UPDATE locales_gameobject SET name_loc2='Comté-de-l’Or' WHERE entry=10083; -- Name: Goldshire
@@ -1027,6 +1081,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=10221; -- N
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=10222; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=10223; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=10224; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=10388; -- Name: Cooking Fire
 UPDATE locales_gameobject SET name_loc2='Amanite phalloïde' WHERE entry=11713; -- Name: Death Cap
 UPDATE locales_gameobject SET name_loc2='Pédoncule d\'amanite' WHERE entry=11714; -- Name: Scaber Stalk
 UPDATE locales_gameobject SET name_loc2='Ascenseur de Mesa' WHERE entry=11898; -- Name: Mesa Elevator
@@ -1091,7 +1146,7 @@ UPDATE locales_gameobject SET name_loc2='Fleur de serpent' WHERE entry=13891; --
 UPDATE locales_gameobject SET name_loc2='Coffre de fer' WHERE entry=13949; -- Name: Pitted Iron Chest
 UPDATE locales_gameobject SET name_loc2='Porte de l\'usine' WHERE entry=13965; -- Name: Factory Door
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=15068; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=15069; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=15069; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Flamme antique' WHERE entry=16393; -- Name: Ancient Flame
 UPDATE locales_gameobject SET name_loc2='Flamme antique' WHERE entry=16394; -- Name: Ancient Flame
 UPDATE locales_gameobject SET name_loc2='Ruisselune' WHERE entry=16396; -- Name: Moonbrook
@@ -1108,7 +1163,7 @@ UPDATE locales_gameobject SET name_loc2='Bigobox 827' WHERE entry=17182; -- Nam
 UPDATE locales_gameobject SET name_loc2='Bigobox 411' WHERE entry=17183; -- Name: Buzzbox 411
 UPDATE locales_gameobject SET name_loc2='Bigobox 525' WHERE entry=17185; -- Name: Buzzbox 525
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=17190; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=17191; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=17191; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=17249; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=17250; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=17251; -- Name: Wooden Chair
@@ -1151,7 +1206,8 @@ UPDATE locales_gameobject SET name_loc2='Feu tribal' WHERE entry=18035; -- Name:
 UPDATE locales_gameobject SET name_loc2='Bouteille des maladies' WHERE entry=18036; -- Name: Bottle of Disease
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18043; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18045; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=18063; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18046; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=18063; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18064; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18065; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18066; -- Name: Campfire
@@ -1168,12 +1224,14 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18076; -- Name
 UPDATE locales_gameobject SET name_loc2='Casier fumant' WHERE entry=18077; -- Name: Smoking Rack
 UPDATE locales_gameobject SET name_loc2='Chaudron bouillonnant' WHERE entry=18079; -- Name: Bubbling Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron bouillonnant' WHERE entry=18083; -- Name: Bubbling Cauldron
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18085; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18087; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18089; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18090; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=18340; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron bouillonnant' WHERE entry=18341; -- Name: Bubbling Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron bouillant' WHERE entry=18342; -- Name: Boiling Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=18343; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18343; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=18344; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Chaudron bouillonnant' WHERE entry=18345; -- Name: Bubbling Cauldron
 UPDATE locales_gameobject SET name_loc2='Feu de camp crépitant' WHERE entry=18596; -- Name: Crackling Campfire
@@ -1211,6 +1269,7 @@ UPDATE locales_gameobject SET name_loc2='Compendium des Déchus' WHERE entry=192
 UPDATE locales_gameobject SET name_loc2='Mythologie des titans' WHERE entry=19284; -- Name: Mythology of the Titans
 UPDATE locales_gameobject SET name_loc2='Lettre de recommandation d\'Anton' WHERE entry=19534; -- Name: Anton's Letter of Commendation
 UPDATE locales_gameobject SET name_loc2='Fleur de serpent' WHERE entry=19535; -- Name: Serpentbloom
+UPDATE locales_gameobject SET name_loc2='Feu de camp crépitant' WHERE entry=19536; -- Name: Crackling Campfire
 UPDATE locales_gameobject SET name_loc2='Petit Feu follet' WHERE entry=19538; -- Name: World Tree Portal
 UPDATE locales_gameobject SET name_loc2='Feu follet moyen' WHERE entry=19539; -- Name: Grinding Wheel
 UPDATE locales_gameobject SET name_loc2='Grand Feu follet' WHERE entry=19540; -- Name: Orc Manacle
@@ -1289,18 +1348,20 @@ UPDATE locales_gameobject SET name_loc2='[INUTILISÉ pour 4.x] Décombres de cha
 UPDATE locales_gameobject SET name_loc2='[INUTILISÉ pour 4.x] Décombres de chariot explosif' WHERE entry=19871; -- Name: Rocket Car Rubble
 UPDATE locales_gameobject SET name_loc2='[INUTILISÉ pour 4.x] Décombres de chariot explosif' WHERE entry=19872; -- Name: Rocket Car Rubble
 UPDATE locales_gameobject SET name_loc2='[INUTILISÉ pour 4.x] Décombres de chariot explosif' WHERE entry=19873; -- Name: Rocket Car Rubble
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=19874; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=19874; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Carcasse de lion fraîche' WHERE entry=19875; -- Name: Fresh Lion Carcass
 UPDATE locales_gameobject SET name_loc2='Flamme d\'Uzel' WHERE entry=19876; -- Name: Flame of Uzel
 UPDATE locales_gameobject SET name_loc2='Placard de Velinde' WHERE entry=19877; -- Name: Velinde's Locker
 UPDATE locales_gameobject SET name_loc2='Caisse de pièces' WHERE entry=19878; -- Name: Parts Crate
 UPDATE locales_gameobject SET name_loc2='Gemme d\'âme rouge' WHERE entry=19879; -- Name: Red Soulgem
 UPDATE locales_gameobject SET name_loc2='Fût de bière brune du Sot' WHERE entry=19897; -- Name: Cask of Fool's Stout
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=19902; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Filon d\'indurium' WHERE entry=19903; -- Name: Indurium Mineral Vein
 UPDATE locales_gameobject SET name_loc2='Tabac de Mok\'Morokk' WHERE entry=19904; -- Name: Mok'Morokk's Snuff
 UPDATE locales_gameobject SET name_loc2='Tafia de Mok\'Morokk' WHERE entry=19905; -- Name: Mok'Morokk's Grog
 UPDATE locales_gameobject SET name_loc2='Coffre de Mok\'Morokk' WHERE entry=19906; -- Name: Mok'Morokk's Strongbox
 UPDATE locales_gameobject SET name_loc2='Gemme d\'âme bleue' WHERE entry=20351; -- Name: Blue Soulgem
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20356; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Emetteur de fumée blanche, échelle 0,2' WHERE entry=20358; -- Name: White Smoke Emitter - scale 0.2
 UPDATE locales_gameobject SET name_loc2='Œuf d\'Onyxia' WHERE entry=20359; -- Name: Egg of Onyxia
 UPDATE locales_gameobject SET name_loc2='Nourriture de harpie' WHERE entry=20447; -- Name: Harpy Foodstuffs
@@ -1313,7 +1374,7 @@ UPDATE locales_gameobject SET name_loc2='Porte inférieure gauche' WHERE entry=2
 UPDATE locales_gameobject SET name_loc2='Ascenseur souterrain' WHERE entry=20655; -- Name: Undervator
 UPDATE locales_gameobject SET name_loc2='Porte supérieure gauche' WHERE entry=20656; -- Name: upperLdoor
 UPDATE locales_gameobject SET name_loc2='Porte inférieure gauche' WHERE entry=20657; -- Name: lowerLdoor
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=20689; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=20689; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Cantine de Cozzle' WHERE entry=20691; -- Name: Cozzle's Footlocker
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20692; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20693; -- Name: Campfire
@@ -1324,7 +1385,7 @@ UPDATE locales_gameobject SET name_loc2='Naissance de la menace des morts-vivant
 UPDATE locales_gameobject SET name_loc2='Caisse du Bidulium' WHERE entry=20727; -- Name: Gizmorium Shipping Crate
 UPDATE locales_gameobject SET name_loc2='Tonneau camouflé avec zèle' WHERE entry=20737; -- Name: Keenly Disguised Barrel
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=20738; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=20739; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=20739; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Plans de Séhouf' WHERE entry=20805; -- Name: Rizzle's Unguarded Plans
 UPDATE locales_gameobject SET name_loc2='Puits de lune d\'Orneval' WHERE entry=20806; -- Name: Ashenvale Moonwell
 UPDATE locales_gameobject SET name_loc2='[PÉRIMÉ]Brasero antique' WHERE entry=20807; -- Name: Ancient Brazier
@@ -1333,21 +1394,25 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20810; -- Name
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20829; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20830; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20831; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=20849; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=20849; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp crépitant' WHERE entry=20850; -- Name: Crackling Campfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=20869; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=20870; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=20871; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=20872; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=20877; -- Name: Cauldron
+UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=20878; -- Name: Cauldron
+UPDATE locales_gameobject SET name_loc2='Feu de camp crépitant' WHERE entry=20879; -- Name: Crackling Campfire
 UPDATE locales_gameobject SET name_loc2='Pile d\'ossements en feu' WHERE entry=20898; -- Name: Burning Pile of Bones
 UPDATE locales_gameobject SET name_loc2='Chariot d\'explosifs de la KapitalRisk' WHERE entry=20899; -- Name: Venture Co. Explosives Wagon
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=20900; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=20900; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Aura bleue, petite colonne, échelle 1,2' WHERE entry=20917; -- Name: Blue aura. short column. scale 3
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20918; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Racines de feuillebleue' WHERE entry=20920; -- Name: Blueleaf Tuber
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20921; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20922; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Pierre du souvenir' WHERE entry=20923; -- Name: Stone of Remembrance
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20924; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Coffre du capitaine' WHERE entry=20925; -- Name: Captain's Footlocker
 UPDATE locales_gameobject SET name_loc2='Trèfle des marais' WHERE entry=20939; -- Name: Bogbean Plant
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20960; -- Name: Campfire
@@ -1360,7 +1425,8 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20966; -- Name
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20968; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp du Fléau' WHERE entry=20969; -- Name: Scourge Campfire
 UPDATE locales_gameobject SET name_loc2='Chaudron bouillonnant' WHERE entry=20970; -- Name: Bubbling Cauldron
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=20975; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20972; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=20975; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20976; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de joie troll' WHERE entry=20977; -- Name: Troll Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de joie troll' WHERE entry=20978; -- Name: Troll Bonfire
@@ -1368,6 +1434,7 @@ UPDATE locales_gameobject SET name_loc2='Feu de joie troll' WHERE entry=20979; -
 UPDATE locales_gameobject SET name_loc2='Feu de joie troll' WHERE entry=20980; -- Name: Troll Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20981; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20982; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20983; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Poussière flottante' WHERE entry=20985; -- Name: Loose Dirt
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=20986; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20989; -- Name: Campfire
@@ -1426,6 +1493,7 @@ UPDATE locales_gameobject SET name_loc2='Feu d\'Aku\'mai' WHERE entry=21121; -- 
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=21127; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Rapport de l\'espion orc' WHERE entry=21128; -- Name: Orc Spy Report
 UPDATE locales_gameobject SET name_loc2='Caisse trouée' WHERE entry=21277; -- Name: Crate with Holes
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=21282; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=21308; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=21327; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=21459; -- Name: Campfire
@@ -1434,28 +1502,36 @@ UPDATE locales_gameobject SET name_loc2='Manuel d\'utilisateur de Sniffetarin' W
 UPDATE locales_gameobject SET name_loc2='Au lendemain de la Deuxième guerre' WHERE entry=21581; -- Name: Aftermath of the Second War
 UPDATE locales_gameobject SET name_loc2='Au-delà de la Porte des ténèbres' WHERE entry=21582; -- Name: Beyond the Dark Portal
 UPDATE locales_gameobject SET name_loc2='Les Kaldorei et le Puits d\'Eternité' WHERE entry=21583; -- Name: The Kaldorei and the Well of Eternity
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=21678; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=21628; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=21629; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=21630; -- Name: Forge
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=21631; -- Name: Forge
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=21678; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=21679; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Drapeau de duel' WHERE entry=21680; -- Name: Duel Flag
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=21701; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=22216; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=22217; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=22218; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=22219; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=22220; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=22221; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=22222; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=22223; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=22224; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=22225; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=22226; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=22229; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=22230; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=22231; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=21701; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=22205; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=22207; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=22208; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=22216; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=22217; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=22218; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=22219; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=22220; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=22221; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=22222; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=22223; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=22224; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=22225; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=22226; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=22229; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=22230; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=22231; -- Name: Dwarven Fire
 UPDATE locales_gameobject SET name_loc2='Torche d\'avertissement' WHERE entry=22234; -- Name: Signal Torch
 UPDATE locales_gameobject SET name_loc2='Sac de viande' WHERE entry=22245; -- Name: Sack of Meat
 UPDATE locales_gameobject SET name_loc2='Larme de Theradras' WHERE entry=22246; -- Name: Tear of Theradras
 UPDATE locales_gameobject SET name_loc2='Chaise de marchand' WHERE entry=22248; -- Name: Merchant Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22249; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Siège en bois' WHERE entry=22250; -- Name: Wooden Seat
 UPDATE locales_gameobject SET name_loc2='Siège en bois' WHERE entry=22251; -- Name: Wooden Seat
 UPDATE locales_gameobject SET name_loc2='Chaise principale' WHERE entry=22253; -- Name: Head Chair
@@ -1477,6 +1553,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22537; -- N
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22538; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22540; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22541; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22542; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22543; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22544; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22545; -- Name: Wooden Chair
@@ -1517,6 +1594,7 @@ UPDATE locales_gameobject SET name_loc2='Feu douillet' WHERE entry=22606; -- Nam
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22615; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22616; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22617; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22618; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22619; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22622; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22623; -- Name: Wooden Chair
@@ -1540,6 +1618,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise à haut dossier' WHERE entry=226
 UPDATE locales_gameobject SET name_loc2='Chaise à haut dossier' WHERE entry=22660; -- Name: High Back Chair
 UPDATE locales_gameobject SET name_loc2='Chaise à haut dossier' WHERE entry=22661; -- Name: High Back Chair
 UPDATE locales_gameobject SET name_loc2='Chaise à haut dossier' WHERE entry=22662; -- Name: High Back Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22663; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22664; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22665; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22666; -- Name: Wooden Chair
@@ -1594,12 +1673,21 @@ UPDATE locales_gameobject SET name_loc2='Feu douillet' WHERE entry=22777; -- Nam
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22783; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22794; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22795; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22796; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22797; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22798; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22799; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22803; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22804; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22806; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22808; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22809; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22810; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22811; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22812; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22813; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22816; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=22817; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Feu douillet' WHERE entry=22831; -- Name: Cozy Fire
 UPDATE locales_gameobject SET name_loc2='Feu douillet' WHERE entry=22832; -- Name: Cozy Fire
 UPDATE locales_gameobject SET name_loc2='Feu douillet' WHERE entry=22833; -- Name: Cozy Fire
@@ -1661,18 +1749,20 @@ UPDATE locales_gameobject SET name_loc2='Couturiers Larson' WHERE entry=23296; -
 UPDATE locales_gameobject SET name_loc2='Le Parc' WHERE entry=23299; -- Name: The Park
 UPDATE locales_gameobject SET name_loc2='Le Parc' WHERE entry=23300; -- Name: The Park
 UPDATE locales_gameobject SET name_loc2='Le Parc' WHERE entry=23301; -- Name: The Park
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=23302; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=23303; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=23302; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=23303; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=23304; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=23305; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=23570; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=23571; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=23572; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=23573; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=23574; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=23575; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=23577; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=23879; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=23570; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=23571; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=23572; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=23573; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=23574; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=23575; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=23577; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=23879; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=23880; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=23881; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Banc en pierre' WHERE entry=24388; -- Name: Stone Bench
 UPDATE locales_gameobject SET name_loc2='Banc en pierre' WHERE entry=24389; -- Name: Stone Bench
 UPDATE locales_gameobject SET name_loc2='Chaise à haut dossier' WHERE entry=24390; -- Name: Highback Chair
@@ -1777,16 +1867,25 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24489; -- N
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24490; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24491; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24492; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24493; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Banc en pierre' WHERE entry=24494; -- Name: Stone Bench
 UPDATE locales_gameobject SET name_loc2='Banc en pierre' WHERE entry=24495; -- Name: Stone Bench
 UPDATE locales_gameobject SET name_loc2='Banc en pierre' WHERE entry=24496; -- Name: Stone Bench
 UPDATE locales_gameobject SET name_loc2='Banc en pierre' WHERE entry=24497; -- Name: Stone Bench
 UPDATE locales_gameobject SET name_loc2='Banc en pierre' WHERE entry=24498; -- Name: Stone Bench
 UPDATE locales_gameobject SET name_loc2='Banc en pierre' WHERE entry=24499; -- Name: Stone Bench
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24500; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24501; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24502; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24503; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24504; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24505; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24506; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24507; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24508; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24509; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24510; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24511; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24512; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24513; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=24514; -- Name: Wooden Chair
@@ -1988,13 +2087,13 @@ UPDATE locales_gameobject SET name_loc2='Le Parc' WHERE entry=24718; -- Name: Th
 UPDATE locales_gameobject SET name_loc2='Le Parc' WHERE entry=24719; -- Name: The Park
 UPDATE locales_gameobject SET name_loc2='Le Parc' WHERE entry=24720; -- Name: The Park
 UPDATE locales_gameobject SET name_loc2='Le Parc' WHERE entry=24721; -- Name: The Park
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=24723; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=24724; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=24725; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=24726; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=24727; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=24728; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=24729; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=24723; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=24724; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=24725; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=24726; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=24727; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=24728; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=24729; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=24745; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=24746; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Feu chaleureux' WHERE entry=24758; -- Name: Warm Fire
@@ -2016,9 +2115,9 @@ UPDATE locales_gameobject SET name_loc2='Danath Trollemort' WHERE entry=25332; -
 UPDATE locales_gameobject SET name_loc2='Archimage Khadgar du Kirin Tor' WHERE entry=25333; -- Name: Archmage Khadgar of the Kirin Tor
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=25336; -- Name: Old Town
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=25337; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=25338; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=25339; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=25340; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=25338; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=25339; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=25340; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Le Parc' WHERE entry=25341; -- Name: The Park
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=25346; -- Name: Old Town
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=25347; -- Name: Old Town
@@ -2028,11 +2127,14 @@ UPDATE locales_gameobject SET name_loc2='Quartier des Mages' WHERE entry=25350; 
 UPDATE locales_gameobject SET name_loc2='Quartier des Mages' WHERE entry=25351; -- Name: Mage Quarter
 UPDATE locales_gameobject SET name_loc2='Le Parc' WHERE entry=25353; -- Name: The Park
 UPDATE locales_gameobject SET name_loc2='Le Parc' WHERE entry=25354; -- Name: The Park
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=25355; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=25356; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=25357; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Recombobulateur' WHERE entry=26449; -- Name: Recombobulator
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=26494; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=26495; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=26496; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=26499; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=26494; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=26495; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=26496; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=26499; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Coffre de la caravane' WHERE entry=28024; -- Name: Caravan Chest
 UPDATE locales_gameobject SET name_loc2='Quartier des Nains' WHERE entry=28027; -- Name: Dwarven District
 UPDATE locales_gameobject SET name_loc2='Quartier des Nains' WHERE entry=28028; -- Name: Dwarven District
@@ -2055,6 +2157,15 @@ UPDATE locales_gameobject SET name_loc2='Quartier des Nains' WHERE entry=28044; 
 UPDATE locales_gameobject SET name_loc2='Quartier des Nains' WHERE entry=28045; -- Name: Dwarven District
 UPDATE locales_gameobject SET name_loc2='Quartier des Nains' WHERE entry=28046; -- Name: Dwarven District
 UPDATE locales_gameobject SET name_loc2='Quartier des Nains' WHERE entry=28047; -- Name: Dwarven District
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28048; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28049; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28050; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28051; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28052; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28053; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28054; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28055; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28056; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28069; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28070; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28071; -- Name: Wooden Chair
@@ -2064,8 +2175,17 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28074; -- N
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28075; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28603; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Caisse éparpillée' WHERE entry=28604; -- Name: Scattered Crate
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=29150; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=29151; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28605; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28606; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28607; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28608; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28609; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28610; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=28611; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=28612; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=28613; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=29150; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=29151; -- Name: Dwarven Fire
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=29152; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=29154; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=29155; -- Name: Wooden Chair
@@ -2128,9 +2248,9 @@ UPDATE locales_gameobject SET name_loc2='Artéfact atal\'ai' WHERE entry=30854; 
 UPDATE locales_gameobject SET name_loc2='Artéfact atal\'ai' WHERE entry=30855; -- Name: Atal'ai Artifact
 UPDATE locales_gameobject SET name_loc2='Artéfact atal\'ai' WHERE entry=30856; -- Name: Atal'ai Artifact
 UPDATE locales_gameobject SET name_loc2='Feu de joie rugissant' WHERE entry=31407; -- Name: Roaring Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=31408; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=31408; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de joie ardent' WHERE entry=31409; -- Name: Raging Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=31410; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=31410; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de joie ardent' WHERE entry=31411; -- Name: Raging Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp basique' WHERE entry=31442; -- Name: Basic Campfire
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=31504; -- Name: Wooden Chair
@@ -2148,40 +2268,102 @@ UPDATE locales_gameobject SET name_loc2='Grand brasero' WHERE entry=31578; -- Na
 UPDATE locales_gameobject SET name_loc2='Grand brasero' WHERE entry=31579; -- Name: Tall Brazier
 UPDATE locales_gameobject SET name_loc2='Chaudron bouillonnant' WHERE entry=31580; -- Name: Bubbling Cauldron
 UPDATE locales_gameobject SET name_loc2='Flambée' WHERE entry=32107; -- Name: Roaring Fire
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=32349; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=32110; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=32349; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32355; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=32358; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='La caverne Lugubre' WHERE entry=32383; -- Name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32356; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='La garde commerciale' WHERE entry=32357; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=32358; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32360; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='La garde commerciale' WHERE entry=32361; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32363; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32364; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32366; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32367; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32368; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32370; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32371; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32372; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32373; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32374; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32375; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32376; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32378; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32379; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='La caverne lugubre' WHERE entry=32383; -- Name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32384; -- Name: Market Walk
 UPDATE locales_gameobject SET name_loc2='La Garde militaire' WHERE entry=32385; -- Name: The Military Ward
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=32389; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=32391; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=32404; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=32416; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='La Grande forge' WHERE entry=32424; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=32425; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32388; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=32389; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=32391; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32392; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32393; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32394; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32395; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32396; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32397; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32398; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32399; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc2='La garde commerciale' WHERE entry=32400; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc2='La garde commerciale' WHERE entry=32401; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32402; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc2='La garde commerciale' WHERE entry=32403; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=32404; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32405; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32406; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32407; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32408; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='La garde commerciale' WHERE entry=32409; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32410; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32411; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32412; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32413; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='La garde commerciale' WHERE entry=32414; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=32416; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='La garde commerciale' WHERE entry=32417; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32418; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='La garde commerciale' WHERE entry=32420; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32421; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32423; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32424; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=32425; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='La Garde mystique' WHERE entry=32427; -- Name: The Mystic Ward
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=32429; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='La Grande forge' WHERE entry=32431; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=32429; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32430; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32431; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32436; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=32440; -- Name: Ironforge Main Gate
 UPDATE locales_gameobject SET name_loc2='Coffre de Galen' WHERE entry=32569; -- Name: Galen's Strongbox
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32570; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32571; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32572; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32573; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32574; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32578; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32579; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32580; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32581; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32582; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32583; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32584; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32585; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32590; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32591; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32592; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32593; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32594; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32596; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32570; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32571; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32572; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32573; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32574; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32578; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32579; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32580; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32581; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32582; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32583; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32584; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32585; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32590; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32591; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32592; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32593; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32594; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32595; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32596; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32783; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32784; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32785; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32786; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32787; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32788; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32789; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32790; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32792; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=32793; -- Name: Hall of Explorers
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32833; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32834; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32835; -- Name: Wooden Chair
@@ -2190,12 +2372,12 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32843; -- N
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32844; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32845; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32846; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32847; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32848; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32849; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32850; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32851; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=32852; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32847; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32848; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32849; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32850; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32851; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=32852; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32853; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32854; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32855; -- Name: Wooden Chair
@@ -2207,39 +2389,60 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32860; -- N
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32861; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32862; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=32863; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=32878; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=32878; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=32879; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=32880; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Feu de joie rugissant' WHERE entry=32881; -- Name: Roaring Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu violent' WHERE entry=32882; -- Name: Raging Fire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=32883; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=32883; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Flambée' WHERE entry=32884; -- Name: Roaring Fire
 UPDATE locales_gameobject SET name_loc2='Feu de joie ardent' WHERE entry=32885; -- Name: Raging Bonfire
 UPDATE locales_gameobject SET name_loc2='Égouts' WHERE entry=33998; -- Name: Sewers
 UPDATE locales_gameobject SET name_loc2='Égouts' WHERE entry=33999; -- Name: Sewers
 UPDATE locales_gameobject SET name_loc2='Égouts' WHERE entry=34012; -- Name: Sewers
 UPDATE locales_gameobject SET name_loc2='Égouts' WHERE entry=34013; -- Name: Sewers
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34025; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34026; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34027; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34028; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34029; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34030; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34031; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34032; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34033; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34034; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34035; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34036; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34037; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=34038; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34025; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34026; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34027; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34028; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34029; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34030; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34031; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34032; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34033; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34034; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34035; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34036; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34037; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=34038; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=34167; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=34168; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=34360; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='La caverne lugubre' WHERE entry=34358; -- Name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc2='La caverne lugubre' WHERE entry=34359; -- Name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=34360; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='La caverne lugubre' WHERE entry=34361; -- Name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc2='La caverne lugubre' WHERE entry=34362; -- Name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc2='La caverne lugubre' WHERE entry=34363; -- Name: The Forlorn Cavern
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=34571; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=34572; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Coffre de Karnitol' WHERE entry=35251; -- Name: Karnitol's Chest
 UPDATE locales_gameobject SET name_loc2='Relique ancienne' WHERE entry=35252; -- Name: Ancient Relic
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=35572; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=35573; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=35574; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=35575; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=35576; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=35577; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=35578; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=35579; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=35580; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=35581; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=35582; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=35583; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=35584; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=35585; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=35588; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=35589; -- Name: Dwarven High Back Chair
 UPDATE locales_gameobject SET name_loc2='Flotteur' WHERE entry=35591; -- Name: Fishing Bobber
 UPDATE locales_gameobject SET name_loc2='Flambée' WHERE entry=35593; -- Name: Roaring Fire
 UPDATE locales_gameobject SET name_loc2='Flambée' WHERE entry=35594; -- Name: Roaring Fire
@@ -2247,7 +2450,7 @@ UPDATE locales_gameobject SET name_loc2='Flambée' WHERE entry=35595; -- Name: R
 UPDATE locales_gameobject SET name_loc2='Flambée' WHERE entry=35596; -- Name: Roaring Fire
 UPDATE locales_gameobject SET name_loc2='Flambée' WHERE entry=35597; -- Name: Roaring Fire
 UPDATE locales_gameobject SET name_loc2='Flambée' WHERE entry=35598; -- Name: Roaring Fire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=35844; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=35844; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Quartier de la Guerre' WHERE entry=36070; -- Name: War Quarter
 UPDATE locales_gameobject SET name_loc2='Quartier de la Guerre' WHERE entry=36071; -- Name: War Quarter
 UPDATE locales_gameobject SET name_loc2='L\'Apothicarium' WHERE entry=36072; -- Name: The Apothecarium
@@ -2277,6 +2480,7 @@ UPDATE locales_gameobject SET name_loc2='Quartier royal' WHERE entry=36127; -- N
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=36396; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Quartier royal' WHERE entry=36397; -- Name: Royal Quarter
 UPDATE locales_gameobject SET name_loc2='Quartier royal' WHERE entry=36398; -- Name: Royal Quarter
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=36645; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Portail d\'invocation' WHERE entry=36727; -- Name: Summoning Portal
 UPDATE locales_gameobject SET name_loc2='Le Livre d\'Ur' WHERE entry=36738; -- Name: The Book of Ur
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=36977; -- Name: Wooden Chair
@@ -2291,6 +2495,12 @@ UPDATE locales_gameobject SET name_loc2='Chaise à haut dossier' WHERE entry=369
 UPDATE locales_gameobject SET name_loc2='Chaise à haut dossier' WHERE entry=36987; -- Name: High Back Chair
 UPDATE locales_gameobject SET name_loc2='Chaise à haut dossier' WHERE entry=36988; -- Name: High Back Chair
 UPDATE locales_gameobject SET name_loc2='Chaise à haut dossier' WHERE entry=36989; -- Name: High Back Chair
+UPDATE locales_gameobject SET name_loc2='Table à manger' WHERE entry=36990; -- Name: Dining Bench
+UPDATE locales_gameobject SET name_loc2='Table à manger' WHERE entry=36991; -- Name: Dining Bench
+UPDATE locales_gameobject SET name_loc2='Table à manger' WHERE entry=36992; -- Name: Dining Bench
+UPDATE locales_gameobject SET name_loc2='Table à manger' WHERE entry=36993; -- Name: Dining Bench
+UPDATE locales_gameobject SET name_loc2='Table à manger' WHERE entry=36994; -- Name: Dining Bench
+UPDATE locales_gameobject SET name_loc2='Table à manger' WHERE entry=36995; -- Name: Dining Bench
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=36996; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=36997; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=36998; -- Name: Wooden Chair
@@ -2335,25 +2545,53 @@ UPDATE locales_gameobject SET name_loc2='Cercle d\'invocation' WHERE entry=37097
 UPDATE locales_gameobject SET name_loc2='Coffre de Perrine' WHERE entry=37098; -- Name: Perrine's Chest
 UPDATE locales_gameobject SET name_loc2='Tablette atal\'ai' WHERE entry=37099; -- Name: Atal'ai Tablet
 UPDATE locales_gameobject SET name_loc2='Cage de Galen' WHERE entry=37118; -- Name: Galen's Cage
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37473; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=37474; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=37475; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37476; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37477; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37478; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37479; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=37480; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=37481; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37482; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=37483; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=37484; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37485; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37486; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37487; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37488; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37489; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37490; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=37491; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=37492; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=37493; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=38021; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=38022; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=38023; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=38024; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=38025; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=38026; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=38027; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=38028; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=38029; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=38030; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=38147; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=38148; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=38491; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=38492; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=38493; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=38494; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=38495; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=38492; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=38493; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=38494; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=38495; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Débarcadère de Newman' WHERE entry=38927; -- Name: Newman's Landing
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=40197; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=40199; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=40200; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=40201; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=40298; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=40299; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=40301; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=40303; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=40303; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=41185; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=41186; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=41187; -- Name: Campfire
@@ -2375,7 +2613,7 @@ UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=43122; -- Name
 UPDATE locales_gameobject SET name_loc2='Ascenseur de Mesa' WHERE entry=47296; -- Name: Mesa Elevator
 UPDATE locales_gameobject SET name_loc2='Ascenseur de Mesa' WHERE entry=47297; -- Name: Mesa Elevator
 UPDATE locales_gameobject SET name_loc2='Petit siège en bois' WHERE entry=48403; -- Name: Short Wooden Seat
-UPDATE locales_gameobject SET name_loc2='Feu de camp de nains' WHERE entry=48404; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=48404; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Petit siège en bois' WHERE entry=48405; -- Name: Short Wooden Seat
 UPDATE locales_gameobject SET name_loc2='Petit siège en bois' WHERE entry=48406; -- Name: Short Wooden Seat
 UPDATE locales_gameobject SET name_loc2='Petit siège en bois' WHERE entry=48407; -- Name: Short Wooden Seat
@@ -2556,7 +2794,7 @@ UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=50447; --
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=50448; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=50449; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=50450; -- Name: Burning Embers
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=50468; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=50468; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge des Pitons-du-Tonnerre' WHERE entry=50469; -- Name: Thunder Bluff Forge
 UPDATE locales_gameobject SET name_loc2='Paniers de Tissenuées' WHERE entry=50484; -- Name: Cloudweaver's Baskets
 UPDATE locales_gameobject SET name_loc2='Enchanteurs Aube-Glorieuse' WHERE entry=50485; -- Name: Dawnstrider Enchanters
@@ -2621,7 +2859,7 @@ UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=50804; --
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=50805; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Enclume en pierre' WHERE entry=50830; -- Name: Stone Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=50831; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=50910; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=50910; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Sac de maïs' WHERE entry=50935; -- Name: Sack of Corn
 UPDATE locales_gameobject SET name_loc2='Sac d\'orge' WHERE entry=50936; -- Name: Sack of Barley
 UPDATE locales_gameobject SET name_loc2='Sac de seigle' WHERE entry=50937; -- Name: Sack of Rye
@@ -2630,29 +2868,31 @@ UPDATE locales_gameobject SET name_loc2='Le chêne carbonisé' WHERE entry=50982
 UPDATE locales_gameobject SET name_loc2='Forge vive' WHERE entry=50983; -- Name: Heated Forge
 UPDATE locales_gameobject SET name_loc2='Forge vive' WHERE entry=50984; -- Name: Heated Forge
 UPDATE locales_gameobject SET name_loc2='Forge vive' WHERE entry=50985; -- Name: Heated Forge
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=50986; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=50987; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=50988; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=50989; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=50986; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=50987; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=50988; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=50989; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=51681; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=51702; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=51703; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=51704; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=51705; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=51706; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=51707; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=51702; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=51703; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=51704; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=51705; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=51706; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=51707; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Boue du tombeau d\'Eliza' WHERE entry=51708; -- Name: Eliza's Grave Dirt
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=51948; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=51948; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=51949; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=51950; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=51950; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=52175; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=52176; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Grand brasero' WHERE entry=55250; -- Name: Tall Brazier
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=55535; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=55615; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=55616; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Armes de Totem-de-Rage' WHERE entry=55774; -- Name: Ragetotem Arms
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=56818; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=56819; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=56820; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=56821; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=56897; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Mailles & Plaques' WHERE entry=56898; -- Name: Plate-n-Chain
@@ -2661,10 +2901,21 @@ UPDATE locales_gameobject SET name_loc2='Bonne nourriture' WHERE entry=56903; --
 UPDATE locales_gameobject SET name_loc2='Vols rapides' WHERE entry=56905; -- Name: Swift Flights
 UPDATE locales_gameobject SET name_loc2='La taverne du Loup de mer' WHERE entry=56910; -- Name: The Salty Sailor Tavern
 UPDATE locales_gameobject SET name_loc2='Banque de Strangleronce' WHERE entry=56911; -- Name: Stranglethorn Trust Bank
-UPDATE locales_gameobject SET name_loc2='Réverbère' WHERE entry=57708; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57708; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57709; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57710; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57725; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57726; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57727; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57748; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57749; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57750; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57751; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57752; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=57753; -- Name: Lamppost
 UPDATE locales_gameobject SET name_loc2='Coffre en fer dérobé' WHERE entry=58369; -- Name: Stolen Iron Chest
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=58388; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=58389; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=58388; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=58389; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Planque de la Lame ardente' WHERE entry=58595; -- Name: Burning Blade Stash
 UPDATE locales_gameobject SET name_loc2='Armes' WHERE entry=58596; -- Name: Weapons
 UPDATE locales_gameobject SET name_loc2='Éleveur de chauve-souris' WHERE entry=58597; -- Name: Bat Handler
@@ -2701,6 +2952,8 @@ UPDATE locales_gameobject SET name_loc2='Libraire' WHERE entry=58627; -- Name: B
 UPDATE locales_gameobject SET name_loc2='Marchand de bâtons' WHERE entry=58629; -- Name: Staff Merchant
 UPDATE locales_gameobject SET name_loc2='Flore' WHERE entry=59517; -- Name: All Things Flora
 UPDATE locales_gameobject SET name_loc2='Besoins maritimes' WHERE entry=59518; -- Name: Nautical Needs
+UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=59529; -- Name: Cauldron
+UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=59530; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='L\'ancienne capitainerie' WHERE entry=59845; -- Name: The Old Port Authority
 UPDATE locales_gameobject SET name_loc2='Compagnie Aérienne de Kalimdor' WHERE entry=59846; -- Name: Kalimdor Airlines
 UPDATE locales_gameobject SET name_loc2='Plaies & Bosses SA' WHERE entry=59847; -- Name: Cuts-N-Bruises Incorporated
@@ -2723,15 +2976,16 @@ UPDATE locales_gameobject SET name_loc2='Fourneau' WHERE entry=59864; -- Name: S
 UPDATE locales_gameobject SET name_loc2='Fourneau' WHERE entry=59865; -- Name: Stove
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=59990; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=60393; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=60394; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=60395; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=60438; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=60439; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=60440; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=61035; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=61036; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=61037; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=61038; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=61039; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=61035; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=61036; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=61037; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=61038; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=61039; -- Name: Dwarven Fire
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=61040; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=61041; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=61042; -- Name: Wooden Chair
@@ -2803,15 +3057,21 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=61922; -- N
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=61923; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=61924; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=61925; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=61929; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=61927; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=61928; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=61929; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Brasero de la Flamme Dormante' WHERE entry=61934; -- Name: Brazier of the Dormant Flame
 UPDATE locales_gameobject SET name_loc2='Valve de réglage' WHERE entry=61935; -- Name: Regulator Valve
 UPDATE locales_gameobject SET name_loc2='Valve de contrôle du carburant' WHERE entry=61936; -- Name: Fuel Control Valve
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=61952; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=61953; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Centre d\'accueil des visiteurs de Hurlevent' WHERE entry=63195; -- Name: Stormwind Visitor's Center
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=63196; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=63197; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=63198; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=63196; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=63197; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=63198; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Autel de chaman' WHERE entry=63674; -- Name: Shaman Shrine
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=64849; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=64850; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=64856; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=64857; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=64858; -- Name: Wooden Chair
@@ -2825,45 +3085,86 @@ UPDATE locales_gameobject SET name_loc2='Armurerie Cœur de Lion' WHERE entry=66
 UPDATE locales_gameobject SET name_loc2='Bâtons de commandement de Sniffetarin' WHERE entry=68865; -- Name: Snufflenose Command Sticks
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69282; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69421; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=69422; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=69422; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69423; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69424; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=69426; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=69427; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=69428; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=69425; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=69426; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=69427; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=69428; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69429; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69430; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69431; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69432; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69433; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69434; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69435; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69436; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=69437; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=69438; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Réverbère' WHERE entry=70517; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=69438; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70517; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70518; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70519; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70520; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70521; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70522; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70523; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70524; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70525; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70526; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70527; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70528; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70530; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70531; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70532; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70533; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70534; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70535; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70536; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70537; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70538; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70539; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70540; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70541; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70542; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70543; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70544; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70545; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70546; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70547; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70548; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70549; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70551; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70552; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70553; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70554; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70555; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70556; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=70557; -- Name: Lamppost
 UPDATE locales_gameobject SET name_loc2='Gisement de fer couvert de vase' WHERE entry=73939; -- Name: Ooze Covered Iron Deposit
 UPDATE locales_gameobject SET name_loc2='Filon d\'argent couvert de limon' WHERE entry=73940; -- Name: Ooze Covered Silver Vein
 UPDATE locales_gameobject SET name_loc2='Filon d\'or couvert de limon' WHERE entry=73941; -- Name: Ooze Covered Gold Vein
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=74075; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=74076; -- Name: Cauldron
+UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=74077; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=74078; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='La taverne du Loup de mer' WHERE entry=74091; -- Name: The Salty Sailor Tavern
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=74135; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=74138; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=74146; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=74439; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=74440; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=74441; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=74442; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=74138; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=74146; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=74439; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=74440; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=74441; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=74442; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Casier de viande fumée' WHERE entry=74443; -- Name: Smoked Meat Rack
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=74444; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=74444; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Casier de viande fumée' WHERE entry=74445; -- Name: Smoked Meat Rack
 UPDATE locales_gameobject SET name_loc2='Grand coffre cerclé de fer' WHERE entry=74447; -- Name: Large Iron Bound Chest
 UPDATE locales_gameobject SET name_loc2='Grand coffre solide' WHERE entry=74448; -- Name: Large Solid Chest
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=74727; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=74727; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Casier de viande fumée' WHERE entry=74728; -- Name: Smoked Meat Rack
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=74729; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=74730; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=74729; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=74730; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Grand coffre endommagé' WHERE entry=75293; -- Name: Large Battered Chest
 UPDATE locales_gameobject SET name_loc2='Grand coffre cerclé de fer' WHERE entry=75295; -- Name: Large Iron Bound Chest
 UPDATE locales_gameobject SET name_loc2='Grand coffre cerclé de fer' WHERE entry=75296; -- Name: Large Iron Bound Chest
@@ -2871,18 +3172,21 @@ UPDATE locales_gameobject SET name_loc2='Grand coffre cerclé de fer' WHERE entr
 UPDATE locales_gameobject SET name_loc2='Grand coffre solide' WHERE entry=75298; -- Name: Large Solid Chest
 UPDATE locales_gameobject SET name_loc2='Grand coffre solide' WHERE entry=75299; -- Name: Large Solid Chest
 UPDATE locales_gameobject SET name_loc2='Grand coffre solide' WHERE entry=75300; -- Name: Large Solid Chest
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=77813; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=77813; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Ventouse' WHERE entry=80022; -- Name: Plunger
 UPDATE locales_gameobject SET name_loc2='Ascenseur' WHERE entry=80023; -- Name: Vator
-UPDATE locales_gameobject SET name_loc2='Réverbère' WHERE entry=82136; -- Name: Lamppost
-UPDATE locales_gameobject SET name_loc2='Réverbère' WHERE entry=82137; -- Name: Lamppost
-UPDATE locales_gameobject SET name_loc2='Réverbère' WHERE entry=82138; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=82136; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=82137; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=82138; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=82139; -- Name: Lamppost
+UPDATE locales_gameobject SET name_loc2='Lampadaire' WHERE entry=82140; -- Name: Lamppost
 UPDATE locales_gameobject SET name_loc2='Ascenseur2' WHERE entry=85556; -- Name: Vator2
 UPDATE locales_gameobject SET name_loc2='Coffre de Baguefer' WHERE entry=85562; -- Name: Ironband's Strongbox
 UPDATE locales_gameobject SET name_loc2='Coffre de Dent-Morte' WHERE entry=85563; -- Name: Dead-tooth's Strongbox
 UPDATE locales_gameobject SET name_loc2='Caisse d\'élunite' WHERE entry=86492; -- Name: Crate of Elunite
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=88496; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=88497; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=88498; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Corail de fer' WHERE entry=89634; -- Name: Iron Coral
 UPDATE locales_gameobject SET name_loc2='Coquille brûlée par le soleil' WHERE entry=89635; -- Name: Sunscorched Shell
 UPDATE locales_gameobject SET name_loc2='Chaudron de Bath\'rah' WHERE entry=89931; -- Name: Bath'rah's Cauldron
@@ -2895,21 +3199,23 @@ UPDATE locales_gameobject SET name_loc2='Fourneau' WHERE entry=91673; -- Name: S
 UPDATE locales_gameobject SET name_loc2='Espingoles imports - est' WHERE entry=91692; -- Name: Boomstick Imports East
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=91706; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=91737; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=91738; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Enclume de Grimand' WHERE entry=92011; -- Name: Grimand's Anvil
 UPDATE locales_gameobject SET name_loc2='Tome de la Cabale' WHERE entry=92013; -- Name: Tome of the Cabal
 UPDATE locales_gameobject SET name_loc2='Cercle d\'invocation' WHERE entry=92015; -- Name: Summoning Circle
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=92065; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=92066; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=92067; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=92066; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=92067; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=92098; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=92099; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=92140; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=92141; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=92142; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=92143; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Cercle d\'invocation de Strahad' WHERE entry=92252; -- Name: Strahad's Summoning Circle
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=92254; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=92254; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Cercle d\'invocation' WHERE entry=92388; -- Name: Summoning Circle
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=92419; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=92419; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Minerai de Bailor' WHERE entry=92420; -- Name: Bailor's Ore
 UPDATE locales_gameobject SET name_loc2='Coffre endommagé' WHERE entry=92423; -- Name: Damaged Chest
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=92424; -- Name: Campfire
@@ -2917,7 +3223,7 @@ UPDATE locales_gameobject SET name_loc2='Décoction fumante' WHERE entry=92425; 
 UPDATE locales_gameobject SET name_loc2='Boue saline' WHERE entry=92426; -- Name: Pickled Sludge
 UPDATE locales_gameobject SET name_loc2='Casier de viande fumée' WHERE entry=92427; -- Name: Smoked Meat Rack
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=92458; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=92489; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=92489; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=92490; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Guilde' WHERE entry=92524; -- Name: Guild
 UPDATE locales_gameobject SET name_loc2='Aube d\'argent' WHERE entry=92525; -- Name: Argent Dawn
@@ -2958,14 +3264,15 @@ UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=92703; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Cœur du bois' WHERE entry=93192; -- Name: Heartswood
 UPDATE locales_gameobject SET name_loc2='Autel de Gelihast' WHERE entry=94039; -- Name: Shrine of Gelihast
 UPDATE locales_gameobject SET name_loc2='Autel des profondeurs' WHERE entry=94040; -- Name: Altar of the Deeps
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=94183; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=94184; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=94185; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=94186; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=94187; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=94188; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=94190; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=94191; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=94183; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=94184; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=94185; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=94186; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=94187; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=94188; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=94189; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=94190; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=94191; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Veste en tissu' WHERE entry=95449; -- Name: Cloth Armor
 UPDATE locales_gameobject SET name_loc2='Porte secrète' WHERE entry=97700; -- Name: Secret Door
 UPDATE locales_gameobject SET name_loc2='Torche' WHERE entry=97701; -- Name: Torch
@@ -3069,16 +3376,16 @@ UPDATE locales_gameobject SET name_loc2='Filon de cuivre' WHERE entry=103713; --
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=103727; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=103728; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=103729; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=103748; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=103749; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=103750; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=103751; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=103770; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=103771; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=103748; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=103749; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=103750; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=103751; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=103770; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=103771; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=103772; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Outils standard' WHERE entry=103774; -- Name: Standard Issue Tools
 UPDATE locales_gameobject SET name_loc2='Quartier des Mages' WHERE entry=103793; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc2='Place de la Cathédrale' WHERE entry=103794; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc2='Place de la cathédrale' WHERE entry=103794; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc2='Nid de griffons' WHERE entry=103795; -- Name: Griffon Roost
 UPDATE locales_gameobject SET name_loc2='Vieille ville' WHERE entry=103796; -- Name: Old Town
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=103797; -- Name: Wooden Chair
@@ -3093,7 +3400,7 @@ UPDATE locales_gameobject SET name_loc2='Sceau du mausolée' WHERE entry=103813;
 UPDATE locales_gameobject SET name_loc2='Coffre-fort de Moulin-de-l’Ambre' WHERE entry=103815; -- Name: Ambermill Strongbox
 UPDATE locales_gameobject SET name_loc2='Fusée rouge' WHERE entry=103820; -- Name: Red Rocket
 UPDATE locales_gameobject SET name_loc2='Coffre de Doan' WHERE entry=103821; -- Name: Doan's Strongbox
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=104555; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=104555; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Seau d\'outils de Bingles' WHERE entry=104564; -- Name: Bingles's Toolbucket
 UPDATE locales_gameobject SET name_loc2='Seau d\'outils de Bingles' WHERE entry=104569; -- Name: Bingles's Toolbucket
 UPDATE locales_gameobject SET name_loc2='Seau d\'outils de Bingles' WHERE entry=104574; -- Name: Bingles's Toolbucket
@@ -3122,11 +3429,11 @@ UPDATE locales_gameobject SET name_loc2='Coffre en morceaux' WHERE entry=105579;
 UPDATE locales_gameobject SET name_loc2='Coffre en morceaux' WHERE entry=105581; -- Name: Tattered Chest
 UPDATE locales_gameobject SET name_loc2='Coffre endommagé' WHERE entry=106318; -- Name: Battered Chest
 UPDATE locales_gameobject SET name_loc2='Coffre endommagé' WHERE entry=106319; -- Name: Battered Chest
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=106325; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=106326; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=106327; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=106335; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=106336; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=106325; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=106326; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=106327; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=106335; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=106336; -- Name: Blazing Fire
 UPDATE locales_gameobject SET name_loc2='Effet de manifestation d\'eau' WHERE entry=106528; -- Name: Water Manifestation Effect
 UPDATE locales_gameobject SET name_loc2='Aura d\'Eau de purification' WHERE entry=106529; -- Name: Water Manifestation Aura
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=106638; -- Name: Wooden Chair
@@ -3137,23 +3444,23 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=107040; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=107041; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=107042; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Piège à ours des elfes de la nuit' WHERE entry=109515; -- Name: Night Elven Bear Trap
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=110230; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=110231; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=110232; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=110233; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=110234; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=110230; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=110231; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=110232; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=110233; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=110234; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=110235; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=110236; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Vignoble de Gallina' WHERE entry=111094; -- Name: Gallina Winery
 UPDATE locales_gameobject SET name_loc2='Coffre en morceaux' WHERE entry=111095; -- Name: Tattered Chest
 UPDATE locales_gameobject SET name_loc2='Piège à ours des elfes de la nuit' WHERE entry=111148; -- Name: Night Elven Bear Trap
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=111149; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111202; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111203; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111204; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111205; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111206; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111207; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111202; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111203; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111204; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111205; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111206; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111207; -- Name: Dwarven Fire
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111212; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111215; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111216; -- Name: Wooden Chair
@@ -3166,12 +3473,12 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111224; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111225; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111226; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111227; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111254; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111255; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111256; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111257; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111258; -- Name: Dwarven Fire
-UPDATE locales_gameobject SET name_loc2='Feu des nains' WHERE entry=111259; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111254; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111255; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111256; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111257; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111258; -- Name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc2='Feu nain' WHERE entry=111259; -- Name: Dwarven Fire
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111260; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111261; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111262; -- Name: Wooden Chair
@@ -3180,7 +3487,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111266; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111268; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111269; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111271; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=111839; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=111839; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111942; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111943; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111945; -- Name: Wooden Chair
@@ -3192,7 +3499,17 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111969; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111973; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111974; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111979; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111993; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111994; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111995; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111996; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=111998; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112000; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112012; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112015; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112023; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112024; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112028; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112042; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112043; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112044; -- Name: Wooden Chair
@@ -3212,6 +3529,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112061; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112062; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112065; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112066; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112068; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112070; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112071; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112072; -- Name: Wooden Chair
@@ -3241,6 +3559,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=112201; -- Name: Ch
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=112202; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=112204; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=112205; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=112214; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=112215; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=112216; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=112217; -- Name: Chair
@@ -3265,6 +3584,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112311; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112312; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112316; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112317; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112318; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112319; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112321; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=112322; -- Name: Wooden Chair
@@ -3286,6 +3606,7 @@ UPDATE locales_gameobject SET name_loc2='Coffre verrouillé de l\'Intrépide' WH
 UPDATE locales_gameobject SET name_loc2='Soins spirituels' WHERE entry=113528; -- Name: Spiritual Healing
 UPDATE locales_gameobject SET name_loc2='Feu du canon arathi' WHERE entry=113529; -- Name: Arathi Cannon Fire
 UPDATE locales_gameobject SET name_loc2='Canon' WHERE entry=113531; -- Name: Cannon
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=113540; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Quartier des Voleurs' WHERE entry=113568; -- Name: Rogues' Quarter
 UPDATE locales_gameobject SET name_loc2='Quartier des Voleurs' WHERE entry=113569; -- Name: Rogues' Quarter
 UPDATE locales_gameobject SET name_loc2='L\'Apothicarium' WHERE entry=113570; -- Name: The Apothecarium
@@ -3296,7 +3617,7 @@ UPDATE locales_gameobject SET name_loc2='Quartier des Voleurs' WHERE entry=11357
 UPDATE locales_gameobject SET name_loc2='Quartier de la Magie' WHERE entry=113576; -- Name: Magic Quarter
 UPDATE locales_gameobject SET name_loc2='Quartier des Voleurs' WHERE entry=113577; -- Name: Rogues' Quarter
 UPDATE locales_gameobject SET name_loc2='Auberge' WHERE entry=113752; -- Name: Inn
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=113753; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=113753; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=113754; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Quartier des Voleurs' WHERE entry=113755; -- Name: Rogues' Quarter
 UPDATE locales_gameobject SET name_loc2='Quartier des Voleurs' WHERE entry=113756; -- Name: Rogues' Quarter
@@ -3320,7 +3641,7 @@ UPDATE locales_gameobject SET name_loc2='Coffre du bois de la Pénombre' WHERE e
 UPDATE locales_gameobject SET name_loc2='Par ici' WHERE entry=123215; -- Name: This Way
 UPDATE locales_gameobject SET name_loc2='De l\'autre côté' WHERE entry=123216; -- Name: The Other Way
 UPDATE locales_gameobject SET name_loc2='Par là' WHERE entry=123217; -- Name: That Way
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=123244; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=123244; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Gisement de vrai-argent couvert de vase' WHERE entry=123309; -- Name: Ooze Covered Truesilver Deposit
 UPDATE locales_gameobject SET name_loc2='Gisement de mithril couvert de vase' WHERE entry=123310; -- Name: Ooze Covered Mithril Deposit
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=123328; -- Name: Campfire
@@ -3344,7 +3665,7 @@ UPDATE locales_gameobject SET name_loc2='Sceau de Khaz\'Mul' WHERE entry=124372;
 UPDATE locales_gameobject SET name_loc2='Horatio Montgomery, médecin' WHERE entry=124374; -- Name: Horatio Montgomery, M.D.
 UPDATE locales_gameobject SET name_loc2='Coffre de la famille Garrett' WHERE entry=124388; -- Name: Garrett Family Chest
 UPDATE locales_gameobject SET name_loc2='Coffre de Krom Rudebras' WHERE entry=124389; -- Name: Krom Stoutarm's Chest
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=125475; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=125475; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Urne ostentatoire' WHERE entry=125477; -- Name: Conspicuous Urn
 UPDATE locales_gameobject SET name_loc2='Quartier des Nains' WHERE entry=126046; -- Name: Dwarven District
 UPDATE locales_gameobject SET name_loc2='Champignons magenta' WHERE entry=126049; -- Name: Magenta Cap Clusters
@@ -3354,10 +3675,10 @@ UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=126052; -- Name: Benc
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=126053; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Commode de Tallonkai' WHERE entry=126158; -- Name: Tallonkai's Dresser
 UPDATE locales_gameobject SET name_loc2='Coffre ancien' WHERE entry=126260; -- Name: Ancient Chest
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=126312; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=126313; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=126314; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=126335; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=126312; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=126313; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=126314; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=126335; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Piège des champignons magenta' WHERE entry=128196; -- Name: Magenta Cap Clusters Trap
 UPDATE locales_gameobject SET name_loc2='Champignons magenta' WHERE entry=128293; -- Name: Magenta Cap Clusters
 UPDATE locales_gameobject SET name_loc2='Tombe peu profonde' WHERE entry=128308; -- Name: Shallow Grave
@@ -3368,8 +3689,8 @@ UPDATE locales_gameobject SET name_loc2='Les cinq venins mortels' WHERE entry=13
 UPDATE locales_gameobject SET name_loc2='Coffret de Bisbiwix' WHERE entry=130126; -- Name: Gallywix's Lockbox
 UPDATE locales_gameobject SET name_loc2='Bombe chimique' WHERE entry=130358; -- Name: Chemical Bomb
 UPDATE locales_gameobject SET name_loc2='Autel des Gardiens' WHERE entry=130511; -- Name: Altar of The Keepers
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=130666; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=130667; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=130666; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=130667; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=130668; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Les disques de Norgannon' WHERE entry=131474; -- Name: The Discs of Norgannon
 UPDATE locales_gameobject SET name_loc2='Grand coffre cerclé de mithril' WHERE entry=131978; -- Name: Large Mithril Bound Chest
@@ -3380,12 +3701,12 @@ UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=133467; -- Name: Benc
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=133468; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=133469; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Tailleur' WHERE entry=136101; -- Name: Tailor
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=136922; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=136923; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=136925; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=136926; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=136927; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=136928; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136922; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136923; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=136925; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=136926; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=136927; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=136928; -- Name: Blazing Fire
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=136929; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=136930; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=136931; -- Name: Bench
@@ -3410,20 +3731,23 @@ UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136949; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136950; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136951; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136952; -- Name: Fire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=136954; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136954; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136955; -- Name: Fire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=136957; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=136959; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=136961; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=136962; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=136963; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=136964; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=136965; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=136966; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136957; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136959; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136961; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136962; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136963; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136964; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136965; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=136966; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Rift du néant' WHERE entry=137167; -- Name: Nether Rift
-UPDATE locales_gameobject SET name_loc2='La caverne Lugubre' WHERE entry=137644; -- Name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc2='La caverne lugubre' WHERE entry=137644; -- Name: The Forlorn Cavern
 UPDATE locales_gameobject SET name_loc2='La Garde militaire' WHERE entry=137646; -- Name: The Military Ward
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=137647; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=137647; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=138316; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=138317; -- Name: Forge
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=138318; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Fragments de Myzrael' WHERE entry=138492; -- Name: Shards of Myzrael
 UPDATE locales_gameobject SET name_loc2='HornCover' WHERE entry=138496; -- Name: HornCover
 UPDATE locales_gameobject SET name_loc2='Support d\'embouchure' WHERE entry=138497; -- Name: Mouthpiece Mount
@@ -3436,7 +3760,12 @@ UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=140110; -- 
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=140111; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=140112; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=140113; -- Name: Fierce Blaze
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=140211; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=140212; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=140213; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=140214; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=140357; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=140360; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=140372; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=140373; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=140374; -- Name: Bench
@@ -3469,8 +3798,9 @@ UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=140401; -- Name: Benc
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=140402; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=140403; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=140439; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres de Forgefer' WHERE entry=140908; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=140908; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Bobine de fil de soie chartreuse' WHERE entry=140911; -- Name: Spool of Light Chartreuse Silk Thread
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=140931; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Gahz\'ridienne' WHERE entry=140971; -- Name: Gahz'ridian
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=141069; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Cage trolle' WHERE entry=141070; -- Name: Troll Cage
@@ -3479,20 +3809,27 @@ UPDATE locales_gameobject SET name_loc2='Cage trolle' WHERE entry=141072; -- Nam
 UPDATE locales_gameobject SET name_loc2='Cage trolle' WHERE entry=141073; -- Name: Troll Cage
 UPDATE locales_gameobject SET name_loc2='Cage trolle' WHERE entry=141074; -- Name: Troll Cage
 UPDATE locales_gameobject SET name_loc2='Coffre du féticheur' WHERE entry=141596; -- Name: Witch Doctor's Chest
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=141610; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=141611; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=141610; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=141611; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Tonneau renforcé de Gigoto' WHERE entry=141612; -- Name: [PH] Weegli's Armed Barrel
 UPDATE locales_gameobject SET name_loc2='Pierre de lien' WHERE entry=141812; -- Name: Stone of Binding
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=141813; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Gong de Zul\'Farrak' WHERE entry=141832; -- Name: Gong of Zul'Farrak
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=141838; -- Name: Forge
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=141839; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=141840; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=141841; -- Name: Forge
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=141843; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=141844; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=141845; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=141851; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=141852; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=141852; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Tragan pourpre' WHERE entry=141853; -- Name: Violet Tragan
 UPDATE locales_gameobject SET name_loc2='Pierre de lien' WHERE entry=141857; -- Name: Stone of Binding
 UPDATE locales_gameobject SET name_loc2='Pierre de lien' WHERE entry=141858; -- Name: Stone of Binding
 UPDATE locales_gameobject SET name_loc2='Pierre de lien' WHERE entry=141859; -- Name: Stone of Binding
+UPDATE locales_gameobject SET name_loc2='Canon' WHERE entry=141860; -- Name: Cannon
+UPDATE locales_gameobject SET name_loc2='Canon' WHERE entry=141861; -- Name: Cannon
 UPDATE locales_gameobject SET name_loc2='Canon' WHERE entry=141862; -- Name: Cannon
 UPDATE locales_gameobject SET name_loc2='Canon' WHERE entry=141863; -- Name: Cannon
 UPDATE locales_gameobject SET name_loc2='Porte du temple' WHERE entry=141869; -- Name: Temple Door
@@ -3501,29 +3838,37 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=141871; -- Nam
 UPDATE locales_gameobject SET name_loc2='Larme de Razelikh' WHERE entry=141891; -- Name: Razelikh's Tear
 UPDATE locales_gameobject SET name_loc2='Larme de Razelikh II' WHERE entry=141892; -- Name: Razelikh's Tear II
 UPDATE locales_gameobject SET name_loc2='Œuf d\'hippogriffe' WHERE entry=141931; -- Name: Hippogryph Egg
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=141972; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=141971; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=141972; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Trésor ancien' WHERE entry=141979; -- Name: Ancient Treasure
 UPDATE locales_gameobject SET name_loc2='Coffret spectral' WHERE entry=141980; -- Name: Spectral Lockbox
 UPDATE locales_gameobject SET name_loc2='Particules de coffret spectral' WHERE entry=141981; -- Name: Spectral Lockbox Particles
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142018; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142019; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142020; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142021; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142073; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=142075; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142075; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Pommes fraîches de Clara' WHERE entry=142076; -- Name: Clara's Fresh Apples
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=142077; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=142077; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=142078; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142079; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Tablette de volonté' WHERE entry=142088; -- Name: Tablet of Will
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=142089; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=142090; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=142091; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=142093; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=142094; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=142095; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=142102; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=142103; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=142109; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=142110; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=142117; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142089; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=142090; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=142091; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142093; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142094; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142095; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=142101; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142102; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142103; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142109; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142110; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142111; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142117; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Chaudron bouillonnant' WHERE entry=142118; -- Name: Bubbling Cauldron
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=142119; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142121; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Avis de recherche' WHERE entry=142122; -- Name: Wanted Poster
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142123; -- Name: Campfire
@@ -3552,6 +3897,7 @@ UPDATE locales_gameobject SET name_loc2='Monument dissimulé' WHERE entry=142189
 UPDATE locales_gameobject SET name_loc2='Caisse de ravitaillement de la Horde' WHERE entry=142191; -- Name: Horde Supply Crate
 UPDATE locales_gameobject SET name_loc2='Trésor de pirates !' WHERE entry=142194; -- Name: Pirate's Treasure!
 UPDATE locales_gameobject SET name_loc2='Plan de bataille des Griffebois' WHERE entry=142195; -- Name: Woodpaw Battle Map
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142196; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142197; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142198; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='La dernière chambre' WHERE entry=142207; -- Name: The Final Chamber
@@ -3568,7 +3914,7 @@ UPDATE locales_gameobject SET name_loc2='Bouton' WHERE entry=142217; -- Name: Bu
 UPDATE locales_gameobject SET name_loc2='Bouton' WHERE entry=142218; -- Name: Button
 UPDATE locales_gameobject SET name_loc2='Bouton' WHERE entry=142219; -- Name: Button
 UPDATE locales_gameobject SET name_loc2='La Garde mystique' WHERE entry=142339; -- Name: The Mystic Ward
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=142340; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=142340; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Compléments mystiques de Maeva' WHERE entry=142341; -- Name: Maeva's Mystical Apparel
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142342; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Piédestal d\'Uldum' WHERE entry=142343; -- Name: Uldum Pedestal
@@ -3601,8 +3947,8 @@ UPDATE locales_gameobject SET name_loc2='Tablette de Theka' WHERE entry=142715; 
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142837; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='La Garde mystique' WHERE entry=142838; -- Name: The Mystic Ward
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=142851; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=142871; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=142872; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=142871; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=142872; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Pêcheur itinérant' WHERE entry=142873; -- Name: Traveling Fisherman
 UPDATE locales_gameobject SET name_loc2='Chez Lame-en-pierre' WHERE entry=142874; -- Name: Stoneblade's
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=142911; -- Name: Wooden Chair
@@ -3610,14 +3956,17 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=142912; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=142914; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=142915; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=142916; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=142947; -- Name: Stone Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=142948; -- Name: Stone Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=142959; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=142960; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=142961; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=142962; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=142963; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=142964; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=142965; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=142967; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=142965; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=142966; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=142967; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142968; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Casier de viande fumée' WHERE entry=142969; -- Name: Smoked Meat Rack
 UPDATE locales_gameobject SET name_loc2='Casier de viande fumée' WHERE entry=142970; -- Name: Smoked Meat Rack
@@ -3629,69 +3978,73 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142976; -- Nam
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142977; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=142978; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Casier de viande fumée' WHERE entry=142979; -- Name: Smoked Meat Rack
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=142980; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=142980; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Transpolyporteur DRBB' WHERE entry=143230; -- Name: Transpolyporter DRBB
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143242; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143243; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143244; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143245; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143246; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143247; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143242; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143243; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143244; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143245; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143246; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143247; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Plaques et mailles Combeheaume' WHERE entry=143249; -- Name: Craghelm's Plate and Chain
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143250; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143250; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Fournitures de chasse de Furidor' WHERE entry=143251; -- Name: Goldfury's Hunting Supplies
 UPDATE locales_gameobject SET name_loc2='Composants de Barim' WHERE entry=143253; -- Name: Barim's Reagents
 UPDATE locales_gameobject SET name_loc2='Armes de Timberline' WHERE entry=143254; -- Name: Timberline Arms
 UPDATE locales_gameobject SET name_loc2='Chez Bruuk' WHERE entry=143255; -- Name: Bruuk's Corner
 UPDATE locales_gameobject SET name_loc2='Le sorcier combattant' WHERE entry=143256; -- Name: The Fighting Wizard
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143273; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143295; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143296; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143273; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143295; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143296; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=143297; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=143298; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=143299; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143301; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143314; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143301; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143314; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='La taverne de Brûlepierre' WHERE entry=143317; -- Name: The Stonefire Tavern
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143318; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143319; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143320; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143318; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143319; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143320; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Fournitures générales Tourneflop' WHERE entry=143321; -- Name: Fizzlespinner's General Goods
 UPDATE locales_gameobject SET name_loc2='Centre des Visiteurs de Forgefer' WHERE entry=143322; -- Name: Ironforge Visitor's Center
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143323; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143323; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='La Halle aux armes de Furie-d\'acier' WHERE entry=143324; -- Name: Steelfury's Weapon Emporium
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143325; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143326; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143328; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143325; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143326; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143328; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='La Bouilloire de bronze' WHERE entry=143333; -- Name: The Bronze Kettle
 UPDATE locales_gameobject SET name_loc2='Marchandises en cuir de Finfuseau' WHERE entry=143334; -- Name: Finespindle's Leather Goods
 UPDATE locales_gameobject SET name_loc2='Médecin de Forgefer' WHERE entry=143336; -- Name: Ironforge Physician
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143337; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143337; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Arcanes de Duvechardon' WHERE entry=143338; -- Name: Thistlefuzz Arcanery
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143342; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143342; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Vêtements de Front-de-pierre' WHERE entry=143343; -- Name: Stonebrow's Clothier
 UPDATE locales_gameobject SET name_loc2='Minage & joaillerie de la Montagne profonde' WHERE entry=143344; -- Name: Deep Mountain Mining Guild
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143345; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143346; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143347; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143348; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143349; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143362; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=143363; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143345; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143346; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143347; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143348; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143349; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143362; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=143363; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Fourneau' WHERE entry=143379; -- Name: Need Name
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=143397; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Fourneau' WHERE entry=143398; -- Name: Stove
 UPDATE locales_gameobject SET name_loc2='Taverne de la quille brisée' WHERE entry=143399; -- Name: Broken Keel Tavern
 UPDATE locales_gameobject SET name_loc2='Porte de la cage' WHERE entry=143979; -- Name: Cage Door
 UPDATE locales_gameobject SET name_loc2='Parchemin gordunni' WHERE entry=143980; -- Name: Gordunni Scroll
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=143981; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=143982; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=143983; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=143984; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=143985; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=143986; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=143981; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=143982; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=143983; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=143984; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=143985; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=143986; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=143987; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=143988; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=143989; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=143990; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Casier de viande fumée' WHERE entry=143991; -- Name: Smoked Meat Rack
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=144011; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=144011; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Piège gordunni' WHERE entry=144050; -- Name: Gordunni Trap
 UPDATE locales_gameobject SET name_loc2='Equipement d\'analyse de Scrimshank' WHERE entry=144053; -- Name: Scrimshank's Surveying Gear
 UPDATE locales_gameobject SET name_loc2='Coffre de Shay' WHERE entry=144054; -- Name: Shay's Chest
@@ -3708,21 +4061,22 @@ UPDATE locales_gameobject SET name_loc2='Archives du Haut-val' WHERE entry=14407
 UPDATE locales_gameobject SET name_loc2='Notes du Haut-val' WHERE entry=144072; -- Name: Highvale Notes
 UPDATE locales_gameobject SET name_loc2='Rapport du Haut-val' WHERE entry=144073; -- Name: Highvale Report
 UPDATE locales_gameobject SET name_loc2='Coffre de Châtiment' WHERE entry=144111; -- Name: Smite's Chest
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=144112; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=144125; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=144126; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=144127; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=144128; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=144129; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=144130; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=144131; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=144132; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=144112; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=144125; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=144126; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=144127; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=144128; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=144129; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=144130; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=144131; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=144132; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=144133; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=144159; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=144159; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Gadgets de Fuseressort' WHERE entry=144162; -- Name: Springspindle's Gadgets
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=144179; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=144179; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=144180; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Epée du roi barbare' WHERE entry=144181; -- Name: Sword of the Barbarian King
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=144570; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Maleterres' WHERE entry=146079; -- Name: Plaguelands
 UPDATE locales_gameobject SET name_loc2='Fossoyeuse' WHERE entry=146080; -- Name: Undercity
 UPDATE locales_gameobject SET name_loc2='Brill' WHERE entry=146081; -- Name: Brill
@@ -3731,28 +4085,35 @@ UPDATE locales_gameobject SET name_loc2='Lumières 2 du Monolithe d\'Equinex' WH
 UPDATE locales_gameobject SET name_loc2='Dernière porte' WHERE entry=146084; -- Name: End Door
 UPDATE locales_gameobject SET name_loc2='Éboulement' WHERE entry=146085; -- Name: Cave In
 UPDATE locales_gameobject SET name_loc2='Éboulement' WHERE entry=146086; -- Name: Cave In
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=146091; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=146088; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=146089; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=146090; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=146091; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Dortoir des sentinelles' WHERE entry=146096; -- Name: Sentinel's Bunkhouse
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=146441; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147036; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147037; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147038; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147039; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147040; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147041; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147042; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147043; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147044; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147045; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147046; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147047; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147048; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147049; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=146441; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147036; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147037; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147038; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147039; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147040; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147041; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147042; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147043; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147044; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147045; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147046; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147047; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147048; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147049; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=147065; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=147078; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=147079; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=147080; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Corne de Margol l\'Enragée' WHERE entry=147136; -- Name: Horn of Margol the Rager
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147279; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147282; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147283; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147284; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147279; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147282; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147283; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147284; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=147285; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=147435; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=147436; -- Name: Bench
@@ -3772,6 +4133,7 @@ UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=147449; -- Name: Benc
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=147450; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Sombrefer' WHERE entry=147516; -- Name: Dark Iron
 UPDATE locales_gameobject SET name_loc2='Sombrefer' WHERE entry=147517; -- Name: Dark Iron
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=147536; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Carcasse de zhévra fraîche' WHERE entry=147537; -- Name: Fresh Zhevra Carcass
 UPDATE locales_gameobject SET name_loc2='Brasero rudimentaire' WHERE entry=147742; -- Name: Crude Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero rudimentaire' WHERE entry=147743; -- Name: Crude Brazier
@@ -3803,10 +4165,10 @@ UPDATE locales_gameobject SET name_loc2='Brasero rudimentaire' WHERE entry=14776
 UPDATE locales_gameobject SET name_loc2='Brasero rudimentaire' WHERE entry=147769; -- Name: Crude Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero rudimentaire' WHERE entry=147770; -- Name: Crude Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero rudimentaire' WHERE entry=147771; -- Name: Crude Brazier
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147786; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147787; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147792; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=147793; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147786; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147787; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147792; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=147793; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=147823; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=147824; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=147825; -- Name: Wooden Chair
@@ -3956,8 +4318,8 @@ UPDATE locales_gameobject SET name_loc2='Statue atal\'ai' WHERE entry=148835; --
 UPDATE locales_gameobject SET name_loc2='Autel d\'Hakkar' WHERE entry=148836; -- Name: Altar of Hakkar
 UPDATE locales_gameobject SET name_loc2='Statue atal\'ai' WHERE entry=148837; -- Name: Atal'ai Statue
 UPDATE locales_gameobject SET name_loc2='Idole d\'Hakkar' WHERE entry=148838; -- Name: Idol of Hakkar
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=148840; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=148841; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=148840; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=148841; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Gemme de mana de Roland' WHERE entry=148842; -- Name: Roland's Mana Gem
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=148843; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=148844; -- Name: Fire
@@ -3995,11 +4357,14 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148886; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148887; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148888; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148889; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148890; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148891; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148892; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148893; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148894; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148895; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148896; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148897; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148898; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148899; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148900; -- Name: Wooden Chair
@@ -4009,6 +4374,8 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148903; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148904; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148905; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148906; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148907; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148908; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148909; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148910; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148911; -- Name: Wooden Chair
@@ -4018,10 +4385,10 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148914; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=148915; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Gong' WHERE entry=148917; -- Name: Gong
 UPDATE locales_gameobject SET name_loc2='Lumière atal\'ai GRANDE (NPD)' WHERE entry=148937; -- Name: Atal'ai Light BIG (DND)
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=148956; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=148957; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=148958; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=148959; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=148956; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=148957; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=148958; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=148959; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=148960; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=148976; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu de la tour' WHERE entry=148996; -- Name: Tower Fire
@@ -4035,7 +4402,7 @@ UPDATE locales_gameobject SET name_loc2='Fumée de la tour' WHERE entry=149021; 
 UPDATE locales_gameobject SET name_loc2='Fumée de la tour' WHERE entry=149022; -- Name: Tower Smoke
 UPDATE locales_gameobject SET name_loc2='Carrière de Gol’Bolar' WHERE entry=149024; -- Name: Gol'Bolar Quarry
 UPDATE locales_gameobject SET name_loc2='Brasero de sentinelle' WHERE entry=149025; -- Name: Sentry Brazier
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=149026; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=149026; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=149027; -- Name: Meat Rack
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=149028; -- Name: Meat Rack
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=149029; -- Name: Cauldron
@@ -4051,10 +4418,10 @@ UPDATE locales_gameobject SET name_loc2='Banc en bois' WHERE entry=149048; -- Na
 UPDATE locales_gameobject SET name_loc2='Banc en bois' WHERE entry=149049; -- Name: Wooden Bench
 UPDATE locales_gameobject SET name_loc2='Banc en bois' WHERE entry=149051; -- Name: Wooden Bench
 UPDATE locales_gameobject SET name_loc2='Lumière de vindicte' WHERE entry=149410; -- Name: Light of Retribution
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=149412; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=149413; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=149417; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=149418; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=149412; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=149413; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=149417; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=149418; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Fumoir à viande' WHERE entry=149419; -- Name: Meat Smoker
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=149423; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=149424; -- Name: Wooden Chair
@@ -4071,6 +4438,7 @@ UPDATE locales_gameobject SET name_loc2='Fournitures de Burbik' WHERE entry=1500
 UPDATE locales_gameobject SET name_loc2='Porte' WHERE entry=150137; -- Name: Door
 UPDATE locales_gameobject SET name_loc2='Porte' WHERE entry=150138; -- Name: Door
 UPDATE locales_gameobject SET name_loc2='Cristal de focalisation des arcanes' WHERE entry=150140; -- Name: Arcane Focusing Crystal
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=150713; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Foyer de l\'idole' WHERE entry=151951; -- Name: Idol Oven Fire
 UPDATE locales_gameobject SET name_loc2='Feu idolâtre de la coupe' WHERE entry=151952; -- Name: Idol Cup Fire
 UPDATE locales_gameobject SET name_loc2='Banc en bois' WHERE entry=151953; -- Name: Wooden Bench
@@ -4102,7 +4470,7 @@ UPDATE locales_gameobject SET name_loc2='Gadgetzan' WHERE entry=151978; -- Name:
 UPDATE locales_gameobject SET name_loc2='Port Gentepression' WHERE entry=151979; -- Name: Steamwheedle Port
 UPDATE locales_gameobject SET name_loc2='Gadgetzan' WHERE entry=151983; -- Name: Gadgetzan
 UPDATE locales_gameobject SET name_loc2='Port Gentepression' WHERE entry=151984; -- Name: Steamwheedle Port
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=152032; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=152032; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Enclume en pierre' WHERE entry=152033; -- Name: Stone Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=152034; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=152035; -- Name: Campfire
@@ -4122,6 +4490,7 @@ UPDATE locales_gameobject SET name_loc2='Focus du sort Kadrak Flag (NPD)' WHERE 
 UPDATE locales_gameobject SET name_loc2='Champignon jacinthe' WHERE entry=152094; -- Name: Hyacinth Mushroom
 UPDATE locales_gameobject SET name_loc2='Lys pétale de lune' WHERE entry=152095; -- Name: Moonpetal Lily
 UPDATE locales_gameobject SET name_loc2='Brasero de Belnistrasz' WHERE entry=152097; -- Name: Belnistrasz's Brazier
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=152324; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=152325; -- Name: Fiery Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=152326; -- Name: Fiery Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=152327; -- Name: Fiery Brazier
@@ -4145,6 +4514,7 @@ UPDATE locales_gameobject SET name_loc2='Désolace' WHERE entry=152586; -- Name:
 UPDATE locales_gameobject SET name_loc2='Mille pointes' WHERE entry=152587; -- Name: Thousand Needles
 UPDATE locales_gameobject SET name_loc2='Ascenseur' WHERE entry=152614; -- Name: Elevator
 UPDATE locales_gameobject SET name_loc2='Butin des Kolkar' WHERE entry=152618; -- Name: Kolkar's Booty
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=152619; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Formation d\'azsharite' WHERE entry=152620; -- Name: Azsharite Formation
 UPDATE locales_gameobject SET name_loc2='Formation d\'azsharite' WHERE entry=152621; -- Name: Azsharite Formation
 UPDATE locales_gameobject SET name_loc2='Formation d\'azsharite' WHERE entry=152622; -- Name: Azsharite Formation
@@ -4152,7 +4522,7 @@ UPDATE locales_gameobject SET name_loc2='Formation d\'azsharite' WHERE entry=152
 UPDATE locales_gameobject SET name_loc2='Equipement de Kim\'jael' WHERE entry=153123; -- Name: Kim'jael's Equipment
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=153124; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=153125; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=153126; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=153126; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Cadavre carbonisé de Sombrefer' WHERE entry=153157; -- Name: Charred Dark Iron Remains
 UPDATE locales_gameobject SET name_loc2='Cadavre mutilé de Sombrefer' WHERE entry=153158; -- Name: Mutilated Dark Iron Remains
 UPDATE locales_gameobject SET name_loc2='Cadavre mutilé de Sombrefer' WHERE entry=153159; -- Name: Mutilated Dark Iron Remains
@@ -4176,7 +4546,7 @@ UPDATE locales_gameobject SET name_loc2='Coffre solide' WHERE entry=153451; -- N
 UPDATE locales_gameobject SET name_loc2='Coffre solide' WHERE entry=153453; -- Name: Solid Chest
 UPDATE locales_gameobject SET name_loc2='Coffre solide' WHERE entry=153454; -- Name: Solid Chest
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=153459; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=153460; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=153460; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Grand coffre solide' WHERE entry=153462; -- Name: Large Solid Chest
 UPDATE locales_gameobject SET name_loc2='Grand coffre solide' WHERE entry=153463; -- Name: Large Solid Chest
 UPDATE locales_gameobject SET name_loc2='Grand coffre solide' WHERE entry=153464; -- Name: Large Solid Chest
@@ -4191,18 +4561,20 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=153516; -- Nam
 UPDATE locales_gameobject SET name_loc2='Relique de Thaurissan' WHERE entry=153556; -- Name: Thaurissan Relic
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=153576; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=153577; -- Name: Cauldron
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=153578; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=153579; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=153580; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=153581; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=153582; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=153583; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=153584; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=153695; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=153716; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=153723; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=153716; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=153723; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Boue luisante' WHERE entry=154357; -- Name: Glinting Mud
 UPDATE locales_gameobject SET name_loc2='Avis de recherche' WHERE entry=156561; -- Name: Wanted Poster
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=157636; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=157637; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=157637; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Enclos' WHERE entry=157816; -- Name: Holding Pen
 UPDATE locales_gameobject SET name_loc2='Enclos' WHERE entry=157817; -- Name: Holding Pen
 UPDATE locales_gameobject SET name_loc2='Enclos' WHERE entry=157818; -- Name: Holding Pen
@@ -4214,7 +4586,7 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=157968; -- Nam
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=157969; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158545; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158546; -- Name: Bench
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=158547; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=158547; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158548; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158549; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158550; -- Name: Bench
@@ -4238,40 +4610,40 @@ UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158567; -- Name: Benc
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158568; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158569; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158570; -- Name: Bench
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=158571; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=158571; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158572; -- Name: Bench
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=158576; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=158579; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=158580; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=158581; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=158582; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=158576; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=158579; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=158580; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=158581; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=158582; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158583; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158584; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158585; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158599; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158608; -- Name: Bench
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=158674; -- Name: Bench
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=158678; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=158679; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=158680; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=158678; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=158679; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=158680; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=160409; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=160410; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=160410; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Fourneau' WHERE entry=160411; -- Name: Stove
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=160413; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=160414; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=160415; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=160416; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=160418; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=160419; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=160419; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Fourneau' WHERE entry=160420; -- Name: Stove
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=160421; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=160426; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=160426; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=160436; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=160437; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=160438; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=160439; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=160440; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil de bois' WHERE entry=160441; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=160441; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=160442; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=160443; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=160444; -- Name: Wooden Chair
@@ -4306,10 +4678,10 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=161476; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=161477; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=161478; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=161479; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil de bois' WHERE entry=161480; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=161480; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=161487; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=161488; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=161489; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=161488; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=161489; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Coffre secret' WHERE entry=161495; -- Name: Secret Safe
 UPDATE locales_gameobject SET name_loc2='Un petit paquet' WHERE entry=161504; -- Name: A Small Pack
 UPDATE locales_gameobject SET name_loc2='Une épave de radeau' WHERE entry=161505; -- Name: A Wrecked Raft
@@ -4326,8 +4698,9 @@ UPDATE locales_gameobject SET name_loc2='Porte de la carrière' WHERE entry=1615
 UPDATE locales_gameobject SET name_loc2='Récolte de Milly' WHERE entry=161557; -- Name: Milly's Harvest
 UPDATE locales_gameobject SET name_loc2='Seau d\'outils' WHERE entry=161752; -- Name: Tool Bucket
 UPDATE locales_gameobject SET name_loc2='Samophlange' WHERE entry=162024; -- Name: Samophlange
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=163645; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=164618; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=163313; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=163645; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=164618; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Piège d\'immolation' WHERE entry=164638; -- Name: Immolation Trap
 UPDATE locales_gameobject SET name_loc2='Piège de glace' WHERE entry=164639; -- Name: Frost Trap
 UPDATE locales_gameobject SET name_loc2='Cristal de puissance bleu' WHERE entry=164658; -- Name: Blue Power Crystal
@@ -4338,7 +4711,10 @@ UPDATE locales_gameobject SET name_loc2='Boîtes d\'équipement' WHERE entry=164
 UPDATE locales_gameobject SET name_loc2='Souillefer' WHERE entry=164688; -- Name: Ironfel
 UPDATE locales_gameobject SET name_loc2='Monument de Franclorn Le Forgebusier' WHERE entry=164689; -- Name: Monument of Franclorn Forgewright
 UPDATE locales_gameobject SET name_loc2='Bannière de Krom\'zar' WHERE entry=164690; -- Name: Krom'zar's Banner
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=164704; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=164702; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=164703; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=164704; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=164705; -- Name: Blazing Fire
 UPDATE locales_gameobject SET name_loc2='Porte Epine-de-dragon' WHERE entry=164725; -- Name: Dragonspine Door
 UPDATE locales_gameobject SET name_loc2='Doodad_PortcullisActive01' WHERE entry=164726; -- Name: Doodad_PortcullisActive01
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=164728; -- Name: Campfire
@@ -4361,7 +4737,7 @@ UPDATE locales_gameobject SET name_loc2='Aura 1 - Linken' WHERE entry=164826; --
 UPDATE locales_gameobject SET name_loc2='Aura 2 - Linken' WHERE entry=164827; -- Name: Aura 2 - Linken
 UPDATE locales_gameobject SET name_loc2='Cristal rouge JD 1' WHERE entry=164838; -- Name: JD Red Crystal 1
 UPDATE locales_gameobject SET name_loc2='Piège explosif' WHERE entry=164839; -- Name: Explosive Trap
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=164840; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=164840; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='AVIS DE RECHERCHE' WHERE entry=164867; -- Name: WANTED
 UPDATE locales_gameobject SET name_loc2='TUER À VUE' WHERE entry=164868; -- Name: KILL ON SIGHT
 UPDATE locales_gameobject SET name_loc2='Calice spectral' WHERE entry=164869; -- Name: Spectral Chalice
@@ -4409,15 +4785,15 @@ UPDATE locales_gameobject SET name_loc2='Chaise de monastère' WHERE entry=16562
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165622; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165623; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165624; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=165625; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=165626; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165625; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165626; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165627; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165628; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=165629; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165629; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165630; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165631; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=165632; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Fauteuil' WHERE entry=165633; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165632; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=165633; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Table de cuisson' WHERE entry=165637; -- Name: Table Cooker
 UPDATE locales_gameobject SET name_loc2='Gisement de sombrefer' WHERE entry=165658; -- Name: Dark Iron Deposit
 UPDATE locales_gameobject SET name_loc2='Chope de bière sombrefer' WHERE entry=165738; -- Name: Dark Iron Ale Mug
@@ -4436,14 +4812,14 @@ UPDATE locales_gameobject SET name_loc2='Brasero rudimentaire' WHERE entry=16575
 UPDATE locales_gameobject SET name_loc2='Brasero rudimentaire' WHERE entry=165751; -- Name: Crude Brazier
 UPDATE locales_gameobject SET name_loc2='Carcasse fraîche de battrodon' WHERE entry=166863; -- Name: Fresh Threshadon Carcass
 UPDATE locales_gameobject SET name_loc2='Caisse de fournitures' WHERE entry=166872; -- Name: Supply Crate
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=167284; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=167285; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=167286; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=167287; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=167288; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=167289; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=167290; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=167291; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=167284; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=167285; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=167286; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=167287; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=167288; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=167289; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=167290; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=167291; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Carcasse préservée de battrodon' WHERE entry=169216; -- Name: Preserved Threshadon Carcass
 UPDATE locales_gameobject SET name_loc2='Plateau d\'Un\'Goro' WHERE entry=169217; -- Name: Un'Goro Flat Rock
 UPDATE locales_gameobject SET name_loc2='Coffre des sept' WHERE entry=169243; -- Name: Chest of The Seven
@@ -4469,6 +4845,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169282; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169283; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169284; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169285; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169286; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169287; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169288; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169289; -- Name: Wooden Chair
@@ -4477,9 +4854,9 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169291; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169292; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169293; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Tablette des Sept' WHERE entry=169294; -- Name: Tablet of the Seven
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=169966; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=169966; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=169967; -- Name: Booty Bay Blacksmith
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=169968; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=169968; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=169969; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169996; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169997; -- Name: Wooden Chair
@@ -4488,6 +4865,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=169999; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170000; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170001; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170002; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170033; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170035; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170036; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170037; -- Name: Wooden Chair
@@ -4500,6 +4878,9 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170043; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170044; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170045; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170046; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170047; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170053; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170054; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170055; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170056; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170057; -- Name: Wooden Chair
@@ -4512,6 +4893,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170063; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170064; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170065; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170066; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170067; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=170073; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=170347; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=170348; -- Name: Chair
@@ -4670,48 +5052,50 @@ UPDATE locales_gameobject SET name_loc2='Doodad_DarkIronDwarfRune_G01' WHERE ent
 UPDATE locales_gameobject SET name_loc2='Trône impérial' WHERE entry=170592; -- Name: Imperial Throne
 UPDATE locales_gameobject SET name_loc2='Tonneau de poudre sombrefer' WHERE entry=170607; -- Name: Dark Iron Keg Shotgun
 UPDATE locales_gameobject SET name_loc2='Brikabrok' WHERE entry=171524; -- Name: Tinker Town
-UPDATE locales_gameobject SET name_loc2='La Grande forge' WHERE entry=171525; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=171525; -- Name: The Great Forge
 UPDATE locales_gameobject SET name_loc2='Porte principale de Forgefer' WHERE entry=171526; -- Name: Ironforge Main Gate
 UPDATE locales_gameobject SET name_loc2='Brikabrok' WHERE entry=171527; -- Name: Tinker Town
 UPDATE locales_gameobject SET name_loc2='Brikabrok' WHERE entry=171528; -- Name: Tinker Town
-UPDATE locales_gameobject SET name_loc2='La Grande forge' WHERE entry=171529; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc2='La caverne Lugubre' WHERE entry=171530; -- Name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=171529; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='La caverne lugubre' WHERE entry=171530; -- Name: The Forlorn Cavern
 UPDATE locales_gameobject SET name_loc2='La Bibliothèque' WHERE entry=171531; -- Name: The Library
-UPDATE locales_gameobject SET name_loc2='Hall des Explorateurs' WHERE entry=171532; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=171532; -- Name: Hall of Explorers
 UPDATE locales_gameobject SET name_loc2='La Garde militaire' WHERE entry=171533; -- Name: The Military Ward
 UPDATE locales_gameobject SET name_loc2='La Garde mystique' WHERE entry=171534; -- Name: The Mystic Ward
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171535; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171536; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171537; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171538; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171539; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171540; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171541; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171542; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171543; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171544; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171545; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171546; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171547; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171548; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171549; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171550; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171551; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171535; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171536; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171537; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171538; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171539; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171540; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171541; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171542; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171543; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171544; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171545; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171546; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171547; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171548; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171549; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171550; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171551; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Charbons rougeoyants' WHERE entry=171552; -- Name: Hot Coals
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171553; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171554; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171555; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=171556; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171557; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171558; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171559; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171560; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171561; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171562; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171563; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171564; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171565; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171566; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171553; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171554; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171555; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=171556; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171557; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171558; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171559; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171560; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171561; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171562; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171563; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171564; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171565; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171566; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=171567; -- Name: Stone Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=171568; -- Name: Stone Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171569; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171570; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171571; -- Name: Wooden Chair
@@ -4730,8 +5114,8 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171583; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171584; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171585; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171586; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171587; -- Name: Dwarven High Back Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171588; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171587; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171588; -- Name: Dwarven High Back Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171589; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171590; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171591; -- Name: Wooden Chair
@@ -4743,8 +5127,8 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171596; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171597; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171598; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171599; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171600; -- Name: Dwarven High Back Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171601; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171600; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171601; -- Name: Dwarven High Back Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171602; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171603; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171604; -- Name: Wooden Chair
@@ -4758,38 +5142,44 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171611; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171612; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171613; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171614; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171615; -- Name: Dwarven High Back Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171616; -- Name: Dwarven High Back Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171617; -- Name: Dwarven High Back Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171618; -- Name: Dwarven High Back Chair
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171623; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171624; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171625; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171626; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171627; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171628; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171615; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171616; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171617; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171618; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171619; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171620; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171621; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171622; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171623; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171624; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171625; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171626; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171627; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171628; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171629; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171630; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171631; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171632; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171633; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171634; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171635; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171636; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171638; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171639; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171640; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171641; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171642; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171643; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171644; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171645; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171633; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171634; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171635; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171636; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171638; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171639; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171640; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171641; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171642; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171643; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171644; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171645; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171646; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171647; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171648; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171649; -- Name: Dwarven High Back Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171650; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171651; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171652; -- Name: Dwarven High Back Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171653; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171652; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171653; -- Name: Dwarven High Back Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171654; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171655; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171656; -- Name: Wooden Chair
@@ -4808,10 +5198,14 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171670; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171671; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171672; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171673; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=171674; -- Name: Stone Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=171675; -- Name: Stone Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=171676; -- Name: Stone Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=171677; -- Name: Stone Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171678; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171679; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171680; -- Name: Dwarven High Back Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171681; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171680; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171681; -- Name: Dwarven High Back Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171682; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171683; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171684; -- Name: Wooden Chair
@@ -4822,39 +5216,43 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171688; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171689; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171690; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171691; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171692; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171693; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171694; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171695; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171696; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171697; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171698; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=171699; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171700; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171701; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171702; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171703; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171692; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171693; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171694; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171695; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171696; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171697; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171698; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=171699; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171700; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171701; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171702; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171703; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Armurerie de Forgefer' WHERE entry=171704; -- Name: Ironforge Armory
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171705; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171706; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171707; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171705; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171706; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171707; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='La Garde militaire' WHERE entry=171708; -- Name: The Military Ward
 UPDATE locales_gameobject SET name_loc2='Le Haut Siège' WHERE entry=171709; -- Name: The High Seat
-UPDATE locales_gameobject SET name_loc2='Hall des Explorateurs' WHERE entry=171710; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=171710; -- Name: Hall of Explorers
 UPDATE locales_gameobject SET name_loc2='Le Haut Siège' WHERE entry=171711; -- Name: The High Seat
-UPDATE locales_gameobject SET name_loc2='Hall des Explorateurs' WHERE entry=171712; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=171713; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=171714; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Hall des explorateurs' WHERE entry=171712; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=171713; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=171714; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='La Grande Enclume' WHERE entry=171715; -- Name: The Great Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=171716; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=171717; -- Name: Forge
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=171718; -- Name: Stone Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=171719; -- Name: Stone Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=171720; -- Name: Stone Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en pierre' WHERE entry=171721; -- Name: Stone Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171722; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171723; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171724; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171725; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171726; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171727; -- Name: Dwarven High Back Chair
-UPDATE locales_gameobject SET name_loc2='Chaise de nains à haut dossier' WHERE entry=171728; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171727; -- Name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc2='Haute-chaise naine' WHERE entry=171728; -- Name: Dwarven High Back Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171729; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171730; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171731; -- Name: Wooden Chair
@@ -4876,19 +5274,26 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171746; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171747; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Potions et mixtures de Baiedesbulles' WHERE entry=171748; -- Name: Berryfizz's Potions and Mixed Drinks
 UPDATE locales_gameobject SET name_loc2='Les choses qui font boum !' WHERE entry=171749; -- Name: Things That Go Boom!
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171750; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171751; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=171752; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171753; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171754; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171755; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171756; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171764; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171765; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='La Grande forge' WHERE entry=171766; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171767; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171768; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=171769; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171750; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171751; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=171752; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171753; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171754; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171755; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171756; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171757; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171758; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171759; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171760; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171761; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171762; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171763; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171764; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171765; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=171766; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171767; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171768; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=171769; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Composants de Longuebaie' WHERE entry=171770; -- Name: Longberry's Reagents
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171771; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=171772; -- Name: Wooden Chair
@@ -4901,21 +5306,22 @@ UPDATE locales_gameobject SET name_loc2='Fleur-de-chant corrompue' WHERE entry=1
 UPDATE locales_gameobject SET name_loc2='Tonneau piège' WHERE entry=171941; -- Name: Keg Trap
 UPDATE locales_gameobject SET name_loc2='Fleur-de-chant corrompue' WHERE entry=171942; -- Name: Corrupted Songflower
 UPDATE locales_gameobject SET name_loc2='L\'Enclume noire' WHERE entry=172911; -- Name: The Black Anvil
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172941; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172942; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172944; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172945; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172946; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172947; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172948; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172949; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172950; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172951; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172952; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172953; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172954; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172955; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=172956; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172941; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172942; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172943; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172944; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172945; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172946; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172947; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172948; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172949; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172950; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172951; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172952; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172953; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172954; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172955; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172956; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Vallée de la Sagesse' WHERE entry=172957; -- Name: Valley of Wisdom
 UPDATE locales_gameobject SET name_loc2='Vallée de l’Honneur' WHERE entry=172958; -- Name: Valley of Honor
 UPDATE locales_gameobject SET name_loc2='La Herse' WHERE entry=172959; -- Name: The Drag
@@ -4957,78 +5363,85 @@ UPDATE locales_gameobject SET name_loc2='Porte principale d\'Orgrimmar' WHERE en
 UPDATE locales_gameobject SET name_loc2='Vallée des Esprits' WHERE entry=172995; -- Name: Valley of Spirits
 UPDATE locales_gameobject SET name_loc2='Vallée de la Force' WHERE entry=172996; -- Name: Valley of Strength
 UPDATE locales_gameobject SET name_loc2='Porte principale d\'Orgrimmar' WHERE entry=172997; -- Name: Orgrimmar Main Gate
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172998; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=172999; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173000; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173001; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173002; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173003; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173004; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Composants Furie-des-Esprits' WHERE entry=173006; -- Name: Spiritfury Reagents
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173007; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173008; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173009; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173010; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173011; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173012; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173013; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173007; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173008; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173009; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173010; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173011; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173012; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173013; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=173014; -- Name: Meat Rack
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=173015; -- Name: Meat Rack
 UPDATE locales_gameobject SET name_loc2='Fosse à feu de Borstan' WHERE entry=173016; -- Name: Borstan's Firepit
 UPDATE locales_gameobject SET name_loc2='Equipement des voyageurs de Gotri' WHERE entry=173017; -- Name: Gotri's Travelling Gear
 UPDATE locales_gameobject SET name_loc2='Les étoffes de Magar' WHERE entry=173018; -- Name: Magar's Cloth Goods
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173019; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173019; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Arboretum de Jandi' WHERE entry=173020; -- Name: Jandi's Arboretum
 UPDATE locales_gameobject SET name_loc2='Chez Yelmak. Alchimie et potions' WHERE entry=173021; -- Name: Yelmak's Alchemy and Potions
 UPDATE locales_gameobject SET name_loc2='Runes de Godan' WHERE entry=173022; -- Name: Godan's Runeworks
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173023; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173023; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Récupération Droffers et fils' WHERE entry=173024; -- Name: Droffers And Sons Salvage
 UPDATE locales_gameobject SET name_loc2='Fruits importés de Strangleronce' WHERE entry=173025; -- Name: Stranglethorn Imported Fruits
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=173026; -- Name: Meat Rack
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173027; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173028; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173029; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173030; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173031; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173032; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173033; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173034; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173035; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173036; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173037; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173038; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173039; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173040; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173041; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173042; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173043; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173027; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173028; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173029; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173030; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173031; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173032; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173033; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173034; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173035; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173036; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173037; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173038; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173039; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173040; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173041; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173042; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173043; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Artisans du cuir de kodo' WHERE entry=173044; -- Name: Kodohide Leatherworkers
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173045; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173046; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=173047; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173048; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173049; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173050; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173051; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173052; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173053; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173054; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173055; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173045; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173046; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=173047; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173048; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173049; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173050; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173051; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173052; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173053; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173054; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173055; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Marché d\'Asoran' WHERE entry=173056; -- Name: Asoran's Market
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173057; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173058; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173059; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173060; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173061; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173062; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173057; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173058; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173059; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173060; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173061; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173062; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=173063; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=173064; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=173065; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=173066; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173067; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173068; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173069; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173070; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173071; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173072; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173073; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173074; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173075; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173076; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173077; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=173065; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=173066; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173067; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173068; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173069; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173070; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173071; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173072; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173073; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173074; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173075; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173076; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173077; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Armes de légende' WHERE entry=173078; -- Name: Arms of Legend
 UPDATE locales_gameobject SET name_loc2='Harnais de Kiro' WHERE entry=173079; -- Name: Kiro's Harnesses
 UPDATE locales_gameobject SET name_loc2='Fabricant d\'arcs d\'Orgrimmar' WHERE entry=173080; -- Name: Orgrimmar Bowyer
@@ -5038,143 +5451,150 @@ UPDATE locales_gameobject SET name_loc2='L\'Enclume ardente' WHERE entry=173083;
 UPDATE locales_gameobject SET name_loc2='Hall des Braves' WHERE entry=173084; -- Name: Hall of the Brave
 UPDATE locales_gameobject SET name_loc2='Hall du Chasseur' WHERE entry=173085; -- Name: Hunter's Hall
 UPDATE locales_gameobject SET name_loc2='Articles de pêche de Lumak' WHERE entry=173086; -- Name: Lumak's Fishing
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173087; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173088; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173089; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173090; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173091; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173092; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173093; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=173094; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173087; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173088; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173089; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173090; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173091; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173092; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173093; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=173094; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=173095; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173096; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173097; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173098; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173099; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173100; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173101; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173102; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173103; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173104; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173105; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173106; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173096; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173097; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173098; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173099; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173100; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173101; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173102; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173103; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173104; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173105; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173106; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Marmite orque' WHERE entry=173107; -- Name: Orc Cooker
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=173108; -- Name: Meat Rack
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=173109; -- Name: Meat Rack
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173110; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173111; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173112; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173113; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173114; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173115; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173116; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173117; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173118; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173119; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173120; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173121; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173122; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173123; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173125; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173127; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173128; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173129; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173130; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173131; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173132; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173133; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173134; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173135; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173136; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173137; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173138; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173139; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173140; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173141; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173142; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173143; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173144; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173145; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173146; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173147; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173148; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173149; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173150; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173151; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173152; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173153; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173154; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173155; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173156; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173110; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173111; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173112; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173113; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173114; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173115; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173116; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173117; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173118; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173119; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173120; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173121; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173122; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173123; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173124; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173125; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173126; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173127; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173128; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173129; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173130; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173131; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173132; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173133; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173134; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173135; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173136; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173137; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173138; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173139; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173140; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173141; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173142; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173143; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173144; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173145; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173146; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173147; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173148; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173149; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173150; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173151; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173152; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173153; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173154; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173155; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173156; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Bâtons Fureur-du-ciel' WHERE entry=173157; -- Name: Skyfury Staves
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173158; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173159; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173158; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173159; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Autel des esprits' WHERE entry=173160; -- Name: Spirit Lodge
 UPDATE locales_gameobject SET name_loc2='Pavillon de Buissombre' WHERE entry=173161; -- Name: Darkbriar Lodge
 UPDATE locales_gameobject SET name_loc2='La survie du plus fort' WHERE entry=173162; -- Name: Survival of the Fittest
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173163; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173164; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173165; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173166; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173167; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173163; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173164; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173165; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173166; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173167; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='La Lente lame' WHERE entry=173168; -- Name: The Slow Blade
 UPDATE locales_gameobject SET name_loc2='Poisons de Rekkul' WHERE entry=173169; -- Name: Rekkul's Poisons
 UPDATE locales_gameobject SET name_loc2='Confrérie Ombrevive' WHERE entry=173170; -- Name: Shadowswift Brotherhood
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173171; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173172; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173171; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173172; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Composants d’Ombregouffre' WHERE entry=173173; -- Name: Shadowdeep Reagents
 UPDATE locales_gameobject SET name_loc2='Champignons de la terre noire' WHERE entry=173174; -- Name: Dark Earth Fungus and Mushrooms
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173175; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173176; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173175; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173176; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Bâtons et baguettes en bois de fer' WHERE entry=173177; -- Name: Ironwood Staves and Wands
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173178; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173179; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173180; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173181; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173182; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173183; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173184; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173185; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173186; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173187; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173188; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173189; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173190; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173191; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173192; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173193; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173194; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173195; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173196; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173197; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173198; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173199; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173200; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173178; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173179; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173180; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173181; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173182; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173183; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173184; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173185; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173186; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173187; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173188; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173189; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173190; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173191; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173192; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173193; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173194; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173195; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173196; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173197; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173198; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173199; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173200; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173201; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Armures de cuir et d\'acier de Soran' WHERE entry=173202; -- Name: Soran's Leather and Steel Armory
 UPDATE locales_gameobject SET name_loc2='Magasin général d\'Orgrimmar' WHERE entry=173203; -- Name: Orgrimmar General Store
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173204; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173205; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173206; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173207; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173204; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173205; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173206; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173207; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=173208; -- Name: Meat Rack
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=173209; -- Name: Meat Rack
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173210; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173211; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173212; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173213; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173214; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173210; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173211; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173212; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173213; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173214; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='La hache brisée' WHERE entry=173215; -- Name: The Shattered Axe
 UPDATE locales_gameobject SET name_loc2='Banque d\'Orgrimmar' WHERE entry=173216; -- Name: Bank of Orgrimmar
 UPDATE locales_gameobject SET name_loc2='La gargote' WHERE entry=173217; -- Name: The Chophouse
 UPDATE locales_gameobject SET name_loc2='Espingoles imports' WHERE entry=173218; -- Name: Boomstick Imports
 UPDATE locales_gameobject SET name_loc2='La Tour des cieux' WHERE entry=173219; -- Name: The Skytower
 UPDATE locales_gameobject SET name_loc2='Ambassade de la Horde' WHERE entry=173220; -- Name: Horde Embassy
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=173221; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=173221; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Hôtel des ventes d\'Orgrimmar' WHERE entry=173222; -- Name: Orgrimmar Auction House
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173223; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173224; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173225; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=173226; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173223; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173224; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173225; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173226; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173228; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173229; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173230; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=173231; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Plans de forgeron' WHERE entry=173232; -- Name: Blacksmithing Plans
 UPDATE locales_gameobject SET name_loc2='Plans de forgeron' WHERE entry=173234; -- Name: Blacksmithing Plans
 UPDATE locales_gameobject SET name_loc2='Toilettes en bois' WHERE entry=173265; -- Name: Wooden Outhouse
@@ -5372,8 +5792,8 @@ UPDATE locales_gameobject SET name_loc2='Fleur-de-vent corrompue' WHERE entry=17
 UPDATE locales_gameobject SET name_loc2='Fleur-de-chant corrompue' WHERE entry=174712; -- Name: Corrupted Songflower
 UPDATE locales_gameobject SET name_loc2='Fleur-de-chant corrompue' WHERE entry=174713; -- Name: Corrupted Songflower
 UPDATE locales_gameobject SET name_loc2='Caisse endommagée' WHERE entry=174728; -- Name: Damaged Crate
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=174729; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=174730; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=174729; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=174730; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Brasero d\'Ombreforge' WHERE entry=174744; -- Name: Shadowforge Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero d\'Ombreforge' WHERE entry=174745; -- Name: Shadowforge Brazier
 UPDATE locales_gameobject SET name_loc2='Note gravée' WHERE entry=174746; -- Name: Etched Note
@@ -5384,7 +5804,7 @@ UPDATE locales_gameobject SET name_loc2='Poste de garde d’Austrivage' WHERE en
 UPDATE locales_gameobject SET name_loc2='Poste de garde de Pennelune' WHERE entry=174795; -- Name: Auberdine Moonwell
 UPDATE locales_gameobject SET name_loc2='Poste de garde de Theramore' WHERE entry=174796; -- Name: Sandsorrow Watch Water Hole
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=174846; -- Name: Fierce Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=174847; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=174847; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Equipement de test' WHERE entry=174848; -- Name: Testing Equipment
 UPDATE locales_gameobject SET name_loc2='Fournitures générales de Jazzik' WHERE entry=174857; -- Name: Jazzik's General Goods
 UPDATE locales_gameobject SET name_loc2='Armes importées de Ferronzar' WHERE entry=174858; -- Name: Ironzar's Imported Weaponry
@@ -5447,6 +5867,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=174942; -- Name: Ch
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=174943; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=174944; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=174945; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=174946; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Braises ardentes' WHERE entry=174953; -- Name: Burning Embers
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=174954; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=174955; -- Name: Wooden Chair
@@ -5462,6 +5883,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=174964; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=174965; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=174966; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=174967; -- Name: Wooden Chair
+UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=174968; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=174974; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=174975; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=174976; -- Name: Wooden Chair
@@ -5511,16 +5933,16 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=175027; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=175028; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=175029; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=175030; -- Name: Wooden Chair
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=175075; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=175076; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=175078; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175075; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175076; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=175078; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Zeppelin (L\'Aigle de fer)' WHERE entry=175080; -- Name: Grom'Gol Base Camp - Orgrimmar
 UPDATE locales_gameobject SET name_loc2='Le Brille-o-Matic 5200' WHERE entry=175084; -- Name: The Sparklematic 5200
 UPDATE locales_gameobject SET name_loc2='Le Brille-o-Matic 5200' WHERE entry=175085; -- Name: The Sparklematic 5200
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175104; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Œuf de la colonie' WHERE entry=175124; -- Name: Rookery Egg
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=175144; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=175145; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=175145; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Brasero de cuisine' WHERE entry=175146; -- Name: Cooking Brazier
 UPDATE locales_gameobject SET name_loc2='Doodad_UndeadCampFire25' WHERE entry=175148; -- Name: Doodad_UndeadCampFire25
 UPDATE locales_gameobject SET name_loc2='Doodad_GeneralMedChair02' WHERE entry=175149; -- Name: Doodad_GeneralMedChair02
@@ -5544,7 +5966,10 @@ UPDATE locales_gameobject SET name_loc2='Rune de la salle 5' WHERE entry=175198;
 UPDATE locales_gameobject SET name_loc2='Rune de la salle 2' WHERE entry=175199; -- Name: Room 2 Rune
 UPDATE locales_gameobject SET name_loc2='Rune de la salle 4' WHERE entry=175200; -- Name: Room 4 Rune
 UPDATE locales_gameobject SET name_loc2='Créature marine échouée' WHERE entry=175207; -- Name: Beached Sea Creature
+UPDATE locales_gameobject SET name_loc2='Créature marine échouée' WHERE entry=175226; -- Name: Beached Sea Creature
 UPDATE locales_gameobject SET name_loc2='Créature marine échouée' WHERE entry=175227; -- Name: Beached Sea Creature
+UPDATE locales_gameobject SET name_loc2='Créature marine échouée' WHERE entry=175230; -- Name: Beached Sea Creature
+UPDATE locales_gameobject SET name_loc2='Créature marine échouée' WHERE entry=175233; -- Name: Beached Sea Creature
 UPDATE locales_gameobject SET name_loc2='Prophète ardent Entrée' WHERE entry=175244; -- Name: Emberseer In
 UPDATE locales_gameobject SET name_loc2='Flamme du père' WHERE entry=175245; -- Name: Father Flame
 UPDATE locales_gameobject SET name_loc2='Cage de Kibler' WHERE entry=175246; -- Name: Kibler's Cage
@@ -5580,19 +6005,19 @@ UPDATE locales_gameobject SET name_loc2='Composants d’Ombregouffre' WHERE entr
 UPDATE locales_gameobject SET name_loc2='Champignons de la terre noire' WHERE entry=175308; -- Name: Doodad_OrcSign_DarkEarth
 UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=175310; -- Name: Doodad_MediumBrazierPurple13
 UPDATE locales_gameobject SET name_loc2='Bâtons et baguettes en bois de fer' WHERE entry=175311; -- Name: Doodad_OrcSign_IronwoodStavesandWands
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=175312; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=175313; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=175314; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=175315; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=175316; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=175317; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=175318; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=175312; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=175313; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=175314; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=175315; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=175316; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=175317; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=175318; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Enclave de Sombrefeu' WHERE entry=175319; -- Name: Darkfire Enclave
 UPDATE locales_gameobject SET name_loc2='Sceau d\'ascension brut' WHERE entry=175321; -- Name: Unforged Seal of Ascension
 UPDATE locales_gameobject SET name_loc2='Sceau d\'ascension forgé' WHERE entry=175322; -- Name: Forged Seal of Ascension
 UPDATE locales_gameobject SET name_loc2='Eclats cognegivre' WHERE entry=175324; -- Name: Frostmaul Shards
 UPDATE locales_gameobject SET name_loc2='Affaires de Bijou' WHERE entry=175334; -- Name: Bijou's Belongings
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=175335; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=175335; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Nourriture purifiée' WHERE entry=175336; -- Name: Purified Food
 UPDATE locales_gameobject SET name_loc2='Doodad_SmallPortcullis04' WHERE entry=175350; -- Name: Doodad_SmallPortcullis04
 UPDATE locales_gameobject SET name_loc2='Doodad_SmallPortcullis03' WHERE entry=175351; -- Name: Doodad_SmallPortcullis03
@@ -5617,20 +6042,21 @@ UPDATE locales_gameobject SET name_loc2='Doodad_ZigguratDoor02' WHERE entry=1753
 UPDATE locales_gameobject SET name_loc2='Doodad_ZigguratDoor01' WHERE entry=175380; -- Name: Doodad_ZigguratDoor01
 UPDATE locales_gameobject SET name_loc2='Doodad_ZigguratDoor03' WHERE entry=175381; -- Name: Doodad_ZigguratDoor03
 UPDATE locales_gameobject SET name_loc2='Coffret de Frèteruine' WHERE entry=175382; -- Name: Doomrigger's Coffer
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=175383; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=175383; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Œuf de wyverne de Haut-Perchoir' WHERE entry=175384; -- Name: Highperch Wyvern Egg
 UPDATE locales_gameobject SET name_loc2='Tablette de Sombrepierre' WHERE entry=175385; -- Name: Darkstone Tablet
 UPDATE locales_gameobject SET name_loc2='Riche filon de thorium' WHERE entry=175404; -- Name: Rich Thorium Vein
 UPDATE locales_gameobject SET name_loc2='Doodad_ZigguratDoor04' WHERE entry=175405; -- Name: Doodad_ZigguratDoor04
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=175406; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Plume de chouettard lunaire' WHERE entry=175407; -- Name: Moontouched Feather
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=175424; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=175425; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=175426; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=175427; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=175428; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=175429; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=175430; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=175431; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175424; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175425; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175426; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175427; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175428; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175429; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175430; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175431; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Allée du Festival' WHERE entry=175433; -- Name: Festival Lane
 UPDATE locales_gameobject SET name_loc2='Place des Croisés' WHERE entry=175434; -- Name: Crusaders' Square
 UPDATE locales_gameobject SET name_loc2='Place du Roi' WHERE entry=175435; -- Name: King's Square
@@ -5695,6 +6121,18 @@ UPDATE locales_gameobject SET name_loc2='Chariot de Jaron' WHERE entry=175586; -
 UPDATE locales_gameobject SET name_loc2='Caisse endommagée' WHERE entry=175587; -- Name: Damaged Crate
 UPDATE locales_gameobject SET name_loc2='Œuf d\'araignée du pic' WHERE entry=175588; -- Name: Spire Spider Egg
 UPDATE locales_gameobject SET name_loc2='Défi à Urok Piège' WHERE entry=175589; -- Name: Challenge to Urok Trap
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=175591; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=175592; -- Name: Cooking Fire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175593; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=175594; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175595; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175597; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175598; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=175600; -- Name: Cooking Fire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=175602; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175603; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=175604; -- Name: Cooking Fire
+UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=175605; -- Name: Cooking Fire
 UPDATE locales_gameobject SET name_loc2='Œuf d\'araignée du pic' WHERE entry=175606; -- Name: Spire Spider Egg
 UPDATE locales_gameobject SET name_loc2='Cadavre de nain sombrefer' WHERE entry=175607; -- Name: Dark Iron Dwarf Corpse
 UPDATE locales_gameobject SET name_loc2='Cadavre de nain sombrefer' WHERE entry=175608; -- Name: Dark Iron Dwarf Corpse
@@ -5713,12 +6151,21 @@ UPDATE locales_gameobject SET name_loc2='Porte de fer' WHERE entry=175620; -- Na
 UPDATE locales_gameobject SET name_loc2='Autel des offrandes d\'Urok' WHERE entry=175621; -- Name: Urok's Tribute Pile
 UPDATE locales_gameobject SET name_loc2='Fournitures de Jaron' WHERE entry=175628; -- Name: Jaron's Supplies
 UPDATE locales_gameobject SET name_loc2='Fournitures de Jaron' WHERE entry=175629; -- Name: Jaron's Supplies
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175630; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175631; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175632; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='L\'armure de Mannoroth' WHERE entry=175658; -- Name: The Armor of Mannoroth
 UPDATE locales_gameobject SET name_loc2='Ci-gît le roi Terenas Menethil II' WHERE entry=175659; -- Name: Here Lies King Terenas Menethil II
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175666; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=175667; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175669; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Petit feu' WHERE entry=175670; -- Name: Small Fire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=175671; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175672; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175673; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=175675; -- Name: Cooking Fire
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=175677; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=175678; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Le crâne de Tyrannistrasz' WHERE entry=175679; -- Name: The Skull of Tyrannistrasz
 UPDATE locales_gameobject SET name_loc2='Œuf fossilisé' WHERE entry=175680; -- Name: Fossilized Egg
 UPDATE locales_gameobject SET name_loc2='Serre de Roc' WHERE entry=175681; -- Name: Roc Talon
@@ -5753,8 +6200,8 @@ UPDATE locales_gameobject SET name_loc2='La guerre des Trois marteaux' WHERE ent
 UPDATE locales_gameobject SET name_loc2='Le dernier gardien' WHERE entry=175740; -- Name: The Last Guardian
 UPDATE locales_gameobject SET name_loc2='Kil\'jaeden et le Pacte des ombres' WHERE entry=175741; -- Name: Kil'jaeden and the Shadow Pact
 UPDATE locales_gameobject SET name_loc2='La montée de la Horde' WHERE entry=175742; -- Name: Rise of the Horde
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=175743; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=175744; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=175743; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=175744; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='La porte des Ténèbres et la chute de Hurlevent' WHERE entry=175745; -- Name: The Dark Portal and the Fall of Stormwind
 UPDATE locales_gameobject SET name_loc2='L\'Alliance de Lordaeron' WHERE entry=175746; -- Name: The Alliance of Lordaeron
 UPDATE locales_gameobject SET name_loc2='L\'invasion de Draenor' WHERE entry=175747; -- Name: The Invasion of Draenor
@@ -5817,13 +6264,14 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175848; -- Nam
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175849; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=175850; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=175851; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=175852; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=175852; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Fumoir à viande' WHERE entry=175853; -- Name: Meat Smoker
 UPDATE locales_gameobject SET name_loc2='Les empires jumeaux' WHERE entry=175854; -- Name: The Twin Empires
 UPDATE locales_gameobject SET name_loc2='La chute de l\'empire' WHERE entry=175855; -- Name: Empires' Fall
 UPDATE locales_gameobject SET name_loc2='La colère du fléau des âmes' WHERE entry=175856; -- Name: Wrath of Soulflayer
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=175857; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=175858; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=175864; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Cloche de la Horde' WHERE entry=175885; -- Name: Horde Bell
 UPDATE locales_gameobject SET name_loc2='Pique de fortune' WHERE entry=175886; -- Name: Roughshod Pike
 UPDATE locales_gameobject SET name_loc2='Piège de Finkle' WHERE entry=175887; -- Name: Finkle Trap
@@ -5856,7 +6304,89 @@ UPDATE locales_gameobject SET name_loc2='La porte du Bastion' WHERE entry=175967
 UPDATE locales_gameobject SET name_loc2='Porte du trésor' WHERE entry=175968; -- Name: Hoard Door
 UPDATE locales_gameobject SET name_loc2='Doodad_DwarvenTunnelPortcullis04' WHERE entry=175969; -- Name: Doodad_DwarvenTunnelPortcullis04
 UPDATE locales_gameobject SET name_loc2='Cuirasse runique inachevée' WHERE entry=175970; -- Name: Unforged Runic Breastplate
-UPDATE locales_gameobject SET name_loc2='Cuirasse couverte de runes inachevée' WHERE entry=176086; -- Name: Subway
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176004; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176005; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176006; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176007; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176008; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176009; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176010; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176011; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176012; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176013; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176014; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176015; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176016; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176017; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176018; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176019; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176020; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176021; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176022; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176023; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176024; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176025; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176026; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176027; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176028; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176029; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176030; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176031; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176032; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176033; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176034; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176035; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176036; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176037; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176038; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176039; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176040; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176041; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176042; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176043; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176044; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176045; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176046; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176047; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176048; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176049; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176050; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176051; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176052; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176053; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176054; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176055; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176056; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176057; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176058; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176059; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176060; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176061; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176062; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176063; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176064; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176065; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176066; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176067; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176068; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176069; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176070; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176071; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176072; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176073; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176074; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176075; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176076; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176077; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176078; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176079; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Tram' WHERE entry=176080; -- Name: Subway
+UPDATE locales_gameobject SET name_loc2='Tram' WHERE entry=176081; -- Name: Subway
+UPDATE locales_gameobject SET name_loc2='Tram' WHERE entry=176082; -- Name: Subway
+UPDATE locales_gameobject SET name_loc2='Tram' WHERE entry=176083; -- Name: Subway
+UPDATE locales_gameobject SET name_loc2='Tram' WHERE entry=176084; -- Name: Subway
+UPDATE locales_gameobject SET name_loc2='Tram' WHERE entry=176085; -- Name: Subway
+UPDATE locales_gameobject SET name_loc2='Tram' WHERE entry=176086; -- Name: Subway
 UPDATE locales_gameobject SET name_loc2='Bannière du Fléau' WHERE entry=176087; -- Name: Scourge Banner
 UPDATE locales_gameobject SET name_loc2='Gantelets en plaques inachevés' WHERE entry=176089; -- Name: Unfired Plate Gauntlets
 UPDATE locales_gameobject SET name_loc2='Cadavres humains' WHERE entry=176090; -- Name: Human Remains
@@ -5867,8 +6397,21 @@ UPDATE locales_gameobject SET name_loc2='Andorhal Tour un' WHERE entry=176094; -
 UPDATE locales_gameobject SET name_loc2='Andorhal Tour deux' WHERE entry=176095; -- Name: UDB_Second_Andorhal_Tower
 UPDATE locales_gameobject SET name_loc2='Andorhal Tour trois' WHERE entry=176096; -- Name: UDB_Third_Andorhal_Tower
 UPDATE locales_gameobject SET name_loc2='Andorhal Tour quatre' WHERE entry=176097; -- Name: UDB_Fourth_Andorhal_Tower
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176098; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176099; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176100; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176101; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176102; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176103; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176104; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176105; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176106; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176107; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176108; -- Name: Subway Bench
+UPDATE locales_gameobject SET name_loc2='Banc des profondeurs' WHERE entry=176109; -- Name: Subway Bench
 UPDATE locales_gameobject SET name_loc2='Piège du Gambit de l\'aube' WHERE entry=176110; -- Name: Dawn's Gambit
 UPDATE locales_gameobject SET name_loc2='Coffre de Malor' WHERE entry=176112; -- Name: Malor's Strongbox
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176113; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Avis de recherche : Arnak Totem-Sinistre' WHERE entry=176115; -- Name: Wanted Poster - Arnak Grimtotem
 UPDATE locales_gameobject SET name_loc2='Tête de la poupée de Pamela' WHERE entry=176116; -- Name: Pamela's Doll's Head
 UPDATE locales_gameobject SET name_loc2='Piège de la poupée de Pamela' WHERE entry=176117; -- Name: Pamela's Doll's Trap
@@ -5895,13 +6438,18 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176187; -- Nam
 UPDATE locales_gameobject SET name_loc2='Bougie de rituel' WHERE entry=176188; -- Name: Ritual Candle
 UPDATE locales_gameobject SET name_loc2='Squelette de tortue de mer' WHERE entry=176189; -- Name: Skeletal Sea Turtle
 UPDATE locales_gameobject SET name_loc2='Tortue de mer échouée' WHERE entry=176190; -- Name: Beached Sea Turtle
+UPDATE locales_gameobject SET name_loc2='Tortue de mer échouée' WHERE entry=176191; -- Name: Beached Sea Turtle
 UPDATE locales_gameobject SET name_loc2='Catalogue de l\'Indocile' WHERE entry=176192; -- Name: Catalogue of the Wayward
 UPDATE locales_gameobject SET name_loc2='Hall des capitaines' WHERE entry=176194; -- Name: Hall of the High Command
 UPDATE locales_gameobject SET name_loc2='Cage de la panthère' WHERE entry=176195; -- Name: Panther Cage
 UPDATE locales_gameobject SET name_loc2='Tortue de mer échouée' WHERE entry=176196; -- Name: Beached Sea Turtle
+UPDATE locales_gameobject SET name_loc2='Tortue de mer échouée' WHERE entry=176197; -- Name: Beached Sea Turtle
+UPDATE locales_gameobject SET name_loc2='Tortue de mer échouée' WHERE entry=176198; -- Name: Beached Sea Turtle
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176200; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176201; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176202; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176203; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176204; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Libram de Davil' WHERE entry=176206; -- Name: Davil's Libram
 UPDATE locales_gameobject SET name_loc2='Bouclier de Senterouge' WHERE entry=176207; -- Name: Redpath's Shield
 UPDATE locales_gameobject SET name_loc2='Crâne d\'Horgus' WHERE entry=176208; -- Name: Horgus' Skull
@@ -5938,10 +6486,11 @@ UPDATE locales_gameobject SET name_loc2='Poupée de Pamela' WHERE entry=176247; 
 UPDATE locales_gameobject SET name_loc2='Tabac de Siabi' WHERE entry=176248; -- Name: Premium Siabi Tobacco
 UPDATE locales_gameobject SET name_loc2='Donnée du Fléau' WHERE entry=176249; -- Name: Scourge Data
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176264; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176265; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176266; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176267; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176268; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176269; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176269; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176270; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176271; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176272; -- Name: Campfire
@@ -5951,21 +6500,26 @@ UPDATE locales_gameobject SET name_loc2='Chaudron bouillonnant' WHERE entry=1762
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176276; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176277; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=176278; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176279; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176280; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176281; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176283; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176279; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176280; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176281; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176282; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176283; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=176284; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176285; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176286; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176287; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176288; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176289; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176291; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176285; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176286; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176287; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176288; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176289; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176290; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176291; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176292; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176293; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176294; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu des archives' WHERE entry=176295; -- Name: Archive Fire
 UPDATE locales_gameobject SET name_loc2='Portail vers Hurlevent' WHERE entry=176296; -- Name: Portal to Stormwind
 UPDATE locales_gameobject SET name_loc2='Caisse de fournitures' WHERE entry=176304; -- Name: Supply Crate
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176305; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176305; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Cage' WHERE entry=176306; -- Name: Cage
 UPDATE locales_gameobject SET name_loc2='Caisse de fournitures' WHERE entry=176307; -- Name: Supply Crate
 UPDATE locales_gameobject SET name_loc2='Caisse de fournitures' WHERE entry=176308; -- Name: Supply Crate
@@ -5978,9 +6532,9 @@ UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=176314; -- Name: Pew
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=176315; -- Name: Pew
 UPDATE locales_gameobject SET name_loc2='Banc' WHERE entry=176316; -- Name: Pew
 UPDATE locales_gameobject SET name_loc2='Le Coffre d\'argent' WHERE entry=176317; -- Name: The Argent Hold
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176318; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=176319; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=176324; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176318; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=176319; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=176324; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Plans de forgeron' WHERE entry=176325; -- Name: Blacksmithing Plans
 UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176326; -- Name: 
 UPDATE locales_gameobject SET name_loc2='Plans de forgeron' WHERE entry=176327; -- Name: Blacksmithing Plans
@@ -6015,10 +6569,10 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=176388; -- 
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176389; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176390; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Chaudron du Fléau' WHERE entry=176392; -- Name: Scourge Cauldron
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=176404; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=176404; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Doodad_GuildInstanceBLOCKER' WHERE entry=176424; -- Name: Doodad_GuildInstanceBLOCKER
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176425; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176426; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176425; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176426; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176427; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176428; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176429; -- Name: Fire
@@ -6028,23 +6582,23 @@ UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176432; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176433; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176434; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176435; -- Name: Fire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176436; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176436; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176437; -- Name: Fire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176438; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176439; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176438; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176439; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176440; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176441; -- Name: Fire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176442; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176442; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176443; -- Name: Fire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176444; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176445; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176444; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176445; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176446; -- Name: Fire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176447; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176448; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176449; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176450; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176451; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176452; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176447; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176448; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176449; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176450; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176451; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176452; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=176454; -- Name: Meat Rack
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=176455; -- Name: Meat Rack
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=176456; -- Name: Meat Rack
@@ -6060,23 +6614,24 @@ UPDATE locales_gameobject SET name_loc2='Titre de propriété de Brill' WHERE en
 UPDATE locales_gameobject SET name_loc2='Titre de propriété de Caer Darrow' WHERE entry=176485; -- Name: The Deed to Caer Darrow
 UPDATE locales_gameobject SET name_loc2='Titre de propriété d’Austrivage' WHERE entry=176486; -- Name: The Deed to Southshore
 UPDATE locales_gameobject SET name_loc2='Titre de propriété de Moulin-de-Tarren' WHERE entry=176487; -- Name: The Deed to Tarren Mill
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176488; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176489; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176490; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176491; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176492; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176493; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176488; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176489; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176490; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176491; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176492; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176493; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Zeppelin (La Princesse violette)' WHERE entry=176495; -- Name: Grom'Gol Base Camp - Undercity
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176496; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176496; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Portail vers Forgefer' WHERE entry=176497; -- Name: Portal to Ironforge
 UPDATE locales_gameobject SET name_loc2='Portail vers Darnassus' WHERE entry=176498; -- Name: Portal to Darnassus
 UPDATE locales_gameobject SET name_loc2='Portail vers Orgrimmar' WHERE entry=176499; -- Name: Portal to Orgrimmar
 UPDATE locales_gameobject SET name_loc2='Portail vers les Pitons-du-Tonnerre' WHERE entry=176500; -- Name: Portal to Thunder Bluff
 UPDATE locales_gameobject SET name_loc2='Portail vers Fossoyeuse' WHERE entry=176501; -- Name: Portal to Undercity
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176504; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176505; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176506; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176507; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=176508; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=176508; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=176509; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Couveuse d\'œufs d\'Onyxia' WHERE entry=176510; -- Name: Onyxia Whelp Spawner
 UPDATE locales_gameobject SET name_loc2='Œuf d\'Onyxia' WHERE entry=176511; -- Name: Onyxia Egg
@@ -6093,27 +6648,27 @@ UPDATE locales_gameobject SET name_loc2='Cadavre d\'Eva Sarkhoff' WHERE entry=17
 UPDATE locales_gameobject SET name_loc2='Cadavre de Lucien Sarkhoff' WHERE entry=176545; -- Name: Remains of Lucien Sarkhoff
 UPDATE locales_gameobject SET name_loc2='Cadavre enflammé d\'Eva' WHERE entry=176546; -- Name: Eva Remains Ablaze
 UPDATE locales_gameobject SET name_loc2='Cadavre enflammé de Lucien' WHERE entry=176547; -- Name: Lucien Remains Ablaze
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176549; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176550; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176551; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176552; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176553; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176554; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176555; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176556; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176549; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176550; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176551; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176552; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176553; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176554; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176555; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176556; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Mortier' WHERE entry=176557; -- Name: Mortar
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176558; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176558; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=176559; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176560; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176560; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Plan de travail de Krastinov' WHERE entry=176561; -- Name: Krastinov's Work Bench
 UPDATE locales_gameobject SET name_loc2='Porte des officiers' WHERE entry=176562; -- Name: Officer's Door
 UPDATE locales_gameobject SET name_loc2='Porte des officiers' WHERE entry=176566; -- Name: Officer's Door
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=176567; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=176568; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=176569; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=176570; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=176571; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc2='Brasier puissant' WHERE entry=176572; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=176567; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=176568; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=176569; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=176570; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=176571; -- Name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=176572; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Cloche de l\'Alliance' WHERE entry=176573; -- Name: Alliance Bell
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=176574; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Porte des officiers' WHERE entry=176575; -- Name: Officer's Door
@@ -6132,24 +6687,24 @@ UPDATE locales_gameobject SET name_loc2='Chapeglace' WHERE entry=176588; -- Name
 UPDATE locales_gameobject SET name_loc2='Lotus noir' WHERE entry=176589; -- Name: Black Lotus
 UPDATE locales_gameobject SET name_loc2='Piège du crâne de Horgus' WHERE entry=176591; -- Name: Horgus' Skull Trap
 UPDATE locales_gameobject SET name_loc2='Portes' WHERE entry=176594; -- Name: Doors
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176604; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176605; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176606; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176607; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176608; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176609; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176610; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176611; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=176612; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176617; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176618; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176619; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=176624; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=176625; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=176626; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=176627; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=176628; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=176629; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176604; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176605; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176606; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176607; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176608; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176609; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176610; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176611; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176612; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176617; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176618; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176619; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=176624; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=176625; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=176626; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=176627; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=176628; -- Name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro nain' WHERE entry=176629; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc2='Livre du souvenir' WHERE entry=176630; -- Name: Keepsake of Remembrance
 UPDATE locales_gameobject SET name_loc2='Don de Menethil' WHERE entry=176631; -- Name: Menethil's Gift
 UPDATE locales_gameobject SET name_loc2='Porte' WHERE entry=176633; -- Name: Door
@@ -6193,6 +6748,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=176691; -- Name: Ch
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=176692; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=176693; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Porte latérale de Karazhan' WHERE entry=176694; -- Name: Karazhan Side Entrance
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176705; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Squelette de Caer Darrow 001' WHERE entry=176745; -- Name: Caer Darrow Skeleton 001
 UPDATE locales_gameobject SET name_loc2='Flamme de grande caserne' WHERE entry=176746; -- Name: Big Barracks Flame
 UPDATE locales_gameobject SET name_loc2='Flamme de petite caserne' WHERE entry=176747; -- Name: Small Barracks Flame
@@ -6203,11 +6759,13 @@ UPDATE locales_gameobject SET name_loc2='Os de kodo' WHERE entry=176752; -- Name
 UPDATE locales_gameobject SET name_loc2='Herbe maléfique' WHERE entry=176753; -- Name: Doom Weed
 UPDATE locales_gameobject SET name_loc2='Torche' WHERE entry=176767; -- Name: Torch
 UPDATE locales_gameobject SET name_loc2='Fourneau' WHERE entry=176768; -- Name: Stove
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176784; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176784; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Caisse de munitions' WHERE entry=176785; -- Name: Ammo Crate
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176787; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176786; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176787; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176789; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Table de cuisson' WHERE entry=176790; -- Name: Cooking Table
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176791; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176792; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Fagot de bois' WHERE entry=176793; -- Name: Bundle of Wood
 UPDATE locales_gameobject SET name_loc2='Combe des Cisailles' WHERE entry=176794; -- Name: Windshear Crag
@@ -6219,7 +6777,7 @@ UPDATE locales_gameobject SET name_loc2='Retraite de Roche-Soleil' WHERE entry=1
 UPDATE locales_gameobject SET name_loc2='Combe des Cisailles' WHERE entry=176800; -- Name: Windshear Crag
 UPDATE locales_gameobject SET name_loc2='Pic des Serres-Rocheuses' WHERE entry=176801; -- Name: Stonetalon Peak
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176804; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176805; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176805; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176806; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176807; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176808; -- Name: Campfire
@@ -6272,13 +6830,22 @@ UPDATE locales_gameobject SET name_loc2='Doodad_OnyziasLairFallingRocks03' WHERE
 UPDATE locales_gameobject SET name_loc2='Doodad_OnyziasLairFallingRocks05' WHERE entry=176855; -- Name: Doodad_OnyziasLairFallingRocks05
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176863; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Piège de l\'épée de Marduk' WHERE entry=176865; -- Name: Sword of Marduk Trap
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176885; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176886; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176887; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176888; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176889; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176890; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176891; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=176892; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Enclume de pierre' WHERE entry=176894; -- Name: Stone Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=176895; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=176896; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=176896; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=176897; -- Name: Cooking Fire
 UPDATE locales_gameobject SET name_loc2='Puits de feu' WHERE entry=176898; -- Name: Fire pit
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=176899; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Doodad_PortcullisActive02' WHERE entry=176901; -- Name: Doodad_PortcullisActive02
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176904; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Brasero fumant' WHERE entry=176905; -- Name: Smoldering Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero fumant' WHERE entry=176906; -- Name: Smoldering Brazier
 UPDATE locales_gameobject SET name_loc2='Porte de la serre' WHERE entry=176907; -- Name: Conservatory Door
@@ -6346,37 +6913,38 @@ UPDATE locales_gameobject SET name_loc2='Âtreval' WHERE entry=176994; -- Name: 
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176998; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=176999; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Charbon rougeoyant' WHERE entry=177000; -- Name: Hot Coal
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177002; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177003; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177004; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177005; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177006; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177007; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177008; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177009; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177010; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177011; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177012; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177013; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177014; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177015; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177016; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177017; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177018; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177019; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177020; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177021; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177022; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177023; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177024; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177025; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177026; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=177044; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177002; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177003; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177004; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177005; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177006; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177007; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177008; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177009; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177010; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177011; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177012; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177013; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177014; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177015; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177016; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177017; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177018; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177019; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177020; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177021; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177022; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177023; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177024; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177025; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177026; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=177044; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Piège hanté' WHERE entry=177045; -- Name: Haunted Trap
 UPDATE locales_gameobject SET name_loc2='Doodad_PortcullisActive05' WHERE entry=177047; -- Name: Doodad_PortcullisActive05
 UPDATE locales_gameobject SET name_loc2='Doodad_PortcullisActive06' WHERE entry=177048; -- Name: Doodad_PortcullisActive06
 UPDATE locales_gameobject SET name_loc2='Doodad_PortcullisActive07' WHERE entry=177049; -- Name: Doodad_PortcullisActive07
 UPDATE locales_gameobject SET name_loc2='Composants de Mordan' WHERE entry=177064; -- Name: Mordan's Reagents
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177084; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Orneval' WHERE entry=177104; -- Name: Ashenvale
 UPDATE locales_gameobject SET name_loc2='Jaedenar' WHERE entry=177105; -- Name: Jaedenar
 UPDATE locales_gameobject SET name_loc2='Clairière de Griffebranche' WHERE entry=177106; -- Name: Talonbranch Glade
@@ -6464,7 +7032,7 @@ UPDATE locales_gameobject SET name_loc2='Mur croulant' WHERE entry=177220; -- Na
 UPDATE locales_gameobject SET name_loc2='Porte' WHERE entry=177221; -- Name: Door
 UPDATE locales_gameobject SET name_loc2='Squelette de ptéradon' WHERE entry=177222; -- Name: Pteradon Skeleton
 UPDATE locales_gameobject SET name_loc2='Objet sonore de tambour troll' WHERE entry=177224; -- Name: Troll Drum Sound Object
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177225; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177225; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Livre « La divination maléfique pour les nuls »' WHERE entry=177226; -- Name: Book "Soothsaying for Dummies"
 UPDATE locales_gameobject SET name_loc2='Canapé' WHERE entry=177227; -- Name: Couch
 UPDATE locales_gameobject SET name_loc2='Le Bac de Pennelune' WHERE entry=177233; -- Name: Feathermoon Ferry
@@ -6472,6 +7040,7 @@ UPDATE locales_gameobject SET name_loc2='Tombe de Tirion Fordring' WHERE entry=1
 UPDATE locales_gameobject SET name_loc2='Mont fangeux' WHERE entry=177240; -- Name: Loose Dirt Mound
 UPDATE locales_gameobject SET name_loc2='Phylactère d\'Araj' WHERE entry=177241; -- Name: Araj's Phylactery
 UPDATE locales_gameobject SET name_loc2='Portail démoniaque' WHERE entry=177243; -- Name: Demon Portal
+UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=177244; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Doodad_WroughtIronDoor01' WHERE entry=177245; -- Name: Doodad_WroughtIronDoor01
 UPDATE locales_gameobject SET name_loc2='Doodad_WroughtIronDoor02' WHERE entry=177246; -- Name: Doodad_WroughtIronDoor02
 UPDATE locales_gameobject SET name_loc2='Doodad_WroughtIronDoor03' WHERE entry=177247; -- Name: Doodad_WroughtIronDoor03
@@ -6487,7 +7056,7 @@ UPDATE locales_gameobject SET name_loc2='Doodad_opendoor_02' WHERE entry=177256;
 UPDATE locales_gameobject SET name_loc2='Doodad_DireMaulCrystalGenerator02' WHERE entry=177257; -- Name: Doodad_DireMaulCrystalGenerator02
 UPDATE locales_gameobject SET name_loc2='Doodad_DireMaulCrystalGenerator03' WHERE entry=177258; -- Name: Doodad_DireMaulCrystalGenerator03
 UPDATE locales_gameobject SET name_loc2='Doodad_DireMaulCrystalGenerator01' WHERE entry=177259; -- Name: Doodad_DireMaulCrystalGenerator01
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=177261; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177261; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=177262; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=177263; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Symbole de l\'honneur perdu' WHERE entry=177264; -- Name: Symbol of Lost Honor
@@ -6511,14 +7080,17 @@ UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=177285; -- Name: 
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=177286; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Peinture inachevée' WHERE entry=177287; -- Name: Unfinished Painting
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=177288; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=177292; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=177293; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177290; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177291; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177292; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177293; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Gambit de l\'aube' WHERE entry=177304; -- Name: Dawn's Gambit
 UPDATE locales_gameobject SET name_loc2='Doodad_HyjalPortail01' WHERE entry=177307; -- Name: Doodad_HyjalGate01
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=177324; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=177325; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=177326; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=177327; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=177364; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Portail démoniaque' WHERE entry=177365; -- Name: Demon Portal
 UPDATE locales_gameobject SET name_loc2='Portail démoniaque' WHERE entry=177366; -- Name: Demon Portal
 UPDATE locales_gameobject SET name_loc2='Portail démoniaque' WHERE entry=177367; -- Name: Demon Portal
@@ -6548,20 +7120,21 @@ UPDATE locales_gameobject SET name_loc2='Portail démoniaque' WHERE entry=177398
 UPDATE locales_gameobject SET name_loc2='Portail démoniaque' WHERE entry=177399; -- Name: Demon Portal
 UPDATE locales_gameobject SET name_loc2='Portail démoniaque' WHERE entry=177400; -- Name: Demon Portal
 UPDATE locales_gameobject SET name_loc2='Autel d\'Élune' WHERE entry=177404; -- Name: Altar of Elune
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=177405; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=177406; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=177408; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=177409; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=177410; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=177411; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=177412; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=177413; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177405; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177406; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=177408; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177409; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177410; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177411; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177412; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=177413; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Gemme d\'Élune' WHERE entry=177414; -- Name: Gem of Elune
 UPDATE locales_gameobject SET name_loc2='Lumière d\'Élune' WHERE entry=177415; -- Name: Light of Elune
 UPDATE locales_gameobject SET name_loc2='Aura d\'Élune (PETITE)' WHERE entry=177416; -- Name: Aura of Elune (SMALL)
 UPDATE locales_gameobject SET name_loc2='Feu d\'Élune' WHERE entry=177417; -- Name: Fire of Elune
 UPDATE locales_gameobject SET name_loc2='Lumière d\'Élune (GRANDE)' WHERE entry=177418; -- Name: Light of Elune (LARGE)
 UPDATE locales_gameobject SET name_loc2='Lumière d\'Élune (PETITE)' WHERE entry=177419; -- Name: Light of Elune (SMALL)
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=177424; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=177425; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Porte de pierre' WHERE entry=177444; -- Name: Stone Door
 UPDATE locales_gameobject SET name_loc2='Grande termitière' WHERE entry=177464; -- Name: Large Termite Mound
@@ -6816,7 +7389,7 @@ UPDATE locales_gameobject SET name_loc2='Arbre à spores' WHERE entry=178567; --
 UPDATE locales_gameobject SET name_loc2='Arbre à spores' WHERE entry=178568; -- Name: Spore Tree
 UPDATE locales_gameobject SET name_loc2='Arbre à spores' WHERE entry=178569; -- Name: Spore Tree
 UPDATE locales_gameobject SET name_loc2='Dégorgeur de corruption' WHERE entry=178570; -- Name: Corruption Spewer
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=178571; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=178571; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=178572; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=178573; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Œil-qui-voit-tout de Ryson' WHERE entry=178584; -- Name: Ryson's All Seeing Eye
@@ -6833,7 +7406,7 @@ UPDATE locales_gameobject SET name_loc2='Lumières x3' WHERE entry=178669; -- Na
 UPDATE locales_gameobject SET name_loc2='Cercle des appels' WHERE entry=178670; -- Name: Circle of Calling
 UPDATE locales_gameobject SET name_loc2='Chaise du Grandpère Hiver' WHERE entry=178671; -- Name: Greatfather Winter's Chair
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=178684; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=178685; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=178685; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Fumée de forge de l\'Alliance' WHERE entry=178722; -- Name: Alliance Blacksmith Smoke
 UPDATE locales_gameobject SET name_loc2='Balise de Vipore' WHERE entry=178724; -- Name: Vipore's Beacon
 UPDATE locales_gameobject SET name_loc2='Balise de Slidore' WHERE entry=178725; -- Name: Slidore's Beacon
@@ -6860,7 +7433,7 @@ UPDATE locales_gameobject SET name_loc2='Pierre de rencontre' WHERE entry=178833
 UPDATE locales_gameobject SET name_loc2='Pierre de rencontre' WHERE entry=178834; -- Name: Meeting Stone
 UPDATE locales_gameobject SET name_loc2='Pierre de rencontre' WHERE entry=178844; -- Name: Meeting Stone
 UPDATE locales_gameobject SET name_loc2='Pierre de rencontre' WHERE entry=178845; -- Name: Meeting Stone
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=178864; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=178864; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Pierre de rencontre' WHERE entry=178884; -- Name: Meeting Stone
 UPDATE locales_gameobject SET name_loc2='Vigne guérie de Celebrian' WHERE entry=178904; -- Name: Healed Celebrian Vine
 UPDATE locales_gameobject SET name_loc2='Vigne de Vylevrille' WHERE entry=178905; -- Name: Vylestem Vine
@@ -6925,6 +7498,7 @@ UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=179121; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=179122; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Possessions d\'Izzy' WHERE entry=179125; -- Name: Izzy's Holdings
 UPDATE locales_gameobject SET name_loc2='Danger ! La mine aux cristaux est fermée !' WHERE entry=179144; -- Name: Danger! Crystalvein Mine closed!
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=179147; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Levier' WHERE entry=179148; -- Name: Lever
 UPDATE locales_gameobject SET name_loc2='Mine aux cristaux - Défense d\'entrer !' WHERE entry=179224; -- Name: Crystalvein Mine - Keep Out!
 UPDATE locales_gameobject SET name_loc2='Palourde géante' WHERE entry=179264; -- Name: Giant Clam
@@ -6940,7 +7514,7 @@ UPDATE locales_gameobject SET name_loc2='Bannière disputée' WHERE entry=179308
 UPDATE locales_gameobject SET name_loc2='Bannière disputée' WHERE entry=179310; -- Name: Contested Banner
 UPDATE locales_gameobject SET name_loc2='Mine de la Horde' WHERE entry=179324; -- Name: Frostwolf Landmine
 UPDATE locales_gameobject SET name_loc2='Mine de l\'Alliance' WHERE entry=179325; -- Name: Stormpike Landmine
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=179344; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=179344; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Coffre des profondeurs' WHERE entry=179345; -- Name: Deeprun Chest
 UPDATE locales_gameobject SET name_loc2='Herse' WHERE entry=179364; -- Name: Portcullis
 UPDATE locales_gameobject SET name_loc2='Herse' WHERE entry=179365; -- Name: Portcullis
@@ -6951,14 +7525,14 @@ UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=179387; -- Name: Ch
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=179388; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=179389; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=179390; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=179391; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=179392; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=179393; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=179394; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=179395; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=179396; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=179397; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=179419; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=179391; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=179392; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=179393; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=179394; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=179395; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=179396; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=179397; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=179419; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='[PH] Alliance Graveyard Mid Pre-Banner BIG' WHERE entry=179424; -- Name: [PH] Alliance Graveyard Mid Pre-Banner BIG
 UPDATE locales_gameobject SET name_loc2='[PH] Horde Graveyard Pre-Banner BIG' WHERE entry=179425; -- Name: [PH] Horde Graveyard Mid Pre-Banner BIG
 UPDATE locales_gameobject SET name_loc2='Gri\'lek le Vagabond' WHERE entry=179426; -- Name: Gri'lek the Wanderer
@@ -7065,6 +7639,7 @@ UPDATE locales_gameobject SET name_loc2='Chandelle de l\'apocalypse' WHERE entry
 UPDATE locales_gameobject SET name_loc2='Cloche de Dethmoora' WHERE entry=179674; -- Name: Bell of Dethmoora
 UPDATE locales_gameobject SET name_loc2='Gangrefeu' WHERE entry=179676; -- Name: Fel Fire
 UPDATE locales_gameobject SET name_loc2='Portail du destrier de l\'effroi' WHERE entry=179681; -- Name: Dreadsteed Portal
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=179682; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Lumière-piège à paysans' WHERE entry=179693; -- Name: Peasant Light Trap
 UPDATE locales_gameobject SET name_loc2='Panneau des morts' WHERE entry=179694; -- Name: Death Post
 UPDATE locales_gameobject SET name_loc2='Paysanne morte (femme, type 1)' WHERE entry=179695; -- Name: Slain Peasant
@@ -7102,14 +7677,14 @@ UPDATE locales_gameobject SET name_loc2='SI:7' WHERE entry=179744; -- Name: SI:7
 UPDATE locales_gameobject SET name_loc2='Aura de Clairvoyant' WHERE entry=179745; -- Name: Divination Scryer Aura
 UPDATE locales_gameobject SET name_loc2='Esprit malin de Val-terreur' WHERE entry=179747; -- Name: Terrordale Haunting Spirit
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=179748; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=179749; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=179750; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=179751; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=179752; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=179753; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=179754; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=179755; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=179756; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=179749; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=179750; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=179751; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=179752; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=179753; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=179754; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=179755; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=179756; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Chaise à haut dossier' WHERE entry=179757; -- Name: High Back Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=179758; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=179759; -- Name: Chair
@@ -7140,9 +7715,10 @@ UPDATE locales_gameobject SET name_loc2='Oreiller sombrefer' WHERE entry=179828;
 UPDATE locales_gameobject SET name_loc2='Drapeau de l’Alliance' WHERE entry=179830; -- Name: Silverwing Flag
 UPDATE locales_gameobject SET name_loc2='Drapeau de la Horde' WHERE entry=179831; -- Name: Warsong Flag
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=179844; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=179862; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=179846; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=179862; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=179863; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=179864; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=179864; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Amélioration vitesse' WHERE entry=179871; -- Name: Speed Buff
 UPDATE locales_gameobject SET name_loc2='Orbe de commandement' WHERE entry=179879; -- Name: Orb of Command
 UPDATE locales_gameobject SET name_loc2='Marque de Drakkisath' WHERE entry=179880; -- Name: Drakkisath's Brand
@@ -7150,16 +7726,13 @@ UPDATE locales_gameobject SET name_loc2='Tête coupée de Nefarian' WHERE entry=
 UPDATE locales_gameobject SET name_loc2='Tête coupée de Nefarian' WHERE entry=179882; -- Name: The Severed Head of Nefarian
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=179885; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=179886; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=179887; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=179887; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Plans protégés de Séhouf' WHERE entry=179888; -- Name: Rizzle's Guarded Plans
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=179895; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=179896; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Amélioration vitesse' WHERE entry=179899; -- Name: Speed Buff
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=179895; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=179896; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Dégâts Grand Feu de joie' WHERE entry=179900; -- Name: Big Bonfire Damage
 UPDATE locales_gameobject SET name_loc2='Amélioration nourriture' WHERE entry=179904; -- Name: Food Buff
 UPDATE locales_gameobject SET name_loc2='Amélioration berserk' WHERE entry=179905; -- Name: Berserk Buff
-UPDATE locales_gameobject SET name_loc2='Amélioration nourriture' WHERE entry=179906; -- Name: Food Buff
-UPDATE locales_gameobject SET name_loc2='Amélioration berserk' WHERE entry=179907; -- Name: Berserk Buff
 UPDATE locales_gameobject SET name_loc2='Outils perdus de Boiscorie' WHERE entry=179908; -- Name: Slagtree's Lost Tools
 UPDATE locales_gameobject SET name_loc2='Rocher de Durotan' WHERE entry=179909; -- Name: Rock of Durotan
 UPDATE locales_gameobject SET name_loc2='Panier à pique-nique de Lard' WHERE entry=179910; -- Name: Lard's Picnic Basket
@@ -7175,6 +7748,7 @@ UPDATE locales_gameobject SET name_loc2='Doodad_PortcullisActive02' WHERE entry=
 UPDATE locales_gameobject SET name_loc2='Doodad_PortcullisActive03' WHERE entry=179920; -- Name: Doodad_PortcullisActive03
 UPDATE locales_gameobject SET name_loc2='Doodad_PortcullisActive04' WHERE entry=179921; -- Name: Doodad_PortcullisActive04
 UPDATE locales_gameobject SET name_loc2='Calice de sang corrompu' WHERE entry=179922; -- Name: Vessel of Tainted Blood
+UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=179924; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Portail d\'invocation de pierre de rencontre' WHERE entry=179944; -- Name: Meeting Stone Summoning Portal
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=179945; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Bientôt - la foire de Sombrelune !' WHERE entry=179964; -- Name: DARKMOON FAIRE - Coming Soon!
@@ -7188,7 +7762,7 @@ UPDATE locales_gameobject SET name_loc2='Tonneau d\'auberge' WHERE entry=179973;
 UPDATE locales_gameobject SET name_loc2='Bassin' WHERE entry=179975; -- Name: Water Trough Small
 UPDATE locales_gameobject SET name_loc2='Tonneau de bière 01' WHERE entry=179976; -- Name: Beer Keg 01
 UPDATE locales_gameobject SET name_loc2='Lanterne générale 01' WHERE entry=179977; -- Name: General Lantern 01
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=179984; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=179984; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Œuf d\'araignée' WHERE entry=179985; -- Name: Spider Egg
 UPDATE locales_gameobject SET name_loc2='Chariot de la foire de Sombrelune plein' WHERE entry=180005; -- Name: Darkmoon Faire Wagon Loaded
 UPDATE locales_gameobject SET name_loc2='Toilettes' WHERE entry=180006; -- Name: Outhouse
@@ -7219,7 +7793,7 @@ UPDATE locales_gameobject SET name_loc2='Chope 01' WHERE entry=180049; -- Name: 
 UPDATE locales_gameobject SET name_loc2='Demi-baguette' WHERE entry=180050; -- Name: Bread French Half
 UPDATE locales_gameobject SET name_loc2='Baguette 01' WHERE entry=180051; -- Name: Bread French 01
 UPDATE locales_gameobject SET name_loc2='Caisses des Mortemines' WHERE entry=180052; -- Name: Deadmine Cargo Boxes
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=180053; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=180053; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Souche mystérieuse' WHERE entry=180056; -- Name: Mysterious Tree Stump
 UPDATE locales_gameobject SET name_loc2='Fissure bouillonnante' WHERE entry=180057; -- Name: Bubbly Fissure
 UPDATE locales_gameobject SET name_loc2='Bannière de l\'Alliance' WHERE entry=180058; -- Name: Alliance Banner
@@ -7395,21 +7969,21 @@ UPDATE locales_gameobject SET name_loc2='Brasero de la Folie - Inerte' WHERE ent
 UPDATE locales_gameobject SET name_loc2='G_Pumpkin_01 scale 4.0' WHERE entry=180431; -- Name: G_Pumpkin_01 scale 4.0
 UPDATE locales_gameobject SET name_loc2='Bannière des Réprouvés' WHERE entry=180432; -- Name: Forsaken Banner
 UPDATE locales_gameobject SET name_loc2='Homme d\'osier' WHERE entry=180433; -- Name: The Wickerman
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=180434; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=180434; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Sacoche de Noggle' WHERE entry=180435; -- Name: Noggle's Satchel
 UPDATE locales_gameobject SET name_loc2='Fragment de la tablette du Crépuscule' WHERE entry=180436; -- Name: Twilight Tablet Fragment
 UPDATE locales_gameobject SET name_loc2='Braises de l\'homme d\'osier' WHERE entry=180437; -- Name: Wickerman Ember
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=180438; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=180439; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=180440; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=180441; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=180442; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=180443; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=180444; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=180438; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=180439; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=180440; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=180441; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=180442; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=180443; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=180444; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Avis de recherche : Poigne-de-mort' WHERE entry=180448; -- Name: Wanted Poster: Deathclasp
 UPDATE locales_gameobject SET name_loc2='Boule puante des Réprouvés' WHERE entry=180449; -- Name: Forsaken Stink Bomb
 UPDATE locales_gameobject SET name_loc2='Nuage de la boule puante des Réprouvés' WHERE entry=180450; -- Name: Forsaken Stink Bomb Cloud
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=180451; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=180451; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Ultra-canon Explonheimer 5000' WHERE entry=180452; -- Name: Blastenheimer 5000 Ultra Cannon
 UPDATE locales_gameobject SET name_loc2='Cristal orné de glyphes de la Ruche\'Regal' WHERE entry=180453; -- Name: Hive'Regal Glyphed Crystal
 UPDATE locales_gameobject SET name_loc2='Cristal orné de glyphes de la Ruche\'Ashi' WHERE entry=180454; -- Name: Hive'Ashi Glyphed Crystal
@@ -7419,14 +7993,14 @@ UPDATE locales_gameobject SET name_loc2='Pierre du vent' WHERE entry=180461; -- 
 UPDATE locales_gameobject SET name_loc2='Pierre des vents supérieure' WHERE entry=180466; -- Name: Greater Wind Stone
 UPDATE locales_gameobject SET name_loc2='HangingSkullLight01' WHERE entry=180471; -- Name: HangingSkullLight01
 UPDATE locales_gameobject SET name_loc2='HangingSkullLight02' WHERE entry=180472; -- Name: HangingSkullLight02
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=180473; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=180474; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=180475; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=180476; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=180477; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=180478; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=180479; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=180480; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=180473; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=180474; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=180475; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=180476; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=180477; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=180478; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=180479; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=180480; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Champ de force' WHERE entry=180497; -- Name: Forcefield
 UPDATE locales_gameobject SET name_loc2='Fragment de la tablette du Crépuscule' WHERE entry=180501; -- Name: Twilight Tablet Fragment
 UPDATE locales_gameobject SET name_loc2='Pierre du vent' WHERE entry=180502; -- Name: Wind Stone
@@ -7676,7 +8250,7 @@ UPDATE locales_gameobject SET name_loc2='Chope de fête' WHERE entry=180905; -- 
 UPDATE locales_gameobject SET name_loc2='Enveloppe rouge porte-bonheur' WHERE entry=180909; -- Name: Lucky Red Envelope
 UPDATE locales_gameobject SET name_loc2='Parchemin de Chantétoile' WHERE entry=180910; -- Name: Starsong Scroll
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=180913; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=180914; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=180914; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Brasero de cuisine' WHERE entry=180915; -- Name: Cooking Brazier
 UPDATE locales_gameobject SET name_loc2='Echantillon de terre contaminée' WHERE entry=180921; -- Name: Tainted Soil Sample
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=180991; -- Name: Chair
@@ -7743,6 +8317,7 @@ UPDATE locales_gameobject SET name_loc2='Caisse de fournitures de Stratholme' WH
 UPDATE locales_gameobject SET name_loc2='Arche d\'amour' WHERE entry=181086; -- Name: Valentine Arch
 UPDATE locales_gameobject SET name_loc2='Plante' WHERE entry=181087; -- Name: Plant
 UPDATE locales_gameobject SET name_loc2='Cendre volcanique' WHERE entry=181098; -- Name: Volcanic Ash
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181099; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Puits de lumière' WHERE entry=181102; -- Name: Lightwell
 UPDATE locales_gameobject SET name_loc2='Fleur' WHERE entry=181103; -- Name: Flower
 UPDATE locales_gameobject SET name_loc2='Petit monticule de terre' WHERE entry=181104; -- Name: Small Dirt Mound
@@ -7759,10 +8334,10 @@ UPDATE locales_gameobject SET name_loc2='Vaccuum - porte d\'entrée' WHERE entry
 UPDATE locales_gameobject SET name_loc2='Vaccuum - porte de sortie' WHERE entry=181125; -- Name: Vaccuum - Exit Gate
 UPDATE locales_gameobject SET name_loc2='Porte d\'Anub\'Rekhan' WHERE entry=181126; -- Name: Anub'Rekhan Door
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=181130; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=181131; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=181131; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Marchandise de Rathis Tombal' WHERE entry=181133; -- Name: Rathis Tomber's Supplies
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181134; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181135; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181134; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181135; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Cercle' WHERE entry=181136; -- Name: Circle
 UPDATE locales_gameobject SET name_loc2='Plans des elfes de la nuit : An\'daroth' WHERE entry=181138; -- Name: Night Elf Plans: An'daroth
 UPDATE locales_gameobject SET name_loc2='Plans des elfes de la nuit : An\'owyn' WHERE entry=181139; -- Name: Night Elf Plans: An'owyn
@@ -7830,7 +8405,7 @@ UPDATE locales_gameobject SET name_loc2='Boss Portail Œil Aile Abomination' WHE
 UPDATE locales_gameobject SET name_loc2='Boss Portail Œil Aile Araignée' WHERE entry=181233; -- Name: Spider Wing Eye Portal Boss
 UPDATE locales_gameobject SET name_loc2='Enclume de souffleglace' WHERE entry=181234; -- Name: Icebellow Anvil
 UPDATE locales_gameobject SET name_loc2='Toile de la Grande veuve Faerlina' WHERE entry=181235; -- Name: Grand Widow Faerlina - Web
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=181236; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=181236; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Coffre abîmé' WHERE entry=181238; -- Name: Dented Chest
 UPDATE locales_gameobject SET name_loc2='Coffre usé' WHERE entry=181239; -- Name: Worn Chest
 UPDATE locales_gameobject SET name_loc2='Combat Horreb porte 01 (inutilisé)' WHERE entry=181240; -- Name: Loatheb Fight Door 01 (not used)
@@ -7854,24 +8429,24 @@ UPDATE locales_gameobject SET name_loc2='Caisse du camp' WHERE entry=181302; -- 
 UPDATE locales_gameobject SET name_loc2='Table du camp' WHERE entry=181305; -- Name: Camp Table
 UPDATE locales_gameobject SET name_loc2='Broc du camp' WHERE entry=181306; -- Name: Camp Jug
 UPDATE locales_gameobject SET name_loc2='Chope du camp' WHERE entry=181307; -- Name: Camp Mug
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181311; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181312; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181311; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181312; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181313; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181314; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=181315; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181316; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181316; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181317; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181318; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181320; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181321; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181320; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181321; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=181322; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181323; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181324; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181325; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181326; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181325; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181326; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=181327; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181328; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181329; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181328; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181329; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Flamme de Hurlevent' WHERE entry=181332; -- Name: Flame of Stormwind
 UPDATE locales_gameobject SET name_loc2='Flamme de Forgefer' WHERE entry=181333; -- Name: Flame of Ironforge
 UPDATE locales_gameobject SET name_loc2='Flamme de Darnassus' WHERE entry=181334; -- Name: Flame of Darnassus
@@ -7908,8 +8483,8 @@ UPDATE locales_gameobject SET name_loc2='Nécropole (échelle 2,0)' WHERE entry=
 UPDATE locales_gameobject SET name_loc2='Feu de joie du solstice d\'été - Piège, dégâts' WHERE entry=181376; -- Name: Midsummer Bonfire Campfire Damage Trap
 UPDATE locales_gameobject SET name_loc2='Œuf de faucon-dragon' WHERE entry=181378; -- Name: Dragonhawk Egg
 UPDATE locales_gameobject SET name_loc2='Cage' WHERE entry=181379; -- Name: Cage
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=181380; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=181381; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=181380; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=181381; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Œuf de ravageur' WHERE entry=181385; -- Name: Ravager Egg
 UPDATE locales_gameobject SET name_loc2='Fosse à feu ogre' WHERE entry=181387; -- Name: Ogre Firepit
 UPDATE locales_gameobject SET name_loc2='Dressé, Intérieur, Moyen - FFS' WHERE entry=181388; -- Name: Standing, Interior, Medium - MFF
@@ -7936,33 +8511,33 @@ UPDATE locales_gameobject SET name_loc2='Doodad_OnyziasLairLavaTrap82' WHERE ent
 UPDATE locales_gameobject SET name_loc2='Doodad_OnyziasLairLavaTrap83' WHERE entry=181442; -- Name: Doodad_OnyziasLairLavaTrap83
 UPDATE locales_gameobject SET name_loc2='Déclencheur Kel\'Thuzad' WHERE entry=181444; -- Name: Kel'Thuzad Trigger
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=181445; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181446; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181446; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Gemme de signalisation' WHERE entry=181447; -- Name: Signaling Gem
 UPDATE locales_gameobject SET name_loc2='Aura de la gemme de signalisation' WHERE entry=181448; -- Name: Signaling Gem Aura
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=181450; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=181451; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=181452; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=181453; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=181455; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=181456; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=181450; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=181451; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=181452; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=181453; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=181455; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=181456; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Monument du souvenir' WHERE entry=181475; -- Name: Monument of Remembrance
 UPDATE locales_gameobject SET name_loc2='Portail de Nox, Pestebois' WHERE entry=181476; -- Name: Nox Portal Plaguewood
 UPDATE locales_gameobject SET name_loc2='Doodad_nox_tesla05' WHERE entry=181477; -- Name: Doodad_nox_tesla05
 UPDATE locales_gameobject SET name_loc2='Doodad_nox_tesla06' WHERE entry=181478; -- Name: Doodad_nox_tesla06
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181480; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181481; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181483; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181484; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181485; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181486; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181487; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181488; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181489; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181490; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181491; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181493; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181494; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181495; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181480; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181481; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181483; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181484; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181485; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181486; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181487; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181488; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181489; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181490; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181491; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181493; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181494; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181495; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Heigan - Vieille porte de sortie' WHERE entry=181496; -- Name: Heigan - Exit Door
 UPDATE locales_gameobject SET name_loc2='Fissure pestiférée' WHERE entry=181510; -- Name: Plague Fissure
 UPDATE locales_gameobject SET name_loc2='Fissure pestiférée' WHERE entry=181511; -- Name: Plague Fissure
@@ -8023,6 +8598,7 @@ UPDATE locales_gameobject SET name_loc2='Portail de Naxxramas' WHERE entry=18157
 UPDATE locales_gameobject SET name_loc2='Portail de Naxxramas' WHERE entry=181578; -- Name: Naxxramas Portal
 UPDATE locales_gameobject SET name_loc2='Piège de terre contaminée' WHERE entry=181583; -- Name: Tainted Soil Trap
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181595; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=181596; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Monticule de silithyste' WHERE entry=181597; -- Name: Silithyst Mound
 UPDATE locales_gameobject SET name_loc2='Geyser de silithyste' WHERE entry=181598; -- Name: Silithyst Geyser
 UPDATE locales_gameobject SET name_loc2='Rune' WHERE entry=181599; -- Name: Rune
@@ -8039,10 +8615,11 @@ UPDATE locales_gameobject SET name_loc2='Jaguar - cage à crocilisque' WHERE ent
 UPDATE locales_gameobject SET name_loc2='Râtelier d\'armes' WHERE entry=181627; -- Name: Weapon Rack
 UPDATE locales_gameobject SET name_loc2='Petit coffre' WHERE entry=181629; -- Name: Holy Coffer
 UPDATE locales_gameobject SET name_loc2='Panneau de contrôle du Robotron' WHERE entry=181631; -- Name: Robotron Control Panel
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181633; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=181634; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181633; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=181634; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181635; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Autel de Naïas' WHERE entry=181636; -- Name: Altar of Naias
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=181639; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Doodad_kelthuzad_trône02' WHERE entry=181640; -- Name: Doodad_kelthuzad_throne02
 UPDATE locales_gameobject SET name_loc2='Cadavre de Barbe-de-plumes' WHERE entry=181643; -- Name: Featherbeard's Remains
 UPDATE locales_gameobject SET name_loc2='Gueule-de-loup azurée' WHERE entry=181644; -- Name: Azure Snapdragon
@@ -8052,12 +8629,12 @@ UPDATE locales_gameobject SET name_loc2='Faille d\'eau' WHERE entry=181650; -- N
 UPDATE locales_gameobject SET name_loc2='Faille d\'air' WHERE entry=181651; -- Name: Air Rift
 UPDATE locales_gameobject SET name_loc2='Faille de feu' WHERE entry=181652; -- Name: Fire Rift
 UPDATE locales_gameobject SET name_loc2='Bois' WHERE entry=181654; -- Name: Lumber
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181655; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181656; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181657; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181658; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181659; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181660; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181655; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181656; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181657; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181658; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181659; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181660; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Cage' WHERE entry=181663; -- Name: Cage
 UPDATE locales_gameobject SET name_loc2='Cage arakkoa' WHERE entry=181664; -- Name: Arakkoa Cage
 UPDATE locales_gameobject SET name_loc2='Coffre funéraire' WHERE entry=181665; -- Name: Burial Chest
@@ -8073,10 +8650,10 @@ UPDATE locales_gameobject SET name_loc2='Monticule de terre fertile' WHERE entry
 UPDATE locales_gameobject SET name_loc2='Fissure pestiférée' WHERE entry=181695; -- Name: Plague Fissure
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181711; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181712; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=181715; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=181715; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=181716; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181734; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181735; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181735; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181736; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181737; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Etal de viande' WHERE entry=181738; -- Name: Meat Rack
@@ -8084,14 +8661,14 @@ UPDATE locales_gameobject SET name_loc2='Arme d\'Indomptable (lance)' WHERE entr
 UPDATE locales_gameobject SET name_loc2='Equipement de Clopper' WHERE entry=181746; -- Name: Clopper's Equipment
 UPDATE locales_gameobject SET name_loc2='Céréales calmepins' WHERE entry=181757; -- Name: Stillpine Grain
 UPDATE locales_gameobject SET name_loc2='Monticule de poussière' WHERE entry=181758; -- Name: Mound of Dirt
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181767; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181767; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Tome scellé' WHERE entry=181768; -- Name: Sealed Tome
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181773; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181775; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181775; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Cercle de prophétie' WHERE entry=181782; -- Name: Circle of Prophecy
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181787; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181788; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181789; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181789; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Coffre en gangrefer' WHERE entry=181798; -- Name: Fel Iron Chest
 UPDATE locales_gameobject SET name_loc2='Coffre lourd en gangrefer' WHERE entry=181800; -- Name: Heavy Fel Iron Chest
 UPDATE locales_gameobject SET name_loc2='Coffre cerclé d\'adamantite' WHERE entry=181802; -- Name: Adamantite Bound Chest
@@ -8120,7 +8697,7 @@ UPDATE locales_gameobject SET name_loc2='Pièce détachée de la pompe à vapeur
 UPDATE locales_gameobject SET name_loc2='Pièce détachée de la pompe à vapeur' WHERE entry=181873; -- Name: Steam Pump Part
 UPDATE locales_gameobject SET name_loc2='Pièce détachée de la pompe à vapeur' WHERE entry=181876; -- Name: Steam Pump Part
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=181884; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=181885; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=181885; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Fusée de feu d\'artifice violet' WHERE entry=181886; -- Name: Firework Rocket, Promotion
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181887; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181888; -- Name: Campfire
@@ -8129,7 +8706,7 @@ UPDATE locales_gameobject SET name_loc2='Doodad_BattlefieldBanner_State_Base_Pla
 UPDATE locales_gameobject SET name_loc2='Calice d\'Élune' WHERE entry=181913; -- Name: Chalice of Elune
 UPDATE locales_gameobject SET name_loc2='Bois gangrené de Satyrnaar' WHERE entry=181916; -- Name: Tainted Wood
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=181920; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=181954; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=181954; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Sanctuaire de guérison' WHERE entry=181955; -- Name: Lordaeron Shrine
 UPDATE locales_gameobject SET name_loc2='Torche de caverne' WHERE entry=181959; -- Name: Cave Torch
 UPDATE locales_gameobject SET name_loc2='Sac de poussière' WHERE entry=181962; -- Name: Dust Bag
@@ -8138,7 +8715,7 @@ UPDATE locales_gameobject SET name_loc2='Statue de la reine Azshara' WHERE entry
 UPDATE locales_gameobject SET name_loc2='Statue de feu' WHERE entry=181965; -- Name: Statue Fire
 UPDATE locales_gameobject SET name_loc2='Bateau vers Rut\'Theran' WHERE entry=181985; -- Name: Boat to Auberdine
 UPDATE locales_gameobject SET name_loc2='Fusée de justice' WHERE entry=181987; -- Name: Flare of Justice
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=181989; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=181989; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=181990; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Parchemin' WHERE entry=182005; -- Name: Scroll
 UPDATE locales_gameobject SET name_loc2='Caisse de lingots' WHERE entry=182011; -- Name: Crate of Ingots
@@ -8192,25 +8769,25 @@ UPDATE locales_gameobject SET name_loc2='Bannière de la tour' WHERE entry=18210
 UPDATE locales_gameobject SET name_loc2='Aura du cristal corrompu' WHERE entry=182114; -- Name: Corrupted Crystal Aura
 UPDATE locales_gameobject SET name_loc2='Avis de recherche' WHERE entry=182115; -- Name: Wanted Poster
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=182117; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182118; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182118; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Terre de la Morte-bourbe' WHERE entry=182119; -- Name: Dead Mire Soil
 UPDATE locales_gameobject SET name_loc2='Feu de hutte (grand)' WHERE entry=182146; -- Name: Hut Fire (Large)
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=182147; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=182148; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=182149; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=182150; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=182151; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=182152; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=182153; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=182154; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=182155; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=182156; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=182157; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=182158; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=182159; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=182160; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=182161; -- Name: Blazing Fire
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=182162; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=182147; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=182148; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=182149; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=182150; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=182151; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=182152; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=182153; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=182154; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=182155; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=182156; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=182157; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=182158; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=182159; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=182160; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=182161; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=182162; -- Name: Blazing Fire
 UPDATE locales_gameobject SET name_loc2='Cage à murloc' WHERE entry=182164; -- Name: Murloc Cage
 UPDATE locales_gameobject SET name_loc2='Avis de recherche' WHERE entry=182165; -- Name: Wanted Poster
 UPDATE locales_gameobject SET name_loc2='Les vertes collines de Strangleronce' WHERE entry=182203; -- Name: The Green Hills of Stranglethorn
@@ -8219,17 +8796,17 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=182206; -- Nam
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=182209; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu (petit)' WHERE entry=182211; -- Name: Fire (Small)
 UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=182215; -- Name: 0
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=182216; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=182217; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=182218; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=182219; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=182220; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=182221; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182216; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182217; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182218; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182219; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182220; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182221; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chariot de bombes' WHERE entry=182222; -- Name: Bomb Wagon
 UPDATE locales_gameobject SET name_loc2='Quatrième bûcher de la Lame ardente' WHERE entry=182261; -- Name: First Burning Blade Pyre
 UPDATE locales_gameobject SET name_loc2='Troisième bûcher de la Lame ardente' WHERE entry=182262; -- Name: Third Burning Blade Pyre
 UPDATE locales_gameobject SET name_loc2='Deuxième bûcher de la Lame ardente' WHERE entry=182264; -- Name: Second Burning Blade Pyre
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182269; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182269; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=182270; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=182271; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Chariot de bombes' WHERE entry=182272; -- Name: Bomb Wagon
@@ -8240,9 +8817,9 @@ UPDATE locales_gameobject SET name_loc2='Chariot de bombes' WHERE entry=182305; 
 UPDATE locales_gameobject SET name_loc2='Chariot de bombes' WHERE entry=182306; -- Name: Bomb Wagon
 UPDATE locales_gameobject SET name_loc2='Chariot de bombes' WHERE entry=182307; -- Name: Bomb Wagon
 UPDATE locales_gameobject SET name_loc2='Chariot de bombes' WHERE entry=182308; -- Name: Bomb Wagon
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182315; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182316; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182317; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182315; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182316; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182317; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=182343; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=182344; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=182345; -- Name: Campfire
@@ -8308,9 +8885,9 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=182536; -- Nam
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=182537; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=182538; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Plans des gangr\'orcs' WHERE entry=182549; -- Name: Fel Orc Plans
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=182561; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182561; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Piège d\'autel de l\'Aldor' WHERE entry=182564; -- Name: Piege autel de l'Aldor
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=182567; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=182567; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=182568; -- Name: Burning Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=182569; -- Name: Burning Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=182570; -- Name: Burning Brazier
@@ -8340,8 +8917,8 @@ UPDATE locales_gameobject SET name_loc2='Poêle de cuisine' WHERE entry=182834; 
 UPDATE locales_gameobject SET name_loc2='Poêle de cuisine' WHERE entry=182835; -- Name: Cooking Stove
 UPDATE locales_gameobject SET name_loc2='Poêle de cuisine' WHERE entry=182836; -- Name: Cooking Stove
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=182860; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182862; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182863; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182862; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182863; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182864; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182865; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182866; -- Name: Fire
@@ -8408,12 +8985,12 @@ UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=182926; -- Name: Ch
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=182927; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=182928; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=182929; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=182939; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=182939; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Cage' WHERE entry=182942; -- Name: Cage
 UPDATE locales_gameobject SET name_loc2='Socle de la cage' WHERE entry=182943; -- Name: Cage Base
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=182944; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182944; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Aura de la pierre de la Légion' WHERE entry=182945; -- Name: Legion Stone Aura
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=182946; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=182946; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Eau pure' WHERE entry=182951; -- Name: Pure Water
 UPDATE locales_gameobject SET name_loc2='Détritus de la pompe à vapeur' WHERE entry=182952; -- Name: Steam Pump Flotsam
 UPDATE locales_gameobject SET name_loc2='Banc de poissons-spores' WHERE entry=182953; -- Name: Sporefish School
@@ -8429,13 +9006,13 @@ UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=182963; -- Name: Ch
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=182964; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=182965; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=182966; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182967; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182968; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182969; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182970; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182971; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182972; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=182973; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182967; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182968; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182969; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182970; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182971; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182972; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=182973; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=182994; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183005; -- Name: Fire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183006; -- Name: Fire
@@ -8452,12 +9029,12 @@ UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183027; -- Name: Ch
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183028; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183029; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183030; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=183031; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=183031; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183032; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183033; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=183034; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=183034; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183035; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=183039; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=183039; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Aveuglette' WHERE entry=183046; -- Name: Blindweed
 UPDATE locales_gameobject SET name_loc2='La Saga de Terokk' WHERE entry=183050; -- Name: The Saga of Terokk
 UPDATE locales_gameobject SET name_loc2='Cage sethekk' WHERE entry=183051; -- Name: Sethekk Cage
@@ -8472,11 +9049,11 @@ UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=183116; -- 
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=183117; -- Name: Burning Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=183118; -- Name: Burning Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=183119; -- Name: Burning Brazier
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=183120; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=183120; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=183121; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183124; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183125; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183126; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183124; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183125; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183126; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183127; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183129; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183132; -- Name: Campfire
@@ -8488,18 +9065,18 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183141; -- Nam
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183143; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Œuf mystérieux' WHERE entry=183147; -- Name: Mysterious Egg
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=183148; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=183149; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=183149; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183151; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183152; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183153; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183154; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183155; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183159; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183160; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183161; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183159; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183160; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183161; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183162; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Fumoir' WHERE entry=183166; -- Name: Smoker
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=183167; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=183167; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Fumoir' WHERE entry=183168; -- Name: Smoker
 UPDATE locales_gameobject SET name_loc2='Herse de la prison' WHERE entry=183170; -- Name: Prison Portcullis
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=183189; -- Name: Burning Brazier
@@ -8510,25 +9087,25 @@ UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=183193; -- 
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=183194; -- Name: Burning Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=183195; -- Name: Burning Brazier
 UPDATE locales_gameobject SET name_loc2='Brasero ardent' WHERE entry=183196; -- Name: Burning Brazier
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183197; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183197; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=183198; -- Name: Cooking Fire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183204; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183265; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183204; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183265; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Cantine' WHERE entry=183266; -- Name: Footlocker
 UPDATE locales_gameobject SET name_loc2='Penderie' WHERE entry=183267; -- Name: Dresser
 UPDATE locales_gameobject SET name_loc2='Étagère de livres' WHERE entry=183268; -- Name: Bookshelf
 UPDATE locales_gameobject SET name_loc2='Râtelier d\'armes' WHERE entry=183269; -- Name: Weapon Rack
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183270; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183274; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183275; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183275; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183276; -- Name: 0
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183277; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183277; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Doodad_InnBench02' WHERE entry=183297; -- Name: Doodad_InnBench02
 UPDATE locales_gameobject SET name_loc2='Doodad_InnBench01' WHERE entry=183298; -- Name: Doodad_InnBench01
 UPDATE locales_gameobject SET name_loc2='Doodad_InnBench04' WHERE entry=183299; -- Name: Doodad_InnBench04
 UPDATE locales_gameobject SET name_loc2='Doodad_InnBench03' WHERE entry=183300; -- Name: Doodad_InnBench03
 UPDATE locales_gameobject SET name_loc2='Fourneau' WHERE entry=183305; -- Name: Stove
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183313; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183313; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=183314; -- Name: Burning Fire
 UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=183315; -- Name: Burning Fire
 UPDATE locales_gameobject SET name_loc2='Shattrath, portail pour Darnassus' WHERE entry=183317; -- Name: Shattrath Portal to Darnassus
@@ -8542,30 +9119,30 @@ UPDATE locales_gameobject SET name_loc2='Epée d\'Imarion' WHERE entry=183338; -
 UPDATE locales_gameobject SET name_loc2='Epée de Makha' WHERE entry=183339; -- Name: Makha's Sword
 UPDATE locales_gameobject SET name_loc2='Gangrefeu' WHERE entry=183344; -- Name: Fel Fire
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=183345; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=183346; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=183346; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=183347; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=183348; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=183348; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183349; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Eclairage théâtral' WHERE entry=183356; -- Name: Theatric Lightning
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183368; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183369; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183370; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183371; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183372; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183373; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183374; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183375; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183376; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183377; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183378; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183379; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183380; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183381; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=183382; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183368; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183369; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183370; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183371; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183372; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183373; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183374; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183375; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183376; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183377; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183378; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183379; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183380; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183381; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=183382; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Puits de feu' WHERE entry=183383; -- Name: Fire Pit
 UPDATE locales_gameobject SET name_loc2='Hibiscus sanguin' WHERE entry=183385; -- Name: Sanguine Hibiscus
 UPDATE locales_gameobject SET name_loc2='Hibiscus sanguin' WHERE entry=183386; -- Name: Sanguine Hibiscus
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183393; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183393; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Débris de zeppelin' WHERE entry=183397; -- Name: Zeppelin Debris
 UPDATE locales_gameobject SET name_loc2='Herse' WHERE entry=183401; -- Name: Portcullis
 UPDATE locales_gameobject SET name_loc2='Herse' WHERE entry=183402; -- Name: Portcullis
@@ -8573,24 +9150,24 @@ UPDATE locales_gameobject SET name_loc2='Bannière de Terokkar' WHERE entry=1834
 UPDATE locales_gameobject SET name_loc2='Bannière de Terokkar' WHERE entry=183412; -- Name: Terokkar Banner
 UPDATE locales_gameobject SET name_loc2='Bannière de Terokkar' WHERE entry=183413; -- Name: Terokkar Banner
 UPDATE locales_gameobject SET name_loc2='Bannière de Terokkar' WHERE entry=183414; -- Name: Terokkar Banner
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183418; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183419; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183420; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183421; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183422; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183423; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183424; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183425; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183427; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183428; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183418; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183419; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183420; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183421; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183422; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183423; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183424; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183425; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183427; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183428; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183429; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183430; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183432; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183433; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183432; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183433; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Porte de la Conciergerie' WHERE entry=183450; -- Name: Gatehouse Door
 UPDATE locales_gameobject SET name_loc2='Casier de viande fumée' WHERE entry=183465; -- Name: Smoked Meat Rack
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183467; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=183483; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183467; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=183483; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=183484; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Aura' WHERE entry=183516; -- Name: Aura
 UPDATE locales_gameobject SET name_loc2='Levier' WHERE entry=183517; -- Name: Lever
@@ -8790,7 +9367,7 @@ UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183751; -- Name: Ch
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183752; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183754; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183755; -- Name: Chair
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=183761; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=183761; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Cristal de matrice d\'etherlithium' WHERE entry=183768; -- Name: Etherlithium Matrix Crystal
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183773; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=183774; -- Name: Chair
@@ -8809,14 +9386,14 @@ UPDATE locales_gameobject SET name_loc2='Aura verte, petite colonne' WHERE entry
 UPDATE locales_gameobject SET name_loc2='Feu des Flammes infernales' WHERE entry=183816; -- Name: Hellfire Fire
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=183818; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Caquelon' WHERE entry=183821; -- Name: Stewpot
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183824; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183824; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=183827; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183828; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183828; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Arcaniste Maisie, invocatrice de tempêtes' WHERE entry=183853; -- Name: Arcanist Maisie the Storm-Summoner
 UPDATE locales_gameobject SET name_loc2='Magistrice Monica, la Contemplatrice du soleil' WHERE entry=183854; -- Name: Magistrix Monica the Sun-Gazer
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183882; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183883; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183894; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183882; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183883; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183894; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=183895; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=183896; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=183897; -- Name: Fierce Blaze
@@ -8831,7 +9408,7 @@ UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=183905; -- 
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=183906; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=183907; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=183908; -- Name: Fierce Blaze
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183909; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183909; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=183910; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=183911; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=183912; -- Name: Fierce Blaze
@@ -8855,8 +9432,8 @@ UPDATE locales_gameobject SET name_loc2='Pièces de déchiqueteur' WHERE entry=1
 UPDATE locales_gameobject SET name_loc2='Cage de Manni' WHERE entry=183936; -- Name: Manni's Cage
 UPDATE locales_gameobject SET name_loc2='Cage de Moh' WHERE entry=183940; -- Name: Moh's Cage
 UPDATE locales_gameobject SET name_loc2='Cage de Jakk' WHERE entry=183941; -- Name: Jakk's Cage
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183946; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=183984; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183946; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=183984; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183985; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=183986; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Flamme de la fusée' WHERE entry=183987; -- Name: Rocket Fire
@@ -8869,29 +9446,29 @@ UPDATE locales_gameobject SET name_loc2='Pommes d\'Amadi' WHERE entry=183995; --
 UPDATE locales_gameobject SET name_loc2='Parchemin d\'Amadi' WHERE entry=183996; -- Name: Amadi Scroll
 UPDATE locales_gameobject SET name_loc2='La Saga de Terokk' WHERE entry=183997; -- Name: The Saga of Terokk
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=184003; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=184004; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=184004; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Prison temporelle' WHERE entry=184006; -- Name: Temporal Prison
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184009; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184010; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184011; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184012; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184015; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184016; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184017; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184018; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184021; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184022; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184023; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184024; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184025; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184009; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184010; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184011; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184012; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184015; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184016; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184017; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184018; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184021; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184022; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184023; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184024; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184025; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=184026; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=184027; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=184028; -- Name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=184029; -- Name: Fierce Blaze
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184030; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184032; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184033; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184034; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184030; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184032; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184033; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184034; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Donjon de Fort-de-Durn' WHERE entry=184057; -- Name: Durnholde Keep
 UPDATE locales_gameobject SET name_loc2='Moulin-de-Tarren' WHERE entry=184058; -- Name: Tarren Mill
 UPDATE locales_gameobject SET name_loc2='Austrivage' WHERE entry=184059; -- Name: Southshore
@@ -8909,7 +9486,7 @@ UPDATE locales_gameobject SET name_loc2='Point de capture Tour BE' WHERE entry=1
 UPDATE locales_gameobject SET name_loc2='Point de capture Saccageur gangrené' WHERE entry=184081; -- Name: Fel Reaver Cap Pt
 UPDATE locales_gameobject SET name_loc2='Point de capture Tour humaine' WHERE entry=184082; -- Name: Human Tower Cap Pt
 UPDATE locales_gameobject SET name_loc2='Point de capture Tour draeneï' WHERE entry=184083; -- Name: Draenei Tower Cap Pt
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=184085; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=184085; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Aura du communicateur de la Légion' WHERE entry=184092; -- Name: Legion Communicator Aura
 UPDATE locales_gameobject SET name_loc2='Aura de divination' WHERE entry=184119; -- Name: Scrying Aura
 UPDATE locales_gameobject SET name_loc2='Compendium de Krasus - Chapitre 1' WHERE entry=184121; -- Name: Krasus's Compendium - Chapter 1
@@ -8917,100 +9494,106 @@ UPDATE locales_gameobject SET name_loc2='Compendium de Krasus - Chapitre 3' WHER
 UPDATE locales_gameobject SET name_loc2='Aura du compendium de Krasus' WHERE entry=184124; -- Name: Krasus's Compendium Aura
 UPDATE locales_gameobject SET name_loc2='Mouches du fourre-tout d\'Arelion' WHERE entry=184144; -- Name: Arelion's Knapsack Aura
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184145; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=184147; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=184148; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=184147; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=184148; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184161; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Herse du corps de garde' WHERE entry=184164; -- Name: Karazhan Gatehouse Portcullis
 UPDATE locales_gameobject SET name_loc2='Pièces détachées du téléporteur' WHERE entry=184265; -- Name: Spare Teleporter Parts
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=184285; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=184285; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=184286; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184287; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Focalisation nécromantique' WHERE entry=184300; -- Name: Necromantic Focus
-UPDATE locales_gameobject SET name_loc2='Feu ardent' WHERE entry=184303; -- Name: Blazing Fire
+UPDATE locales_gameobject SET name_loc2='Feu brûlant' WHERE entry=184303; -- Name: Blazing Fire
 UPDATE locales_gameobject SET name_loc2='Coffre verrouillé' WHERE entry=184304; -- Name: Locked Chest
 UPDATE locales_gameobject SET name_loc2='Chaise de Mograine' WHERE entry=184305; -- Name: Mograine's Chair
 UPDATE locales_gameobject SET name_loc2='Cristal ténébreux' WHERE entry=184306; -- Name: Dark Crystal
 UPDATE locales_gameobject SET name_loc2='Coffre-fort de Mograine' WHERE entry=184308; -- Name: Mograine's Stronbox
 UPDATE locales_gameobject SET name_loc2='Toilettes suspectes' WHERE entry=184310; -- Name: Suspicious Outhouse
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=184313; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184314; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=184313; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184314; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Foudroyante de la Masse-sanglante' WHERE entry=184315; -- Name: Bloodmaul Brew
 UPDATE locales_gameobject SET name_loc2='Caquelon' WHERE entry=184316; -- Name: Stewpot
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184317; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184317; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Tome de divination' WHERE entry=184332; -- Name: Tome of Scrying
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184339; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184340; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184341; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184342; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184346; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184347; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184339; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184340; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184341; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184342; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184346; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184347; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=184355; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184357; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184360; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184357; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184360; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184364; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184368; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184369; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=184370; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=184373; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184376; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184377; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184377; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Visuel de la bannière (Horde)' WHERE entry=184380; -- Name: Visual Banner (Horde)
 UPDATE locales_gameobject SET name_loc2='Visuel de la bannière (Alliance)' WHERE entry=184381; -- Name: Visual Banner (Alliance)
 UPDATE locales_gameobject SET name_loc2='Visuel de la bannière (Neutre)' WHERE entry=184382; -- Name: Visual Banner (Neutral)
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=184384; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=184385; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=184386; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=184387; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=184388; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=184389; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=184390; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=184391; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=184392; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184395; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184396; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=184398; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=184399; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184400; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=184384; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=184385; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=184386; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=184387; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=184388; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=184389; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=184390; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=184391; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=184392; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184395; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184396; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=184398; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=184399; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184400; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Puits de feu' WHERE entry=184401; -- Name: Fire Pit
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=184442; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184448; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184448; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Eclat de cristal cramoisi' WHERE entry=184450; -- Name: Crimson Crystal Shard
 UPDATE locales_gameobject SET name_loc2='Rune de la lieuse de terre' WHERE entry=184454; -- Name: Earthbinder's Rune
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184467; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184470; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184471; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184467; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184470; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184471; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=184472; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184474; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184474; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=184475; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Sac de pèlerin déchiré' WHERE entry=184478; -- Name: Torn Pilgrim's Pack
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184494; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184494; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184495; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Tonneau de Foudroyante de la Masse-sanglante' WHERE entry=184504; -- Name: Bloodmaul Brew Keg
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=184530; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=184531; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=184532; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Métal fondu' WHERE entry=184554; -- Name: Molten metal
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=184558; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=184559; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=184558; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=184559; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Cellule de données de l\'Ethereum' WHERE entry=184560; -- Name: Ethereum Data Cell
 UPDATE locales_gameobject SET name_loc2='Disrupteur du Protectorat' WHERE entry=184561; -- Name: Protectorate Disruptor
 UPDATE locales_gameobject SET name_loc2='Aliments abandonnés' WHERE entry=184578; -- Name: Discarded Nutriment
 UPDATE locales_gameobject SET name_loc2='Aura du repère de géomètre' WHERE entry=184612; -- Name: Surveying Marker Aura
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=184616; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=184616; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=184617; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184644; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184645; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184646; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184647; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=184652; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Feu de cuisine' WHERE entry=184618; -- Name: Cooking Fire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184644; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184645; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184646; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184647; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184648; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184649; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184650; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184651; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=184652; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Aura de Sedaï' WHERE entry=184655; -- Name: Sedai's Aura
 UPDATE locales_gameobject SET name_loc2='Quête des Flammes infernales - Rune de Mépris fermée - 3.0' WHERE entry=184656; -- Name: Hellfire Quest - Rune of Spite Closed - 3.0
 UPDATE locales_gameobject SET name_loc2='Aura de l\'Œil de la Citadelle' WHERE entry=184658; -- Name: Eye of the Citadel Aura
 UPDATE locales_gameobject SET name_loc2='Aura des mystères de la Lumière' WHERE entry=184659; -- Name: Mysteris of the Light Aura
 UPDATE locales_gameobject SET name_loc2='Avis de recherche' WHERE entry=184660; -- Name: Wanted Poster
 UPDATE locales_gameobject SET name_loc2='Balise fumigène' WHERE entry=184661; -- Name: Smoke Beacon
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184683; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184683; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Œuf d\'écorcheur vorace' WHERE entry=184684; -- Name: Ravenous Flayer Egg
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=184686; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=184686; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=184687; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184688; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Tubercule d\'Ombrelune' WHERE entry=184691; -- Name: Shadowmoon Tuber
@@ -9020,6 +9603,7 @@ UPDATE locales_gameobject SET name_loc2='Boulets et chaînes' WHERE entry=184714
 UPDATE locales_gameobject SET name_loc2='Fumée de chaudron' WHERE entry=184717; -- Name: Cauldron Smoke
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184724; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=184732; -- Name: Chair
+UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=184733; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=184734; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Chaise' WHERE entry=184735; -- Name: Chair
 UPDATE locales_gameobject SET name_loc2='Tablette du clan Sire-tonnerre' WHERE entry=184736; -- Name: Thunderlord Clan Tablet
@@ -9037,13 +9621,14 @@ UPDATE locales_gameobject SET name_loc2='Cercueil scellé' WHERE entry=184813; -
 UPDATE locales_gameobject SET name_loc2='Cercueil scellé' WHERE entry=184814; -- Name: Sealed Coffin
 UPDATE locales_gameobject SET name_loc2='Cercueil scellé' WHERE entry=184815; -- Name: Sealed Coffin
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184816; -- Name: Campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184818; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184836; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184837; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=184838; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='La Plaie de Torgos' WHERE entry=184843; -- Name: Torgos's Bane
 UPDATE locales_gameobject SET name_loc2='Carcasse de Trachela' WHERE entry=184844; -- Name: Trachela's Carcass
 UPDATE locales_gameobject SET name_loc2='Forge du bastion de la Légion' WHERE entry=184846; -- Name: Legion Hold Forge
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=184852; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=184852; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Marmite' WHERE entry=184853; -- Name: Cookpot
 UPDATE locales_gameobject SET name_loc2='Sac A' WHERE entry=184858; -- Name: Bag A
 UPDATE locales_gameobject SET name_loc2='Matrice énergétique de saccageur gangrené' WHERE entry=184862; -- Name: Fel Reaver Energy Matrix
@@ -9093,7 +9678,7 @@ UPDATE locales_gameobject SET name_loc2='Coffre solide en gangrefer' WHERE entry
 UPDATE locales_gameobject SET name_loc2='Coffre solide en adamantite' WHERE entry=184937; -- Name: Solid Adamantite Chest
 UPDATE locales_gameobject SET name_loc2='Coffre solide en adamantite' WHERE entry=184939; -- Name: Solid Adamantite Chest
 UPDATE locales_gameobject SET name_loc2='Coffre solide en adamantite' WHERE entry=184941; -- Name: Solid Adamantite Chest
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=184944; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=184944; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Avis de recherche' WHERE entry=184945; -- Name: Wanted Poster
 UPDATE locales_gameobject SET name_loc2='Avis de recherche' WHERE entry=184946; -- Name: Wanted Poster
 UPDATE locales_gameobject SET name_loc2='Table d\'alchimie du docteur' WHERE entry=184949; -- Name: Doctor's Alchemy Table
@@ -9142,7 +9727,7 @@ UPDATE locales_gameobject SET name_loc2='Console de contrôle de saccageur gangr
 UPDATE locales_gameobject SET name_loc2='Console de contrôle de saccageur gangrené' WHERE entry=185061; -- Name: Fel Reaver Control Console
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=185104; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=185105; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185111; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185111; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=185112; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=185113; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Coffre couvert de poussière' WHERE entry=185119; -- Name: Dust Covered Chest
@@ -9152,17 +9737,17 @@ UPDATE locales_gameobject SET name_loc2='Levier' WHERE entry=185123; -- Name: Le
 UPDATE locales_gameobject SET name_loc2='Cœur de fureur' WHERE entry=185125; -- Name: Heart of Fury
 UPDATE locales_gameobject SET name_loc2='Cercle d\'invocation' WHERE entry=185127; -- Name: Summoning Circle
 UPDATE locales_gameobject SET name_loc2='Sac de Grulloc' WHERE entry=185152; -- Name: Grulloc's Sack
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185153; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185154; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185153; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185154; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Carcasse d\'écorcheur ongleroc' WHERE entry=185155; -- Name: Rocknail Flayer Carcass
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185157; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185158; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185159; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185160; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185161; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185162; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185163; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185164; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185157; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185158; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185159; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185160; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185161; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185162; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185163; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185164; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Avis de recherche' WHERE entry=185166; -- Name: Wanted Poster
 UPDATE locales_gameobject SET name_loc2='Pile de crânes de trolls' WHERE entry=185167; -- Name: Troll Skull Pile
 UPDATE locales_gameobject SET name_loc2='Coffre en gangrefer renforcé' WHERE entry=185168; -- Name: Reinforced Fel Iron Chest
@@ -9186,11 +9771,11 @@ UPDATE locales_gameobject SET name_loc2='Casier de viande fumée' WHERE entry=18
 UPDATE locales_gameobject SET name_loc2='Marmite' WHERE entry=185269; -- Name: Cookpot
 UPDATE locales_gameobject SET name_loc2='Casier de viande fumée' WHERE entry=185270; -- Name: Smoked Meat Rack
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=185283; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185284; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185286; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185288; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185284; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185286; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185288; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=185289; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=185290; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=185290; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Tête de Roche\'mok montée' WHERE entry=185294; -- Name: Mounted Boulder'mok Head
 UPDATE locales_gameobject SET name_loc2='Cage endommagée' WHERE entry=185296; -- Name: Battered Cage
 UPDATE locales_gameobject SET name_loc2='[DND]Base de la cage' WHERE entry=185301; -- Name: [DND]Cage Base
@@ -9241,23 +9826,23 @@ UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=185431; -- 
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=185432; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc2='Squelette assis 04' WHERE entry=185438; -- Name: Sitting Skeleton 04
 UPDATE locales_gameobject SET name_loc2='Cage' WHERE entry=185474; -- Name: Cage
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=185477; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=185477; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Fontaine de Reflet-de-Lune' WHERE entry=185493; -- Name: Moonglade Fountain
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=185498; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Fleur des tourbières (inoffensive)' WHERE entry=185502; -- Name: Bogblossom (harmless)
 UPDATE locales_gameobject SET name_loc2='Gangrefeu' WHERE entry=185520; -- Name: Fel Fire
 UPDATE locales_gameobject SET name_loc2='Tas de terre' WHERE entry=185527; -- Name: Dirt Mound
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=185529; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=185530; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=185531; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=185532; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=185533; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=185534; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=185535; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=185536; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=185537; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=185538; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc2='Brasero' WHERE entry=185539; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=185529; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=185530; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=185531; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=185532; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=185533; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=185534; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=185535; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=185536; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=185537; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=185538; -- Name: Brazier
+UPDATE locales_gameobject SET name_loc2='Braséro' WHERE entry=185539; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc2='Fragment de pierre du Corbeau' WHERE entry=185541; -- Name: Raven Stone Fragment
 UPDATE locales_gameobject SET name_loc2='Œuf de kaliri monstrueux' WHERE entry=185549; -- Name: Monstrous Kaliri Egg
 UPDATE locales_gameobject SET name_loc2='Cercle de flammes' WHERE entry=185555; -- Name: Flame Circle
@@ -9288,27 +9873,28 @@ UPDATE locales_gameobject SET name_loc2='Jeu Simon, Aura rouge, Grand' WHERE ent
 UPDATE locales_gameobject SET name_loc2='Jeu Simon, Aura jaune, Grand' WHERE entry=185951; -- Name: Simon Game Aura Yellow Large
 UPDATE locales_gameobject SET name_loc2='Cage' WHERE entry=185952; -- Name: Cage
 UPDATE locales_gameobject SET name_loc2='Paquet d\'Hazzik' WHERE entry=185954; -- Name: Hazzik's Package
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=186023; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=186035; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=186130; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=186131; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=186137; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=186023; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=186035; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=186130; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=186131; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=186132; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=186137; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=186138; -- Name: Forge
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=186141; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=186142; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=186142; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Tonneau de la fête des Brasseurs cassable' WHERE entry=186173; -- Name: Brewfest Keg Breakable
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=186174; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=186175; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=186176; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=186177; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=186177; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=186178; -- Name: Cauldron
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=186180; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=186180; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='FÊTE DES BRASSEURS - Prochainement !' WHERE entry=186217; -- Name: BREWFEST - Coming Soon!
 UPDATE locales_gameobject SET name_loc2='Puits de lune' WHERE entry=186218; -- Name: Moon Well
 UPDATE locales_gameobject SET name_loc2='Doodad de musique de la fête des Brasseurs' WHERE entry=186221; -- Name: Brewfest Music Doodad
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=186230; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=186230; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=186231; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=186232; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=186232; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=186233; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Ferme de Tabetha' WHERE entry=186240; -- Name: Tabetha's Farm
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=186243; -- Name: Campfire
@@ -9351,9 +9937,9 @@ UPDATE locales_gameobject SET name_loc2='Queue de wyrm' WHERE entry=186463; -- N
 UPDATE locales_gameobject SET name_loc2='Faisceau du phare' WHERE entry=186465; -- Name: Lighthouse Beam
 UPDATE locales_gameobject SET name_loc2='Cercle de runes d\'Alcaz' WHERE entry=186469; -- Name: Alcaz Rune Circle
 UPDATE locales_gameobject SET name_loc2='Bock supertonique' WHERE entry=186478; -- Name: Super Brew Stein
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=186629; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=186629; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=186630; -- Name: Forge
-UPDATE locales_gameobject SET name_loc2='Enclume' WHERE entry=186631; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=186631; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc2='Pièces d\'or' WHERE entry=186633; -- Name: Gold Coins
 UPDATE locales_gameobject SET name_loc2='Pièces d\'or' WHERE entry=186634; -- Name: Gold Coins
 UPDATE locales_gameobject SET name_loc2='Coffre de Norkani' WHERE entry=186658; -- Name: Kraz's Chest
@@ -9368,7 +9954,7 @@ UPDATE locales_gameobject SET name_loc2='Boîte à charmes amani' WHERE entry=18
 UPDATE locales_gameobject SET name_loc2='Boîte à charmes amani' WHERE entry=186740; -- Name: Amani Charm Box
 UPDATE locales_gameobject SET name_loc2='Boîte à charmes amani' WHERE entry=186741; -- Name: Amani Charm Box
 UPDATE locales_gameobject SET name_loc2='Boîte à trésors amani' WHERE entry=186744; -- Name: Amani Treasure Box
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=186745; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=186745; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Tonneau de bière de Bakkalzu' WHERE entry=186748; -- Name: Harkor's Brew Keg
 UPDATE locales_gameobject SET name_loc2='Artifices de Fudgerick' WHERE entry=186750; -- Name: Fudgerick's Fireworks
 UPDATE locales_gameobject SET name_loc2='Plans de sabotage des Sombrefers' WHERE entry=186881; -- Name: Dark Iron Sabotage Plans
@@ -9388,6 +9974,7 @@ UPDATE locales_gameobject SET name_loc2='Dressé, Géant - Noël' WHERE entry=18
 UPDATE locales_gameobject SET name_loc2='Dressé, Extérieur, Moyen - Noël' WHERE entry=187235; -- Name: HDressing, Christmas Standing Medium Exterior
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=187252; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc2='Parchemin enroulé' WHERE entry=187254; -- Name: Rolled Scroll
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=187260; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Empreinte de sabot générique' WHERE entry=187272; -- Name: Generic Hoofprint
 UPDATE locales_gameobject SET name_loc2='Empreinte de sabot suspecte' WHERE entry=187273; -- Name: Suspicious Hoofprint
 UPDATE locales_gameobject SET name_loc2='Buisson de sangrelle' WHERE entry=187333; -- Name: Bloodberry Bush
@@ -9406,16 +9993,25 @@ UPDATE locales_gameobject SET name_loc2='Torche du Crépuscule' WHERE entry=1879
 UPDATE locales_gameobject SET name_loc2='Torche du Crépuscule' WHERE entry=187989; -- Name: Twilight Torch
 UPDATE locales_gameobject SET name_loc2='Bloc de glace' WHERE entry=188067; -- Name: Ice Block
 UPDATE locales_gameobject SET name_loc2='Monture de la pierre de glace' WHERE entry=188072; -- Name: Ice Stone Mount
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=188123; -- Name: Mailbox
-UPDATE locales_gameobject SET name_loc2='Boîte aux lettres' WHERE entry=188132; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=188123; -- Name: Mailbox
+UPDATE locales_gameobject SET name_loc2='Boite aux lettres' WHERE entry=188132; -- Name: Mailbox
 UPDATE locales_gameobject SET name_loc2='Bloc de glace, grand' WHERE entry=188142; -- Name: Ice Block, Big
 UPDATE locales_gameobject SET name_loc2='Doodad de la musique du solstice d\'été' WHERE entry=188174; -- Name: Midsummer Music Doodad
-UPDATE locales_gameobject SET name_loc2='Feu de joie' WHERE entry=188214; -- Name: Bonfire
+UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=188214; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Orbe du vol bleu' WHERE entry=188415; -- Name: Orb of the Blue Flight
 UPDATE locales_gameobject SET name_loc2='Console de la taupe mécanique' WHERE entry=188498; -- Name: Mole Machine Console
 UPDATE locales_gameobject SET name_loc2='Fumée de chaudron' WHERE entry=190395; -- Name: Cauldron Smoke
 UPDATE locales_gameobject SET name_loc2='Fumée de chope' WHERE entry=190396; -- Name: Mug Smoke
 UPDATE locales_gameobject SET name_loc2='Coffre de documents n°2' WHERE entry=190483; -- Name: Document Chest
 UPDATE locales_gameobject SET name_loc2='Coffre de documents n°3' WHERE entry=190484; -- Name: Document Chest
+UPDATE locales_gameobject SET name_loc2='Canon' WHERE entry=193011; -- Name: Cannon
+UPDATE locales_gameobject SET name_loc2='Cristal de communication' WHERE entry=210327; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc2='Cristal de communication' WHERE entry=210328; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc2='Cristal de communication' WHERE entry=210329; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc2='Cristal de communication' WHERE entry=210330; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc2='Cristal de communication' WHERE entry=210331; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc2='Cristal de communication' WHERE entry=210332; -- Name: Communication Crystal
+UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=211016; -- Name: Anvil
+UPDATE locales_gameobject SET name_loc2='Cercle d\'invocation' WHERE entry=211020; -- Name: Summoning Circle
 
 SET NAMES 'latin1';
