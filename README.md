@@ -16,13 +16,16 @@ Current support will include the following:
 * Taiwanese
 * Russian
 
+Plus the following, even though the client does not natively support it (See Using the Translated Locale on a different language client than the Locale below):
+* Italian
+
 ### How to use it
 
 Eventually it will become part of the main install database scripts, but for now it's a case of manually applying the updates.
 
 1) run the following SQL script:
 
-    `LocaleTablePrepare.sql`
+    `1_LocaleTablePrepare.sql`
 
 This will populate the localised tables with empty entries ready for the language pack.
 
@@ -39,6 +42,31 @@ The language pack currently consists of 6 files:
 
 
 The 6 files ending in `_missing.sql` are entries that need to be translated.
+
+### Using the Translated Locale on a different language client than the Locale
+
+1) If you wish to run the localised text in a different language client i.e. Italian Locale using an English client, run these scripts in order:
+
+    `1_LocaleTablePrepare.sql`
+    `2_Add_NewLocalisationFields.sql`
+    `3_InitialSaveEnglish.sql`
+
+2) Then Import the language pack you want from \Translations\<Language>
+
+The language pack currently consists of 6 files:
+
+    <Language>_Creature.sql
+    <Language>_Gameobject.sql
+    <Language>_GossipMenu.sql
+    <Language>_Items.sql
+    <Language>_PageText.sql
+    <Language>_Quest.sql
+    
+3) Then run the remaining script
+    `A_replace_BaseEnglish_with_<Language>.sql`
+
+3a) Should you want to revent the changes, just run:
+    `B_replace_BaseEnglish_with_English.sql`
 
 **Official Websites**
 ----
