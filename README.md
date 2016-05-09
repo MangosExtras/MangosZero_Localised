@@ -16,7 +16,7 @@ Current support will include the following:
 * Taiwanese
 * Russian
 
-Plus the following, even though the client does not natively support it (See Using the Translated Locale on a different language client than the Locale below):
+Plus the following, even though the client does not natively support it (See "Using the Translated Locale on a different language client than the Locale" below):
 * Italian
 
 ### How to use it
