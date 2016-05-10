@@ -8,7 +8,7 @@ SET `locales_gameobject`.`name_loc0` = gameobject_template.`Name`;
 
 UPDATE `locales_gossip_menu_option`
 INNER JOIN `gossip_menu_option` ON `locales_gossip_menu_option`.`menu_id` = gossip_menu_option.`menu_id` AND `locales_gossip_menu_option`.`id` = gossip_menu_option.`id`
-SET `locales_gossip_menu_option`.`option_text_loc0` = gossip_menu_option.`option_text`,`locales_gossip_menu_option`.`box_text_loc0` = gossip_menu_option.`box_text`
+SET `locales_gossip_menu_option`.`option_text_loc0` = gossip_menu_option.`option_text`,`locales_gossip_menu_option`.`box_text_loc0` = gossip_menu_option.`box_text`;
 
 UPDATE `locales_item`
 INNER JOIN `item_template` ON `locales_item`.`entry` = item_template.`Entry`
