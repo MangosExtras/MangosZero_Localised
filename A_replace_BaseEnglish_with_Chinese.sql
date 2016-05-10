@@ -1,4 +1,4 @@
-﻿-- ----------------------------------------------------------------------------------------------------------------
+-- ----------------------------------------------------------------------------------------------------------------
 -- WARNING: Running this script will replace the English text in the base World Database with the localised version
 -- ----------------------------------------------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ SET gossip_menu_option.`option_text`=`locales_gossip_menu_option`.`option_text_l
 
 UPDATE `item_template`
 INNER JOIN `locales_item` ON item_template.`Entry`=`locales_item`.`entry`
-SET item_template.`Name`=`locales_item`.`name_loc4`,item_template.`description`=`locales_item`.`description_loc4`;
+SET item_template.`Name`=`locales_item`.`name_loc4`,item_template.`description`=COALESCE(`locales_item`.`description_loc4`,'');
  
 UPDATE `npc_text`
 INNER JOIN `locales_npc_text` ON npc_text.`id`=`locales_npc_text`.`entry` 
@@ -44,11 +44,11 @@ SET npc_text.`Text0_0`=`locales_npc_text`.`Text0_0_loc4`,
 
 UPDATE `page_text`
 INNER JOIN `locales_page_text` ON page_text.`entry`=`locales_page_text`.`entry`
-SET page_text.`Text`=`locales_page_text`.`Text_loc4`;
+SET page_text.`Text`=COALESCE(`locales_page_text`.`Text_loc4`,'');
 
 UPDATE `points_of_interest`
 INNER JOIN `locales_points_of_interest` ON points_of_interest.`entry`=`locales_points_of_interest`.`entry`
-SET points_of_interest.`icon_name`=`locales_points_of_interest`.`icon_name_loc4`;
+SET points_of_interest.`icon_name`=COALESCE(`locales_points_of_interest`.`icon_name_loc4`,`locales_points_of_interest`.`icon_name_loc0`);
 
 UPDATE `quest_template`
 INNER JOIN `locales_quest` ON quest_template.`entry`=`locales_quest`.`entry` 
