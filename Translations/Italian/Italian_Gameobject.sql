@@ -7550,7 +7550,7 @@ UPDATE locales_gameobject SET name_loc9='Secchiello di Viti di Felix' WHERE entr
 UPDATE locales_gameobject SET name_loc9='Piccone di Thazz\'ril' WHERE entry=178087; -- Name: Thazz'ril's Pick
 UPDATE locales_gameobject SET name_loc9='Ragnaros' WHERE entry=178088; -- Name: Ragnaros
 UPDATE locales_gameobject SET name_loc9='Aura del Piccone di Thazz\'ril' WHERE entry=178089; -- Name: Thazz'ril's Pick's Aura
-UPDATE locales_gameobject SET name_loc9='Tomba di Marla; WHERE entry=178090; -- Name: Marla's Grave
+UPDATE locales_gameobject SET name_loc9='Tomba di Marla' WHERE entry=178090; -- Name: Marla's Grave
 UPDATE locales_gameobject SET name_loc9='Cristallo Risonante' WHERE entry=178104; -- Name: Resonite Crystal
 UPDATE locales_gameobject SET name_loc9='Cristallo Risonante' WHERE entry=178105; -- Name: Resonite Crystal
 UPDATE locales_gameobject SET name_loc9='Cristallo Risonante' WHERE entry=178106; -- Name: Resonite Crystal
