@@ -354,6 +354,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4=''
 UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=3519 and id=5; -- option_text: Rogue
 UPDATE locales_gossip_menu_option SET option_text_loc4='萨满',box_text_loc4='' WHERE menu_id=3519 and id=6; -- option_text: Shaman
 UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=3519 and id=7; -- option_text: Warlock
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=3519 and id=8; -- option_text: Warrior
 UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3532 and id=0; -- option_text: Alchemy
 UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=3532 and id=1; -- option_text: Blacksmithing
 UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3532 and id=2; -- option_text: Cooking
@@ -862,7 +863,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物
 UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=5061 and id=0; -- option_text: Can you train me how to use rogue skills?
 UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=5061 and id=1; -- option_text: I wish to unlearn my talents.
 UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=5061 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='Teach me the ways of the spirits.',box_text_loc4='' WHERE menu_id=5123 and id=0; -- option_text: Teach me the ways of the spirits.
+UPDATE locales_gossip_menu_option SET option_text_loc4='教我精神之道。',box_text_loc4='' WHERE menu_id=5123 and id=0; -- option_text: Teach me the ways of the spirits.
 UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=5123 and id=1; -- option_text: I wish to unlearn my talents.
 UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=5461 and id=0; -- option_text: I want to create a guild crest.
 UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=5462 and id=0; -- option_text: I want to create a guild crest.
@@ -957,7 +958,278 @@ UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物
 UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=9798 and id=0; -- option_text: I would like to buy from you.
 UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=10598 and id=0; -- option_text: I want to browse your goods.
 UPDATE locales_gossip_menu_option SET option_text_loc4='是的，先生。谢谢您，先生！',box_text_loc4='' WHERE menu_id=50308 and id=0; -- option_text: Yes, sir. Thank you, sir!
-
+UPDATE locales_gossip_menu_option SET option_text_loc4='穴居人吗？！你提到了穴居人在今天的这个世界？',box_text_loc4='' WHERE menu_id=570 and id=0; -- option_text: Troggs?!  Are the troggs you mention the same as the ones in the world today?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你提到了两个结果，当土灵不稳定。其次是什么？',box_text_loc4='' WHERE menu_id=571 and id=0; -- option_text: You mentioned two results when the Earthen destabilize.  What is the second?
+UPDATE locales_gossip_menu_option SET option_text_loc4='矮人！！！现在你告诉我，小矮人最初来自瓦？！',box_text_loc4='' WHERE menu_id=572 and id=0; -- option_text: Dwarves!!!  Now you're telling me that dwarves originally came from the Earthen?!
+UPDATE locales_gossip_menu_option SET option_text_loc4='这些矮人是今天是同一个，是吗？土灵与矮人保持着任何其他的联系？',box_text_loc4='' WHERE menu_id=573 and id=0; -- option_text: These dwarves are the same ones today, yes?  Do dwarves maintain any other links to the Earthen?
+UPDATE locales_gossip_menu_option SET option_text_loc4='谁是创造者？',box_text_loc4='' WHERE menu_id=574 and id=0; -- option_text: Who are the Creators?
+UPDATE locales_gossip_menu_option SET option_text_loc4='这要好好考虑一下。',box_text_loc4='' WHERE menu_id=575 and id=0; -- option_text: This is a lot to think about.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我现在将访问圆盘。',box_text_loc4='' WHERE menu_id=576 and id=0; -- option_text: I will access the discs now.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想检查一下我的储物箱。',box_text_loc4='' WHERE menu_id=699 and id=0; -- option_text: I would like to check my deposit box.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我如何建立一个工会？',box_text_loc4='' WHERE menu_id=708 and id=0; -- option_text: How do I form a guild?
+UPDATE locales_gossip_menu_option SET option_text_loc4='请告诉我更多关于戈杜尼食人魔。',box_text_loc4='' WHERE menu_id=942 and id=1; -- option_text: Please tell me more about the Gordunni ogres.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你好索维克，我希望浏览你的商品。',box_text_loc4='' WHERE menu_id=980 and id=0; -- option_text: Hello Sovik, I wish to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='获得更高级别的访问卡',box_text_loc4='' WHERE menu_id=1045 and id=0; -- option_text: Acquire Higher Level Access Card
+UPDATE locales_gossip_menu_option SET option_text_loc4='获得更高级别的访问卡',box_text_loc4='' WHERE menu_id=1047 and id=0; -- option_text: Acquire Higher Level Access Card
+UPDATE locales_gossip_menu_option SET option_text_loc4='使用工程来访问隐藏的原理图！',box_text_loc4='' WHERE menu_id=1047 and id=1; -- option_text: Use engineering to access hidden schematics!
+UPDATE locales_gossip_menu_option SET option_text_loc4='获得更高级别的访问卡',box_text_loc4='' WHERE menu_id=1049 and id=0; -- option_text: Acquire Higher Level Access Card
+UPDATE locales_gossip_menu_option SET option_text_loc4='获取高级数据卡。',box_text_loc4='' WHERE menu_id=1050 and id=0; -- option_text: Acquire high level data card.
+UPDATE locales_gossip_menu_option SET option_text_loc4='使用工程来访问隐藏的原理图！',box_text_loc4='' WHERE menu_id=1050 and id=1; -- option_text: Use engineering to access hidden schematics!
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我关于减少。',box_text_loc4='' WHERE menu_id=1141 and id=0; -- option_text: Tell me about the reduction.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我更多，特伦顿。',box_text_loc4='' WHERE menu_id=1142 and id=0; -- option_text: Tell me more, Trenton.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你听到的树荫旅店的什么？',box_text_loc4='' WHERE menu_id=1161 and id=0; -- option_text: What have you heard of the Shady Rest Inn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='燃烧的旅店。',box_text_loc4='' WHERE menu_id=1186 and id=0; -- option_text: The Burning Inn.
+UPDATE locales_gossip_menu_option SET option_text_loc4='帕瓦尔·雷瑟。',box_text_loc4='' WHERE menu_id=1186 and id=1; -- option_text: Paval Reethe.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想浏览你的商品。',box_text_loc4='' WHERE menu_id=1301 and id=0; -- option_text: I wish to browse your wares.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我在这里训练。',box_text_loc4='' WHERE menu_id=1403 and id=0; -- option_text: I am here for training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想购买更多的萨伦迪斯种子。',box_text_loc4='' WHERE menu_id=1403 and id=1; -- option_text: I'd like to purchase more Tharlendris seeds.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=1503 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=1522 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我希望面对污染者。',box_text_loc4='' WHERE menu_id=1541 and id=0; -- option_text: I wish to face the Defiler.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我如何建立一个工会？',box_text_loc4='' WHERE menu_id=1626 and id=1; -- option_text: How do I form a guild?
+UPDATE locales_gossip_menu_option SET option_text_loc4='太神奇了!我从来没有和一个幽灵说话。我想学习！',box_text_loc4='' WHERE menu_id=1663 and id=0; -- option_text: Amazing! I've never spoken to a ghost. I wish to learn!
+UPDATE locales_gossip_menu_option SET option_text_loc4='请继续。',box_text_loc4='' WHERE menu_id=1664 and id=0; -- option_text: Continue please.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想购买更多的萨伦迪斯种子。',box_text_loc4='' WHERE menu_id=1701 and id=0; -- option_text: I'd like to purchase more Tharlendris seeds.
+UPDATE locales_gossip_menu_option SET option_text_loc4='买一些东西', will ya?',box_text_loc4='' WHERE menu_id=1802 and id=0; -- option_text: Buy somethin', will ya?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你的束缚结束了，杜姆雷尔。我挑战你！',box_text_loc4='' WHERE menu_id=1947 and id=0; -- option_text: Your bondage is at an end, Doom'rel.  I challenge you!
+UPDATE locales_gossip_menu_option SET option_text_loc4='这是谁的拉克维你说呢？',box_text_loc4='' WHERE menu_id=2188 and id=0; -- option_text: Who is this Lar'korwi you spoke of?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=2304 and id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=2381 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=2383 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=2384 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想检查一下我的储物箱。',box_text_loc4='' WHERE menu_id=2404 and id=0; -- option_text: I would like to check my deposit box.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你怎么看达丹加？',box_text_loc4='' WHERE menu_id=2422 and id=0; -- option_text: What do you think of Dadanga?
+UPDATE locales_gossip_menu_option SET option_text_loc4='对玛雷弗斯，我猜。',box_text_loc4='' WHERE menu_id=2945 and id=0; -- option_text: To Malyfous, I assume.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我会考虑下一次我遇到的这些事情。',box_text_loc4='' WHERE menu_id=2946 and id=0; -- option_text: I'll consider that the next time I run into one of these things.
+UPDATE locales_gossip_menu_option SET option_text_loc4='哦？',box_text_loc4='' WHERE menu_id=2947 and id=0; -- option_text: Oh?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须知道的东西：在那件事上你怎么去的浴室？ ',box_text_loc4='' WHERE menu_id=2948 and id=0; -- option_text: I must know something: How did you go to the bathroom with that thing on?
+UPDATE locales_gossip_menu_option SET option_text_loc4='所以让我得到这个。你正在游泳，而且，在熔岩中仰泳这…这是你的熔岩套装？是吗？然后突然冒出来，这野兽吞噬了你的全部？',box_text_loc4='' WHERE menu_id=2949 and id=0; -- option_text: So let me get this straight. You were swimming, nay, doing backstrokes in molten lava with this... this lava suit of yours? Yes? And out of nowhere, this here beast swallowed you whole?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我很想听。',box_text_loc4='' WHERE menu_id=2950 and id=0; -- option_text: I'm all ears.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你是怎么在那里开始的？',box_text_loc4='' WHERE menu_id=2951 and id=0; -- option_text: How the hell did you get in there to begin with?
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我浏览你的商品',box_text_loc4='' WHERE menu_id=3130 and id=0; -- option_text: Let me browse your goods
+UPDATE locales_gossip_menu_option SET option_text_loc4='我希望做个交易。',box_text_loc4='' WHERE menu_id=3181 and id=0; -- option_text: I wish to make a purchase.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我们成功的中和锅了吗？',box_text_loc4='' WHERE menu_id=3183 and id=0; -- option_text: What our successes in neutralization of cauldrons?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练。',box_text_loc4='' WHERE menu_id=3201 and id=0; -- option_text: I require training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个玻璃放大镜。',box_text_loc4='' WHERE menu_id=3223 and id=0; -- option_text: I need a vitreous focuser.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我希望从您购买奥术催化剂。',box_text_loc4='' WHERE menu_id=3223 and id=1; -- option_text: I wish to purchase arcane quickener from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='在费尔斯通农场有什么需要的大锅？',box_text_loc4='' WHERE menu_id=3223 and id=2; -- option_text: What's needed for the cauldron at Felstone Field?
+UPDATE locales_gossip_menu_option SET option_text_loc4='在达尔松之泪有什么需要的大锅？',box_text_loc4='' WHERE menu_id=3223 and id=3; -- option_text: What's needed for the cauldron at Dalson's Tears?
+UPDATE locales_gossip_menu_option SET option_text_loc4='在嚎哭鬼屋有什么需要的大锅？',box_text_loc4='' WHERE menu_id=3223 and id=4; -- option_text: What's needed for the cauldron at the Writhing Haunt?
+UPDATE locales_gossip_menu_option SET option_text_loc4='在盖罗恩农场有什么需要的大锅？',box_text_loc4='' WHERE menu_id=3223 and id=5; -- option_text: What's needed for the cauldron at Gahrron's Withering?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个玻璃放大镜。',box_text_loc4='' WHERE menu_id=3228 and id=0; -- option_text: I need a vitreous focuser.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我希望从您购买奥术催化剂。',box_text_loc4='' WHERE menu_id=3228 and id=1; -- option_text: I wish to purchase arcane quickener from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='在费尔斯通农场有什么需要的大锅？',box_text_loc4='' WHERE menu_id=3228 and id=2; -- option_text: What's needed for the cauldron at Felstone Field?
+UPDATE locales_gossip_menu_option SET option_text_loc4='在达尔松之泪有什么需要的大锅？',box_text_loc4='' WHERE menu_id=3228 and id=3; -- option_text: What's needed for the cauldron at Dalson's Tears?
+UPDATE locales_gossip_menu_option SET option_text_loc4='在嚎哭鬼屋有什么需要的大锅？',box_text_loc4='' WHERE menu_id=3228 and id=4; -- option_text: What's needed for the cauldron at the Writhing Haunt?
+UPDATE locales_gossip_menu_option SET option_text_loc4='在盖罗恩农场有什么需要的大锅？',box_text_loc4='' WHERE menu_id=3228 and id=5; -- option_text: What's needed for the cauldron at Gahrron's Withering?
+UPDATE locales_gossip_menu_option SET option_text_loc4='这是一种暴行。',box_text_loc4='' WHERE menu_id=3301 and id=0; -- option_text: This is an atrocity.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我怎么帮忙？',box_text_loc4='' WHERE menu_id=3302 and id=0; -- option_text: How can I help?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我感到恶心。',box_text_loc4='' WHERE menu_id=3303 and id=0; -- option_text: I feel sick.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我更多。',box_text_loc4='' WHERE menu_id=3304 and id=0; -- option_text: Tell me more.
+UPDATE locales_gossip_menu_option SET option_text_loc4='没有限制？就在一个圆圈里？',box_text_loc4='' WHERE menu_id=3305 and id=0; -- option_text: No restraints? Just in a circle?
+UPDATE locales_gossip_menu_option SET option_text_loc4='那么发生了什么？',box_text_loc4='' WHERE menu_id=3306 and id=0; -- option_text: So what happened?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你为什么不离开？',box_text_loc4='' WHERE menu_id=3307 and id=0; -- option_text: Why didn't you just leave?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你是什么意思？',box_text_loc4='' WHERE menu_id=3308 and id=0; -- option_text: What do you mean?
+UPDATE locales_gossip_menu_option SET option_text_loc4='直到什么，伊瓦？我必须知道。',box_text_loc4='' WHERE menu_id=3309 and id=0; -- option_text: Until what, Eva? I must know.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我是让人满意的，夫人。我可以问你在这里做什么？',box_text_loc4='' WHERE menu_id=3310 and id=0; -- option_text: The pleasure is mine, madam. Might I ask what it is that you are doing here?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要其他的银色黎明委任徽章。',box_text_loc4='' WHERE menu_id=3441 and id=0; -- option_text: I need another Argent Dawn Commission.
+UPDATE locales_gossip_menu_option SET option_text_loc4='埃达拉斯废墟。',box_text_loc4='' WHERE menu_id=3481 and id=1; -- option_text: The Ruins of Eldarath.
+UPDATE locales_gossip_menu_option SET option_text_loc4='北法师塔。',box_text_loc4='' WHERE menu_id=3481 and id=2; -- option_text: The mage tower to the north.
+UPDATE locales_gossip_menu_option SET option_text_loc4='木喉熊怪。',box_text_loc4='' WHERE menu_id=3481 and id=3; -- option_text: The Timbermaw furbolgs.
+UPDATE locales_gossip_menu_option SET option_text_loc4='蓝龙出现。',box_text_loc4='' WHERE menu_id=3481 and id=4; -- option_text: The presence of blue dragons.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我怎样才能到木喉熊怪证明自己呢？',box_text_loc4='' WHERE menu_id=3622 and id=0; -- option_text: How can I prove myself to the Timbermaw furbolg?
+UPDATE locales_gossip_menu_option SET option_text_loc4='关于冬泉熊怪？',box_text_loc4='' WHERE menu_id=3624 and id=0; -- option_text: What about the Winterfall furbolg?
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我',box_text_loc4='' WHERE menu_id=3644 and id=0; -- option_text: Train me
+UPDATE locales_gossip_menu_option SET option_text_loc4='你的战斗很好。我请求你给予我你身体和心灵的力量 。',box_text_loc4='' WHERE menu_id=3862 and id=0; -- option_text: You have fought well, spirit. I ask you to grant me the strength of your body and the strength of your heart.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你的战斗很好。我请求你给予我你身体和心灵的力量 。',box_text_loc4='' WHERE menu_id=3862 and id=1; -- option_text: You have fought well, spirit. I ask you to grant me the strength of your body and the strength of your heart.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=3921 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=3923 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=3924 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=3925 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=3926 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='是的，我有。教我。',box_text_loc4='' WHERE menu_id=3984 and id=0; -- option_text: Yes, I have. Teach me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我来看看你所提供的。',box_text_loc4='' WHERE menu_id=4002 and id=0; -- option_text: Let me take a look at what you have to offer.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我很好奇，想看看有什么能提供一桶的螺栓。',box_text_loc4='' WHERE menu_id=4003 and id=0; -- option_text: I am curious to see what a bucket of bolts has to offer.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想训练。',box_text_loc4='' WHERE menu_id=4007 and id=0; -- option_text: I'd like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练。',box_text_loc4='' WHERE menu_id=4009 and id=0; -- option_text: I am in need of training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4010 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4011 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4012 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4017 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4023 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='是的.我看到了。',box_text_loc4='' WHERE menu_id=4091 and id=0; -- option_text: Yes. I have.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4092 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4101 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='教我精神之道。',box_text_loc4='' WHERE menu_id=4103 and id=0; -- option_text: Teach me the ways of the spirits.
+UPDATE locales_gossip_menu_option SET option_text_loc4='教我精神之道。',box_text_loc4='' WHERE menu_id=4104 and id=0; -- option_text: Teach me the ways of the spirits.
+UPDATE locales_gossip_menu_option SET option_text_loc4='当然!让我们去兜风吧。',box_text_loc4='' WHERE menu_id=4306 and id=0; -- option_text: Sure! Let's go for a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能告诉我关于乌萨苟斯的熊？',box_text_loc4='' WHERE menu_id=4346 and id=1; -- option_text: What can you tell to me about a bear Ursangous's?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能告诉我关于猎影的夜刃豹？',box_text_loc4='' WHERE menu_id=4346 and id=2; -- option_text: What can you tell to me about a nightsaber Shadumbra's?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能告诉我关于尖爪的角鹰兽？',box_text_loc4='' WHERE menu_id=4346 and id=3; -- option_text: What can you tell to me about a hippogryph Sharptalon's?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4358 and id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='是的。我喜欢。',box_text_loc4='' WHERE menu_id=4461 and id=0; -- option_text: Yes. I do.
+UPDATE locales_gossip_menu_option SET option_text_loc4='是的。我喜欢。',box_text_loc4='' WHERE menu_id=4463 and id=0; -- option_text: Yes. I do.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我',box_text_loc4='' WHERE menu_id=4468 and id=0; -- option_text: Train me
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=4469 and id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=4470 and id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=4471 and id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4472 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4473 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4474 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4503 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4504 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4505 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4506 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=4507 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=4508 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想训练。',box_text_loc4='' WHERE menu_id=4512 and id=0; -- option_text: I would like training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想训练。',box_text_loc4='' WHERE menu_id=4513 and id=0; -- option_text: I would like training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='教我精神之道。',box_text_loc4='' WHERE menu_id=4515 and id=0; -- option_text: Teach me the ways of the spirits.
+UPDATE locales_gossip_menu_option SET option_text_loc4='教我精神之道。',box_text_loc4='' WHERE menu_id=4516 and id=0; -- option_text: Teach me the ways of the spirits.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4524 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='教我精神之道。',box_text_loc4='' WHERE menu_id=4528 and id=0; -- option_text: Teach me the ways of the spirits.
+UPDATE locales_gossip_menu_option SET option_text_loc4='教我精神之道。',box_text_loc4='' WHERE menu_id=4529 and id=0; -- option_text: Teach me the ways of the spirits.
+UPDATE locales_gossip_menu_option SET option_text_loc4='教我精神之道。',box_text_loc4='' WHERE menu_id=4530 and id=0; -- option_text: Teach me the ways of the spirits.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你训练我如何使用盗贼技能？',box_text_loc4='' WHERE menu_id=4540 and id=0; -- option_text: an you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你训练我如何使用盗贼技能？',box_text_loc4='' WHERE menu_id=4541 and id=0; -- option_text: an you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你训练我如何使用盗贼技能？',box_text_loc4='' WHERE menu_id=4542 and id=0; -- option_text: an you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4549 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我在这里训练。',box_text_loc4='' WHERE menu_id=4550 and id=0; -- option_text: I am here for training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4551 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=4556 and id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=4557 and id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我在寻找盗贼的训练。',box_text_loc4='' WHERE menu_id=4561 and id=0; -- option_text: I'm lookin' for rogue trainin'.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我在寻找盗贼的训练。',box_text_loc4='' WHERE menu_id=4562 and id=0; -- option_text: I'm lookin' for rogue trainin'.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4567 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=4571 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4603 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4604 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='为了更深入地了解大地母亲的意愿，我来追寻更进一步的德鲁伊训练。',box_text_loc4='' WHERE menu_id=4605 and id=0; -- option_text: I seek further druidic training to have a closer understanding of the Earth Mother's will.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=4606 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=4607 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4609 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4621 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4641 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='这是一个术士的获取更大的知识的方法，我渴望。',box_text_loc4='' WHERE menu_id=4642 and id=0; -- option_text: It is a greater knowledge of the ways of the warlock that I crave.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4643 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=4644 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4647 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4648 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想训练。',box_text_loc4='' WHERE menu_id=4652 and id=0; -- option_text: I'd like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4657 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=4662 and id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=4663 and id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我',box_text_loc4='' WHERE menu_id=4666 and id=0; -- option_text: Train me
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4667 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4674 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求猎人的训练。',box_text_loc4='' WHERE menu_id=4675 and id=0; -- option_text: I seek training in the ways of the Hunter.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=4677 and id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=4678 and id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我',box_text_loc4='' WHERE menu_id=4680 and id=0; -- option_text: Train me
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4681 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=4682 and id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=4687 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求作为一个德鲁伊的训练',box_text_loc4='' WHERE menu_id=4688 and id=0; -- option_text: I seek training as a druid.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我寻求训练。',box_text_loc4='' WHERE menu_id=4690 and id=0; -- option_text: I seek training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=4691 and id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想训练。',box_text_loc4='' WHERE menu_id=4693 and id=0; -- option_text: I'd like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想训练。',box_text_loc4='' WHERE menu_id=4694 and id=0; -- option_text: I'd like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想训练。',box_text_loc4='' WHERE menu_id=4695 and id=0; -- option_text: I'd like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练，鲁玛克。',box_text_loc4='' WHERE menu_id=4741 and id=0; -- option_text: I require training, Lumak.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练，格瑞诺尔。',box_text_loc4='' WHERE menu_id=4742 and id=0; -- option_text: I require training, Grimnur.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练，尼莎。',box_text_loc4='' WHERE menu_id=4762 and id=0; -- option_text: I require training, Nissa.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我的回答 — 伊瑟拉。',box_text_loc4='' WHERE menu_id=4763 and id=0; -- option_text: My answer - Ysera.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我的回答 — 奈萨里奥。',box_text_loc4='' WHERE menu_id=4763 and id=1; -- option_text: My answer - Neltharion.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我的回答 — 诺兹多姆。',box_text_loc4='' WHERE menu_id=4763 and id=2; -- option_text: My answer - Nozdormu.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我的回答 — 雅立史卓莎。',box_text_loc4='' WHERE menu_id=4763 and id=3; -- option_text: My answer - Alexstrasza.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我的回答 — 玛里苟斯。',box_text_loc4='' WHERE menu_id=4763 and id=4; -- option_text: My answer - Malygos.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我在听。这个提议是什么？',box_text_loc4='' WHERE menu_id=4781 and id=1; -- option_text: Hrm, I'm listening. What is this offer?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我怎么训练我的宠物？',box_text_loc4='' WHERE menu_id=4783 and id=1; -- option_text: How do I train my pet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='请教我。',box_text_loc4='' WHERE menu_id=4821 and id=0; -- option_text: Please teach me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='请教我。',box_text_loc4='' WHERE menu_id=4823 and id=0; -- option_text: Please teach me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='请教我。',box_text_loc4='' WHERE menu_id=4825 and id=0; -- option_text: Please teach me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我浏览一下你的季节性食物。',box_text_loc4='' WHERE menu_id=5181 and id=0; -- option_text: Let me browse your seasonal fare.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一些武器训练 ',box_text_loc4='' WHERE menu_id=5221 and id=0; -- option_text: I'd like some weapon training
+UPDATE locales_gossip_menu_option SET option_text_loc4='其他武器大师教我学会什么？',box_text_loc4='' WHERE menu_id=5221 and id=1; -- option_text: What can other weapon masters teach?
+UPDATE locales_gossip_menu_option SET option_text_loc4='弩',box_text_loc4='' WHERE menu_id=5222 and id=0; -- option_text: Crossbow
+UPDATE locales_gossip_menu_option SET option_text_loc4='枪',box_text_loc4='' WHERE menu_id=5222 and id=1; -- option_text: Gun
+UPDATE locales_gossip_menu_option SET option_text_loc4='单手锤',box_text_loc4='' WHERE menu_id=5222 and id=2; -- option_text: Mace
+UPDATE locales_gossip_menu_option SET option_text_loc4='长柄武器',box_text_loc4='' WHERE menu_id=5222 and id=3; -- option_text: Polearm
+UPDATE locales_gossip_menu_option SET option_text_loc4='法杖',box_text_loc4='' WHERE menu_id=5222 and id=4; -- option_text: Staff
+UPDATE locales_gossip_menu_option SET option_text_loc4='剑',box_text_loc4='' WHERE menu_id=5222 and id=5; -- option_text: Sword
+UPDATE locales_gossip_menu_option SET option_text_loc4='弩',box_text_loc4='' WHERE menu_id=5262 and id=0; -- option_text: Crossbow
+UPDATE locales_gossip_menu_option SET option_text_loc4='匕首',box_text_loc4='' WHERE menu_id=5262 and id=1; -- option_text: Dagger
+UPDATE locales_gossip_menu_option SET option_text_loc4='拳套',box_text_loc4='' WHERE menu_id=5262 and id=2; -- option_text: Fist Weapon
+UPDATE locales_gossip_menu_option SET option_text_loc4='枪',box_text_loc4='' WHERE menu_id=5262 and id=3; -- option_text: Gun
+UPDATE locales_gossip_menu_option SET option_text_loc4='单手锤',box_text_loc4='' WHERE menu_id=5262 and id=4; -- option_text: Mace
+UPDATE locales_gossip_menu_option SET option_text_loc4='长柄武器',box_text_loc4='' WHERE menu_id=5262 and id=5; -- option_text: Polearm
+UPDATE locales_gossip_menu_option SET option_text_loc4='剑',box_text_loc4='' WHERE menu_id=5262 and id=6; -- option_text: Sword
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一些武器训练 ',box_text_loc4='' WHERE menu_id=5263 and id=0; -- option_text: I'd like some weapon training
+UPDATE locales_gossip_menu_option SET option_text_loc4='其他武器大师教我学会什么？',box_text_loc4='' WHERE menu_id=5263 and id=1; -- option_text: What can other weapon masters teach?
+UPDATE locales_gossip_menu_option SET option_text_loc4='斧',box_text_loc4='' WHERE menu_id=5265 and id=0; -- option_text: Axe
+UPDATE locales_gossip_menu_option SET option_text_loc4='弓',box_text_loc4='' WHERE menu_id=5265 and id=1; -- option_text: Bow
+UPDATE locales_gossip_menu_option SET option_text_loc4='弩',box_text_loc4='' WHERE menu_id=5265 and id=2; -- option_text: Crossbow
+UPDATE locales_gossip_menu_option SET option_text_loc4='匕首',box_text_loc4='' WHERE menu_id=5265 and id=3; -- option_text: Dagger
+UPDATE locales_gossip_menu_option SET option_text_loc4='拳套',box_text_loc4='' WHERE menu_id=5265 and id=4; -- option_text: Fist Weapon
+UPDATE locales_gossip_menu_option SET option_text_loc4='长柄武器',box_text_loc4='' WHERE menu_id=5265 and id=5; -- option_text: Polearm
+UPDATE locales_gossip_menu_option SET option_text_loc4='剑',box_text_loc4='' WHERE menu_id=5265 and id=6; -- option_text: Sword
+UPDATE locales_gossip_menu_option SET option_text_loc4='投掷武器',box_text_loc4='' WHERE menu_id=5265 and id=7; -- option_text: Thrown
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一些武器训练 ',box_text_loc4='' WHERE menu_id=5266 and id=0; -- option_text: I'd like some weapon training
+UPDATE locales_gossip_menu_option SET option_text_loc4='其他武器大师教我学会什么？',box_text_loc4='' WHERE menu_id=5266 and id=1; -- option_text: What can other weapon masters teach?
+UPDATE locales_gossip_menu_option SET option_text_loc4='斧',box_text_loc4='' WHERE menu_id=5268 and id=0; -- option_text: Axe
+UPDATE locales_gossip_menu_option SET option_text_loc4='弓',box_text_loc4='' WHERE menu_id=5268 and id=1; -- option_text: Bow
+UPDATE locales_gossip_menu_option SET option_text_loc4='拳套',box_text_loc4='' WHERE menu_id=5268 and id=2; -- option_text: Fist Weapon
+UPDATE locales_gossip_menu_option SET option_text_loc4='枪',box_text_loc4='' WHERE menu_id=5268 and id=3; -- option_text: Gun
+UPDATE locales_gossip_menu_option SET option_text_loc4='单手锤',box_text_loc4='' WHERE menu_id=5268 and id=4; -- option_text: Mace
+UPDATE locales_gossip_menu_option SET option_text_loc4='法杖',box_text_loc4='' WHERE menu_id=5268 and id=5; -- option_text: Staff
+UPDATE locales_gossip_menu_option SET option_text_loc4='投掷武器',box_text_loc4='' WHERE menu_id=5268 and id=6; -- option_text: Thrown
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一些武器训练 ',box_text_loc4='' WHERE menu_id=5269 and id=0; -- option_text: I'd like some weapon training
+UPDATE locales_gossip_menu_option SET option_text_loc4='其他武器大师教我学会什么？',box_text_loc4='' WHERE menu_id=5269 and id=1; -- option_text: What can other weapon masters teach?
+UPDATE locales_gossip_menu_option SET option_text_loc4='斧',box_text_loc4='' WHERE menu_id=5270 and id=0; -- option_text: Axe
+UPDATE locales_gossip_menu_option SET option_text_loc4='弓',box_text_loc4='' WHERE menu_id=5270 and id=1; -- option_text: Bow
+UPDATE locales_gossip_menu_option SET option_text_loc4='拳套',box_text_loc4='' WHERE menu_id=5270 and id=2; -- option_text: Fist Weapon
+UPDATE locales_gossip_menu_option SET option_text_loc4='枪',box_text_loc4='' WHERE menu_id=5270 and id=3; -- option_text: Gun
+UPDATE locales_gossip_menu_option SET option_text_loc4='单手锤',box_text_loc4='' WHERE menu_id=5270 and id=4; -- option_text: Mace
+UPDATE locales_gossip_menu_option SET option_text_loc4='投掷武器',box_text_loc4='' WHERE menu_id=5270 and id=5; -- option_text: Thrown
+UPDATE locales_gossip_menu_option SET option_text_loc4='斧',box_text_loc4='' WHERE menu_id=5272 and id=0; -- option_text: Axe
+UPDATE locales_gossip_menu_option SET option_text_loc4='弩',box_text_loc4='' WHERE menu_id=5272 and id=1; -- option_text: Crossbow
+UPDATE locales_gossip_menu_option SET option_text_loc4='枪',box_text_loc4='' WHERE menu_id=5272 and id=2; -- option_text: Gun
+UPDATE locales_gossip_menu_option SET option_text_loc4='单手锤',box_text_loc4='' WHERE menu_id=5272 and id=3; -- option_text: Mace
+UPDATE locales_gossip_menu_option SET option_text_loc4='长柄武器',box_text_loc4='' WHERE menu_id=5272 and id=4; -- option_text: Polearm
+UPDATE locales_gossip_menu_option SET option_text_loc4='剑',box_text_loc4='' WHERE menu_id=5272 and id=5; -- option_text: Sword
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一些武器训练 ',box_text_loc4='' WHERE menu_id=5273 and id=0; -- option_text: I'd like some weapon training
+UPDATE locales_gossip_menu_option SET option_text_loc4='其他武器大师教我学会什么？',box_text_loc4='' WHERE menu_id=5273 and id=1; -- option_text: What can other weapon masters teach?
+UPDATE locales_gossip_menu_option SET option_text_loc4='弓',box_text_loc4='' WHERE menu_id=5274 and id=0; -- option_text: Bow
+UPDATE locales_gossip_menu_option SET option_text_loc4='弩',box_text_loc4='' WHERE menu_id=5274 and id=1; -- option_text: Crossbow
+UPDATE locales_gossip_menu_option SET option_text_loc4='匕首',box_text_loc4='' WHERE menu_id=5274 and id=2; -- option_text: Dagger
+UPDATE locales_gossip_menu_option SET option_text_loc4='长柄武器',box_text_loc4='' WHERE menu_id=5274 and id=3; -- option_text: Polearm
+UPDATE locales_gossip_menu_option SET option_text_loc4='投掷武器',box_text_loc4='' WHERE menu_id=5274 and id=4; -- option_text: Thrown
+UPDATE locales_gossip_menu_option SET option_text_loc4='法杖',box_text_loc4='' WHERE menu_id=5274 and id=5; -- option_text: Staff
+UPDATE locales_gossip_menu_option SET option_text_loc4='剑',box_text_loc4='' WHERE menu_id=5274 and id=6; -- option_text: Sword
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一些武器训练 ',box_text_loc4='' WHERE menu_id=5275 and id=0; -- option_text: I'd like some weapon training
+UPDATE locales_gossip_menu_option SET option_text_loc4='其他武器大师教我学会什么？',box_text_loc4='' WHERE menu_id=5275 and id=1; -- option_text: What can other weapon masters teach?
+UPDATE locales_gossip_menu_option SET option_text_loc4='斧',box_text_loc4='' WHERE menu_id=5276 and id=0; -- option_text: Axe
+UPDATE locales_gossip_menu_option SET option_text_loc4='弓',box_text_loc4='' WHERE menu_id=5276 and id=1; -- option_text: Bow
+UPDATE locales_gossip_menu_option SET option_text_loc4='拳套',box_text_loc4='' WHERE menu_id=5276 and id=2; -- option_text: Fist Weapon
+UPDATE locales_gossip_menu_option SET option_text_loc4='枪',box_text_loc4='' WHERE menu_id=5276 and id=3; -- option_text: Gun
+UPDATE locales_gossip_menu_option SET option_text_loc4='单手锤',box_text_loc4='' WHERE menu_id=5276 and id=4; -- option_text: Mace
+UPDATE locales_gossip_menu_option SET option_text_loc4='长柄武器',box_text_loc4='' WHERE menu_id=5276 and id=5; -- option_text: Polearm
+UPDATE locales_gossip_menu_option SET option_text_loc4='法杖',box_text_loc4='' WHERE menu_id=5276 and id=6; -- option_text: Staff
+UPDATE locales_gossip_menu_option SET option_text_loc4='剑',box_text_loc4='' WHERE menu_id=5276 and id=7; -- option_text: Sword
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一些武器训练 ',box_text_loc4='' WHERE menu_id=5277 and id=0; -- option_text: I'd like some weapon training
+UPDATE locales_gossip_menu_option SET option_text_loc4='其他武器大师教我学会什么？',box_text_loc4='' WHERE menu_id=5277 and id=1; -- option_text: What can other weapon masters teach?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想把我的宠物保管在这里。',box_text_loc4='' WHERE menu_id=5283 and id=1; -- option_text: I'd like to stable my pet here.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我更多关于雷姆洛斯和扎尔塔。',box_text_loc4='' WHERE menu_id=5346 and id=0; -- option_text: Tell me more about Remulos and Zaetar.
+UPDATE locales_gossip_menu_option SET option_text_loc4='请告诉我更多关于扎尔塔。',box_text_loc4='' WHERE menu_id=5347 and id=0; -- option_text: Please tell me more about Zaetar.
+UPDATE locales_gossip_menu_option SET option_text_loc4='请告诉我更多关于玛拉顿',box_text_loc4='' WHERE menu_id=5349 and id=0; -- option_text: Please tell me more about Maraudon
+UPDATE locales_gossip_menu_option SET option_text_loc4='我如何建立一个工会？',box_text_loc4='' WHERE menu_id=5461 and id=1; -- option_text: How do I form a guild?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我如何建立一个工会？',box_text_loc4='' WHERE menu_id=5462 and id=1; -- option_text: How do I form a guild?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你怎么知道的？',box_text_loc4='' WHERE menu_id=5675 and id=0; -- option_text: What do you know of it?
+UPDATE locales_gossip_menu_option SET option_text_loc4='一场战斗？',box_text_loc4='' WHERE menu_id=5687 and id=0; -- option_text: A battle?
+UPDATE locales_gossip_menu_option SET option_text_loc4='请继续。',box_text_loc4='' WHERE menu_id=5688 and id=0; -- option_text: Continue, please.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我在听，德米提恩。',box_text_loc4='' WHERE menu_id=5689 and id=0; -- option_text: I am listening, Demitrian.
+UPDATE locales_gossip_menu_option SET option_text_loc4='措手不及？如何？',box_text_loc4='' WHERE menu_id=5701 and id=0; -- option_text: Caught unaware? How?
+UPDATE locales_gossip_menu_option SET option_text_loc4='<点头>',box_text_loc4='' WHERE menu_id=5702 and id=0; -- option_text: <Nod>
 
 
 
