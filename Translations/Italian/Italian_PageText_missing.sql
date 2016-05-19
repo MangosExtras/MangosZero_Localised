@@ -1,93 +1,4 @@
 SET NAMES 'utf8';
-UPDATE locales_page_Text SET text_loc9='Hello Morgan,
-
-Business in Goldshire is brisk, so brisk that I haven\'t had time to send you any shipments!  
-
-I commissioned the person bearing this note to bring you a package of large wax candles (you know, the ones the Kobolds like to wear on their heads?). 
-
-Please give this person our thanks, and fair payment.' WHERE entry=15;
-UPDATE locales_page_Text SET text_loc9='To the Honorable Headmaster Crillian,
-
-My former Master, I write to you so that you might know what your apprentice has been doing of late.  Paying heed to your advice, I sought to build my knowledge and wisdom through travel outside the gates of our beloved Stormwind.  My journeys took me to many places but I have decided to take up residence here in the lovely town of Moonbrook.  The surrounding fields of Westfall are most beautiful as the harvest approaches.' WHERE entry=16;
-UPDATE locales_page_Text SET text_loc9='Within just a few days of my visit I found myself tutoring the local children from the nearby farmlands.  The lessons went so well that the town mayor commissioned me to run a school and construction has begun on a brand new schoolhouse!  From Silverpine to Stormwind and now Moonbrook -- who would have guessed I would see so much of Azeroth!
-
-Warm regards,
-
-Stalvan Mistmantle' WHERE entry=17;
-UPDATE locales_page_Text SET text_loc9='Dear Noble Sir,
-
-Word of your need for a tutor for your children has traveled to me here in Goldshire, where I take up temporary residence in the Lion\'s Pride Inn.  Due to the unfortunate state of events in the region, I was forced to abandon my post as Headmaster of the Moonbrook Schoolhouse.  Please accept my application to serve as tutor for your offspring.  Headmaster Crillian of the Academy can speak to you of my abilities if necessary.' WHERE entry=18;
-UPDATE locales_page_Text SET text_loc9='I shall travel to meet you in person when the winter rains subside and the roads are suitable for travel once again.
-
-Until then,
-
-Stalvan Mistmantle of Silverpine' WHERE entry=19;
-UPDATE locales_page_Text SET text_loc9='. . .Giles, the boy, seems a bit rambunctious and will be a challenge to educate.  However the elder daughter, Tilloa, seems exceptionally smart.  I couldn\'t help but to notice her captivating beauty as well.  She is on the cusp of womanhood now.  Supposedly the Lord has arranged her marriage for next year.  But I digress.  This week I will accompany the family to their summer cottage near the Eastvale Logging Camp in Elwynn, close to the Red Ridge Mountains.  I hope to write more while there.' WHERE entry=20;
-UPDATE locales_page_Text SET text_loc9='. . .most strange and uncontrollable feeling.  Never have I felt the way I did today.  Whilst assisting Giles with his history lesson, Tilloa was outside tending to the flower garden.  After a few minutes she came inside and placed a scarlet begonia in my open palm and smiled at me in such a way that my heart felt as though it was trembling within my chest. . . .' WHERE entry=21;
-UPDATE locales_page_Text SET text_loc9='. . .most certain that she shares the same feelings for me now. She even placed her hand on mine this morning. When she smiles, her eyes light up like glittering diamonds. Unspoken words pass between us. I can feel her in my pounding heart and heated veins.' WHERE entry=22;
-UPDATE locales_page_Text SET text_loc9='...anger and fury the likes of which I never knew existed! How dare she. As I was instructing Giles in the meaning of numbers, Tilloa appears before me with a suitor, holding hands in public nonetheless! What an uncouth young man. Rather than introduce me properly, Tilloa simply said, \'Oh that\'s just my tutor, Uncle Stalvan. He\'s a nice old man.\' Old! At that word my cheeks flushed with heat. I am but a few years older and yet she betrays...' WHERE entry=23;
-UPDATE locales_page_Text SET text_loc9='...downward spiral of despair. First she mocks me and now she is engaged. The ungracious charlatan was pretending to love when truly she desired to hurt me all along. A black void lurks within me now and it grows with each waking moment. The blood I shall spill pales in comparison to the tears I have shed...' WHERE entry=24;
-UPDATE locales_page_Text SET text_loc9='Tommy Joe - With each passing hour, my heart withers from your absence.  Oh, if only our folks could see beyond the silly crimes they have done to each other, and know that the only true crime is hate.  Hate consumes, and I fear in these dimming times that hate will take hold of more than just our families. If they realized this then we could, at long last, be together.  It is for that day I hope, and for that day I live. Your love, Maybell ' WHERE entry=25;
-UPDATE locales_page_Text SET text_loc9='Hello William,
-
-It\'s been years since we\'ve spoken, but I trust you and your brother are well, and that your apothecary thrives.
-
-I must ask a favor of you, William.  In short, my grandson Tommy Joe has lost his heart to young Maybell Maclure.  And although they adore each other... our families, well our families have been feuding for years.
-' WHERE entry=26;
-UPDATE locales_page_Text SET text_loc9='Hello William, It\'s been years since we\'ve spoken, but I trust you and your brother are well, and that your apothecary thrives. I must ask a favor of you, William.  In short, my grandson Tommy Joe has lost his heart to young Maybell Maclure.  And although they adore each other... our families, well our families have been feuding for years. ' WHERE entry=27;
-UPDATE locales_page_Text SET text_loc9='Argus, 
-
-As you know, I\'m up to my neck in repair requests from the Army.  I can\'t complain about all the work, but it\'s depleting my supply of iron.
-
-I don\'t have enough iron for horseshoes.  I know you always keep a large stock--I\'d like to borrow 50 pairs of shoes until I get my next shipment of iron.
-
-You have my gratitude,
--Verner' WHERE entry=28;
-UPDATE locales_page_Text SET text_loc9='A note is attached to the crate.  It reads:
-
-"Verner - sorry to hear Redridge is having such trouble.  Here are the shoes you need.  Please pay me 100 silver at your earliest convenience."
-
-"Or if you like, you can pay me in underbelly scales from black dragon whelps (I hear Dragon Whelps are common in the Redridge Mountains).  Because we\'re friends... 4 scales will be enough.  Thanks --Argus"' WHERE entry=29;
-UPDATE locales_page_Text SET text_loc9='My Lord,
-
-War is upon us.  Doom harkens from our doorstep.
-
-As Magistrate of the township of Lakeshire it is my duty to report the recent Military activity that has taken place in His Majesty\'s Easternmost colony.
-
-Contained within these pages you will find an account of the State of Lakeshire, nestled within the Redridge Mountains.' WHERE entry=30;
-UPDATE locales_page_Text SET text_loc9='The loss of Stonewatch Keep was very grave.  In previous reports I detailed for you the alliance between the Blackrock Clan of Orcs and the Warlock known as Morganth.  The Blackrock Orcs fought with horrific savagery, undoubtedly fueled by the evil magic of Morganth.  Many of His Majesty\'s most valiant soldiers perished trying to defend the Keep but ultimately nothing could be done. ' WHERE entry=31;
-UPDATE locales_page_Text SET text_loc9='Oddly enough, Morganth turned on his Orcish cohorts shortly after their wretched victory.  The Warlock constructed an arcane tower in the Northeast, and has used his powers to build a small army of Shadowhide Gnolls to serve his malicious biddings.  Both Orc and Man have fallen victim to the viscous brutes that serve the Warlock.  As to what betrayal took place between Morganth and Gath\'Ilzogg, the Blackrock Warlord, one can only speculate at this point. ' WHERE entry=32;
-UPDATE locales_page_Text SET text_loc9='To our peril, the foul Orcs seem more concerned with the demise of His Majesty\'s good citizens.  In the last fortnight the Blackrock Clan staged a ruthless offensive on Lakeshire.  Many brave men lost their lives that grim day.  The Orc forces advanced with such speed and fury that the bridge spanning Everstill was brought to ruin.  Our war supplies have greatly dwindled.  We lack bandages to mend the wounds of the fallen. ' WHERE entry=33;
-UPDATE locales_page_Text SET text_loc9='Now I ask of His Majesty to support the good people of Lakeshire in this time of need.  We are in need of new soldiers to defend the territory as well as new instruments of war to replace those lost on the battlefield.  Food and building supplies run low as well.  Please, my Lord, help us keep the final bastion between Man and wretched Orc thriving.  The Enemy must be kept out of the Kingdom of Stormwind. ' WHERE entry=34;
-UPDATE locales_page_Text SET text_loc9='I fear a greater and darker evil brewing in the cauldron of corruption that the Northlands have become.  It is imperative that the Kingdom of Stormwind take action lest we seek to become fading memories to the living or slaves to the Enemy.
-
-Signed,
-
-Magistrate Solomon
-Township of Lakeshire
-Kingdom of Stormwind' WHERE entry=35;
-UPDATE locales_page_Text SET text_loc9='Honorable Magistrate Solomon:
-
-I mourn alongside with you for the dead.  I shall see to it personally that the King is made aware of the situation and it is my fondest hope that I can bring reinforcements to Lakeshire.  His Majesty has been scarce of late and acts rather oddly.  I share this with you in confidence.
-
-Until then,
-
-General Marcus Jonathan
-Kingdom of Stormwind' WHERE entry=36;
-UPDATE locales_page_Text SET text_loc9='Honorable Magistrate Solomon: I mourn alongside with you for the dead.  I shall see to it personally that the King is made aware of the situation and it is my fondest hope that I can bring reinforcements to Lakeshire.  His Majesty has been scarce of late and acts rather oddly.  I share this with you in confidence. Until then, General Marcus Jonathan Kingdom of Stormwind ' WHERE entry=37;
-UPDATE locales_page_Text SET text_loc9='Stoutmantle -- Some nerve sending a total stranger to discuss the Defias gang.  Once you saved my life and now you put it in great peril. But I owe you.  The Defias Brotherhood is larger than you think.  Every mine from Westfall to Elwynn Forest is under their control.  Kobolds and Gnolls have been enlisted to do their dirty work.  They have goblins crafting metal monsters to place in the Westfall fields to prey on the superstitions of the local residents. ' WHERE entry=38;
-UPDATE locales_page_Text SET text_loc9='They have a vast underground network built.  Bigger than you know, Stoutmantle.  From Booty Bay right to Stormwind Keep.  You may be a brave Paladin but you are a fool if you think you can shut them down.  They are working on a weapon of mass destruction.  After all, if there\'s one thing Stonemasons know, it\'s how to build big.  You didn\'t think this was about pumpkin farms and vineyards, now did you?  I repaid your favor.  Now leave me be!
-
---W
-' WHERE entry=39;
-UPDATE locales_page_Text SET text_loc9='They have a vast underground network built.  Bigger than you know, Stoutmantle.  From Booty Bay right to Stormwind Keep.  You may be a brave Paladin but you are a fool if you think you can shut them down.  They are working on a weapon of mass destruction.  After all, if there\'s one thing Stonemasons know, it\'s how to build big.  You didn\'t think this was about pumpkin farms and vineyards, now did you?  I repaid your favor.  Now leave me be! --W ' WHERE entry=40;
-UPDATE locales_page_Text SET text_loc9='Lord Stoutmantle-- Led by Edwin VanCleef, the Stonemason\'s Guild was composed of the most skilled builders among men.  The Stonemasons helped to rebuild the broken city of Stormwind that was razed by the orcs during the First War. VanCleef and his tradesmen were peerless builders and their work and artistry was evident in the edifices of the Cathedral of Light and Stormwind Keep itself. ' WHERE entry=41;
-UPDATE locales_page_Text SET text_loc9='However, the nobles of Stormwind ran up a huge debt by expanding the kingdom\'s military presence through Elwynn and into Stranglethorn. The massive debt crippled the kingdom\'s economy and stripped VanCleef and his Stonemasons of their promised rewards.  After spending years toiling to rebuild the glorious city, the Stonemasons were left broke, forgotten by the city\'s corrupt officials. ' WHERE entry=42;
-UPDATE locales_page_Text SET text_loc9='Having personally known Edwin VanCleef my entire life, I can tell you that facing him as a foe is quite a daunting task.  You see, he was my childhood friend, and I personally trained him in the ways of the shadows thinking that one day he might consider a career alongside me.  If VanCleef is heading up the Defias Brotherhood, may the Light have mercy on our souls.
-
-Master Mathias Shaw
-Stormwind Assassin\'s Guild' WHERE entry=43;
-UPDATE locales_page_Text SET text_loc9='Having personally known Edwin VanCleef my entire life, I can tell you that facing him as a foe is quite a daunting task.  You see, he was my childhood friend, and I personally trained him in the ways of the shadows thinking that one day he might consider a career alongside me.  If VanCleef is heading up the Defias Brotherhood, may the Light have mercy on our souls. Master Mathias Shaw Stormwind Assassin\'s Guild ' WHERE entry=44;
 UPDATE locales_page_Text SET text_loc9='Good work, matey!  Now ye need to head due east.  East up the bluffs, east to the road.  Look for the ol\' chimney ruins near the side of the road.  There you\'ll find an old barrel with your next clue. ' WHERE entry=45;
 UPDATE locales_page_Text SET text_loc9='Now from this here barrel, face ye North.  Straight as the crow flies, keep ye walkin\' till you see the empty jug next to the lone windmill on the sea bluffs.  If ye poke around that jug, ye just might find what you\'re lookin\' for. ' WHERE entry=46;
 UPDATE locales_page_Text SET text_loc9='Now that ye found me ol\' whiskey jug, you\'re almost to the treasure!  Just face West from the bottle and walk down to the shore.  Once ye get to the water, keep going!  Swim straight west till you find the island with me treasure chest! ' WHERE entry=47;
@@ -97,10 +8,10 @@ UPDATE locales_page_Text SET text_loc9='Your Honor-- All of Westfall mourns for 
 UPDATE locales_page_Text SET text_loc9='Lord Ebonlocke-- The Township of Lakeshire humbly requests the aid of the Night Watch.  We are under siege from both the Blackrock orcs and Morganth\'s Shadowhide gnolls.  I would not send bidding if our situation was not severe.  We await aid from Stormwind but until such help arrives, I beg of you to lend support.  Once the kingdom is breached, all of humanity is in peril. Magistrate Solomon ' WHERE entry=51;
 UPDATE locales_page_Text SET text_loc9='Your Honor--
 
-I regret to inform you that the Night Watch is unable to leave its post in Darkshire at this time.  Perhaps you were unaware that Stormwind no longer provides military support in this region.  The Night Watch has been formed and trained entirely by the people of the forest in order to defend Darkshire in Stormwind\'s absence.  Without the Watch, the town would fall.  I wish you luck with your plight.
+I regret to inform you that the Night Watch is unable to leave its post in Darkshire at this time.  Perhaps you were unaware that Stormwind no longer provides military support in this region.  The Night Watch has been formed and trained entirely by the people of the forest in order to defend Darkshire in Stormwind\'s absence.  Without the Watch, the town would fall.  I wish you luck with your plight.
 
---Lord Ello Ebonlocke
-' WHERE entry=52;
+--Lord Ello Ebonlocke
+' WHERE entry=52;
 UPDATE locales_page_Text SET text_loc9='The letters on this note seem to flicker and dance across its surface.  It is impossible to glean meaning from them...' WHERE entry=53;
 UPDATE locales_page_Text SET text_loc9='Greetings Ello Ebonlocke, Mayor of Darkshire.  I\'m afraid I have news for your town.  Grave news.
 
@@ -178,16 +89,16 @@ UPDATE locales_page_Text SET text_loc9='wanders Duskwood, consumed by his grief 
 UPDATE locales_page_Text SET text_loc9='The terror of these past few weeks is almost more than I can bear; yet, I feel that by writing down that which I\'ve seen I will somehow be comforted.  So I do it, and it is the only comfort I have these bleak days.' WHERE entry=73;
 UPDATE locales_page_Text SET text_loc9='DAY ONE
 
-The apprentice and I have arrived in Coldridge Valley today. The trip through the cave was mostly uneventful. We made camp a good distance away from the cave we\'re told the trolls have gathered in.
+The apprentice and I have arrived in Coldridge Valley today. The trip through the cave was mostly uneventful. We made camp a good distance away from the cave we\'re told the trolls have gathered in.
 
-DAY TWO
+DAY TWO
 
-Bloody wolf howling almost kept me up all night.
+Bloody wolf howling almost kept me up all night.
 
-I will have new wolfhide clothing in a few days.
+I will have new wolfhide clothing in a few days.
 
-The lad got tangled up with a trogg today, put up a fight, and
-' WHERE entry=74;
+The lad got tangled up with a trogg today, put up a fight, and
+' WHERE entry=74;
 UPDATE locales_page_Text SET text_loc9='DAY ONE The apprentice and I have arrived in Coldridge Valley today. The trip through the cave was mostly uneventful. We made camp a good distance away from the cave we\'re told the trolls have gathered in. DAY TWO Bloody wolf howling almost kept me up all night. I will have new wolfhide clothing in a few days. The lad got tangled up with a trogg today, put up a fight, and ' WHERE entry=77;
 UPDATE locales_page_Text SET text_loc9='This Armor Marker is good for one piece of leather or cloth armor, redeemable at the Timberlain household within the Eastvale Logging Camp. ' WHERE entry=78;
 UPDATE locales_page_Text SET text_loc9='Below is the process and schedule of Defias gold collection from the mines of Elwynn to our headquarters in Westfall.$B$BCollection Schedule:$B$BSunday: 12:30pm$BWednesday: 12:30pm$B$BBy each specified day, gold gained from the Elwynn mines will be gathered at the Brackwell pumpkin patch. The agent in charge of these gatherings, "The Collector," will be known by the engraved ring he possesses. A ring I gave him. ' WHERE entry=79;
@@ -229,30 +140,30 @@ UPDATE locales_page_Text SET text_loc9='The Green Hills of Stranglethorn
 Our first day went as well as one can expect first days to go.  Most of our time was preoccupied with making the necessary arrangements to establish a base camp.  I located an ideal setting by a freshwater river inlet.  Judging by the old, abandoned docks nearby, this site was inhabited sometime ago.  As for the original inhabitants, only time can tell that tale.' WHERE entry=95;
 UPDATE locales_page_Text SET text_loc9='The Green Hills of Stranglethorn Our first day went as well as one can expect first days to go.  Most of our time was preoccupied with making the necessary arrangements to establish a base camp.  I located an ideal setting by a freshwater river inlet.  Judging by the old, abandoned docks nearby, this site was inhabited sometime ago.  As for the original inhabitants, only time can tell that tale. ' WHERE entry=97;
 UPDATE locales_page_Text SET text_loc9='In the years that followed, after Stormwind betrayed the Stonemasons\' Guild, Sir Erlgadin grew bitter about the role of the nobles within the Kingdom.  He no longer wished to uphold the position that his father\'s bloodline had earned for him in the House of Nobles.
-But I digress.  The purpose of this story is not to act as a political treatise or a biography.  This is the account of my experiences hunting big game in the green hills of Stranglethorn??' WHERE entry=98;
+But I digress.  The purpose of this story is not to act as a political treatise or a biography.  This is the account of my experiences hunting big game in the green hills of Stranglethorn??' WHERE entry=98;
 UPDATE locales_page_Text SET text_loc9='In the years that followed, after Stormwind betrayed the Stonemasons\' Guild, Sir Erlgadin grew bitter about the role of the nobles within the Kingdom.  He no longer wished to uphold the position that his father\'s bloodline had earned for him in the House of Nobles. But I digress.  The purpose of this story is not to act as a political treatise or a biography.  This is the account of my experiences hunting big game in the green hills of Stranglethorn?. ' WHERE entry=99;
 UPDATE locales_page_Text SET text_loc9='Just as I was about to question Ajeck\'s lack of interest in the day\'s hunting strategy, she reached for her quiver, drew an arrow and unleashed a shot right towards poor Barnil.  But it was not Barnil that Ajeck was shooting at.  For when Barnil stepped aside, mouth agape, a large river crocilisk floated to the surface with Ajeck\'s arrow perfectly placed between his two large eyes.
-' WHERE entry=100;
+' WHERE entry=100;
 UPDATE locales_page_Text SET text_loc9='Just as I was about to question Ajeck\'s lack of interest in the day\'s hunting strategy, she reached for her quiver, drew an arrow and unleashed a shot right towards poor Barnil.  But it was not Barnil that Ajeck was shooting at.  For when Barnil stepped aside, mouth agape, a large river crocilisk floated to the surface with Ajeck\'s arrow perfectly placed between his two large eyes. ' WHERE entry=101;
 UPDATE locales_page_Text SET text_loc9='During one such misstep, Erlgadin laid a heavy hand on Barnil\'s shoulder.  Ajeck and I gave a casual glance, assuming the man was simply giving Barnil a much-needed scolding for his carelessness.  Erlgadin, however, gestured slowly with his head toward a nearby fallen tree.  Gazing back at us were two piercing black eyes just above a mouthful of razor sharp fangs.
-' WHERE entry=102;
+' WHERE entry=102;
 UPDATE locales_page_Text SET text_loc9='During one such misstep, Erlgadin laid a heavy hand on Barnil\'s shoulder.  Ajeck and I gave a casual glance, assuming the man was simply giving Barnil a much-needed scolding for his carelessness.  Erlgadin, however, gestured slowly with his head toward a nearby fallen tree.  Gazing back at us were two piercing black eyes just above a mouthful of razor sharp fangs. ' WHERE entry=103;
 UPDATE locales_page_Text SET text_loc9='The kill brought about a festive mood amongst the expedition.  Barnil poured mead for all to enjoy.  But our festivities were short-lived.  As we were preparing the corpse for transport back to base camp we were all caught off guard by a horrendous growl.  In all my years I have never heard anything so blood curdling. ' WHERE entry=104;
 UPDATE locales_page_Text SET text_loc9='On a rocky precipice above, silhouetted by the setting sun, I could make out the largest cat of prey I have ever laid eyes upon. I was able to loose one clumsy volley with my rifle, but the cat held his ground. He growled once again, this time louder than the first, and vanished.$B$BWe gathered our belongings and headed solemnly back to camp.' WHERE entry=105;
 UPDATE locales_page_Text SET text_loc9='On a rocky precipice above, silhouetted by the setting sun, I could make out the largest cat of prey I have ever laid eyes upon.  I was able to loose one clumsy volley with my rifle, but the cat held his ground.  He growled once again, this time louder than the first, and vanished. We gathered our belongings and headed solemnly back to camp. ' WHERE entry=107;
 UPDATE locales_page_Text SET text_loc9='On this day we ventured to the south, following some fresh panther tracks.  Soon we reached a ravine spanned by a tremendous rope bridge.  I could not help but to think of Brann\'s descriptive writings of this region when I saw the engineering marvel.  So often it was assumed that the native Trolls were a primitive and uneducated race yet as I gazed upon the master craftsmanship of the bridge I was able to recognize the skill with which the Troll builders overcame the seemingly impossible feat.
-' WHERE entry=108;
+' WHERE entry=108;
 UPDATE locales_page_Text SET text_loc9='On this day we ventured to the south, following some fresh panther tracks.  Soon we reached a ravine spanned by a tremendous rope bridge.  I could not help but to think of Brann\'s descriptive writings of this region when I saw the engineering marvel.  So often it was assumed that the native Trolls were a primitive and uneducated race yet as I gazed upon the master craftsmanship of the bridge I was able to recognize the skill with which the Troll builders overcame the seemingly impossible feat. ' WHERE entry=109;
 UPDATE locales_page_Text SET text_loc9='Both Ajeck and Sir Erlgadin stood poised, guns leveled at the bristling overgrowth at the base of the swaying trees.  The midday sun beat heavily upon us.  A slow trickle of perspiration trailed down from Elrgadin\'s temple as he pulled the pin back.  Upon the sound of the click, the thick flora parted and a large black panther -- a beautiful specimen -- darted out onto the plain.
-' WHERE entry=110;
+' WHERE entry=110;
 UPDATE locales_page_Text SET text_loc9='Both Ajeck and Sir Erlgadin stood poised, guns leveled at the bristling overgrowth at the base of the swaying trees.  The midday sun beat heavily upon us.  A slow trickle of perspiration trailed down from Elrgadin\'s temple as he pulled the pin back.  Upon the sound of the click, the thick flora parted and a large black panther -- a beautiful specimen -- darted out onto the plain. ' WHERE entry=111;
 UPDATE locales_page_Text SET text_loc9='His gun tossed back violently in his arms.  The barrel swooped sideways and came up beneath Ajeck\'s rifle.  Ajeck had chosen that exact moment to pull her trigger.  The rifle, the aim now knocked clumsily toward the tree line, went off with a distinct boom.  A flock of birds screamed out of the canopy, scattering in every direction.  A plume of smoke rose from the tree.  We watched in awe as a tremendous branch fell squarely on the fleeing panther, breaking its back.' WHERE entry=112;
 UPDATE locales_page_Text SET text_loc9='His gun tossed back violently in his arms.  The barrel swooped sideways and came up beneath Ajeck\'s rifle.  Ajeck had chosen that exact moment to pull her trigger.  The rifle, the aim now knocked clumsily toward the tree line, went off with a distinct boom.  A flock of birds screamed out of the canopy, scattering in every direction.  A plume of smoke rose from the tree.  We watched in awe as a tremendous branch fell squarely on the fleeing panther, breaking its back. ' WHERE entry=113;
 UPDATE locales_page_Text SET text_loc9='We set out at first light, heading south past the Tkashi Ruins.  Barnil voiced concern that we might encounter members of the Bloodscalp Tribe.  I reminded Barnil that the Bloodscalps were more concerned with destroying their tribal enemy, the Skullsplitters.  Needless to say, Barnil was not comforted in the least.  I, however, had a loaded rifle, a satchel full of gunpowder and three deadly hunters with me to ease any concerns of an unfriendly ambush. ' WHERE entry=114;
 UPDATE locales_page_Text SET text_loc9='I\'ve stood before a towering Infernal on the battlefield, the army of the Burning Legion advancing from all directions.  An unruly band of Trolls seems as harmless as a jackrabbit in the hills of Dun Morogh.
 
-We passed the Tkashi Ruins without event, much to Barnil\'s relief.  The party proceeded to head westward, toward the Great Sea, skirting the Ruins of Zul\'Kunda just to the south.  As we ascended the high sea bluffs we spotted our first Raptor.
-' WHERE entry=115;
+We passed the Tkashi Ruins without event, much to Barnil\'s relief.  The party proceeded to head westward, toward the Great Sea, skirting the Ruins of Zul\'Kunda just to the south.  As we ascended the high sea bluffs we spotted our first Raptor.
+' WHERE entry=115;
 UPDATE locales_page_Text SET text_loc9='I\'ve stood before a towering Infernal on the battlefield, the army of the Burning Legion advancing from all directions.  An unruly band of Trolls seems as harmless as a jackrabbit in the hills of Dun Morogh. We passed the Tkashi Ruins without event, much to Barnil\'s relief.  The party proceeded to head westward, toward the Great Sea, skirting the Ruins of Zul\'Kunda just to the south.  As we ascended the high sea bluffs we spotted our first Raptor. ' WHERE entry=117;
 UPDATE locales_page_Text SET text_loc9='Our hastily aimed shots were enough to buy Barnil\'s escape.  Barnil clamored back down the hill and rejoined the party. We scurried off into the jungle; a pack of ferocious Lashtail Raptor\'s stalking our every move. The hunters were now the hunted. ' WHERE entry=118;
 UPDATE locales_page_Text SET text_loc9='I led the party toward the sea, hoping the shoreline would provide refuge from the Raptors.  In our haste we had drifted too far north, to a precariously high elevation.  The mistake was made.  The fault was mine.  We stopped just short of a sheer cliff, the Raptors just a few paces behind.' WHERE entry=119;
@@ -267,7 +178,7 @@ UPDATE locales_page_Text SET text_loc9='We rose with the sun.  Barnil began to p
 UPDATE locales_page_Text SET text_loc9='Just as I was about to question Ajeck\'s lack of interest in the day\'s hunting strategy, she reached for her quiver, drew an arrow and unleashed a shot right towards poor Barnil.  But it was not Barnil that Ajeck was shooting at.  For when Barnil stepped aside, mouth agape, a large river crocilisk floated to the surface with Ajeck\'s arrow perfectly placed between his two large eyes. ' WHERE entry=158;
 UPDATE locales_page_Text SET text_loc9='We set out toward the west, through the thick overgrowth of the tangled jungle.  Moving with slow, deliberate steps we paced through thick foliage in search of prey.  The morning passed in frustrated silence.  Nothing was stirring in the Vale, not even a breeze.  By the afternoon, the expedition had grown restless Barnil no longer strode with the cautious steps of a predator tracking prey.  Rather he clumsily clomped along the path often stepping noisily on dried leaves or fallen branches. ' WHERE entry=159;
 UPDATE locales_page_Text SET text_loc9='During one such misstep, Erlgadin laid a heavy hand on Barnil\'s shoulder.  Ajeck and I gave a casual glance, assuming the man was simply giving Barnil a much-needed scolding for his carelessness.  Erlgadin, however, gestured slowly with his head toward a nearby fallen tree.  Gazing back at us were two piercing black eyes just above a mouthful of razor sharp fangs.
-' WHERE entry=160;
+' WHERE entry=160;
 UPDATE locales_page_Text SET text_loc9='The beast was a male Stranglethorn Tiger. Before I could cock my rifle, Erlgadin raised his crossbow and fired upon the beast. The bolt missed its mark and caught the beast heavily in the left flank. The tiger made a futile attempt to flee but its wound was too grave. The beast stumbled for a few tragic seconds until Barnil finished the kill with a thrown axe.' WHERE entry=161;
 UPDATE locales_page_Text SET text_loc9='The kill brought about a festive mood amongst the expedition. Barnil poured mead for all to enjoy. But our festivities were short-lived. As we were preparing the corpse for transport back to base camp we were all caught off guard by a horrendous growl. In all my years I have never heard anything so blood curdling.' WHERE entry=162;
 UPDATE locales_page_Text SET text_loc9='On a rocky precipice above, silhouetted by the setting sun, I could make out the largest cat of prey I have ever laid eyes upon. I was able to loose one clumsy volley with my rifle, but the cat held his ground. He growled once again, this time louder than the first, and vanished.$B$BWe gathered our belongings and headed solemnly back to camp.' WHERE entry=163;
@@ -404,9 +315,9 @@ Stormwind Army, Northshire' WHERE entry=212;
 UPDATE locales_page_Text SET text_loc9='Westfall Stew$B$B3 parts Stringy Vulture Meat$B3 Goretusk Snouts$B3 Murloc Eyes$B3 Okra$B$BMix together and bring to a boil. Let simmer for at least two hours before serving.' WHERE entry=213;
 UPDATE locales_page_Text SET text_loc9='Dearest Yvette,
 
-I will entrust this letter to our fastest runner.  I pray he can find a way through the forces surrounding us.  And I pray you read these words, for they are the last you will hear of me.
+I will entrust this letter to our fastest runner.  I pray he can find a way through the forces surrounding us.  And I pray you read these words, for they are the last you will hear of me.
 
-My only comfort in these dark days is the relief I feel, knowing that you are free of my fate.' WHERE entry=214;
+My only comfort in these dark days is the relief I feel, knowing that you are free of my fate.' WHERE entry=214;
 UPDATE locales_page_Text SET text_loc9='Dearest Yvette, I will entrust this letter to our fastest runner.  I pray he can find a way through the forces surrounding us.  And I pray you read these words, for they are the last you will hear of me. My only comfort in these dark days is the relief I feel, knowing that you are free of my fate. ' WHERE entry=217;
 UPDATE locales_page_Text SET text_loc9='I fear the war between the Stonefields and the Maclures will kill Tommy Joe and Maybell\'s blossoming romance, and in times like these - where dark news and rumors of war loom over us - youth and love must be nurtured. So, the favor: I ask that you use your skills and concoct a potion or elixir to aid these young lovers in their quest for each other. Thank you, William.  And please, when you have some time away from work, come visit.  We\'ll have a few chuckles over the past. -Mildred ' WHERE entry=218;
 UPDATE locales_page_Text SET text_loc9='From the hand of Baros Alexston, Office of the City Architect Stormwind Your Majesty, There are many reasons as to why I felt that a report should be compiled and presented on the recent affairs of the "Defias Brotherhood" and their activities throughout the kingdom. For perspective, I shall begin with a bit of history. As you may or may not know, my service to the city of Stormwind began as a member of the Stonemasons\' Guild. Through years of work, we completed the rebuilding of ' WHERE entry=219;
@@ -659,13 +570,13 @@ Nagaz,
 Argus Heirophant' WHERE entry=315;
 UPDATE locales_page_Text SET text_loc9='Bumbling fools!
 
-My plans called for both bridges to be destroyed simultaneously.  And what do you simple-minded thugs do?  You only get half the job done and alert the entire Alliance as to our intentions.  Fools I say!
+My plans called for both bridges to be destroyed simultaneously.  And what do you simple-minded thugs do?  You only get half the job done and alert the entire Alliance as to our intentions.  Fools I say!
 
-You have one chance to make amends for your actions.  We have a backup cache of explosives in Arathi Highlands, not far from the bridge.
+You have one chance to make amends for your actions.  We have a backup cache of explosives in Arathi Highlands, not far from the bridge.
 
-Finish the job if you value your measly lives!
+Finish the job if you value your measly lives!
 
---Kam Deepfury' WHERE entry=316;
+--Kam Deepfury' WHERE entry=316;
 UPDATE locales_page_Text SET text_loc9='Dun Modr of the Wetlands$B$BMy Dear Sara,$B$BThe indications are very strong that we shall move to take watch over the Thandol Span in a few days. Lest I shall not be able to write to you again. I feel impelled to write a few lines that may fall under your eye when I shall be no more.' WHERE entry=317;
 UPDATE locales_page_Text SET text_loc9='Our assignment may be one of a few days duration and full of pleasure, and it may be one of severe conflict and death to me. If it is necessary that I should fall on the battlefield for the Alliance, I am ready.$B$BI have no misgivings about or lack of confidence in the cause in which I am engaged and my courage does not halt or falter.' WHERE entry=318;
 UPDATE locales_page_Text SET text_loc9='I know how strongly the Kingdom of Ironforge leans on the triumph of the Alliance, and how great a debt we owe to those who went before us through the blood and suffering of the Great Wars, and I am willing, perfectly willing to lay down all my joys in this life to help maintain this Alliance and to pay that debt.' WHERE entry=319;
@@ -779,7 +690,7 @@ Displays the operating temperature of the system in general.' WHERE entry=357;
 UPDATE locales_page_Text SET text_loc9='Long had the children of the stars dwelled upon the banks of the shimmering waters of the Eternal Well. To all was known that Elune, light of the eternal twilight, aspect and goddess of the moon, dwelt within its waters at such time that she rested from her works. Upon the shores of the Well did the children of the stars, favored of Elune, build their homes, even as their gaze was trained ever skyward, into the moonlit night. Though there were many towns and places of habitation constructed ' WHERE entry=358;
 UPDATE locales_page_Text SET text_loc9='The earth trembled as the ancient trees in the enchanted forest were uprooted and toppled. The groves and glades tended by the sons and daughters of Cenarius and the stone towers of the children of the stars were brought to the rolling ground. There was our queen, radiant even in the desperation, in the chaos that was the battles. The enchanted sky changed colors with the discharge of magic, with the explosions that threatened to tear the world asunder.
 
-Brother fought brother. Chosen fought' WHERE entry=359;
+Brother fought brother. Chosen fought' WHERE entry=359;
 UPDATE locales_page_Text SET text_loc9='The earth trembled as the ancient trees in the enchanted forest were uprooted and toppled. The groves and glades tended by the sons and daughters of Cenarius and the stone towers of the children of the stars were brought to the rolling ground. There was our queen, radiant even in the desperation, in the chaos that was the battles. The enchanted sky changed colors with the discharge of magic, with the explosions that threatened to tear the world asunder. Brother fought brother. Chosen fought ' WHERE entry=360;
 UPDATE locales_page_Text SET text_loc9='Master Delgren,
 
@@ -827,9 +738,9 @@ UPDATE locales_page_Text SET text_loc9='A defensive position was taken in Ivar\'
 UPDATE locales_page_Text SET text_loc9='It should be noted here that this report bearer was instrumental in not only the success of our mission, but also in the defeat of Ivar the Foul, the rescue of Erland, and the deliverance of this report.$B$BWe extend our gratitude, and recommend that command acknowledges this individual with awards befitting such meritorious conduct as was displayed in the field.$B$B-Deathstalker Rane Yorick,$BMission Leader ' WHERE entry=386;
 UPDATE locales_page_Text SET text_loc9='And so he wandered, and he searched.  And his arm remained lost to him.  And so he cursed and roared as he walked.
 
-But Gri\'lek had long ago turned his ear away from the spirits, and they were angered and would not listen to his curses.
+But Gri\'lek had long ago turned his ear away from the spirits, and they were angered and would not listen to his curses.
 
-Doomed was Gri\'lek.  Doomed to wander, armless.' WHERE entry=387;
+Doomed was Gri\'lek.  Doomed to wander, armless.' WHERE entry=387;
 UPDATE locales_page_Text SET text_loc9='And so he wandered, and he searched.  And his arm remained lost to him.  And so he cursed and roared as he walked. But Gri\'lek had long ago turned his ear away from the spirits, and they were angered and would not listen to his curses. Doomed was Gri\'lek.  Doomed to wander, armless. ' WHERE entry=393;
 UPDATE locales_page_Text SET text_loc9='An evil force created these, He sits on Dreadmist Peak at ease, He laughs at thee and thy friend, His elementals have no end, Soon you must confront this mage, For only death will end his rage. ' WHERE entry=394;
 UPDATE locales_page_Text SET text_loc9='The Shrine of Mel\'Thandris "May the light of Elune shine upon this vale eternal and illuminate the ways of the forest as it has for time immemorial." ' WHERE entry=395;
@@ -896,10 +807,10 @@ UPDATE locales_page_Text SET text_loc9='It\'s a gamble, but I have no other clue
 
 As I find out more I\'ll put the details here; but until then, I shall work on finding the parts of the rod and helping Ashenvale.' WHERE entry=414;
 UPDATE locales_page_Text SET text_loc9='Jin\'Zil,
-It has been a while, but I thought you would like to know that the last of the Bloodfeather\'s have been slain. Don\'t thank me though, the person delivering the letter is the slayer. If you\'d like, I can have her head delivered to you after the caravan makes its rounds through the Barrens. I know you like that sort of stuff for your voodoo magics.
-Take care old friend.
+It has been a while, but I thought you would like to know that the last of the Bloodfeather\'s have been slain. Don\'t thank me though, the person delivering the letter is the slayer. If you\'d like, I can have her head delivered to you after the caravan makes its rounds through the Barrens. I know you like that sort of stuff for your voodoo magics.
+Take care old friend.
 
--Darsok Swiftdagger' WHERE entry=415;
+-Darsok Swiftdagger' WHERE entry=415;
 UPDATE locales_page_Text SET text_loc9='Jin\'Zil,    It has been a while, but I thought you would like to know that the last of the Bloodfeather\'s have been slain. Don\'t thank me though, the person delivering the letter is the slayer. If you\'d like, I can have her head delivered to you after the caravan makes its rounds through the Barrens. I know you like that sort of stuff for your voodoo magics.    Take care old friend. -Darsok Swiftdagger ' WHERE entry=416;
 UPDATE locales_page_Text SET text_loc9='Okay, you should have your NG-5 charges and detonators ready. I\'ve labeled them for you... Blue is for the lumber mill. Red is for Windshear Mine.$B$BI did some scouting, and there are enough explosives throughout Windshear Crag that it shouldn\'t be a problem at all for you to get in, plant the explosives, and then get out before detonating them.$B$BRemember, this is a distraction. Get far from the wagons before the goblins get there to check out what happened, then sneak in behind them. ' WHERE entry=417;
 UPDATE locales_page_Text SET text_loc9='Be careful with them by the way. The Nitromirglyceronium alone could reduce you to dust. I\'ve encased some of the liquid in copper tubes which should keep it stable and safe.$B$BThe scroll you got from Collin I used on the detonator boxes. They will now send a silent message to the NG-5 charges after you\'ve set them. I used a simple Stalthwargon mechanism to make sure the wire conductivity is optimal and the flow of the Nitroglyceronium between the differential fluid is better than average. ' WHERE entry=418;
@@ -1040,26 +951,26 @@ Owner, Snuff Inc.
 ' WHERE entry=467;
 UPDATE locales_page_Text SET text_loc9='CONGRATULATIONS! You are the proud new owner of the amazing snufflenose gopher!  Although a shy creature, we are positive you\'ll find your new pet\'s fuzzy cuteness and incredible olfactory capabilities endearing. In the following pages, you\'ll find information on your gopher\'s: 1. Feeding and care 2. Eccentric (and adorable) behavior 3. Use of the patented Snufflenose Command Stick(tm) Again, congratulations.  You won\'t be disappounted, -Marwig Rustbolt Owner, Snuff Inc. ' WHERE entry=506;
 UPDATE locales_page_Text SET text_loc9='--Day 13
-Troop movement near Theramore has increased.  Large numbers of humans left the city and move west, in haste.
+Troop movement near Theramore has increased.  Large numbers of humans left the city and move west, in haste.
 
---Day 14
-More troops leaving the city.  I followed a small group and watched them remove their uniforms after leaving bowshot of Theramore.  Perhaps they are deserters?
+--Day 14
+More troops leaving the city.  I followed a small group and watched them remove their uniforms after leaving bowshot of Theramore.  Perhaps they are deserters?
 
---Day 15
-I overheard some Theramore troops talk today of guards leaving their posts.  My suspicions of the deserters must be true
-' WHERE entry=507;
+--Day 15
+I overheard some Theramore troops talk today of guards leaving their posts.  My suspicions of the deserters must be true
+' WHERE entry=507;
 UPDATE locales_page_Text SET text_loc9='--Day 13 Troop movement near Theramore has increased.  Large numbers of humans left the city and move west, in haste. --Day 14 More troops leaving the city.  I followed a small group and watched them remove their uniforms after leaving bowshot of Theramore.  Perhaps they are deserters? --Day 15 I overheard some Theramore troops talk today of guards leaving their posts.  My suspicions of the deserters must be true ' WHERE entry=527;
 UPDATE locales_page_Text SET text_loc9='Jorgen,
-My fears have come true, and they have acted in ways I never thought capable. Never did I think they would get this close, but they have.
-Please help the bearer of this note, and send them to HIM. In all honesty, I think he\'ll aid us because the seriousness of this matter. If it were any other threat, he would probably continue to ignore us and the problems of our fair city.
-Thank you, you old fisherman. I am indebted to you as always.
-Your friend,
-DeLavey' WHERE entry=528;
+My fears have come true, and they have acted in ways I never thought capable. Never did I think they would get this close, but they have.
+Please help the bearer of this note, and send them to HIM. In all honesty, I think he\'ll aid us because the seriousness of this matter. If it were any other threat, he would probably continue to ignore us and the problems of our fair city.
+Thank you, you old fisherman. I am indebted to you as always.
+Your friend,
+DeLavey' WHERE entry=528;
 UPDATE locales_page_Text SET text_loc9='Jorgen, My fears have come true, and they have acted in ways I never thought capable. Never did I think they would get this close, but they have. Please help the bearer of this note, and send them to HIM. In all honesty, I think he\'ll aid us because the seriousness of this matter. If it were any other threat, he would probably continue to ignore us and the problems of our fair city. Thank you, you old fisherman. I am indebted to you as always. Your friend,          DeLavey ' WHERE entry=547;
 UPDATE locales_page_Text SET text_loc9='--Day 16
-Uleg and Thargil returned from their mission to the Theramore docks.  They saw a new ship in port: the Bleeding Sparrow.  The ship arrived from Menethil Harbor in Azeroth.
+Uleg and Thargil returned from their mission to the Theramore docks.  They saw a new ship in port: the Bleeding Sparrow.  The ship arrived from Menethil Harbor in Azeroth.
 
-Tomorrow Uleg and Thargil will return to the docks and steal aboard the ship.  They hope to find political documents, ones that reveal the relations between Theramore and the Alliance.' WHERE entry=548;
+Tomorrow Uleg and Thargil will return to the docks and steal aboard the ship.  They hope to find political documents, ones that reveal the relations between Theramore and the Alliance.' WHERE entry=548;
 UPDATE locales_page_Text SET text_loc9='--Day 16 Uleg and Thargil returned from their mission to the Theramore docks.  They saw a new ship in port: the Bleeding Sparrow.  The ship arrived from Menethil Harbor in Azeroth. Tomorrow Uleg and Thargil will return to the docks and steal aboard the ship.  They hope to find political documents, ones that reveal the relations between Theramore and the Alliance. ' WHERE entry=571;
 UPDATE locales_page_Text SET text_loc9='With Kel\'Thuzad\'s success in Lordaeron, the Lich King made the final preparations for his assault against human civilization. Placing his plague energies into a number of portable artifacts called plague cauldrons, Ner\'zhul ordered Kel\'Thuzad to transport the cauldrons to Lordaeron where they would be hidden within various cult-controlled villages. ' WHERE entry=572;
 UPDATE locales_page_Text SET text_loc9='The cauldrons, protected by the loyal cultists, would then act as plague generators, sending the plague seeping out across the unsuspecting farmlands and cities of northern Lordaeron. The Lich King\'s plan worked perfectly. Many of Lordaeron\'s northern villages were contaminated almost immediately. Just as in Northrend, the citizens who contracted the plague died and arose as the Lich King\'s willing slaves. ' WHERE entry=573;
@@ -1137,11 +1048,11 @@ UPDATE locales_page_Text SET text_loc9='Once in place, the plague began to seep 
 UPDATE locales_page_Text SET text_loc9='Payment will be made through the usual channels.  And do give the bearer of this request a standard, delivery stipend.  You may add it to the cost of the shield. Sincerely, and many thanks, --Gringer Stormpike ' WHERE entry=689;
 UPDATE locales_page_Text SET text_loc9='The word BETRAYER is crudely scratched over the finely etched epitaph that reads:
 
-Yuriv lies here.
-Father, Husband, Paladin.
-Let his children bear witness to the fact that his dedication to the Light was unquestionable.
-He would never ask anything of them that he himself would not do.
-' WHERE entry=690;
+Yuriv lies here.
+Father, Husband, Paladin.
+Let his children bear witness to the fact that his dedication to the Light was unquestionable.
+He would never ask anything of them that he himself would not do.
+' WHERE entry=690;
 UPDATE locales_page_Text SET text_loc9='The word BETRAYER is crudely scratched over the finely etched epitaph that reads: Yuriv lies here. Father, Husband, Paladin. Let his children bear witness to the fact that his dedication to the Light was unquestionable. He would never ask anything of them that he himself would not do. ' WHERE entry=695;
 UPDATE locales_page_Text SET text_loc9='Diary - Day 4 I have been stranded on the Island now for 4 days, left alone with my thoughts.   Bananas are pretty tasty, but what a long climb to reach them.  When I am not getting food or protecting myself from the periodic rain, all my thoughts are of rescue. I would not be so hopeful if it were not for the boxes of paper and bottles that washed ashore with me.  I laugh now to think of all the time I spent on that ship cursing that I was stuck with a boatload of Alchemists and Scribes. ' WHERE entry=696;
 UPDATE locales_page_Text SET text_loc9='Diary - Day 512 The bananas have started talking to me and I have learned a great deal about their culture.  I have ceased my senseless destruction of their homes and consumption of the young.  How little I knew then of the great civilization that I was destroying. On another topic I seem to be running low on bottles and paper.  When I first looked at those huge stacks of paper that washed ashore I thought they would be inexhaustible.  Woe with me, my diary must end soon. ' WHERE entry=697;
@@ -1307,14 +1218,14 @@ UPDATE locales_page_Text SET text_loc9='Get a Jade.  They hide in many different
 UPDATE locales_page_Text SET text_loc9='Get a Jade.  They hide in many different places.  They are rare, but if you  speak with a blacksmith or engineer they might have one or two to spare. ' WHERE entry=930;
 UPDATE locales_page_Text SET text_loc9='$N, below are the items needed to create your armor:
 
-Smokey iron ingots from the Windshear kobolds in the Windshear mine in the Stonetalon Mountains.
+Smokey iron ingots from the Windshear kobolds in the Windshear mine in the Stonetalon Mountains.
 
-Powdered azurite from the Hillsbrad miners in Hillsbrad.
+Powdered azurite from the Hillsbrad miners in Hillsbrad.
 
-Iron bars from miners, or from iron deposits if you are a miner.
+Iron bars from miners, or from iron deposits if you are a miner.
 
-Vial of phlogiston, from a quilboar named Roogug in Razorfen Kraul.
-' WHERE entry=931;
+Vial of phlogiston, from a quilboar named Roogug in Razorfen Kraul.
+' WHERE entry=931;
 UPDATE locales_page_Text SET text_loc9='$N, below are the items needed to create your armor: Smokey iron ingots from the Windshear kobolds in the Windshear mine in the Stonetalon Mountains. Powdered azurite from the Hillsbrad miners in Hillsbrad. Iron bars from miners, or from iron deposits if you are a miner. Vial of phlogiston, from a quilboar named Roogug in Razorfen Kraul. ' WHERE entry=950;
 UPDATE locales_page_Text SET text_loc9='(Only portions of the journal are legible through the stains.)
 
@@ -1325,10 +1236,10 @@ I cannot believe how foolish I was.  To be blind-sided by the foul Shadowforge d
 ...make matters worse, the necklace the gnome made for me has been shattered!  Three of the largest gems set into it have been lost.  I must find them; without them the necklace is powerless...' WHERE entry=951;
 UPDATE locales_page_Text SET text_loc9='The Lay of Ameth\'Aran
 
-Long had the children of the stars dwelled upon the banks of the shimmering waters of the eternal well. To all was known that Elune, Light of the Eternal Twilight, Aspect and Goddess of the Moon, dwelt within its waters at such time that she rested from her works. Upon the shores of the well did the children of the stars, favored of elune, build their homes. Even as their gaze was trained ever skyward, into the moonlit night.' WHERE entry=953;
+Long had the children of the stars dwelled upon the banks of the shimmering waters of the eternal well. To all was known that Elune, Light of the Eternal Twilight, Aspect and Goddess of the Moon, dwelt within its waters at such time that she rested from her works. Upon the shores of the well did the children of the stars, favored of elune, build their homes. Even as their gaze was trained ever skyward, into the moonlit night.' WHERE entry=953;
 UPDATE locales_page_Text SET text_loc9='The Fall of Ameth\'Aran
 
-The Earth trembled as the ancient trees in the enchanted forest were uprooted and toppled. The groves and glades tended by the sons and daughters of Cenarius and the stone towers of the Children of the Stars were brought to the rolling ground. There was our Queen, radiant even in the desperation, in the chaos that was the battles. The enchanted sky changed colors with the discharge of magic, with the explosions that threatened to tear the world asunder.' WHERE entry=954;
+The Earth trembled as the ancient trees in the enchanted forest were uprooted and toppled. The groves and glades tended by the sons and daughters of Cenarius and the stone towers of the Children of the Stars were brought to the rolling ground. There was our Queen, radiant even in the desperation, in the chaos that was the battles. The enchanted sky changed colors with the discharge of magic, with the explosions that threatened to tear the world asunder.' WHERE entry=954;
 UPDATE locales_page_Text SET text_loc9='(Only portions of the journal are legible through the stains.) Uldaman, Day 3 I cannot believe how foolish I was.  To be blind-sided by the foul Shadowforge dwarves was a novice\'s feat.  My wounds heal slowly; surely I am poisoned.  I feel my energy sap away.  I must scout ahead nonetheless... ...make matters worse, the necklace the gnome made for me has been shattered!  Three of the largest gems set into it have been lost.  I must find them; without them the necklace is powerless... ' WHERE entry=970;
 UPDATE locales_page_Text SET text_loc9='Uldaman, Day 4
 
@@ -1509,7 +1420,7 @@ UPDATE locales_page_Text SET text_loc9='Being inside the belly of a giant gives 
 UPDATE locales_page_Text SET text_loc9='What was I thinking? Perhaps a better question would be: What am I doing writing a note while I\'m sitting captive inside the stomach of a giant? Both good questions that I have no immediate answer for... Admittedly, mine was not a mission of good will. I came in search of Azsharite, a unique crystal to southern Azshara. Oh the riches I would have had! Bah! Now look at me... ' WHERE entry=1313;
 UPDATE locales_page_Text SET text_loc9='Should any manner of intelligent life find this note, they must ask themselves something: "Why in the hell are they romping around with violent thirty foot tall giants?"
 
-- Mook' WHERE entry=1314;
+- Mook' WHERE entry=1314;
 UPDATE locales_page_Text SET text_loc9='Should any manner of intelligent life find this note, they must ask themselves something: "Why in the hell are they romping around with violent thirty foot tall giants?" - Mook ' WHERE entry=1330;
 UPDATE locales_page_Text SET text_loc9='01001101 01100101 01110011 01110011 01100001 01100111 01100101 00100000 01110100 01101111 00100000 01000011 01100001 01110011 01110100 01110000 01101001 01110000 01100101 00111010 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01100001 01110101 01101110 01100100 01110010 01111001 00100111 01110011 00100000 01110010 01100101 01100001 01100100 01111001 00100000 01100110 01101111 01110010 00100000 01110000 01101001 01100011 01101011 01110101 01110000 00101110' WHERE entry=1331;
 UPDATE locales_page_Text SET text_loc9='01001101 01100101 01110011 01110011 01100001 01100111 01100101 00100000 01110100 01101111 00100000 01000011 01100001 01110011 01110100 01110000 01101001 01110000 01100101 00111010 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01100001 01110101 01101110 01100100 01110010 01111001 00100111 01110011 00100000 01110010 01100101 01100001 01100100 01111001 00100000 01100110 01101111 01110010 00100000 01110000 01101001 01100011 01101011 01110101 01110000 00101110 ' WHERE entry=1370;
@@ -1521,12 +1432,12 @@ UPDATE locales_page_Text SET text_loc9='<HTML>
 UPDATE locales_page_Text SET text_loc9='<HTML> <BODY> <IMG src="InterfacePicturesLinken_sepia_256px"/> </BODY> </HTML> ' WHERE entry=1391;
 UPDATE locales_page_Text SET text_loc9='Brother Neals,
 
-My grapes are saved!  $N, the bearer of this manifest, braved my thug-infested vineyard and gathered the grapes that I could not.  Although the Defias still roam across the river, nearly my entire crop has been salvaged.
+My grapes are saved!  $N, the bearer of this manifest, braved my thug-infested vineyard and gathered the grapes that I could not.  Although the Defias still roam across the river, nearly my entire crop has been salvaged.
 
-You may add a full load of grape bushels to your stores.
+You may add a full load of grape bushels to your stores.
 
-May the Light protect us,
--Milly Osworth' WHERE entry=1392;
+May the Light protect us,
+-Milly Osworth' WHERE entry=1392;
 UPDATE locales_page_Text SET text_loc9='Brother Neals, My grapes are saved!  $N, the bearer of this manifest, braved my thug-infested vineyard and gathered the grapes that I could not.  Although the Defias still roam across the river, nearly my entire crop has been salvaged. You may add a full load of grape bushels to your stores. May the Light protect us, -Milly Osworth ' WHERE entry=1430;
 UPDATE locales_page_Text SET text_loc9='Vorfalk Irongourd$B$BVorfalk works the store room of the Grim Guzzler, and his sacrifice to the Dark Keepers runs deep.$B$BMay his spirit hold strong.' WHERE entry=1431;
 UPDATE locales_page_Text SET text_loc9='Bethek Stormbrow$B$BBethek\'s wanderings take him deep within Blackrock. The secrets of the mountain beckon him.$B$BMay his spirit never falter.' WHERE entry=1432;
@@ -1536,7 +1447,7 @@ UPDATE locales_page_Text SET text_loc9='Ofgut Stonefist$B$BThose fallen before D
 UPDATE locales_page_Text SET text_loc9='Pelver Deepstomp$B$BDark Keeper Pelver is our most honored disciple.  He has borne the key for longer than any, and it has cost him dearly.  When he is called for his burden, he is guarded in the Domicile.$B$BHis sacrifice is cherished, and he will remain in our hearts for many years... after the darkness takes him.' WHERE entry=1436;
 UPDATE locales_page_Text SET text_loc9='Pelver Deepstomp Dark Keeper Pelver is our most honored disciple.  He has borne the key for longer than any, and it has cost him dearly.  When he is called for his burden, he is guarded in the Domicile. His sacrifice is cherished, and he will remain in our hearts for many years... after the darkness takes him. ' WHERE entry=1470;
 UPDATE locales_page_Text SET text_loc9='Solomon,$B$BThe carrier of this decree has been granted official status as an acting deputy of Stormwind. You may use $g him:her
-' WHERE entry=1471;
+' WHERE entry=1471;
 UPDATE locales_page_Text SET text_loc9='Solomon,$B$BThe carrier of this decree has been granted official status as an acting deputy of Stormwind. You may use $g him:her ' WHERE entry=1490;
 UPDATE locales_page_Text SET text_loc9='<HTML>
 <BODY>
@@ -1718,17 +1629,17 @@ UPDATE locales_page_Text SET text_loc9='This anvil is the property of Jordan Sti
 UPDATE locales_page_Text SET text_loc9='This anvil is the property of Jordan Stilwell - Please do NOT use! - Jordan ' WHERE entry=1610;
 UPDATE locales_page_Text SET text_loc9='<The pages are covered in ancient elven runes.>
 
-The pages herein contain memories of events that transpired in the collection and creation of the reagents required to craft lesser arcanum.
+The pages herein contain memories of events that transpired in the collection and creation of the reagents required to craft lesser arcanum.
 
-May our enemies never gain access to these libram.
+May our enemies never gain access to these libram.
 
-May I live to see the pallid light of the moon shine upon Quel\'Thalas once again.
+May I live to see the pallid light of the moon shine upon Quel\'Thalas once again.
 
-May I die but for the grace of Kael\'thas.
+May I die but for the grace of Kael\'thas.
 
-May I kill for the glory of Illidan.
+May I kill for the glory of Illidan.
 
--Master Kariel Winthalus' WHERE entry=1611;
+-Master Kariel Winthalus' WHERE entry=1611;
 UPDATE locales_page_Text SET text_loc9='<The pages are covered in ancient elven runes.> The pages herein contain memories of events that transpired in the collection and creation of the reagents required to craft lesser arcanum. May our enemies never gain access to these libram. May I live to see the pallid light of the moon shine upon Quel\'Thalas once again. May I die but for the grace of Kael\'thas. May I kill for the glory of Illidan. -Master Kariel Winthalus ' WHERE entry=1630;
 UPDATE locales_page_Text SET text_loc9='<The pages are covered in ancient elven runes.>
 
@@ -1812,11 +1723,11 @@ UPDATE locales_page_Text SET text_loc9='<HTML> <BODY> <IMG src="InterfacePicture
 UPDATE locales_page_Text SET text_loc9='<HTML> <BODY> <IMG src="InterfacePictures11733_bldbank_256"/> </BODY> </HTML> ' WHERE entry=1650;
 UPDATE locales_page_Text SET text_loc9='<HTML> <BODY> <IMG src="InterfacePictures11733_whipper_256"/> </BODY> </HTML> ' WHERE entry=1651;
 UPDATE locales_page_Text SET text_loc9='<HTML>
-<BODY>
-<IMG src="Interface\Pictures\11733_ungoro_256"/>
-</BODY>
-</HTML>
-' WHERE entry=1652;
+<BODY>
+<IMG src="Interface\Pictures\11733_ungoro_256"/>
+</BODY>
+</HTML>
+' WHERE entry=1652;
 UPDATE locales_page_Text SET text_loc9='<HTML> <BODY> <IMG src="InterfacePictures11733_ungoro_256"/> </BODY> </HTML> ' WHERE entry=1690;
 UPDATE locales_page_Text SET text_loc9='Hi Felnok!
 
@@ -2202,9 +2113,9 @@ Lord of the Red Caverns
 Last seen in the Mountains of Alterac' WHERE entry=2153;
 UPDATE locales_page_Text SET text_loc9='Dorgar Stoenbrow Warrior of the Scarlet Crusade Lord of the Red Caverns Last seen in the Mountains of Alterac ' WHERE entry=2170;
 UPDATE locales_page_Text SET text_loc9='Fellari Swiftarrow
-Ranger Captain of the Scarlet Crusade
-Citizen of Quel\'Thalas
-Lost in the forests of Silverpine' WHERE entry=2171;
+Ranger Captain of the Scarlet Crusade
+Citizen of Quel\'Thalas
+Lost in the forests of Silverpine' WHERE entry=2171;
 UPDATE locales_page_Text SET text_loc9='Ferren Marcus
 
 High Abbot of the Scarlet Monastery 
@@ -2270,12 +2181,12 @@ UPDATE locales_page_Text SET text_loc9='King Llane I of the House of Wrynn Liege
 UPDATE locales_page_Text SET text_loc9='Commander of the Alliance Fleets Friend of Stormwind ' WHERE entry=2293;
 UPDATE locales_page_Text SET text_loc9='Lady Mara Fordragon
 
-High Clerist of Stormwind
+High Clerist of Stormwind
 
-Patron of the Refugees who fled to Lordaeron after the First War.
+Patron of the Refugees who fled to Lordaeron after the First War.
 
-She was the bright mother of our future. May she rest in the Light.
-' WHERE entry=2294;
+She was the bright mother of our future. May she rest in the Light.
+' WHERE entry=2294;
 UPDATE locales_page_Text SET text_loc9='Before the Age of Memory, the gentle Earthmother breathed upon the golden mists of dawn. Where the amber clouds came to rest, there were endless fields of flowing wheat and barley. This was the basin of her works - the great basket of life and hope.' WHERE entry=2295;
 UPDATE locales_page_Text SET text_loc9='The Earthmother\'s eyes shone down upon the lands she had breathed into creation. Her right eye, An\'she (the sun), gave warmth and light to the land. Her left eye, Mu\'sha (the moon), gave peace and sleep to the stirring creatures of the dawning. Such was the power of her gaze that the Earthmother closed one dreaming eye for every turning of the sky. Thus, her loving gaze turned day into night for the first dawning of the world.' WHERE entry=2296;
 UPDATE locales_page_Text SET text_loc9='While the right eye shone down upon the golden dawn, the Earthmother\'s gentle hands spread out across the golden plains. Wherever the shadow of her arms passed, a noble people arose from the rich soil. The Shu\'halo (the tauren) arose to give thanks and prayer to their loving mother. There, in the endless fields of dawn, the children of the earth swore themselves to her grace and vowed to bless her name until the final darkening of the world.' WHERE entry=2297;
@@ -2293,7 +2204,7 @@ UPDATE locales_page_Text SET text_loc9='As the mists of dawn faded and the Age o
 UPDATE locales_page_Text SET text_loc9='Though the children of the earth closed out the evil whisperings, a terrible curse befell their roaming tribes. Out of the black lands of the west came a horde of murderous creatures - the centaur. Cannibals and ravagers, the centaur fell upon the Shu\'halo like a plague. Though the braves and hunters fought with the Earthmother\'s blessing in their hearts, the centaur could not be defeated.' WHERE entry=2309;
 UPDATE locales_page_Text SET text_loc9='The Shu\'halo were forced to leave their ancestral holdings behind, and roam the endless plains as nomads forever after. It was held that one day hope would return - and the scattered tribes of the Shu\'halo would find a new home under the loving arms of the Earthmother.' WHERE entry=2310;
 UPDATE locales_page_Text SET text_loc9='This intact pteradon skeleton was recovered from the remote Un\'Goro Crater. Based on the skeletal structure, it is clear that this specific genus has not yet been encountered. This skeleton could have been preserved for any number of centuries beneath the region\'s rich soil.
-' WHERE entry=2311;
+' WHERE entry=2311;
 UPDATE locales_page_Text SET text_loc9='This intact pteradon skeleton was recovered from the remote Un\'Goro Crater. Based on the skeletal structure, it is clear that this specific genus has not yet been encountered. This skeleton could have been preserved for any number of centuries beneath the region\'s rich soil. ' WHERE entry=2350;
 UPDATE locales_page_Text SET text_loc9='<HTML>
 <BODY>
@@ -2412,13 +2323,13 @@ UPDATE locales_page_Text SET text_loc9='Nessa, It is good to hear from you. The 
 UPDATE locales_page_Text SET text_loc9='Below is the list students who obtained a Platinum Star grade at Brock\'s School of Mining and Surveying, earning them an Honarary Miner\'s Pick: Melia Stoneshaker Bardin Ironband Umi Togglevolt Rumi Togglevolt Vorel Steelspire ' WHERE entry=2514;
 UPDATE locales_page_Text SET text_loc9='By order of High Executor Hadrec, below are the items deemed necessary in order to maintain the stock of the Sepulcher:
 
-12 Long swords
-9 Dagggers
-8 Round Shields
-15 Axes
-1000 Arrows
+12 Long swords
+9 Dagggers
+8 Round Shields
+15 Axes
+1000 Arrows
 
-Fulfillment of this order is to be considered a direct command of the Dark Lady, and those responsible will be brought to Her attention, as will any who oppose or otherwise hamper Her wishes.' WHERE entry=2515;
+Fulfillment of this order is to be considered a direct command of the Dark Lady, and those responsible will be brought to Her attention, as will any who oppose or otherwise hamper Her wishes.' WHERE entry=2515;
 UPDATE locales_page_Text SET text_loc9='By order of High Executor Hadrec, below are the items deemed necessary in order to maintain the stock of the Sepulcher: 12 Long swords 9 Dagggers 8 Round Shields 15 Axes 1000 Arrows Fulfillment of this order is to be considered a direct command of the Dark Lady, and those responsible will be brought to Her attention, as will any who oppose or otherwise hamper Her wishes. ' WHERE entry=2530;
 UPDATE locales_page_Text SET text_loc9='This 3 page document is blank.' WHERE entry=2531;
 UPDATE locales_page_Text SET text_loc9='This 3 page document is blank. ' WHERE entry=2550;
@@ -2440,48 +2351,48 @@ UPDATE locales_page_Text SET text_loc9='Throughout the caverns of Maraudon roam 
 UPDATE locales_page_Text SET text_loc9='Use the power of the Amulet of Spirits to force them to manifest and take the gems from them! After, place the gems within the Amulet of Spirits and return it to me. Once I have the Amulet of Union, I will be powerful enough to reform the tribes so we can finally be as our ancestors wanted us to be!' WHERE entry=2596;
 UPDATE locales_page_Text SET text_loc9='Welcome to the World of Warcraft!
 
-Young Warrior don\'t be afraid of this new,mystical place! will be amazed of the wonders you will see! Many danger\'s lurk in the shadow\'s, many robbers are ready to kill you for a nickle.... So beware of all that is dangerou\'s and fight youre way to a better place in life!
+Young Warrior don\'t be afraid of this new,mystical place! will be amazed of the wonders you will see! Many danger\'s lurk in the shadow\'s, many robbers are ready to kill you for a nickle.... So beware of all that is dangerou\'s and fight youre way to a better place in life!
 
 ' WHERE entry=2597;
 UPDATE locales_page_Text SET text_loc9='Welcome to the World of Warcraft!
 
-So young fighter.You are trying to become a Palladin?Alright then... Remmeber be brave, stand up high and defend the innocent! And most of all dont forget that there is a God and you are his helper....
+So young fighter.You are trying to become a Palladin?Alright then... Remmeber be brave, stand up high and defend the innocent! And most of all dont forget that there is a God and you are his helper....
 
 ' WHERE entry=2598;
 UPDATE locales_page_Text SET text_loc9='Welcome to the World of Warcraft!
 
-Hehe and you call youreself a rougue? Don\'t make me laugh! If you want to become a real rougue show us what you are made of! Now go and rob those villages!
+Hehe and you call youreself a rougue? Don\'t make me laugh! If you want to become a real rougue show us what you are made of! Now go and rob those villages!
 
 ' WHERE entry=2599;
 UPDATE locales_page_Text SET text_loc9='Welcome to the World of Warcraft!
 
-My son worship God and you will be saved.... Worship God and you will be saved Worship The Devil and u will be powerfull but decended in God\'s Eye\'s! So beware my child! BEWARE!
+My son worship God and you will be saved.... Worship God and you will be saved Worship The Devil and u will be powerfull but decended in God\'s Eye\'s! So beware my child! BEWARE!
 
 ' WHERE entry=2600;
 UPDATE locales_page_Text SET text_loc9='Welcome to the World of Warcraft!
 
-The world is a tricky place for us shaman\'s, but still we are powerfull enough to win this harras of a battle... We got what it takes to kill that pesky Aliance Now show me what we Shaman\'s are made of!
+The world is a tricky place for us shaman\'s, but still we are powerfull enough to win this harras of a battle... We got what it takes to kill that pesky Aliance Now show me what we Shaman\'s are made of!
 
 ' WHERE entry=2601;
 UPDATE locales_page_Text SET text_loc9='Welcome to the World of Warcraft!
 
-We Mage\'s are the most powerfull Magic user\'s We combine Fire and Frost to get maximum effect And we will help evrything that need\'s it So go and learn the magic of exploring !
+We Mage\'s are the most powerfull Magic user\'s We combine Fire and Frost to get maximum effect And we will help evrything that need\'s it So go and learn the magic of exploring !
 
 ' WHERE entry=2602;
 UPDATE locales_page_Text SET text_loc9='Welcome to the World of Warcraft!
 
-Warlock a mysterious class... We are the most powerfull when it come\'s to using magic I know "mage is most powerfull with spells bla bla bla..." Forget that we Warlock\'s evolved from Mage\'s so we actualy are more powerfull....
+Warlock a mysterious class... We are the most powerfull when it come\'s to using magic I know "mage is most powerfull with spells bla bla bla..." Forget that we Warlock\'s evolved from Mage\'s so we actualy are more powerfull....
 
 ' WHERE entry=2603;
 UPDATE locales_page_Text SET text_loc9='Welcome to the World of Warcraft!
 
-Our Tribe has awakened youre power\'s my child... Now you are a Druid so called Hybrid.. You combine the force of the warrior, the intelect of the Mage\'s, The rejuvination magic from the Shaman\'s.... We are unique you must alway\'s help youre friend\'s, becouse we Druid\'s are the Ultimate support a humanoid can get!
+Our Tribe has awakened youre power\'s my child... Now you are a Druid so called Hybrid.. You combine the force of the warrior, the intelect of the Mage\'s, The rejuvination magic from the Shaman\'s.... We are unique you must alway\'s help youre friend\'s, becouse we Druid\'s are the Ultimate support a humanoid can get!
 
 ' WHERE entry=2604;
 UPDATE locales_page_Text SET text_loc9='Credit\'s Main:
 Quest scripter\'s:
-==============================
-Shultz. Thesleby. Rest of !rpg Team.
+==============================
+Shultz. Thesleby. Rest of !rpg Team.
 
 ' WHERE entry=2605;
 UPDATE locales_page_Text SET text_loc9='Use the power of the Amulet of Spirits to force them to manifest and take the gems from them! After, place the gems within the Amulet of Spirits and return it to me. Once I have the Amulet of Union, I will be powerful enough to reform the tribes so we can finally be as our ancestors wanted us to be! ' WHERE entry=2610;
