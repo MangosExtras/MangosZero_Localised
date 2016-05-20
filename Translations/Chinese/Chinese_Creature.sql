@@ -1,4 +1,4 @@
-SET NAMES 'utf8';
+﻿SET NAMES 'utf8';
 UPDATE locales_creature SET name_loc4='路径点',subname_loc4='GM可见' WHERE entry=1; -- Name: Waypoint -- subName: GM Visual
 UPDATE locales_creature SET name_loc4='复活点',subname_loc4='GM可见' WHERE entry=2; -- Name: Spawnpoint -- subName: GM Visual
 UPDATE locales_creature SET name_loc4='食腐者',subname_loc4='' WHERE entry=3; -- Name: Flesh Eater
@@ -6087,7 +6087,7 @@ UPDATE locales_creature SET name_loc4='荧光机械陆行鸟',subname_loc4='' WH
 UPDATE locales_creature SET name_loc4='白色机械陆行鸟B型',subname_loc4='' WHERE entry=10179; -- Name: Riding MechaStrider (Black)
 UPDATE locales_creature SET name_loc4='骑乘用机械陆行鸟',subname_loc4='' WHERE entry=10180; -- Name: Unpainted Mechanostrider
 UPDATE locales_creature SET name_loc4='希尔瓦娜斯·风行者',subname_loc4='女妖之王' WHERE entry=10181; -- Name: Lady Sylvanas Windrunner -- subName: Banshee Queen
-UPDATE locales_creature SET name_loc4='罗卡鲁',subname_loc4='部落的勇士' WHERE entry=10182; -- Name: Rexxar -- subName: Champion of the Horde
+UPDATE locales_creature SET name_loc4='雷克萨',subname_loc4='部落的勇士' WHERE entry=10182; -- Name: Rexxar -- subName: Champion of the Horde
 UPDATE locales_creature SET name_loc4='月焰图腾',subname_loc4='' WHERE entry=10183; -- Name: Moonflare Totem
 UPDATE locales_creature SET name_loc4='奥妮克希亚',subname_loc4='' WHERE entry=10184; -- Name: Onyxia
 UPDATE locales_creature SET name_loc4='科巴塔恩将军',subname_loc4='' WHERE entry=10196; -- Name: General Colbatann
