@@ -1,4 +1,4 @@
-SET NAMES 'utf8';
+﻿SET NAMES 'utf8';
 UPDATE locales_item SET name_loc4='马丁之怒',description_loc4='' WHERE entry=17; -- Name: Martin Fury
 UPDATE locales_item SET name_loc4='破损的短剑',description_loc4='' WHERE entry=25; -- Name: Worn Shortsword
 UPDATE locales_item SET name_loc4='弯曲的法杖',description_loc4='' WHERE entry=35; -- Name: Bent Staff
@@ -1674,8 +1674,8 @@ UPDATE locales_item SET name_loc4='磨损的腰带',description_loc4='' WHERE en
 UPDATE locales_item SET name_loc4='磨损的护腕',description_loc4='' WHERE entry=3365; -- Name: Frayed Bracers
 UPDATE locales_item SET name_loc4='墓地苔',description_loc4='' WHERE entry=3369; -- Name: Grave Moss
 UPDATE locales_item SET name_loc4='碎料腰带',description_loc4='' WHERE entry=3370; -- Name: Patchwork Belt
-UPDATE locales_item SET name_loc4='水晶瓶',description_loc4='' WHERE entry=3371; -- Name: Empty Vial
-UPDATE locales_item SET name_loc4='破碎的瓶子',description_loc4='' WHERE entry=3372; -- Name: Leaded Vial
+UPDATE `mangos`.`locales_item` SET `name_loc4` = '空瓶' WHERE `entry` = '3371'; -- Name: Empty Vial 
+UPDATE `mangos`.`locales_item` SET `name_loc4` = '铅瓶' WHERE `entry` = '3372'; -- Name: Leaded Vial
 UPDATE locales_item SET name_loc4='碎料护腕',description_loc4='' WHERE entry=3373; -- Name: Patchwork Bracers
 UPDATE locales_item SET name_loc4='棉布腰带',description_loc4='' WHERE entry=3374; -- Name: Calico Belt
 UPDATE locales_item SET name_loc4='棉布护腕',description_loc4='' WHERE entry=3375; -- Name: Calico Bracers
@@ -5275,7 +5275,7 @@ UPDATE locales_item SET name_loc4='幽灵菇',description_loc4='' WHERE entry=88
 UPDATE locales_item SET name_loc4='格罗姆之血',description_loc4='' WHERE entry=8846; -- Name: Gromsblood
 UPDATE locales_item SET name_loc4='苦楚精华',description_loc4='潜行者制毒所需的原料。' WHERE entry=8923; -- Name: Essence of Agony -- Description: Used by rogues to brew poison.
 UPDATE locales_item SET name_loc4='堕落之尘',description_loc4='潜行者制毒所需的原料。' WHERE entry=8924; -- Name: Dust of Deterioration -- Description: Used by rogues to brew poison.
-UPDATE locales_item SET name_loc4='被污染的瓶子',description_loc4='' WHERE entry=8925; -- Name: Crystal Vial
+UPDATE `mangos`.`locales_item` SET `name_loc4` = '水晶瓶' WHERE `entry` = '8925'; -- Name: Crystal Vial
 UPDATE locales_item SET name_loc4='速效药膏',description_loc4='' WHERE entry=8926; -- Name: Instant Poison IV
 UPDATE locales_item SET name_loc4='速效药膏',description_loc4='' WHERE entry=8927; -- Name: Instant Poison V
 UPDATE locales_item SET name_loc4='速效药膏',description_loc4='' WHERE entry=8928; -- Name: Instant Poison VI
@@ -10969,7 +10969,7 @@ UPDATE locales_item SET name_loc4='图样：熔火护甲片',description_loc4='�
 UPDATE locales_item SET name_loc4='特效活力药水',description_loc4='' WHERE entry=18253; -- Name: Major Rejuvenation Potion
 UPDATE locales_item SET name_loc4='洛恩塔姆薯块',description_loc4='' WHERE entry=18254; -- Name: Runn Tum Tuber Surprise
 UPDATE locales_item SET name_loc4='洛恩塔姆地薯',description_loc4='' WHERE entry=18255; -- Name: Runn Tum Tuber
-UPDATE locales_item SET name_loc4='融化之瓶',description_loc4='' WHERE entry=18256; -- Name: Imbued Vial
+UPDATE `mangos`.`locales_item` SET `name_loc4` = '灌魔之瓶' WHERE `entry` = '18256'; -- Name: Imbued Vial
 UPDATE locales_item SET name_loc4='配方：特效活力药水',description_loc4='教你学会配制特效活力药水。' WHERE entry=18257; -- Name: Recipe: Major Rejuvenation Potion
 UPDATE locales_item SET name_loc4='戈多克食人魔装',description_loc4='兼备扩大和支撑体型的功效！' WHERE entry=18258; -- Name: Gordok Ogre Suit -- Description: It lifts AND supports!
 UPDATE locales_item SET name_loc4='公式：附魔武器 - 法术能量',description_loc4='教你学会永久性地为一件近战武器附魔，使其获得法术强度提高30点的效果。' WHERE entry=18259; -- Name: Formula: Enchant Weapon - Spell Power
