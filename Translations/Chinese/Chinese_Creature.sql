@@ -2263,8 +2263,8 @@ UPDATE locales_creature SET name_loc4='地狱捕猎者',subname_loc4='' WHERE en
 UPDATE locales_creature SET name_loc4='巨钳龙虾人',subname_loc4='' WHERE entry=3103; -- Name: Makrura Clacker
 UPDATE locales_creature SET name_loc4='厚壳龙虾人',subname_loc4='' WHERE entry=3104; -- Name: Makrura Shellhide
 UPDATE locales_creature SET name_loc4='硬爪龙虾人',subname_loc4='' WHERE entry=3105; -- Name: Makrura Snapclaw
-UPDATE locales_creature SET name_loc4='海浪蟹',subname_loc4='' WHERE entry=3106; -- Name: Pygmy Surf Crawler
-UPDATE locales_creature SET name_loc4='成熟海浪蟹',subname_loc4='' WHERE entry=3107; -- Name: Surf Crawler
+UPDATE locales_creature SET name_loc4='海浪蟹幼崽',subname_loc4='' WHERE entry=3106; -- Name: Pygmy Surf Crawler
+UPDATE locales_creature SET name_loc4='海浪蟹',subname_loc4='' WHERE entry=3107; -- Name: Surf Crawler
 UPDATE locales_creature SET name_loc4='硬壳海浪蟹',subname_loc4='' WHERE entry=3108; -- Name: Encrusted Surf Crawler
 UPDATE locales_creature SET name_loc4='巨齿鳄鱼',subname_loc4='' WHERE entry=3110; -- Name: Dreadmaw Crocolisk
 UPDATE locales_creature SET name_loc4='钢鬃野猪人',subname_loc4='' WHERE entry=3111; -- Name: Razormane Quilboar
