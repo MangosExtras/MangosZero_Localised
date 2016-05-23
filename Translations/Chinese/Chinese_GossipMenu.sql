@@ -1230,8 +1230,103 @@ UPDATE locales_gossip_menu_option SET option_text_loc4='请继续。',box_text_l
 UPDATE locales_gossip_menu_option SET option_text_loc4='我在听，德米提恩。',box_text_loc4='' WHERE menu_id=5689 and id=0; -- option_text: I am listening, Demitrian.
 UPDATE locales_gossip_menu_option SET option_text_loc4='措手不及？如何？',box_text_loc4='' WHERE menu_id=5701 and id=0; -- option_text: Caught unaware? How?
 UPDATE locales_gossip_menu_option SET option_text_loc4='<点头>',box_text_loc4='' WHERE menu_id=5702 and id=0; -- option_text: <Nod>
-
-
-
-
+UPDATE locales_gossip_menu_option SET option_text_loc4='那么拉格纳罗斯下一步要做什么？',box_text_loc4='' WHERE menu_id=5704 and id=0; -- option_text: So what did Ragnaros do next?
+UPDATE locales_gossip_menu_option SET option_text_loc4='陶醉。请继续。',box_text_loc4='' WHERE menu_id=5726 and id=0; -- option_text: Fascinating. Continue, please.
+UPDATE locales_gossip_menu_option SET option_text_loc4='请继续。',box_text_loc4='' WHERE menu_id=5727 and id=0; -- option_text: Continue, please.
+UPDATE locales_gossip_menu_option SET option_text_loc4='这里发生了什么事？ ',box_text_loc4='' WHERE menu_id=5729 and id=0; -- option_text: What happened here, spirit?
+UPDATE locales_gossip_menu_option SET option_text_loc4='哀悼这巨大的损失。',box_text_loc4='' WHERE menu_id=5743 and id=0; -- option_text: Mourn the great loss.
+UPDATE locales_gossip_menu_option SET option_text_loc4='哀悼这巨大的损失。',box_text_loc4='' WHERE menu_id=5743 and id=1; -- option_text: Mourn the great loss.
+UPDATE locales_gossip_menu_option SET option_text_loc4='传送我到熔火之心，洛索斯。 ',box_text_loc4='' WHERE menu_id=5750 and id=0; -- option_text: Transport me to the Molten Core, Lothos.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<把你的手放在球上。>',box_text_loc4='' WHERE menu_id=6001 and id=0; -- option_text: <Put your hand on the sphere.>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我不能瓦拉斯塔兹！肯定有办法治愈你！',box_text_loc4='' WHERE menu_id=6021 and id=0; -- option_text: I can not Vaelastrasz ! Surely there must be some way to heal you!
+UPDATE locales_gossip_menu_option SET option_text_loc4='瓦拉斯塔兹，不！',box_text_loc4='' WHERE menu_id=6101 and id=0; -- option_text: Vaelastrasz , no!
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=6162 and id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='希拉斯，为什么大多数的东西都是免费的？你如何赚钱？',box_text_loc4='' WHERE menu_id=6182 and id=0; -- option_text: Silas, why is most everything at the fair free?  How do you make a profit?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我杀的这个人是陛下希望我做的，他不过是一个小偷和骗子。 ',box_text_loc4='' WHERE menu_id=6185 and id=0; -- option_text: I slay the man on the spot as my liege would expect me to do, as he is nothing more than a thief and a liar.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我仔细考虑陛下对他的惩罚，因为他打破了这片土地的法律，执行是我的职责。',box_text_loc4='' WHERE menu_id=6185 and id=1; -- option_text: I turn over the man to my liege for punishment, as he has broken the law of the land and it is my sworn duty to enforce it.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我没收了他偷的玉米，警告他偷窃是一条通往毁灭和毁灭的道路，但我让他回到自己的家。',box_text_loc4='' WHERE menu_id=6185 and id=2; -- option_text: I confiscate the corn he has stolen, warn him that stealing is a path towards doom and destruction, but I let him go to return to his family.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我让这个人带足够的玉米来养活他的家人几天，鼓励他离开这片大陆。',box_text_loc4='' WHERE menu_id=6185 and id=3; -- option_text: I allow the man to take enough corn to feed his family for a couple of days, encouraging him to leave the land.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我已经准备好去发现我的财富所在！',box_text_loc4='' WHERE menu_id=6186 and id=0; -- option_text: I am ready to discover where my fortune lies!
+UPDATE locales_gossip_menu_option SET option_text_loc4='我遵照陛下的指示处决他，以这样一种方式，他在死前痛苦地忍受着痛苦，因为他对我的人民犯下了罪行。',box_text_loc4='' WHERE menu_id=6187 and id=0; -- option_text: I execute him as per my liege's instructions, and do it in such a manner that he suffers painfully before he dies as retribution for his crimes against my people.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我遵照陛下的指示处决他，但尽可能的做到无痛。正义必须得到担任，但我可以表现出一些同情。 ',box_text_loc4='' WHERE menu_id=6187 and id=1; -- option_text: I execute him as per my liege's instructions, but doing so in as painless of a way as possible.  Justice must be served, but I can show some compassion.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我冒着生命危险，把他释放，这样他就可以证明自己是清白的。如果我可以的话，我会以任何方式帮助他。',box_text_loc4='' WHERE menu_id=6187 and id=2; -- option_text: I risk my own life and free him so that he may prove his innocence.  If I can, I'll help him in any way.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我更多关于这些暗月套牌。',box_text_loc4='' WHERE menu_id=6202 and id=1; -- option_text: Tell me more about these Darkmoon Cards.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我关于野兽套牌。',box_text_loc4='' WHERE menu_id=6207 and id=0; -- option_text: Tell me about the Beasts Deck.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我关于入口套牌。',box_text_loc4='' WHERE menu_id=6207 and id=1; -- option_text: Tell me about the Portals Deck.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我关于元素套牌。',box_text_loc4='' WHERE menu_id=6207 and id=2; -- option_text: Tell me about the Elementals Deck.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我关于督军套牌。',box_text_loc4='' WHERE menu_id=6207 and id=3; -- option_text: Tell me about the Warlords Deck.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我关于复仇女神套牌。',box_text_loc4='' WHERE menu_id=6207 and id=4; -- option_text: Tell me about the Furies Deck.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我关于狂躁套牌。',box_text_loc4='' WHERE menu_id=6207 and id=5; -- option_text: Tell me about the Lunacy Deck.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我关于祝福套牌。',box_text_loc4='' WHERE menu_id=6207 and id=6; -- option_text: Tell me about the Blessings Deck.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我关于风暴套牌。',box_text_loc4='' WHERE menu_id=6207 and id=7; -- option_text: Tell me about the Storms Deck.
+UPDATE locales_gossip_menu_option SET option_text_loc4='其他的套牌存在吗？',box_text_loc4='' WHERE menu_id=6207 and id=8; -- option_text: Do other decks exist?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我面队统治者的恶意行为，在任何未来的外交风险中维护陛下的荣誉。',box_text_loc4='' WHERE menu_id=6208 and id=0; -- option_text: I confront the ruler on his malicious behavior, upholding my liege's honor at the risk of any future diplomacy.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我没有那么静静的忽视侮辱，他可能扮演一个希望灌输恐惧的统治者。然后当我回来的时候,我告发我的臣民的侮辱。',box_text_loc4='' WHERE menu_id=6208 and id=1; -- option_text: I not-so-quietly ignore the insult, hoping to instill a fear in the ruler that he may have gaffed.  I then inform my liege of the insult when I return.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我默默地忽略了这一侮辱。我不会告诉我的臣民，我为了和平要不惜一切代价。这只是一种侮辱--不是宣战。',box_text_loc4='' WHERE menu_id=6208 and id=2; -- option_text: I quietly ignore the insult.  I will not tell my liege, as I am to secure peace at all costs.  It's only an insult - not a declaration of war.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我会和我的弟弟说，加入这个规则，在我们的关系中仓促完成一个永久的结尾。他对自己和周围的人是危险的，随着时间的推移，这是一个巨大的风险。',box_text_loc4='' WHERE menu_id=6209 and id=0; -- option_text: I would speak against my brother joining the order, rushing a permanent breech in our relationship.  He would be a danger to himself and those around him, and that is too great a risk hoping he would improve over time.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我会和我的弟弟说，加入这个规则，有可能冒着安全的危险。我可以帮助他和秩序的规则，我会相信他的适应能力和学习能力。 ',box_text_loc4='' WHERE menu_id=6209 and id=1; -- option_text: I would speak for my brother joining the order, potentially risking the safety of the order.  I could help him with the order's regimens, and I'd have faith in his ability to adapt and learn.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我会创造一些诡秘的手段来保持我的弟弟脱离规则。我可以不让他变得更聪明，从而拯救我们的家族。',box_text_loc4='' WHERE menu_id=6209 and id=2; -- option_text: I would create some surreptitious means to keep my brother out of the order.  I can keep him out without him being any bit wiser, thereby saving our familial bonds.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我会展示我的国王的野兽的耳朵，声称野兽的死亡像我自己一样，以奖励我自己用的。别人做的声称是自己的行为是不对的。',box_text_loc4='' WHERE menu_id=6210 and id=0; -- option_text: I would show my liege the beast's ear and claim the beast's death as my own, taking the reward for my own use.  It is wrong to claim a deed as your own that someone else in fact did.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我将显示我的国王的野兽的耳朵，声称野兽的死是我自己的——毕竟,我真的杀了它。然后，我会提供一些奖励给贫困的骑士，以帮助他的家人。',box_text_loc4='' WHERE menu_id=6210 and id=1; -- option_text: I would show my liege the beast's ear and claim the beast's death as my own - after all, I did slay it.  I would then offer some of the reward to the destitute knight to help his family.
+UPDATE locales_gossip_menu_option SET option_text_loc4='关于杀戮我会保持沉默，并让骑士索取奖励来帮助他的家人。',box_text_loc4='' WHERE menu_id=6210 and id=2; -- option_text: I would remain silent about the kill and allow the knight to claim the reward to aid his family.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想得到你提到的那些书面的幸运之一！我在我的库存上有空间。',box_text_loc4='' WHERE menu_id=6211 and id=0; -- option_text: I'd love to get one of those written fortunes you mentioned!  I've got the space in my inventory for it.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你说暗月马戏团来了？她现在在哪里？',box_text_loc4='' WHERE menu_id=6213 and id=0; -- option_text: The Darkmoon Faire has arrived, you say? And where is she now?
+UPDATE locales_gossip_menu_option SET option_text_loc4='给我饮料！',box_text_loc4='' WHERE menu_id=6230 and id=0; -- option_text: Show me the drinks!
+UPDATE locales_gossip_menu_option SET option_text_loc4='你有什么卖的吗？',box_text_loc4='' WHERE menu_id=6233 and id=0; -- option_text: What do you have for sale?
+UPDATE locales_gossip_menu_option SET option_text_loc4='嗯…食品。',box_text_loc4='' WHERE menu_id=6234 and id=0; -- option_text: Mmm... food.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我浏览您选择的烟花。',box_text_loc4='' WHERE menu_id=6342 and id=0; -- option_text: Let me browse your selection of fireworks.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我浏览您选择的烟花。',box_text_loc4='' WHERE menu_id=6343 and id=0; -- option_text: Let me browse your selection of fireworks.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想浏览你的商品，卡兰德拉斯。',box_text_loc4='' WHERE menu_id=6525 and id=2; -- option_text: I wish to browse your wares, Calandrath.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你好，弗兰卡。我听说你可能有一些纳塔莉亚·玛尔利斯的下落的信息。',box_text_loc4='' WHERE menu_id=6533 and id=0; -- option_text: Hello, Frankal. I've heard that you might have some information as to the whereabouts of Mistress Natalia Mar'alith.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你好，鲁特加尔。指挥官派我来这里收集一些关于他失踪的妻子的资料。',box_text_loc4='' WHERE menu_id=6534 and id=0; -- option_text: Hello, Rutgar. The Commander has sent me here to gather some information about his missing wife.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我不是教徒，你这怪物！到我这里来面对你的毁灭！',box_text_loc4='' WHERE menu_id=6540 and id=0; -- option_text: I am no cultist, you monster! Come to me and face your destruction!
+UPDATE locales_gossip_menu_option SET option_text_loc4='赤红圣殿骑士！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6540 and id=1; -- option_text: Crimson Templar! I hold your signet! Heed my call!
+UPDATE locales_gossip_menu_option SET option_text_loc4='土色圣殿骑士！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6540 and id=2; -- option_text: Earthen Templar! I hold your signet! Heed my call!
+UPDATE locales_gossip_menu_option SET option_text_loc4='苍白圣殿骑士！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6540 and id=3; -- option_text: Hoary Templar! I hold your signet! Heed my call!
+UPDATE locales_gossip_menu_option SET option_text_loc4='碧蓝圣殿骑士！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6540 and id=4; -- option_text: Azure Templar! I hold your signet! Heed my call!
+UPDATE locales_gossip_menu_option SET option_text_loc4='你会听这个，邪恶的公爵！我不是你的暮光之锤的走狗！我来挑战你！来！来吧，迎接你的死亡。。。',box_text_loc4='' WHERE menu_id=6542 and id=0; -- option_text: You will listen to this, vile duke! I am not your Twilight's Hammer lapdog! I am here to challenge you! Come! Come, and meet your death...
+UPDATE locales_gossip_menu_option SET option_text_loc4='灰烬公爵！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6542 and id=1; -- option_text: Duke of Cynders! I hold your signet! Heed my call
+UPDATE locales_gossip_menu_option SET option_text_loc4='碎石公爵！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6542 and id=2; -- option_text: The Duke of Shards! I hold your signet! Heed my call!
+UPDATE locales_gossip_menu_option SET option_text_loc4='微风公爵！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6542 and id=3; -- option_text: The Duke of Zephyrs! I hold your signet! Heed my call!
+UPDATE locales_gossip_menu_option SET option_text_loc4='深渊公爵！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6542 and id=4; -- option_text: The Duke of Fathoms! I hold your signet! Heed my call!
+UPDATE locales_gossip_menu_option SET option_text_loc4='审判的日子到了，恶魔！我向你提出挑战！ ',box_text_loc4='' WHERE menu_id=6543 and id=0; -- option_text: The day of the judgement has come, fiend! I challenge you to battle!
+UPDATE locales_gossip_menu_option SET option_text_loc4='斯卡德诺克斯王子！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6543 and id=1; -- option_text: Prince Skaldrenox! I hold your signet! Heed my call!
+UPDATE locales_gossip_menu_option SET option_text_loc4='卡苏姆男爵！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6543 and id=2; -- option_text: Baron Kazum! I hold your signet! Heed my call!
+UPDATE locales_gossip_menu_option SET option_text_loc4='大元帅维拉希斯！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6543 and id=3; -- option_text: High Marshal Whirlaxis! I hold your signet! Heed my call!
+UPDATE locales_gossip_menu_option SET option_text_loc4='斯古恩男爵！我拿着你的印记！听从我的呼唤！',box_text_loc4='' WHERE menu_id=6543 and id=4; -- option_text: Lord Skwol! I hold your signet! Heed my call!
+UPDATE locales_gossip_menu_option SET option_text_loc4='我一旦我搞定这个烂摊子就会回来。',box_text_loc4='' WHERE menu_id=6545 and id=0; -- option_text: I'll be back once I straighten this mess out.
+UPDATE locales_gossip_menu_option SET option_text_loc4='被什么迷住了？',box_text_loc4='' WHERE menu_id=6546 and id=0; -- option_text: Possessed by what?
+UPDATE locales_gossip_menu_option SET option_text_loc4='丢了吗？你是什么意思？',box_text_loc4='' WHERE menu_id=6547 and id=0; -- option_text: Lost it? What do you mean?
+UPDATE locales_gossip_menu_option SET option_text_loc4='有什么要求呢？',box_text_loc4='' WHERE menu_id=6548 and id=0; -- option_text: What demands?
+UPDATE locales_gossip_menu_option SET option_text_loc4='纳塔莉亚？',box_text_loc4='' WHERE menu_id=6549 and id=0; -- option_text: Natalia?
+UPDATE locales_gossip_menu_option SET option_text_loc4='在她之后发生了什么事？',box_text_loc4='' WHERE menu_id=6550 and id=0; -- option_text: What happened to her after that?
+UPDATE locales_gossip_menu_option SET option_text_loc4='那听起来很危险。',box_text_loc4='' WHERE menu_id=6551 and id=0; -- option_text: That sounds dangerous.
+UPDATE locales_gossip_menu_option SET option_text_loc4='谢谢你提供的信息，弗兰卡。',box_text_loc4='' WHERE menu_id=6552 and id=0; -- option_text: Thanks for the information, Frankal.
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么故事！于是在她进入雷戈虫巢的时候是你最后一次见到她？',box_text_loc4='' WHERE menu_id=6553 and id=0; -- option_text: What a story! So she went into Hive'Regal and that was the last you saw of her?
+UPDATE locales_gossip_menu_option SET option_text_loc4='那是什么？',box_text_loc4='' WHERE menu_id=6554 and id=0; -- option_text: Then what?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我一直都想问那只猴子。',box_text_loc4='' WHERE menu_id=6555 and id=0; -- option_text: I've been meaning to ask out about that monkey.
+UPDATE locales_gossip_menu_option SET option_text_loc4='这很奇怪。',box_text_loc4='' WHERE menu_id=6557 and id=0; -- option_text: That's odd.
+UPDATE locales_gossip_menu_option SET option_text_loc4='这就是我喜欢听的。',box_text_loc4='' WHERE menu_id=6558 and id=0; -- option_text: That's what I like to hear.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<使用这个抄写装置收集一个拓印。>',box_text_loc4='' WHERE menu_id=6559 and id=0; -- option_text: <Use the transcription device to gather a rubbing.>
+UPDATE locales_gossip_menu_option SET option_text_loc4='<使用这个抄写装置收集一个拓印。>',box_text_loc4='' WHERE menu_id=6560 and id=0; -- option_text: <Use the transcription device to gather a rubbing.>
+UPDATE locales_gossip_menu_option SET option_text_loc4='<使用这个抄写装置收集一个拓印。>',box_text_loc4='' WHERE menu_id=6561 and id=0; -- option_text: <Use the transcription device to gather a rubbing.>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=6563 and id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想进入秘密代码去接收我的鱼人宠物。',box_text_loc4='' WHERE menu_id=6565 and id=0; -- option_text: I would like to enter the secret code to receive my Murloc pet.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想进入秘密代码接收我的鱼人服装。',box_text_loc4='' WHERE menu_id=6565 and id=1; -- option_text: I would like to enter the secret code to receive my Murloc costume.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想进入秘密代码接收我的大暴风雪熊。',box_text_loc4='' WHERE menu_id=6565 and id=2; -- option_text: I would like to enter the secret code to receive my Big Blizzard Bear.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我如何使用冲击者5000型超级大炮。',box_text_loc4='' WHERE menu_id=6575 and id=0; -- option_text: Tell me how to use the Blastenheimer 5000 Ultra Cannon.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<更多> ',box_text_loc4='' WHERE menu_id=6579 and id=0; -- option_text: <more>
+UPDATE locales_gossip_menu_option SET option_text_loc4='这些坦克控制台是什么？',box_text_loc4='' WHERE menu_id=6581 and id=0; -- option_text: What are these Tonk Control Consoles?
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我大炮相关的事。',box_text_loc4='' WHERE menu_id=6581 and id=1; -- option_text: Tell me about the cannon.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我能购买什么？',box_text_loc4='' WHERE menu_id=6582 and id=0; -- option_text: What can I purchase?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是暗月马戏团的奖票，我怎么得到它们？ ',box_text_loc4='' WHERE menu_id=6582 and id=1; -- option_text: What are Darkmoon Faire Prize Tickets and how do I get them?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暗月卡片是什么？',box_text_loc4='' WHERE menu_id=6582 and id=2; -- option_text: What are Darkmoon Cards?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我可以做其他的什么事情？',box_text_loc4='' WHERE menu_id=6582 and id=3; -- option_text: What other things can I do at the faire?
+UPDATE locales_gossip_menu_option SET option_text_loc4='兑换战场荣誉奖章。',box_text_loc4='' WHERE menu_id=6597 and id=0; -- option_text: Redeem Battleground Marks for Honor.
+UPDATE locales_gossip_menu_option SET option_text_loc4='兑换战场荣誉奖章。',box_text_loc4='' WHERE menu_id=6598 and id=0; -- option_text: Redeem Battleground Marks for Honor.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<拿起这本来自美好的艾泽拉斯的书>',box_text_loc4='' WHERE menu_id=6668 and id=0; -- option_text: <Take this book for the good of Azeroth!>
+UPDATE locales_gossip_menu_option SET option_text_loc4='<拿起这本来自美好的艾泽拉斯的书>',box_text_loc4='' WHERE menu_id=6669 and id=0; -- option_text: <Take this book for the good of Azeroth!>
+UPDATE locales_gossip_menu_option SET option_text_loc4='<拿起这本来自美好的艾泽拉斯的书>',box_text_loc4='' WHERE menu_id=6670 and id=0; -- option_text: <Take this book for the good of Azeroth!>
+UPDATE locales_gossip_menu_option SET option_text_loc4='在梅森身上撒上一些驯鹿粉尘。',box_text_loc4='' WHERE menu_id=6763 and id=0; -- option_text: Sprinkle some of the reindeer dust onto Metzen.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我浏览一下你的季节性食物。',box_text_loc4='' WHERE menu_id=6769 and id=0; -- option_text: Let me browse your seasonal fare.
 SET NAMES 'latin1';
