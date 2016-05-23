@@ -1933,7 +1933,7 @@ UPDATE locales_creature SET name_loc4='雷克奇兹',subname_loc4='制皮供应�
 UPDATE locales_creature SET name_loc4='尼艾丝队长',subname_loc4='' WHERE entry=2700; -- Name: Captain Nials
 UPDATE locales_creature SET name_loc4='火烟食人魔',subname_loc4='' WHERE entry=2701; -- Name: Dustbelcher Ogre
 UPDATE locales_creature SET name_loc4='森古',subname_loc4='' WHERE entry=2703; -- Name: Zengu
-UPDATE locales_creature SET name_loc4='哈纳什',subname_loc4='' WHERE entry=2704; -- Name: Hanashi -- subName: Weapon Master
+UPDATE locales_creature SET name_loc4='哈纳什',subname_loc4='武器大师' WHERE entry=2704; -- Name: Hanashi -- subName: Weapon Master
 UPDATE locales_creature SET name_loc4='布鲁米·比格尔',subname_loc4='' WHERE entry=2705; -- Name: Brewmeister Bilger
 UPDATE locales_creature SET name_loc4='托尔甘',subname_loc4='' WHERE entry=2706; -- Name: Tor'gan
 UPDATE locales_creature SET name_loc4='沙德拉',subname_loc4='毒蜘蛛女王' WHERE entry=2707; -- Name: Shadra -- subName: The Venom Queen
@@ -6949,12 +6949,12 @@ UPDATE locales_creature SET name_loc4='摩罗加尔',subname_loc4='' WHERE entry
 UPDATE locales_creature SET name_loc4='苏纳曼',subname_loc4='' WHERE entry=11862; -- Name: Tsunaman
 UPDATE locales_creature SET name_loc4='阿佐尔·奥达蒙特',subname_loc4='银色黎明' WHERE entry=11863; -- Name: Azore Aldamort -- subName: The Argent Dawn
 UPDATE locales_creature SET name_loc4='塔姆拉·荒原',subname_loc4='' WHERE entry=11864; -- Name: Tammra Windfield
-UPDATE locales_creature SET name_loc4='布里维夫·石拳',subname_loc4='' WHERE entry=11865; -- Name: Buliwyf Stonehand -- subName: Weapon Master
-UPDATE locales_creature SET name_loc4='伊琳尼雅·月火',subname_loc4='' WHERE entry=11866; -- Name: Ilyenia Moonfire -- subName: Weapon Master
-UPDATE locales_creature SET name_loc4='吴平',subname_loc4=' master ' WHERE entry=11867; -- Name: Woo Ping -- subName: Weapon Master
-UPDATE locales_creature SET name_loc4='塞尤克',subname_loc4='' WHERE entry=11868; -- Name: Sayoc -- subName: Weapon Master
-UPDATE locales_creature SET name_loc4='安塞瓦',subname_loc4=' master ' WHERE entry=11869; -- Name: Ansekhwa -- subName: Weapon Master
-UPDATE locales_creature SET name_loc4='阿基巴德',subname_loc4='' WHERE entry=11870; -- Name: Archibald -- subName: Weapon Master
+UPDATE locales_creature SET name_loc4='布里维夫·石拳',subname_loc4='武器大师' WHERE entry=11865; -- Name: Buliwyf Stonehand -- subName: Weapon Master
+UPDATE locales_creature SET name_loc4='伊琳尼雅·月火',subname_loc4='武器大师' WHERE entry=11866; -- Name: Ilyenia Moonfire -- subName: Weapon Master
+UPDATE locales_creature SET name_loc4='吴平',subname_loc4='武器大师' WHERE entry=11867; -- Name: Woo Ping -- subName: Weapon Master
+UPDATE locales_creature SET name_loc4='塞尤克',subname_loc4='武器大师' WHERE entry=11868; -- Name: Sayoc -- subName: Weapon Master
+UPDATE locales_creature SET name_loc4='安塞瓦',subname_loc4='武器大师' WHERE entry=11869; -- Name: Ansekhwa -- subName: Weapon Master
+UPDATE locales_creature SET name_loc4='阿基巴德',subname_loc4='武器大师' WHERE entry=11870; -- Name: Archibald -- subName: Weapon Master
 UPDATE locales_creature SET name_loc4='呲牙狗',subname_loc4='' WHERE entry=11871; -- Name: Grinning Dog
 UPDATE locales_creature SET name_loc4='巫女麦兰达',subname_loc4='' WHERE entry=11872; -- Name: Myranda the Hag
 UPDATE locales_creature SET name_loc4='鬼魅随从',subname_loc4='' WHERE entry=11873; -- Name: Spectral Attendant
@@ -7376,7 +7376,7 @@ UPDATE locales_creature SET name_loc4='基塔尔',subname_loc4='' WHERE entry=13
 UPDATE locales_creature SET name_loc4='深铁矿洞守卫',subname_loc4='' WHERE entry=13080; -- Name: Irondeep Guard
 UPDATE locales_creature SET name_loc4='深铁矿洞掠夺者',subname_loc4='' WHERE entry=13081; -- Name: Irondeep Raider
 UPDATE locales_creature SET name_loc4='米尔顿·比斯',subname_loc4='施舍者' WHERE entry=13082; -- Name: Milton Beats -- subName: Giver of the Beatings
-UPDATE locales_creature SET name_loc4='比克斯',subname_loc4='' WHERE entry=13084; -- Name: Bixi Wobblebonk -- subName: Weapon Master
+UPDATE locales_creature SET name_loc4='比克斯',subname_loc4='武器大师' WHERE entry=13084; -- Name: Bixi Wobblebonk -- subName: Weapon Master
 UPDATE locales_creature SET name_loc4='麦洛克斯',subname_loc4='' WHERE entry=13085; -- Name: Myrokos Silentform
 UPDATE locales_creature SET name_loc4='埃其',subname_loc4='' WHERE entry=13086; -- Name: Aggi Rumblestomp
 UPDATE locales_creature SET name_loc4='冰冷矿洞入侵者',subname_loc4='' WHERE entry=13087; -- Name: Coldmine Invader
