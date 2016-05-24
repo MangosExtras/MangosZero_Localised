@@ -1329,4 +1329,285 @@ UPDATE locales_gossip_menu_option SET option_text_loc4='<拿起这本来自美�
 UPDATE locales_gossip_menu_option SET option_text_loc4='<拿起这本来自美好的艾泽拉斯的书>',box_text_loc4='' WHERE menu_id=6670 and id=0; -- option_text: <Take this book for the good of Azeroth!>
 UPDATE locales_gossip_menu_option SET option_text_loc4='在梅森身上撒上一些驯鹿粉尘。',box_text_loc4='' WHERE menu_id=6763 and id=0; -- option_text: Sprinkle some of the reindeer dust onto Metzen.
 UPDATE locales_gossip_menu_option SET option_text_loc4='让我浏览一下你的季节性食物。',box_text_loc4='' WHERE menu_id=6769 and id=0; -- option_text: Let me browse your seasonal fare.
+UPDATE locales_gossip_menu_option SET option_text_loc4='高山长者在哪里？',box_text_loc4='' WHERE menu_id=6814 and id=1; -- option_text: Where is Elder High Mountain?
+UPDATE locales_gossip_menu_option SET option_text_loc4='月卫长者在哪里？',box_text_loc4='' WHERE menu_id=6814 and id=2; -- option_text: Where is Elder Moonwarden?
+UPDATE locales_gossip_menu_option SET option_text_loc4='麦蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6814 and id=3; -- option_text: Where is Elder Ezra Wheathoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='风之图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6814 and id=4; -- option_text: Where is Elder Windtotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暗角长者在哪里？',box_text_loc4='' WHERE menu_id=6815 and id=1; -- option_text: Where is Elder Darkhorn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='高山长者在哪里？',box_text_loc4='' WHERE menu_id=6815 and id=2; -- option_text: Where is Elder High Mountain?
+UPDATE locales_gossip_menu_option SET option_text_loc4='月卫长者在哪里？',box_text_loc4='' WHERE menu_id=6815 and id=3; -- option_text: Where is Elder Moonwarden?
+UPDATE locales_gossip_menu_option SET option_text_loc4='风之图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6815 and id=4; -- option_text: Where is Elder Windtotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暗灵长者在哪里？',box_text_loc4='' WHERE menu_id=6816 and id=1; -- option_text: Where is Elder Darkcore?
+UPDATE locales_gossip_menu_option SET option_text_loc4='幽林长者在哪里？',box_text_loc4='' WHERE menu_id=6816 and id=2; -- option_text: Where is Elder Meadowrun?
+UPDATE locales_gossip_menu_option SET option_text_loc4='黑曜石长者在哪里？',box_text_loc4='' WHERE menu_id=6816 and id=4; -- option_text: Where is Elder Obsidian?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雪冠长者在哪里？',box_text_loc4='' WHERE menu_id=6816 and id=5; -- option_text: Where is Elder Snowcrown?
+UPDATE locales_gossip_menu_option SET option_text_loc4='血蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6817 and id=1; -- option_text: Where is Elder Bloodhoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='高山长者在哪里？',box_text_loc4='' WHERE menu_id=6817 and id=2; -- option_text: Where is Elder High Mountain?
+UPDATE locales_gossip_menu_option SET option_text_loc4='晨露长者在哪里？',box_text_loc4='' WHERE menu_id=6817 and id=3; -- option_text: Where is Elder Morningdew?
+UPDATE locales_gossip_menu_option SET option_text_loc4='符文图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6817 and id=4; -- option_text: Where is Elder Runetotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='风之图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6817 and id=5; -- option_text: Where is Elder Windtotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='血蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6818 and id=1; -- option_text: Where is Elder Bloodhoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='月卫长者在哪里？',box_text_loc4='' WHERE menu_id=6818 and id=2; -- option_text: Where is Elder Moonwarden?
+UPDATE locales_gossip_menu_option SET option_text_loc4='晨露长者在哪里？',box_text_loc4='' WHERE menu_id=6818 and id=3; -- option_text: Where is Elder Morningdew?
+UPDATE locales_gossip_menu_option SET option_text_loc4='符文图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6818 and id=4; -- option_text: Where is Elder Runetotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='风之图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6818 and id=5; -- option_text: Where is Elder Windtotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='灰石长者在哪里？',box_text_loc4='' WHERE menu_id=6819 and id=1; -- option_text: Where is Elder Graveborn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雪峰长者在哪里？',box_text_loc4='' WHERE menu_id=6819 and id=2; -- option_text: Where is Elder Highpeak?
+UPDATE locales_gossip_menu_option SET option_text_loc4='梦言长者在哪里？',box_text_loc4='' WHERE menu_id=6820 and id=1; -- option_text: Where is Elder Dreamseer?
+UPDATE locales_gossip_menu_option SET option_text_loc4='晨露长者在哪里？',box_text_loc4='' WHERE menu_id=6820 and id=2; -- option_text: Where is Elder Morningdew?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暴怒图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6820 and id=3; -- option_text: Where is Elder Ragetotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='蛮鬃长者在哪里？',box_text_loc4='' WHERE menu_id=6820 and id=4; -- option_text: Where is Elder Wildmane?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷锤长者在哪里？',box_text_loc4='' WHERE menu_id=6821 and id=1; -- option_text: Where is Elder Hammershout?
+UPDATE locales_gossip_menu_option SET option_text_loc4='巨石长者在哪里？',box_text_loc4='' WHERE menu_id=6821 and id=2; -- option_text: Where is Elder Rumblerock?
+UPDATE locales_gossip_menu_option SET option_text_loc4='逐星长者在哪里？',box_text_loc4='' WHERE menu_id=6821 and id=3; -- option_text: Where is Elder Skychaser?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星歌长者在哪里？',box_text_loc4='' WHERE menu_id=6821 and id=4; -- option_text: Where is Elder Starsong?
+UPDATE locales_gossip_menu_option SET option_text_loc4='迅刀长者在哪里？',box_text_loc4='' WHERE menu_id=6822 and id=1; -- option_text: Where is Elder Bladeswift?
+UPDATE locales_gossip_menu_option SET option_text_loc4='夜光长者在哪里？',box_text_loc4='' WHERE menu_id=6822 and id=2; -- option_text: Where is Elder Skygleam?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铜须长者在哪里？',box_text_loc4='' WHERE menu_id=6823 and id=1; -- option_text: Where is Elder Bronzebeard?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铁环长者在哪里？',box_text_loc4='' WHERE menu_id=6823 and id=2; -- option_text: Where is Elder Ironband?
+UPDATE locales_gossip_menu_option SET option_text_loc4='银脉长者在哪里？',box_text_loc4='' WHERE menu_id=6823 and id=3; -- option_text: Where is Elder Silvervein?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铁环长者在哪里？',box_text_loc4='' WHERE menu_id=6824 and id=0; -- option_text: Where is Elder Ironband?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星歌长者在哪里？',box_text_loc4='' WHERE menu_id=6825 and id=1; -- option_text: Where is Elder Starsong?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷眉长者在哪里？',box_text_loc4='' WHERE menu_id=6825 and id=2; -- option_text: Where is Elder Stormbrow?
+UPDATE locales_gossip_menu_option SET option_text_loc4='冰蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6825 and id=3; -- option_text: Where is Elder Winterhoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='迅刀长者在哪里？',box_text_loc4='' WHERE menu_id=6826 and id=1; -- option_text: Where is Elder Bladeswift?
+UPDATE locales_gossip_menu_option SET option_text_loc4='夜风长者在哪里？',box_text_loc4='' WHERE menu_id=6826 and id=2; -- option_text: Where is Elder Nightwind?
+UPDATE locales_gossip_menu_option SET option_text_loc4='水歌长者在哪里？',box_text_loc4='' WHERE menu_id=6826 and id=3; -- option_text: Where is Elder Riversong?
+UPDATE locales_gossip_menu_option SET option_text_loc4='夜风长者在哪里？',box_text_loc4='' WHERE menu_id=6827 and id=1; -- option_text: Where is Elder Nightwind?
+UPDATE locales_gossip_menu_option SET option_text_loc4='夜光长者在哪里？',box_text_loc4='' WHERE menu_id=6827 and id=2; -- option_text: Where is Elder Skygleam?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星纹长者在哪里？',box_text_loc4='' WHERE menu_id=6827 and id=3; -- option_text: Where is Elder Starweave?
+UPDATE locales_gossip_menu_option SET option_text_loc4='石塔长者在哪里？',box_text_loc4='' WHERE menu_id=6827 and id=4; -- option_text: Where is Elder Stonespire?
+UPDATE locales_gossip_menu_option SET option_text_loc4='血蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6828 and id=1; -- option_text: Where is Elder Bloodhoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暗角长者在哪里？',box_text_loc4='' WHERE menu_id=6828 and id=2; -- option_text: Where is Elder Darkhorn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='高山长者在哪里？',box_text_loc4='' WHERE menu_id=6828 and id=3; -- option_text: Where is Elder High Mountain?
+UPDATE locales_gossip_menu_option SET option_text_loc4='月卫长者在哪里？',box_text_loc4='' WHERE menu_id=6828 and id=4; -- option_text: Where is Elder Moonwarden?
+UPDATE locales_gossip_menu_option SET option_text_loc4='晨露长者在哪里？',box_text_loc4='' WHERE menu_id=6828 and id=5; -- option_text: Where is Elder Morningdew?
+UPDATE locales_gossip_menu_option SET option_text_loc4='麦蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6828 and id=6; -- option_text: Where is Elder Ezra Wheathoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='符文图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6828 and id=7; -- option_text: Where is Elder Runetotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='巨石长者在哪里？',box_text_loc4='' WHERE menu_id=6829 and id=1; -- option_text: Where is Elder Rumblerock?
+UPDATE locales_gossip_menu_option SET option_text_loc4='逐星长者在哪里？',box_text_loc4='' WHERE menu_id=6829 and id=2; -- option_text: Where is Elder Skychaser?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星林长者在哪里？',box_text_loc4='' WHERE menu_id=6829 and id=3; -- option_text: Where is Elder Starglade?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星歌长者在哪里？',box_text_loc4='' WHERE menu_id=6829 and id=4; -- option_text: Where is Elder Starsong?
+UPDATE locales_gossip_menu_option SET option_text_loc4='恐怖图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6830 and id=1; -- option_text: Where is Elder Grimtotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='高山长者在哪里？',box_text_loc4='' WHERE menu_id=6830 and id=2; -- option_text: Where is Elder High Mountain?
+UPDATE locales_gossip_menu_option SET option_text_loc4='迷雾行者长者在哪里？',box_text_loc4='' WHERE menu_id=6830 and id=3; -- option_text: Where is Elder Mistwalker?
+UPDATE locales_gossip_menu_option SET option_text_loc4='月卫长者在哪里？',box_text_loc4='' WHERE menu_id=6830 and id=4; -- option_text: Where is Elder Moonwarden?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星眼长者在哪里？',box_text_loc4='' WHERE menu_id=6830 and id=5; -- option_text: Where is Elder Skyseer?
+UPDATE locales_gossip_menu_option SET option_text_loc4='风之图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6830 and id=6; -- option_text: Where is Elder Windtotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暴怒图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6831 and id=1; -- option_text: Where is Elder Ragetotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星眼长者在哪里？',box_text_loc4='' WHERE menu_id=6831 and id=2; -- option_text: Where is Elder Skyseer?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷角长者在哪里？',box_text_loc4='' WHERE menu_id=6831 and id=3; -- option_text: Where is Elder Thunderhorn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='蛮鬃长者在哪里？',box_text_loc4='' WHERE menu_id=6831 and id=4; -- option_text: Where is Elder Wildmane?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暗角长者在哪里？',box_text_loc4='' WHERE menu_id=6832 and id=1; -- option_text: Where is Elder Darkhorn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='灰石长者在哪里？',box_text_loc4='' WHERE menu_id=6832 and id=2; -- option_text: Where is Elder Graveborn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铁环长者在哪里？',box_text_loc4='' WHERE menu_id=6832 and id=3; -- option_text: Where is Elder Ironband?
+UPDATE locales_gossip_menu_option SET option_text_loc4='麦蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6832 and id=5; -- option_text: Where is Elder Ezra Wheathoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='迅刀长者在哪里？',box_text_loc4='' WHERE menu_id=6833 and id=1; -- option_text: Where is Elder Bladeswift?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铜须长者在哪里？',box_text_loc4='' WHERE menu_id=6833 and id=2; -- option_text: Where is Elder Bronzebeard?
+UPDATE locales_gossip_menu_option SET option_text_loc4='巨石长者在哪里？',box_text_loc4='' WHERE menu_id=6833 and id=3; -- option_text: Where is Elder Rumblerock?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷眉长者在哪里？',box_text_loc4='' WHERE menu_id=6833 and id=4; -- option_text: Where is Elder Stormbrow?
+UPDATE locales_gossip_menu_option SET option_text_loc4='灰石长者在哪里？',box_text_loc4='' WHERE menu_id=6834 and id=1; -- option_text: Where is Elder Graveborn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='远风长者在哪里？',box_text_loc4='' WHERE menu_id=6834 and id=2; -- option_text: Where is Elder Farwhisper?
+UPDATE locales_gossip_menu_option SET option_text_loc4='幽林长者在哪里？',box_text_loc4='' WHERE menu_id=6834 and id=3; -- option_text: Where is Elder Meadowrun?
+UPDATE locales_gossip_menu_option SET option_text_loc4='风路长者在哪里？',box_text_loc4='' WHERE menu_id=6834 and id=5; -- option_text: Where is Elder Windrun?
+UPDATE locales_gossip_menu_option SET option_text_loc4='棱石长者在哪里？',box_text_loc4='' WHERE menu_id=6835 and id=1; -- option_text: Where is Elder Primestone?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷角长者在哪里？',box_text_loc4='' WHERE menu_id=6835 and id=2; -- option_text: Where is Elder Thunderhorn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='迅刀长者在哪里？',box_text_loc4='' WHERE menu_id=6841 and id=1; -- option_text: Where is Elder Bladeswift?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷锤长者在哪里？',box_text_loc4='' WHERE menu_id=6841 and id=2; -- option_text: Where is Elder Hammershout?
+UPDATE locales_gossip_menu_option SET option_text_loc4='金井长者在哪里？',box_text_loc4='' WHERE menu_id=6841 and id=3; -- option_text: Where is Elder Goldwell?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铁环长者在哪里？',box_text_loc4='' WHERE menu_id=6841 and id=4; -- option_text: Where is Elder Ironband?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暗灵长者在哪里？',box_text_loc4='' WHERE menu_id=6849 and id=1; -- option_text: Where is Elder Darkcore?
+UPDATE locales_gossip_menu_option SET option_text_loc4='灰石长者在哪里？',box_text_loc4='' WHERE menu_id=6849 and id=2; -- option_text: Where is Elder Graveborn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雪峰长者在哪里？',box_text_loc4='' WHERE menu_id=6849 and id=3; -- option_text: Where is Elder Highpeak?
+UPDATE locales_gossip_menu_option SET option_text_loc4='幽林长者在哪里？',box_text_loc4='' WHERE menu_id=6849 and id=4; -- option_text: Where is Elder Meadowrun?
+UPDATE locales_gossip_menu_option SET option_text_loc4='黑曜石长者在哪里？',box_text_loc4='' WHERE menu_id=6849 and id=5; -- option_text: Where is Elder Obsidian?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雪冠长者在哪里？',box_text_loc4='' WHERE menu_id=6849 and id=6; -- option_text: Where is Elder Snowcrown?
+UPDATE locales_gossip_menu_option SET option_text_loc4='风路长者在哪里？',box_text_loc4='' WHERE menu_id=6849 and id=7; -- option_text: Where is Elder Windrun?
+UPDATE locales_gossip_menu_option SET option_text_loc4='远风长者在哪里？',box_text_loc4='' WHERE menu_id=6852 and id=1; -- option_text: Where is Elder Farwhisper?
+UPDATE locales_gossip_menu_option SET option_text_loc4='幽林长者在哪里？',box_text_loc4='' WHERE menu_id=6852 and id=2; -- option_text: Where is Elder Meadowrun?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雪冠长者在哪里？',box_text_loc4='' WHERE menu_id=6852 and id=4; -- option_text: Where is Elder Snowcrown?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雪冠长者在哪里？',box_text_loc4='' WHERE menu_id=6853 and id=1; -- option_text: Where is Elder Snowcrown?
+UPDATE locales_gossip_menu_option SET option_text_loc4='风路长者在哪里？',box_text_loc4='' WHERE menu_id=6853 and id=2; -- option_text: Where is Elder Windrun?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铁环长者在哪里？',box_text_loc4='' WHERE menu_id=6855 and id=0; -- option_text: Where is Elder Ironband?
+UPDATE locales_gossip_menu_option SET option_text_loc4='金井长者在哪里？',box_text_loc4='' WHERE menu_id=6856 and id=1; -- option_text: Where is Elder Goldwell?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铁环长者在哪里？',box_text_loc4='' WHERE menu_id=6856 and id=2; -- option_text: Where is Elder Ironband?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铜须长者在哪里？',box_text_loc4='' WHERE menu_id=6861 and id=1; -- option_text: Where is Elder Bronzebeard?
+UPDATE locales_gossip_menu_option SET option_text_loc4='金井长者在哪里？',box_text_loc4='' WHERE menu_id=6861 and id=2; -- option_text: Where is Elder Goldwell?
+UPDATE locales_gossip_menu_option SET option_text_loc4='黎明长者在哪里？',box_text_loc4='' WHERE menu_id=6861 and id=3; -- option_text: Where is Elder Morndeep?
+UPDATE locales_gossip_menu_option SET option_text_loc4='银脉长者在哪里？',box_text_loc4='' WHERE menu_id=6861 and id=4; -- option_text: Where is Elder Silvervein?
+UPDATE locales_gossip_menu_option SET option_text_loc4='石墙长者在哪里？',box_text_loc4='' WHERE menu_id=6861 and id=5; -- option_text: Where is Elder Stonefort?
+UPDATE locales_gossip_menu_option SET option_text_loc4='巨石长者在哪里？',box_text_loc4='' WHERE menu_id=6864 and id=0; -- option_text: Where is Elder Rumblerock?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星歌长者在哪里？',box_text_loc4='' WHERE menu_id=6866 and id=0; -- option_text: Where is Elder Starsong?
+UPDATE locales_gossip_menu_option SET option_text_loc4='晨行者长者在哪里？',box_text_loc4='' WHERE menu_id=6872 and id=1; -- option_text: Where is Elder Dawnstrider?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷锤长者在哪里？',box_text_loc4='' WHERE menu_id=6872 and id=2; -- option_text: Where is Elder Hammershout?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷眉长者在哪里？',box_text_loc4='' WHERE menu_id=6872 and id=3; -- option_text: Where is Elder Stormbrow?
+UPDATE locales_gossip_menu_option SET option_text_loc4='冰蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6872 and id=4; -- option_text: Where is Elder Winterhoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='怒啸长者在哪里？',box_text_loc4='' WHERE menu_id=6874 and id=1; -- option_text: Where is Elder Bellowrage?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星林长者在哪里？',box_text_loc4='' WHERE menu_id=6874 and id=2; -- option_text: Where is Elder Starglade?
+UPDATE locales_gossip_menu_option SET option_text_loc4='逐星长者在哪里？',box_text_loc4='' WHERE menu_id=6874 and id=3; -- option_text: Where is Elder Skychaser?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷眉长者在哪里？',box_text_loc4='' WHERE menu_id=6874 and id=4; -- option_text: Where is Elder Stormbrow?
+UPDATE locales_gossip_menu_option SET option_text_loc4='冰蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6874 and id=5; -- option_text: Where is Elder Winterhoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='锋叶长者在哪里？',box_text_loc4='' WHERE menu_id=6880 and id=1; -- option_text: Where is Elder Bladeleaf?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铜须长者在哪里？',box_text_loc4='' WHERE menu_id=6880 and id=2; -- option_text: Where is Elder Bronzebeard?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷锤长者在哪里？',box_text_loc4='' WHERE menu_id=6880 and id=3; -- option_text: Where is Elder Hammershout?
+UPDATE locales_gossip_menu_option SET option_text_loc4='夜光长者在哪里？',box_text_loc4='' WHERE menu_id=6880 and id=4; -- option_text: Where is Elder Skygleam?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星纹长者在哪里？',box_text_loc4='' WHERE menu_id=6880 and id=5; -- option_text: Where is Elder Starweave?
+UPDATE locales_gossip_menu_option SET option_text_loc4='金矛长者在哪里？',box_text_loc4='' WHERE menu_id=6885 and id=1; -- option_text: Where is Elder Brightspear?
+UPDATE locales_gossip_menu_option SET option_text_loc4='夜风长者在哪里？',box_text_loc4='' WHERE menu_id=6885 and id=2; -- option_text: Where is Elder Nightwind?
+UPDATE locales_gossip_menu_option SET option_text_loc4='水歌长者在哪里？',box_text_loc4='' WHERE menu_id=6885 and id=3; -- option_text: Where is Elder Riversong?
+UPDATE locales_gossip_menu_option SET option_text_loc4='金矛长者在哪里？',box_text_loc4='' WHERE menu_id=6887 and id=1; -- option_text: Where is Elder Brightspear?
+UPDATE locales_gossip_menu_option SET option_text_loc4='水歌长者在哪里？',box_text_loc4='' WHERE menu_id=6887 and id=2; -- option_text: Where is Elder Riversong?
+UPDATE locales_gossip_menu_option SET option_text_loc4='夜光长者在哪里？',box_text_loc4='' WHERE menu_id=6887 and id=3; -- option_text: Where is Elder Skygleam?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星纹长者在哪里？',box_text_loc4='' WHERE menu_id=6887 and id=4; -- option_text: Where is Elder Starweave?
+UPDATE locales_gossip_menu_option SET option_text_loc4='石塔长者在哪里？',box_text_loc4='' WHERE menu_id=6887 and id=5; -- option_text: Where is Elder Stonespire?
+UPDATE locales_gossip_menu_option SET option_text_loc4='夜风长者在哪里？',box_text_loc4='' WHERE menu_id=6888 and id=1; -- option_text: Where is Elder Nightwind?
+UPDATE locales_gossip_menu_option SET option_text_loc4='石塔长者在哪里？',box_text_loc4='' WHERE menu_id=6888 and id=2; -- option_text: Where is Elder Stonespire?
+UPDATE locales_gossip_menu_option SET option_text_loc4='锋叶长者在哪里？',box_text_loc4='' WHERE menu_id=6889 and id=1; -- option_text: Where is Elder Bladeleaf?
+UPDATE locales_gossip_menu_option SET option_text_loc4='迅刀长者在哪里？',box_text_loc4='' WHERE menu_id=6889 and id=2; -- option_text: Where is Elder Bladeswift?
+UPDATE locales_gossip_menu_option SET option_text_loc4='夜风长者在哪里？',box_text_loc4='' WHERE menu_id=6889 and id=3; -- option_text: Where is Elder Nightwind?
+UPDATE locales_gossip_menu_option SET option_text_loc4='水歌长者在哪里？',box_text_loc4='' WHERE menu_id=6889 and id=4; -- option_text: Where is Elder Riversong?
+UPDATE locales_gossip_menu_option SET option_text_loc4='血蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6890 and id=1; -- option_text: Where is Elder Bloodhoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暗灵长者在哪里？',box_text_loc4='' WHERE menu_id=6890 and id=2; -- option_text: Where is Elder Darkcore?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暗角长者在哪里？',box_text_loc4='' WHERE menu_id=6890 and id=3; -- option_text: Where is Elder Darkhorn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铁环长者在哪里？',box_text_loc4='' WHERE menu_id=6890 and id=4; -- option_text: Where is Elder Ironband?
+UPDATE locales_gossip_menu_option SET option_text_loc4='风之图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6890 and id=5; -- option_text: Where is Elder Windtotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暗灵长者在哪里？',box_text_loc4='' WHERE menu_id=6899 and id=1; -- option_text: Where is Elder Darkcore?
+UPDATE locales_gossip_menu_option SET option_text_loc4='铁环长者在哪里？',box_text_loc4='' WHERE menu_id=6899 and id=2; -- option_text: Where is Elder Ironband?
+UPDATE locales_gossip_menu_option SET option_text_loc4='麦蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6899 and id=3; -- option_text: Where is Elder Ezra Wheathoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='符文图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6899 and id=4; -- option_text: Where is Elder Runetotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='风之图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6899 and id=5; -- option_text: Where is Elder Windtotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='恐怖图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6903 and id=1; -- option_text: Where is Elder Grimtotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='晨露长者在哪里？',box_text_loc4='' WHERE menu_id=6903 and id=2; -- option_text: Where is Elder Morningdew?
+UPDATE locales_gossip_menu_option SET option_text_loc4='碎石长者在哪里？',box_text_loc4='' WHERE menu_id=6903 and id=3; -- option_text: Where is Elder Splitrock?
+UPDATE locales_gossip_menu_option SET option_text_loc4='迷雾行者长者在哪里？',box_text_loc4='' WHERE menu_id=6905 and id=1; -- option_text: Where is Elder Mistwalker?
+UPDATE locales_gossip_menu_option SET option_text_loc4='晨露长者在哪里？',box_text_loc4='' WHERE menu_id=6905 and id=2; -- option_text: Where is Elder Morningdew?
+UPDATE locales_gossip_menu_option SET option_text_loc4='碎石长者在哪里？',box_text_loc4='' WHERE menu_id=6905 and id=3; -- option_text: Where is Elder Splitrock?
+UPDATE locales_gossip_menu_option SET option_text_loc4='恐怖图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6906 and id=1; -- option_text: Where is Elder Grimtotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='迷雾行者长者在哪里？',box_text_loc4='' WHERE menu_id=6906 and id=2; -- option_text: Where is Elder Mistwalker?
+UPDATE locales_gossip_menu_option SET option_text_loc4='梦言长者在哪里？',box_text_loc4='' WHERE menu_id=6911 and id=1; -- option_text: Where is Elder Dreamseer?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星眼长者在哪里？',box_text_loc4='' WHERE menu_id=6911 and id=2; -- option_text: Where is Elder Skyseer?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷角长者在哪里？',box_text_loc4='' WHERE menu_id=6911 and id=3; -- option_text: Where is Elder Thunderhorn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='蛮鬃长者在哪里？',box_text_loc4='' WHERE menu_id=6911 and id=4; -- option_text: Where is Elder Wildmane?
+UPDATE locales_gossip_menu_option SET option_text_loc4='梦言长者在哪里？',box_text_loc4='' WHERE menu_id=6912 and id=1; -- option_text: Where is Elder Dreamseer?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暴怒图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6912 and id=2; -- option_text: Where is Elder Ragetotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星眼长者在哪里？',box_text_loc4='' WHERE menu_id=6912 and id=3; -- option_text: Where is Elder Skyseer?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷角长者在哪里？',box_text_loc4='' WHERE menu_id=6912 and id=4; -- option_text: Where is Elder Thunderhorn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='刃歌长者在哪里？',box_text_loc4='' WHERE menu_id=6914 and id=1; -- option_text: Where is Elder Bladesing?
+UPDATE locales_gossip_menu_option SET option_text_loc4='梦言长者在哪里？',box_text_loc4='' WHERE menu_id=6914 and id=2; -- option_text: Where is Elder Dreamseer?
+UPDATE locales_gossip_menu_option SET option_text_loc4='棱石长者在哪里？',box_text_loc4='' WHERE menu_id=6914 and id=3; -- option_text: Where is Elder Primestone?
+UPDATE locales_gossip_menu_option SET option_text_loc4='暴怒图腾长者在哪里？',box_text_loc4='' WHERE menu_id=6914 and id=4; -- option_text: Where is Elder Ragetotem?
+UPDATE locales_gossip_menu_option SET option_text_loc4='蛮鬃长者在哪里？',box_text_loc4='' WHERE menu_id=6914 and id=5; -- option_text: Where is Elder Wildmane?
+UPDATE locales_gossip_menu_option SET option_text_loc4='刃歌长者在哪里？',box_text_loc4='' WHERE menu_id=6916 and id=1; -- option_text: Where is Elder Bladesing?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雷角长者在哪里？',box_text_loc4='' WHERE menu_id=6916 and id=2; -- option_text: Where is Elder Thunderhorn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='灰石长者在哪里？',box_text_loc4='' WHERE menu_id=6919 and id=1; -- option_text: Where is Elder Graveborn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='雪冠长者在哪里？',box_text_loc4='' WHERE menu_id=6919 and id=3; -- option_text: Where is Elder Snowcrown?
+UPDATE locales_gossip_menu_option SET option_text_loc4='风路长者在哪里？',box_text_loc4='' WHERE menu_id=6919 and id=4; -- option_text: Where is Elder Windrun?
+UPDATE locales_gossip_menu_option SET option_text_loc4='星歌长者在哪里？',box_text_loc4='' WHERE menu_id=6921 and id=1; -- option_text: Where is Elder Starsong?
+UPDATE locales_gossip_menu_option SET option_text_loc4='冰蹄长者在哪里？',box_text_loc4='' WHERE menu_id=6921 and id=2; -- option_text: Where is Elder Winterhoof?
+UPDATE locales_gossip_menu_option SET option_text_loc4='再见。',box_text_loc4='' WHERE menu_id=6917 and id=3; -- option_text: Farewell.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一个新的春节邀请函。',box_text_loc4='' WHERE menu_id=6918 and id=0; -- option_text: I'd like a new invitation to the Lunar Festival.
+
+UPDATE locales_gossip_menu_option SET option_text_loc4='袭月/刃叶长者在哪里？',box_text_loc4='' WHERE menu_id=6816 and id=3; -- option_text: Where is Elder Moonstrike?
+UPDATE locales_gossip_menu_option SET option_text_loc4='袭月/刃叶长者在哪里？',box_text_loc4='' WHERE menu_id=6819 and id=3; -- option_text: Where is Elder Moonstrike?
+UPDATE locales_gossip_menu_option SET option_text_loc4='袭月/刃叶长者在哪里？',box_text_loc4='' WHERE menu_id=6832 and id=4; -- option_text: Where is Elder Moonstrike?
+UPDATE locales_gossip_menu_option SET option_text_loc4='袭月/刃叶长者在哪里？',box_text_loc4='' WHERE menu_id=6834 and id=4; -- option_text: Where is Elder Moonstrike?
+UPDATE locales_gossip_menu_option SET option_text_loc4='袭月/刃叶长者在哪里？',box_text_loc4='' WHERE menu_id=6848 and id=0; -- option_text: Where is Elder Moonstrike?
+UPDATE locales_gossip_menu_option SET option_text_loc4='袭月/刃叶长者在哪里？',box_text_loc4='' WHERE menu_id=6852 and id=3; -- option_text: Where is Elder Moonstrike?
+UPDATE locales_gossip_menu_option SET option_text_loc4='袭月/刃叶长者在哪里？',box_text_loc4='' WHERE menu_id=6919 and id=2; -- option_text: Where is Elder Moonstrike?
+UPDATE locales_gossip_menu_option SET option_text_loc4='祝你好运。',box_text_loc4='' WHERE menu_id=6924 and id=1; -- option_text: Good luck.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想进入秘密代码去接收我的鱼人宠物。',box_text_loc4='' WHERE menu_id=7034 and id=0; -- option_text: I would like to enter the secret code to receive my Murloc pet.
+UPDATE locales_gossip_menu_option SET option_text_loc4='嘿，维尔，给我看看你的商品！',box_text_loc4='' WHERE menu_id=7046 and id=0; -- option_text: Hey Vi'el, show me your wares!
+UPDATE locales_gossip_menu_option SET option_text_loc4='我在哪里可以找到元素之核？',box_text_loc4='' WHERE menu_id=7096 and id=1; -- option_text: Where can I find core of elements?
+UPDATE locales_gossip_menu_option SET option_text_loc4='给我看看你的商品，威尔海姆。',box_text_loc4='' WHERE menu_id=7219 and id=0; -- option_text: Show me your wares, Wilhelm.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我们有很多共同点，暗夜精灵。我不禁感到我们的相遇是命运的安排。让我来帮助你，我的家人。让我的人民帮助你。我发誓，我们将会拨乱反正。',box_text_loc4='' WHERE menu_id=7401 and id=0; -- option_text: We have much in common, night elf. I can't help but feel that perhaps it was fate that brought us together. Let me help you, Cowlen. Let my people help. We will right the wrongs. This I vow.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我担心我的人民是造成此次破坏的原因。我们是被燃烧军团驱逐出家园的难民。这场悲剧让我们不得不进行疏散。我们的飞船坠毁了，这些碎片就是那艘飞船的一部分。',box_text_loc4='' WHERE menu_id=7402 and id=0; -- option_text: I fear that my people are somewhat responsible for this destruction. We are refugees, displaced from our homes by the Burning Legion. This tragedy is a result of our latest evacuation. Our vessel crashed - this debris is a part of that vessel.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我没有杀你，暗夜精灵。上帝没有这样做。。。',box_text_loc4='' WHERE menu_id=7403 and id=0; -- option_text: I have not come to kill you, night elf. And the gods did not do this...
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想得到草药学的训练。',box_text_loc4='' WHERE menu_id=7459 and id=0; -- option_text: Train me in the ways of herbalism.
+UPDATE locales_gossip_menu_option SET option_text_loc4='那你为什么还在这里？',box_text_loc4='' WHERE menu_id=7475 and id=0; -- option_text: So why are you still here?
+UPDATE locales_gossip_menu_option SET option_text_loc4='直到什么？',box_text_loc4='' WHERE menu_id=7476 and id=0; -- option_text: Until what?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你幸福吗？温瑟拉是什么？',box_text_loc4='' WHERE menu_id=7477 and id=0; -- option_text: What is Ysera and how were you blessed?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你为什么要受苦？',box_text_loc4='' WHERE menu_id=7478 and id=0; -- option_text: Why do you suffer?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我如何建立一个工会？',box_text_loc4='' WHERE menu_id=7487 and id=1; -- option_text: How do I form a guild?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你在那里干什么？',box_text_loc4='' WHERE menu_id=7759 and id=0; -- option_text: What are you doing there?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想检查一下我的储物箱。',box_text_loc4='' WHERE menu_id=7811 and id=0; -- option_text: I would like to check my deposit box.
+UPDATE locales_gossip_menu_option SET option_text_loc4='奇怪的术士？',box_text_loc4='' WHERE menu_id=7849 and id=0; -- option_text: Strange wizard?
+UPDATE locales_gossip_menu_option SET option_text_loc4='谁是塞泰克？',box_text_loc4='' WHERE menu_id=7866 and id=1; -- option_text: Who are the Sethekk?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我在哪里可以找到泰罗克圣物？',box_text_loc4='' WHERE menu_id=7866 and id=2; -- option_text: Where can I find the relics of Terokk?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你总是提起的泰罗克是谁？',box_text_loc4='' WHERE menu_id=7866 and id=3; -- option_text: Who is this Terokk you keep mentioning?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我一会儿就送你离开那里。',box_text_loc4='' WHERE menu_id=7868 and id=0; -- option_text: I'll have you out of there in just a moment.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你有什么卖的吗？',box_text_loc4='' WHERE menu_id=7888 and id=0; -- option_text: What do you have for sale?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你有什么卖的吗？',box_text_loc4='' WHERE menu_id=7890 and id=0; -- option_text: What do you have for sale?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你有什么卖的吗？',box_text_loc4='' WHERE menu_id=7957 and id=0; -- option_text: What do you have for sale?
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续读，如果你敢...',box_text_loc4='' WHERE menu_id=7984 and id=0; -- option_text: Read on, if you dare...
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续读，如果你敢...',box_text_loc4='' WHERE menu_id=7985 and id=0; -- option_text: Read on, if you dare...
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续读，如果你敢...',box_text_loc4='' WHERE menu_id=7986 and id=0; -- option_text: Read on, if you dare...
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续读，如果你敢...',box_text_loc4='' WHERE menu_id=7987 and id=0; -- option_text: Read on, if you dare...
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续读，如果你敢...',box_text_loc4='' WHERE menu_id=7988 and id=0; -- option_text: Read on, if you dare...
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续读，如果你敢...',box_text_loc4='' WHERE menu_id=7989 and id=0; -- option_text: Read on, if you dare...
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想浏览你的商品。',box_text_loc4='' WHERE menu_id=8002 and id=0; -- option_text: I wish to browse your wares.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一些药剂和毒药，女士。',box_text_loc4='' WHERE menu_id=8058 and id=0; -- option_text: I need some reagents and poisons, lady.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你有什么卖的吗？',box_text_loc4='' WHERE menu_id=8094 and id=0; -- option_text: What do you have for sale?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想浏览你的商品。',box_text_loc4='' WHERE menu_id=8387 and id=0; -- option_text: I wish to browse your wares.
+UPDATE locales_gossip_menu_option SET option_text_loc4='给我看看你要卖什么。',box_text_loc4='' WHERE menu_id=8530 and id=0; -- option_text: Show me what you have for sale.
+UPDATE locales_gossip_menu_option SET option_text_loc4='给我看看你要卖什么。',box_text_loc4='' WHERE menu_id=8531 and id=0; -- option_text: Show me what you have for sale.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我不想挑战你，但我想看看你的商品。',box_text_loc4='' WHERE menu_id=8545 and id=0; -- option_text: I won't challenge you, but I'd like to see your wares.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我可以飞到哪里。',box_text_loc4='' WHERE menu_id=8560 and id=0; -- option_text: Show me where I can fly.
+UPDATE locales_gossip_menu_option SET option_text_loc4='达玛,给我看看双足飞龙。',box_text_loc4='' WHERE menu_id=8629 and id=0; -- option_text: Let me see the wyverns, Dama.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你有什么卖的吗？',box_text_loc4='' WHERE menu_id=8648 and id=0; -- option_text: What do you have for sale?
+UPDATE locales_gossip_menu_option SET option_text_loc4='咱们走吧!',box_text_loc4='' WHERE menu_id=8662 and id=0; -- option_text: Let's go!
+UPDATE locales_gossip_menu_option SET option_text_loc4='无头骑士是谁？',box_text_loc4='' WHERE menu_id=8763 and id=0; -- option_text: Who is the Headless Horseman?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想喝点儿饮料。',box_text_loc4='' WHERE menu_id=8784 and id=0; -- option_text: I'd like a drink.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我听说你是厨师。',box_text_loc4='' WHERE menu_id=8784 and id=1; -- option_text: I hear you're quite the cook.
+UPDATE locales_gossip_menu_option SET option_text_loc4='给我看看你要卖什么。',box_text_loc4='' WHERE menu_id=8826 and id=0; -- option_text: Show me what you have for sale.
+UPDATE locales_gossip_menu_option SET option_text_loc4='长官，请把你的望远镜借我。',box_text_loc4='' WHERE menu_id=8886 and id=0; -- option_text: Sergeant, loan me your spyglass.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我还有另外一个问题。',box_text_loc4='' WHERE menu_id=8955 and id=0; -- option_text: I have another question.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我能得到一个免费的坐骑吗？',box_text_loc4='' WHERE menu_id=8958 and id=1; -- option_text: Do I get a free mount?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我如何让我的山羊走得更快？',box_text_loc4='' WHERE menu_id=8958 and id=2; -- option_text: How do I make my ram go faster?
+UPDATE locales_gossip_menu_option SET option_text_loc4='有什么不同的速度？',box_text_loc4='' WHERE menu_id=8958 and id=3; -- option_text: What's with the different speeds?
+UPDATE locales_gossip_menu_option SET option_text_loc4='能让我的山羊脱离疲劳吗？',box_text_loc4='' WHERE menu_id=8958 and id=4; -- option_text: Can I tire my ram out?
+UPDATE locales_gossip_menu_option SET option_text_loc4='这一切听起来很复杂。。。',box_text_loc4='' WHERE menu_id=8958 and id=5; -- option_text: That all sounds very complicated...
+UPDATE locales_gossip_menu_option SET option_text_loc4='说，你不可能拥有一套额外驾驭的装置。。。',box_text_loc4='' WHERE menu_id=8958 and id=6; -- option_text: Say, you wouldn't happen to have an extra set of reins...
+UPDATE locales_gossip_menu_option SET option_text_loc4='说，你不可能拥有一套额外驾驭的装置。。。',box_text_loc4='' WHERE menu_id=8960 and id=0; -- option_text: Say, you wouldn't happen to have an extra set of reins...
+UPDATE locales_gossip_menu_option SET option_text_loc4='我还有另外一个问题。',box_text_loc4='' WHERE menu_id=8960 and id=1; -- option_text: I have another question.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我还有另外一个问题。',box_text_loc4='' WHERE menu_id=8961 and id=0; -- option_text: I have another question.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我还有另外一个问题。',box_text_loc4='' WHERE menu_id=8962 and id=0; -- option_text: I have another question.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我还有另外一个问题。',box_text_loc4='' WHERE menu_id=8963 and id=0; -- option_text: I have another question.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我还有另外一个问题。',box_text_loc4='' WHERE menu_id=8967 and id=0; -- option_text: I have another question.
+UPDATE locales_gossip_menu_option SET option_text_loc4='如果我不喜欢喝饮料…还有什么我可以帮忙的吗？',box_text_loc4='' WHERE menu_id=9006 and id=0; -- option_text: What if I don't like drinking...  Is there another way I can help out?
+UPDATE locales_gossip_menu_option SET option_text_loc4='关于诅咒者的祭仪你知道些什么？',box_text_loc4='' WHERE menu_id=9217 and id=0; -- option_text: What do you know about the Cult of the Damned?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我有理由相信你参与祭仪活动。',box_text_loc4='' WHERE menu_id=9218 and id=0; -- option_text: I have reason to believe you're involved in cultist activity.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你为这该死的诅咒者的祭仪工作多久了？',box_text_loc4='' WHERE menu_id=9219 and id=0; -- option_text: How long have you worked for the Cult of the Damned?
+UPDATE locales_gossip_menu_option SET option_text_loc4='这场冲突的原因是什么？',box_text_loc4='' WHERE menu_id=9253 and id=0; -- option_text: What is the cause of this conflict?
+UPDATE locales_gossip_menu_option SET option_text_loc4='玛里苟斯是谁？',box_text_loc4='' WHERE menu_id=9283 and id=0; -- option_text: Who is Malygos?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我还有点事要问你。',box_text_loc4='' WHERE menu_id=9307 and id=0; -- option_text: I have something else to ask you about.
+UPDATE locales_gossip_menu_option SET option_text_loc4='使用厕所。',box_text_loc4='' WHERE menu_id=9492 and id=0; -- option_text: Use the outhouse.
+UPDATE locales_gossip_menu_option SET option_text_loc4='一个黑暗祭祀似乎已经发现了我的刀以及死亡了…我能有个新的伪装吗？我保证这一次我会更加小心。',box_text_loc4='' WHERE menu_id=9537 and id=0; -- option_text: One of the cultists seems to have stumbled onto my blade and died... can I have a new disguise? I promise that I will be more careful this time.
+UPDATE locales_gossip_menu_option SET option_text_loc4='很抱歉打扰你，朋友。继续进行！',box_text_loc4='' WHERE menu_id=9541 and id=0; -- option_text: Sorry to have bothered you, friend. Carry on!
+UPDATE locales_gossip_menu_option SET option_text_loc4='请教我。',box_text_loc4='' WHERE menu_id=9581 and id=0; -- option_text: Please teach me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我能飞到哪里。',box_text_loc4='' WHERE menu_id=9584 and id=0; -- option_text: Show me where I can fly.
+UPDATE locales_gossip_menu_option SET option_text_loc4='为什么我被送回了这个特别的地方和时间？',box_text_loc4='' WHERE menu_id=9586 and id=0; -- option_text: Why have I been sent back to this particular place and time?
+UPDATE locales_gossip_menu_option SET option_text_loc4='好啊，请吧！',box_text_loc4='' WHERE menu_id=9586 and id=1; -- option_text: Yes, please!
+UPDATE locales_gossip_menu_option SET option_text_loc4='这个决定是什么？',box_text_loc4='' WHERE menu_id=9594 and id=0; -- option_text: What was this decision?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你认为他们在做什么？',box_text_loc4='' WHERE menu_id=9610 and id=0; -- option_text: What do you think they're up to?
+UPDATE locales_gossip_menu_option SET option_text_loc4='士兵，你有新的命令。你要撤出阵地，并且向长官报告！',box_text_loc4='' WHERE menu_id=9640 and id=0; -- option_text: Soldier, you have new orders. You're to pull back and report to the sergeant!
+UPDATE locales_gossip_menu_option SET option_text_loc4='你看起来足够安全。。。开始行动。',box_text_loc4='' WHERE menu_id=9674 and id=0; -- option_text: You look safe enough... let's do this.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能节省一个橘子吗？',box_text_loc4='' WHERE menu_id=9724 and id=0; -- option_text: Can you spare an orange?
+UPDATE locales_gossip_menu_option SET option_text_loc4='有一堆香蕉吗？',box_text_loc4='' WHERE menu_id=9724 and id=1; -- option_text: Have a spare bunch of bananas?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我真的可以用这个木瓜。',box_text_loc4='' WHERE menu_id=9724 and id=2; -- option_text: I could really use a papaya.
+UPDATE locales_gossip_menu_option SET option_text_loc4='请教我。',box_text_loc4='' WHERE menu_id=9777 and id=0; -- option_text: Please teach me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我肯定。请继续。',box_text_loc4='' WHERE menu_id=9791 and id=0; -- option_text: I am certain. Please proceed.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想把我的宠物存放在这里',box_text_loc4='' WHERE menu_id=9821 and id=1; -- option_text: I'd like to stable my pet here
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我这个建议相关的内容。',box_text_loc4='' WHERE menu_id=9907 and id=0; -- option_text: Tell me about this proposal.
+UPDATE locales_gossip_menu_option SET option_text_loc4='然后发生了什么？',box_text_loc4='' WHERE menu_id=9908 and id=0; -- option_text: What happened then?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你想让我参加海德一武道会结束战争吗？',box_text_loc4='' WHERE menu_id=9909 and id=0; -- option_text: You want me to take part in the Hyldsmeet to end the war?
+UPDATE locales_gossip_menu_option SET option_text_loc4='很好。我将参加这次比赛。',box_text_loc4='' WHERE menu_id=9910 and id=0; -- option_text: Very well.  I'll take part in this competition.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=10311 and id=0; -- option_text: I want to browse your goods
+UPDATE locales_gossip_menu_option SET option_text_loc4='萨纳瑞恩，陷阱丢失了。你有另一个吗？',box_text_loc4='' WHERE menu_id=10482 and id=0; -- option_text: Tharnariun, the trap is lost. Do you have another?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一副合成酿酒护目镜。',box_text_loc4='' WHERE menu_id=10604 and id=0; -- option_text: I'd like a pair of Synthebrew Goggles.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你刚才说了什么？',box_text_loc4='' WHERE menu_id=10604 and id=1; -- option_text: What did you say earlier?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我为这样的事情祈祷。',box_text_loc4='' WHERE menu_id=50305 and id=0; -- option_text: I pray for such things.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我不值得这样的赞美，军官高图斯。',box_text_loc4='' WHERE menu_id=50306 and id=0; -- option_text: I do not deserve such praise, Warlord Goretooth.
+UPDATE locales_gossip_menu_option SET option_text_loc4='先生!直到我的身体停止功能！',box_text_loc4='' WHERE menu_id=50307 and id=0; -- option_text: Sir! Until my body ceases to function!
+
+
 SET NAMES 'latin1';
