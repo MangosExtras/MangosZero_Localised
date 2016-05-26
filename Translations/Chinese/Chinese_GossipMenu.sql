@@ -1,4 +1,4 @@
--- SET NAMES 'utf8';
+SET NAMES 'utf8';
 UPDATE locales_gossip_menu_option SET option_text_loc4='我想购买你的货物。',box_text_loc4='' WHERE menu_id=0 AND id=1; -- option_text: I want to browse your goods.
 UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=0 AND id=2; -- option_text: I need a ride.
 UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=0 AND id=3; -- option_text: Train me.
