@@ -5608,7 +5608,7 @@ UPDATE locales_creature SET name_loc4='杰斯雷蒙',subname_loc4='' WHERE entry
 UPDATE locales_creature SET name_loc4='伊夫卡尔',subname_loc4='' WHERE entry=8660; -- Name: The Evalcharr
 UPDATE locales_creature SET name_loc4='拍卖师比尔杜',subname_loc4='' WHERE entry=8661; -- Name: Auctioneer Beardo
 UPDATE locales_creature SET name_loc4='塑像烤箱火焰目标',subname_loc4='' WHERE entry=8662; -- Name: Idol Oven Fire Target
-UPDATE locales_creature SET name_loc4='烈日行者赛恩',subname_loc4='圣骑士训练师' WHERE entry=8664; -- Name: Saern Priderunner
+UPDATE locales_creature SET name_loc4='烈日行者赛恩',subname_loc4='' WHERE entry=8664; -- Name: Saern Priderunner
 UPDATE locales_creature SET name_loc4='夏琳奈尔',subname_loc4='猫头鹰训练师' WHERE entry=8665; -- Name: Shylenai -- subName: Owl Trainer
 UPDATE locales_creature SET name_loc4='利尔·迪米',subname_loc4='卖猫的小孩' WHERE entry=8666; -- Name: Lil Timmy -- subName: Boy with kittens
 UPDATE locales_creature SET name_loc4='狂风漩涡',subname_loc4='' WHERE entry=8667; -- Name: Gusting Vortex
