@@ -1,58 +1,5 @@
 SET NAMES 'utf8';
-UPDATE locales_page_Text SET text_loc9='Good work, matey!  Now ye need to head due east.  East up the bluffs, east to the road.  Look for the ol\' chimney ruins near the side of the road.  There you\'ll find an old barrel with your next clue. ' WHERE entry=45;
-UPDATE locales_page_Text SET text_loc9='Now from this here barrel, face ye North.  Straight as the crow flies, keep ye walkin\' till you see the empty jug next to the lone windmill on the sea bluffs.  If ye poke around that jug, ye just might find what you\'re lookin\' for. ' WHERE entry=46;
-UPDATE locales_page_Text SET text_loc9='Now that ye found me ol\' whiskey jug, you\'re almost to the treasure!  Just face West from the bottle and walk down to the shore.  Once ye get to the water, keep going!  Swim straight west till you find the island with me treasure chest! ' WHERE entry=47;
-UPDATE locales_page_Text SET text_loc9='Blacknails-- The Sea awaits us.  We need your supplies from the North.  Strip everything: every railroad pike, every waterbucket.  We need metal.  A shipment is due from BB but long overdue.  Come through for me, Blacknails.  Send your supplies directly to the "barn" this time.  No time to squander. --VanCleef ' WHERE entry=48;
-UPDATE locales_page_Text SET text_loc9='Lord Stoutmantle -- The Township of Lakeshire humbly requests the aid of your Militia.  As I write this, we find ourselves under siege from both the Blackrock Orcs and Morganth\'s Shadowhide Gnolls.  I would not send bidding if our situation was not severe.  We await aid from Stormwind but until such help arrives, I beg of you to lend support.  Once the Kingdom is breeched, all of Humanity is in peril. Magistrate Solomon ' WHERE entry=49;
-UPDATE locales_page_Text SET text_loc9='Your Honor-- All of Westfall mourns for your loss,  but we are plagued with our own war in Westfall.  The farmers have been run off by thieves and mechanical golems.  Stormwind withdrew its troops, leaving the people defenseless.  I mustered the People\'s Militia in the wake of Stormwind\'s abandonment to save what remains of this land.  To take the Militia to Redridge would mean certain doom for Westfall. My regrets, Gryan Stoutmantle ' WHERE entry=50;
-UPDATE locales_page_Text SET text_loc9='Lord Ebonlocke-- The Township of Lakeshire humbly requests the aid of the Night Watch.  We are under siege from both the Blackrock orcs and Morganth\'s Shadowhide gnolls.  I would not send bidding if our situation was not severe.  We await aid from Stormwind but until such help arrives, I beg of you to lend support.  Once the kingdom is breached, all of humanity is in peril. Magistrate Solomon ' WHERE entry=51;
-UPDATE locales_page_Text SET text_loc9='Your Honor--
 
-I regret to inform you that the Night Watch is unable to leave its post in Darkshire at this time.  Perhaps you were unaware that Stormwind no longer provides military support in this region.  The Night Watch has been formed and trained entirely by the people of the forest in order to defend Darkshire in Stormwind\'s absence.  Without the Watch, the town would fall.  I wish you luck with your plight.
-
---Lord Ello Ebonlocke
-' WHERE entry=52;
-UPDATE locales_page_Text SET text_loc9='The letters on this note seem to flicker and dance across its surface.  It is impossible to glean meaning from them...' WHERE entry=53;
-UPDATE locales_page_Text SET text_loc9='Greetings Ello Ebonlocke, Mayor of Darkshire.  I\'m afraid I have news for your town.  Grave news.
-
-You see, I am a creator.  I fooled the bearer of this note into aiding me in my latest, most dire creation - a fiend of flesh and bone and twisted metal!  As you read this, it\'s likely outside my humble dwelling, gnashing its teeth and waiting for my word to go forth and slaughter.
-
-But you\'ll know soon enough.
-
--The Embalmer' WHERE entry=54;
-UPDATE locales_page_Text SET text_loc9='This is a deed to an expanse of land within the region of Westfall.  It entitles the persons below with ownership rights of the designated area, as well as all items produced and any structures built within its borders.
-
-The document is signed by:
-
-    Theodore Furlbrow
-    Verna Furlbrow' WHERE entry=55;
-UPDATE locales_page_Text SET text_loc9='[The words below were quickly scrawled on the back of the deed]
-
-We leaned on Furlbrow and got his deed.  Thought it might be handy if you wanted to forge one of these for your own place.  The Furlbrows won\'t give us trouble.  Last I saw them they were on their way out of Westfall, stuck with a broken wagon.' WHERE entry=56;
-UPDATE locales_page_Text SET text_loc9='[The words below were quickly scrawled on the back of the deed] We leaned on Furlbrow and got his deed.  Thought it might be handy if you wanted to forge one of these for your own place.  The Furlbrows won\'t give us trouble.  Last I saw them they were on their way out of Westfall, stuck with a broken wagon. ' WHERE entry=57;
-UPDATE locales_page_Text SET text_loc9='A Moon over the Vale shines
-Casting its glow upon the jungle
-Where proud Warriors heed the call
-To defend our Nation and sacred grounds. 
-
-A Moon over the Vale shines
-Far above the cries of battle
-Where blood is spilled
-Of foe and comrade alike.' WHERE entry=58;
-UPDATE locales_page_Text SET text_loc9='And when our brethren pass
-Into realms beyond the known
-The soul-spirit hardens
-Deep beneath the Vale.
-
-And when our brethren pass
-Into the Mountain\'s Temple
-We shall protect their eternal spirit
-Encased within the holy blue crystal.
-
-And when our brethren pass
-A Moon over the Vale shines.' WHERE entry=59;
-UPDATE locales_page_Text SET text_loc9='And when our brethren pass Into realms beyond the known The soul-spirit hardens Deep beneath the Vale. And when our brethren pass Into the Mountain\'s Temple We shall protect their eternal spirit Encased within the holy blue crystal. And when our brethren pass A Moon over the Vale shines. ' WHERE entry=61;
-UPDATE locales_page_Text SET text_loc9='By moon and fire, By flesh and bone, Scribed in blood, Carved in stone. Leave this place Or meet your doom Death stands guard Over the Emperor\'s Tomb. ' WHERE entry=62;
 UPDATE locales_page_Text SET text_loc9='Master Carevin, The bearer of this note has shown $g himself : herself; to be upstanding in the Light, capable of battling the undead and demons that plague the borders of Duskwood, and willing to join the Carevin family in their cause of Light. I would thereby suggest that you give this warrior of the Light further duties--perhaps to investigate some of the townsfolk that are under suspicion of succor to the enemies of the Light. Yours faithfully, Calor ' WHERE entry=63;
 UPDATE locales_page_Text SET text_loc9='Morgan Ladimore was a great and noble knight who fought in defense of the innocent, the poor, and the afflicted. For many years, he worked diligently throughout the outlying areas of Azeroth, bringing relief to the suffering and swift justice to evildoers.
 
