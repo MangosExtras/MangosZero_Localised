@@ -527,10 +527,10 @@ UPDATE locales_creature SET name_loc4='莱尼·拜舍尔',subname_loc4='战士�
 UPDATE locales_creature SET name_loc4='斯兰·库尔曼',subname_loc4='战士训练师' WHERE entry=912; -- Name: Thran Khorman -- subName: Warrior Trainer
 UPDATE locales_creature SET name_loc4='里瑞亚·杜拉克',subname_loc4='战士训练师' WHERE entry=913; -- Name: Lyria Du Lac -- subName: Warrior Trainer
 UPDATE locales_creature SET name_loc4='安德尔·杰曼',subname_loc4='战士训练师' WHERE entry=914; -- Name: Ander Germaine -- subName: Warrior Trainer
-UPDATE locales_creature SET name_loc4='乔里克·克里丹',subname_loc4='潜行者训练师' WHERE entry=915; -- Name: Jorik Kerridan -- subName: Rogue Trainer
-UPDATE locales_creature SET name_loc4='索姆·哈格林',subname_loc4='潜行者训练师' WHERE entry=916; -- Name: Solm Hargrin -- subName: Rogue Trainer
-UPDATE locales_creature SET name_loc4='科瑞恩·塞尔留斯',subname_loc4='潜行者训练师' WHERE entry=917; -- Name: Keryn Sylvius -- subName: Rogue Trainer
-UPDATE locales_creature SET name_loc4='夜行者奥斯伯',subname_loc4='潜行者训练师' WHERE entry=918; -- Name: Osborne the Night Man -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='乔里克·克里丹',subname_loc4='盗贼训练师' WHERE entry=915; -- Name: Jorik Kerridan -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='索姆·哈格林',subname_loc4='盗贼训练师' WHERE entry=916; -- Name: Solm Hargrin -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='科瑞恩·塞尔留斯',subname_loc4='盗贼训练师' WHERE entry=917; -- Name: Keryn Sylvius -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='夜行者奥斯伯',subname_loc4='盗贼训练师' WHERE entry=918; -- Name: Osborne the Night Man -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='夜行堕落狼人',subname_loc4='' WHERE entry=920; -- Name: Nightbane Tainted One
 UPDATE locales_creature SET name_loc4='风险投资公司伐木工',subname_loc4='' WHERE entry=921; -- Name: Venture Co. Lumberjack
 UPDATE locales_creature SET name_loc4='淤泥蟹',subname_loc4='' WHERE entry=922; -- Name: Silt Crawler
@@ -788,7 +788,7 @@ UPDATE locales_creature SET name_loc4='玛济斯·石衣',subname_loc4='法师�
 UPDATE locales_creature SET name_loc4='格兰尼斯·快斧',subname_loc4='战士训练师' WHERE entry=1229; -- Name: Granis Swiftaxe -- subName: Warrior Trainer
 UPDATE locales_creature SET name_loc4='格瑞夫',subname_loc4='猎人训练师' WHERE entry=1231; -- Name: Grif Wildheart -- subName: Hunter Trainer
 UPDATE locales_creature SET name_loc4='阿扎尔·战锤',subname_loc4='圣骑士训练师' WHERE entry=1232; -- Name: Azar Stronghammer -- subName: Paladin Trainer
-UPDATE locales_creature SET name_loc4='霍格拉尔·巴坎',subname_loc4='潜行者训练师' WHERE entry=1234; -- Name: Hogral Bakkan -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='霍格拉尔·巴坎',subname_loc4='盗贼训练师' WHERE entry=1234; -- Name: Hogral Bakkan -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='狗头人掘地工',subname_loc4='' WHERE entry=1236; -- Name: Kobold Digger
 UPDATE locales_creature SET name_loc4='卡杉·莫格什',subname_loc4='食物和饮料商人' WHERE entry=1237; -- Name: Kazan Mogosh -- subName: Food & Drink Merchant
 UPDATE locales_creature SET name_loc4='迦米利·霜甲',subname_loc4='布甲和皮甲商人' WHERE entry=1238; -- Name: Gamili Frosthide -- subName: Cloth & Leather Armor Merchant
@@ -937,7 +937,7 @@ UPDATE locales_creature SET name_loc4='托普·麦克纳布',subname_loc4='' WHE
 UPDATE locales_creature SET name_loc4='克拉格',subname_loc4='猎人训练师' WHERE entry=1404; -- Name: Kragg -- subName: Hunter Trainer
 UPDATE locales_creature SET name_loc4='莫里斯·劳瑞',subname_loc4='' WHERE entry=1405; -- Name: Morris Lawry
 UPDATE locales_creature SET name_loc4='斯兰达',subname_loc4='轻甲商' WHERE entry=1407; -- Name: Sranda -- subName: Light Armor & Weapons Merchant
-UPDATE locales_creature SET name_loc4='伊安·斯托姆',subname_loc4='潜行者训练师' WHERE entry=1411; -- Name: Ian Strom -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='伊安·斯托姆',subname_loc4='盗贼训练师' WHERE entry=1411; -- Name: Ian Strom -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='松鼠',subname_loc4='' WHERE entry=1412; -- Name: Squirrel
 UPDATE locales_creature SET name_loc4='詹尼·安希普',subname_loc4='' WHERE entry=1413; -- Name: Janey Anship
 UPDATE locales_creature SET name_loc4='利珊·皮尔斯',subname_loc4='' WHERE entry=1414; -- Name: Lisan Pierce
@@ -1445,14 +1445,14 @@ UPDATE locales_creature SET name_loc4='阿比盖尔·沙伊尔',subname_loc4='�
 UPDATE locales_creature SET name_loc4='丹纳尔·斯特恩',subname_loc4='战士训练师' WHERE entry=2119; -- Name: Dannal Stern -- subName: Warrior Trainer
 UPDATE locales_creature SET name_loc4='大法师阿塔瑞克',subname_loc4='' WHERE entry=2120; -- Name: Archmage Ataeric
 UPDATE locales_creature SET name_loc4='暗影牧师奥利斯特',subname_loc4='' WHERE entry=2121; -- Name: Shadow Priest Allister
-UPDATE locales_creature SET name_loc4='大卫·提亚斯',subname_loc4='潜行者训练师' WHERE entry=2122; -- Name: David Trias -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='大卫·提亚斯',subname_loc4='盗贼训练师' WHERE entry=2122; -- Name: David Trias -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='黑暗牧师杜斯滕',subname_loc4='牧师训练师' WHERE entry=2123; -- Name: Dark Cleric Duesten -- subName: Priest Trainer
 UPDATE locales_creature SET name_loc4='伊莎贝拉',subname_loc4='法师训练师' WHERE entry=2124; -- Name: Isabella -- subName: Mage Trainer
 UPDATE locales_creature SET name_loc4='马克希米林',subname_loc4='术士训练师' WHERE entry=2126; -- Name: Maximillion -- subName: Warlock Trainer
 UPDATE locales_creature SET name_loc4='鲁伯特·鲍什',subname_loc4='术士训练师' WHERE entry=2127; -- Name: Rupert Boch -- subName: Warlock Trainer
 UPDATE locales_creature SET name_loc4='凯恩·火歌',subname_loc4='法师训练师' WHERE entry=2128; -- Name: Cain Firesong -- subName: Mage Trainer
 UPDATE locales_creature SET name_loc4='黑暗牧师贝里尔',subname_loc4='牧师训练师' WHERE entry=2129; -- Name: Dark Cleric Beryl -- subName: Priest Trainer
-UPDATE locales_creature SET name_loc4='马里恩·考尔',subname_loc4='潜行者训练师' WHERE entry=2130; -- Name: Marion Call -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='马里恩·考尔',subname_loc4='盗贼训练师' WHERE entry=2130; -- Name: Marion Call -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='奥斯蒂尔·德·蒙',subname_loc4='战士训练师' WHERE entry=2131; -- Name: Austil de Mon -- subName: Warrior Trainer
 UPDATE locales_creature SET name_loc4='卡罗莱·安尼斯',subname_loc4='炼金术训练师' WHERE entry=2132; -- Name: Carolai Anise -- subName: Journeyman Alchemist
 UPDATE locales_creature SET name_loc4='温特斯夫人',subname_loc4='杂货供应商' WHERE entry=2134; -- Name: Mrs. Winters -- subName: General Supplies
@@ -2306,7 +2306,7 @@ UPDATE locales_creature SET name_loc4='内兹拉斯',subname_loc4='杜隆塔尔�
 UPDATE locales_creature SET name_loc4='兴登堡',subname_loc4='荆棘谷飞艇管理员' WHERE entry=3150; -- Name: Hin Denburg -- subName: Zeppelin Master
 UPDATE locales_creature SET name_loc4='弗朗恩',subname_loc4='战士训练师' WHERE entry=3153; -- Name: Frang -- subName: Warrior Trainer
 UPDATE locales_creature SET name_loc4='基沙',subname_loc4='猎人训练师' WHERE entry=3154; -- Name: Jen'shan -- subName: Hunter Trainer
-UPDATE locales_creature SET name_loc4='鲁瓦格',subname_loc4='潜行者训练师' WHERE entry=3155; -- Name: Rwag -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='鲁瓦格',subname_loc4='盗贼训练师' WHERE entry=3155; -- Name: Rwag -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='纳托克',subname_loc4='术士训练师' WHERE entry=3156; -- Name: Nartok -- subName: Warlock Trainer
 UPDATE locales_creature SET name_loc4='史克里克',subname_loc4='萨满祭司训练师' WHERE entry=3157; -- Name: Shikrik -- subName: Shaman Trainer
 UPDATE locales_creature SET name_loc4='多克纳',subname_loc4='杂货商' WHERE entry=3158; -- Name: Duokna -- subName: General Goods
@@ -2321,7 +2321,7 @@ UPDATE locales_creature SET name_loc4='卡塔克',subname_loc4='布甲和皮甲�
 UPDATE locales_creature SET name_loc4='沃克',subname_loc4='护甲和盾牌供应商' WHERE entry=3167; -- Name: Wuark -- subName: Armorer & Shieldcrafter
 UPDATE locales_creature SET name_loc4='弗拉克',subname_loc4='商人' WHERE entry=3168; -- Name: Flakk -- subName: Trade Supplies
 UPDATE locales_creature SET name_loc4='塔绍尔·锯痕',subname_loc4='战士训练师' WHERE entry=3169; -- Name: Tarshaw Jaggedscar -- subName: Warrior Trainer
-UPDATE locales_creature SET name_loc4='卡普拉克',subname_loc4='潜行者训练师' WHERE entry=3170; -- Name: Kaplak -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='卡普拉克',subname_loc4='盗贼训练师' WHERE entry=3170; -- Name: Kaplak -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='索塔尔',subname_loc4='猎人训练师' WHERE entry=3171; -- Name: Thotar -- subName: Hunter Trainer
 UPDATE locales_creature SET name_loc4='杜格鲁·血怒',subname_loc4='术士训练师' WHERE entry=3172; -- Name: Dhugru Gorelust -- subName: Warlock Trainer
 UPDATE locales_creature SET name_loc4='斯瓦特',subname_loc4='萨满祭司训练师' WHERE entry=3173; -- Name: Swart -- subName: Shaman Trainer
@@ -2464,8 +2464,8 @@ UPDATE locales_creature SET name_loc4='霍苏斯',subname_loc4='材料商' WHERE
 UPDATE locales_creature SET name_loc4='格罗达尔',subname_loc4='术士训练师' WHERE entry=3324; -- Name: Grol'dar -- subName: Warlock Trainer
 UPDATE locales_creature SET name_loc4='米尔科特',subname_loc4='术士训练师' WHERE entry=3325; -- Name: Mirket -- subName: Warlock Trainer
 UPDATE locales_creature SET name_loc4='泽弗洛斯特',subname_loc4='术士训练师' WHERE entry=3326; -- Name: Zevrost -- subName: Warlock Trainer
-UPDATE locales_creature SET name_loc4='盖斯特',subname_loc4='潜行者训练师' WHERE entry=3327; -- Name: Gest -- subName: Rogue Trainer
-UPDATE locales_creature SET name_loc4='奥莫克',subname_loc4='潜行者训练师' WHERE entry=3328; -- Name: Ormok -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='盖斯特',subname_loc4='盗贼训练师' WHERE entry=3327; -- Name: Gest -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='奥莫克',subname_loc4='盗贼训练师' WHERE entry=3328; -- Name: Ormok -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='考苏斯',subname_loc4='蘑菇商' WHERE entry=3329; -- Name: Kor'jus -- subName: Mushroom Vendor
 UPDATE locales_creature SET name_loc4='穆拉古斯',subname_loc4='法杖商' WHERE entry=3330; -- Name: Muragus -- subName: Staff Merchant
 UPDATE locales_creature SET name_loc4='卡雷斯',subname_loc4='铸剑商' WHERE entry=3331; -- Name: Kareth -- subName: Blade Merchant
@@ -2537,7 +2537,7 @@ UPDATE locales_creature SET name_loc4='科卡尔战士',subname_loc4='' WHERE en
 UPDATE locales_creature SET name_loc4='格沙拉罕',subname_loc4='' WHERE entry=3398; -- Name: Gesharahan
 UPDATE locales_creature SET name_loc4='扎姆沙',subname_loc4='烹饪训练师' WHERE entry=3399; -- Name: Zamja -- subName: Cooking Trainer
 UPDATE locales_creature SET name_loc4='克森图',subname_loc4='烹饪供应商' WHERE entry=3400; -- Name: Xen'to -- subName: Cooking Supplies
-UPDATE locales_creature SET name_loc4='申苏尔',subname_loc4='潜行者训练师' WHERE entry=3401; -- Name: Shenthul -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='申苏尔',subname_loc4='盗贼训练师' WHERE entry=3401; -- Name: Shenthul -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='赞杜沙',subname_loc4='' WHERE entry=3402; -- Name: Zando'zan
 UPDATE locales_creature SET name_loc4='萨祖',subname_loc4='萨满祭司训练师' WHERE entry=3403; -- Name: Sian'tsu -- subName: Shaman Trainer
 UPDATE locales_creature SET name_loc4='加迪',subname_loc4='草药学训练师' WHERE entry=3404; -- Name: Jandi -- subName: Herbalism Trainer
@@ -2711,12 +2711,12 @@ UPDATE locales_creature SET name_loc4='简娜·明月',subname_loc4='布商' WHE
 UPDATE locales_creature SET name_loc4='弗蕾亚·夜翼',subname_loc4='皮甲商' WHERE entry=3591; -- Name: Freja Nightwing -- subName: Leather Armor Merchant
 UPDATE locales_creature SET name_loc4='安迪斯',subname_loc4='护甲和盾牌供应商' WHERE entry=3592; -- Name: Andiss -- subName: Armorer & Shieldcrafter
 UPDATE locales_creature SET name_loc4='奥莉希亚',subname_loc4='战士训练师' WHERE entry=3593; -- Name: Alyissia -- subName: Warrior Trainer
-UPDATE locales_creature SET name_loc4='弗拉胡恩·影语者',subname_loc4='潜行者训练师' WHERE entry=3594; -- Name: Frahun Shadewhisper -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='弗拉胡恩·影语者',subname_loc4='盗贼训练师' WHERE entry=3594; -- Name: Frahun Shadewhisper -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='珊达',subname_loc4='牧师训练师' WHERE entry=3595; -- Name: Shanda -- subName: Priest Trainer
 UPDATE locales_creature SET name_loc4='阿亚娜·远途',subname_loc4='猎人训练师' WHERE entry=3596; -- Name: Ayanna Everstride -- subName: Hunter Trainer
 UPDATE locales_creature SET name_loc4='玛丹特·硬木',subname_loc4='德鲁伊训练师' WHERE entry=3597; -- Name: Mardant Strongoak -- subName: Druid Trainer
 UPDATE locales_creature SET name_loc4='凯拉·风刃',subname_loc4='战士训练师' WHERE entry=3598; -- Name: Kyra Windblade -- subName: Warrior Trainer
-UPDATE locales_creature SET name_loc4='詹诺克·柔歌',subname_loc4='潜行者训练师' WHERE entry=3599; -- Name: Jannok Breezesong -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='詹诺克·柔歌',subname_loc4='盗贼训练师' WHERE entry=3599; -- Name: Jannok Breezesong -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='劳尔娜·晨光',subname_loc4='牧师训练师' WHERE entry=3600; -- Name: Laurna Morninglight -- subName: Priest Trainer
 UPDATE locales_creature SET name_loc4='达扎拉',subname_loc4='猎人训练师' WHERE entry=3601; -- Name: Dazalar -- subName: Hunter Trainer
 UPDATE locales_creature SET name_loc4='卡尔',subname_loc4='德鲁伊训练师' WHERE entry=3602; -- Name: Kal -- subName: Druid Trainer
@@ -3149,7 +3149,7 @@ UPDATE locales_creature SET name_loc4='盐湖秃鹫',subname_loc4='' WHERE entry
 UPDATE locales_creature SET name_loc4='迈里恩',subname_loc4='裁缝训练师' WHERE entry=4159; -- Name: Me'lynn -- subName: Expert Tailor
 UPDATE locales_creature SET name_loc4='安尼希尔',subname_loc4='炼金术训练师' WHERE entry=4160; -- Name: Ainethil -- subName: Artisan Alchemist
 UPDATE locales_creature SET name_loc4='琳沙娜',subname_loc4='公会注册员' WHERE entry=4161; -- Name: Lysheana -- subName: Guild Master
-UPDATE locales_creature SET name_loc4='塞尤娜',subname_loc4='潜行者训练师' WHERE entry=4163; -- Name: Syurna -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='塞尤娜',subname_loc4='盗贼训练师' WHERE entry=4163; -- Name: Syurna -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='塞兰妮亚',subname_loc4='暗夜精灵护甲商' WHERE entry=4164; -- Name: Cylania -- subName: Night Elf Armorer
 UPDATE locales_creature SET name_loc4='埃莉萨·杜马斯',subname_loc4='传送门训练师' WHERE entry=4165; -- Name: Elissa Dumas -- subName: Portal Trainer
 UPDATE locales_creature SET name_loc4='瞪羚',subname_loc4='' WHERE entry=4166; -- Name: Gazelle
@@ -3193,8 +3193,8 @@ UPDATE locales_creature SET name_loc4='阿雷贡',subname_loc4='烹饪训练师'
 UPDATE locales_creature SET name_loc4='丹纳罗尔',subname_loc4='急救训练师' WHERE entry=4211; -- Name: Dannelor -- subName: First Aid Trainer
 UPDATE locales_creature SET name_loc4='泰龙尼斯',subname_loc4='制皮训练师' WHERE entry=4212; -- Name: Telonis -- subName: Artisan Leatherworker
 UPDATE locales_creature SET name_loc4='塔兰丹',subname_loc4='附魔训练师' WHERE entry=4213; -- Name: Taladan -- subName: Expert Enchanter
-UPDATE locales_creature SET name_loc4='艾瑞安·影语',subname_loc4='潜行者训练师' WHERE entry=4214; -- Name: Erion Shadewhisper -- subName: Rogue Trainer
-UPDATE locales_creature SET name_loc4='安妮莎尔',subname_loc4='潜行者训练师' WHERE entry=4215; -- Name: Anishar -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='艾瑞安·影语',subname_loc4='盗贼训练师' WHERE entry=4214; -- Name: Erion Shadewhisper -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='安妮莎尔',subname_loc4='盗贼训练师' WHERE entry=4215; -- Name: Anishar -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='查德瑞恩',subname_loc4='草药学供应商' WHERE entry=4216; -- Name: Chardryn -- subName: Herbalism Supplies
 UPDATE locales_creature SET name_loc4='玛斯雷·驭熊者',subname_loc4='德鲁伊训练师' WHERE entry=4217; -- Name: Mathrengyl Bearwalker -- subName: Druid Trainer
 UPDATE locales_creature SET name_loc4='德纳萨里安',subname_loc4='德鲁伊训练师' WHERE entry=4218; -- Name: Denatharion -- subName: Druid Trainer
@@ -3490,9 +3490,9 @@ UPDATE locales_creature SET name_loc4='米利尔·格里高利',subname_loc4='�
 UPDATE locales_creature SET name_loc4='约瑟芬·李斯特',subname_loc4='裁缝训练师' WHERE entry=4578; -- Name: Josephine Lister -- subName: Master Shadoweave Tailor
 UPDATE locales_creature SET name_loc4='露西尔·卡斯尔顿',subname_loc4='长袍商' WHERE entry=4580; -- Name: Lucille Castleton -- subName: Robe Vendor
 UPDATE locales_creature SET name_loc4='萨拉扎尔·布洛什',subname_loc4='书商' WHERE entry=4581; -- Name: Salazar Bloch -- subName: Book Dealer
-UPDATE locales_creature SET name_loc4='卡罗琳·瓦德',subname_loc4='潜行者训练师' WHERE entry=4582; -- Name: Carolyn Ward -- subName: Rogue Trainer
-UPDATE locales_creature SET name_loc4='迈尔斯·迪克斯特',subname_loc4='潜行者训练师' WHERE entry=4583; -- Name: Miles Dexter -- subName: Rogue Trainer
-UPDATE locales_creature SET name_loc4='格雷戈·查尔斯',subname_loc4='潜行者训练师' WHERE entry=4584; -- Name: Gregory Charles -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='卡罗琳·瓦德',subname_loc4='盗贼训练师' WHERE entry=4582; -- Name: Carolyn Ward -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='迈尔斯·迪克斯特',subname_loc4='盗贼训练师' WHERE entry=4583; -- Name: Miles Dexter -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='格雷戈·查尔斯',subname_loc4='盗贼训练师' WHERE entry=4584; -- Name: Gregory Charles -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='艾泽基尔·格瑞乌斯',subname_loc4='毒药商' WHERE entry=4585; -- Name: Ezekiel Graves -- subName: Poison Supplies
 UPDATE locales_creature SET name_loc4='格拉哈姆·范·塔伦',subname_loc4='初级技师' WHERE entry=4586; -- Name: Graham Van Talen -- subName: Journeyman Engineer
 UPDATE locales_creature SET name_loc4='伊丽莎白·范·塔伦',subname_loc4='工程学供应商' WHERE entry=4587; -- Name: Elizabeth Van Talen -- subName: Engineering Supplies
@@ -3859,9 +3859,9 @@ UPDATE locales_creature SET name_loc4='格瑞诺尔·石印',subname_loc4='钓�
 UPDATE locales_creature SET name_loc4='坦斯·泥泡',subname_loc4='渔具供应商' WHERE entry=5162; -- Name: Tansy Puddlefizz -- subName: Fishing Supplies
 UPDATE locales_creature SET name_loc4='巴比克·齿轮',subname_loc4='商人' WHERE entry=5163; -- Name: Burbik Gearspanner -- subName: Trade Supplies
 UPDATE locales_creature SET name_loc4='格鲁努斯·削钢',subname_loc4='锻造训练师' WHERE entry=5164; -- Name: Grumnus Steelshaper -- subName: Master Armorsmith
-UPDATE locales_creature SET name_loc4='霍夫丹·黑须',subname_loc4='潜行者训练师' WHERE entry=5165; -- Name: Hulfdan Blackbeard -- subName: Rogue Trainer
-UPDATE locales_creature SET name_loc4='奥米尔·火眼',subname_loc4='潜行者训练师' WHERE entry=5166; -- Name: Ormyr Flinteye -- subName: Rogue Trainer
-UPDATE locales_creature SET name_loc4='芬斯维克',subname_loc4='潜行者训练师' WHERE entry=5167; -- Name: Fenthwick -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='霍夫丹·黑须',subname_loc4='盗贼训练师' WHERE entry=5165; -- Name: Hulfdan Blackbeard -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='奥米尔·火眼',subname_loc4='盗贼训练师' WHERE entry=5166; -- Name: Ormyr Flinteye -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='芬斯维克',subname_loc4='盗贼训练师' WHERE entry=5167; -- Name: Fenthwick -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='泰努斯·毒芽',subname_loc4='毒药商' WHERE entry=5169; -- Name: Tynnus Venomsprout -- subName: Shady Dealer
 UPDATE locales_creature SET name_loc4='霍迪尔·石刃',subname_loc4='铸剑商' WHERE entry=5170; -- Name: Hjoldir Stoneblade -- subName: Blade Merchant
 UPDATE locales_creature SET name_loc4='瑟斯哈特',subname_loc4='术士训练师' WHERE entry=5171; -- Name: Thistleheart -- subName: Warlock Trainer
@@ -7437,7 +7437,7 @@ UPDATE locales_creature SET name_loc4='海达克西斯公爵',subname_loc4='' WH
 UPDATE locales_creature SET name_loc4='混乱巨浪',subname_loc4='' WHERE entry=13279; -- Name: Discordant Surge
 UPDATE locales_creature SET name_loc4='海多斯博恩',subname_loc4='' WHERE entry=13280; -- Name: Hydrospawn
 UPDATE locales_creature SET name_loc4='诺克赛恩',subname_loc4='' WHERE entry=13282; -- Name: Noxxion
-UPDATE locales_creature SET name_loc4='托尼·罗曼诺',subname_loc4='潜行者训练师' WHERE entry=13283; -- Name: Lord Tony Romano -- subName: Rogue Trainer
+UPDATE locales_creature SET name_loc4='托尼·罗曼诺',subname_loc4='盗贼训练师' WHERE entry=13283; -- Name: Lord Tony Romano -- subName: Rogue Trainer
 UPDATE locales_creature SET name_loc4='霜狼萨满祭司',subname_loc4='' WHERE entry=13284; -- Name: Frostwolf Shaman
 UPDATE locales_creature SET name_loc4='死亡鞭笞者',subname_loc4='' WHERE entry=13285; -- Name: Death Lash
 UPDATE locales_creature SET name_loc4='拉基特中尉',subname_loc4='' WHERE entry=13296; -- Name: Lieutenant Largent
