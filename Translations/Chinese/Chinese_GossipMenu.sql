@@ -1,1006 +1,1006 @@
 SET NAMES 'utf8';
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想购买你的货物。',box_text_loc4='' WHERE menu_id=0 and id=1; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=0 and id=2; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=0 and id=3; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅馆设为我的家。',box_text_loc4='' WHERE menu_id=0 and id=6; -- option_text: Make this inn my home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我如何建立一个工会？',box_text_loc4='' WHERE menu_id=0 and id=8; -- option_text: How do I form a guild?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=0 and id=9; -- option_text: I want to create a guild crest.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要寄存宠物。',box_text_loc4='' WHERE menu_id=0 and id=12; -- option_text: I\'d like to stable my pet here.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要购买武器',box_text_loc4='' WHERE menu_id=0 and id=13; -- option_text: GOSSIP_OPTION_ARMORER
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=0 and id=14; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想遗忘宠物的天赋。',box_text_loc4='' WHERE menu_id=0 and id=15; -- option_text: I wish to unlearn my pet\'s skills.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我怎么帮助你？',box_text_loc4='' WHERE menu_id=21 and id=0; -- option_text: How can I help?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=63 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=63 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=64 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=64 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='将我复活。',box_text_loc4='' WHERE menu_id=83 and id=0; -- option_text: Return me to life.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=85 and id=0; -- option_text: I would like to train.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=85 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=85 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=141 and id=0; -- option_text: Can you train me how to use rogue skills?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=141 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=141 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='这个锁的钥匙在哪里？',box_text_loc4='' WHERE menu_id=262 and id=0; -- option_text: Where is the key to this lock?
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=342 and id=0; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅馆设为我的家。',box_text_loc4='' WHERE menu_id=342 and id=2; -- option_text: Make this inn my home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=344 and id=2; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为我的家。',box_text_loc4='' WHERE menu_id=345 and id=2; -- option_text: Make this inn my home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=347 and id=0; -- option_text: What can I do at an inn?
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=347 and id=1; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=348 and id=2; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=349 and id=2; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=381 and id=0; -- option_text: Can you train me how to use rogue skills?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=381 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=381 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=401 and id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=401 and id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=401 and id=2; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc4='圣骑士',box_text_loc4='' WHERE menu_id=401 and id=3; -- option_text: Paladin
-UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=401 and id=4; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=401 and id=5; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=401 and id=7; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=401 and id=8; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=410 and id=0; -- option_text: Can you train me how to use rogue skills?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=410 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=410 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='你好, 霍夫丹, 我在寻找训练。',box_text_loc4='' WHERE menu_id=411 and id=0; -- option_text: Good day, Hulfdan, I am looking for training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=411 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=411 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=421 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=421 and id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=421 and id=2; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=421 and id=3; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=421 and id=4; -- option_text: Engineering
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=421 and id=5; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=421 and id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=421 and id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=421 and id=9; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=421 and id=10; -- option_text: Mining
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=421 and id=11; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=421 and id=12; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖行',box_text_loc4='' WHERE menu_id=435 and id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc4='暴风城银行',box_text_loc4='' WHERE menu_id=435 and id=1; -- option_text: Bank of Stormwind
-UPDATE locales_gossip_menu_option SET option_text_loc4='矿道地铁',box_text_loc4='' WHERE menu_id=435 and id=2; -- option_text: Deeprun Tram
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=435 and id=3; -- option_text: The Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='狮鹫管理员',box_text_loc4='' WHERE menu_id=435 and id=4; -- option_text: Gryphon Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=435 and id=5; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=435 and id=6; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='武器训练师',box_text_loc4='' WHERE menu_id=435 and id=7; -- option_text: Weapons Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='军官休息室',box_text_loc4='' WHERE menu_id=435 and id=8; -- option_text: Officers\' Lounge
-UPDATE locales_gossip_menu_option SET option_text_loc4='战场军官',box_text_loc4='' WHERE menu_id=435 and id=9; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=435 and id=10; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=435 and id=11; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=436 and id=0; -- option_text: Can you train me how to use rogue skills?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=436 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=436 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=441 and id=2; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=581 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=593 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=643 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=685 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=686 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=688 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=704 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖行',box_text_loc4='' WHERE menu_id=721 and id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=721 and id=1; -- option_text: The Bank
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅店',box_text_loc4='' WHERE menu_id=721 and id=2; -- option_text: The Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=721 and id=3; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='邮箱',box_text_loc4='' WHERE menu_id=721 and id=4; -- option_text: Mailbox
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=721 and id=5; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='武器大师',box_text_loc4='' WHERE menu_id=721 and id=6; -- option_text: Weapon Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='双足飞龙管理员',box_text_loc4='' WHERE menu_id=721 and id=7; -- option_text: Wind Rider Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='战场军官',box_text_loc4='' WHERE menu_id=721 and id=8; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=721 and id=9; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=721 and id=10; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=740 and id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=740 and id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=740 and id=2; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=740 and id=3; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc4='萨满',box_text_loc4='' WHERE menu_id=740 and id=4; -- option_text: Shaman
-UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=740 and id=5; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=751 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=751 and id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=751 and id=2; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=751 and id=3; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=751 and id=4; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=751 and id=5; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=751 and id=6; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=751 and id=7; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=751 and id=8; -- option_text: Mining
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=751 and id=9; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=751 and id=10; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='没错！我想要更多的，神奇般的诺格弗格药剂！',box_text_loc4='' WHERE menu_id=922 and id=0; -- option_text: Yes! I want more of that fabulous Noggenfogger Elixir!
-UPDATE locales_gossip_menu_option SET option_text_loc4='最近在沙漠看见什么奇怪的事？',box_text_loc4='' WHERE menu_id=922 and id=1; -- option_text: Seen any strange things in the desert lately?
-UPDATE locales_gossip_menu_option SET option_text_loc4='够了！我厌烦不停地帮你了。让我们在战场上解决这一切吧。',box_text_loc4='' WHERE menu_id=941 and id=1; -- option_text: That\'s it! I\'m tired of helping you out. It\'s time we settled things on the battlefield!
-UPDATE locales_gossip_menu_option SET option_text_loc4='触摸桑塔拉之石，召唤出黑衣拉索里克和他的警卫，需要黑曜石。',box_text_loc4='' WHERE menu_id=1282 and id=0; -- option_text: Touch the Suntara stone and call forth Lathoric the Black and his guardian, Obsidion.
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=1291 and id=0; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=1291 and id=1; -- option_text: Make this inn my home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1291 and id=2; -- option_text: What can I do at an inn?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1291 and id=3; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=1293 and id=0; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这旅店设为你的家。',box_text_loc4='' WHERE menu_id=1293 and id=1; -- option_text: Make this inn my home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1293 and id=2; -- option_text: What can I do at an inn?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1293 and id=3; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=1296 and id=0; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这旅店设为你的家',box_text_loc4='' WHERE menu_id=1296 and id=1; -- option_text: Make this inn my home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=1296 and id=2; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1296 and id=3; -- option_text: What can I do at an inn?
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=1297 and id=0; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这旅店设为你的家',box_text_loc4='' WHERE menu_id=1297 and id=1; -- option_text: Make this inn my home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=1297 and id=2; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1297 and id=3; -- option_text: What can I do at an inn?
-UPDATE locales_gossip_menu_option SET option_text_loc4='一个精灵在这个洞穴里做什么？',box_text_loc4='' WHERE menu_id=1341 and id=0; -- option_text: What\'s an elf like you doing inside a cave like this?
-UPDATE locales_gossip_menu_option SET option_text_loc4='你知道一个叫伊库兰尼斯的人……或什么东西吗？',box_text_loc4='' WHERE menu_id=1341 and id=1; -- option_text: Do you know someone... or something, rather, by the name of Eranikus?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我会仔细考虑你告诉我的事情的。',box_text_loc4='' WHERE menu_id=1364 and id=0; -- option_text: I will consider what you have told me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我拥有一部分伊库兰尼斯的精华。你是要跟着它呢，还是跟着我呢？',box_text_loc4='' WHERE menu_id=1365 and id=0; -- option_text: I possess part of Eranikus\' essence. What do you want with it... or with me?
-UPDATE locales_gossip_menu_option SET option_text_loc4='他发生什么事了？我们第一次碰面时他显得很有敌意。',box_text_loc4='' WHERE menu_id=1366 and id=0; -- option_text: What happened to him in the first place? When I... encountered him, he was rather malicious.
-UPDATE locales_gossip_menu_option SET option_text_loc4='你可以烹饪吗?我也能!有一个配方你可以教我吗？',box_text_loc4='' WHERE menu_id=1443 and id=0; -- option_text: You can cook? So can I! Is there a recipe you can teach me?
-UPDATE locales_gossip_menu_option SET option_text_loc4='你是一个炼金术士?我也是。也许你可以教我你知道…',box_text_loc4='' WHERE menu_id=1443 and id=1; -- option_text: You\'re an alchemist? So am I. Perhaps you can teach me what you know...
-UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我更多关于角鹰兽的事',box_text_loc4='' WHERE menu_id=1482 and id=0; -- option_text: Tell me more about these hippogryphs.
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=1581 and id=0; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这旅店设为你的家',box_text_loc4='' WHERE menu_id=1581 and id=2; -- option_text: Make this inn my home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要查看我的保险箱',box_text_loc4='' WHERE menu_id=1623 and id=0; -- option_text: I would like to check my deposit box.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1624 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1721 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看你卖些什么。',box_text_loc4='' WHERE menu_id=1781 and id=0; -- option_text: I\'d like to see what you have to sell.
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=1942 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=1942 and id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=1942 and id=2; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=1942 and id=3; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=1942 and id=4; -- option_text: Engineering
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=1942 and id=5; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=1942 and id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=1942 and id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=1942 and id=8; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=1942 and id=9; -- option_text: Mining
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=1942 and id=10; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=1942 and id=11; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=1949 and id=0; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=1949 and id=1; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=1949 and id=2; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc4='萨满',box_text_loc4='' WHERE menu_id=1949 and id=3; -- option_text: Shaman
-UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=1949 and id=4; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=1949 and id=5; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=1949 and id=6; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖行',box_text_loc4='' WHERE menu_id=1951 and id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=1951 and id=1; -- option_text: The Bank
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=1951 and id=2; -- option_text: The Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='工会管理员',box_text_loc4='' WHERE menu_id=1951 and id=3; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='邮箱',box_text_loc4='' WHERE menu_id=1951 and id=4; -- option_text: Mailbox
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=1951 and id=5; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='武器大师',box_text_loc4='' WHERE menu_id=1951 and id=6; -- option_text: Weapon Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='双足飞龙管理员',box_text_loc4='' WHERE menu_id=1951 and id=7; -- option_text: Wind Rider Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='军官休息室',box_text_loc4='' WHERE menu_id=1951 and id=8; -- option_text: Officers\' Lounge
-UPDATE locales_gossip_menu_option SET option_text_loc4='战场军官',box_text_loc4='' WHERE menu_id=1951 and id=9; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=1951 and id=10; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=1951 and id=11; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='现在飞艇在哪里？',box_text_loc4='' WHERE menu_id=1969 and id=0; -- option_text: Where is the zeppelin now?
-UPDATE locales_gossip_menu_option SET option_text_loc4='现在飞艇在哪里？',box_text_loc4='' WHERE menu_id=1971 and id=0; -- option_text: Where is the zeppelin now?
-UPDATE locales_gossip_menu_option SET option_text_loc4='现在飞艇在哪里？',box_text_loc4='' WHERE menu_id=2101 and id=0; -- option_text: Where is the zeppelin now?
-UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖场',box_text_loc4='' WHERE menu_id=2121 and id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc4='铁炉堡银行',box_text_loc4='' WHERE menu_id=2121 and id=1; -- option_text: Bank of Ironforge
-UPDATE locales_gossip_menu_option SET option_text_loc4='矿道地铁',box_text_loc4='' WHERE menu_id=2121 and id=2; -- option_text: Deeprun Tram
-UPDATE locales_gossip_menu_option SET option_text_loc4='狮鹫管理员',box_text_loc4='' WHERE menu_id=2121 and id=3; -- option_text: Gryphon Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=2121 and id=4; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=2121 and id=5; -- option_text: The Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='邮箱',box_text_loc4='' WHERE menu_id=2121 and id=6; -- option_text: Mailbox
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=2121 and id=7; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='武器训练师',box_text_loc4='' WHERE menu_id=2121 and id=8; -- option_text: Weapons Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='战场军官',box_text_loc4='' WHERE menu_id=2121 and id=9; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=2121 and id=10; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=2121 and id=11; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=2144 and id=0; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=2144 and id=1; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc4='圣骑士',box_text_loc4='' WHERE menu_id=2144 and id=2; -- option_text: Paladin
-UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=2144 and id=3; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=2144 and id=4; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=2144 and id=5; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=2144 and id=6; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=2168 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=2168 and id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=2168 and id=2; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=2168 and id=3; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=2168 and id=4; -- option_text: Engineering
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=2168 and id=5; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=2168 and id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=2168 and id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=2168 and id=8; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=2168 and id=9; -- option_text: Mining
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=2168 and id=10; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=2168 and id=11; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个塞纳里奥的灯笼。',box_text_loc4='' WHERE menu_id=2208 and id=0; -- option_text: I need a Cenarion beacon.
-UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=2343 and id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=2343 and id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=2343 and id=2; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=2343 and id=3; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=2343 and id=4; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=2351 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=2351 and id=1; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=2351 and id=2; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=2351 and id=3; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=2351 and id=4; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=2351 and id=5; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=2351 and id=6; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=2351 and id=7; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=2351 and id=8; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='现在飞艇在哪里？',box_text_loc4='' WHERE menu_id=2441 and id=0; -- option_text: Where is the zeppelin now?
-UPDATE locales_gossip_menu_option SET option_text_loc4='吉安娜小姐，这听起来像一个奇怪的要求…但是我这有一个很害羞的年轻人。你是他心目中的英雄，他让我得到你的亲笔签名。 ',box_text_loc4='' WHERE menu_id=2465 and id=0; -- option_text: Lady Jaina, this may sound like an odd request... but I have a young ward who is quite shy. You are a hero to him, and he asked me to get your autograph.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=2744 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=2847 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=2847 and id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=2847 and id=2; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=2847 and id=3; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=2847 and id=4; -- option_text: Engineering
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=2847 and id=5; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=2847 and id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=2847 and id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=2847 and id=8; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=2847 and id=9; -- option_text: Mining
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=2847 and id=10; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=2847 and id=11; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=2848 and id=0; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=2848 and id=2; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=2848 and id=3; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=2848 and id=4; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=2848 and id=5; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖行',box_text_loc4='' WHERE menu_id=2849 and id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=2849 and id=1; -- option_text: The Bank
-UPDATE locales_gossip_menu_option SET option_text_loc4='蝙蝠管理员',box_text_loc4='' WHERE menu_id=2849 and id=2; -- option_text: Bat Handler
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=2849 and id=3; -- option_text: The Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=2849 and id=4; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='邮箱',box_text_loc4='' WHERE menu_id=2849 and id=5; -- option_text: Mailbox
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=2849 and id=6; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='武器大师',box_text_loc4='' WHERE menu_id=2849 and id=7; -- option_text: Weapon Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='飞艇管理员',box_text_loc4='' WHERE menu_id=2849 and id=8; -- option_text: Zeppelin Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='战场军官',box_text_loc4='' WHERE menu_id=2849 and id=9; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=2849 and id=10; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=2849 and id=11; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=2890 and id=0; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这旅店设为你的家',box_text_loc4='' WHERE menu_id=2890 and id=1; -- option_text: Make this inn my home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='任务给予者',box_text_loc4='' WHERE menu_id=2890 and id=2; -- option_text: GOSSIP_OPTION_QUESTGIVER
-UPDATE locales_gossip_menu_option SET option_text_loc4='情绪低落',box_text_loc4='' WHERE menu_id=3062 and id=0; -- option_text: Low spirits
-UPDATE locales_gossip_menu_option SET option_text_loc4='坏的挂钉',box_text_loc4='' WHERE menu_id=3062 and id=1; -- option_text: Bad hang nail
-UPDATE locales_gossip_menu_option SET option_text_loc4='没有动力',box_text_loc4='' WHERE menu_id=3062 and id=2; -- option_text: Feeling underpowered
-UPDATE locales_gossip_menu_option SET option_text_loc4='丛林热疫',box_text_loc4='' WHERE menu_id=3062 and id=3; -- option_text: Jungle Fever
-UPDATE locales_gossip_menu_option SET option_text_loc4='一线眉',box_text_loc4='' WHERE menu_id=3062 and id=4; -- option_text: Uni-brow
-UPDATE locales_gossip_menu_option SET option_text_loc4='鞭打',box_text_loc4='' WHERE menu_id=3062 and id=5; -- option_text: Whiplash
-UPDATE locales_gossip_menu_option SET option_text_loc4='我不想回去工作',box_text_loc4='' WHERE menu_id=3062 and id=6; -- option_text: I don\'t want to go back to work
-UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=3283 and id=0; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=3283 and id=1; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=3283 and id=2; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=3283 and id=3; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc4='萨满',box_text_loc4='' WHERE menu_id=3283 and id=4; -- option_text: Shaman
-UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=3283 and id=5; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=3283 and id=6; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3284 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=3284 and id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3284 and id=2; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3284 and id=3; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=3284 and id=4; -- option_text: Engineering
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3284 and id=5; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3284 and id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3284 and id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3284 and id=8; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=3284 and id=9; -- option_text: Mining
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3284 and id=10; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3284 and id=11; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3285 and id=0; -- option_text: The Bank
-UPDATE locales_gossip_menu_option SET option_text_loc4='双足飞龙管理员',box_text_loc4='' WHERE menu_id=3285 and id=1; -- option_text: Wind Rider Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3285 and id=2; -- option_text: The Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=3285 and id=3; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3285 and id=4; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3285 and id=5; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=3329 and id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=3329 and id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc4='萨满',box_text_loc4='' WHERE menu_id=3329 and id=2; -- option_text: Shaman
-UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=3329 and id=3; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3330 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=3330 and id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3330 and id=2; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3330 and id=3; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3330 and id=4; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3330 and id=5; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3330 and id=6; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3330 and id=7; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=3330 and id=8; -- option_text: Mining
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3330 and id=9; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3330 and id=10; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3331 and id=0; -- option_text: The Bank
-UPDATE locales_gossip_menu_option SET option_text_loc4='双足飞龙管理员',box_text_loc4='' WHERE menu_id=3331 and id=1; -- option_text: Wind Rider Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3331 and id=2; -- option_text: The Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=3331 and id=3; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3331 and id=4; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3331 and id=5; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=3354 and id=0; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc4='圣骑士',box_text_loc4='' WHERE menu_id=3354 and id=1; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=3354 and id=2; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=3354 and id=3; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=3354 and id=4; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3355 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=3355 and id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3355 and id=2; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3355 and id=3; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=3355 and id=4; -- option_text: Engineering
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3355 and id=5; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3355 and id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3355 and id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3355 and id=8; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=3355 and id=9; -- option_text: Mining
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3355 and id=10; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3355 and id=11; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3356 and id=0; -- option_text: The Bank
-UPDATE locales_gossip_menu_option SET option_text_loc4='蝙蝠管理员',box_text_loc4='' WHERE menu_id=3356 and id=1; -- option_text: Bat Handler
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3356 and id=2; -- option_text: The Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=3356 and id=3; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3356 and id=4; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3356 and id=5; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要其它银色黎明委任徽章',box_text_loc4='' WHERE menu_id=3421 and id=0; -- option_text: I need another Argent Dawn Commission.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3421 and id=1; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3461 and id=1; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='米兰达，可否告诉我在不同的声望等级购买物品的价格吗？',box_text_loc4='' WHERE menu_id=3461 and id=2; -- option_text: Miranda, could you please tell me the insignia cost of items that you are offering for adventurers with other reputations?
-UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3506 and id=0; -- option_text: Bank
-UPDATE locales_gossip_menu_option SET option_text_loc4='狮鹫管理员',box_text_loc4='' WHERE menu_id=3506 and id=1; -- option_text: Gryphon Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=3506 and id=2; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3506 and id=3; -- option_text: Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏大师',box_text_loc4='' WHERE menu_id=3506 and id=4; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3506 and id=5; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3506 and id=6; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=3519 and id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=3519 and id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=3519 and id=2; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc4='圣骑士',box_text_loc4='' WHERE menu_id=3519 and id=3; -- option_text: Paladin
-UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=3519 and id=4; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=3519 and id=5; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc4='萨满',box_text_loc4='' WHERE menu_id=3519 and id=6; -- option_text: Shaman
-UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=3519 and id=7; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=3519 and id=8; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3532 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=3532 and id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3532 and id=2; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3532 and id=3; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=3532 and id=4; -- option_text: Engineering
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3532 and id=5; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3532 and id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3532 and id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3532 and id=8; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3532 and id=9; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=3532 and id=10; -- option_text: Mining
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3532 and id=11; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3532 and id=12; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3533 and id=0; -- option_text: Bank
-UPDATE locales_gossip_menu_option SET option_text_loc4='狮鹫管理员',box_text_loc4='' WHERE menu_id=3533 and id=1; -- option_text: Gryphon Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=3533 and id=2; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3533 and id=3; -- option_text: The Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=3533 and id=4; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3533 and id=5; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3533 and id=6; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=3545 and id=0; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=3545 and id=1; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc4='圣骑士',box_text_loc4='' WHERE menu_id=3545 and id=2; -- option_text: Paladin
-UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=3545 and id=3; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=3545 and id=4; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=3545 and id=5; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=3545 and id=6; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3558 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=3558 and id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3558 and id=2; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3558 and id=3; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=3558 and id=4; -- option_text: Engineering
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3558 and id=5; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3558 and id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3558 and id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3558 and id=8; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=3558 and id=9; -- option_text: Mining
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3558 and id=10; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3558 and id=11; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=3564 and id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=3564 and id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=3564 and id=2; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=3564 and id=3; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=3564 and id=4; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3572 and id=0; -- option_text: Alchemy
-UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3572 and id=1; -- option_text: Cooking
-UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3572 and id=2; -- option_text: Enchanting
-UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3572 and id=3; -- option_text: First Aid
-UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3572 and id=4; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3572 and id=5; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3572 and id=6; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3572 and id=7; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3572 and id=8; -- option_text: Tailoring
-UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3580 and id=0; -- option_text: The Bank
-UPDATE locales_gossip_menu_option SET option_text_loc4='鲁瑟蓝港',box_text_loc4='' WHERE menu_id=3580 and id=1; -- option_text: Rut\'theran Ferry
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3580 and id=2; -- option_text: The Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=3580 and id=3; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=3580 and id=4; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3580 and id=5; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3580 and id=6; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='飞艇现在在哪里？',box_text_loc4='' WHERE menu_id=3841 and id=0; -- option_text: Where is the zeppelin now?
-UPDATE locales_gossip_menu_option SET option_text_loc4='飞艇现在在哪里？',box_text_loc4='' WHERE menu_id=3842 and id=0; -- option_text: Where is the zeppelin now?
-UPDATE locales_gossip_menu_option SET option_text_loc4='是的，奥古斯图斯。我想和你交易。',box_text_loc4='' WHERE menu_id=4085 and id=0; -- option_text: Yes, Augustus. I would like to do business.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4106 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4107 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4123 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4135 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4150 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4163 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4174 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4209 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4281 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4282 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4301 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4302 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=4303 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4307 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4323 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4326 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4342 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4360 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这桶白蚁放进这个盒子。',box_text_loc4='' WHERE menu_id=4362 and id=0; -- option_text: Place Termite Barrel on the crate.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4485 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要遗忘我的天赋',box_text_loc4='' WHERE menu_id=4485 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='任务给予者',box_text_loc4='' WHERE menu_id=4485 and id=2; -- option_text: GOSSIP_OPTION_QUESTGIVER
-UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我如何使用盗贼技能？',box_text_loc4='' WHERE menu_id=4659 and id=0; -- option_text: Can you train me how to use rogue skills?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4659 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4660 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4661 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想要乘地铁去那遥远的光明之路。',box_text_loc4='' WHERE menu_id=4664 and id=0; -- option_text: I would like to train further in the ways of the Light.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物,迪尔格。',box_text_loc4='' WHERE menu_id=4746 and id=0; -- option_text: I wish to browse your goods, Dirge.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看能买点什么，罗克图斯。',box_text_loc4='' WHERE menu_id=4781 and id=0; -- option_text: Show me what I have access to, Lokhtos.
-UPDATE locales_gossip_menu_option SET option_text_loc4='请教教我。',box_text_loc4='' WHERE menu_id=4822 and id=0; -- option_text: Please teach me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='请教教我。',box_text_loc4='' WHERE menu_id=4826 and id=0; -- option_text: Please teach me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一些武器训练',box_text_loc4='' WHERE menu_id=5271 and id=0; -- option_text: I\'d like some weapon training
-UPDATE locales_gossip_menu_option SET option_text_loc4='其它的武器大师能教什么？',box_text_loc4='' WHERE menu_id=5271 and id=1; -- option_text: What can other weapon masters teach?
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=5665 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=5853 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=5855 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要看看你的物品。',box_text_loc4='' WHERE menu_id=5962 and id=0; -- option_text: I wish to browse your wares.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=6023 and id=0; -- option_text: I need a ride.
-UPDATE locales_gossip_menu_option SET option_text_loc4='当暗月马戏团到来时，他们会在哪里扎营？',box_text_loc4='' WHERE menu_id=6214 and id=0; -- option_text: When the Darkmoon Faire arrives, where will it be located?
-UPDATE locales_gossip_menu_option SET option_text_loc4='你不能处理一个孤独的暗夜精灵女祭司？',box_text_loc4='' WHERE menu_id=6556 and id=0; -- option_text: You couldn\'t handle a lone night elf priestess?
-UPDATE locales_gossip_menu_option SET option_text_loc4='你还要说什么？',box_text_loc4='' WHERE menu_id=6586 and id=0; -- option_text: And what do you say?
-UPDATE locales_gossip_menu_option SET option_text_loc4='他们要说什么呢？',box_text_loc4='' WHERE menu_id=6587 and id=0; -- option_text: What do they say?
-UPDATE locales_gossip_menu_option SET option_text_loc4='你怎么知道的？',box_text_loc4='' WHERE menu_id=6588 and id=0; -- option_text: How do you know?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6599 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6602 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6603 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6604 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6605 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6606 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6607 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6608 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6609 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6610 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6612 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6613 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6614 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6615 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6616 and id=0; -- option_text: What is an Alliance Commendation Signet?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6671 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6672 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6673 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6674 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6675 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6676 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6696 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6700 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6702 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6704 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6708 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6710 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6712 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6714 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6716 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6718 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6720 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6722 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6724 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6726 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6771 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6773 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6774 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6775 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6776 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6777 and id=0; -- option_text: I want to ask you about something else.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看哪里可以飞行',box_text_loc4='' WHERE menu_id=6944 and id=0; -- option_text: Show me where I can fly.
-UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖行',box_text_loc4='' WHERE menu_id=10265 and id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=10265 and id=1; -- option_text: The Bank
-UPDATE locales_gossip_menu_option SET option_text_loc4='角鹰兽管理员',box_text_loc4='' WHERE menu_id=10265 and id=2; -- option_text: Hippogryph Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=10265 and id=3; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='旅店',box_text_loc4='' WHERE menu_id=10265 and id=4; -- option_text: The Inn
-UPDATE locales_gossip_menu_option SET option_text_loc4='邮箱',box_text_loc4='' WHERE menu_id=10265 and id=5; -- option_text: Mailbox
-UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=10265 and id=6; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc4='武器训练师',box_text_loc4='' WHERE menu_id=10265 and id=7; -- option_text: Weapons Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='战场大师',box_text_loc4='' WHERE menu_id=10265 and id=8; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=10265 and id=9; -- option_text: Class Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=10265 and id=10; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=523 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=523 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么是“地下生物矩阵形”？',box_text_loc4='' WHERE menu_id=561 and id=0; -- option_text: What is a "subterranean being matrix"?
-UPDATE locales_gossip_menu_option SET option_text_loc4='谁是土灵？',box_text_loc4='' WHERE menu_id=562 and id=0; -- option_text: Who are the Earthen?
-UPDATE locales_gossip_menu_option SET option_text_loc4='你所说的异常是什么？',box_text_loc4='' WHERE menu_id=563 and id=0; -- option_text: What are the anomalies you speak of?
-UPDATE locales_gossip_menu_option SET option_text_loc4='“建筑的弹性基础”是什么？',box_text_loc4='' WHERE menu_id=564 and id=0; -- option_text: What is a "resilient foundation of construction"?
-UPDATE locales_gossip_menu_option SET option_text_loc4='所以…这些土灵是用石头做的吗？',box_text_loc4='' WHERE menu_id=565 and id=0; -- option_text: So... the Earthen were made out of stone?
-UPDATE locales_gossip_menu_option SET option_text_loc4='还有什么我应该知道关于土灵的吗？',box_text_loc4='' WHERE menu_id=566 and id=0; -- option_text: Anything else I should know about the Earthen?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想我明白了现在的创造者的设计意图。你刚才谈到的土灵的异常是什么？',box_text_loc4='' WHERE menu_id=567 and id=0; -- option_text: I think I understand the Creators\' design intent for the Earthen now.  What are the Earthen\'s anomalies that you spoke of earlier?
-UPDATE locales_gossip_menu_option SET option_text_loc4='什么高压力环境会导致土灵的破坏？',box_text_loc4='' WHERE menu_id=568 and id=0; -- option_text: What high-stress environments would cause the Earthen to destabilize?
-UPDATE locales_gossip_menu_option SET option_text_loc4='当土灵不稳定时会发生什么？',box_text_loc4='' WHERE menu_id=569 and id=0; -- option_text: What happens when the Earthen destabilize?
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=597 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=655 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=655 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=656 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=656 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=657 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=660 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=681 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=687 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=692 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=693 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=703 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=708 and id=1; -- option_text: I want to create a guild crest.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=900 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=1022 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=1120 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=1262 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=1290 and id=2; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1290 and id=3; -- option_text: What can I do at an inn?
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=1294 and id=1; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1294 and id=2; -- option_text: What can I do at an inn?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1294 and id=3; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=1403 and id=2; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=1465 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=1503 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=1522 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=1582 and id=2; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=1626 and id=0; -- option_text: I want to create a guild crest.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1964 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=2384 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=2385 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=2242 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=2304 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=2381 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=2383 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=2741 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=2781 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=2952 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3161 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3162 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3185 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3186 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3441 and id=1; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3644 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=3645 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3645 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3921 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3923 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3924 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3925 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3926 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3984 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=3984 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4001 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4004 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4005 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4006 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4007 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4009 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4010 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4011 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4012 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4014 and id=0; -- option_text: I seek training to ride a steed.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4015 and id=0; -- option_text: I seek training to ride a steed.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4017 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4018 and id=0; -- option_text: I seek training to ride a steed.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4019 and id=0; -- option_text: I seek training to ride a steed.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4021 and id=0; -- option_text: I seek training to ride a steed.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4022 and id=0; -- option_text: I seek training to ride a steed.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4023 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4090 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4091 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4092 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4101 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4103 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4104 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4115 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4126 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4145 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4185 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4205 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4242 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4261 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=4283 and id=0; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=4304 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=4305 and id=0; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4345 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4348 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4349 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4351 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4353 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4359 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=4361 and id=0; -- option_text: I would like to train.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4468 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4469 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4470 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4471 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4472 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4473 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4474 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4484 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4484 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4486 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4486 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=4502 and id=0; -- option_text: Can you train me how to use rogue skills?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4502 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4502 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4503 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4504 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4505 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4506 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4507 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4508 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4509 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4509 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4510 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4510 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4511 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4511 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4512 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4512 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4513 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4513 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4515 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4516 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4521 and id=0; -- option_text: I seek more training in the priestly ways.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4521 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4522 and id=0; -- option_text: I seek more training in the priestly ways.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4522 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4523 and id=0; -- option_text: I seek more training in the priestly ways.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4523 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4524 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4525 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4525 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4526 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4526 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4527 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4527 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4528 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4529 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4530 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4531 and id=0; -- option_text: I seek more training in the priestly ways.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4531 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4532 and id=0; -- option_text: I seek more training in the priestly ways.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4532 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4533 and id=0; -- option_text: I seek more training in the priestly ways.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4533 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4534 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4534 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4535 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4535 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4536 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4536 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4537 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4537 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4538 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4538 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4539 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4539 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4540 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4540 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4541 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4541 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4542 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4542 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4543 and id=1; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4543 and id=2; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4544 and id=0; -- option_text: I seek more training in the priestly ways.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4544 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4545 and id=1; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4545 and id=2; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4546 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4546 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4547 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4547 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4548 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4548 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4549 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4550 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4551 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4552 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4552 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4553 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4553 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4556 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4557 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4561 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4561 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4562 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4562 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4567 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4568 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4568 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4569 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4569 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4570 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4570 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4571 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=4576 and id=0; -- option_text: Can you train me how to use rogue skills?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4576 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4576 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4578 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4578 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4603 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4604 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4605 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4606 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4607 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4609 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我提交进一步训练我的大师。',box_text_loc4='' WHERE menu_id=4610 and id=0; -- option_text: I submit myself for further training my master.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4610 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4621 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4641 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4642 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4643 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4644 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4645 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4645 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4647 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4648 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4649 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4649 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4650 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4650 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4652 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4653 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4653 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4654 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4654 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我提交进一步训练我的大师。',box_text_loc4='' WHERE menu_id=4655 and id=0; -- option_text: I submit myself for further training my master.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4655 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我提交进一步训练我的大师。',box_text_loc4='' WHERE menu_id=4656 and id=0; -- option_text: I submit myself for further training my master.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4656 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4657 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=4658 and id=0; -- option_text: Can you train me how to use rogue skills?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4658 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4658 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4659 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4660 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4661 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10115 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=10181 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=10188 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10350 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10350 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10351 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10351 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10359 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10359 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10361 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10361 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10362 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10362 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10363 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10363 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10364 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10364 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10365 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10365 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=10392 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=10392 and id=1; -- option_text: I want to create a guild crest.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9832 and id=0; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=9833 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=9833 and id=1; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=9866 and id=0; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9866 and id=2; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=9879 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9879 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=10723 and id=0; -- option_text: I seek training to ride a steed.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=12056 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=12726 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='梦境？',box_text_loc4='' WHERE menu_id=50304 and id=0; -- option_text: Dreams?
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9123 and id=2; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=9131 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=9132 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9174 and id=0; -- option_text: Go on.
-UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9175 and id=0; -- option_text: Go on.
-UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9175 and id=1; -- option_text: Wait, back up. What was that last thing you said?
-UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9176 and id=0; -- option_text: Go on.
-UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9176 and id=1; -- option_text: Wait, back up. What was that last thing you said?
-UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9177 and id=0; -- option_text: Go on.
-UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9177 and id=1; -- option_text: Wait, back up. What was that last thing you said?
-UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9178 and id=0; -- option_text: Go on.
-UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9178 and id=1; -- option_text: Wait, back up. What was that last thing you said?
-UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9179 and id=0; -- option_text: Go on.
-UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9179 and id=1; -- option_text: Wait, back up. What was that last thing you said?
-UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9180 and id=0; -- option_text: Go on.
-UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9180 and id=1; -- option_text: Wait, back up. What was that last thing you said?
-UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9181 and id=0; -- option_text: Go on.
-UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9181 and id=1; -- option_text: Wait, back up. What was that last thing you said?
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9427 and id=2; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9453 and id=0; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9476 and id=1; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=9476 and id=2; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9478 and id=2; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=9480 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7146 and id=0; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=7173 and id=0; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=7173 and id=1; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=7173 and id=2; -- option_text: What can I do at an inn?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4662 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4663 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4664 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4665 and id=0; -- option_text: I seek more training in the priestly ways.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4665 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4666 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4667 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4674 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4675 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=4676 and id=0; -- option_text: Can you train me how to use rogue skills?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4676 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4676 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4677 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4678 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4680 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4681 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4682 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4683 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4683 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4684 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4684 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4685 and id=0; -- option_text: I am interested in mage training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4685 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4687 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4688 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4690 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4690 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4691 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4693 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4694 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4695 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4697 and id=0; -- option_text: I require warrior training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4697 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4842 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=4845 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=5061 and id=0; -- option_text: Can you train me how to use rogue skills?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=5061 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=5061 and id=4; -- option_text: <Take the letter>
-UPDATE locales_gossip_menu_option SET option_text_loc4='教我精神之道。',box_text_loc4='' WHERE menu_id=5123 and id=0; -- option_text: Teach me the ways of the spirits.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=5123 and id=1; -- option_text: I wish to unlearn my talents.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=5461 and id=0; -- option_text: I want to create a guild crest.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=5462 and id=0; -- option_text: I want to create a guild crest.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=5542 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=5854 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=5856 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=6059 and id=0; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=6059 and id=1; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=6059 and id=2; -- option_text: What can I do at an inn?
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=6202 and id=0; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6282 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6459 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6460 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6461 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6462 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6463 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6464 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6465 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6466 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6467 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6468 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6469 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6470 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6471 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6472 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6473 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6474 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6475 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战斗！',box_text_loc4='' WHERE menu_id=6478 and id=0; -- option_text: I wish to join the battle!
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6484 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战斗！',box_text_loc4='' WHERE menu_id=6490 and id=0; -- option_text: I wish to join the battle!
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战斗！',box_text_loc4='' WHERE menu_id=6508 and id=0; -- option_text: I wish to join the battle!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=6525 and id=3; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=6526 and id=0; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=6527 and id=0; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=6917 and id=2; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=6924 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=7396 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=7446 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=7487 and id=0; -- option_text: I want to create a guild crest.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=7611 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=7628 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=7690 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=7691 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=7810 and id=0; -- option_text: I would like to train.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7810 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=7816 and id=0; -- option_text: I would like to train.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7816 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7817 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7818 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=7842 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=7879 and id=0; -- option_text: I would like to train.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7879 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=7883 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=7884 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7900 and id=0; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=7937 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=7952 and id=1; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7952 and id=2; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=8077 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8243 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8249 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=8382 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=8453 and id=0; -- option_text: I would like to go to the battleground.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战斗！',box_text_loc4='' WHERE menu_id=8462 and id=0; -- option_text: I wish to join the battle!
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=8519 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=8522 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=8540 and id=0; -- option_text: I would like to train.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=8622 and id=0; -- option_text: I seek training to ride a steed.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=8760 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8770 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8771 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8772 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=8802 and id=0; -- option_text: I would like to train.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=8868 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=8884 and id=2; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8971 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9218 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9245 and id=0; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9245 and id=1; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=9245 and id=2; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9299 and id=1; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9495 and id=0; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9632 and id=0; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=9733 and id=0; -- option_text: Trick or Treat!
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9733 and id=1; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9733 and id=2; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=9750 and id=0; -- option_text: Train me.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9763 and id=0; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9763 and id=1; -- option_text: Make this inn your home.
-UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9763 and id=2; -- option_text: Let me browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=9798 and id=0; -- option_text: I would like to buy from you.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=10598 and id=0; -- option_text: I want to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='是的，先生。谢谢您，先生！',box_text_loc4='' WHERE menu_id=50308 and id=0; -- option_text: Yes, sir. Thank you, sir!
-UPDATE locales_gossip_menu_option SET option_text_loc4='穴居人吗？！你提到了穴居人在今天的这个世界？',box_text_loc4='' WHERE menu_id=570 and id=0; -- option_text: Troggs?!  Are the troggs you mention the same as the ones in the world today?
-UPDATE locales_gossip_menu_option SET option_text_loc4='你提到了两个结果，当土灵不稳定。其次是什么？',box_text_loc4='' WHERE menu_id=571 and id=0; -- option_text: You mentioned two results when the Earthen destabilize.  What is the second?
-UPDATE locales_gossip_menu_option SET option_text_loc4='矮人！！！现在你告诉我，小矮人最初来自瓦？！',box_text_loc4='' WHERE menu_id=572 and id=0; -- option_text: Dwarves!!!  Now you're telling me that dwarves originally came from the Earthen?!
-UPDATE locales_gossip_menu_option SET option_text_loc4='这些矮人是今天是同一个，是吗？土灵与矮人保持着任何其他的联系？',box_text_loc4='' WHERE menu_id=573 and id=0; -- option_text: These dwarves are the same ones today, yes?  Do dwarves maintain any other links to the Earthen?
-UPDATE locales_gossip_menu_option SET option_text_loc4='谁是创造者？',box_text_loc4='' WHERE menu_id=574 and id=0; -- option_text: Who are the Creators?
-UPDATE locales_gossip_menu_option SET option_text_loc4='这要好好考虑一下。',box_text_loc4='' WHERE menu_id=575 and id=0; -- option_text: This is a lot to think about.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我现在将访问圆盘。',box_text_loc4='' WHERE menu_id=576 and id=0; -- option_text: I will access the discs now.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想检查一下我的储物箱。',box_text_loc4='' WHERE menu_id=699 and id=0; -- option_text: I would like to check my deposit box.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我如何建立一个工会？',box_text_loc4='' WHERE menu_id=708 and id=0; -- option_text: How do I form a guild?
-UPDATE locales_gossip_menu_option SET option_text_loc4='请告诉我更多关于戈杜尼食人魔。',box_text_loc4='' WHERE menu_id=942 and id=1; -- option_text: Please tell me more about the Gordunni ogres.
-UPDATE locales_gossip_menu_option SET option_text_loc4='你好索维克，我希望浏览你的商品。',box_text_loc4='' WHERE menu_id=980 and id=0; -- option_text: Hello Sovik, I wish to browse your goods.
-UPDATE locales_gossip_menu_option SET option_text_loc4='获得更高级别的访问卡',box_text_loc4='' WHERE menu_id=1045 and id=0; -- option_text: Acquire Higher Level Access Card
-UPDATE locales_gossip_menu_option SET option_text_loc4='获得更高级别的访问卡',box_text_loc4='' WHERE menu_id=1047 and id=0; -- option_text: Acquire Higher Level Access Card
-UPDATE locales_gossip_menu_option SET option_text_loc4='使用工程来访问隐藏的原理图！',box_text_loc4='' WHERE menu_id=1047 and id=1; -- option_text: Use engineering to access hidden schematics!
-UPDATE locales_gossip_menu_option SET option_text_loc4='获得更高级别的访问卡',box_text_loc4='' WHERE menu_id=1049 and id=0; -- option_text: Acquire Higher Level Access Card
-UPDATE locales_gossip_menu_option SET option_text_loc4='获取高级数据卡。',box_text_loc4='' WHERE menu_id=1050 and id=0; -- option_text: Acquire high level data card.
-UPDATE locales_gossip_menu_option SET option_text_loc4='使用工程来访问隐藏的原理图！',box_text_loc4='' WHERE menu_id=1050 and id=1; -- option_text: Use engineering to access hidden schematics!
-UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我关于减少。',box_text_loc4='' WHERE menu_id=1141 and id=0; -- option_text: Tell me about the reduction.
-UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我更多，特伦顿。',box_text_loc4='' WHERE menu_id=1142 and id=0; -- option_text: Tell me more, Trenton.
-UPDATE locales_gossip_menu_option SET option_text_loc4='你听到的树荫旅店的什么？',box_text_loc4='' WHERE menu_id=1161 and id=0; -- option_text: What have you heard of the Shady Rest Inn?
-UPDATE locales_gossip_menu_option SET option_text_loc4='燃烧的旅店。',box_text_loc4='' WHERE menu_id=1186 and id=0; -- option_text: The Burning Inn.
-UPDATE locales_gossip_menu_option SET option_text_loc4='帕瓦尔·雷瑟。',box_text_loc4='' WHERE menu_id=1186 and id=1; -- option_text: Paval Reethe.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想浏览你的商品。',box_text_loc4='' WHERE menu_id=1301 and id=0; -- option_text: I wish to browse your wares.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我在这里训练。',box_text_loc4='' WHERE menu_id=1403 and id=0; -- option_text: I am here for training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想购买更多的萨伦迪斯种子。',box_text_loc4='' WHERE menu_id=1403 and id=1; -- option_text: I'd like to purchase more Tharlendris seeds.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=1503 and id=0; -- option_text: I am interested in warlock training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=1522 and id=0; -- option_text: I am interested in warlock training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我希望面对污染者。',box_text_loc4='' WHERE menu_id=1541 and id=0; -- option_text: I wish to face the Defiler.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我如何建立一个工会？',box_text_loc4='' WHERE menu_id=1626 and id=1; -- option_text: How do I form a guild?
-UPDATE locales_gossip_menu_option SET option_text_loc4='太神奇了!我从来没有和一个幽灵说话。我想学习！',box_text_loc4='' WHERE menu_id=1663 and id=0; -- option_text: Amazing! I've never spoken to a ghost. I wish to learn!
-UPDATE locales_gossip_menu_option SET option_text_loc4='请继续。',box_text_loc4='' WHERE menu_id=1664 and id=0; -- option_text: Continue please.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想购买更多的萨伦迪斯种子。',box_text_loc4='' WHERE menu_id=1701 and id=0; -- option_text: I'd like to purchase more Tharlendris seeds.
-UPDATE locales_gossip_menu_option SET option_text_loc4='买一些东西', will ya?',box_text_loc4='' WHERE menu_id=1802 and id=0; -- option_text: Buy somethin', will ya?
-UPDATE locales_gossip_menu_option SET option_text_loc4='你的束缚结束了，杜姆雷尔。我挑战你！',box_text_loc4='' WHERE menu_id=1947 and id=0; -- option_text: Your bondage is at an end, Doom'rel.  I challenge you!
-UPDATE locales_gossip_menu_option SET option_text_loc4='这是谁的拉克维你说呢？',box_text_loc4='' WHERE menu_id=2188 and id=0; -- option_text: Who is this Lar'korwi you spoke of?
-UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=2304 and id=0; -- option_text: I would like to train further in the ways of the Light.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=2381 and id=0; -- option_text: I am interested in warlock training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=2383 and id=0; -- option_text: I am interested in warlock training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=2384 and id=0; -- option_text: I am interested in warlock training.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我想检查一下我的储物箱。',box_text_loc4='' WHERE menu_id=2404 and id=0; -- option_text: I would like to check my deposit box.
-UPDATE locales_gossip_menu_option SET option_text_loc4='你怎么看达丹加？',box_text_loc4='' WHERE menu_id=2422 and id=0; -- option_text: What do you think of Dadanga?
-UPDATE locales_gossip_menu_option SET option_text_loc4='对玛雷弗斯，我猜。',box_text_loc4='' WHERE menu_id=2945 and id=0; -- option_text: To Malyfous, I assume.
-UPDATE locales_gossip_menu_option SET option_text_loc4='我会考虑下一次我遇到的这些事情。',box_text_loc4='' WHERE menu_id=2946 and id=0; -- option_text: I'll consider that the next time I run into one of these things.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想购买你的货物。',box_text_loc4='' WHERE menu_id=0 AND id=1; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=0 AND id=2; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=0 AND id=3; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅馆设为我的家。',box_text_loc4='' WHERE menu_id=0 AND id=6; -- option_text: Make this inn my home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我如何建立一个工会？',box_text_loc4='' WHERE menu_id=0 AND id=8; -- option_text: How do I form a guild?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=0 AND id=9; -- option_text: I want to create a guild crest.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要寄存宠物。',box_text_loc4='' WHERE menu_id=0 AND id=12; -- option_text: I\'d like to stable my pet here.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要购买武器',box_text_loc4='' WHERE menu_id=0 AND id=13; -- option_text: GOSSIP_OPTION_ARMORER
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=0 AND id=14; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想遗忘宠物的天赋。',box_text_loc4='' WHERE menu_id=0 AND id=15; -- option_text: I wish to unlearn my pet\'s skills.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我怎么帮助你？',box_text_loc4='' WHERE menu_id=21 AND id=0; -- option_text: How can I help?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=63 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=63 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=64 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=64 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='将我复活。',box_text_loc4='' WHERE menu_id=83 AND id=0; -- option_text: Return me to life.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=85 AND id=0; -- option_text: I would like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=85 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=85 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=141 AND id=0; -- option_text: Can you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=141 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=141 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='这个锁的钥匙在哪里？',box_text_loc4='' WHERE menu_id=262 AND id=0; -- option_text: Where is the key to this lock?
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=342 AND id=0; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅馆设为我的家。',box_text_loc4='' WHERE menu_id=342 AND id=2; -- option_text: Make this inn my home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=344 AND id=2; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为我的家。',box_text_loc4='' WHERE menu_id=345 AND id=2; -- option_text: Make this inn my home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=347 AND id=0; -- option_text: What can I do at an inn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=347 AND id=1; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=348 AND id=2; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=349 AND id=2; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=381 AND id=0; -- option_text: Can you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=381 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=381 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=401 AND id=0; -- option_text: Druid
+UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=401 AND id=1; -- option_text: Hunter
+UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=401 AND id=2; -- option_text: Mage
+UPDATE locales_gossip_menu_option SET option_text_loc4='圣骑士',box_text_loc4='' WHERE menu_id=401 AND id=3; -- option_text: Paladin
+UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=401 AND id=4; -- option_text: Priest
+UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=401 AND id=5; -- option_text: Rogue
+UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=401 AND id=7; -- option_text: Warlock
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=401 AND id=8; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=410 AND id=0; -- option_text: Can you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=410 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=410 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='你好, 霍夫丹, 我在寻找训练。',box_text_loc4='' WHERE menu_id=411 AND id=0; -- option_text: Good day, Hulfdan, I am looking for training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=411 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=411 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=421 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=421 AND id=1; -- option_text: Blacksmithing
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=421 AND id=2; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=421 AND id=3; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=421 AND id=4; -- option_text: Engineering
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=421 AND id=5; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=421 AND id=6; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=421 AND id=7; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=421 AND id=9; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=421 AND id=10; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=421 AND id=11; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=421 AND id=12; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖行',box_text_loc4='' WHERE menu_id=435 AND id=0; -- option_text: Auction House
+UPDATE locales_gossip_menu_option SET option_text_loc4='暴风城银行',box_text_loc4='' WHERE menu_id=435 AND id=1; -- option_text: Bank of Stormwind
+UPDATE locales_gossip_menu_option SET option_text_loc4='矿道地铁',box_text_loc4='' WHERE menu_id=435 AND id=2; -- option_text: Deeprun Tram
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=435 AND id=3; -- option_text: The Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='狮鹫管理员',box_text_loc4='' WHERE menu_id=435 AND id=4; -- option_text: Gryphon Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=435 AND id=5; -- option_text: Guild Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=435 AND id=6; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='武器训练师',box_text_loc4='' WHERE menu_id=435 AND id=7; -- option_text: Weapons Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='军官休息室',box_text_loc4='' WHERE menu_id=435 AND id=8; -- option_text: Officers\' Lounge
+UPDATE locales_gossip_menu_option SET option_text_loc4='战场军官',box_text_loc4='' WHERE menu_id=435 AND id=9; -- option_text: Battlemaster
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=435 AND id=10; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=435 AND id=11; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=436 AND id=0; -- option_text: Can you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=436 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=436 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=441 AND id=2; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=581 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=593 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=643 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=685 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=686 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=688 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=704 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖行',box_text_loc4='' WHERE menu_id=721 AND id=0; -- option_text: Auction House
+UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=721 AND id=1; -- option_text: The Bank
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅店',box_text_loc4='' WHERE menu_id=721 AND id=2; -- option_text: The Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=721 AND id=3; -- option_text: Guild Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='邮箱',box_text_loc4='' WHERE menu_id=721 AND id=4; -- option_text: Mailbox
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=721 AND id=5; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='武器大师',box_text_loc4='' WHERE menu_id=721 AND id=6; -- option_text: Weapon Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='双足飞龙管理员',box_text_loc4='' WHERE menu_id=721 AND id=7; -- option_text: Wind Rider Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='战场军官',box_text_loc4='' WHERE menu_id=721 AND id=8; -- option_text: Battlemaster
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=721 AND id=9; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=721 AND id=10; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=740 AND id=0; -- option_text: Druid
+UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=740 AND id=1; -- option_text: Hunter
+UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=740 AND id=2; -- option_text: Mage
+UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=740 AND id=3; -- option_text: Priest
+UPDATE locales_gossip_menu_option SET option_text_loc4='萨满',box_text_loc4='' WHERE menu_id=740 AND id=4; -- option_text: Shaman
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=740 AND id=5; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=751 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=751 AND id=1; -- option_text: Blacksmithing
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=751 AND id=2; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=751 AND id=3; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=751 AND id=4; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=751 AND id=5; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=751 AND id=6; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=751 AND id=7; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=751 AND id=8; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=751 AND id=9; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=751 AND id=10; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='没错！我想要更多的，神奇般的诺格弗格药剂！',box_text_loc4='' WHERE menu_id=922 AND id=0; -- option_text: Yes! I want more of that fabulous Noggenfogger Elixir!
+UPDATE locales_gossip_menu_option SET option_text_loc4='最近在沙漠看见什么奇怪的事？',box_text_loc4='' WHERE menu_id=922 AND id=1; -- option_text: Seen any strange things in the desert lately?
+UPDATE locales_gossip_menu_option SET option_text_loc4='够了！我厌烦不停地帮你了。让我们在战场上解决这一切吧。',box_text_loc4='' WHERE menu_id=941 AND id=1; -- option_text: That\'s it! I\'m tired of helping you out. It\'s time we settled things on the battlefield!
+UPDATE locales_gossip_menu_option SET option_text_loc4='触摸桑塔拉之石，召唤出黑衣拉索里克和他的警卫，需要黑曜石。',box_text_loc4='' WHERE menu_id=1282 AND id=0; -- option_text: Touch the Suntara stone and call forth Lathoric the Black and his guardian, Obsidion.
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=1291 AND id=0; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=1291 AND id=1; -- option_text: Make this inn my home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1291 AND id=2; -- option_text: What can I do at an inn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1291 AND id=3; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=1293 AND id=0; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这旅店设为你的家。',box_text_loc4='' WHERE menu_id=1293 AND id=1; -- option_text: Make this inn my home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1293 AND id=2; -- option_text: What can I do at an inn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1293 AND id=3; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=1296 AND id=0; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这旅店设为你的家',box_text_loc4='' WHERE menu_id=1296 AND id=1; -- option_text: Make this inn my home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=1296 AND id=2; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1296 AND id=3; -- option_text: What can I do at an inn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=1297 AND id=0; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这旅店设为你的家',box_text_loc4='' WHERE menu_id=1297 AND id=1; -- option_text: Make this inn my home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=1297 AND id=2; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1297 AND id=3; -- option_text: What can I do at an inn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='一个精灵在这个洞穴里做什么？',box_text_loc4='' WHERE menu_id=1341 AND id=0; -- option_text: What\'s an elf like you doing inside a cave like this?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你知道一个叫伊库兰尼斯的人……或什么东西吗？',box_text_loc4='' WHERE menu_id=1341 AND id=1; -- option_text: Do you know someone... or something, rather, by the name of Eranikus?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我会仔细考虑你告诉我的事情的。',box_text_loc4='' WHERE menu_id=1364 AND id=0; -- option_text: I will consider what you have told me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我拥有一部分伊库兰尼斯的精华。你是要跟着它呢，还是跟着我呢？',box_text_loc4='' WHERE menu_id=1365 AND id=0; -- option_text: I possess part of Eranikus\' essence. What do you want with it... or with me?
+UPDATE locales_gossip_menu_option SET option_text_loc4='他发生什么事了？我们第一次碰面时他显得很有敌意。',box_text_loc4='' WHERE menu_id=1366 AND id=0; -- option_text: What happened to him in the first place? When I... encountered him, he was rather malicious.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你可以烹饪吗?我也能!有一个配方你可以教我吗？',box_text_loc4='' WHERE menu_id=1443 AND id=0; -- option_text: You can cook? So can I! Is there a recipe you can teach me?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你是一个炼金术士?我也是。也许你可以教我你知道…',box_text_loc4='' WHERE menu_id=1443 AND id=1; -- option_text: You\'re an alchemist? So am I. Perhaps you can teach me what you know...
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我更多关于角鹰兽的事',box_text_loc4='' WHERE menu_id=1482 AND id=0; -- option_text: Tell me more about these hippogryphs.
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=1581 AND id=0; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这旅店设为你的家',box_text_loc4='' WHERE menu_id=1581 AND id=2; -- option_text: Make this inn my home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要查看我的保险箱',box_text_loc4='' WHERE menu_id=1623 AND id=0; -- option_text: I would like to check my deposit box.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1624 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1721 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看你卖些什么。',box_text_loc4='' WHERE menu_id=1781 AND id=0; -- option_text: I\'d like to see what you have to sell.
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=1942 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=1942 AND id=1; -- option_text: Blacksmithing
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=1942 AND id=2; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=1942 AND id=3; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=1942 AND id=4; -- option_text: Engineering
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=1942 AND id=5; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=1942 AND id=6; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=1942 AND id=7; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=1942 AND id=8; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=1942 AND id=9; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=1942 AND id=10; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=1942 AND id=11; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=1949 AND id=0; -- option_text: Hunter
+UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=1949 AND id=1; -- option_text: Mage
+UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=1949 AND id=2; -- option_text: Priest
+UPDATE locales_gossip_menu_option SET option_text_loc4='萨满',box_text_loc4='' WHERE menu_id=1949 AND id=3; -- option_text: Shaman
+UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=1949 AND id=4; -- option_text: Rogue
+UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=1949 AND id=5; -- option_text: Warlock
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=1949 AND id=6; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖行',box_text_loc4='' WHERE menu_id=1951 AND id=0; -- option_text: Auction House
+UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=1951 AND id=1; -- option_text: The Bank
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=1951 AND id=2; -- option_text: The Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='工会管理员',box_text_loc4='' WHERE menu_id=1951 AND id=3; -- option_text: Guild Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='邮箱',box_text_loc4='' WHERE menu_id=1951 AND id=4; -- option_text: Mailbox
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=1951 AND id=5; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='武器大师',box_text_loc4='' WHERE menu_id=1951 AND id=6; -- option_text: Weapon Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='双足飞龙管理员',box_text_loc4='' WHERE menu_id=1951 AND id=7; -- option_text: Wind Rider Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='军官休息室',box_text_loc4='' WHERE menu_id=1951 AND id=8; -- option_text: Officers\' Lounge
+UPDATE locales_gossip_menu_option SET option_text_loc4='战场军官',box_text_loc4='' WHERE menu_id=1951 AND id=9; -- option_text: Battlemaster
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=1951 AND id=10; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=1951 AND id=11; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='现在飞艇在哪里？',box_text_loc4='' WHERE menu_id=1969 AND id=0; -- option_text: Where is the zeppelin now?
+UPDATE locales_gossip_menu_option SET option_text_loc4='现在飞艇在哪里？',box_text_loc4='' WHERE menu_id=1971 AND id=0; -- option_text: Where is the zeppelin now?
+UPDATE locales_gossip_menu_option SET option_text_loc4='现在飞艇在哪里？',box_text_loc4='' WHERE menu_id=2101 AND id=0; -- option_text: Where is the zeppelin now?
+UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖场',box_text_loc4='' WHERE menu_id=2121 AND id=0; -- option_text: Auction House
+UPDATE locales_gossip_menu_option SET option_text_loc4='铁炉堡银行',box_text_loc4='' WHERE menu_id=2121 AND id=1; -- option_text: Bank of Ironforge
+UPDATE locales_gossip_menu_option SET option_text_loc4='矿道地铁',box_text_loc4='' WHERE menu_id=2121 AND id=2; -- option_text: Deeprun Tram
+UPDATE locales_gossip_menu_option SET option_text_loc4='狮鹫管理员',box_text_loc4='' WHERE menu_id=2121 AND id=3; -- option_text: Gryphon Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=2121 AND id=4; -- option_text: Guild Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=2121 AND id=5; -- option_text: The Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='邮箱',box_text_loc4='' WHERE menu_id=2121 AND id=6; -- option_text: Mailbox
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=2121 AND id=7; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='武器训练师',box_text_loc4='' WHERE menu_id=2121 AND id=8; -- option_text: Weapons Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='战场军官',box_text_loc4='' WHERE menu_id=2121 AND id=9; -- option_text: Battlemaster
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=2121 AND id=10; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=2121 AND id=11; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=2144 AND id=0; -- option_text: Hunter
+UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=2144 AND id=1; -- option_text: Mage
+UPDATE locales_gossip_menu_option SET option_text_loc4='圣骑士',box_text_loc4='' WHERE menu_id=2144 AND id=2; -- option_text: Paladin
+UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=2144 AND id=3; -- option_text: Priest
+UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=2144 AND id=4; -- option_text: Rogue
+UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=2144 AND id=5; -- option_text: Warlock
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=2144 AND id=6; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=2168 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=2168 AND id=1; -- option_text: Blacksmithing
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=2168 AND id=2; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=2168 AND id=3; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=2168 AND id=4; -- option_text: Engineering
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=2168 AND id=5; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=2168 AND id=6; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=2168 AND id=7; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=2168 AND id=8; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=2168 AND id=9; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=2168 AND id=10; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=2168 AND id=11; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个塞纳里奥的灯笼。',box_text_loc4='' WHERE menu_id=2208 AND id=0; -- option_text: I need a Cenarion beacon.
+UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=2343 AND id=0; -- option_text: Druid
+UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=2343 AND id=1; -- option_text: Hunter
+UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=2343 AND id=2; -- option_text: Priest
+UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=2343 AND id=3; -- option_text: Rogue
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=2343 AND id=4; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=2351 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=2351 AND id=1; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=2351 AND id=2; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=2351 AND id=3; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=2351 AND id=4; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=2351 AND id=5; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=2351 AND id=6; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=2351 AND id=7; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=2351 AND id=8; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='现在飞艇在哪里？',box_text_loc4='' WHERE menu_id=2441 AND id=0; -- option_text: Where is the zeppelin now?
+UPDATE locales_gossip_menu_option SET option_text_loc4='吉安娜小姐，这听起来像一个奇怪的要求…但是我这有一个很害羞的年轻人。你是他心目中的英雄，他让我得到你的亲笔签名。 ',box_text_loc4='' WHERE menu_id=2465 AND id=0; -- option_text: Lady Jaina, this may sound like an odd request... but I have a young ward who is quite shy. You are a hero to him, and he asked me to get your autograph.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=2744 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=2847 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=2847 AND id=1; -- option_text: Blacksmithing
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=2847 AND id=2; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=2847 AND id=3; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=2847 AND id=4; -- option_text: Engineering
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=2847 AND id=5; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=2847 AND id=6; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=2847 AND id=7; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=2847 AND id=8; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=2847 AND id=9; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=2847 AND id=10; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=2847 AND id=11; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=2848 AND id=0; -- option_text: Mage
+UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=2848 AND id=2; -- option_text: Priest
+UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=2848 AND id=3; -- option_text: Rogue
+UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=2848 AND id=4; -- option_text: Warlock
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=2848 AND id=5; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖行',box_text_loc4='' WHERE menu_id=2849 AND id=0; -- option_text: Auction House
+UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=2849 AND id=1; -- option_text: The Bank
+UPDATE locales_gossip_menu_option SET option_text_loc4='蝙蝠管理员',box_text_loc4='' WHERE menu_id=2849 AND id=2; -- option_text: Bat Handler
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=2849 AND id=3; -- option_text: The Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=2849 AND id=4; -- option_text: Guild Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='邮箱',box_text_loc4='' WHERE menu_id=2849 AND id=5; -- option_text: Mailbox
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=2849 AND id=6; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='武器大师',box_text_loc4='' WHERE menu_id=2849 AND id=7; -- option_text: Weapon Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='飞艇管理员',box_text_loc4='' WHERE menu_id=2849 AND id=8; -- option_text: Zeppelin Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='战场军官',box_text_loc4='' WHERE menu_id=2849 AND id=9; -- option_text: Battlemaster
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=2849 AND id=10; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=2849 AND id=11; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=2890 AND id=0; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这旅店设为你的家',box_text_loc4='' WHERE menu_id=2890 AND id=1; -- option_text: Make this inn my home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='任务给予者',box_text_loc4='' WHERE menu_id=2890 AND id=2; -- option_text: GOSSIP_OPTION_QUESTGIVER
+UPDATE locales_gossip_menu_option SET option_text_loc4='情绪低落',box_text_loc4='' WHERE menu_id=3062 AND id=0; -- option_text: Low spirits
+UPDATE locales_gossip_menu_option SET option_text_loc4='坏的挂钉',box_text_loc4='' WHERE menu_id=3062 AND id=1; -- option_text: Bad hang nail
+UPDATE locales_gossip_menu_option SET option_text_loc4='没有动力',box_text_loc4='' WHERE menu_id=3062 AND id=2; -- option_text: Feeling underpowered
+UPDATE locales_gossip_menu_option SET option_text_loc4='丛林热疫',box_text_loc4='' WHERE menu_id=3062 AND id=3; -- option_text: Jungle Fever
+UPDATE locales_gossip_menu_option SET option_text_loc4='一线眉',box_text_loc4='' WHERE menu_id=3062 AND id=4; -- option_text: Uni-brow
+UPDATE locales_gossip_menu_option SET option_text_loc4='鞭打',box_text_loc4='' WHERE menu_id=3062 AND id=5; -- option_text: Whiplash
+UPDATE locales_gossip_menu_option SET option_text_loc4='我不想回去工作',box_text_loc4='' WHERE menu_id=3062 AND id=6; -- option_text: I don\'t want to go back to work
+UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=3283 AND id=0; -- option_text: Hunter
+UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=3283 AND id=1; -- option_text: Mage
+UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=3283 AND id=2; -- option_text: Priest
+UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=3283 AND id=3; -- option_text: Rogue
+UPDATE locales_gossip_menu_option SET option_text_loc4='萨满',box_text_loc4='' WHERE menu_id=3283 AND id=4; -- option_text: Shaman
+UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=3283 AND id=5; -- option_text: Warlock
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=3283 AND id=6; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3284 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=3284 AND id=1; -- option_text: Blacksmithing
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3284 AND id=2; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3284 AND id=3; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=3284 AND id=4; -- option_text: Engineering
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3284 AND id=5; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3284 AND id=6; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3284 AND id=7; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3284 AND id=8; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=3284 AND id=9; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3284 AND id=10; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3284 AND id=11; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3285 AND id=0; -- option_text: The Bank
+UPDATE locales_gossip_menu_option SET option_text_loc4='双足飞龙管理员',box_text_loc4='' WHERE menu_id=3285 AND id=1; -- option_text: Wind Rider Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3285 AND id=2; -- option_text: The Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=3285 AND id=3; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3285 AND id=4; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3285 AND id=5; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=3329 AND id=0; -- option_text: Druid
+UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=3329 AND id=1; -- option_text: Hunter
+UPDATE locales_gossip_menu_option SET option_text_loc4='萨满',box_text_loc4='' WHERE menu_id=3329 AND id=2; -- option_text: Shaman
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=3329 AND id=3; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3330 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=3330 AND id=1; -- option_text: Blacksmithing
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3330 AND id=2; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3330 AND id=3; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3330 AND id=4; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3330 AND id=5; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3330 AND id=6; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3330 AND id=7; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=3330 AND id=8; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3330 AND id=9; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3330 AND id=10; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3331 AND id=0; -- option_text: The Bank
+UPDATE locales_gossip_menu_option SET option_text_loc4='双足飞龙管理员',box_text_loc4='' WHERE menu_id=3331 AND id=1; -- option_text: Wind Rider Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3331 AND id=2; -- option_text: The Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=3331 AND id=3; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3331 AND id=4; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3331 AND id=5; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=3354 AND id=0; -- option_text: Mage
+UPDATE locales_gossip_menu_option SET option_text_loc4='圣骑士',box_text_loc4='' WHERE menu_id=3354 AND id=1; -- option_text: Priest
+UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=3354 AND id=2; -- option_text: Rogue
+UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=3354 AND id=3; -- option_text: Warlock
+UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=3354 AND id=4; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3355 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=3355 AND id=1; -- option_text: Blacksmithing
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3355 AND id=2; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3355 AND id=3; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=3355 AND id=4; -- option_text: Engineering
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3355 AND id=5; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3355 AND id=6; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3355 AND id=7; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3355 AND id=8; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=3355 AND id=9; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3355 AND id=10; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3355 AND id=11; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3356 AND id=0; -- option_text: The Bank
+UPDATE locales_gossip_menu_option SET option_text_loc4='蝙蝠管理员',box_text_loc4='' WHERE menu_id=3356 AND id=1; -- option_text: Bat Handler
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3356 AND id=2; -- option_text: The Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=3356 AND id=3; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3356 AND id=4; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3356 AND id=5; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要其它银色黎明委任徽章',box_text_loc4='' WHERE menu_id=3421 AND id=0; -- option_text: I need another Argent Dawn Commission.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3421 AND id=1; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3461 AND id=1; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='米兰达，可否告诉我在不同的声望等级购买物品的价格吗？',box_text_loc4='' WHERE menu_id=3461 AND id=2; -- option_text: Miranda, could you please tell me the insignia cost of items that you are offering for adventurers with other reputations?
+UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3506 AND id=0; -- option_text: Bank
+UPDATE locales_gossip_menu_option SET option_text_loc4='狮鹫管理员',box_text_loc4='' WHERE menu_id=3506 AND id=1; -- option_text: Gryphon Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=3506 AND id=2; -- option_text: Guild Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3506 AND id=3; -- option_text: Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏大师',box_text_loc4='' WHERE menu_id=3506 AND id=4; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3506 AND id=5; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3506 AND id=6; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=3519 AND id=0; -- option_text: Druid
+UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=3519 AND id=1; -- option_text: Hunter
+UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=3519 AND id=2; -- option_text: Mage
+UPDATE locales_gossip_menu_option SET option_text_loc4='圣骑士',box_text_loc4='' WHERE menu_id=3519 AND id=3; -- option_text: Paladin
+UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=3519 AND id=4; -- option_text: Priest
+UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=3519 AND id=5; -- option_text: Rogue
+UPDATE locales_gossip_menu_option SET option_text_loc4='萨满',box_text_loc4='' WHERE menu_id=3519 AND id=6; -- option_text: Shaman
+UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=3519 AND id=7; -- option_text: Warlock
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=3519 AND id=8; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3532 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=3532 AND id=1; -- option_text: Blacksmithing
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3532 AND id=2; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3532 AND id=3; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=3532 AND id=4; -- option_text: Engineering
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3532 AND id=5; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3532 AND id=6; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3532 AND id=7; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3532 AND id=8; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3532 AND id=9; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=3532 AND id=10; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3532 AND id=11; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3532 AND id=12; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3533 AND id=0; -- option_text: Bank
+UPDATE locales_gossip_menu_option SET option_text_loc4='狮鹫管理员',box_text_loc4='' WHERE menu_id=3533 AND id=1; -- option_text: Gryphon Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=3533 AND id=2; -- option_text: Guild Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3533 AND id=3; -- option_text: The Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=3533 AND id=4; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3533 AND id=5; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3533 AND id=6; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=3545 AND id=0; -- option_text: Hunter
+UPDATE locales_gossip_menu_option SET option_text_loc4='法师',box_text_loc4='' WHERE menu_id=3545 AND id=1; -- option_text: Mage
+UPDATE locales_gossip_menu_option SET option_text_loc4='圣骑士',box_text_loc4='' WHERE menu_id=3545 AND id=2; -- option_text: Paladin
+UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=3545 AND id=3; -- option_text: Priest
+UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=3545 AND id=4; -- option_text: Rogue
+UPDATE locales_gossip_menu_option SET option_text_loc4='术士',box_text_loc4='' WHERE menu_id=3545 AND id=5; -- option_text: Warlock
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=3545 AND id=6; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3558 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='锻造',box_text_loc4='' WHERE menu_id=3558 AND id=1; -- option_text: Blacksmithing
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3558 AND id=2; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3558 AND id=3; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='工程学',box_text_loc4='' WHERE menu_id=3558 AND id=4; -- option_text: Engineering
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3558 AND id=5; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3558 AND id=6; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3558 AND id=7; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3558 AND id=8; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='采矿',box_text_loc4='' WHERE menu_id=3558 AND id=9; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3558 AND id=10; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3558 AND id=11; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='德鲁伊',box_text_loc4='' WHERE menu_id=3564 AND id=0; -- option_text: Druid
+UPDATE locales_gossip_menu_option SET option_text_loc4='猎人',box_text_loc4='' WHERE menu_id=3564 AND id=1; -- option_text: Hunter
+UPDATE locales_gossip_menu_option SET option_text_loc4='牧师',box_text_loc4='' WHERE menu_id=3564 AND id=2; -- option_text: Priest
+UPDATE locales_gossip_menu_option SET option_text_loc4='盗贼',box_text_loc4='' WHERE menu_id=3564 AND id=3; -- option_text: Rogue
+UPDATE locales_gossip_menu_option SET option_text_loc4='战士',box_text_loc4='' WHERE menu_id=3564 AND id=4; -- option_text: Warrior
+UPDATE locales_gossip_menu_option SET option_text_loc4='炼金术',box_text_loc4='' WHERE menu_id=3572 AND id=0; -- option_text: Alchemy
+UPDATE locales_gossip_menu_option SET option_text_loc4='烹饪',box_text_loc4='' WHERE menu_id=3572 AND id=1; -- option_text: Cooking
+UPDATE locales_gossip_menu_option SET option_text_loc4='附魔',box_text_loc4='' WHERE menu_id=3572 AND id=2; -- option_text: Enchanting
+UPDATE locales_gossip_menu_option SET option_text_loc4='急救',box_text_loc4='' WHERE menu_id=3572 AND id=3; -- option_text: First Aid
+UPDATE locales_gossip_menu_option SET option_text_loc4='钓鱼',box_text_loc4='' WHERE menu_id=3572 AND id=4; -- option_text: Fishing
+UPDATE locales_gossip_menu_option SET option_text_loc4='草药学',box_text_loc4='' WHERE menu_id=3572 AND id=5; -- option_text: Herbalism
+UPDATE locales_gossip_menu_option SET option_text_loc4='制皮',box_text_loc4='' WHERE menu_id=3572 AND id=6; -- option_text: Leatherworking
+UPDATE locales_gossip_menu_option SET option_text_loc4='剥皮',box_text_loc4='' WHERE menu_id=3572 AND id=7; -- option_text: Skinning
+UPDATE locales_gossip_menu_option SET option_text_loc4='裁缝',box_text_loc4='' WHERE menu_id=3572 AND id=8; -- option_text: Tailoring
+UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=3580 AND id=0; -- option_text: The Bank
+UPDATE locales_gossip_menu_option SET option_text_loc4='鲁瑟蓝港',box_text_loc4='' WHERE menu_id=3580 AND id=1; -- option_text: Rut\'theran Ferry
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅馆',box_text_loc4='' WHERE menu_id=3580 AND id=2; -- option_text: The Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=3580 AND id=3; -- option_text: Guild Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=3580 AND id=4; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=3580 AND id=5; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=3580 AND id=6; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='飞艇现在在哪里？',box_text_loc4='' WHERE menu_id=3841 AND id=0; -- option_text: Where is the zeppelin now?
+UPDATE locales_gossip_menu_option SET option_text_loc4='飞艇现在在哪里？',box_text_loc4='' WHERE menu_id=3842 AND id=0; -- option_text: Where is the zeppelin now?
+UPDATE locales_gossip_menu_option SET option_text_loc4='是的，奥古斯图斯。我想和你交易。',box_text_loc4='' WHERE menu_id=4085 AND id=0; -- option_text: Yes, Augustus. I would like to do business.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4106 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4107 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4123 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4135 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4150 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4163 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4174 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4209 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4281 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4282 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4301 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4302 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=4303 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4307 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4323 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4326 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4342 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=4360 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这桶白蚁放进这个盒子。',box_text_loc4='' WHERE menu_id=4362 AND id=0; -- option_text: Place Termite Barrel on the crate.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4485 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要遗忘我的天赋',box_text_loc4='' WHERE menu_id=4485 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='任务给予者',box_text_loc4='' WHERE menu_id=4485 AND id=2; -- option_text: GOSSIP_OPTION_QUESTGIVER
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我如何使用盗贼技能？',box_text_loc4='' WHERE menu_id=4659 AND id=0; -- option_text: Can you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4659 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4660 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4661 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想要乘地铁去那遥远的光明之路。',box_text_loc4='' WHERE menu_id=4664 AND id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物,迪尔格。',box_text_loc4='' WHERE menu_id=4746 AND id=0; -- option_text: I wish to browse your goods, Dirge.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看能买点什么，罗克图斯。',box_text_loc4='' WHERE menu_id=4781 AND id=0; -- option_text: Show me what I have access to, Lokhtos.
+UPDATE locales_gossip_menu_option SET option_text_loc4='请教教我。',box_text_loc4='' WHERE menu_id=4822 AND id=0; -- option_text: Please teach me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='请教教我。',box_text_loc4='' WHERE menu_id=4826 AND id=0; -- option_text: Please teach me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一些武器训练',box_text_loc4='' WHERE menu_id=5271 AND id=0; -- option_text: I\'d like some weapon training
+UPDATE locales_gossip_menu_option SET option_text_loc4='其它的武器大师能教什么？',box_text_loc4='' WHERE menu_id=5271 AND id=1; -- option_text: What can other weapon masters teach?
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=5665 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=5853 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=5855 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要看看你的物品。',box_text_loc4='' WHERE menu_id=5962 AND id=0; -- option_text: I wish to browse your wares.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要一个坐骑。',box_text_loc4='' WHERE menu_id=6023 AND id=0; -- option_text: I need a ride.
+UPDATE locales_gossip_menu_option SET option_text_loc4='当暗月马戏团到来时，他们会在哪里扎营？',box_text_loc4='' WHERE menu_id=6214 AND id=0; -- option_text: When the Darkmoon Faire arrives, where will it be located?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你不能处理一个孤独的暗夜精灵女祭司？',box_text_loc4='' WHERE menu_id=6556 AND id=0; -- option_text: You couldn\'t handle a lone night elf priestess?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你还要说什么？',box_text_loc4='' WHERE menu_id=6586 AND id=0; -- option_text: And what do you say?
+UPDATE locales_gossip_menu_option SET option_text_loc4='他们要说什么呢？',box_text_loc4='' WHERE menu_id=6587 AND id=0; -- option_text: What do they say?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你怎么知道的？',box_text_loc4='' WHERE menu_id=6588 AND id=0; -- option_text: How do you know?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6599 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6602 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6603 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6604 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6605 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6606 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6607 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6608 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6609 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6610 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6612 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6613 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6614 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6615 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是联盟的荣誉印章？',box_text_loc4='' WHERE menu_id=6616 AND id=0; -- option_text: What is an Alliance Commendation Signet?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6671 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6672 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6673 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6674 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6675 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6676 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6696 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6700 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6702 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6704 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6708 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6710 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6712 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6714 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6716 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6718 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6720 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6722 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6724 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6726 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6771 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6773 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6774 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6775 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6776 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想问你一些事情。',box_text_loc4='' WHERE menu_id=6777 AND id=0; -- option_text: I want to ask you about something else.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看哪里可以飞行',box_text_loc4='' WHERE menu_id=6944 AND id=0; -- option_text: Show me where I can fly.
+UPDATE locales_gossip_menu_option SET option_text_loc4='拍卖行',box_text_loc4='' WHERE menu_id=10265 AND id=0; -- option_text: Auction House
+UPDATE locales_gossip_menu_option SET option_text_loc4='银行',box_text_loc4='' WHERE menu_id=10265 AND id=1; -- option_text: The Bank
+UPDATE locales_gossip_menu_option SET option_text_loc4='角鹰兽管理员',box_text_loc4='' WHERE menu_id=10265 AND id=2; -- option_text: Hippogryph Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='公会管理员',box_text_loc4='' WHERE menu_id=10265 AND id=3; -- option_text: Guild Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='旅店',box_text_loc4='' WHERE menu_id=10265 AND id=4; -- option_text: The Inn
+UPDATE locales_gossip_menu_option SET option_text_loc4='邮箱',box_text_loc4='' WHERE menu_id=10265 AND id=5; -- option_text: Mailbox
+UPDATE locales_gossip_menu_option SET option_text_loc4='兽栏管理员',box_text_loc4='' WHERE menu_id=10265 AND id=6; -- option_text: Stable Master
+UPDATE locales_gossip_menu_option SET option_text_loc4='武器训练师',box_text_loc4='' WHERE menu_id=10265 AND id=7; -- option_text: Weapons Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='战场大师',box_text_loc4='' WHERE menu_id=10265 AND id=8; -- option_text: Battlemaster
+UPDATE locales_gossip_menu_option SET option_text_loc4='职业训练师',box_text_loc4='' WHERE menu_id=10265 AND id=9; -- option_text: Class Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='专业训练师',box_text_loc4='' WHERE menu_id=10265 AND id=10; -- option_text: Profession Trainer
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=523 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=523 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么是“地下生物矩阵形”？',box_text_loc4='' WHERE menu_id=561 AND id=0; -- option_text: What is a "subterranean being matrix"?
+UPDATE locales_gossip_menu_option SET option_text_loc4='谁是土灵？',box_text_loc4='' WHERE menu_id=562 AND id=0; -- option_text: Who are the Earthen?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你所说的异常是什么？',box_text_loc4='' WHERE menu_id=563 AND id=0; -- option_text: What are the anomalies you speak of?
+UPDATE locales_gossip_menu_option SET option_text_loc4='“建筑的弹性基础”是什么？',box_text_loc4='' WHERE menu_id=564 AND id=0; -- option_text: What is a "resilient foundation of construction"?
+UPDATE locales_gossip_menu_option SET option_text_loc4='所以…这些土灵是用石头做的吗？',box_text_loc4='' WHERE menu_id=565 AND id=0; -- option_text: So... the Earthen were made out of stone?
+UPDATE locales_gossip_menu_option SET option_text_loc4='还有什么我应该知道关于土灵的吗？',box_text_loc4='' WHERE menu_id=566 AND id=0; -- option_text: Anything else I should know about the Earthen?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想我明白了现在的创造者的设计意图。你刚才谈到的土灵的异常是什么？',box_text_loc4='' WHERE menu_id=567 AND id=0; -- option_text: I think I understand the Creators\' design intent for the Earthen now.  What are the Earthen\'s anomalies that you spoke of earlier?
+UPDATE locales_gossip_menu_option SET option_text_loc4='什么高压力环境会导致土灵的破坏？',box_text_loc4='' WHERE menu_id=568 AND id=0; -- option_text: What high-stress environments would cause the Earthen to destabilize?
+UPDATE locales_gossip_menu_option SET option_text_loc4='当土灵不稳定时会发生什么？',box_text_loc4='' WHERE menu_id=569 AND id=0; -- option_text: What happens when the Earthen destabilize?
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=597 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=655 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=655 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=656 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=656 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=657 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=660 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=681 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=687 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=692 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=693 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=703 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=708 AND id=1; -- option_text: I want to create a guild crest.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=900 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=1022 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=1120 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=1262 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=1290 AND id=2; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1290 AND id=3; -- option_text: What can I do at an inn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=1294 AND id=1; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=1294 AND id=2; -- option_text: What can I do at an inn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1294 AND id=3; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=1403 AND id=2; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=1465 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=1503 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=1522 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=1582 AND id=2; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=1626 AND id=0; -- option_text: I want to create a guild crest.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=1964 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=2384 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=2385 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=2242 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=2304 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=2381 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=2383 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=2741 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=2781 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=2952 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3161 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3162 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3185 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3186 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=3441 AND id=1; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3644 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=3645 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3645 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3921 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3923 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3924 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3925 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3926 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=3984 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=3984 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4001 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4004 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4005 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4006 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4007 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4009 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4010 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4011 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4012 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4014 AND id=0; -- option_text: I seek training to ride a steed.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4015 AND id=0; -- option_text: I seek training to ride a steed.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4017 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4018 AND id=0; -- option_text: I seek training to ride a steed.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4019 AND id=0; -- option_text: I seek training to ride a steed.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4021 AND id=0; -- option_text: I seek training to ride a steed.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=4022 AND id=0; -- option_text: I seek training to ride a steed.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4023 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4090 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4091 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4092 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4101 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4103 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4104 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4115 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4126 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4145 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4185 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4205 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4242 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4261 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=4283 AND id=0; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=4304 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=4305 AND id=0; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4345 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4348 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4349 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4351 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4353 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=4359 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=4361 AND id=0; -- option_text: I would like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4468 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4469 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4470 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4471 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4472 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4473 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4474 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4484 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4484 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4486 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4486 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=4502 AND id=0; -- option_text: Can you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4502 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4502 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4503 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4504 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4505 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4506 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4507 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4508 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4509 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4509 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4510 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4510 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4511 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4511 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4512 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4512 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4513 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4513 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4515 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4516 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4521 AND id=0; -- option_text: I seek more training in the priestly ways.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4521 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4522 AND id=0; -- option_text: I seek more training in the priestly ways.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4522 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4523 AND id=0; -- option_text: I seek more training in the priestly ways.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4523 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4524 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4525 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4525 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4526 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4526 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4527 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4527 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4528 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4529 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4530 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4531 AND id=0; -- option_text: I seek more training in the priestly ways.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4531 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4532 AND id=0; -- option_text: I seek more training in the priestly ways.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4532 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4533 AND id=0; -- option_text: I seek more training in the priestly ways.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4533 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4534 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4534 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4535 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4535 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4536 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4536 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4537 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4537 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4538 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4538 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4539 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4539 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4540 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4540 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4541 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4541 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4542 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4542 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4543 AND id=1; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4543 AND id=2; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4544 AND id=0; -- option_text: I seek more training in the priestly ways.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4544 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4545 AND id=1; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4545 AND id=2; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4546 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4546 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4547 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4547 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4548 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4548 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4549 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4550 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4551 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4552 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4552 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4553 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4553 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4556 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4557 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4561 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4561 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4562 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4562 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4567 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4568 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4568 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4569 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4569 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4570 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4570 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4571 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=4576 AND id=0; -- option_text: Can you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4576 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4576 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4578 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4578 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4603 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4604 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4605 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4606 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4607 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4609 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我提交进一步训练我的大师。',box_text_loc4='' WHERE menu_id=4610 AND id=0; -- option_text: I submit myself for further training my master.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4610 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4621 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4641 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4642 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4643 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4644 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4645 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4645 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4647 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4648 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4649 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4649 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4650 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4650 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4652 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4653 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4653 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4654 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4654 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我提交进一步训练我的大师。',box_text_loc4='' WHERE menu_id=4655 AND id=0; -- option_text: I submit myself for further training my master.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4655 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我提交进一步训练我的大师。',box_text_loc4='' WHERE menu_id=4656 AND id=0; -- option_text: I submit myself for further training my master.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4656 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4657 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=4658 AND id=0; -- option_text: Can you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4658 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4658 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4659 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4660 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4661 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10115 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=10181 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=10188 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10350 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10350 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10351 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10351 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10359 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10359 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10361 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10361 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10362 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10362 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10363 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10363 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10364 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10364 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=10365 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=10365 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=10392 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=10392 AND id=1; -- option_text: I want to create a guild crest.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9832 AND id=0; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=9833 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=9833 AND id=1; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=9866 AND id=0; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9866 AND id=2; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=9879 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9879 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=10723 AND id=0; -- option_text: I seek training to ride a steed.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=12056 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=12726 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='梦境？',box_text_loc4='' WHERE menu_id=50304 AND id=0; -- option_text: Dreams?
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9123 AND id=2; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=9131 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=9132 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9174 AND id=0; -- option_text: Go on.
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9175 AND id=0; -- option_text: Go on.
+UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9175 AND id=1; -- option_text: Wait, back up. What was that last thing you said?
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9176 AND id=0; -- option_text: Go on.
+UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9176 AND id=1; -- option_text: Wait, back up. What was that last thing you said?
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9177 AND id=0; -- option_text: Go on.
+UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9177 AND id=1; -- option_text: Wait, back up. What was that last thing you said?
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9178 AND id=0; -- option_text: Go on.
+UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9178 AND id=1; -- option_text: Wait, back up. What was that last thing you said?
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9179 AND id=0; -- option_text: Go on.
+UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9179 AND id=1; -- option_text: Wait, back up. What was that last thing you said?
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9180 AND id=0; -- option_text: Go on.
+UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9180 AND id=1; -- option_text: Wait, back up. What was that last thing you said?
+UPDATE locales_gossip_menu_option SET option_text_loc4='继续。' ,box_text_loc4='' WHERE menu_id=9181 AND id=0; -- option_text: Go on.
+UPDATE locales_gossip_menu_option SET option_text_loc4='等等，后退。你说的最后一件事是什么？',box_text_loc4='' WHERE menu_id=9181 AND id=1; -- option_text: Wait, back up. What was that last thing you said?
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9427 AND id=2; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9453 AND id=0; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9476 AND id=1; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=9476 AND id=2; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9478 AND id=2; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=9480 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7146 AND id=0; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=7173 AND id=0; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=7173 AND id=1; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=7173 AND id=2; -- option_text: What can I do at an inn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4662 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4663 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4664 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要更多牧师的训练方法。',box_text_loc4='' WHERE menu_id=4665 AND id=0; -- option_text: I seek more training in the priestly ways.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4665 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4666 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4667 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4674 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4675 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=4676 AND id=0; -- option_text: Can you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4676 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4676 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4677 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4678 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4680 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4681 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4682 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4683 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4683 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4684 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4684 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对法师的训练感兴趣。',box_text_loc4='' WHERE menu_id=4685 AND id=0; -- option_text: I am interested in mage training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4685 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4687 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4688 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4690 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=4690 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4691 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4693 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4694 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4695 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要战士训练。',box_text_loc4='' WHERE menu_id=4697 AND id=0; -- option_text: I require warrior training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=4697 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=4842 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=4845 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你能教我怎样使用盗贼技能吗？',box_text_loc4='' WHERE menu_id=5061 AND id=0; -- option_text: Can you train me how to use rogue skills?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=5061 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='<取信>',box_text_loc4='' WHERE menu_id=5061 AND id=4; -- option_text: <Take the letter>
+UPDATE locales_gossip_menu_option SET option_text_loc4='教我精神之道。',box_text_loc4='' WHERE menu_id=5123 AND id=0; -- option_text: Teach me the ways of the spirits.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想忘掉我的天赋。',box_text_loc4='' WHERE menu_id=5123 AND id=1; -- option_text: I wish to unlearn my talents.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=5461 AND id=0; -- option_text: I want to create a guild crest.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=5462 AND id=0; -- option_text: I want to create a guild crest.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=5542 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=5854 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=5856 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=6059 AND id=0; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=6059 AND id=1; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我能在旅馆里做些什么？',box_text_loc4='' WHERE menu_id=6059 AND id=2; -- option_text: What can I do at an inn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=6202 AND id=0; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6282 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6459 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6460 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6461 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6462 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6463 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6464 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6465 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6466 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6467 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6468 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6469 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6470 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6471 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6472 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6473 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6474 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6475 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战斗！',box_text_loc4='' WHERE menu_id=6478 AND id=0; -- option_text: I wish to join the battle!
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=6484 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战斗！',box_text_loc4='' WHERE menu_id=6490 AND id=0; -- option_text: I wish to join the battle!
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战斗！',box_text_loc4='' WHERE menu_id=6508 AND id=0; -- option_text: I wish to join the battle!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=6525 AND id=3; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=6526 AND id=0; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=6527 AND id=0; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=6917 AND id=2; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=6924 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=7396 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=7446 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想生成一个工会会徽。',box_text_loc4='' WHERE menu_id=7487 AND id=0; -- option_text: I want to create a guild crest.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=7611 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=7628 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=7690 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=7691 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=7810 AND id=0; -- option_text: I would like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7810 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=7816 AND id=0; -- option_text: I would like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7816 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7817 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7818 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=7842 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=7879 AND id=0; -- option_text: I would like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7879 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=7883 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=7884 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7900 AND id=0; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=7937 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=7952 AND id=1; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=7952 AND id=2; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=8077 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8243 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8249 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=8382 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战场。',box_text_loc4='' WHERE menu_id=8453 AND id=0; -- option_text: I would like to go to the battleground.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想加入战斗！',box_text_loc4='' WHERE menu_id=8462 AND id=0; -- option_text: I wish to join the battle!
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=8519 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=8522 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=8540 AND id=0; -- option_text: I would like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我需要训练坐骑骑术。',box_text_loc4='' WHERE menu_id=8622 AND id=0; -- option_text: I seek training to ride a steed.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=8760 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8770 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8771 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8772 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要训练。',box_text_loc4='' WHERE menu_id=8802 AND id=0; -- option_text: I would like to train.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=8868 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=8884 AND id=2; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=8971 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9218 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9245 AND id=0; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9245 AND id=1; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=9245 AND id=2; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9299 AND id=1; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9495 AND id=0; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9632 AND id=0; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！',box_text_loc4='' WHERE menu_id=9733 AND id=0; -- option_text: Trick or Treat!
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9733 AND id=1; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9733 AND id=2; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='训练我。',box_text_loc4='' WHERE menu_id=9750 AND id=0; -- option_text: Train me.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9763 AND id=0; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你的家。',box_text_loc4='' WHERE menu_id=9763 AND id=1; -- option_text: Make this inn your home.
+UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。',box_text_loc4='' WHERE menu_id=9763 AND id=2; -- option_text: Let me browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我要从你那儿买点东西。',box_text_loc4='' WHERE menu_id=9798 AND id=0; -- option_text: I would like to buy from you.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想看看你的货物。',box_text_loc4='' WHERE menu_id=10598 AND id=0; -- option_text: I want to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='是的，先生。谢谢您，先生！',box_text_loc4='' WHERE menu_id=50308 AND id=0; -- option_text: Yes, sir. Thank you, sir!
+UPDATE locales_gossip_menu_option SET option_text_loc4='穴居人吗？！你提到了穴居人在今天的这个世界？',box_text_loc4='' WHERE menu_id=570 AND id=0; -- option_text: Troggs?!  Are the troggs you mention the same as the ones in the world today?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你提到了两个结果，当土灵不稳定。其次是什么？',box_text_loc4='' WHERE menu_id=571 AND id=0; -- option_text: You mentioned two results when the Earthen destabilize.  What is the second?
+UPDATE locales_gossip_menu_option SET option_text_loc4='矮人！！！现在你告诉我，小矮人最初来自瓦？！',box_text_loc4='' WHERE menu_id=572 AND id=0; -- option_text: Dwarves!!!  Now you're telling me that dwarves originally came from the Earthen?!
+UPDATE locales_gossip_menu_option SET option_text_loc4='这些矮人是今天是同一个，是吗？土灵与矮人保持着任何其他的联系？',box_text_loc4='' WHERE menu_id=573 AND id=0; -- option_text: These dwarves are the same ones today, yes?  Do dwarves maintain any other links to the Earthen?
+UPDATE locales_gossip_menu_option SET option_text_loc4='谁是创造者？',box_text_loc4='' WHERE menu_id=574 AND id=0; -- option_text: Who are the Creators?
+UPDATE locales_gossip_menu_option SET option_text_loc4='这要好好考虑一下。',box_text_loc4='' WHERE menu_id=575 AND id=0; -- option_text: This is a lot to think about.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我现在将访问圆盘。',box_text_loc4='' WHERE menu_id=576 AND id=0; -- option_text: I will access the discs now.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想检查一下我的储物箱。',box_text_loc4='' WHERE menu_id=699 AND id=0; -- option_text: I would like to check my deposit box.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我如何建立一个工会？',box_text_loc4='' WHERE menu_id=708 AND id=0; -- option_text: How do I form a guild?
+UPDATE locales_gossip_menu_option SET option_text_loc4='请告诉我更多关于戈杜尼食人魔。',box_text_loc4='' WHERE menu_id=942 AND id=1; -- option_text: Please tell me more about the Gordunni ogres.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你好索维克，我希望浏览你的商品。',box_text_loc4='' WHERE menu_id=980 AND id=0; -- option_text: Hello Sovik, I wish to browse your goods.
+UPDATE locales_gossip_menu_option SET option_text_loc4='获得更高级别的访问卡',box_text_loc4='' WHERE menu_id=1045 AND id=0; -- option_text: Acquire Higher Level Access Card
+UPDATE locales_gossip_menu_option SET option_text_loc4='获得更高级别的访问卡',box_text_loc4='' WHERE menu_id=1047 AND id=0; -- option_text: Acquire Higher Level Access Card
+UPDATE locales_gossip_menu_option SET option_text_loc4='使用工程来访问隐藏的原理图！',box_text_loc4='' WHERE menu_id=1047 AND id=1; -- option_text: Use engineering to access hidden schematics!
+UPDATE locales_gossip_menu_option SET option_text_loc4='获得更高级别的访问卡',box_text_loc4='' WHERE menu_id=1049 AND id=0; -- option_text: Acquire Higher Level Access Card
+UPDATE locales_gossip_menu_option SET option_text_loc4='获取高级数据卡。',box_text_loc4='' WHERE menu_id=1050 AND id=0; -- option_text: Acquire high level data card.
+UPDATE locales_gossip_menu_option SET option_text_loc4='使用工程来访问隐藏的原理图！',box_text_loc4='' WHERE menu_id=1050 AND id=1; -- option_text: Use engineering to access hidden schematics!
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我关于减少。',box_text_loc4='' WHERE menu_id=1141 AND id=0; -- option_text: Tell me about the reduction.
+UPDATE locales_gossip_menu_option SET option_text_loc4='告诉我更多，特伦顿。',box_text_loc4='' WHERE menu_id=1142 AND id=0; -- option_text: Tell me more, Trenton.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你听到的树荫旅店的什么？',box_text_loc4='' WHERE menu_id=1161 AND id=0; -- option_text: What have you heard of the Shady Rest Inn?
+UPDATE locales_gossip_menu_option SET option_text_loc4='燃烧的旅店。',box_text_loc4='' WHERE menu_id=1186 AND id=0; -- option_text: The Burning Inn.
+UPDATE locales_gossip_menu_option SET option_text_loc4='帕瓦尔·雷瑟。',box_text_loc4='' WHERE menu_id=1186 AND id=1; -- option_text: Paval Reethe.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想浏览你的商品。',box_text_loc4='' WHERE menu_id=1301 AND id=0; -- option_text: I wish to browse your wares.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我在这里训练。',box_text_loc4='' WHERE menu_id=1403 AND id=0; -- option_text: I am here for training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想购买更多的萨伦迪斯种子。',box_text_loc4='' WHERE menu_id=1403 AND id=1; -- option_text: I'd like to purchase more Tharlendris seeds.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=1503 AND id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=1522 AND id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我希望面对污染者。',box_text_loc4='' WHERE menu_id=1541 AND id=0; -- option_text: I wish to face the Defiler.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我如何建立一个工会？',box_text_loc4='' WHERE menu_id=1626 AND id=1; -- option_text: How do I form a guild?
+UPDATE locales_gossip_menu_option SET option_text_loc4='太神奇了!我从来没有和一个幽灵说话。我想学习！',box_text_loc4='' WHERE menu_id=1663 AND id=0; -- option_text: Amazing! I've never spoken to a ghost. I wish to learn!
+UPDATE locales_gossip_menu_option SET option_text_loc4='请继续。',box_text_loc4='' WHERE menu_id=1664 AND id=0; -- option_text: Continue please.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想购买更多的萨伦迪斯种子。',box_text_loc4='' WHERE menu_id=1701 AND id=0; -- option_text: I'd like to purchase more Tharlendris seeds.
+UPDATE locales_gossip_menu_option SET option_text_loc4='买一些东西\', will ya?',box_text_loc4='' WHERE menu_id=1802 AND id=0; -- option_text: Buy somethin', will ya?
+UPDATE locales_gossip_menu_option SET option_text_loc4='你的束缚结束了，杜姆雷尔。我挑战你！',box_text_loc4='' WHERE menu_id=1947 AND id=0; -- option_text: Your bondage is at an end, Doom'rel.  I challenge you!
+UPDATE locales_gossip_menu_option SET option_text_loc4='这是谁的拉克维你说呢？',box_text_loc4='' WHERE menu_id=2188 AND id=0; -- option_text: Who is this Lar'korwi you spoke of?
+UPDATE locales_gossip_menu_option SET option_text_loc4='我必须训练以便在圣光之路走得更远。',box_text_loc4='' WHERE menu_id=2304 AND id=0; -- option_text: I would like to train further in the ways of the Light.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=2381 AND id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=2383 AND id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我对术士的训练感兴趣。',box_text_loc4='' WHERE menu_id=2384 AND id=0; -- option_text: I am interested in warlock training.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我想检查一下我的储物箱。',box_text_loc4='' WHERE menu_id=2404 AND id=0; -- option_text: I would like to check my deposit box.
+UPDATE locales_gossip_menu_option SET option_text_loc4='你怎么看达丹加？',box_text_loc4='' WHERE menu_id=2422 AND id=0; -- option_text: What do you think of Dadanga?
+UPDATE locales_gossip_menu_option SET option_text_loc4='对玛雷弗斯，我猜。',box_text_loc4='' WHERE menu_id=2945 AND id=0; -- option_text: To Malyfous, I assume.
+UPDATE locales_gossip_menu_option SET option_text_loc4='我会考虑下一次我遇到的这些事情。',box_text_loc4='' WHERE menu_id=2946 AND id=0; -- option_text: I'll consider that the next time I run into one of these things.
 UPDATE locales_gossip_menu_option SET option_text_loc4='哦？',box_text_loc4='' WHERE menu_id=2947 and id=0; -- option_text: Oh?
 UPDATE locales_gossip_menu_option SET option_text_loc4='我必须知道的东西：在那件事上你怎么去的浴室？ ',box_text_loc4='' WHERE menu_id=2948 and id=0; -- option_text: I must know something: How did you go to the bathroom with that thing on?
 UPDATE locales_gossip_menu_option SET option_text_loc4='所以让我得到这个。你正在游泳，而且，在熔岩中仰泳这…这是你的熔岩套装？是吗？然后突然冒出来，这野兽吞噬了你的全部？',box_text_loc4='' WHERE menu_id=2949 and id=0; -- option_text: So let me get this straight. You were swimming, nay, doing backstrokes in molten lava with this... this lava suit of yours? Yes? And out of nowhere, this here beast swallowed you whole?

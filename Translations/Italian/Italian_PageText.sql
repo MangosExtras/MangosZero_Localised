@@ -89,4 +89,58 @@ UPDATE locales_page_Text SET text_loc9='Avendo conosciuto personalmente Edwin Va
 Maestro Mathias Shaw
 Gilda Assassini di Stormwind' WHERE entry=43;
 UPDATE locales_page_Text SET text_loc9='Avendo conosciuto personalmente Edwin VanCleef nella mia vita, Posso dirti che fronteggiarlo come nemico è un\'impresa quantomeno scoraggiante.  Vedi, era un mio amico d\'infanzia, e l\'ho personalmente addestrate nelle vie dell\'ombra pensando che un giorno potesse considerare una carriera al mio fianco.  Se VanCleef è a capo della Fratellanza Defias, che la Luce possa avere pietà delle nostre anime. Maestro Mathias Shaw Gilda Assassini di Stormwind ' WHERE entry=44;
+UPDATE locales_page_Text SET text_loc9='Bel lavoro, compare!  Ora dobbiamo dirigerci ad est.  Ad est delle scogliere, ad est alla strada.  Cerca i resti di un vecchio camino vicino al lato della strada.  Lì troverai un vecchio barile con il tuo prossimo indizio dentro. ' WHERE entry=45;
+UPDATE locales_page_Text SET text_loc9='Ora da questo barile, rivolgiti a Nord.  Diritto come volano i corvi, continua a camminare finchè non vedi una damigiana vuota vicino ad un mulino a vento solitario sulle scogliere del mare.  Se cerchi attorno alla damigiana, potresti trovare ciò che stai cercando. ' WHERE entry=46;
+UPDATE locales_page_Text SET text_loc9='Ora che hai trovato la mia vecchia damigiana di whiskey, sei quasi al tesoro!  Volgiti ad Ovest dalla bottiglia e scendi verso la riva.  Una volta che arrivi all\'acqua, prosegui!  Nuota ad ovest finchè non trovi l\'isola con il mio baule del tesoro! ' WHERE entry=47;
+UPDATE locales_page_Text SET text_loc9='Blacknails-- Il Mare ci aspetta.  Abbiamo bisogno delle tue provviste dal Nord.  Impacchetta tutto: ogni binario, ogni secchio.  Abbiamo bisogno di metallo.  Attendiamo un carico da BB ma è molto in ritardo.  Vienimi in aiuto, Blacknails.  Manda i tuoi rifornimenti direttamente al "granaio" questa volta.  Non c\'è tempo da perdere. --VanCleef ' WHERE entry=48;
+UPDATE locales_page_Text SET text_loc9='Lord Stoutmantle -- La città di Lakeshire chiede umilmente l\'aiuto della vostra milizia.  Mentre sto scrivend, ci troviamo sotto assedio sia dagli Orchi Blackrock che dagli gnoll Shadowhide di Morganth.  Non manderei una richiesta d\'aiuto se la situazione non fosse grave.  Attendiamo aiuto da Stormwind ma finchè tale aiuto non arriva, vi prego di darci supporto.  Una volta fatta una breccia nel Regno, tutta l\'Umanità è in pericolo. Magistrato Solomon ' WHERE entry=49;
+UPDATE locales_page_Text SET text_loc9='Vostro Onore-- Tutte le Westfall piangono per le vostre perdite,  ma siamo tormentati dalla nostra guerra personale nelle Westfall.  I contadini sono stati scacciati da ladri e golem meccanici.  Stormwind ha ritirato le sue truppe, lasciando la gente indifesa.  Ho radunato la Milizia Popolare sulla scia dell\'abbandono da parte di Stormwind per salvare ciò che resta di questa terra.  Mandare la Milizia a Redridge vorrebbe certamente dire condannare le Westfall a un destino certo. Con rammarico, Gryan Stoutmantle ' WHERE entry=50;
+UPDATE locales_page_Text SET text_loc9='Lord Ebonlocke-- La Città  di Lakeshire richiede umilmente l\'aiuto della Guardia Notturna.  Siamo sotto assedio dagli Orchi Blackrock e dagli gnoll Shadowhide di Morganth.  Non manderei una richiesta d\'aiuto se la situazione non fosse grave.  Attendiamo aiuto da Stormwind ma finchè tale aiuto non arriva, vi prego di darci supporto.  Una volta fatta una breccia nel Regno, tutta l\'Umanità è in pericolo. Magistrato Solomon ' WHERE entry=51;
+UPDATE locales_page_Text SET text_loc9='Vostro Onore--
+
+mi rincresce informarvi che la Guardia Notturna è impossibilitata a lasciare la sua postazione di Darkshire in questo momento.  Forse non sapevate che Stormwind non fornisce più supporto militare in questa regione.  La Guardia Notturna è stata creata ed addestrata totalmente dalle genti della foresta con lo scopo di difendere Darkshire in assenza di Stormwind.  Senza la Guardia, la città cadrebbe.  Vi auguro buona fortuna nella vostra grave condizione.
+
+--Lord Ello Ebonlocke
+' WHERE entry=52;
+UPDATE locales_page_Text SET text_loc9='Le lettere su questa lettera sembrano tremolare e ballare sulla sua superficie.  È impossibile ricavare un significato da esse...' WHERE entry=53;
+UPDATE locales_page_Text SET text_loc9='Saluti Ello Ebonlocke, Sindaco di Darkshire.  Temo di avere notizioe per la sua città.  Cattive notizie.
+
+Vedete, sono un creatore.  Ho ingannato il messaggero di questa lettera ad aiutarmi nella mia ultima, più terribile creazione - un mostro di carne ed ossa e metallo contorto!  Mentre state leggendo, si trova probabilmente fuori dalla mia umile dimora, digrignango gi denti ed aspettando un mio ordine per avanzare e fare una strage.
+
+Ma lo vedrete presto.
+
+-L\'Imbalsamatore' WHERE entry=54;
+UPDATE locales_page_Text SET text_loc9='Questo è un atto di espansione di terra nella regione delle Westfall.  Autorizza le persone sottostanti ai diritti di possesso dell\'area designata, a tutti gli strumenti prodotti e ad ogni struttura costruita entro i suoi confini.
+
+Il documento è firmato da:
+
+    Theodore Furlbrow
+    Verna Furlbrow' WHERE entry=55;
+UPDATE locales_page_Text SET text_loc9='[Le parole sottostanti sono state velocemente scarabocchiate sul retro dell\'atto]
+
+Abbiamo fatto pressione ai Furlbrow e abbiamo ottenuto questo atto.  Abbiamo pensato ti potesse servire se volessi falsificarne uno per i tuoi propositi.  I Furlbrows non ci daranno problemi.  L\'ultima volta che gli ho visti erano quasi fuori dalle Westfall, bloccati con un carro rotto.' WHERE entry=56;
+UPDATE locales_page_Text SET text_loc9='[Le parole sottostanti sono state velocemente scarabocchiate sul retro dell\'atto] Abbiamo fatto pressione ai Furlbrow e abbiamo ottenuto questo atto.  Abbiamo pensato ti potesse servire se volessi falsificarne uno per i tuoi propositi.  I Furlbrows non ci daranno problemi.  L\'ultima volta che gli ho visti erano quasi fuori dalle Westfall, bloccati con un carro rotto. ' WHERE entry=57;
+UPDATE locales_page_Text SET text_loc9='Una Luna splende sopra la Valle
+Proiettando la sua luce sopra la giungla
+Dove orgogliosi Guerrieri rispondono alla chiamata
+Per difendere la nostra nazione e i nostri sacri terreni. 
+
+Una Luna splende sopra la Valle
+Oltre le grida di battaglia
+Dove è versato sangue
+Di nemici e compagni.' WHERE entry=58;
+UPDATE locales_page_Text SET text_loc9='E quando i nostri fratelli se ne vanno
+Nei regni oltre la conoscenza
+L\'anima si rafforza
+In profondità sotto la Valle.
+
+E quando i nostri fratelli se ne vanno
+Nel Tempio della Montagna
+Proteggeremo il loro spirito eterno
+Racchiuso nel sacro cristallo blu.
+
+E quando i nostri fratelli se ne vanno
+Una Luna splende sopra la Valle.' WHERE entry=59;
+UPDATE locales_page_Text SET text_loc9='E quando i nostri fratelli se ne vanno Nei regni oltre la conoscenza L\'anima si rafforza In profondità sotto la Valle. E quando i nostri fratelli se ne vanno Nel Tempio della Montagna Proteggeremo il loro spirito eterno Racchiuso nel sacro cristallo blu. E quando i nostri fratelli se ne vanno Una Luna splende sopra la Valle. ' WHERE entry=61;
+UPDATE locales_page_Text SET text_loc9='Per la luna e il fuoco, Per la carne e le ossa, Scritto col sangue, Intagliato nella pietra. Lascia questo posto O incontra il tuo fato La Morte è di guardai Sulla Tomba dell\'Imperatore. ' WHERE entry=62;
 SET NAMES 'latin1';
