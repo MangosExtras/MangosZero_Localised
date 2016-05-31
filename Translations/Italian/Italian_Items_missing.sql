@@ -1,54 +1,5 @@
 SET NAMES 'utf8';
-UPDATE locales_item SET name_loc9='Martin Fury',description_loc9='' WHERE entry=17; -- Name: Martin Fury
-UPDATE locales_item SET name_loc9='Worn Shortsword',description_loc9='' WHERE entry=25; -- Name: Worn Shortsword
-UPDATE locales_item SET name_loc9='Bent Staff',description_loc9='' WHERE entry=35; -- Name: Bent Staff
-UPDATE locales_item SET name_loc9='Worn Mace',description_loc9='' WHERE entry=36; -- Name: Worn Mace
-UPDATE locales_item SET name_loc9='Worn Axe',description_loc9='' WHERE entry=37; -- Name: Worn Axe
-UPDATE locales_item SET name_loc9='Recruit\'s Shirt',description_loc9='' WHERE entry=38; -- Name: Recruit's Shirt
-UPDATE locales_item SET name_loc9='Recruit\'s Pants',description_loc9='' WHERE entry=39; -- Name: Recruit's Pants
-UPDATE locales_item SET name_loc9='Recruit\'s Boots',description_loc9='' WHERE entry=40; -- Name: Recruit's Boots
-UPDATE locales_item SET name_loc9='Squire\'s Boots',description_loc9='' WHERE entry=43; -- Name: Squire's Boots
-UPDATE locales_item SET name_loc9='Squire\'s Pants',description_loc9='' WHERE entry=44; -- Name: Squire's Pants
-UPDATE locales_item SET name_loc9='Squire\'s Shirt',description_loc9='' WHERE entry=45; -- Name: Squire's Shirt
-UPDATE locales_item SET name_loc9='Footpad\'s Shoes',description_loc9='' WHERE entry=47; -- Name: Footpad's Shoes
-UPDATE locales_item SET name_loc9='Footpad\'s Pants',description_loc9='' WHERE entry=48; -- Name: Footpad's Pants
-UPDATE locales_item SET name_loc9='Footpad\'s Shirt',description_loc9='' WHERE entry=49; -- Name: Footpad's Shirt
-UPDATE locales_item SET name_loc9='Neophyte\'s Boots',description_loc9='' WHERE entry=51; -- Name: Neophyte's Boots
-UPDATE locales_item SET name_loc9='Neophyte\'s Pants',description_loc9='' WHERE entry=52; -- Name: Neophyte's Pants
-UPDATE locales_item SET name_loc9='Neophyte\'s Shirt',description_loc9='' WHERE entry=53; -- Name: Neophyte's Shirt
-UPDATE locales_item SET name_loc9='Apprentice\'s Boots',description_loc9='' WHERE entry=55; -- Name: Apprentice's Boots
-UPDATE locales_item SET name_loc9='Apprentice\'s Robe',description_loc9='' WHERE entry=56; -- Name: Apprentice's Robe
-UPDATE locales_item SET name_loc9='Acolyte\'s Robe',description_loc9='' WHERE entry=57; -- Name: Acolyte's Robe
-UPDATE locales_item SET name_loc9='Acolyte\'s Shoes',description_loc9='' WHERE entry=59; -- Name: Acolyte's Shoes
-UPDATE locales_item SET name_loc9='Layered Tunic',description_loc9='' WHERE entry=60; -- Name: Layered Tunic
-UPDATE locales_item SET name_loc9='Dwarven Leather Pants',description_loc9='' WHERE entry=61; -- Name: Dwarven Leather Pants
-UPDATE locales_item SET name_loc9='Dwarven Cloth Britches',description_loc9='' WHERE entry=79; -- Name: Dwarven Cloth Britches
-UPDATE locales_item SET name_loc9='Soft Fur-lined Shoes',description_loc9='' WHERE entry=80; -- Name: Soft Fur-lined Shoes
-UPDATE locales_item SET name_loc9='Dirty Leather Vest',description_loc9='' WHERE entry=85; -- Name: Dirty Leather Vest
-UPDATE locales_item SET name_loc9='Tough Jerky',description_loc9='' WHERE entry=117; -- Name: Tough Jerky
-UPDATE locales_item SET name_loc9='Minor Healing Potion',description_loc9='' WHERE entry=118; -- Name: Minor Healing Potion
-UPDATE locales_item SET name_loc9='Thug Pants',description_loc9='' WHERE entry=120; -- Name: Thug Pants
-UPDATE locales_item SET name_loc9='Thug Boots',description_loc9='' WHERE entry=121; -- Name: Thug Boots
-UPDATE locales_item SET name_loc9='Trapper\'s Shirt',description_loc9='' WHERE entry=127; -- Name: Trapper's Shirt
-UPDATE locales_item SET name_loc9='Rugged Trapper\'s Boots',description_loc9='' WHERE entry=129; -- Name: Rugged Trapper's Boots
-UPDATE locales_item SET name_loc9='Brawler\'s Pants',description_loc9='' WHERE entry=139; -- Name: Brawler's Pants
-UPDATE locales_item SET name_loc9='Brawler\'s Boots',description_loc9='' WHERE entry=140; -- Name: Brawler's Boots
-UPDATE locales_item SET name_loc9='Rugged Trapper\'s Pants',description_loc9='' WHERE entry=147; -- Name: Rugged Trapper's Pants
-UPDATE locales_item SET name_loc9='Rugged Trapper\'s Shirt',description_loc9='' WHERE entry=148; -- Name: Rugged Trapper's Shirt
-UPDATE locales_item SET name_loc9='Primitive Kilt',description_loc9='' WHERE entry=153; -- Name: Primitive Kilt
-UPDATE locales_item SET name_loc9='Primitive Mantle',description_loc9='' WHERE entry=154; -- Name: Primitive Mantle
-UPDATE locales_item SET name_loc9='Refreshing Spring Water',description_loc9='' WHERE entry=159; -- Name: Refreshing Spring Water
-UPDATE locales_item SET name_loc9='Garrick\'s Head',description_loc9='' WHERE entry=182; -- Name: Garrick's Head
-UPDATE locales_item SET name_loc9='Martin Thunder',description_loc9='' WHERE entry=192; -- Name: Martin Thunder
-UPDATE locales_item SET name_loc9='Tattered Cloth Vest',description_loc9='' WHERE entry=193; -- Name: Tattered Cloth Vest
-UPDATE locales_item SET name_loc9='Tattered Cloth Pants',description_loc9='' WHERE entry=194; -- Name: Tattered Cloth Pants
-UPDATE locales_item SET name_loc9='Tattered Cloth Boots',description_loc9='' WHERE entry=195; -- Name: Tattered Cloth Boots
-UPDATE locales_item SET name_loc9='Thick Cloth Vest',description_loc9='' WHERE entry=200; -- Name: Thick Cloth Vest
-UPDATE locales_item SET name_loc9='Thick Cloth Pants',description_loc9='' WHERE entry=201; -- Name: Thick Cloth Pants
-UPDATE locales_item SET name_loc9='Thick Cloth Shoes',description_loc9='' WHERE entry=202; -- Name: Thick Cloth Shoes
-UPDATE locales_item SET name_loc9='Thick Cloth Gloves',description_loc9='' WHERE entry=203; -- Name: Thick Cloth Gloves
-UPDATE locales_item SET name_loc9='Dirty Leather Pants',description_loc9='' WHERE entry=209; -- Name: Dirty Leather Pants
-UPDATE locales_item SET name_loc9='Dirty Leather Boots',description_loc9='' WHERE entry=210; -- Name: Dirty Leather Boots
+
 UPDATE locales_item SET name_loc9='Cured Leather Armor',description_loc9='' WHERE entry=236; -- Name: Cured Leather Armor
 UPDATE locales_item SET name_loc9='Cured Leather Pants',description_loc9='' WHERE entry=237; -- Name: Cured Leather Pants
 UPDATE locales_item SET name_loc9='Cured Leather Boots',description_loc9='' WHERE entry=238; -- Name: Cured Leather Boots
