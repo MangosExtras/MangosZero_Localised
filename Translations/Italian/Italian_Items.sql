@@ -25,7 +25,7 @@ UPDATE locales_item SET name_loc9='Pantaloni di Cuoio Nanici',description_loc9='
 UPDATE locales_item SET name_loc9='Braghe di Stoffa Nanica',description_loc9='' WHERE entry=79; -- Name: Dwarven Cloth Britches
 UPDATE locales_item SET name_loc9='Scarpe soffici di Pelliccia',description_loc9='' WHERE entry=80; -- Name: Soft Fur-lined Shoes
 UPDATE locales_item SET name_loc9='Abito Sporco di Cuoio',description_loc9='' WHERE entry=85; -- Name: Dirty Leather Vest
-UPDATE locales_item SET name_loc9='Tough Jerky',description_loc9='' WHERE entry=117; -- Name: Tough Jerky
+UPDATE locales_item SET name_loc9='Carne Essiccata',description_loc9='' WHERE entry=117; -- Name: Tough Jerky
 UPDATE locales_item SET name_loc9='Pozione di Cura Minore',description_loc9='' WHERE entry=118; -- Name: Minor Healing Potion
 UPDATE locales_item SET name_loc9='Pantaloni da Malvivente',description_loc9='' WHERE entry=120; -- Name: Thug Pants
 UPDATE locales_item SET name_loc9='Stivali da Malvivente',description_loc9='' WHERE entry=121; -- Name: Thug Boots
@@ -49,4 +49,39 @@ UPDATE locales_item SET name_loc9='Scarpe di stoffa Spesse',description_loc9='' 
 UPDATE locales_item SET name_loc9='Guanti di stoffa Spessi',description_loc9='' WHERE entry=203; -- Name: Thick Cloth Gloves
 UPDATE locales_item SET name_loc9='Pantaloni sporchi di Cuoio',description_loc9='' WHERE entry=209; -- Name: Dirty Leather Pants
 UPDATE locales_item SET name_loc9='Stivali sporchi di Cuoio',description_loc9='' WHERE entry=210; -- Name: Dirty Leather Boots
+UPDATE locales_item SET name_loc9='Armatura di Cuoio Trattata',description_loc9='' WHERE entry=236; -- Name: Cured Leather Armor
+UPDATE locales_item SET name_loc9='Pantaloni di Cuoio Trattati',description_loc9='' WHERE entry=237; -- Name: Cured Leather Pants
+UPDATE locales_item SET name_loc9='Stivali di Cuoio Trattati',description_loc9='' WHERE entry=238; -- Name: Cured Leather Boots
+UPDATE locales_item SET name_loc9='Guanti di Cuoio Trattati',description_loc9='' WHERE entry=239; -- Name: Cured Leather Gloves
+UPDATE locales_item SET name_loc9='Veste Magliascaglie',description_loc9='' WHERE entry=285; -- Name: Scalemail Vest
+UPDATE locales_item SET name_loc9='Pantaloni Magliascaglie',description_loc9='' WHERE entry=286; -- Name: Scalemail Pants
+UPDATE locales_item SET name_loc9='Stivali Magliascaglie',description_loc9='' WHERE entry=287; -- Name: Scalemail Boots
+UPDATE locales_item SET name_loc9='Dalaran Secco',description_loc9='' WHERE entry=414; -- Name: Dalaran Sharp
+UPDATE locales_item SET name_loc9='Formaggio Nanesco',description_loc9='' WHERE entry=422; -- Name: Dwarven Mild
+UPDATE locales_item SET name_loc9='Scaglie Dure',description_loc9='' WHERE entry=537; -- Name: Dull Frenzy Scale
+UPDATE locales_item SET name_loc9='Piume Arruffate',description_loc9='' WHERE entry=555; -- Name: Rough Vulture Feathers
+UPDATE locales_item SET name_loc9='Becco da Poiana',description_loc9='' WHERE entry=556; -- Name: Buzzard Beak
+UPDATE locales_item SET name_loc9='Destino',description_loc9='' WHERE entry=647; -- Name: Destiny
+UPDATE locales_item SET name_loc9='Braccialetti da miliziano',description_loc9='' WHERE entry=710; -- Name: Bracers of the People's Militia
+UPDATE locales_item SET name_loc9='Guanti Laceri di Stoffa',description_loc9='' WHERE entry=711; -- Name: Tattered Cloth Gloves
+UPDATE locales_item SET name_loc9='Guanti di Cuoio Sporchi',description_loc9='' WHERE entry=714; -- Name: Dirty Leather Gloves
+UPDATE locales_item SET name_loc9='Guanti Magliascaglie',description_loc9='' WHERE entry=718; -- Name: Scalemail Gloves
+UPDATE locales_item SET name_loc9='Guanti da Maneggiatore di Conigli',description_loc9='' WHERE entry=719; -- Name: Rabbit Handler Gloves
+UPDATE locales_item SET name_loc9='Guanti da Picchiatore',description_loc9='' WHERE entry=720; -- Name: Brawler Gloves
+UPDATE locales_item SET name_loc9='Fegato di Goretusk',description_loc9='' WHERE entry=723; -- Name: Goretusk Liver
+UPDATE locales_item SET name_loc9='Torta di Fegato di Goretusk',description_loc9='' WHERE entry=724; -- Name: Goretusk Liver Pie
+UPDATE locales_item SET name_loc9='Zampa di Gnoll',description_loc9='' WHERE entry=725; -- Name: Gnoll Paw
+UPDATE locales_item SET name_loc9='Spada Corta Dentellata',description_loc9='' WHERE entry=727; -- Name: Notched Shortsword
+UPDATE locales_item SET name_loc9='Ricetta: Stufato di Westfall',description_loc9='' WHERE entry=728; -- Name: Recipe: Westfall Stew
+UPDATE locales_item SET name_loc9='Carne fibrosa di Avvoltoio',description_loc9='' WHERE entry=729; -- Name: Stringy Vulture Meat
+UPDATE locales_item SET name_loc9='Occhio di Murloc',description_loc9='' WHERE entry=730; -- Name: Murloc Eye
+UPDATE locales_item SET name_loc9='Muso del Goretusk',description_loc9='' WHERE entry=731; -- Name: Goretusk Snout
+UPDATE locales_item SET name_loc9='Ocra',description_loc9='' WHERE entry=732; -- Name: Okra
+UPDATE locales_item SET name_loc9='Sufato di Westfall',description_loc9='' WHERE entry=733; -- Name: Westfall Stew
+UPDATE locales_item SET name_loc9='Medaglione Rolf e Malakai',description_loc9='' WHERE entry=735; -- Name: Rolf and Malakai's Medallions
+UPDATE locales_item SET name_loc9='Santa Acqua fresca',description_loc9='' WHERE entry=737; -- Name: Holy Spring Water
+UPDATE locales_item SET name_loc9='Sacco di Orzo',description_loc9='' WHERE entry=738; -- Name: Sack of Barley
+UPDATE locales_item SET name_loc9='Sacco di Mais',description_loc9='' WHERE entry=739; -- Name: Sack of Corn
+UPDATE locales_item SET name_loc9='Sacco di Segale',description_loc9='' WHERE entry=740; -- Name: Sack of Rye
+
 SET NAMES 'latin1';

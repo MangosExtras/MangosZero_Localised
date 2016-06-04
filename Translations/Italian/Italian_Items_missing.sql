@@ -1,39 +1,6 @@
 SET NAMES 'utf8';
 
-UPDATE locales_item SET name_loc9='Cured Leather Armor',description_loc9='' WHERE entry=236; -- Name: Cured Leather Armor
-UPDATE locales_item SET name_loc9='Cured Leather Pants',description_loc9='' WHERE entry=237; -- Name: Cured Leather Pants
-UPDATE locales_item SET name_loc9='Cured Leather Boots',description_loc9='' WHERE entry=238; -- Name: Cured Leather Boots
-UPDATE locales_item SET name_loc9='Cured Leather Gloves',description_loc9='' WHERE entry=239; -- Name: Cured Leather Gloves
-UPDATE locales_item SET name_loc9='Scalemail Vest',description_loc9='' WHERE entry=285; -- Name: Scalemail Vest
-UPDATE locales_item SET name_loc9='Scalemail Pants',description_loc9='' WHERE entry=286; -- Name: Scalemail Pants
-UPDATE locales_item SET name_loc9='Scalemail Boots',description_loc9='' WHERE entry=287; -- Name: Scalemail Boots
-UPDATE locales_item SET name_loc9='Dalaran Sharp',description_loc9='' WHERE entry=414; -- Name: Dalaran Sharp
-UPDATE locales_item SET name_loc9='Dwarven Mild',description_loc9='' WHERE entry=422; -- Name: Dwarven Mild
-UPDATE locales_item SET name_loc9='Dull Frenzy Scale',description_loc9='' WHERE entry=537; -- Name: Dull Frenzy Scale
-UPDATE locales_item SET name_loc9='Rough Vulture Feathers',description_loc9='' WHERE entry=555; -- Name: Rough Vulture Feathers
-UPDATE locales_item SET name_loc9='Buzzard Beak',description_loc9='' WHERE entry=556; -- Name: Buzzard Beak
-UPDATE locales_item SET name_loc9='Destiny',description_loc9='' WHERE entry=647; -- Name: Destiny
-UPDATE locales_item SET name_loc9='Bracers of the People\'s Militia',description_loc9='' WHERE entry=710; -- Name: Bracers of the People's Militia
-UPDATE locales_item SET name_loc9='Tattered Cloth Gloves',description_loc9='' WHERE entry=711; -- Name: Tattered Cloth Gloves
-UPDATE locales_item SET name_loc9='Dirty Leather Gloves',description_loc9='' WHERE entry=714; -- Name: Dirty Leather Gloves
-UPDATE locales_item SET name_loc9='Scalemail Gloves',description_loc9='' WHERE entry=718; -- Name: Scalemail Gloves
-UPDATE locales_item SET name_loc9='Rabbit Handler Gloves',description_loc9='' WHERE entry=719; -- Name: Rabbit Handler Gloves
-UPDATE locales_item SET name_loc9='Brawler Gloves',description_loc9='' WHERE entry=720; -- Name: Brawler Gloves
-UPDATE locales_item SET name_loc9='Goretusk Liver',description_loc9='' WHERE entry=723; -- Name: Goretusk Liver
-UPDATE locales_item SET name_loc9='Goretusk Liver Pie',description_loc9='' WHERE entry=724; -- Name: Goretusk Liver Pie
-UPDATE locales_item SET name_loc9='Gnoll Paw',description_loc9='' WHERE entry=725; -- Name: Gnoll Paw
-UPDATE locales_item SET name_loc9='Notched Shortsword',description_loc9='' WHERE entry=727; -- Name: Notched Shortsword
-UPDATE locales_item SET name_loc9='Recipe: Westfall Stew',description_loc9='' WHERE entry=728; -- Name: Recipe: Westfall Stew
-UPDATE locales_item SET name_loc9='Stringy Vulture Meat',description_loc9='' WHERE entry=729; -- Name: Stringy Vulture Meat
-UPDATE locales_item SET name_loc9='Murloc Eye',description_loc9='' WHERE entry=730; -- Name: Murloc Eye
-UPDATE locales_item SET name_loc9='Goretusk Snout',description_loc9='' WHERE entry=731; -- Name: Goretusk Snout
-UPDATE locales_item SET name_loc9='Okra',description_loc9='' WHERE entry=732; -- Name: Okra
-UPDATE locales_item SET name_loc9='Westfall Stew',description_loc9='' WHERE entry=733; -- Name: Westfall Stew
-UPDATE locales_item SET name_loc9='Rolf and Malakai\'s Medallions',description_loc9='' WHERE entry=735; -- Name: Rolf and Malakai's Medallions
-UPDATE locales_item SET name_loc9='Holy Spring Water',description_loc9='' WHERE entry=737; -- Name: Holy Spring Water
-UPDATE locales_item SET name_loc9='Sack of Barley',description_loc9='' WHERE entry=738; -- Name: Sack of Barley
-UPDATE locales_item SET name_loc9='Sack of Corn',description_loc9='' WHERE entry=739; -- Name: Sack of Corn
-UPDATE locales_item SET name_loc9='Sack of Rye',description_loc9='' WHERE entry=740; -- Name: Sack of Rye
+
 UPDATE locales_item SET name_loc9='A Sycamore Branch',description_loc9='' WHERE entry=742; -- Name: A Sycamore Branch
 UPDATE locales_item SET name_loc9='Bundle of Charred Oak',description_loc9='' WHERE entry=743; -- Name: Bundle of Charred Oak
 UPDATE locales_item SET name_loc9='Thunderbrew\'s Boot Flask',description_loc9='' WHERE entry=744; -- Name: Thunderbrew's Boot Flask
