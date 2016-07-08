@@ -1,39 +1,5 @@
 SET NAMES 'utf8';
 
-UPDATE locales_page_Text SET text_loc9='Master Carevin, The bearer of this note has shown $g himself : herself; to be upstanding in the Light, capable of battling the undead and demons that plague the borders of Duskwood, and willing to join the Carevin family in their cause of Light. I would thereby suggest that you give this warrior of the Light further duties--perhaps to investigate some of the townsfolk that are under suspicion of succor to the enemies of the Light. Yours faithfully, Calor ' WHERE entry=63;
-UPDATE locales_page_Text SET text_loc9='Morgan Ladimore was a great and noble knight who fought in defense of the innocent, the poor, and the afflicted. For many years, he worked diligently throughout the outlying areas of Azeroth, bringing relief to the suffering and swift justice to evildoers.
-
-He was married to a young girl named Lys in the summer of his eighteenth year. They were much in love with each other and would eventually produce three children, a son and two daughters.
-
-Morgan was thirty-two when war broke out in' WHERE entry=64;
-UPDATE locales_page_Text SET text_loc9='Lordaeron. Morgan was called to the side of the legendary paladin Uther the Lightbringer to fight against the orcs and the undead. Leaving his wife and children in the safety of his home, Morgan left for war.
-
-The years passed and the war dragged on, and Morgan would witness many horrific events, including the disbanding of the Paladins of the Silver Hand, the death of Uther and the spread of the plague. The only thing that kept him from the brink of madness was the knowledge that he would' WHERE entry=65;
-UPDATE locales_page_Text SET text_loc9='someday be reunited with his wife and children.
-
-Morgan would eventually return to his homeland, but find it nothing like how he remembered it. The once verdant forest was corrupted and teemed with the undead and other dark forces. Destroyed houses and farms could be found everywhere, and the cemetary near Raven\'s Hill now dominated much of the area. A shocked and bewildered Morgan eventually made his way to his home, only to find it in ruins. Not knowing what had befallen his homeland, he' WHERE entry=66;
-UPDATE locales_page_Text SET text_loc9='headed towards the village to find answers, and, he hoped, his wife and children.
-
-Morgan inquired about his family, but could not find any answers. A priest in Darkshire, as it was now called, said that he might search the cemetary at Raven Hill for a gravestone. Morgan refused to believe that his family was dead, and continued to search every farm and house in Duskwood, but to no avail.
-
-Morgan rode from Darkshire to nearby Lakeshire, thinking that perhaps his family had fled. On his way' WHERE entry=67;
-UPDATE locales_page_Text SET text_loc9='there, he decided, against his better judgement, to stop by the Raven Hill cemetary. Morgan spent hours walking amongst the gravestones. He recognized many names of people that he knew and became more and more distraught. Then he saw them: a small, untended plot amongst the many with three small gravestones. A feeling of dread washed over him as he approached. Morgan brushed off the dust of the most prominent gravestone to reveal the name on it. Simply carved upon the grave, letters spelled out' WHERE entry=68;
-UPDATE locales_page_Text SET text_loc9='his worst fear:
-
-Lys Ladimore
-Beloved Wife and Mother
-
-Morgan\'s apprehension turned to dismay and then to grief, and he fell to his knees weeping. For hours he stared at that one grave, begging the cold stone for forgiveness and sobbing apologies. Then, hours later, something in him snapped, and he began to lash out. He brought his sword out of its scabbard and began to rain blows on the gravestones, screaming in rage. Blind in his fury, he lashed out and swung wildly, catching the notice' WHERE entry=69;
-UPDATE locales_page_Text SET text_loc9='of a trio of the cemetary\'s attendants. As they tried to restrain him, he turned his focus to them, hurling accusations of guilt upon the innocent attendants, then killed them all.
-
-Later, when the rage had passed, realization crept into Morgan\'s mind, and he saw his bloody sword driven into the chests of one of the attendants. Driven to the brink by his emotions, he removed his belt knife and plunged it into his heart.
-
-Morgan Ladimore\'s body and the three bodies of his victims were found' WHERE entry=70;
-UPDATE locales_page_Text SET text_loc9='the next day. He was quickly buried, without ceremony, in a hastily dug grave on the outskirts of the cemetary. Because Morgan committed murder against innocents, something that went completely against his beliefs and his nature, and because of the grief that he held in being unable to save his family, Morgan could not die a peaceful death, and lived on as one of the restless dead.
-
-Only days later, his grave was disturbed, and his body could not be found. The being that was Morgan now' WHERE entry=71;
-UPDATE locales_page_Text SET text_loc9='wanders Duskwood, consumed by his grief over the loss of his wife and children and his own self-hatred. Mor\'Ladim, as he now calls himself, roams Duskwood with mindless vengeance and hatred, and has been known to commit murder indiscriminately.' WHERE entry=72;
-UPDATE locales_page_Text SET text_loc9='The terror of these past few weeks is almost more than I can bear; yet, I feel that by writing down that which I\'ve seen I will somehow be comforted.  So I do it, and it is the only comfort I have these bleak days.' WHERE entry=73;
 UPDATE locales_page_Text SET text_loc9='DAY ONE
 
 The apprentice and I have arrived in Coldridge Valley today. The trip through the cave was mostly uneventful. We made camp a good distance away from the cave we\'re told the trolls have gathered in.

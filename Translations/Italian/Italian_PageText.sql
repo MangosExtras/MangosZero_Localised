@@ -143,4 +143,39 @@ E quando i nostri fratelli se ne vanno
 Una Luna splende sopra la Valle.' WHERE entry=59;
 UPDATE locales_page_Text SET text_loc9='E quando i nostri fratelli se ne vanno Nei regni oltre la conoscenza L\'anima si rafforza In profondità sotto la Valle. E quando i nostri fratelli se ne vanno Nel Tempio della Montagna Proteggeremo il loro spirito eterno Racchiuso nel sacro cristallo blu. E quando i nostri fratelli se ne vanno Una Luna splende sopra la Valle. ' WHERE entry=61;
 UPDATE locales_page_Text SET text_loc9='Per la luna e il fuoco, Per la carne e le ossa, Scritto col sangue, Intagliato nella pietra. Lascia questo posto O incontra il tuo fato La Morte è di guardai Sulla Tomba dell\'Imperatore. ' WHERE entry=62;
+
+UPDATE locales_page_Text SET text_loc9='Padron Carevin, $g Il portatore : La portatrice; di questa lettera si è $g mostrato retto: mostrata retta; nella via della Luce, capace di combattere i non morti e i demoni che infestano i confini di Duskwood, e $g interessato : interessata ; ad unirsi alla famiglia Carevin nella loro causa della Luce. Suggerirei quindi di dare a questo guerriero della Luce ulteriori incarichi--magari di investigare su alcuni cittadini che sono sospettati di aiutare i nemici della Luce. Lealmente tuo, Calor ' WHERE entry=63;
+UPDATE locales_page_Text SET text_loc9='Morgan Ladimore fu un grande e nobile cavaliere che combattè in difesa degli innocenti, dei poveri, e degli afflitti. Per molti anni, lavorò diligentemente nelle aree periferiche di Azeroth, portando serenità ai sofferenti e rapida giustizia sui malfattori.
+
+Si sposò con una giovane ragazza di nome Lys nell\'estate dei suoi diciott\'anni. Erano molto innamorati ed ebbero tre figli, un maschio e due femmine.
+
+Morgan aveva trentadue anni quando scoppiò la guerra a' WHERE entry=64;
+UPDATE locales_page_Text SET text_loc9='Lordaeron. Morgan venne chiamato al fianco del leggendario paladino Uther the Lightbringer per combattere contro gli orchi e i non morti. Lasciando la moglie e i figli al sicuro nella sua casa, Morgan partì per la guerra.
+
+Gli anni passarono e la guerra proseguì, e Morgan assistette a molti eventi orribili, inscluso lo scioglimento dei Paladini della Mano Argentea, la morte di Uther e il diffondersi della piaga. L\'unica cosa che lo trattenne dall\'impazzire era il sapere che si sarebbe' WHERE entry=65;
+UPDATE locales_page_Text SET text_loc9='un giorno riunito alla moglie e i figli.
+
+Morgan ritornò infine in patria, ma niente era come ricordava. LA foresta una volta verdeggiante era corrotta e brulicava di non morti e altre forze oscure. Case e fattorie distrutte potevano essere trovate ovunque, e il cimitero vicino alla collina Ravena dominava ora la maggior parte della zona. Uno scioccato e sconcertato Morgan arrivo infine alla sua casa, solo per trovarla in rovina. Non sapendo cosa fosse accaduto alla sua patria, ' WHERE entry=66;
+UPDATE locales_page_Text SET text_loc9='si incamminò verso il villaggio per trovare risposte, e, sperava, sua moglie e i figli.
+
+Morgan chiese della sua famiglia, ma non trovava risposte. Un prete a Darkshire, com\'era chiamata ora, disse che poteva cercare una lapide nel cimitero alla Collina di Raven. Morgan si rifiutò di credere che la sua famiglia fosse morta, e continuò a cercare in ogni fattoria e casa nel Duskwood, ma invano.
+
+Morgan cavalcò da Darkshire fino alla vicina Lakeshire, pensando che forse la sua famiglia fosse fuggita. Sulla strada' WHERE entry=67;
+UPDATE locales_page_Text SET text_loc9='decise, contro la sua migliore volontà, di fermarsi al cimitero della Collina Raven. Morgan spese ore camminando in mezzo alle lapidi. Riconobbe molti nomi di persone che aveva conosciuto e diventava sempre più turbato. Quindi le vide: una piccola, ignorata spianata tra le altre con tre piccole lapidi. Una sensazione di terrore lo soverchiò mentre si avvicinava. Morgan tolse la polvere dalla più grande fino a rivelare il nome su di essa. Scolpite semplicemente sulla lapide, le lettere recitavano' WHERE entry=68;
+UPDATE locales_page_Text SET text_loc9='la sua peggiore paura:
+
+Lys Ladimore
+Amata Moglie e Madre
+
+La preoccupazione di Morgan si trasformò in sgomento e poi in dolore, e cadde in ginocchio piangendo. Per ore fissò quell\'unica tomba, pregando la fredda pietra per il perdono e singhiozzando scuse. Infine, ore dopo, qualcosa in lui scattò, e iniziò a scatenarsi. Estrasse la spada dal fodero e iniziò a vibrare colpi sulla lapide, urlando con rabbia. Cieco nella sua furia, impazzì e colpì selvaggiamente, attirando l\'attenzione' WHERE entry=69;
+UPDATE locales_page_Text SET text_loc9='di tre guardiani del cimitero. Come provarono a fermarlo, spostò la sua attenzione su di loro, lanciando accuse di colpa ai poveri innocenti, poi li uccise tutti.
+
+Più tardi, passata la rabbia, la comprensione si insinuò nella mente di Morgan, e vide la sua spada sanguinante portata nel petto di uno dei tre guardiani. Portato sull\'orlo della pazzia dalle sue emozioni, prese il suo pugnale e se lo piantò nel cuore.
+
+I corpi di Morgan Ladimore e delle sue tre vittime vennero trovati' WHERE entry=70;
+UPDATE locales_page_Text SET text_loc9='il giorno dopo. Venne sepolto velocemente, senza cerimonia, in una tomba scavata velocemente al confine del cimitero. Poichè Morgan commise omicidio contro innocenti, qualcosa che andava completamente contro il suo credo e la sua natura, e a causa del dolore che portava essendo stato incapace di salvare la sua famiglia, Morgan non potè morire di una morte serena, e sopravvisse come uno dei morti senza riposo.
+
+Solo giorni dopo, la sua tomba venne spostata, e il suo corpo non venne ritrovato. Ciò che era Morgan ora' WHERE entry=71;
+UPDATE locales_page_Text SET text_loc9='vaga nel Duskwood, consumato dall\'afflizione per la perdita di sua moglie e i figli e dall\'odio per se stesso. Mor\'Ladim, come si fa chiamare ora, vagabonda nel Duskwood pieno di una irragionevole vendetta e di odio, ed è conosciuto per commettere omicidi indiscriminatamente.' WHERE entry=72;
+UPDATE locales_page_Text SET text_loc9='Il terrore di queste poche passate settimane è quasi più di ciò che posso sopportare; tuttavia, sento che scrivendo ciò che ho visto sarò in qualche modo confortato.  Quindi lo faccio, ed è l\'unico  conforto che ho in questi giorni tristi.' WHERE entry=73;
 SET NAMES 'latin1';
