@@ -323,6 +323,8 @@ echo  .... PageText
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_PageText.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Quest.sql
+echo  .... NpcText
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_NpcText.sql
 goto WorldDB4:
 
 :LoadTW
