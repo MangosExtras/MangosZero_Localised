@@ -1,4 +1,4 @@
-﻿SET NAMES 'utf8';
+SET NAMES 'utf8';
 UPDATE locales_creature SET name_loc4='路径点',subname_loc4='GM可见' WHERE entry=1; -- Name: Waypoint -- subName: GM Visual
 UPDATE locales_creature SET name_loc4='复活点',subname_loc4='GM可见' WHERE entry=2; -- Name: Spawnpoint -- subName: GM Visual
 UPDATE locales_creature SET name_loc4='食腐者',subname_loc4='' WHERE entry=3; -- Name: Flesh Eater
