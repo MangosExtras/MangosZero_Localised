@@ -1,0 +1,553 @@
+set names 'utf8';
+
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000001; -- content_default: The deeds are mine, brother! Soon you shall be out of my way for good!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000003; -- content_default: Be bathed in my power! Drink in my might! Battle for the glory of the Horde!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000002; -- content_default: Honor your heroes! On this day, they have dealt a great blow against one of our most hated enemies! The false Warchief, Rend Blackhand, has fallen! 
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000004; -- content_default: Hello Grimclaw
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000005; -- content_default: What happens?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000006; -- content_default: Volcor was gone?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000007; -- content_default: You know where he is?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000008; -- content_default: Well, ok. I am now sending people . We need find and help him.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000009; -- content_default: What happens?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000010; -- content_default: Volcor need help ?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000011; -- content_default: All right, I shall find people to help him.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005627; -- content_default: Wait... did you hear that? Something approaches from the west!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005556; -- content_default: Search this rubble.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005557; -- content_default: Find me something good, you dogs!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000019; -- content_default: Be patient $N. The torch is almost complete.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000020; -- content_default: That's interesting...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000021; -- content_default: I need to consult Noram and Horatio.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000026; -- content_default: Whoops!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000027; -- content_default: %s gestures to the pitcher of water sitting on the edge of the well.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000028; -- content_default: The People of Westfall salute $N, a brave and valiant defender of freedom.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000029; -- content_default: Follow, $N. I will soon begin the summoning...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000030; -- content_default: This makes sense!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000032; -- content_default: Gird yourself $N, for the demon in this orb is a fel beast.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000041; -- content_default: Wait, $N!!! It looks like we're going to need some help here...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000042; -- content_default: Until we meet again, brave one.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000043; -- content_default: %s begins a spell of summoning...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000044; -- content_default: It is done...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000045; -- content_default: There's nothing like some scalding mornbrew on a chilly Dun Morogh day to get things started right!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000046; -- content_default: Oooooo hot hot hot! If that won't put spring IN your step,I don't know what will!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000047; -- content_default: Ribbit! No!! This cannot... ribbit... be! You have duped me with... ribbit... your foul trickery! Ribbit!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000048; -- content_default: Now let us place this rare earth in my planter...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000049; -- content_default: Thank you again, $N. This rare earth will be very helpful in my experiments.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000050; -- content_default: A simple enough task to break this soulstone!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000051; -- content_default: Glowing Soulgem bursts open!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000052; -- content_default: Then we must put an end to Athrikus Narassin. Tell me, spirit, where might we find the other soulgems, to undo his magic?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000053; -- content_default: Sargath fades into the mist...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000054; -- content_default: In the throes of the Sundering, Ameth'Aran was at the whim of the terror that gripped the land. There was little hope for survival.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000056; -- content_default: Hey there, Belm! Give me a mug of Thunder Ale, and one for my good friend $N.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000057; -- content_default: Spirits of Water, I give you praise, and I beg of you a favour. You have heard $N's please, and I trust his inent is noble. Please, will you aid us?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000058; -- content_default: Thank you great spirit. Thank you!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000059; -- content_default: You are dismissed, $N.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000063; -- content_default: Follow me, good $C. I'll have your barding done faster than I could down a Dwarven stout. Mmmm... stout.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000064; -- content_default: Well, that should do it. Come now, back to the shop to finish our business!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000065; -- content_default: We will suffer no demon's servant in our lands!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000066; -- content_default: Peace and patience be with you, $N. Remain strong always.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000076; -- content_default: Hear ye, denizens of Tanaris! Let it be known $n is an exalted member of the Mithril Order. A blacksmith of honor, dedication, and infinite patience. Three cheers for $n!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000083; -- content_default: My mind. . .my flesh. . .I'm. . .rotting. . . .!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000082; -- content_default: I. . .I. . .don't. . .feel. . .right. . .
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000091; -- content_default: Onu is struck by unleashed magic!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000090; -- content_default: Onu studies the parchment from the Twilight Tome...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000105; -- content_default: The spirits of Stonetalon still rage, $N.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000107; -- content_default: Hey $N! Don't forget to grab a crate, a manual and a command stick!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000109; -- content_default: You were right to come. My wisdom will be yours.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000108; -- content_default: %s listens to $N's plea.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000111; -- content_default: There we are, $N. The toxin is ready.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000110; -- content_default: %s creates his toxin...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000112; -- content_default: %s fills a container with the toxin.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000114; -- content_default: Okay, crew. Get to work on getting these bones installed.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000116; -- content_default: What is this power that flows through me? Is this the power of shamanism that Tor'gan spoke of...?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000115; -- content_default: %s watches as his blood begins to stir, and the guile of the raptor slips through him.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000118; -- content_default: Easier then I expected... the sigil of Thoradin is whole, once again.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000121; -- content_default: I believe the Forsaken are misleading the allies of the Horde... wait... I feel so... dizzy...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000120; -- content_default: That was refreshing. Now there's information that needs to be told...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000119; -- content_default: %s takes big swig of ale.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000124; -- content_default: %s begins to cast a spell over the hearts and tongues.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000128; -- content_default: ACHOO!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000127; -- content_default: %s is dazed...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000126; -- content_default: %s snorts a speck of dream dust up his nose...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000131; -- content_default: I'm sure I can find a use for this mixture...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000130; -- content_default: Thank you, $N.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000132; -- content_default: %s tries opening Maury's Clubbed Foot...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000134; -- content_default: The invisibility liquor is ready for you, $n
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000137; -- content_default: At last, the serum is complete, $N. Now, come closer. We must talk.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000136; -- content_default: Almost done...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000133; -- content_default: This shouldn't take long...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000138; -- content_default: I hereby destroy these instruments of evil! For the Horde!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000139; -- content_default: Corbett, dear. Harlan needs a load of knitted shirts and pants as soon as we can manage.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000140; -- content_default: Corbett, you there? Harlan needs another load of knitted goods. Can you take it to him?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000141; -- content_default: My pleasure, sugar drop. I'll be back soon...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000142; -- content_default: Business must be good down at the bazaar. I'll get him resupplied right away!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000143; -- content_default: Hm... after dropping this off, I think I'll head to that cheese shop for a snack.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000144; -- content_default: I should have a few extra coins from this sale. Maybe I'll buy myself some lunch...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000145; -- content_default: Hey Harlan. Here's a load of knitted cloth for you.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000146; -- content_default: Oomph! Here's a load of supplies. It must be selling fast!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000147; -- content_default: Ah yes, and promptly delivered. As always, it's a pleasure doing business with you, Corbett.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000148; -- content_default: Ahh, much appreciated, Corbett. We'll get these on the racks immediately.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000149; -- content_default: Glad to see you're doing so well, Harlan. And I hope to see you again soon?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000150; -- content_default: Well, I am off than. Take care, Harlan!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000151; -- content_default: Now for that snack...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000152; -- content_default: Hullo, Trias clan! A ball of your smoked mozzarella, if you please!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000153; -- content_default: Good day. Elling! Hullo Elaine! Let me have a wheel of blue cheese, eh?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000154; -- content_default: Good day, Corbett. Here's your cheese, fresh made this morning! And how are things at your shop?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000155; -- content_default: Hi Corbett! Here, you go! I trust business is faring well at your clothier shop...?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000156; -- content_default: Yes ma'am, business is brisk!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000157; -- content_default: Thanks for the cheese!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000158; -- content_default: Time to get back to the shop...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000159; -- content_default: I'm back!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000160; -- content_default: Ma reth bromo zoln kilagrin dra ma zoern tu ko fraht ka tadrom Ma krin drinor zaln dirnor Ma krin kan aasrugel korsul
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000161; -- content_default: ROARRRRR!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000162; -- content_default: DARKSHIRE... I HUNGER!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000176; -- content_default: Ah, thank you kindly. I will leave you to the library while I tend to this small matter.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000174; -- content_default: Thank you. The Light be with you both.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000172; -- content_default: Good day to you both. I would speak to Lord Lescovar.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000173; -- content_default: Of course. He awaits you in the library.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000170; -- content_default: By your command!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000171; -- content_default: Wait here, $N. Spybot will make Lescovar come out as soon as possible. Be ready! Attack only after you've overheard their conversation.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000202; -- content_default: Athrikus came to us. He told us that he could save us from harm. He cast a spell upon us to protect us from harm.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000203; -- content_default: When the shaking stopped, his true motives were revealed. We were trapped, and he was slowly draining our powers.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000204; -- content_default: There were hundreds imprisoned by his spell. Now only a few remain in their prisons. He would speak to us sometimes.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000205; -- content_default: He worried that his power weakened, that soon even we last of his precious soulgems would fade and die.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000206; -- content_default: His lieutenant, Ilkurd Magthrull possesses a tome which might indicate the location of the remaining soulgems.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000207; -- content_default: %s sniffs the elixir then eagerly digs in!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000208; -- content_default: It has been a long time, Bethor, my friend.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000209; -- content_default: When time permits, we must speak at length.  For we have much to discuss.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000210; -- content_default: And thank you, $N.  Without your aid I may never have found my way to the Forsaken.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000211; -- content_default: Farewell, my friend.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000212; -- content_default: %s summons a messenger...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000213; -- content_default: Go, my servant. Send word of Stonetalon to Apothecary Zamah.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000214; -- content_default: %s gives message to Apothecary Zamah.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000215; -- content_default: Apothecary Zamah smiles.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000237; -- content_default: Thank again, $n. Now I'll just wait here until it's safe to leave.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000243; -- content_default: Feegly the Exiled begins to make strange grunting noises. The Tear of the Moons drops to the ground and shatters.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000242; -- content_default: Power! Glorious power!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000240; -- content_default: The power of the Tear of the Moons is mine! Mine I say!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000241; -- content_default: Feegly the Exiled begins to rub the Tear of the Moons.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000318; -- content_default: Here's a beacon, $N. Keep it to yourself, if you're gonna find mutilated things that we need.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000808; -- content_default: I thank you. $n. And my brother thanks you.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005348; -- content_default: %s dusts the base of the artifact.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005001; -- content_default: Opus wants some Cuergo's Gold... with worm.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005002; -- content_default: Bijou lost! SQUAWK! *cough
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005003; -- content_default: Kibler is being investigated by G.E.T.A.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005004; -- content_default: Bijou knows where treasures are hidden.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005005; -- content_default: Dragons controlling orcs!? SQUAWK!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005006; -- content_default: They all go to the Spire but none never come back... just like Bijou.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005007; -- content_default: Ask Kibler about the treasure! SQUAWK!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005008; -- content_default: SQUAWK!! *cough* *cough* I need to quit smoking!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005009; -- content_default: Well done, soldiers! At ease!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005010; -- content_default: Zug zug! Happy to help!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005011; -- content_default: Yes right away momma!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005015; -- content_default: Terenthis begins to cast a spell as you take the cloak from him.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005016; -- content_default: Go now, $N. Find Volcor... and remember, the magics protecting you will fail if you interact with anyone, save for talking.
+UPDATE db_script_string SET content_loc4 = "赶快去,$N。我的命运掌握在你手中。" WHERE entry = 2000005017; -- content_default: Go swiftly $N. My fate is in your hands.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005018; -- content_default: Ah, this must be him now... no?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005021; -- content_default: Well, whatever it is, it works quite well!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005022; -- content_default: I've found that when I throw something into this water, it has improved incredibly when I retrieve it.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005023; -- content_default: %s tosses the sword into the shallow pool.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005025; -- content_default: Please, follow me.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005024; -- content_default: I haven't really figured out what it is, but there's something strange about the hot springs...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005027; -- content_default: The Lich King's forces are building. It is imperative that our timetable supports his plans.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005028; -- content_default: Tomorrow we will begin training of our promising dragons, so don't forget your chew toys.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005029; -- content_default: Our oldest clutch of dragons are still far from maturity, but with patience and study, we are confident the dragons will soon be ready.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005031; -- content_default: I come from the land down under... where women plague and men sunder.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005032; -- content_default: ...And then the tauren said, "13 INCHES!"
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005035; -- content_default: It's getting away!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000014; -- content_default: Well, back to business for me. But it sure was nice taking that short break, and it's always nice drinking Thunder Ale!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000013; -- content_default: How goes the barrel watching...?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000012; -- content_default: Ah, that sure does hit the spot! I think i'll get myself a couple more...can you watch these barrels for me, $N?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005063; -- content_default: Don't hurt Betsy, you meanie!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005062; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005061; -- content_default: I have your dolly! Nyah nyah!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005060; -- content_default: Ha ha! I have Betsy!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005059; -- content_default: I wonder if your dolly can swim!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005058; -- content_default: Baby wants her dolly!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005057; -- content_default: Crybaby! Crybaby!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005078; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005079; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005080; -- content_default: Don't hurt Betsy, you meanie!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005081; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005082; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005083; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005084; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005085; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005086; -- content_default: Don't hurt Betsy, you meanie!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005087; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005088; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005089; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005090; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005091; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005092; -- content_default: Don't hurt Betsy, you meanie!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005093; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005094; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005095; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005096; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005097; -- content_default: Gimmie my dolly!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005098; -- content_default: Don't hurt Betsy, you meanie!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005103; -- content_default: Jack and Jill my wrinkled patoot! I do all the water luggin' 'round here.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005104; -- content_default: Where's the water, Emma? Get the water, Emma? If'n it weren't fer me, that lot wouldn't know what water looks like.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005105; -- content_default: O'ourse I'm talking to myself. Only way to get a decent conversation in this city.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005106; -- content_default: As if I don't have better things to do in my old age than carry buckets of water.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005107; -- content_default: Seems like a hundred times a day I walk all the way to get more water. No respect for their elders I tell ya.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005108; -- content_default: Deja vu. For a moment I thought I was back home... before the plague...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005109; -- content_default: They say he can turn into a raven sometimes.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005110; -- content_default: They say he can turn into a raven sometimes.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005111; -- content_default: And then the rabbit just bit his head off... I swear.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005112; -- content_default: I swear, people have actualy seen them. Pandaren really do exist!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005113; -- content_default: You know why Orcs eyes glow red? It's because they drink blood!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005114; -- content_default: I dont think there's any fish in these canals.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005115; -- content_default: And that's how Lother killed thirty six orcs with his bare hands!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005116; -- content_default: Eww... that's not a fish!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005117; -- content_default: I got worm guts on my shoes.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005118; -- content_default: I think i see something.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005119; -- content_default: Eww... that's not a fish!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005120; -- content_default: I think i see something.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005121; -- content_default: I hope that was a fish!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005122; -- content_default: Worm goes on the hook, hook goes in the water, Fish is in the water, our fish.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005123; -- content_default: Can you imagine?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005124; -- content_default: Really?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005125; -- content_default: Wow.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005126; -- content_default: My father says that's just a story.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005127; -- content_default: Really?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005128; -- content_default: Wow.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005129; -- content_default: That's neat.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005130; -- content_default: Wow.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005131; -- content_default: Really?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005132; -- content_default: Look alive, dogs! We got an operation to run here!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005134; -- content_default: Here we have the Cathedral of Light, the center of spiritual enlightenment here in Stormwind.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005135; -- content_default: Yes, that is true. Paladins and Priests alike train their skills and research great truths behind the walls of the Cathedral.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005136; -- content_default: Children if you would please follow me, we will now be going to see the keep where King Anduin Wrynn himself sits on this throne.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005137; -- content_default: Here we have Stormwind Keep. Built upon the ruins of Stormwind Castle, which was destroyed by the Horde in the first Great War.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005138; -- content_default: When the Horde was shattered, men returned here and began to rebuild the once great city as a testament to our own survival.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005139; -- content_default: Yes, well...let's head on to the monument dedicated to the heroes of the two Great Wars, the Valley of Heroes. Follow Me.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005140; -- content_default: Isn't it amazing, children? All who enter the city must walk beneath the watchful eyes of the greatest heroes of our lands.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005141; -- content_default: Breathtaking. Children, when we return to the school, you will each give an oral report on one of these legendary people.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005142; -- content_default: Now, take another long look before we make our way to the Holy District and the great Cathedral of Light.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005161; -- content_default: That will unbalance the magical focus, though, and cause a reverse vibration in the ether.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005160; -- content_default: But isn't that what caused the initial problems with Adept Syleria's magical formula?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005159; -- content_default: But what if the resulting frequency shift were to send magical feedback up the flows?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005158; -- content_default: But wouldn't that mean crossing the streams? Isn't that really bad?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005157; -- content_default: I suppose that could work, if we had twenty people to cast it with.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005156; -- content_default: I think not, I don't need to be blown up again.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005155; -- content_default: Putting in twelve centers of focus might allow the magical energies to form more solidly, adding the necessary stability.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005154; -- content_default: When the positively aligned energies collide with the negatively charged energies, they don't negate one another.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005153; -- content_default: The portal will shift slightly, at this point if you cast a binding cantrip you will solidify it in place.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005152; -- content_default: Maginor says that twisting alternating flows of positive energy actually creates a much more stable flow.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005151; -- content_default: The magical wards at that sholud be supported enough by the energy flux to certain the entity.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005150; -- content_default: So then the array of magics would cascade into a chain reaction of positively charged energies.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005149; -- content_default: Why can't we just shift the array to compensate for the variance in the flux?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005148; -- content_default: If we reverse the Essence flows perhaps we can alter the polarity.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005167; -- content_default: Is it true that the paladins train here?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005168; -- content_default: Why do we have to learn this stuff anyway?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005172; -- content_default: But if we stabilize it with an anchor thread at the appropriate energy crux then it should work.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005171; -- content_default: If we use the Surian theory, then yes, but not if we go with the Y'serian approach.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005170; -- content_default: Always so negative. The chances of that happening are between zero and none.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005169; -- content_default: What if we used three focuses in Tyrean pattern? That should solve it.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005180; -- content_default: Hello, Charys. I have my list, could you get me all of that, especially the last ingredient.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005181; -- content_default: Sure Paige. Just be gentle.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005182; -- content_default: Thanks, Charys. C'mon Paige, sweetie.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005183; -- content_default: Mommy? Can I pet Fizzles?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005184; -- content_default: Fizzles used to be a great wizard. But got turned into a rabbit when one of his spells went bad.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005185; -- content_default: Magical studies stressing your brain? Relax at the Blue Recluse!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005186; -- content_default: Best drinks in Stormwind!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005187; -- content_default: Head on over to the Blue Recluse. Where everybody knows your name!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005188; -- content_default: Feeling blue? Come on down to the Blue Recluse for a good time!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005189; -- content_default: Best drinks in Stormwind!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005190; -- content_default: Magical studies stressing your brain? Relax at the Blue Recluse!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005191; -- content_default: Ask me how you can get a free drink at the Blue Recluse!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005192; -- content_default: Head on over to the Blue Recluse. Where everybody knows your name!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005193; -- content_default: Free drinks at the Blue Recluse!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005194; -- content_default: Feeling blue? Come on down to the Blue Recluse for a good time!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005195; -- content_default: Magical studies stressing your brain? Relax at the Blue Recluse!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005196; -- content_default: Best drinks in Stormwind!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005197; -- content_default: Ask me how you can get a free drink at the Blue Recluse!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005198; -- content_default: Head on over to the Blue Recluse. Where everybody knows your name!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005199; -- content_default: Best drinks in Stormwind!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005214; -- content_default: Hey! Do you like the sauce? The sauce is good, no?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005215; -- content_default: The what-bringer? Oh, ASHbringer? Never heard of it... What? Stop bothering me!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005218; -- content_default: Hey, someone help me catch this thing!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005228; -- content_default: I should have taken the translucent pill.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005229; -- content_default: I don't get paid enough for this bull excrement!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005233; -- content_default: Just sit right back and you'll hear a ta... *hic* a tai... *hic* a taiii *hic* Damnit!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005234; -- content_default: I can't take these taxes! F.I.C.A. me? F.I.C.A. YOU!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005235; -- content_default: Time for my patrol. I'll be back shortly.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005236; -- content_default: People of the Horde, citizens of Orgrimmar, come, gather round and celebrate heroes of the Horde. On this day, $N, under the auspices of our glorious Warchief, laid a mortal blow against the Black Dragonflight. The brood mother, Onyxia, has been slain!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005237; -- content_default: Bear witness to the undeniable power of your Warchief! Be lifted by the rallying cry of your dragon slayers!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005238; -- content_default: Citizens and allies of Stormwind, on this day, history has been made. $N has laid waste to that which had attempted to usurp the rule of the kingdom. Gather round and join me in honoring our heroes.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005239; -- content_default: Behold the might of the Alliance! The dread lady, Onyxia, hangs from the arches! Let the rallying cry of the dragon slayer lift your spirits!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005300; -- content_default: The Stonewrought Dam has been saved! Three cheers for $N!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005303; -- content_default: begins to manipulate the Stone of Relu over the two fossils.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005304; -- content_default: By the stars! A spirit has been summoned!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005305; -- content_default: Who hath summoned forth Aman?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005306; -- content_default: Ah, I see you toil with relics of the past.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005307; -- content_default: Be warned that even your creators are fallible.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005308; -- content_default: Digging too deep into your past might bring an abrupt end to your future.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005309; -- content_default: dissipates before your eyes.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005310; -- content_default: It's a mystery of the past indeed! But a key to our future!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005311; -- content_default: My, that Black Claw stout packs quite a punch!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005312; -- content_default: I feel... dizzy. It's so hot... in... here...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005646; -- content_default: You wish to learn of the stone? Follow me.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005314; -- content_default: What does allergic mean anyway? And what does it have to do with either of my kitties?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005315; -- content_default: I can't believe dad won't let me keep your sister.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005316; -- content_default: Don't worry, I'll find a good home for ya.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005317; -- content_default: Can anyone give my adorable, extra little kitty a home?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005318; -- content_default: Will someone please give my little kitten a good home?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005319; -- content_default: Kitten for sale, looking for a good home.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005343; -- content_default: Farewell, Cerellean, until we are joined once again...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005342; -- content_default: No! Anaya... Anaya! Don't leave me! Please...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005341; -- content_default: Sadly, even this must be cut short... The ties that bind me to this world weaken, and pull me away...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005340; -- content_default: Let it not trouble your heart, beloved. You have freed me from slavery, and for that I love you all the more.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005339; -- content_default: Do you hate me, my love? That I was forced to destroy your living form, that your spirit be released from unhappy bondage.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005338; -- content_default: That the fates should be so cruel as to permit us only this after a thousand years apart...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005336; -- content_default: Anaya...? Do my eyes deceive me? Is it really you?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005337; -- content_default: The ages have been cruel to you and I, my love, but be assured, it is, and at long last we are reunited.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005347; -- content_default: Cliffspring Falls lies along the mountains to the east and north.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005346; -- content_default: Thank you, $N. And luck to you.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005393; -- content_default: Grimclaw roars in acknowledgement at Terenthis.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005392; -- content_default: I understand, my friend. I shall find someone to help your master. Go back to him now, or at least stay close.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005391; -- content_default: Grimclaw roars at Terenthis more, but this time the druid seems to understand the bear.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005390; -- content_default: There... that should help. Now, tell me what's happened, Grimclaw.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005389; -- content_default: Terenthis begins to cast a spell on Grimclaw.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005388; -- content_default: Whoa, whoa there, my friend. One moment...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005387; -- content_default: Grimclaw begins to moan and roar at Terenthis while stomping his paws on the ground.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005386; -- content_default: Grimclaw?! Easy there, my friend... where is your master Volcor?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005384; -- content_default: What was that noise? It sounded like a roar.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005385; -- content_default: Grimclaw roars at Terenthis to get his attention.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005395; -- content_default: Oh man, I thought I was dead for sure. Ugh... still dizzy...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005396; -- content_default: I can get back to the Stronghold on my own, I think. Now that you bought me some time, I should be able to stealth out of here. Who ever you are... thank you. May Elune bless you always!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005460; -- content_default: If you want the key, you'll have to catch me!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005461; -- content_default: Chase me if you dare! I run without a care!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005462; -- content_default: Why would you ever want to harm me!? Come. Friends we can be!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005463; -- content_default: DIE?! You make Pusillin cry!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005464; -- content_default: Say hello to my little friends!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005465; -- content_default: $N, please take a look at the sample of the Vylestem vine that I took from the caverns, so that you know what to look for...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005552; -- content_default: Who dares step into my domain! Come! Come, and be consumed!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005551; -- content_default: I'm out of here!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005550; -- content_default: After all we've been through? Well, I didn't like you anyway!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005549; -- content_default: What? How dare you say that to me?!?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005548; -- content_default: Ok, here I go!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005547; -- content_default: Oh no! Here they come!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005344; -- content_default: 's soft voice trails away into the mists. "Know that I love you always..."
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005345; -- content_default: How, my love? How will I find the strength to face the ages of the world without you by my side...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000135; -- content_default: Here goes nothing...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000117; -- content_default: Amazing! I feel... renewed. My strength returns!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000175; -- content_default: Milord, your guest has arrived. He awaits your presence.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000092; -- content_default: Hmm...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005394; -- content_default: If you have the time, Grimclaw and his master Volcor could use your help. If you're interested, speak with me further...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000106; -- content_default: I fear we may never soothe them...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000113; -- content_default: The toxin is ready, $N.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000129; -- content_default: Wow! $N, that dream dust is powerful stuff!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000125; -- content_default: The brood of Onyxia!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000122; -- content_default: %s writhes in pain.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000123; -- content_default: AAAAAAAAAAAAAAAARGH!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005026; -- content_default: And I am determined to find out more... So if you need my help again, you know where I'll be.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005553; -- content_default: Let's move forward!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000168; -- content_default: %s stares to the northwest and lets out a long, drawn out howl.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000169; -- content_default: %s lets forth a mighty howl.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005301; -- content_default: The boss wants all hands on high alert. The rusty anchor sinks tonight.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005302; -- content_default: Stonemasons. . .errr. . Defias be warned:  The rusty anchor sinks tonight.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005555; -- content_default: None may steal the secrets of the Makers!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000195; -- content_default: As you wish...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000163; -- content_default: I said GOOD DAY!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000164; -- content_default: My sword Archeus served me well in life, but as at last my spirit may pass from the unhappy existence, I need it no longer.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000165; -- content_default: I shall cling to the love of my daughter and hope that I will find forgiveness under the Light for my sins.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005240; -- content_default: The numbers of my companions dwindles, goddess, and my own power shall soon be insufficient to hold back the demons of Felwood.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005241; -- content_default: Goddess, grant me the power to overcome my enemies! Hear me, please, my need is desperate and my cause is just!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005242; -- content_default: What... what is this? Could this by the answer to my prayers? Elune has granted me a weapon -- this scythe -- to defeat the demons.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005243; -- content_default: I have failed... I have failed in my duty... failed my people... The worgen run rampant, and the Scythe of my goddess is lost.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005244; -- content_default: This evil I have unleashed... In whose hand does the power my goddess granted to me now lie... By whose hand is it directed?
+UPDATE db_script_string SET content_loc4 = "小心，$n！看西边！" WHERE entry = 2000000031; -- content_default: Beware, $n! Look to the west!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000177; -- content_default: I shall use this time wisely, milord. Thank you.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000178; -- content_default: It's time for my meditation, leave me.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000179; -- content_default: Yes, sir!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000180; -- content_default: %s waits for the guards to be out of sight.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000181; -- content_default: There you are. What news from Westfall?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000182; -- content_default: VanCleef sends word that the plans are underway. But he's heard rumors about someone snooping about.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000183; -- content_default: Hmm, it could be that meddler Shaw. I will see what I can discover. Be off with you. I'll contact you again soon.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000184; -- content_default: Very well. I will return then.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000185; -- content_default: That's it! That's what you were waiting for! KILL THEM!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005628; -- content_default: I've run out of arrows! I'm afraid if any more come you will need to take them on by yourself my friend.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005629; -- content_default: Praise Elune! I don't know if I could have survived the day without you, friend.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005630; -- content_default: My legs feels much better now, the remedy must be working. If you will excuse me, I must go report to my superiors about what has transpired here.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005631; -- content_default: Please speak with Sentinel Onaeya at Maestra's Post in Ashenvale, she will see to it that you are properly rewarded for your bravery this day.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005632; -- content_default: All hands to battle stations! Naga incoming!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005633; -- content_default: If we can just hold them now, I am sure we will be in the clear.
+UPDATE db_script_string SET content_loc4 = "现在我们来试一下..." WHERE entry = 2000005752; -- content_default: Now let's try it...
+UPDATE db_script_string SET content_loc4 = "噢！真是糟透了！" WHERE entry = 2000005753; -- content_default: Ugh! That's terrible!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005777; -- content_default: %s listens to Sigilbringer's report...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005778; -- content_default: What?? The Burning Blade is spreading! We must investigate!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005779; -- content_default: %s smashes the dead, twisted claw. 
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005767; -- content_default: I am going to practice and become a warrior like my father!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005768; -- content_default: Now to find an unsuspecting Harpy!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005769; -- content_default: There's one! For the Horde!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005770; -- content_default: Take that you mangy Harpy! Hyaa!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005771; -- content_default: You can't get away from a warrior of the Horde! Take that! And that!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005772; -- content_default: Now go back home where you belong!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005773; -- content_default: Aaahhh... Another glorious victory for The Horde!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005774; -- content_default: Mogg, get inside. It is not safe out there while your father is gone.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005775; -- content_default: When is pappa comming back from the fights in Warsong? It has been so long...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005730; -- content_default: %s picks the orc target...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005731; -- content_default: %s misses...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005732; -- content_default: %s takes a more careful aim...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005733; -- content_default: %s misses again...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005734; -- content_default: %s casually points at the orc target...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005735; -- content_default: %s hits!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005736; -- content_default: %s takes aim at the bottles...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005737; -- content_default: %s misses...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005738; -- content_default: %s takes aim at the bottles again...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005739; -- content_default: %s misses again...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005740; -- content_default: %s quickly shoots the middle target dead center...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005741; -- content_default: %s then takes aim at the bottles...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005742; -- content_default: %s only hits the side of the box!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005743; -- content_default: %s quickly shoots the orc dummy...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005744; -- content_default: %s turns to the paper target...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005745; -- content_default: %s shoots from the hip at the bottles...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000034; -- content_default: Let me help you with those.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000035; -- content_default: Drink this, it will help.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000036; -- content_default: You're going to be just fine.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000187; -- content_default: The abomination has overrun the Night Watch camp! Quickly, we must intercept it before it reaches town!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000186; -- content_default: Defend yourself, fool!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000189; -- content_default: Quillboar scraps! These should do the trick. Fish love Quillboar.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000190; -- content_default: Caught one! I'll see if any of the guards are hungry. Come on Fang!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000191; -- content_default: I caught a fish if you are hungry...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000192; -- content_default: A nice catch it is at that! You bring honor to the Horde boy, We thank you!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005320; -- content_default: Can I go collect more rocks for my necklace, Papa?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005321; -- content_default: Yes you may, Okla. But do not stray too far from home.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005322; -- content_default: Dabu! I will be careful Papa!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005323; -- content_default: Ooohh... This rock is nice and colorful. Let's see if I can find more like it...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005324; -- content_default: Hmm... That rock is nice, but too small.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005325; -- content_default: This is a shiney rock. I'll put it in my bucket. Ok, I just need a few more...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005326; -- content_default: I bet my friend Gruk would like this rock for the spear he is making! It's very sharp... I hope he likes it.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005327; -- content_default: There... That should be enough rocks to make a necklace. I should probably get home now anyway.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005162; -- content_default: Wouldn't that cause the weave to unravel if not properly anchored before starting the casting?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005163; -- content_default: The resultant energies could collapse though, and that could cause an energy flux that would give you a migraine for weeks.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005164; -- content_default: At least we wouldn't be around to have to clean it up.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005165; -- content_default: Wow, all of this for a love potion. Hope he's worth it.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005166; -- content_default: Only if we didn't follow the proper initialization procedures.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005173; -- content_default: If we use the appropriate sequence we should be ok. Will just take some serious studying before we start.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005349; -- content_default: %s meticulously examines the large vase.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005350; -- content_default: Poor Dorius. If I ever get my hands on those Dark Irons, so help me...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000349; -- content_default: Give to the charities who seek to help the victims of these hard times! Please.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000350; -- content_default: Don't forget the orphans of Stormwind!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000351; -- content_default: Give of your hearts and your purses! Give to the children of Stormwind who have lost their parents.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000352; -- content_default: Help the children of Stormwind... victims of the war and plague!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000375; -- content_default: Come,  $N. The lake is around the bend.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000376; -- content_default: Stand near me,  $N. I will protect you should anything go wrong.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000377; -- content_default: Malfurion!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000378; -- content_default: Remulos,  old friend. It is good to see you once more. I knew the message would find its way to you - one way or another.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000379; -- content_default: It was shrouded in nightmares,  Malfurion. What is happening in the Dream? What could cause such atrocities?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000380; -- content_default: I fear for the worst,  old friend. Within the Dream we fight a new foe,  born of an ancient evil. Ysera's noble brood has fallen victim to the old whisperings. It seems as if the Nightmare has broken through the realm to find a new host on Azeroth.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000381; -- content_default: I sensed as much,  Malfurion. Dark days loom ahead.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000382; -- content_default: Aye Remulos,  prepare the mortal races.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000383; -- content_default: You have been gone too long,  Malfurion. Peace between the Children of Azeroth has become tenuous at best. What of my father? Of your brother? Have you any news?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000384; -- content_default: Cenarius fights at my side. Illidan sits atop his throne in Outland - brooding. I'm afraid that the loss to Arthas proved to be his breaking point. Madness has embraced him,  Remulos. He replays the events in his mind a thousand times per day,  but in his mind,  he is the victor and Arthas is utterly defeated. He is too far gone,  old friend. I fear that the time may soon come that our bond is tested and it will not be as it was at the Well in Zin-Azshari. 
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000385; -- content_default: Remulos,  I am being drawn back... Tyrande... send her my love... Tell her I am safe... Tell her... Tell her I will return... Farewell...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000386; -- content_default: Farewell,  old friend... Farewell...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000387; -- content_default: Let us return to the grove,  mortal.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000260; -- content_default: Terenthis, Raene sent me to find you. The Sentinels are in need of help in Ashenvale.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000395; -- content_default: Hello, Selarin. I'm afraid I cannot help you at the moment, but perhaps some of the adventurers here in Auberdine can...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000396; -- content_default: Thank you, Terenthis. I shall remain here for as long as I can.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000397; -- content_default: Hopefully I can send a worthy few to help Ashenvale and the Sentinels.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000196; -- content_default: I very much doubt that he will have anything to say, stranger...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000197; -- content_default: I personally didn't mind him. It was the Prince who took exception to a high elf in his domain. Alas, I am not one to question the Prince. In his defense, he did not incinerate Master Winthalus immediately.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000198; -- content_default: We most definitely do not need any more attention drawn to us, stranger. Return to those that sent you in search of the lost master and tell them that nothing could be found. When this is done - and I will know when it is so - return and I shall reveal the secrets of the deceased.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000074; -- content_default: Into the box me pretties! Thas it. One by one, ye go.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000188; -- content_default: The beast is slain! All is well in Darkshire.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000234; -- content_default: What? $N, you served me well, but...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000235; -- content_default: Why have you summoned me so soon? I haven't yet reached my full power!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000236; -- content_default: No matter. You were a fool to help me, and now you will pay!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005647; -- content_default: For so long I have drifted in my cursed form. You have freed me... Your hard work shall be repaid.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005648; -- content_default: Please do as I instruct you, $N.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005649; -- content_default: Read this tome I have placed before you, and speak the words aloud.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005650; -- content_default: %s begins to channel his energy, focusing on the stone.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005651; -- content_default: Together, the two parts shall become one, once again.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005652; -- content_default: Shal myrinan ishnu daldorah...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005653; -- content_default: My scepter will once again become whole!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000466; -- content_default: Stand Prepared! The naga won't wait long to press their advantage once they know we're alive.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000166; -- content_default: OH NOES! Da king is dead! Uh... hail to da new king! Yeah!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000167; -- content_default: Yar, he's dead all right. That makes you da new king... well, all of you! Gordok is yours now, boss! You should talk to me so you can learn everything there is about being da king! I was... is his assistant! Yeah, that's why I'm called da crafty one!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005776; -- content_default: $N, I'll make sure all my friends in the Cartel know that you've saved my life today. Here - I'm going to need to be able to travel light, so please help yourself to my cache of tailoring and leatherworking supplies! Thanks again - see ya!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005800; -- content_default: %s enters a trance...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005801; -- content_default: %s I have created the totem. You, %n, must cleanse the well.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005802; -- content_default: Zarlman Two-Moons begins chanting as he mixes the well stones and ambercom before the Tribal Fire.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005803; -- content_default: The Water of the Seers is ready for your consumption, $N.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005780; -- content_default: We must hurry.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005781; -- content_default: Spirits of the forest come forth and heed nature's call!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005782; -- content_default: Spirits of the forest, you are needed! Make haste to the Charred Vale!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000355; -- content_default: Defiler... you will be punished for this incursion. <A symbol of flame radiates from the relic before it crumbles to the earth.>
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000356; -- content_default: Help us, outsider. <The relic crumbles to dust. A vision of eight Dark Iron dwarves performing some sort of ritual fills your head.>
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000357; -- content_default: Your existence is acknowledged. <The relic turns to dust. Your head throbs with newfound wisdom. Something evil lurks in the heart of the mountain.>
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000358; -- content_default: Leave this place. <The relic emits a white hot arc of flame. A memory has been gained: A lone Dark Iron dwarf is surrounded by seven corpses, kneeling before a monolith of flame.>
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000359; -- content_default: He cannot be defeated. <The relic burns to nothing. The memories it held are now your own. This city was destroyed by a being not of this world.>
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000360; -- content_default: Do not taint these ruins, mortal. <You are engulfed in a blinding flash of light. A creature composed entirely of flame is the only thing you can remember seeing.>
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005100; -- content_default: Perhaps Ograbisi will use your head as a tiny little hat when I'm through with you.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005101; -- content_default: Where I come from, you get shanked for opening another inmate's cell door!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005626; -- content_default: No! Get away from me! Help!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000353; -- content_default: You will perish here. <Your mind fills with visions of chaos and destruction.>
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000354; -- content_default: Leave this place. <The relic emits a white hot arc of flame. A memory has been gained: A lone Dark Iron dwarf is surrounded by seven corpses, kneeling before a monolith of flame.>
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005099; -- content_default: Get him out of there!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000005102; -- content_default: Ograbisi needs new hat.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000521; -- content_default: I will need to focus my energies onto this knife. By doing so, I should catch some of the stronger psychic impressions associated with it.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000522; -- content_default: I... I've seen enough I think... so very draining...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000523; -- content_default: A History... Hmmmm... Let me examine this for a moment.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000524; -- content_default: %s skims the pages of the book.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000525; -- content_default: Amazing! I think I have found it, $N.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000526; -- content_default: Glorious, indeed, Maltrake. It looks as if my plan worked perfectly. Wouldn't you say so, mortal?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000527; -- content_default: %s lets loose a reptilian laugh... at least you think it's a laugh.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000528; -- content_default: You would not have helped the legion of Blackrock had we just asked for your assistance, now would you?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000529; -- content_default: What will we do with them, master? They are of no use to us anymore.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000530; -- content_default: SILENCE FOOL!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000531; -- content_default: They will live of only to see the fruits of their labor: the destruction and chaos that will surely ensue as the legion of Blackrock invade the gorge.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000532; -- content_default: I leave you now, mortals. Alive and with these trinkets. Maltrake! Present them with the trinkets!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000533; -- content_default: Right away, master!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000534; -- content_default: %s begins to flap his massive wings faster. He is preparing for flight.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000535; -- content_default: Oh yes, the molt - do not lose it. There are those of my kin in the Burning Steppes that would craft items that only the molt of the black dragonflight could fortify.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000536; -- content_default: The legion of Blackrock comes, dwarflings! We shall scorch the earth and set fire to the heavens. None shall survive...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000540; -- content_default: Now, let's see... If I am correct, then... Hmmm...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000541; -- content_default: Blue plus red... I predict...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000542; -- content_default: $N, that's it! I have finally figured it out!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000602; -- content_default: Whoa! This is way more than what I bargained for, you're on your own, Slim!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000261; -- content_default: Hey Nagmara! How about a mug of Dark Iron Ale?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000262; -- content_default: Nagmara! Have any mutton left?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000263; -- content_default: Mistress, you tell Plugger that I want more of his ale. I can't get enough!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000264; -- content_default: Hey Nag, how about you slice me off a piece of that...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000265; -- content_default: You got it!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000266; -- content_default: Coming right up!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000267; -- content_default: I'll bring it right over, baby...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000612; -- content_default: %s loosens her grasp on the journal she had been clutching.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000786; -- content_default: %s wildly flips through the pages of a large tome.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000787; -- content_default: The sweet irony -- Stormwind forces cut down in defense of their city, only to rise and fight alongside the Brotherhood as instruments of destruction. 
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000788; -- content_default: And should one die, two shall rise!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000789; -- content_default: %s shuffles through the books.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000790; -- content_default: Now where did I put the Venture Company formulations?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000791; -- content_default: Hey, Raven...
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000792; -- content_default: Yea?
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000793; -- content_default: Can we take a break? My feet are killing me and those ... those things down there are creeping me out.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000794; -- content_default: I dunno, Jill. If Klaven comes down while we're slacking, we may end up as one of those things!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000795; -- content_default: Klaven doesn't pay me enough to deal with those zombies, drones or whatever he calls 'em. I don't know, Jill. If Klaven comes down while we're slacking, we might end up as those things!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000796; -- content_default: *Sigh* You're probably right, Raven. I'm going back on patrol....
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000613; -- content_default: Ready. Set. GO!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000614; -- content_default: HEY! No fair!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000615; -- content_default: I win!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000616; -- content_default: You cheated!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000617; -- content_default: Wanna race again? Best two out of three!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000400; -- content_default: So sorry to leave a customer but we have places to go and people to swindle. We will be back sometime later today. Good-bye!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000401; -- content_default: I am looking for some bodyguards that would like to protect the Gizelton Caravan. We are stopped on the road east of Kormek's Hut, north of Kolkar Centaur Village.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000402; -- content_default: Time for the Gizelton Caravan to head on out! We'll be back soon but if you cannot wait, head north to Kormek's Hut. We open shop in about an hour.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000403; -- content_default: This is Rigger Gizelton asking for assistance escorting my caravan past Mannoroc Coven. I'm on the road east of Shadowprey village.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000813; -- content_default: Speak with me to hear my tale.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000817; -- content_default: Greetings, mortals! I have been activated by the Discs of Norgannon to assist you!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000818; -- content_default: The discs are now ready! Engage the Discs of Norgannon once again to retrieve them!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000500; -- content_default: Children of the Night, heed your Queen's call!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000501; -- content_default: I join you in celebration of this most revered of nights - the night we Forsaken broke the Scourge's yoke of oppression!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000502; -- content_default: It is this night that our enemies fear us the most. It is THIS night that we show our enemies what it means to stand against the Forsaken!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000503; -- content_default: We burn the effigy of the Wickerman as a symbol of our struggle against those who would oppose us. We wear the ashes of the burnt Wickerman as a symbol of our neverending fight against those who would enslave us.
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000504; -- content_default: Now is the time to shake the world to its foundations! NOW is the time to remind those who would enslave us that we shall never yield!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000505; -- content_default: NOW is the time of the Forsaken! Power to the Forsaken - NOW AND FOREVER!!!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000508; -- content_default: The burning of the Wickerman will begin in thirty minutes! Come to the festival - located just west of the Undercity - and celebrate Hallow's End and our liberation from the Scourge!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000509; -- content_default: The burning of the Wickerman will begin in fifteen minutes! Come to the festival - located just west of the Undercity - and celebrate Hallow's End and our liberation from the Scourge!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000510; -- content_default: The burning of the Wickerman will begin in five minutes! Come to the festival - located just west of the Undercity - and celebrate Hallow's End and our liberation from the Scourge!
+-- UPDATE db_script_string SET content_loc4 = "" WHERE entry = 2000000511; -- content_default: The Wickerman Festival now begins! Power to the Forsaken!
+
+set names 'latin1'
