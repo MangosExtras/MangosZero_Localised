@@ -1,4 +1,4 @@
-SET NAMES 'utf8';
+Talonbranch GladeSET NAMES 'utf8';
 UPDATE locales_gameobject SET name_loc9='Vecchia Statua Leonina' WHERE entry=31; -- Name: Old Lion Statue
 UPDATE locales_gameobject SET name_loc9='Forziere Sommerso' WHERE entry=32; -- Name: Sunken Chest
 UPDATE locales_gameobject SET name_loc9='Forziere Chiuso' WHERE entry=33; -- Name: Locked Chest
@@ -547,43 +547,43 @@ UPDATE locales_gameobject SET name_loc9='Corrispondenza Bloodsail' WHERE entry=2
 UPDATE locales_gameobject SET name_loc9='Radice Musquash' WHERE entry=2084; -- Name: Musquash Root
 UPDATE locales_gameobject SET name_loc9='Carte Nautiche Bloodsail' WHERE entry=2086; -- Name: Bloodsail Charts
 UPDATE locales_gameobject SET name_loc9='Ordini Bloodsail' WHERE entry=2087; -- Name: Bloodsail Orders
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2096; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2098; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2099; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=2100; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=2101; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2102; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2105; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2106; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2108; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2096; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2098; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2099; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=2100; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=2101; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2102; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2105; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2106; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2108; -- Name: Trade District
 UPDATE locales_gameobject SET name_loc9='Fiori Fragranti' WHERE entry=2109; -- Name: Fragrant Flowers
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2110; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2111; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=2112; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=2113; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2115; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2116; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Fortezza di Stormwind' WHERE entry=2117; -- Name: Stormwind Keep
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=2119; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc9='Fortezza di Stormwind' WHERE entry=2120; -- Name: Stormwind Keep
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2122; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=2123; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=2124; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2125; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=2127; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2128; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2129; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2110; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2111; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=2112; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=2113; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2115; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2116; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Stormwind Keep' WHERE entry=2117; -- Name: Stormwind Keep
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=2119; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Stormwind Keep' WHERE entry=2120; -- Name: Stormwind Keep
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2122; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=2123; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=2124; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2125; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=2127; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2128; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2129; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc9='La Botte di Vino' WHERE entry=2130; -- Name: The Wine Cask
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2131; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2133; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2134; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=2136; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2131; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2133; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2134; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=2136; -- Name: Old Town
 UPDATE locales_gameobject SET name_loc9='La Faretra Vuota' WHERE entry=2138; -- Name: The Empty Quiver
 UPDATE locales_gameobject SET name_loc9='Arsenale di Weller' WHERE entry=2139; -- Name: Weller's Arsenal
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2140; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=2141; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2140; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=2141; -- Name: Mage Quarter
 UPDATE locales_gameobject SET name_loc9='Goldshire' WHERE entry=2142; -- Name: Goldshire
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=2143; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=2143; -- Name: Old Town
 UPDATE locales_gameobject SET name_loc9='Ufficio Contabile di Stormwind ' WHERE entry=2145; -- Name: Stormwind Counting House
 UPDATE locales_gameobject SET name_loc9='Mercanzia Quotidiana' WHERE entry=2146; -- Name: Everyday Merchandise
 UPDATE locales_gameobject SET name_loc9='I Tagliatori di Formaggio' WHERE entry=2148; -- Name: The Cheese Cutters
@@ -607,21 +607,21 @@ UPDATE locales_gameobject SET name_loc9='Pirotecnici' WHERE entry=2165; -- Name:
 UPDATE locales_gameobject SET name_loc9='Esigenze Alchemiche' WHERE entry=2166; -- Name: Alchemy Needs
 UPDATE locales_gameobject SET name_loc9='Antiche Curiosità' WHERE entry=2167; -- Name: Ancient Curios
 UPDATE locales_gameobject SET name_loc9='L\'Eremita Depresso' WHERE entry=2169; -- Name: The Blue Recluse
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=2171; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2173; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2175; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2176; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=2171; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2173; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2175; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2176; -- Name: Trade District
 UPDATE locales_gameobject SET name_loc9='Il Miglior Filo' WHERE entry=2177; -- Name: The Finest Thread
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=2178; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2179; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=2181; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2182; -- Name: Trade District
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2186; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2187; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=2178; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2179; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=2181; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2182; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2186; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2187; -- Name: Trade District
 UPDATE locales_gameobject SET name_loc9='Alloggi dei Maghi' WHERE entry=2188; -- Name: Mage Quarters
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=2189; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=2190; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=2191; -- Name: Trade District
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=2189; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=2190; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2191; -- Name: Trade District
 UPDATE locales_gameobject SET name_loc9='La Scialuppa Logora' WHERE entry=2289; -- Name: Ruined Lifeboat
 UPDATE locales_gameobject SET name_loc9='Ali di Poiana Grigliate' WHERE entry=2332; -- Name: Barbequed Buzzard Wings
 UPDATE locales_gameobject SET name_loc9='Stranglevine Wine' WHERE entry=2333; -- Name: Stranglevine Wine
@@ -678,9 +678,9 @@ UPDATE locales_gameobject SET name_loc9='Stromgarde' WHERE entry=2684; -- Name: 
 UPDATE locales_gameobject SET name_loc9='Refuge Pointe' WHERE entry=2685; -- Name: Refuge Pointe
 UPDATE locales_gameobject SET name_loc9='Bottiglia' WHERE entry=2687; -- Name: Bottle
 UPDATE locales_gameobject SET name_loc9='Keystone' WHERE entry=2688; -- Name: Keystone
-UPDATE locales_gameobject SET name_loc9='Pietra del Vincolo Occidentale' WHERE entry=2689; -- Name: Stone of West Binding
-UPDATE locales_gameobject SET name_loc9='Pietra del Vincolo Esterna' WHERE entry=2690; -- Name: Stone of Outer Binding
-UPDATE locales_gameobject SET name_loc9='Pietra del Vincolo Orientale' WHERE entry=2691; -- Name: Stone of East Binding
+UPDATE locales_gameobject SET name_loc9='Pietra del West Binding' WHERE entry=2689; -- Name: Stone of West Binding
+UPDATE locales_gameobject SET name_loc9='Pietra dell\'Outer Binding' WHERE entry=2690; -- Name: Stone of Outer Binding
+UPDATE locales_gameobject SET name_loc9='Pietra dell\'East Binding' WHERE entry=2691; -- Name: Stone of East Binding
 UPDATE locales_gameobject SET name_loc9='Libro' WHERE entry=2695; -- Name: Book
 UPDATE locales_gameobject SET name_loc9='Frammenti Iridescenti' WHERE entry=2701; -- Name: Iridescent Shards
 UPDATE locales_gameobject SET name_loc9='Pietra del Vincolo Interna' WHERE entry=2702; -- Name: Stone of Inner Binding
@@ -742,9 +742,9 @@ UPDATE locales_gameobject SET name_loc9='Brocca dell\'Acqua' WHERE entry=2907; -
 UPDATE locales_gameobject SET name_loc9='Cassa dei Rifornimenti Sigillata' WHERE entry=2908; -- Name: Sealed Supply Crate
 UPDATE locales_gameobject SET name_loc9='Pompa dell\'Acqua di Wildmane' WHERE entry=2909; -- Name: Wildmane Water Pump
 UPDATE locales_gameobject SET name_loc9='Pietra del Pozzo' WHERE entry=2910; -- Name: Well Stone
-UPDATE locales_gameobject SET name_loc9='Pozzo di Stormbull' WHERE entry=2911; -- Name: Stormbull Water Well
+UPDATE locales_gameobject SET name_loc9='Stormbull Water Well' WHERE entry=2911; -- Name: Stormbull Water Well
 UPDATE locales_gameobject SET name_loc9='Ambercorn' WHERE entry=2912; -- Name: Ambercorn
-UPDATE locales_gameobject SET name_loc9='Pozzo di Winterhoof' WHERE entry=2913; -- Name: Winterhoof Water Well
+UPDATE locales_gameobject SET name_loc9='Winterhoof Water Well' WHERE entry=2913; -- Name: Winterhoof Water Well
 UPDATE locales_gameobject SET name_loc9='Fuoco Tribale' WHERE entry=2914; -- Name: Tribal Fire
 UPDATE locales_gameobject SET name_loc9='Sigillo della Terra' WHERE entry=2933; -- Name: Seal of the Earth
 UPDATE locales_gameobject SET name_loc9='Bloodhoof Village' WHERE entry=2968; -- Name: Bloodhoof Village
@@ -1319,7 +1319,7 @@ UPDATE locales_gameobject SET name_loc9='Casa 2' WHERE entry=19023; -- Name: Hou
 UPDATE locales_gameobject SET name_loc9='Santuario Nascosto' WHERE entry=19024; -- Name: Hidden Shrine
 UPDATE locales_gameobject SET name_loc9='Iscrizione Antico' WHERE entry=19025; -- Name: Ancient Inscription
 UPDATE locales_gameobject SET name_loc9='Tomo di  Mel\'Thandris' WHERE entry=19027; -- Name: Tome of Mel'Thandris
-UPDATE locales_gameobject SET name_loc9='Posto di Guardia Scarlet' WHERE entry=19028; -- Name: Scarlet Watch Post
+UPDATE locales_gameobject SET name_loc9='Scarlet Watch Post' WHERE entry=19028; -- Name: Scarlet Watch Post
 UPDATE locales_gameobject SET name_loc9='Mucchio di Terra' WHERE entry=19030; -- Name: Mound of Dirt
 UPDATE locales_gameobject SET name_loc9='The Barrens' WHERE entry=19033; -- Name: The Barrens
 UPDATE locales_gameobject SET name_loc9='Compendio dei Caduti' WHERE entry=19283; -- Name: Compendium of the Fallen
@@ -1347,7 +1347,7 @@ UPDATE locales_gameobject SET name_loc9='Oracle Glade Moonwell' WHERE entry=1955
 UPDATE locales_gameobject SET name_loc9='Greatwood Vale' WHERE entry=19553; -- Name: Greatwood Vale
 UPDATE locales_gameobject SET name_loc9='Stonetalon Peak' WHERE entry=19554; -- Name: Stonetalon Peak
 UPDATE locales_gameobject SET name_loc9='Windshear Crag' WHERE entry=19555; -- Name: Windshear Crag
-UPDATE locales_gameobject SET name_loc9='La Valle Carbonizzata' WHERE entry=19556; -- Name: The Charred Vale
+UPDATE locales_gameobject SET name_loc9='Charred Vale' WHERE entry=19556; -- Name: The Charred Vale
 UPDATE locales_gameobject SET name_loc9='Benvenuti' WHERE entry=19557; -- Name: Welcome
 UPDATE locales_gameobject SET name_loc9='Windshear Crag' WHERE entry=19558; -- Name: Windshear Crag
 UPDATE locales_gameobject SET name_loc9='Sun Rock Retreat' WHERE entry=19559; -- Name: Sun Rock Retreat
@@ -1368,7 +1368,7 @@ UPDATE locales_gameobject SET name_loc9='Stonetalon Peak' WHERE entry=19573; -- 
 UPDATE locales_gameobject SET name_loc9='Windshear Crag' WHERE entry=19574; -- Name: Windshear Crag
 UPDATE locales_gameobject SET name_loc9='Greatwood Vale' WHERE entry=19575; -- Name: Greatwood Vale
 UPDATE locales_gameobject SET name_loc9='The Barrens' WHERE entry=19576; -- Name: The Barrens
-UPDATE locales_gameobject SET name_loc9='La Valle Carbonizzata' WHERE entry=19577; -- Name: The Charred Vale
+UPDATE locales_gameobject SET name_loc9='Charred Vale' WHERE entry=19577; -- Name: The Charred Vale
 UPDATE locales_gameobject SET name_loc9='Windshear Crag' WHERE entry=19578; -- Name: Windshear Crag
 UPDATE locales_gameobject SET name_loc9='Desolace' WHERE entry=19579; -- Name: Desolace
 UPDATE locales_gameobject SET name_loc9='Greatwood Vale' WHERE entry=19580; -- Name: Greatwood Vale
@@ -1566,10 +1566,10 @@ UPDATE locales_gameobject SET name_loc9='Sentry Point' WHERE entry=21073; -- Nam
 UPDATE locales_gameobject SET name_loc9='Theramore Isle' WHERE entry=21074; -- Name: Theramore Isle
 UPDATE locales_gameobject SET name_loc9='North Point Tower' WHERE entry=21075; -- Name: North Point Tower
 UPDATE locales_gameobject SET name_loc9='The Barrens' WHERE entry=21076; -- Name: The Barrens
-UPDATE locales_gameobject SET name_loc9='Taverna del Riposo Ombreggiato' WHERE entry=21077; -- Name: Shady Rest Inn
+UPDATE locales_gameobject SET name_loc9='Shady Rest Inn' WHERE entry=21077; -- Name: Shady Rest Inn
 UPDATE locales_gameobject SET name_loc9='North Point Tower' WHERE entry=21078; -- Name: North Point Tower
 UPDATE locales_gameobject SET name_loc9='Theramore Isle' WHERE entry=21079; -- Name: Theramore Isle
-UPDATE locales_gameobject SET name_loc9='Taverna del Riposo Ombreggiato' WHERE entry=21080; -- Name: Shady Rest Inn
+UPDATE locales_gameobject SET name_loc9='Shady Rest Inn' WHERE entry=21080; -- Name: Shady Rest Inn
 UPDATE locales_gameobject SET name_loc9='The Barrens' WHERE entry=21081; -- Name: The Barrens
 UPDATE locales_gameobject SET name_loc9='Brackenwall Village' WHERE entry=21082; -- Name: Brackenwall Village
 UPDATE locales_gameobject SET name_loc9='The Barrens' WHERE entry=21083; -- Name: The Barrens
@@ -1592,7 +1592,7 @@ UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=21282; -- N
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=21308; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=21327; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=21459; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc9='Taverna del Riposo Ombreggiato' WHERE entry=21509; -- Name: The Shady Rest Inn
+UPDATE locales_gameobject SET name_loc9='Shady Rest Inn' WHERE entry=21509; -- Name: The Shady Rest Inn
 UPDATE locales_gameobject SET name_loc9='Circolo Magico Lashh\'an' WHERE entry=21511; -- Name: Lashh'an Spell Circle
 UPDATE locales_gameobject SET name_loc9='Manuale del Proprietario di Snufflenose' WHERE entry=21530; -- Name: Snufflenose Owner's Manual
 UPDATE locales_gameobject SET name_loc9='Postumi della Seconda Guerra' WHERE entry=21581; -- Name: Aftermath of the Second War
@@ -2220,25 +2220,25 @@ UPDATE locales_gameobject SET name_loc9='Capitano dei Ranger Alleria Windrunner'
 UPDATE locales_gameobject SET name_loc9='Danath Trollbane' WHERE entry=25332; -- Name: Danath Trollbane
 UPDATE locales_gameobject SET name_loc9='Arcimago Khadgar del Kirin Tor' WHERE entry=25333; -- Name: Archmage Khadgar of the Kirin Tor
 UPDATE locales_gameobject SET name_loc9='Distretto Industriale' WHERE entry=25334; -- Name: Industrial District
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=25336; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=25337; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=25338; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=25339; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=25340; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=25336; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=25337; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=25338; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=25339; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=25340; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc9='Il Parco' WHERE entry=25341; -- Name: The Park
 UPDATE locales_gameobject SET name_loc9='Il Parco' WHERE entry=25342; -- Name: The Park
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=25346; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=25347; -- Name: Old Town
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=25348; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=25349; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=25350; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=25351; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=25346; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=25347; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=25348; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=25349; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=25350; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=25351; -- Name: Mage Quarter
 UPDATE locales_gameobject SET name_loc9='Il Parco' WHERE entry=25352; -- Name: The Park
 UPDATE locales_gameobject SET name_loc9='Il Parco' WHERE entry=25353; -- Name: The Park
 UPDATE locales_gameobject SET name_loc9='Il Parco' WHERE entry=25354; -- Name: The Park
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=25355; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=25356; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=25357; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=25355; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=25356; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=25357; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc9='Recombobulator' WHERE entry=26449; -- Name: Recombobulator
 UPDATE locales_gameobject SET name_loc9='Piastre e Catene di Craghelm' WHERE entry=26480; -- Name: Craghelm's Plate and Chain
 UPDATE locales_gameobject SET name_loc9='Forniture da Caccia di Goldfury' WHERE entry=26482; -- Name: Goldfury's Hunting Supplies
@@ -2403,81 +2403,81 @@ UPDATE locales_gameobject SET name_loc9='Vestiario di Stonebrow' WHERE entry=323
 UPDATE locales_gameobject SET name_loc9='Pescatore Itinerante' WHERE entry=32352; -- Name: Traveling Fisherman
 UPDATE locales_gameobject SET name_loc9='Gadget di Springspindle' WHERE entry=32353; -- Name: Springspindle's Gadgets
 UPDATE locales_gameobject SET name_loc9='Cose che Scoppiano!' WHERE entry=32354; -- Name: Things That Go Boom!
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32355; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32356; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='Il Distretto Commerciale' WHERE entry=32357; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32355; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32356; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='The Commerce Ward' WHERE entry=32357; -- Name: The Commerce Ward
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=32358; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc9='Il Distretto Militare' WHERE entry=32359; -- Name: The Military Ward
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32360; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='Il Distretto Commerciale' WHERE entry=32361; -- Name: The Commerce Ward
-UPDATE locales_gameobject SET name_loc9='Il Distretto Mistico' WHERE entry=32362; -- Name: The Mystic Ward
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32363; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32364; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Il Distretto Militare' WHERE entry=32365; -- Name: The Military Ward
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32366; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32367; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32368; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32370; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32371; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32372; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32373; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32374; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32375; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32376; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Caveau di Ironforge' WHERE entry=32377; -- Name: Vault of Ironforge
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32378; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32379; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='Caveau di Ironforge' WHERE entry=32380; -- Name: Vault of Ironforge
+UPDATE locales_gameobject SET name_loc9='The Military Ward' WHERE entry=32359; -- Name: The Military Ward
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32360; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='The Commerce Ward' WHERE entry=32361; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc9='The Mystic Ward' WHERE entry=32362; -- Name: The Mystic Ward
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32363; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32364; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='The Military Ward' WHERE entry=32365; -- Name: The Military Ward
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32366; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32367; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32368; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32370; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32371; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32372; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32373; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32374; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32375; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32376; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Vault of Ironforge' WHERE entry=32377; -- Name: Vault of Ironforge
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32378; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32379; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='Vault of Ironforge' WHERE entry=32380; -- Name: Vault of Ironforge
 UPDATE locales_gameobject SET name_loc9='The Forlorn Caverns' WHERE entry=32381; -- Name: The Forlorn Caverns
 UPDATE locales_gameobject SET name_loc9='The Forlorn Cavern' WHERE entry=32383; -- Name: The Forlorn Cavern
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32384; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Il Distretto Militare' WHERE entry=32385; -- Name: The Military Ward
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32384; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='The Military Ward' WHERE entry=32385; -- Name: The Military Ward
 UPDATE locales_gameobject SET name_loc9='Sala dei Misteri' WHERE entry=32386; -- Name: Hall of Mysteries
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32388; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32388; -- Name: Market Walk
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=32389; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Sala delle Armi' WHERE entry=32390; -- Name: Hall of Arms
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=32391; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32392; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32393; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32394; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32395; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32396; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32397; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32398; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32399; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='Il Distretto Commerciale' WHERE entry=32400; -- Name: The Commerce Ward
-UPDATE locales_gameobject SET name_loc9='Il Distretto Commerciale' WHERE entry=32401; -- Name: The Commerce Ward
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32402; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='Il Distretto Commerciale' WHERE entry=32403; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32392; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32393; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32394; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32395; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32396; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32397; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32398; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32399; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='The Commerce Ward' WHERE entry=32400; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc9='The Commerce Ward' WHERE entry=32401; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32402; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='The Commerce Ward' WHERE entry=32403; -- Name: The Commerce Ward
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=32404; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32405; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32406; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32407; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32408; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='Il Distretto Commerciale' WHERE entry=32409; -- Name: The Commerce Ward
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32410; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32411; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32412; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32413; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='Il Distretto Commerciale' WHERE entry=32414; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32405; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32406; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32407; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32408; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='The Commerce Ward' WHERE entry=32409; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32410; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32411; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32412; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32413; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='The Commerce Ward' WHERE entry=32414; -- Name: The Commerce Ward
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=32416; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc9='Il Distretto Commerciale' WHERE entry=32417; -- Name: The Commerce Ward
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32418; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='The Commerce Ward' WHERE entry=32417; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32418; -- Name: Hall of Explorers
 UPDATE locales_gameobject SET name_loc9='Gnomi' WHERE entry=32419; -- Name: Gnomes
-UPDATE locales_gameobject SET name_loc9='Il Distretto Commerciale' WHERE entry=32420; -- Name: The Commerce Ward
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32421; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32423; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32424; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='The Commerce Ward' WHERE entry=32420; -- Name: The Commerce Ward
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32421; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32423; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32424; -- Name: The Great Forge
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=32425; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc9='Il Distretto Mistico' WHERE entry=32427; -- Name: The Mystic Ward
-UPDATE locales_gameobject SET name_loc9='Il Distretto Militare' WHERE entry=32428; -- Name: The Military Ward
+UPDATE locales_gameobject SET name_loc9='The Mystic Ward' WHERE entry=32427; -- Name: The Mystic Ward
+UPDATE locales_gameobject SET name_loc9='The Military Ward' WHERE entry=32428; -- Name: The Military Ward
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=32429; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32430; -- Name: Ironforge Main Gate
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32431; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='Il Distretto Militare' WHERE entry=32434; -- Name: The Military Ward
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32436; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='Il Distretto Mistico' WHERE entry=32438; -- Name: The Mystic Ward
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=32440; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32430; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32431; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='The Military Ward' WHERE entry=32434; -- Name: The Military Ward
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32436; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='The Mystic Ward' WHERE entry=32438; -- Name: The Mystic Ward
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=32440; -- Name: Ironforge Main Gate
 UPDATE locales_gameobject SET name_loc9='Cassaforte di Galen' WHERE entry=32569; -- Name: Galen's Strongbox
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=32570; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=32571; -- Name: Anvil
@@ -2499,17 +2499,17 @@ UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=32593; -- Name: A
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=32594; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=32595; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=32596; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32783; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32784; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32785; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32786; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32787; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32788; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32789; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=32790; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='Il Distretto Mistico' WHERE entry=32791; -- Name: The Mystic Ward
-UPDATE locales_gameobject SET name_loc9='Passeggiata Mercantile' WHERE entry=32792; -- Name: Market Walk
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=32793; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32783; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32784; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32785; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32786; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32787; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32788; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32789; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=32790; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='The Mystic Ward' WHERE entry=32791; -- Name: The Mystic Ward
+UPDATE locales_gameobject SET name_loc9='Market Walk' WHERE entry=32792; -- Name: Market Walk
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=32793; -- Name: Hall of Explorers
 UPDATE locales_gameobject SET name_loc9='Sedia di Legno' WHERE entry=32833; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc9='Sedia di Legno' WHERE entry=32834; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc9='Sedia di Legno' WHERE entry=32835; -- Name: Wooden Chair
@@ -2598,30 +2598,30 @@ UPDATE locales_gameobject SET name_loc9='Fuoco Ruggente' WHERE entry=35596; -- N
 UPDATE locales_gameobject SET name_loc9='Fuoco Ruggente' WHERE entry=35597; -- Name: Roaring Fire
 UPDATE locales_gameobject SET name_loc9='Fuoco Ruggente' WHERE entry=35598; -- Name: Roaring Fire
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=35844; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc9='Quartiere della Guerra' WHERE entry=36070; -- Name: War Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere della Guerra' WHERE entry=36071; -- Name: War Quarter
-UPDATE locales_gameobject SET name_loc9='La Farmacia' WHERE entry=36072; -- Name: The Apothecarium
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Malviventi' WHERE entry=36073; -- Name: Rogues' Quarter
-UPDATE locales_gameobject SET name_loc9='La Farmacia' WHERE entry=36077; -- Name: The Apothecarium
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=36078; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='La Farmacia' WHERE entry=36079; -- Name: The Apothecarium
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=36080; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere della Magia' WHERE entry=36082; -- Name: Magic Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=36083; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=36085; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere della Magia' WHERE entry=36086; -- Name: Magic Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere della Magia' WHERE entry=36090; -- Name: Magic Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=36091; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere della Magia' WHERE entry=36092; -- Name: Magic Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere della Magia' WHERE entry=36093; -- Name: Magic Quarter
-UPDATE locales_gameobject SET name_loc9='La Farmacia' WHERE entry=36094; -- Name: The Apothecarium
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=36095; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=36096; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='La Farmacia' WHERE entry=36098; -- Name: The Apothecarium
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=36102; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=36105; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=36113; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=36118; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='War Quarter' WHERE entry=36070; -- Name: War Quarter
+UPDATE locales_gameobject SET name_loc9='War Quarter' WHERE entry=36071; -- Name: War Quarter
+UPDATE locales_gameobject SET name_loc9='The Apothecarium' WHERE entry=36072; -- Name: The Apothecarium
+UPDATE locales_gameobject SET name_loc9='Rogues\' Quarter' WHERE entry=36073; -- Name: Rogues' Quarter
+UPDATE locales_gameobject SET name_loc9='The Apothecarium' WHERE entry=36077; -- Name: The Apothecarium
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=36078; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='The Apothecarium' WHERE entry=36079; -- Name: The Apothecarium
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=36080; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='Magic Quarter' WHERE entry=36082; -- Name: Magic Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=36083; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=36085; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='Magic Quarter' WHERE entry=36086; -- Name: Magic Quarter
+UPDATE locales_gameobject SET name_loc9='Magic Quarter' WHERE entry=36090; -- Name: Magic Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=36091; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='Magic Quarter' WHERE entry=36092; -- Name: Magic Quarter
+UPDATE locales_gameobject SET name_loc9='Magic Quarter' WHERE entry=36093; -- Name: Magic Quarter
+UPDATE locales_gameobject SET name_loc9='The Apothecarium' WHERE entry=36094; -- Name: The Apothecarium
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=36095; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=36096; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='The Apothecarium' WHERE entry=36098; -- Name: The Apothecarium
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=36102; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=36105; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=36113; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=36118; -- Name: Trade Quarter
 UPDATE locales_gameobject SET name_loc9='Quartiere Reale' WHERE entry=36126; -- Name: Royal Quarter
 UPDATE locales_gameobject SET name_loc9='Quartiere Reale' WHERE entry=36127; -- Name: Royal Quarter
 UPDATE locales_gameobject SET name_loc9='Calderone' WHERE entry=36396; -- Name: Cauldron
@@ -2956,47 +2956,47 @@ UPDATE locales_gameobject SET name_loc9='Frutta e Verdura' WHERE entry=50490; --
 UPDATE locales_gameobject SET name_loc9='Pani e Cereali' WHERE entry=50491; -- Name: Breads and Grains
 UPDATE locales_gameobject SET name_loc9='Banca di Thunder Bluff' WHERE entry=50492; -- Name: Thunder Bluff Bank
 UPDATE locales_gameobject SET name_loc9='Fucina di Karn' WHERE entry=50493; -- Name: Karn's Smithy
-UPDATE locales_gameobject SET name_loc9='Altura dei Cacciatori' WHERE entry=50494; -- Name: Hunter Rise
-UPDATE locales_gameobject SET name_loc9='Altura dello Spirito' WHERE entry=50495; -- Name: Spirit Rise
+UPDATE locales_gameobject SET name_loc9='Hunter Rise' WHERE entry=50494; -- Name: Hunter Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50495; -- Name: Spirit Rise
 UPDATE locales_gameobject SET name_loc9='Ascensore al Mulgore' WHERE entry=50496; -- Name: Elevator to Mulgore
-UPDATE locales_gameobject SET name_loc9='Altura dello Spirito' WHERE entry=50497; -- Name: Spirit Rise
-UPDATE locales_gameobject SET name_loc9='Altura dei Cacciatori' WHERE entry=50498; -- Name: Hunter Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50497; -- Name: Spirit Rise
+UPDATE locales_gameobject SET name_loc9='Hunter Rise' WHERE entry=50498; -- Name: Hunter Rise
 UPDATE locales_gameobject SET name_loc9='Ascensore al Mulgore' WHERE entry=50499; -- Name: Elevator to Mulgore
-UPDATE locales_gameobject SET name_loc9='Altura dello Spirito' WHERE entry=50500; -- Name: Spirit Rise
-UPDATE locales_gameobject SET name_loc9='Altura dei Cacciatori' WHERE entry=50501; -- Name: Hunter Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50500; -- Name: Spirit Rise
+UPDATE locales_gameobject SET name_loc9='Hunter Rise' WHERE entry=50501; -- Name: Hunter Rise
 UPDATE locales_gameobject SET name_loc9='Ascensore al Mulgore' WHERE entry=50502; -- Name: Elevator to Mulgore
 UPDATE locales_gameobject SET name_loc9='Armi di Thunder Bluff' WHERE entry=50503; -- Name: Thunder Bluff Weapons
 UPDATE locales_gameobject SET name_loc9='Geologia Stonehoof' WHERE entry=50504; -- Name: Stonehoof Geology
 UPDATE locales_gameobject SET name_loc9='Informazioni Civiche di Thunder Bluff' WHERE entry=50505; -- Name: Thunder Bluff Civic Information
 UPDATE locales_gameobject SET name_loc9='Ascensore al Mulgore' WHERE entry=50506; -- Name: Elevator to Mulgore
-UPDATE locales_gameobject SET name_loc9='Altura degli Anziani' WHERE entry=50507; -- Name: Elder Rise
-UPDATE locales_gameobject SET name_loc9='Altura degli Anziani' WHERE entry=50508; -- Name: Elder Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50507; -- Name: Elder Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50508; -- Name: Elder Rise
 UPDATE locales_gameobject SET name_loc9='Ascensore al Mulgore' WHERE entry=50509; -- Name: Elevator to Mulgore
-UPDATE locales_gameobject SET name_loc9='Altura dello Spirito' WHERE entry=50510; -- Name: Spirit Rise
-UPDATE locales_gameobject SET name_loc9='Altura dello Spirito' WHERE entry=50511; -- Name: Spirit Rise
-UPDATE locales_gameobject SET name_loc9='Altura degli Anziani' WHERE entry=50512; -- Name: Elder Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50510; -- Name: Spirit Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50511; -- Name: Spirit Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50512; -- Name: Elder Rise
 UPDATE locales_gameobject SET name_loc9='Ascensore al Mulgore' WHERE entry=50513; -- Name: Elevator to Mulgore
-UPDATE locales_gameobject SET name_loc9='Altura dello Spirito' WHERE entry=50514; -- Name: Spirit Rise
-UPDATE locales_gameobject SET name_loc9='Altura dei Cacciatori' WHERE entry=50515; -- Name: Hunter Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50514; -- Name: Spirit Rise
+UPDATE locales_gameobject SET name_loc9='Hunter Rise' WHERE entry=50515; -- Name: Hunter Rise
 UPDATE locales_gameobject SET name_loc9='Ascensore al Mulgore' WHERE entry=50516; -- Name: Elevator to Mulgore
-UPDATE locales_gameobject SET name_loc9='Altura degli Anziani' WHERE entry=50517; -- Name: Elder Rise
-UPDATE locales_gameobject SET name_loc9='Altura dello Spirito' WHERE entry=50518; -- Name: Spirit Rise
-UPDATE locales_gameobject SET name_loc9='Altura degli Anziani' WHERE entry=50519; -- Name: Elder Rise
-UPDATE locales_gameobject SET name_loc9='Tambura dell\'Altura degli Anziani' WHERE entry=50520; -- Name: Elder Rise Drums
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50517; -- Name: Elder Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50518; -- Name: Spirit Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50519; -- Name: Elder Rise
+UPDATE locales_gameobject SET name_loc9='Tambura dell\'Elder Rise' WHERE entry=50520; -- Name: Elder Rise Drums
 UPDATE locales_gameobject SET name_loc9='Bistecche e Costolette di Kodo' WHERE entry=50521; -- Name: Kodo Steak and Ribs
 UPDATE locales_gameobject SET name_loc9='Esca & Attrezzatura da Pesca Mountaintop' WHERE entry=50522; -- Name: Mountaintop Bait & Tackle
 UPDATE locales_gameobject SET name_loc9='Totem Winterhoof' WHERE entry=50523; -- Name: Winterhoof Totems
 UPDATE locales_gameobject SET name_loc9='Cucina di Aska' WHERE entry=50524; -- Name: Aska's Kitchen
 UPDATE locales_gameobject SET name_loc9='Armi da Fuoco di Thunderhoof' WHERE entry=50525; -- Name: Thunderhoof's Firearms
-UPDATE locales_gameobject SET name_loc9='Altura dello Spirito' WHERE entry=50526; -- Name: Spirit Rise
-UPDATE locales_gameobject SET name_loc9='Altura dei Cacciatori' WHERE entry=50527; -- Name: Hunter Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50526; -- Name: Spirit Rise
+UPDATE locales_gameobject SET name_loc9='Hunter Rise' WHERE entry=50527; -- Name: Hunter Rise
 UPDATE locales_gameobject SET name_loc9='Ascensore al Mulgore' WHERE entry=50528; -- Name: Elevator to Mulgore
-UPDATE locales_gameobject SET name_loc9='Altura degli Anziani' WHERE entry=50529; -- Name: Elder Rise
-UPDATE locales_gameobject SET name_loc9='Altura dei Cacciatori' WHERE entry=50530; -- Name: Hunter Rise
-UPDATE locales_gameobject SET name_loc9='Altura dei Cacciatori' WHERE entry=50531; -- Name: Hunter Rise
-UPDATE locales_gameobject SET name_loc9='Altura degli Anziani' WHERE entry=50532; -- Name: Elder Rise
-UPDATE locales_gameobject SET name_loc9='Altura dei Cacciatori' WHERE entry=50533; -- Name: Hunter Rise
-UPDATE locales_gameobject SET name_loc9='Altura degli Anziani' WHERE entry=50534; -- Name: Elder Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50529; -- Name: Elder Rise
+UPDATE locales_gameobject SET name_loc9='Hunter Rise' WHERE entry=50530; -- Name: Hunter Rise
+UPDATE locales_gameobject SET name_loc9='Hunter Rise' WHERE entry=50531; -- Name: Hunter Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50532; -- Name: Elder Rise
+UPDATE locales_gameobject SET name_loc9='Hunter Rise' WHERE entry=50533; -- Name: Hunter Rise
+UPDATE locales_gameobject SET name_loc9='Elder Rise' WHERE entry=50534; -- Name: Elder Rise
 UPDATE locales_gameobject SET name_loc9='Bastoni della Pioggia' WHERE entry=50535; -- Name: Rainsticks
 UPDATE locales_gameobject SET name_loc9='Sala dei Cacciatori' WHERE entry=50536; -- Name: Hunter's Hall
 UPDATE locales_gameobject SET name_loc9='Sala degli Anziani' WHERE entry=50537; -- Name: Hall of Elders
@@ -3217,8 +3217,8 @@ UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=61952; -- N
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=61953; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc9='Centro Visitatori di Stormwind' WHERE entry=63195; -- Name: Stormwind Visitor's Center
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=63196; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=63197; -- Name: Cathedral Square
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=63198; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=63197; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=63198; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc9='Circolo Sciamanico' WHERE entry=63674; -- Name: Shaman Shrine
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=64849; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=64850; -- Name: Bonfire
@@ -3434,13 +3434,13 @@ UPDATE locales_gameobject SET name_loc9='Torcia' WHERE entry=97701; -- Name: Tor
 UPDATE locales_gameobject SET name_loc9='Bella Sedia' WHERE entry=97801; -- Name: Fine Chair
 UPDATE locales_gameobject SET name_loc9='Bella Sedia' WHERE entry=97802; -- Name: Fine Chair
 UPDATE locales_gameobject SET name_loc9='Bella Sedia' WHERE entry=97803; -- Name: Fine Chair
-UPDATE locales_gameobject SET name_loc9='Quartiere della Guerra' WHERE entry=98343; -- Name: War Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=98347; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=98348; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere della Guerra' WHERE entry=98349; -- Name: War Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=98350; -- Name: Trade Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere della Magia' WHERE entry=98351; -- Name: Magic Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=98354; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='War Quarter' WHERE entry=98343; -- Name: War Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=98347; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=98348; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='War Quarter' WHERE entry=98349; -- Name: War Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=98350; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='Magic Quarter' WHERE entry=98351; -- Name: Magic Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=98354; -- Name: Trade Quarter
 UPDATE locales_gameobject SET name_loc9='Circolo Sciamanico' WHERE entry=100028; -- Name: Shaman Shrine
 UPDATE locales_gameobject SET name_loc9='Circolo Sciamanico' WHERE entry=100035; -- Name: Shaman Shrine
 UPDATE locales_gameobject SET name_loc9='Circolo Sciamanico' WHERE entry=101748; -- Name: Shaman Shrine
@@ -3542,10 +3542,10 @@ UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=103770; -- Name: Bon
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=103771; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Calderone' WHERE entry=103772; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc9='Strumenti di Emissione Regolari' WHERE entry=103774; -- Name: Standard Issue Tools
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Maghi' WHERE entry=103793; -- Name: Mage Quarter
-UPDATE locales_gameobject SET name_loc9='Piazza della Cattedrale' WHERE entry=103794; -- Name: Cathedral Square
+UPDATE locales_gameobject SET name_loc9='Mage Quarter' WHERE entry=103793; -- Name: Mage Quarter
+UPDATE locales_gameobject SET name_loc9='Cathedral Square' WHERE entry=103794; -- Name: Cathedral Square
 UPDATE locales_gameobject SET name_loc9='Posatoio dei grifoni' WHERE entry=103795; -- Name: Griffon Roost
-UPDATE locales_gameobject SET name_loc9='Vecchia Città' WHERE entry=103796; -- Name: Old Town
+UPDATE locales_gameobject SET name_loc9='Old Town' WHERE entry=103796; -- Name: Old Town
 UPDATE locales_gameobject SET name_loc9='Sedia di Legno' WHERE entry=103797; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc9='Sedia di Legno' WHERE entry=103798; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc9='Sedia di Legno' WHERE entry=103799; -- Name: Wooden Chair
@@ -3765,20 +3765,20 @@ UPDATE locales_gameobject SET name_loc9='Cure Spirituali' WHERE entry=113528; --
 UPDATE locales_gameobject SET name_loc9='Cannoni Arathi' WHERE entry=113529; -- Name: Arathi Cannon Fire
 UPDATE locales_gameobject SET name_loc9='Cannoe' WHERE entry=113531; -- Name: Cannon
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=113540; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Malviventi' WHERE entry=113568; -- Name: Rogues' Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Malviventi' WHERE entry=113569; -- Name: Rogues' Quarter
-UPDATE locales_gameobject SET name_loc9='La Farmacia' WHERE entry=113570; -- Name: The Apothecarium
-UPDATE locales_gameobject SET name_loc9='La Farmacia' WHERE entry=113571; -- Name: The Apothecarium
-UPDATE locales_gameobject SET name_loc9='Quartiere della Guerra' WHERE entry=113572; -- Name: War Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere della Guerra' WHERE entry=113574; -- Name: War Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Malviventi' WHERE entry=113575; -- Name: Rogues' Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere della Magia' WHERE entry=113576; -- Name: Magic Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Malviventi' WHERE entry=113577; -- Name: Rogues' Quarter
+UPDATE locales_gameobject SET name_loc9='Rogues\' Quarter' WHERE entry=113568; -- Name: Rogues' Quarter
+UPDATE locales_gameobject SET name_loc9='Rogues\' Quarter' WHERE entry=113569; -- Name: Rogues' Quarter
+UPDATE locales_gameobject SET name_loc9='The Apothecarium' WHERE entry=113570; -- Name: The Apothecarium
+UPDATE locales_gameobject SET name_loc9='The Apothecarium' WHERE entry=113571; -- Name: The Apothecarium
+UPDATE locales_gameobject SET name_loc9='War Quarter' WHERE entry=113572; -- Name: War Quarter
+UPDATE locales_gameobject SET name_loc9='War Quarter' WHERE entry=113574; -- Name: War Quarter
+UPDATE locales_gameobject SET name_loc9='Rogues\' Quarter' WHERE entry=113575; -- Name: Rogues' Quarter
+UPDATE locales_gameobject SET name_loc9='Magic Quarter' WHERE entry=113576; -- Name: Magic Quarter
+UPDATE locales_gameobject SET name_loc9='Rogues\' Quarter' WHERE entry=113577; -- Name: Rogues' Quarter
 UPDATE locales_gameobject SET name_loc9='Locanda' WHERE entry=113752; -- Name: Inn
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=113753; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc9='Forgia' WHERE entry=113754; -- Name: Forge
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Malviventi' WHERE entry=113755; -- Name: Rogues' Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere dei Malviventi' WHERE entry=113756; -- Name: Rogues' Quarter
+UPDATE locales_gameobject SET name_loc9='Rogues\' Quarter' WHERE entry=113755; -- Name: Rogues' Quarter
+UPDATE locales_gameobject SET name_loc9='Rogues\' Quarter' WHERE entry=113756; -- Name: Rogues' Quarter
 UPDATE locales_gameobject SET name_loc9='Nascondiglio Shadowforge' WHERE entry=113757; -- Name: Shadowforge Cache
 UPDATE locales_gameobject SET name_loc9='Uovo Colorato Luminoso' WHERE entry=113768; -- Name: Brightly Colored Egg
 UPDATE locales_gameobject SET name_loc9='Uovo Colorato Luminoso' WHERE entry=113769; -- Name: Brightly Colored Egg
@@ -3902,7 +3902,7 @@ UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=136965; -- Name: Bon
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=136966; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Crepa del Nethern' WHERE entry=137167; -- Name: Nether Rift
 UPDATE locales_gameobject SET name_loc9='La Caverna di Forlorn' WHERE entry=137644; -- Name: The Forlorn Cavern
-UPDATE locales_gameobject SET name_loc9='Il Distretto Militare' WHERE entry=137646; -- Name: The Military Ward
+UPDATE locales_gameobject SET name_loc9='The Military Ward' WHERE entry=137646; -- Name: The Military Ward
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=137647; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=138316; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc9='Forgia' WHERE entry=138317; -- Name: Forge
@@ -3911,7 +3911,7 @@ UPDATE locales_gameobject SET name_loc9='Frammenti di Myzrael' WHERE entry=13849
 UPDATE locales_gameobject SET name_loc9='Porte' WHERE entry=138493; -- Name: Doors
 UPDATE locales_gameobject SET name_loc9='CopriCorna' WHERE entry=138496; -- Name: HornCover
 UPDATE locales_gameobject SET name_loc9='Imboccatura' WHERE entry=138497; -- Name: Mouthpiece Mount
-UPDATE locales_gameobject SET name_loc9='Tempio della Fontana della Luna' WHERE entry=138498; -- Name: Temple of the Moon Fountain
+UPDATE locales_gameobject SET name_loc9='Fontana del Temple of the Moon' WHERE entry=138498; -- Name: Temple of the Moon Fountain
 UPDATE locales_gameobject SET name_loc9='Sedia di Legno' WHERE entry=138614; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc9='Memoriale a Sully Balloo' WHERE entry=139852; -- Name: Memorial to Sully Balloo
 UPDATE locales_gameobject SET name_loc9='Fiamma Feroce' WHERE entry=140105; -- Name: Fierce Blaze
@@ -4083,7 +4083,7 @@ UPDATE locales_gameobject SET name_loc9='Pulsante' WHERE entry=142216; -- Name: 
 UPDATE locales_gameobject SET name_loc9='Pulsante' WHERE entry=142217; -- Name: Button
 UPDATE locales_gameobject SET name_loc9='Pulsante' WHERE entry=142218; -- Name: Button
 UPDATE locales_gameobject SET name_loc9='Pulsante' WHERE entry=142219; -- Name: Button
-UPDATE locales_gameobject SET name_loc9='Il Distretto Mistico' WHERE entry=142339; -- Name: The Mystic Ward
+UPDATE locales_gameobject SET name_loc9='The Mystic Ward' WHERE entry=142339; -- Name: The Mystic Ward
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=142340; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Abbigliamento Mistico di Maeva' WHERE entry=142341; -- Name: Maeva's Mystical Apparel
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=142342; -- Name: Campfire
@@ -4120,7 +4120,7 @@ UPDATE locales_gameobject SET name_loc9='Bottiglia di Veleno' WHERE entry=142713
 UPDATE locales_gameobject SET name_loc9='Bottiglia di Veleno' WHERE entry=142714; -- Name: Venom Bottle
 UPDATE locales_gameobject SET name_loc9='Tavoletta di Theka' WHERE entry=142715; -- Name: Tablet of Theka
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=142837; -- Name: Campfire
-UPDATE locales_gameobject SET name_loc9='Il Distretto Mistico' WHERE entry=142838; -- Name: The Mystic Ward
+UPDATE locales_gameobject SET name_loc9='The Mystic Ward' WHERE entry=142838; -- Name: The Mystic Ward
 UPDATE locales_gameobject SET name_loc9='Sedia di Legno' WHERE entry=142851; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=142871; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=142872; -- Name: Dwarven Brazier
@@ -4579,7 +4579,7 @@ UPDATE locales_gameobject SET name_loc9='Fuoco della Torre' WHERE entry=149019; 
 UPDATE locales_gameobject SET name_loc9='Fuoco della Torre' WHERE entry=149020; -- Name: Tower Fire
 UPDATE locales_gameobject SET name_loc9='Fumo della Torre' WHERE entry=149021; -- Name: Tower Smoke
 UPDATE locales_gameobject SET name_loc9='Fumo della Torre' WHERE entry=149022; -- Name: Tower Smoke
-UPDATE locales_gameobject SET name_loc9='Cava di Gol\'Bolar' WHERE entry=149024; -- Name: Gol'Bolar Quarry
+UPDATE locales_gameobject SET name_loc9='Gol\'Bolar Quarry' WHERE entry=149024; -- Name: Gol'Bolar Quarry
 UPDATE locales_gameobject SET name_loc9='Braciere Sentinella' WHERE entry=149025; -- Name: Sentry Brazier
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=149026; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Griglia di Carne' WHERE entry=149027; -- Name: Meat Rack
@@ -4774,7 +4774,7 @@ UPDATE locales_gameobject SET name_loc9='Recinto' WHERE entry=157818; -- Name: H
 UPDATE locales_gameobject SET name_loc9='Recinto' WHERE entry=157819; -- Name: Holding Pen
 UPDATE locales_gameobject SET name_loc9='Recinto' WHERE entry=157820; -- Name: Holding Pen
 UPDATE locales_gameobject SET name_loc9='Porte Giganti' WHERE entry=157923; -- Name: Giant Doors
-UPDATE locales_gameobject SET name_loc9='Mucchio di Terra delll\' Un\'Goro' WHERE entry=157936; -- Name: Un'Goro Dirt Pile
+UPDATE locales_gameobject SET name_loc9='Mucchio di Terra di Un\'Goro' WHERE entry=157936; -- Name: Un'Goro Dirt Pile
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=157968; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc9='Calderone' WHERE entry=157969; -- Name: Cauldron
 UPDATE locales_gameobject SET name_loc9='Panchina' WHERE entry=158545; -- Name: Bench
@@ -5101,8 +5101,8 @@ UPDATE locales_gameobject SET name_loc9='Sedia' WHERE entry=170349; -- Name: Cha
 UPDATE locales_gameobject SET name_loc9='Sedia' WHERE entry=170350; -- Name: Chair
 UPDATE locales_gameobject SET name_loc9='Sedia' WHERE entry=170351; -- Name: Chair
 UPDATE locales_gameobject SET name_loc9='Doodad_G_NanoOlografico01' WHERE entry=170353; -- Name: Doodad_G_HologramDwarf01
-UPDATE locales_gameobject SET name_loc9='Quartiere della Guerra' WHERE entry=170354; -- Name: War Quarter
-UPDATE locales_gameobject SET name_loc9='Quartiere degli Scambi' WHERE entry=170355; -- Name: Trade Quarter
+UPDATE locales_gameobject SET name_loc9='War Quarter' WHERE entry=170354; -- Name: War Quarter
+UPDATE locales_gameobject SET name_loc9='Trade Quarter' WHERE entry=170355; -- Name: Trade Quarter
 UPDATE locales_gameobject SET name_loc9='Panchina' WHERE entry=170439; -- Name: Bench
 UPDATE locales_gameobject SET name_loc9='Sedia' WHERE entry=170440; -- Name: Chair
 UPDATE locales_gameobject SET name_loc9='Sedia' WHERE entry=170441; -- Name: Chair
@@ -5252,16 +5252,16 @@ UPDATE locales_gameobject SET name_loc9='Doodad_RunaNanoDarkIron_G01' WHERE entr
 UPDATE locales_gameobject SET name_loc9='Trono Imperiale' WHERE entry=170592; -- Name: Imperial Throne
 UPDATE locales_gameobject SET name_loc9='Barile Dark Iron Fucili da Caccia' WHERE entry=170607; -- Name: Dark Iron Keg Shotgun
 UPDATE locales_gameobject SET name_loc9='Tinker Town' WHERE entry=171524; -- Name: Tinker Town
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=171525; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='Cancello Principale di Ironforge' WHERE entry=171526; -- Name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=171525; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='Ironforge Main Gate' WHERE entry=171526; -- Name: Ironforge Main Gate
 UPDATE locales_gameobject SET name_loc9='Tinker Town' WHERE entry=171527; -- Name: Tinker Town
 UPDATE locales_gameobject SET name_loc9='Tinker Town' WHERE entry=171528; -- Name: Tinker Town
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=171529; -- Name: The Great Forge
-UPDATE locales_gameobject SET name_loc9='La Caverna Forlorn' WHERE entry=171530; -- Name: The Forlorn Cavern
-UPDATE locales_gameobject SET name_loc9='La Biblioteca' WHERE entry=171531; -- Name: The Library
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=171532; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='Il Distretto Militare' WHERE entry=171533; -- Name: The Military Ward
-UPDATE locales_gameobject SET name_loc9='Il Distretto Mistico' WHERE entry=171534; -- Name: The Mystic Ward
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=171529; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='The Forlorn Cavern' WHERE entry=171530; -- Name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc9='The Library' WHERE entry=171531; -- Name: The Library
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=171532; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='The Military Ward' WHERE entry=171533; -- Name: The Military Ward
+UPDATE locales_gameobject SET name_loc9='The Mystic Ward' WHERE entry=171534; -- Name: The Mystic Ward
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171535; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171536; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171537; -- Name: Dwarven Brazier
@@ -5432,11 +5432,11 @@ UPDATE locales_gameobject SET name_loc9='Armeria di Ironforge' WHERE entry=17170
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171705; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171706; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171707; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc9='Il Distretto Militare' WHERE entry=171708; -- Name: The Military Ward
-UPDATE locales_gameobject SET name_loc9='L\'Alto Seggio' WHERE entry=171709; -- Name: The High Seat
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=171710; -- Name: Hall of Explorers
-UPDATE locales_gameobject SET name_loc9='L\'Alto Seggio' WHERE entry=171711; -- Name: The High Seat
-UPDATE locales_gameobject SET name_loc9='Sala degli Esploratori' WHERE entry=171712; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='The Military Ward' WHERE entry=171708; -- Name: The Military Ward
+UPDATE locales_gameobject SET name_loc9='The High Seat' WHERE entry=171709; -- Name: The High Seat
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=171710; -- Name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc9='The High Seat' WHERE entry=171711; -- Name: The High Seat
+UPDATE locales_gameobject SET name_loc9='Hall of Explorers' WHERE entry=171712; -- Name: Hall of Explorers
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=171713; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=171714; -- Name: Anvil
 UPDATE locales_gameobject SET name_loc9='La Grande Incudine' WHERE entry=171715; -- Name: The Great Anvil
@@ -5490,7 +5490,7 @@ UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171762; --
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171763; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171764; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171765; -- Name: Dwarven Brazier
-UPDATE locales_gameobject SET name_loc9='La Grande Forgia' WHERE entry=171766; -- Name: The Great Forge
+UPDATE locales_gameobject SET name_loc9='The Great Forge' WHERE entry=171766; -- Name: The Great Forge
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171767; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171768; -- Name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere Nanico' WHERE entry=171769; -- Name: Dwarven Brazier
@@ -5522,45 +5522,45 @@ UPDATE locales_gameobject SET name_loc9='Fiamma Potente' WHERE entry=172953; -- 
 UPDATE locales_gameobject SET name_loc9='Fiamma Potente' WHERE entry=172954; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc9='Fiamma Potente' WHERE entry=172955; -- Name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc9='Fiamma Potente' WHERE entry=172956; -- Name: Mighty Blaze
-UPDATE locales_gameobject SET name_loc9='Valle della Saggezza' WHERE entry=172957; -- Name: Valley of Wisdom
-UPDATE locales_gameobject SET name_loc9='Valle dell\'Onore' WHERE entry=172958; -- Name: Valley of Honor
+UPDATE locales_gameobject SET name_loc9='Valley of Wisdom' WHERE entry=172957; -- Name: Valley of Wisdom
+UPDATE locales_gameobject SET name_loc9='Valley of Honor' WHERE entry=172958; -- Name: Valley of Honor
 UPDATE locales_gameobject SET name_loc9='La Pista' WHERE entry=172959; -- Name: The Drag
-UPDATE locales_gameobject SET name_loc9='Crepaccio dell\'Ombra' WHERE entry=172960; -- Name: Cleft of Shadow
-UPDATE locales_gameobject SET name_loc9='Valle degli Spiriti' WHERE entry=172961; -- Name: Valley of Spirits
-UPDATE locales_gameobject SET name_loc9='Valle della Saggezza' WHERE entry=172962; -- Name: Valley of Wisdom
+UPDATE locales_gameobject SET name_loc9='Cleft of Shadow' WHERE entry=172960; -- Name: Cleft of Shadow
+UPDATE locales_gameobject SET name_loc9='Valley of Spirits' WHERE entry=172961; -- Name: Valley of Spirits
+UPDATE locales_gameobject SET name_loc9='Valley of Wisdom' WHERE entry=172962; -- Name: Valley of Wisdom
 UPDATE locales_gameobject SET name_loc9='La Pista' WHERE entry=172963; -- Name: The Drag
-UPDATE locales_gameobject SET name_loc9='Valle dell\'Onore' WHERE entry=172964; -- Name: Valley of Honor
-UPDATE locales_gameobject SET name_loc9='Valle degli Spiriti' WHERE entry=172965; -- Name: Valley of Spirits
-UPDATE locales_gameobject SET name_loc9='Valle degli Spiriti' WHERE entry=172966; -- Name: Valley of Spirits
-UPDATE locales_gameobject SET name_loc9='Valle degli Spiriti' WHERE entry=172967; -- Name: Valley of Spirits
-UPDATE locales_gameobject SET name_loc9='Valle degli Spiriti' WHERE entry=172968; -- Name: Valley of Spirits
-UPDATE locales_gameobject SET name_loc9='Valle degli Spiriti' WHERE entry=172969; -- Name: Valley of Spirits
-UPDATE locales_gameobject SET name_loc9='Valle degli Spiriti' WHERE entry=172970; -- Name: Valley of Spirits
+UPDATE locales_gameobject SET name_loc9='Valley of Honor' WHERE entry=172964; -- Name: Valley of Honor
+UPDATE locales_gameobject SET name_loc9='Valley of Spirits' WHERE entry=172965; -- Name: Valley of Spirits
+UPDATE locales_gameobject SET name_loc9='Valley of Spirits' WHERE entry=172966; -- Name: Valley of Spirits
+UPDATE locales_gameobject SET name_loc9='Valley of Spirits' WHERE entry=172967; -- Name: Valley of Spirits
+UPDATE locales_gameobject SET name_loc9='Valley of Spirits' WHERE entry=172968; -- Name: Valley of Spirits
+UPDATE locales_gameobject SET name_loc9='Valley of Spirits' WHERE entry=172969; -- Name: Valley of Spirits
+UPDATE locales_gameobject SET name_loc9='Valley of Spirits' WHERE entry=172970; -- Name: Valley of Spirits
 UPDATE locales_gameobject SET name_loc9='Cancello dell\'Artiglio' WHERE entry=172971; -- Name: Talon Gate
 UPDATE locales_gameobject SET name_loc9='Cancello dell\'Artiglio' WHERE entry=172972; -- Name: Talon Gate
-UPDATE locales_gameobject SET name_loc9='Crepaccio dell\'Ombra' WHERE entry=172973; -- Name: Cleft of Shadow
-UPDATE locales_gameobject SET name_loc9='Valle della Saggezza' WHERE entry=172974; -- Name: Valley of Wisdom
-UPDATE locales_gameobject SET name_loc9='Crepaccio dell\'Ombra' WHERE entry=172975; -- Name: Cleft of Shadow
-UPDATE locales_gameobject SET name_loc9='Valle della Saggezza' WHERE entry=172976; -- Name: Valley of Wisdom
+UPDATE locales_gameobject SET name_loc9='Cleft of Shadow' WHERE entry=172973; -- Name: Cleft of Shadow
+UPDATE locales_gameobject SET name_loc9='Valley of Wisdom' WHERE entry=172974; -- Name: Valley of Wisdom
+UPDATE locales_gameobject SET name_loc9='Cleft of Shadow' WHERE entry=172975; -- Name: Cleft of Shadow
+UPDATE locales_gameobject SET name_loc9='Valley of Wisdom' WHERE entry=172976; -- Name: Valley of Wisdom
 UPDATE locales_gameobject SET name_loc9='La Pista' WHERE entry=172977; -- Name: The Drag
 UPDATE locales_gameobject SET name_loc9='Fortezza di Thrall' WHERE entry=172978; -- Name: Thrall's Fortress
 UPDATE locales_gameobject SET name_loc9='La Pista' WHERE entry=172979; -- Name: The Drag
-UPDATE locales_gameobject SET name_loc9='Crepaccio dell\'Ombra' WHERE entry=172980; -- Name: Cleft of Shadow
-UPDATE locales_gameobject SET name_loc9='Valle dell\'Onore' WHERE entry=172981; -- Name: Valley of Honor
+UPDATE locales_gameobject SET name_loc9='Cleft of Shadow' WHERE entry=172980; -- Name: Cleft of Shadow
+UPDATE locales_gameobject SET name_loc9='Valley of Honor' WHERE entry=172981; -- Name: Valley of Honor
 UPDATE locales_gameobject SET name_loc9='Valle della Forza' WHERE entry=172982; -- Name: Valley of Strength
-UPDATE locales_gameobject SET name_loc9='Crepaccio dell\'Ombra' WHERE entry=172983; -- Name: Cleft of Shadow
-UPDATE locales_gameobject SET name_loc9='Valle dell\'Onore' WHERE entry=172984; -- Name: Valley of Honor
-UPDATE locales_gameobject SET name_loc9='Valle della Saggezza' WHERE entry=172985; -- Name: Valley of Wisdom
+UPDATE locales_gameobject SET name_loc9='Cleft of Shadow' WHERE entry=172983; -- Name: Cleft of Shadow
+UPDATE locales_gameobject SET name_loc9='Valley of Honor' WHERE entry=172984; -- Name: Valley of Honor
+UPDATE locales_gameobject SET name_loc9='Valley of Wisdom' WHERE entry=172985; -- Name: Valley of Wisdom
 UPDATE locales_gameobject SET name_loc9='Cancello Principale di Orgrimmar' WHERE entry=172986; -- Name: Orgrimmar Main Gate
-UPDATE locales_gameobject SET name_loc9='Crepaccio dell\'Ombra' WHERE entry=172987; -- Name: Cleft of Shadow
+UPDATE locales_gameobject SET name_loc9='Cleft of Shadow' WHERE entry=172987; -- Name: Cleft of Shadow
 UPDATE locales_gameobject SET name_loc9='Valle della Forza' WHERE entry=172988; -- Name: Valley of Strength
-UPDATE locales_gameobject SET name_loc9='Valle dell\'Onore' WHERE entry=172989; -- Name: Valley of Honor
-UPDATE locales_gameobject SET name_loc9='Valle della Saggezza' WHERE entry=172990; -- Name: Valley of Wisdom
+UPDATE locales_gameobject SET name_loc9='Valley of Honor' WHERE entry=172989; -- Name: Valley of Honor
+UPDATE locales_gameobject SET name_loc9='Valley of Wisdom' WHERE entry=172990; -- Name: Valley of Wisdom
 UPDATE locales_gameobject SET name_loc9='Cancello Principale di Orgrimmar' WHERE entry=172991; -- Name: Orgrimmar Main Gate
 UPDATE locales_gameobject SET name_loc9='La Pista' WHERE entry=172992; -- Name: The Drag
 UPDATE locales_gameobject SET name_loc9='Valle della Forza' WHERE entry=172993; -- Name: Valley of Strength
 UPDATE locales_gameobject SET name_loc9='Cancello Principale di Orgrimmar' WHERE entry=172994; -- Name: Orgrimmar Main Gate
-UPDATE locales_gameobject SET name_loc9='Valle degli Spiriti' WHERE entry=172995; -- Name: Valley of Spirits
+UPDATE locales_gameobject SET name_loc9='Valley of Spirits' WHERE entry=172995; -- Name: Valley of Spirits
 UPDATE locales_gameobject SET name_loc9='Valle della Forza' WHERE entry=172996; -- Name: Valley of Strength
 UPDATE locales_gameobject SET name_loc9='Cancello Principale di Orgrimmar' WHERE entry=172997; -- Name: Orgrimmar Main Gate
 UPDATE locales_gameobject SET name_loc9='Fiamma Potente' WHERE entry=172998; -- Name: Mighty Blaze
@@ -6147,7 +6147,7 @@ UPDATE locales_gameobject SET name_loc9='Sedia di Legno' WHERE entry=175030; -- 
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=175075; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=175076; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=175078; -- Name: Anvil
-UPDATE locales_gameobject SET name_loc9='Campo Base di Grom\'Gol - Orgrimmar' WHERE entry=175080; -- Name: Grom'Gol Base Camp - Orgrimmar
+UPDATE locales_gameobject SET name_loc9='Grom\'Gol Base Camp - Orgrimmar' WHERE entry=175080; -- Name: Grom'Gol Base Camp - Orgrimmar
 UPDATE locales_gameobject SET name_loc9='Sparklematic 5200' WHERE entry=175084; -- Name: The Sparklematic 5200
 UPDATE locales_gameobject SET name_loc9='Sparklematic 5200' WHERE entry=175085; -- Name: The Sparklematic 5200
 UPDATE locales_gameobject SET name_loc9='Sparklematic 5200' WHERE entry=175087; -- Name: The Sparklematic 5200
@@ -6866,7 +6866,7 @@ UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=176490; -- Name: 
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=176491; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=176492; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=176493; -- Name: Brazier
-UPDATE locales_gameobject SET name_loc9='Campo Base Grom\'Gol - Undercity' WHERE entry=176495; -- Name: Grom'Gol Base Camp - Undercity
+UPDATE locales_gameobject SET name_loc9='Grom\'Gol Base Camp - Undercity' WHERE entry=176495; -- Name: Grom'Gol Base Camp - Undercity
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=176496; -- Name: Brazier
 UPDATE locales_gameobject SET name_loc9='Portale per Ironforge' WHERE entry=176497; -- Name: Portal to Ironforge
 UPDATE locales_gameobject SET name_loc9='Portale per Darnassus' WHERE entry=176498; -- Name: Portal to Darnassus
@@ -7019,7 +7019,7 @@ UPDATE locales_gameobject SET name_loc9='Bundle of Wood' WHERE entry=176793; -- 
 UPDATE locales_gameobject SET name_loc9='Windshear Crag' WHERE entry=176794; -- Name: Windshear Crag
 UPDATE locales_gameobject SET name_loc9='Stonetalon Peak' WHERE entry=176795; -- Name: Stonetalon Peak
 UPDATE locales_gameobject SET name_loc9='Desolace' WHERE entry=176796; -- Name: Desolace
-UPDATE locales_gameobject SET name_loc9='La Valle Carbonizzata' WHERE entry=176797; -- Name: The Charred Vale
+UPDATE locales_gameobject SET name_loc9='Charred Vale' WHERE entry=176797; -- Name: The Charred Vale
 UPDATE locales_gameobject SET name_loc9='Sun Rock Retreat' WHERE entry=176798; -- Name: Sun Rock Retreat
 UPDATE locales_gameobject SET name_loc9='Sun Rock Retreat' WHERE entry=176799; -- Name: Sun Rock Retreat
 UPDATE locales_gameobject SET name_loc9='Windshear Crag' WHERE entry=176800; -- Name: Windshear Crag
@@ -7114,11 +7114,11 @@ UPDATE locales_gameobject SET name_loc9='Crepa Lavica' WHERE entry=176921; -- Na
 UPDATE locales_gameobject SET name_loc9='Crepa Lavica' WHERE entry=176922; -- Name: Lava Fissure
 UPDATE locales_gameobject SET name_loc9='Casa d\'Aste di Ironforge' WHERE entry=176924; -- Name: Ironforge Auction house
 UPDATE locales_gameobject SET name_loc9='Vecchio Forziere del Tesoro' WHERE entry=176944; -- Name: Old Treasure Chest
-UPDATE locales_gameobject SET name_loc9='Accampamento Mojache' WHERE entry=176945; -- Name: Camp Mojache
+UPDATE locales_gameobject SET name_loc9='Camp Mojache' WHERE entry=176945; -- Name: Camp Mojache
 UPDATE locales_gameobject SET name_loc9='Villaggio Shadowprey' WHERE entry=176946; -- Name: Shadowprey Village
 UPDATE locales_gameobject SET name_loc9='Ghost Walker Post' WHERE entry=176947; -- Name: Ghost Walker Post
 UPDATE locales_gameobject SET name_loc9='Nijel\'s Point' WHERE entry=176948; -- Name: Nijel's Point
-UPDATE locales_gameobject SET name_loc9='Fortezza Feathermoon' WHERE entry=176949; -- Name: Feathermoon Stronghold
+UPDATE locales_gameobject SET name_loc9='Feathermoon Stronghol' WHERE entry=176949; -- Name: Feathermoon Stronghold
 UPDATE locales_gameobject SET name_loc9='Ghost Walker Post' WHERE entry=176950; -- Name: Ghost Walker Post
 UPDATE locales_gameobject SET name_loc9='Runa di Koro' WHERE entry=176951; -- Name: Rune of Koro
 UPDATE locales_gameobject SET name_loc9='Runa di Zeth' WHERE entry=176952; -- Name: Rune of Zeth
@@ -7128,7 +7128,7 @@ UPDATE locales_gameobject SET name_loc9='Runa di Blaz' WHERE entry=176955; -- Na
 UPDATE locales_gameobject SET name_loc9='Runa di Kress' WHERE entry=176956; -- Name: Rune of Kress
 UPDATE locales_gameobject SET name_loc9='Runa di Mohn' WHERE entry=176957; -- Name: Rune of Mohn
 UPDATE locales_gameobject SET name_loc9='Nijel\'s Point' WHERE entry=176958; -- Name: Nijel's Point
-UPDATE locales_gameobject SET name_loc9='Montagne Stonetalon' WHERE entry=176959; -- Name: Stonetalon Mountains
+UPDATE locales_gameobject SET name_loc9='Stonetalon Mountains' WHERE entry=176959; -- Name: Stonetalon Mountains
 UPDATE locales_gameobject SET name_loc9='Ghost Walker Post' WHERE entry=176960; -- Name: Ghost Walker Post
 UPDATE locales_gameobject SET name_loc9='Villaggio Shadowprey' WHERE entry=176961; -- Name: Shadowprey Village
 UPDATE locales_gameobject SET name_loc9='Porticolo' WHERE entry=176964; -- Name: Portcullis
@@ -7152,7 +7152,7 @@ UPDATE locales_gameobject SET name_loc9='Stratholme' WHERE entry=176985; -- Name
 UPDATE locales_gameobject SET name_loc9='Darrowshire' WHERE entry=176986; -- Name: Darrowshire
 UPDATE locales_gameobject SET name_loc9='Hearthglen' WHERE entry=176987; -- Name: Hearthglen
 UPDATE locales_gameobject SET name_loc9='Andorhal' WHERE entry=176988; -- Name: Andorhal
-UPDATE locales_gameobject SET name_loc9='Radure di Tirisfal' WHERE entry=176989; -- Name: Tirisfal Glades
+UPDATE locales_gameobject SET name_loc9='Tirisfal Glades' WHERE entry=176989; -- Name: Tirisfal Glades
 UPDATE locales_gameobject SET name_loc9='Darrowshire' WHERE entry=176990; -- Name: Darrowshire
 UPDATE locales_gameobject SET name_loc9='Tirisfal' WHERE entry=176991; -- Name: Tirisfal
 UPDATE locales_gameobject SET name_loc9='Darrowshire' WHERE entry=176992; -- Name: Darrowshire
@@ -7196,16 +7196,16 @@ UPDATE locales_gameobject SET name_loc9='Reagenti di Mordan' WHERE entry=177064;
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=177084; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Ashenvale' WHERE entry=177104; -- Name: Ashenvale
 UPDATE locales_gameobject SET name_loc9='Jaedenar' WHERE entry=177105; -- Name: Jaedenar
-UPDATE locales_gameobject SET name_loc9='Radura Talonbranch' WHERE entry=177106; -- Name: Talonbranch Glade
+UPDATE locales_gameobject SET name_loc9='Talonbranch Glade' WHERE entry=177106; -- Name: Talonbranch Glade
 UPDATE locales_gameobject SET name_loc9='Ashenvale' WHERE entry=177107; -- Name: Ashenvale
-UPDATE locales_gameobject SET name_loc9='Radura Talonbranch' WHERE entry=177108; -- Name: Talonbranch Glade
+UPDATE locales_gameobject SET name_loc9='Talonbranch Glade' WHERE entry=177108; -- Name: Talonbranch Glade
 UPDATE locales_gameobject SET name_loc9='Moonglade' WHERE entry=177109; -- Name: Moonglade
 UPDATE locales_gameobject SET name_loc9='Jaedenar' WHERE entry=177110; -- Name: Jaedenar
 UPDATE locales_gameobject SET name_loc9='Moonglade' WHERE entry=177111; -- Name: Moonglade
 UPDATE locales_gameobject SET name_loc9='Winterspring' WHERE entry=177112; -- Name: Winterspring
 UPDATE locales_gameobject SET name_loc9='Ashenvale' WHERE entry=177113; -- Name: Ashenvale
 UPDATE locales_gameobject SET name_loc9='Jaedenar' WHERE entry=177114; -- Name: Jaedenar
-UPDATE locales_gameobject SET name_loc9='Radura Talonbranch' WHERE entry=177115; -- Name: Talonbranch Glade
+UPDATE locales_gameobject SET name_loc9='Talonbranch Glade' WHERE entry=177115; -- Name: Talonbranch Glade
 UPDATE locales_gameobject SET name_loc9='Stormrage Barrow Dens' WHERE entry=177116; -- Name: Stormrage Barrow Dens
 UPDATE locales_gameobject SET name_loc9='Shrine of Remulos' WHERE entry=177117; -- Name: Shrine of Remulos
 UPDATE locales_gameobject SET name_loc9='Nighthaven' WHERE entry=177118; -- Name: Nighthaven
@@ -7222,15 +7222,15 @@ UPDATE locales_gameobject SET name_loc9='Felwood' WHERE entry=177128; -- Name: F
 UPDATE locales_gameobject SET name_loc9='Santuario di Remulos' WHERE entry=177129; -- Name: Shrine of Remulos
 UPDATE locales_gameobject SET name_loc9='Stormrage Barrow Dens' WHERE entry=177130; -- Name: Stormrage Barrow Dens
 UPDATE locales_gameobject SET name_loc9='Kel\'Theril' WHERE entry=177131; -- Name: Kel'Theril
-UPDATE locales_gameobject SET name_loc9='Villaggio Starfall' WHERE entry=177132; -- Name: Starfall Village
+UPDATE locales_gameobject SET name_loc9='Starfall Village' WHERE entry=177132; -- Name: Starfall Village
 UPDATE locales_gameobject SET name_loc9='Everlook' WHERE entry=177133; -- Name: Everlook
 UPDATE locales_gameobject SET name_loc9='Moonglade' WHERE entry=177134; -- Name: Moonglade
 UPDATE locales_gameobject SET name_loc9='Felwood' WHERE entry=177135; -- Name: Felwood
-UPDATE locales_gameobject SET name_loc9='Villaggio Starfall' WHERE entry=177136; -- Name: Starfall Village
+UPDATE locales_gameobject SET name_loc9='Starfall Village' WHERE entry=177136; -- Name: Starfall Village
 UPDATE locales_gameobject SET name_loc9='Everlook' WHERE entry=177137; -- Name: Everlook
 UPDATE locales_gameobject SET name_loc9='Kel\'Theril' WHERE entry=177138; -- Name: Kel'Theril
-UPDATE locales_gameobject SET name_loc9='Villaggio Starfall' WHERE entry=177139; -- Name: Starfall Village
-UPDATE locales_gameobject SET name_loc9='Roccia Frostsaber' WHERE entry=177140; -- Name: Frostsaber Rock
+UPDATE locales_gameobject SET name_loc9='Starfall Village' WHERE entry=177139; -- Name: Starfall Village
+UPDATE locales_gameobject SET name_loc9='Frostsaber Rock' WHERE entry=177140; -- Name: Frostsaber Rock
 UPDATE locales_gameobject SET name_loc9='Kel\'Theril' WHERE entry=177141; -- Name: Kel'Theril
 UPDATE locales_gameobject SET name_loc9='Moonglade' WHERE entry=177142; -- Name: Moonglade
 UPDATE locales_gameobject SET name_loc9='Felwood' WHERE entry=177143; -- Name: Felwood
@@ -7238,10 +7238,10 @@ UPDATE locales_gameobject SET name_loc9='Everlook' WHERE entry=177144; -- Name: 
 UPDATE locales_gameobject SET name_loc9='Mount Hyjal' WHERE entry=177145; -- Name: Mount Hyjal
 UPDATE locales_gameobject SET name_loc9='Everlook' WHERE entry=177146; -- Name: Everlook
 UPDATE locales_gameobject SET name_loc9='Kel\'Theril' WHERE entry=177147; -- Name: Kel'Theril
-UPDATE locales_gameobject SET name_loc9='Roccia Frostsaber' WHERE entry=177148; -- Name: Frostsaber Rock
-UPDATE locales_gameobject SET name_loc9='Villaggio Starfall' WHERE entry=177149; -- Name: Starfall Village
+UPDATE locales_gameobject SET name_loc9='Frostsaber Rock' WHERE entry=177148; -- Name: Frostsaber Rock
+UPDATE locales_gameobject SET name_loc9='Starfall Village' WHERE entry=177149; -- Name: Starfall Village
 UPDATE locales_gameobject SET name_loc9='Mount Hyjal' WHERE entry=177150; -- Name: Mount Hyjal
-UPDATE locales_gameobject SET name_loc9='Villaggio Starfall' WHERE entry=177151; -- Name: Starfall Village
+UPDATE locales_gameobject SET name_loc9='Starfall Village' WHERE entry=177151; -- Name: Starfall Village
 UPDATE locales_gameobject SET name_loc9='Kel\'Theril' WHERE entry=177152; -- Name: Kel'Theril
 UPDATE locales_gameobject SET name_loc9='Everlook' WHERE entry=177153; -- Name: Everlook
 UPDATE locales_gameobject SET name_loc9='Moonglade' WHERE entry=177154; -- Name: Moonglade
@@ -7312,12 +7312,12 @@ UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=177261; -- Name: 
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=177262; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=177263; -- Name: Campfire
 UPDATE locales_gameobject SET name_loc9='Simbolo dell\'Onore Perduto' WHERE entry=177264; -- Name: Symbol of Lost Honor
-UPDATE locales_gameobject SET name_loc9='Ponte all\'Altura dello Spirito' WHERE entry=177265; -- Name: Bridge to Spirit Rise
-UPDATE locales_gameobject SET name_loc9='Ponte all\'Altura degli Anziani' WHERE entry=177266; -- Name: Bridge to Elder Rise
-UPDATE locales_gameobject SET name_loc9='Ponte all\'Altura degli Anziani' WHERE entry=177267; -- Name: Bridge to Elder Rise
-UPDATE locales_gameobject SET name_loc9='Ponte all\'Altura dei Cacciatori' WHERE entry=177268; -- Name: Bridge to Hunter Rise
-UPDATE locales_gameobject SET name_loc9='Ponte all\'Altura dello Spirito' WHERE entry=177269; -- Name: Bridge to Spirit Rise
-UPDATE locales_gameobject SET name_loc9='Ponte all\'Altura dei Cacciatori' WHERE entry=177270; -- Name: Bridge to Hunter Rise
+UPDATE locales_gameobject SET name_loc9='Ponte all\'Elder Rise' WHERE entry=177265; -- Name: Bridge to Spirit Rise
+UPDATE locales_gameobject SET name_loc9='Ponte all\'Elder Rise' WHERE entry=177266; -- Name: Bridge to Elder Rise
+UPDATE locales_gameobject SET name_loc9='Ponte all\'Elder Rise' WHERE entry=177267; -- Name: Bridge to Elder Rise
+UPDATE locales_gameobject SET name_loc9='Ponte all\'Hunter Rise' WHERE entry=177268; -- Name: Bridge to Hunter Rise
+UPDATE locales_gameobject SET name_loc9='Ponte all\'Elder Rise' WHERE entry=177269; -- Name: Bridge to Spirit Rise
+UPDATE locales_gameobject SET name_loc9='Ponte all\'Hunter Rise' WHERE entry=177270; -- Name: Bridge to Hunter Rise
 UPDATE locales_gameobject SET name_loc9='Moonwell' WHERE entry=177272; -- Name: Moonwell
 UPDATE locales_gameobject SET name_loc9='Moonwell' WHERE entry=177273; -- Name: Moonwell
 UPDATE locales_gameobject SET name_loc9='Moonwell' WHERE entry=177274; -- Name: Moonwell
@@ -7395,7 +7395,7 @@ UPDATE locales_gameobject SET name_loc9='Cumulo Grande di Termiti' WHERE entry=1
 UPDATE locales_gameobject SET name_loc9='Statua Atal\'ai' WHERE entry=177484; -- Name: Atal'ai Statue
 UPDATE locales_gameobject SET name_loc9='Statua Atal\'ai' WHERE entry=177485; -- Name: Atal'ai Statue
 UPDATE locales_gameobject SET name_loc9='Aura di Elune (GRANDE)' WHERE entry=177486; -- Name: Aura of Elune (LARGE)
-UPDATE locales_gameobject SET name_loc9='Cassa della Segheria Northridge' WHERE entry=177490; -- Name: Northridge Lumber Mill Crate
+UPDATE locales_gameobject SET name_loc9='Cassa del Northridge Lumber Mill' WHERE entry=177490; -- Name: Northridge Lumber Mill Crate
 UPDATE locales_gameobject SET name_loc9='Barile di Termiti' WHERE entry=177491; -- Name: Termite Barrel
 UPDATE locales_gameobject SET name_loc9='Sedia di Legno' WHERE entry=177494; -- Name: Wooden Chair
 UPDATE locales_gameobject SET name_loc9='Sedia di Legno' WHERE entry=177495; -- Name: Wooden Chair
@@ -7915,10 +7915,10 @@ UPDATE locales_gameobject SET name_loc9='Un Trattato sui Ranghi Militari' WHERE 
 UPDATE locales_gameobject SET name_loc9='Ranghi Militari dell\'Orda e dell\'Alleanza' WHERE entry=179707; -- Name: Military Ranks of the Horde & Alliance
 UPDATE locales_gameobject SET name_loc9='Divinatore Cristallomante' WHERE entry=179708; -- Name: Divination Scryer
 UPDATE locales_gameobject SET name_loc9='Doodad_PortaPaladino01' WHERE entry=179724; -- Name: Doodad_PallyDoor01
-UPDATE locales_gameobject SET name_loc9='Sala dei Campioni' WHERE entry=179725; -- Name: Champions' Hall
-UPDATE locales_gameobject SET name_loc9='Sala dei Campioni' WHERE entry=179726; -- Name: Champions' Hall
-UPDATE locales_gameobject SET name_loc9='Sala dei Campioni' WHERE entry=179727; -- Name: Champions' Hall
-UPDATE locales_gameobject SET name_loc9='Sala dei Campioni' WHERE entry=179728; -- Name: Champions' Hall
+UPDATE locales_gameobject SET name_loc9='Champions\' Hall' WHERE entry=179725; -- Name: Champions' Hall
+UPDATE locales_gameobject SET name_loc9='Champions\' Hall' WHERE entry=179726; -- Name: Champions' Hall
+UPDATE locales_gameobject SET name_loc9='Champions\' Hall' WHERE entry=179727; -- Name: Champions' Hall
+UPDATE locales_gameobject SET name_loc9='Champions\' Hall' WHERE entry=179728; -- Name: Champions' Hall
 UPDATE locales_gameobject SET name_loc9='Centro di Comando' WHERE entry=179729; -- Name: Command Center
 UPDATE locales_gameobject SET name_loc9='Centro di Comando' WHERE entry=179730; -- Name: Command Center
 UPDATE locales_gameobject SET name_loc9='Centro di Comando' WHERE entry=179731; -- Name: Command Center
@@ -7926,13 +7926,13 @@ UPDATE locales_gameobject SET name_loc9='SI:7' WHERE entry=179732; -- Name: SI:7
 UPDATE locales_gameobject SET name_loc9='SI:7' WHERE entry=179733; -- Name: SI:7
 UPDATE locales_gameobject SET name_loc9='SI:7' WHERE entry=179734; -- Name: SI:7
 UPDATE locales_gameobject SET name_loc9='Ranghi Militari dell\'Alleanza' WHERE entry=179735; -- Name: Alliance Military Ranks
-UPDATE locales_gameobject SET name_loc9='Sala dei Campioni' WHERE entry=179736; -- Name: Champions' Hall
+UPDATE locales_gameobject SET name_loc9='Champions\' Hall' WHERE entry=179736; -- Name: Champions' Hall
 UPDATE locales_gameobject SET name_loc9='SI:7' WHERE entry=179737; -- Name: SI:7
 UPDATE locales_gameobject SET name_loc9='Centro di Comando' WHERE entry=179738; -- Name: Command Center
-UPDATE locales_gameobject SET name_loc9='Sala delle Leggende' WHERE entry=179739; -- Name: Hall of Legends
-UPDATE locales_gameobject SET name_loc9='Sala delle Leggende' WHERE entry=179740; -- Name: Hall of Legends
+UPDATE locales_gameobject SET name_loc9='Hall of Legends' WHERE entry=179739; -- Name: Hall of Legends
+UPDATE locales_gameobject SET name_loc9='Hall of Legends' WHERE entry=179740; -- Name: Hall of Legends
 UPDATE locales_gameobject SET name_loc9='Ranghi Militari dell\'Orda' WHERE entry=179741; -- Name: Horde Military Ranks
-UPDATE locales_gameobject SET name_loc9='Sala delle Leggende' WHERE entry=179742; -- Name: Hall of Legends
+UPDATE locales_gameobject SET name_loc9='Hall of Legends' WHERE entry=179742; -- Name: Hall of Legends
 UPDATE locales_gameobject SET name_loc9='Centro di Comando' WHERE entry=179743; -- Name: Command Center
 UPDATE locales_gameobject SET name_loc9='SI:7' WHERE entry=179744; -- Name: SI:7
 UPDATE locales_gameobject SET name_loc9='Aura Divinatore Cristallomante' WHERE entry=179745; -- Name: Divination Scryer Aura
@@ -8580,7 +8580,7 @@ UPDATE locales_gameobject SET name_loc9='Tappeto' WHERE entry=181077; -- Name: R
 UPDATE locales_gameobject SET name_loc9='Sedia di Marjhan' WHERE entry=181078; -- Name: Marjhan's Chair
 UPDATE locales_gameobject SET name_loc9='Sedia di Eligor' WHERE entry=181079; -- Name: Eligor's Chair
 UPDATE locales_gameobject SET name_loc9='Sedia di Angela' WHERE entry=181080; -- Name: Angela's Chair
-UPDATE locales_gameobject SET name_loc9='Mappa delle Plaguelands Orientali' WHERE entry=181081; -- Name: Map of the Eastern Plaguelands
+UPDATE locales_gameobject SET name_loc9='Mappa delle Eastern Plaguelands' WHERE entry=181081; -- Name: Map of the Eastern Plaguelands
 UPDATE locales_gameobject SET name_loc9='Candelabro' WHERE entry=181082; -- Name: Candelabra
 UPDATE locales_gameobject SET name_loc9='Cimeli di Sothos e Jarien' WHERE entry=181083; -- Name: Sothos and Jarien's Heirlooms
 UPDATE locales_gameobject SET name_loc9='Cassa di Provviste di Stratholme' WHERE entry=181085; -- Name: Stratholme Supply Crate
@@ -9742,17 +9742,17 @@ UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=184030; -- Name: Bon
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=184032; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=184033; -- Name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=184034; -- Name: Bonfire
-UPDATE locales_gameobject SET name_loc9='Fortezza di Durnholde' WHERE entry=184057; -- Name: Durnholde Keep
+UPDATE locales_gameobject SET name_loc9='Durnholde Keep' WHERE entry=184057; -- Name: Durnholde Keep
 UPDATE locales_gameobject SET name_loc9='Tarren Mill' WHERE entry=184058; -- Name: Tarren Mill
 UPDATE locales_gameobject SET name_loc9='Southshore' WHERE entry=184059; -- Name: Southshore
 UPDATE locales_gameobject SET name_loc9='Tarren Mill' WHERE entry=184060; -- Name: Tarren Mill
 UPDATE locales_gameobject SET name_loc9='Southshore' WHERE entry=184061; -- Name: Southshore
-UPDATE locales_gameobject SET name_loc9='Fortezza di Durnholde' WHERE entry=184062; -- Name: Durnholde Keep
+UPDATE locales_gameobject SET name_loc9='Durnholde Keep' WHERE entry=184062; -- Name: Durnholde Keep
 UPDATE locales_gameobject SET name_loc9='Southshore' WHERE entry=184063; -- Name: Southshore
 UPDATE locales_gameobject SET name_loc9='Tarren Mill' WHERE entry=184064; -- Name: Tarren Mill
-UPDATE locales_gameobject SET name_loc9='Fortezza di Durnholde' WHERE entry=184065; -- Name: Durnholde Keep
+UPDATE locales_gameobject SET name_loc9='Durnholde Keep' WHERE entry=184065; -- Name: Durnholde Keep
 UPDATE locales_gameobject SET name_loc9='Southshore' WHERE entry=184066; -- Name: Southshore
-UPDATE locales_gameobject SET name_loc9='Fortezza di Durnholde' WHERE entry=184067; -- Name: Durnholde Keep
+UPDATE locales_gameobject SET name_loc9='Durnholde Keep' WHERE entry=184067; -- Name: Durnholde Keep
 UPDATE locales_gameobject SET name_loc9='Tarren Mill' WHERE entry=184068; -- Name: Tarren Mill
 UPDATE locales_gameobject SET name_loc9='Uovo di Nether Dragonkin' WHERE entry=184078; -- Name: Nether Dragonkin Egg
 UPDATE locales_gameobject SET name_loc9='BE Torre Catturata Pt' WHERE entry=184080; -- Name: BE Tower Cap Pt
@@ -10347,13 +10347,13 @@ UPDATE locales_gameobject SET name_loc9='TEMP Pietra del Vincolo Esterno' WHERE 
 UPDATE locales_gameobject SET name_loc9='TEMP Disturbo nella Spaccatura del Mana' WHERE entry=300013; -- Name: TEMP Mana Rift Disturbance
 UPDATE locales_gameobject SET name_loc9='TEMP Purezza dell\'Acqua - Silverpine' WHERE entry=300014; -- Name: TEMP Water Purity - Silverpine
 UPDATE locales_gameobject SET name_loc9='TEMP Sentina della Nava Pirata' WHERE entry=300015; -- Name: TEMP Pirate Ship Bilge
-UPDATE locales_gameobject SET name_loc9='TEMP Villaggio Witherbark' WHERE entry=300016; -- Name: TEMP Witherbark Village
+UPDATE locales_gameobject SET name_loc9='TEMP Witherbark Village' WHERE entry=300016; -- Name: TEMP Witherbark Village
 UPDATE locales_gameobject SET name_loc9='TEMP Altare di Shadra\'Alor' WHERE entry=300017; -- Name: TEMP Shadra'Alor Altar
 UPDATE locales_gameobject SET name_loc9='TEMP Pietre Hatetalon' WHERE entry=300018; -- Name: TEMP Hatetalon Stones
 UPDATE locales_gameobject SET name_loc9='TEMP Luogo Sacro del Dio Caduto' WHERE entry=300019; -- Name: TEMP Sanctum of the Fallen God
 UPDATE locales_gameobject SET name_loc9='TEMP Miblon Snarltooth' WHERE entry=300020; -- Name: TEMP Miblon Snarltooth
 UPDATE locales_gameobject SET name_loc9='TEMP Cimitero di Gadgetzan' WHERE entry=300021; -- Name: TEMP Gadgetzan Graveyard
-UPDATE locales_gameobject SET name_loc9='TEMP le rovine dei Boschi Irontree' WHERE entry=300022; -- Name: TEMP the ruins of Irontree Woods
+UPDATE locales_gameobject SET name_loc9='TEMP le rovine degli Irontree Woods' WHERE entry=300022; -- Name: TEMP the ruins of Irontree Woods
 UPDATE locales_gameobject SET name_loc9='TEMP Cratere Golakka' WHERE entry=300023; -- Name: TEMP Golakka Crater
 UPDATE locales_gameobject SET name_loc9='TEMP NIU Tomba dei Sette' WHERE entry=300024; -- Name: TEMP NIU Tomb of the Seven
 UPDATE locales_gameobject SET name_loc9='TEMP Monweel Corrotto' WHERE entry=300025; -- Name: TEMP Corrupted Moonwell
@@ -10364,7 +10364,7 @@ UPDATE locales_gameobject SET name_loc9='TEMP Avamposto della Scarlet Crusade' W
 UPDATE locales_gameobject SET name_loc9='TEMP Torre di Andorhal' WHERE entry=300030; -- Name: TEMP Andorhal Tower
 UPDATE locales_gameobject SET name_loc9='TEMP Osservatorio di Scholomance' WHERE entry=300031; -- Name: TEMP Scholomance Viewing Room
 UPDATE locales_gameobject SET name_loc9='TEMP Amico di Umi' WHERE entry=300032; -- Name: TEMP Umi's Friend
-UPDATE locales_gameobject SET name_loc9='TEMP la cassa al centro della Segheria di Northridge' WHERE entry=300033; -- Name: TEMP the crate in the center of the Northridge Lumber Mill
+UPDATE locales_gameobject SET name_loc9='TEMP la cassa al centro del Northridge Lumber Mill' WHERE entry=300033; -- Name: TEMP the crate in the center of the Northridge Lumber Mill
 UPDATE locales_gameobject SET name_loc9='TEMP Piazza della Città di Darrowshire' WHERE entry=300034; -- Name: TEMP Darrowshire Town Square
 UPDATE locales_gameobject SET name_loc9='TEMP NIU Raggio di Luce Luminosa' WHERE entry=300035; -- Name: TEMP NIU Bright Light Beam
 UPDATE locales_gameobject SET name_loc9='TEMP I Golia Morti' WHERE entry=300036; -- Name: TEMP The Dead Goliaths
@@ -10386,7 +10386,7 @@ UPDATE locales_gameobject SET name_loc9='TEMP Circolo dell\'Evocazione Oscura' W
 UPDATE locales_gameobject SET name_loc9='TEMP Pagle\'s Pointe' WHERE entry=300052; -- Name: TEMP Pagle's Pointe
 UPDATE locales_gameobject SET name_loc9='TEMP Altare di Zanza' WHERE entry=300053; -- Name: TEMP Altar of Zanza
 UPDATE locales_gameobject SET name_loc9='TEMP Southshore' WHERE entry=300054; -- Name: TEMP Southshore
-UPDATE locales_gameobject SET name_loc9='TEMP Ossa di Grakkarond' WHERE entry=300055; -- Name: TEMP Bones of Grakkarond
+UPDATE locales_gameobject SET name_loc9='TEMP Bones of Grakkarond' WHERE entry=300055; -- Name: TEMP Bones of Grakkarond
 UPDATE locales_gameobject SET name_loc9='TEMP Bomba Fetida dei Forsaken' WHERE entry=300056; -- Name: TEMP Forsaken Stink Bomb
 UPDATE locales_gameobject SET name_loc9='TEMP Maelstrom Vorticoso' WHERE entry=300057; -- Name: TEMP Swirling Maelstrom
 UPDATE locales_gameobject SET name_loc9='TEMP Moonlight Superiore' WHERE entry=300058; -- Name: TEMP Greater Moonlight
@@ -10413,14 +10413,14 @@ UPDATE locales_gameobject SET name_loc9='TEMP Frammenti Myzrael' WHERE entry=300
 UPDATE locales_gameobject SET name_loc9='TEMP Monumento di Grom' WHERE entry=300140; -- Name: TEMP Grom's Monument
 UPDATE locales_gameobject SET name_loc9='TEMP Grotta dell\'Alto Capitano Winterfall' WHERE entry=300141; -- Name: TEMP High Chief Winterfall's Cave
 UPDATE locales_gameobject SET name_loc9='TEMP Santuario di Remulos' WHERE entry=300142; -- Name: TEMP Shrine of Remulos
-UPDATE locales_gameobject SET name_loc9='TEMP Attracco della Villa Swamplight' WHERE entry=300143; -- Name: TEMP Swamplight Manor Dock
+UPDATE locales_gameobject SET name_loc9='TEMP Attracco dello Swamplight Manor' WHERE entry=300143; -- Name: TEMP Swamplight Manor Dock
 UPDATE locales_gameobject SET name_loc9='TEMP Il Grande Ossario' WHERE entry=300144; -- Name: TEMP The Great Ossuary
 UPDATE locales_gameobject SET name_loc9='TEMP Statua della Tomba di Uther' WHERE entry=300145; -- Name: TEMP Uther's Tomb Statue
 UPDATE locales_gameobject SET name_loc9='TEMP Abbeveratoio Quilboar' WHERE entry=300146; -- Name: TEMP Quilboar Watering Hole
 UPDATE locales_gameobject SET name_loc9='TEMP Pozzo Zampillante' WHERE entry=300147; -- Name: TEMP Spring Well
-UPDATE locales_gameobject SET name_loc9='TEMP Rovine della Fontana Stardust' WHERE entry=300148; -- Name: TEMP Ruins of Stardust Fountain
-UPDATE locales_gameobject SET name_loc9='TEMP Mulino a Vento del Villaggio Blackhoof' WHERE entry=300149; -- Name: TEMP Blackhoof Village Windmill
+UPDATE locales_gameobject SET name_loc9='TEMP Fontana delle Ruins of Stardust' WHERE entry=300148; -- Name: TEMP Ruins of Stardust Fountain
+UPDATE locales_gameobject SET name_loc9='TEMP Mulino a Vento del Blackhoof Village' WHERE entry=300149; -- Name: TEMP Blackhoof Village Windmill
 UPDATE locales_gameobject SET name_loc9='TEMP Tenda Grimtotem' WHERE entry=300150; -- Name: TEMP Grimtotem Tent
 UPDATE locales_gameobject SET name_loc9='TEMP Monumento Familiare Hyjal' WHERE entry=300151; -- Name: TEMP Hyjal Family Monument
-UPDATE locales_gameobject SET name_loc9='TEMP Entrata al Covo di Onyxia' WHERE entry=300153; -- Name: TEMP Entrance to Onyxia's Lair
+UPDATE locales_gameobject SET name_loc9='TEMP Entrata a Onyxia\'s Lair' WHERE entry=300153; -- Name: TEMP Entrance to Onyxia's Lair
 SET NAMES 'latin1';
