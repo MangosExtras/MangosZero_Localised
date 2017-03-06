@@ -1,9 +1,9 @@
 SET NAMES 'utf8';
 UPDATE locales_page_Text SET text_loc9='Ciao Morgan,
 
-Gli affari a Goldshire vanno a gonfie vele, così bene che non ho ancora avuto tempo di mandarti nessun carico!  
+Gli affari a Goldshire vanno a gonfie vele, così bene che non ho ancora avuto tempo di mandarti nessun carico!
 
-Ho incaricato la persona che porta questa lettera di lasciarti una confezione di grandi candele di cera (hai presente, quelle che i Coboldi portano in testa?). 
+Ho incaricato la persona che porta questa lettera di lasciarti una confezione di grandi candele di cera (hai presente, quelle che i Coboldi portano in testa?).
 
 Per favore ringrazia questa persona e lasciale un giusto pagamento.' WHERE entry=15;
 UPDATE locales_page_Text SET text_loc9='All\'onorevole Preside Crillian,
@@ -36,7 +36,7 @@ Sono passati anni dall\'ultima volta che abbiamo parlato, ma spero che tu e tuo 
 Devo chiederti un favore, William.  In breve, mio nipote Tommy Joe ha perso la testa per la giovante Maybell Maclure.  E nonostante si amino alla follia... le nostre famiglie, le nostre famiglie si sono odiate per anni.
 ' WHERE entry=26;
 UPDATE locales_page_Text SET text_loc9='Salve William, Sono passati anni dall\'ultima volta che abbiamo parlato, ma spero che tu e tuo fratello stiate bene, e che la vostra farmacia prosperi.. Devo chiederti un favore, William.  In breve, mio nipote Tommy Joe ha perso la testa per la giovante Maybell Maclure.  E nonostante si amino alla follia... le nostre famiglie, le nostre famiglie si sono odiate per anni. ' WHERE entry=27;
-UPDATE locales_page_Text SET text_loc9='Argus, 
+UPDATE locales_page_Text SET text_loc9='Argus,
 
 Come sai, sono con l\'acqua alla gola per le richieste di riparazione dell\'Esercito. Non posso lamentarmi del lavoro, ma sta esaurendo le mie riserve di ferro.
 
@@ -123,7 +123,7 @@ UPDATE locales_page_Text SET text_loc9='[Le parole sottostanti sono state veloce
 UPDATE locales_page_Text SET text_loc9='Una Luna splende sopra la Valle
 Proiettando la sua luce sopra la giungla
 Dove orgogliosi Guerrieri rispondono alla chiamata
-Per difendere la nostra nazione e i nostri sacri terreni. 
+Per difendere la nostra nazione e i nostri sacri terreni.
 
 Una Luna splende sopra la Valle
 Oltre le grida di battaglia
@@ -178,4 +178,22 @@ UPDATE locales_page_Text SET text_loc9='il giorno dopo. Venne sepolto velocement
 Solo giorni dopo, la sua tomba venne spostata, e il suo corpo non venne ritrovato. Ciò che era Morgan ora' WHERE entry=71;
 UPDATE locales_page_Text SET text_loc9='vaga nel Duskwood, consumato dall\'afflizione per la perdita di sua moglie e i figli e dall\'odio per se stesso. Mor\'Ladim, come si fa chiamare ora, vagabonda nel Duskwood pieno di una irragionevole vendetta e di odio, ed è conosciuto per commettere omicidi indiscriminatamente.' WHERE entry=72;
 UPDATE locales_page_Text SET text_loc9='Il terrore di queste poche passate settimane è quasi più di ciò che posso sopportare; tuttavia, sento che scrivendo ciò che ho visto sarò in qualche modo confortato.  Quindi lo faccio, ed è l\'unico  conforto che ho in questi giorni tristi.' WHERE entry=73;
+
+UPDATE locales_page_Text SET text_loc9='PRIMO GIORNO
+
+L\'apprendista e io siamo arrivati nella Coldridge Valley oggi. Il viaggio attraverso la grotta è stato perlopiù privo di eventi. Abbiamo preparato un piccolo accampamento abbastanza lontano dalla grotta dove ci è stato detto che i troll si sono raggruppati.
+
+SECONDO GIORNO
+
+Il dannato ululare dei lupi mi ha tenuto sveglio praticamente tutta la notte.
+
+Avrò un nuovo vestito in pelle di lupo fra pochi giorni.
+
+Il ragazzo si è azzuffato con un trogg oggi, ed
+' WHERE entry=74;
+UPDATE locales_page_Text SET text_loc9='PRIMO GIORNO L\'apprendista e io siamo arrivati nella Coldridge Valley oggi. Il viaggio attraverso la grotta è stato perlopiù privo di eventi. Abbiamo preparato un piccolo accampamento abbastanza lontano dalla grotta dove ci è stato detto che i troll si sono raggruppati. SECONDO GIORNO Il dannato ululare dei lupi mi ha tenuto sveglio praticamente tutta la notte. Avrò un nuovo vestito in pelle di lupo fra pochi giorni. Il ragazzo si è azzuffato con un trogg oggi, ed ' WHERE entry=77;
+UPDATE locales_page_Text SET text_loc9='Questo Buono Armatura può essere scambiato per una parte di armatura di pelle o stoffa, ottenibile presso la casa Timberlain nell\'Eastvale Logging Camp. ' WHERE entry=78;
+UPDATE locales_page_Text SET text_loc9='Qui sotto è scritto il processo e il programma della raccolta di oro da parte dei Defias dalle miniere di Elwynn ai nostri quartier generali nelle Westfall.$B$BProgramma di raccolta:$B$BDomenica: 12:30pm$BMercoledì: 12:30pm$B$BIn ogni giorno specificato, l\'oro raccolto dalle miniere di Elwynn sarà raccolto al Brackwell Pumpkin Patch. L\'agente in carica di queste raccolte, "L\'Esattore," sarà riconoscibile dall\'anello intagliato che possiede. Un\'anello che gli ho dato. ' WHERE entry=79;
+UPDATE locales_page_Text SET text_loc9='Grelin, Ho poco tempo e molti problemi mi fanno pressione, e spero che la tua investigazione riguardo i troll non sia uno di essi. Quindi ti concedo l\'uso della mia autorità nel gestire questo problema nel modo che ritieni più congeniale, a maggior ragione se riesci a trovare una soluzione ingegnosa. Magni Bronzebeard ' WHERE entry=80;
+UPDATE locales_page_Text SET text_loc9='è riuscito ad avere la meglio sull\'orribile bruto, ma ora si sta medicando un brutto taglio sul suo braccio. Sembra che dovrò pensare alle faccende per un po\'. TERZO GIORNO Freddo. Ha nevicato un po\' durante il pomeriggio. QUARTO GIORNO Il ragazzo è tornato in forma oggi, quindi abbiamo dato una prima occhiata ai trolls. Frostmane, direi, vedendo i tatuaggi sulla loro pelle e le chincaglierie che indossano. ' WHERE entry=81;
 SET NAMES 'latin1';

@@ -4897,7 +4897,7 @@ UPDATE locales_gameobject SET name_loc9='Cassetta Postale' WHERE entry=164618; -
 UPDATE locales_gameobject SET name_loc9='Trappola di Immolazione' WHERE entry=164638; -- Name: Immolation Trap
 UPDATE locales_gameobject SET name_loc9='Trappola Gelida' WHERE entry=164639; -- Name: Frost Trap
 UPDATE locales_gameobject SET name_loc9='L\'Albero Morto' WHERE entry=164644; -- Name: The Dead Tree
-UPDATE locales_gameobject SET name_loc9='Echeyakee's Lair' WHERE entry=164651; -- Name: Echeyakee's Lair
+UPDATE locales_gameobject SET name_loc9='Echeyakee\'s Lair' WHERE entry=164651; -- Name: Echeyakee's Lair
 UPDATE locales_gameobject SET name_loc9='Cristallo del Potere Blu' WHERE entry=164658; -- Name: Blue Power Crystal
 UPDATE locales_gameobject SET name_loc9='Cristallo del Potere Verde' WHERE entry=164659; -- Name: Green Power Crystal
 UPDATE locales_gameobject SET name_loc9='Cristallo del Potere Rosso' WHERE entry=164660; -- Name: Red Power Crystal
