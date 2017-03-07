@@ -1,36 +1,5 @@
 SET NAMES 'utf8';
 
-UPDATE locales_page_Text SET text_loc9='DAY FIVE Had the lad watch over the camp and I snuck over to the cave and took a look around. The trolls\' numbers are somewhat troublesome. The Mountaineers might have to be summoned in force if the cave is to be cleared of the troll infestation. I realize I have not mentioned the troggs of late. They appear in the area in greater numbers, but they are so primitive that they do not pose much of a threat. Time may say if this is true or not. ' WHERE entry=82;
-UPDATE locales_page_Text SET text_loc9='And not a drop of ale for almost a week now. DAY SIX Cold again. Snows. Trolls. No ale. DAY SEVEN Snow below so white, Sky above so blue, Wolves will howl the night, Not a drop of brew. DAY EIGHT The trolls are perhaps not as large a problem as we initially thought. They have some ' WHERE entry=83;
-UPDATE locales_page_Text SET text_loc9='numbers but are not well armed or organized. A small show of force should be more than adequate in dealing with the threat they pose. ' WHERE entry=84;
-UPDATE locales_page_Text SET text_loc9='My Journal
-
-The terror of these past few weeks is almost more than I can bear; why is it that by writing words into this book I can somehow keep the madness at bay?  Perhaps it is as if I\'m confessing my sins to a silent companion, or freeing my mind of these tortured thoughts and confining them to paper.
-
-I began a journal before this one, but it remains in a place to which I cannot return.  So I will start afresh.  But this time, I will start from the true beginning.' WHERE entry=85;
-UPDATE locales_page_Text SET text_loc9='A Report on the State of the Frostmane Trolls in the General Area of Coldridge Valley
-
-Prepared by Grelin Whitebeard, Senate Special Envoy
-
-From the time that I have spent observing the movement of the Frostmane trolls in the Coldridge Valley area, I have determined that they pose no large threat to dwarven settlements in the area. Moreover, they are a threat that can be eliminated with little additional support from the army. Through the assistance of Mountaineers already stationed in' WHERE entry=86;
-UPDATE locales_page_Text SET text_loc9='Coldridge Valley and mercenaries (paid with funds set aside by the Senate prior to my dispatchment), I am confident that the problem will be solved in short order.
-
-This action has been authorized with the sanction given to me by King Bronzebeard.' WHERE entry=87;
-UPDATE locales_page_Text SET text_loc9='A Report on the State of the Frostmane Trolls in the General Area of Dun Morogh The trolls situated in Dun Morogh are largely centralized in Frostmane Hold, a mountain cave on the western border. They have sufficient numbers to cause some concern, however, they seem more than content to stay in their cave. This is, no doubt, because they do not wish to incur the wrath of the dwarves again, and risk total extermination. Their actions can be considered territorial, if anything, and it is ' WHERE entry=88;
-UPDATE locales_page_Text SET text_loc9='my belief that they pose no real threat to us, so long as we do not encroach upon their territory. This may be a situation unappealing to the dwarven populace, but given the dispersal of military resources, it may be prudent to relegate the extermination of the trolls to a lower level of importance, and continue to focus on the threat posed by the troggs and the Dark Irons. Enclosed, you will also find a copy of my brother Grelin\'s report on Anvilmar. Signed, Senir Whitebeard ' WHERE entry=89;
-UPDATE locales_page_Text SET text_loc9='A Report on the State of the Frostmane Trolls in the General Area of Coldridge Valley Prepared by Grelin Whitebeard, Senate Special Envoy From the time that I have spent observing the movement of the Frostmane trolls in the Coldridge Valley area, I have determined that they pose no large threat to dwarven settlements in the area. Moreover, they are a threat that can be eliminated with little additional support from the army. Through the assistance of Mountaineers already stationed in ' WHERE entry=90;
-UPDATE locales_page_Text SET text_loc9='Coldridge Valley and mercenaries (paid with funds set aside by the Senate prior to my dispatchment), I am confident that the problem will be solved in short order. This action has been authorized with the sanction given to me by King Bronzebeard. ' WHERE entry=91;
-UPDATE locales_page_Text SET text_loc9='My Dearest Tarrel -
-
-Excuse the haste with which this correspondence was written but time is not a luxury we have.
-
-The dig crew was making significant progress unearthing important Titan artifacts.  But we began to discover other ancient objects, specifically large bones.' WHERE entry=92;
-UPDATE locales_page_Text SET text_loc9='Not long after the bones were dug up we fell victim to attack by Raptors.  The battalion of men from Longbraid\'s regiment fought valiantly.  But ultimately, they were overwhelmed.  Nearly everyone perished.  Only 3 of us survived.  A laborer by the name of Ormer Ironbraid proved to be most heroic as he ensured the safety of myself and Prospector Whelgar.' WHERE entry=93;
-UPDATE locales_page_Text SET text_loc9='We now take refuge in a sheltered cavern, seemingly out of harm\'s way.  But we are indeed trapped until a force can be sent to reckon with the Raptors.  Whelgar is trying to continue work but I suspect he is still quite frightened.  That is our situation, Tarrel.  Please urge Longbraid to muster a rescue force at once.
-
-My love for you remains strong, even through this dire time.
-
---Merrin' WHERE entry=94;
 UPDATE locales_page_Text SET text_loc9='The Green Hills of Stranglethorn
 
 Our first day went as well as one can expect first days to go.  Most of our time was preoccupied with making the necessary arrangements to establish a base camp.  I located an ideal setting by a freshwater river inlet.  Judging by the old, abandoned docks nearby, this site was inhabited sometime ago.  As for the original inhabitants, only time can tell that tale.' WHERE entry=95;
