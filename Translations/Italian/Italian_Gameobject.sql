@@ -1,4 +1,4 @@
-Talonbranch GladeSET NAMES 'utf8';
+SET NAMES 'utf8';
 UPDATE locales_gameobject SET name_loc9='Vecchia Statua Leonina' WHERE entry=31; -- Name: Old Lion Statue
 UPDATE locales_gameobject SET name_loc9='Forziere Sommerso' WHERE entry=32; -- Name: Sunken Chest
 UPDATE locales_gameobject SET name_loc9='Forziere Chiuso' WHERE entry=33; -- Name: Locked Chest
