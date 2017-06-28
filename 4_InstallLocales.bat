@@ -277,6 +277,8 @@ echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Quest.sql
 echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Script_Texts.sql
+echo  .... Mangos String
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Mangos_String.sql
 goto WorldDB1:
 
 :LoadDE
@@ -300,7 +302,9 @@ echo  .... Points of Interest
 echo  .... DB Script Strings
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_db_script_string.sql
 echo  .... Script Texts
-%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_script_texts.sql
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Script_Texts.sql
+echo  .... Mangos String
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Mangos_String.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Quest.sql
 goto WorldDB2:
@@ -319,6 +323,8 @@ echo  .... PageText
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_PageText.sql
 echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Script_Texts.sql
+echo  .... Mangos String
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Mangos_String.sql
 REM echo  .... Quests
 REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Quest.sql
 goto WorldDB3:
@@ -337,6 +343,8 @@ echo  .... PageText
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_PageText.sql
 echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Script_Texts.sql
+echo  .... Mangos String
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Mangos_String.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Quest.sql
 echo  .... NpcText
@@ -357,6 +365,8 @@ echo  .... PageText
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_PageText.sql
 echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Script_Texts.sql
+echo  .... Mangos String
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Mangos_String.sql
 REM echo  .... Quests
 REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Quest.sql
 goto WorldDB5:
@@ -375,6 +385,8 @@ echo  .... PageText
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_PageText.sql
 echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Script_Texts.sql
+echo  .... Mangos String
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Mangos_String.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Quest.sql
 goto WorldDB6:
@@ -393,6 +405,8 @@ echo  .... PageText
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_PageText.sql
 echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Script_Texts.sql
+echo  .... Mangos String
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Mangos_String.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Quest.sql
 goto WorldDB7:
@@ -411,6 +425,8 @@ echo  .... PageText
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_PageText.sql
 echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Script_Texts.sql
+echo  .... Mangos String
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Mangos_String.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Quest.sql
 goto WorldDB8:
@@ -429,6 +445,8 @@ echo  .... PageText
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_PageText.sql
 REM echo  .... Script Texts
 REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Script_Texts.sql
+REM echo  .... Mangos String
+REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Mangos_String.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Quest.sql
 goto done:
