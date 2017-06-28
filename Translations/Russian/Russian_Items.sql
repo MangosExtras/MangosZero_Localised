@@ -1442,6 +1442,7 @@ UPDATE locales_item SET name_loc8='Усиленный лук' WHERE entry=3026; 
 UPDATE locales_item SET name_loc8='Тяжелый изогнутый лук' WHERE entry=3027; -- name: Heavy Recurve Bow
 UPDATE locales_item SET name_loc8='Стрела-бритва' WHERE entry=3030; -- name: Razor Arrow
 UPDATE locales_item SET name_loc8='Твердый патрон' WHERE entry=3033; -- name: Solid Shot
+UPDATE locales_item SET name_loc8='Украшенная символами кираса' WHERE entry=3034; -- name: Glyphed Breastplate
 UPDATE locales_item SET name_loc8='Отравленная тыква' WHERE entry=3035; -- name: Laced Pumpkin
 UPDATE locales_item SET name_loc8='Тяжелый короткий лук' WHERE entry=3036; -- name: Heavy Shortbow
 UPDATE locales_item SET name_loc8='Изогнутый лук Стонущего леса' WHERE entry=3037; -- name: Whipwood Recurve Bow
@@ -3137,6 +3138,7 @@ UPDATE locales_item SET name_loc8='Сердце очищенного древе�
 UPDATE locales_item SET name_loc8='Исписанная кора' WHERE entry=5219; -- name: Inscribed Bark
 UPDATE locales_item SET name_loc8='Клык Кривой Сосны' WHERE entry=5220; -- name: Gnarlpine Fang
 UPDATE locales_item SET name_loc8='Голова Меленаса' WHERE entry=5221; -- name: Melenas\' Head
+UPDATE locales_item SET name_loc8='Рукодельные кожаные наручи' WHERE entry=5229; -- name: Handstitched Leather Bracers
 UPDATE locales_item SET name_loc8='Крошечный камень души' WHERE entry=5232; -- name: Minor Soulstone
 UPDATE locales_item SET name_loc8='Камень Релу' WHERE entry=5233; -- name: Stone of Relu
 UPDATE locales_item SET name_loc8='Окаменелость Бутылопуза' WHERE entry=5234; -- name: Flagongut\'s Fossil
@@ -7308,6 +7310,7 @@ UPDATE locales_item SET name_loc8='Рассветный гамбит' WHERE entr
 UPDATE locales_item SET name_loc8='Ключ от города',description_loc8='Ключ от всех замков Стратхольма' WHERE entry=12382; -- name: Key to the City -- description: Master Key to the City of Stratholme
 UPDATE locales_item SET name_loc8='Осененное луной перо' WHERE entry=12383; -- name: Moontouched Feather
 UPDATE locales_item SET name_loc8='Сокровище Мау\'ари' WHERE entry=12384; -- name: Cache of Mau\'ari
+UPDATE locales_item SET name_loc8='Чекан судьи' WHERE entry=12400; -- name: The Judge\'s Gavel
 UPDATE locales_item SET name_loc8='Древнее яйцо' WHERE entry=12402; -- name: Ancient Egg
 UPDATE locales_item SET name_loc8='Массивное точило' WHERE entry=12404; -- name: Dense Sharpening Stone
 UPDATE locales_item SET name_loc8='Ториевая броня' WHERE entry=12405; -- name: Thorium Armor
@@ -10888,6 +10891,9 @@ UPDATE locales_item SET name_loc8='Заплечный мешок из шкуры
 UPDATE locales_item SET name_loc8='Заряженная чешуя Ониксии' WHERE entry=17968; -- name: Charged Scale of Onyxia
 UPDATE locales_item SET name_loc8='Красный мешочек с самоцветами' WHERE entry=17969; -- name: Red Sack of Gems
 UPDATE locales_item SET name_loc8='Сердце Рагнароса' WHERE entry=17982; -- name: Ragnaros Core
+UPDATE locales_item SET name_loc8='Жесткая солонина' WHERE entry=18000; -- name: Tough Jerky
+UPDATE locales_item SET name_loc8='Черствая краюха хлеба' WHERE entry=18001; -- name: Tough Hunk of Bread
+UPDATE locales_item SET name_loc8='Освежающая ключевая вода' WHERE entry=18005; -- name: Refreshing Spring Water
 UPDATE locales_item SET name_loc8='Королевская печать Алексиса' WHERE entry=18022; -- name: Royal Seal of Alexis
 UPDATE locales_item SET name_loc8='Стрела с ториевым наконечником' WHERE entry=18042; -- name: Thorium Headed Arrow
 UPDATE locales_item SET name_loc8='Шахтерские сапоги' WHERE entry=18043; -- name: Coal Miner Boots
@@ -12070,6 +12076,7 @@ UPDATE locales_item SET name_loc8='Изначальная эгида Хакка�
 UPDATE locales_item SET name_loc8='Ящик ресурсов из Арати',description_loc8='Доказательство победы в Низине Арати.' WHERE entry=19725; -- name: Arathi Resource Crate -- description: Proof of victory in Arathi Basin
 UPDATE locales_item SET name_loc8='Кровавая лоза' WHERE entry=19726; -- name: Bloodvine
 UPDATE locales_item SET name_loc8='Кровокос',description_loc8='Позволяет травникам собирать кровавую лозу в Зул\'Гурубе.' WHERE entry=19727; -- name: Blood Scythe -- description: Allows an Herbalist to collect Bloodvine from Zul\'Gurub Flora when carried.
+UPDATE locales_item SET name_loc8='Облачение властителя' WHERE entry=19760; -- name: Overlord\'s Embrace
 UPDATE locales_item SET name_loc8='Выкройка: жилет кровавой лозы',description_loc8='Обучает пошиву жилета кровавой лозы.' WHERE entry=19764; -- name: Pattern: Bloodvine Vest -- description: Teaches you how to sew a Bloodvine Vest.
 UPDATE locales_item SET name_loc8='Выкройка: поножи кровавой лозы',description_loc8='Обучает пошиву поножей кровавой лозы.' WHERE entry=19765; -- name: Pattern: Bloodvine Leggings -- description: Teaches you how to sew Bloodvine Leggings.
 UPDATE locales_item SET name_loc8='Выкройка: сапоги кровавой лозы',description_loc8='Обучает пошиву сапог кровавой лозы.' WHERE entry=19766; -- name: Pattern: Bloodvine Boots -- description: Teaches you how to sew Bloodvine Boots.

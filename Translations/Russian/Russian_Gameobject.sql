@@ -1199,6 +1199,7 @@ UPDATE locales_gameobject SET name_loc8='Бронированная дверь' 
 UPDATE locales_gameobject SET name_loc8='Пушка Братства Справедливости' WHERE entry=16398; -- name: Defias Cannon
 UPDATE locales_gameobject SET name_loc8='Дверь литейного цеха' WHERE entry=16399; -- name: Foundry Door
 UPDATE locales_gameobject SET name_loc8='Дверь Мачтовой мастерской' WHERE entry=16400; -- name: Mast Room Door
+UPDATE locales_gameobject SET name_loc8='Треснувший некротический кристалл' WHERE entry=16431; -- name: Cracked Necrotic Crystal
 UPDATE locales_gameobject SET name_loc8='Тяжелая дверь' WHERE entry=17153; -- name: Heavy Door
 UPDATE locales_gameobject SET name_loc8='Тяжелая дверь' WHERE entry=17154; -- name: Heavy Door
 UPDATE locales_gameobject SET name_loc8='Порох Братства Справедливости' WHERE entry=17155; -- name: Defias Gunpowder
@@ -1316,6 +1317,8 @@ UPDATE locales_gameobject SET name_loc8='Куча грязи' WHERE entry=19030;
 UPDATE locales_gameobject SET name_loc8='Степи' WHERE entry=19033; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc8='"Компендиум павших"' WHERE entry=19283; -- name: Compendium of the Fallen
 UPDATE locales_gameobject SET name_loc8='"Мифология Титанов"' WHERE entry=19284; -- name: Mythology of the Titans
+UPDATE locales_gameobject SET name_loc8='Зев пещеры водопада Скалистого' WHERE entry=19463; -- name: Cliffspring Falls Cave Mouth
+UPDATE locales_gameobject SET name_loc8='Пруд Вершины Багрового Тумана' WHERE entry=19464; -- name: Dreadmist Peak Pool
 UPDATE locales_gameobject SET name_loc8='Рекомендательное письмо Антона' WHERE entry=19534; -- name: Anton\'s Letter of Commendation
 UPDATE locales_gameobject SET name_loc8='Змеецвет' WHERE entry=19535; -- name: Serpentbloom
 UPDATE locales_gameobject SET name_loc8='Потрескивающий костер' WHERE entry=19536; -- name: Crackling Campfire
@@ -1455,6 +1458,7 @@ UPDATE locales_gameobject SET name_loc8='Лунный колодец Ясене�
 UPDATE locales_gameobject SET name_loc8='Древняя жаровня' WHERE entry=20807; -- name: Ancient Brazier
 UPDATE locales_gameobject SET name_loc8='Корабль ("Девичий каприз")' WHERE entry=20808; -- name: Booty Bay Ship
 UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=20810; -- name: Campfire
+UPDATE locales_gameobject SET name_loc8='золотой рудник' WHERE entry=20811; -- name: mine
 UPDATE locales_gameobject SET name_loc8='Кутузка' WHERE entry=20817; -- name: Holding Pen
 UPDATE locales_gameobject SET name_loc8='Лунный колодец' WHERE entry=20819; -- name: Moon Well 2
 UPDATE locales_gameobject SET name_loc8='Штормград' WHERE entry=20827; -- name: Stormwind City
@@ -4830,6 +4834,8 @@ UPDATE locales_gameobject SET name_loc8='Почтовый ящик' WHERE entry=
 UPDATE locales_gameobject SET name_loc8='Почтовый ящик' WHERE entry=164618; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc8='Обжигающая ловушка' WHERE entry=164638; -- name: Immolation Trap
 UPDATE locales_gameobject SET name_loc8='Ледяная ловушка' WHERE entry=164639; -- name: Frost Trap
+UPDATE locales_gameobject SET name_loc8='Мертвое дерево' WHERE entry=164644; -- name: The Dead Tree
+UPDATE locales_gameobject SET name_loc8='Логово Ичиаки' WHERE entry=164651; -- name: Echeyakee\'s Lair
 UPDATE locales_gameobject SET name_loc8='Синий кристалл силы' WHERE entry=164658; -- name: Blue Power Crystal
 UPDATE locales_gameobject SET name_loc8='Зеленый кристалл силы' WHERE entry=164659; -- name: Green Power Crystal
 UPDATE locales_gameobject SET name_loc8='Красный кристалл силы' WHERE entry=164660; -- name: Red Power Crystal
@@ -4997,6 +5003,7 @@ UPDATE locales_gameobject SET name_loc8='Деревянный стул' WHERE en
 UPDATE locales_gameobject SET name_loc8='Деревянный стул' WHERE entry=170001; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc8='Деревянный стул' WHERE entry=170002; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc8='Деревянный стул' WHERE entry=170033; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc8='Doodad_GeneralChairLoEnd27' WHERE entry=170034; -- name: Doodad_GeneralChairLoEnd27
 UPDATE locales_gameobject SET name_loc8='Деревянный стул' WHERE entry=170035; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc8='Деревянный стул' WHERE entry=170036; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc8='Деревянный стул' WHERE entry=170037; -- name: Wooden Chair
@@ -5946,7 +5953,14 @@ UPDATE locales_gameobject SET name_loc8='Doodad_MediumBrazier02' WHERE entry=174
 UPDATE locales_gameobject SET name_loc8='Маленькая жаровня 01' WHERE entry=174861; -- name: Doodad_SmallBrazier01
 UPDATE locales_gameobject SET name_loc8='Печка' WHERE entry=174862; -- name: Stove
 UPDATE locales_gameobject SET name_loc8='Печка' WHERE entry=174863; -- name: Stove
+UPDATE locales_gameobject SET name_loc8='Doodad_GeneralChairLoEnd75' WHERE entry=174864; -- name: Doodad_GeneralChairLoEnd75
 UPDATE locales_gameobject SET name_loc8='Деревянный стул' WHERE entry=174865; -- name: Doodad_GeneralChairLoEnd64
+UPDATE locales_gameobject SET name_loc8='Doodad_GeneralChairLoEnd72' WHERE entry=174866; -- name: Doodad_GeneralChairLoEnd72
+UPDATE locales_gameobject SET name_loc8='Doodad_GeneralChairLoEnd66' WHERE entry=174867; -- name: Doodad_GeneralChairLoEnd66
+UPDATE locales_gameobject SET name_loc8='Doodad_GeneralChairLoEnd76' WHERE entry=174868; -- name: Doodad_GeneralChairLoEnd76
+UPDATE locales_gameobject SET name_loc8='Doodad_GeneralChairLoEnd78' WHERE entry=174869; -- name: Doodad_GeneralChairLoEnd78
+UPDATE locales_gameobject SET name_loc8='Doodad_GeneralChairLoEnd79' WHERE entry=174870; -- name: Doodad_GeneralChairLoEnd79
+UPDATE locales_gameobject SET name_loc8='Doodad_GeneralChairLoEnd81' WHERE entry=174871; -- name: Doodad_GeneralChairLoEnd81
 UPDATE locales_gameobject SET name_loc8='Печка' WHERE entry=174872; -- name: Stove
 UPDATE locales_gameobject SET name_loc8='Скамья' WHERE entry=174873; -- name: Bench
 UPDATE locales_gameobject SET name_loc8='Скамья' WHERE entry=174874; -- name: Bench
@@ -6297,6 +6311,15 @@ UPDATE locales_gameobject SET name_loc8='Припасы Джерона' WHERE en
 UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=175630; -- name: Campfire
 UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=175631; -- name: Campfire
 UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=175632; -- name: Campfire
+UPDATE locales_gameobject SET name_loc8='Doodad_WoodSignPointerNice03' WHERE entry=175647; -- name: Doodad_WoodSignPointerNice03
+UPDATE locales_gameobject SET name_loc8='Doodad_WoodSignPointerNice05' WHERE entry=175648; -- name: Doodad_WoodSignPointerNice05
+UPDATE locales_gameobject SET name_loc8='Doodad_WoodSignPointerNice04' WHERE entry=175649; -- name: Doodad_WoodSignPointerNice04
+UPDATE locales_gameobject SET name_loc8='Doodad_WoodSignPointerNice06' WHERE entry=175650; -- name: Doodad_WoodSignPointerNice06
+UPDATE locales_gameobject SET name_loc8='Doodad_WoodSignPointerNice07' WHERE entry=175651; -- name: Doodad_WoodSignPointerNice07
+UPDATE locales_gameobject SET name_loc8='Doodad_WoodSignPointerNice08' WHERE entry=175652; -- name: Doodad_WoodSignPointerNice08
+UPDATE locales_gameobject SET name_loc8='Doodad_WoodSignPointerNice09' WHERE entry=175653; -- name: Doodad_WoodSignPointerNice09
+UPDATE locales_gameobject SET name_loc8='Doodad_WoodSignPointerNice10' WHERE entry=175656; -- name: Doodad_WoodSignPointerNice10
+UPDATE locales_gameobject SET name_loc8='Doodad_WoodSignPointerNice11' WHERE entry=175657; -- name: Doodad_WoodSignPointerNice11
 UPDATE locales_gameobject SET name_loc8='Броня Маннорота' WHERE entry=175658; -- name: The Armor of Mannoroth
 UPDATE locales_gameobject SET name_loc8='Здесь покоится Теренас Менетил II' WHERE entry=175659; -- name: Here Lies King Terenas Menethil II
 UPDATE locales_gameobject SET name_loc8='Doodad_GnomeSign_Engineer01' WHERE entry=175663; -- name: Doodad_GnomeSign_Engineer01
@@ -7559,6 +7582,8 @@ UPDATE locales_gameobject SET name_loc8='Фонари x3' WHERE entry=178645; --
 UPDATE locales_gameobject SET name_loc8='Ящик с припасами Альянса' WHERE entry=178646; -- name: Alliance Supply Crate
 UPDATE locales_gameobject SET name_loc8='Рождественская елка' WHERE entry=178647; -- name: Christmas Tree
 UPDATE locales_gameobject SET name_loc8='Венок - масштаб 0.75' WHERE entry=178649; -- name: Wreath scale 0.75
+UPDATE locales_gameobject SET name_loc8='Паровая пила' WHERE entry=178664; -- name: Steamsaw
+UPDATE locales_gameobject SET name_loc8='Паровая пила' WHERE entry=178665; -- name: Steamsaw
 UPDATE locales_gameobject SET name_loc8='Цыганская кибитка' WHERE entry=178666; -- name: Gypsy Wagon
 UPDATE locales_gameobject SET name_loc8='Рождественская елка (средняя)' WHERE entry=178667; -- name: Christmas Tree (Medium)
 UPDATE locales_gameobject SET name_loc8='Рождественская елка (средняя)' WHERE entry=178668; -- name: Christmas Tree (Medium)
@@ -7801,6 +7826,7 @@ UPDATE locales_gameobject SET name_loc8='Колесо Черного Поход�
 UPDATE locales_gameobject SET name_loc8='Свеча Судного дня' WHERE entry=179673; -- name: Doomsday Candle
 UPDATE locales_gameobject SET name_loc8='Колокол Детмуры' WHERE entry=179674; -- name: Bell of Dethmoora
 UPDATE locales_gameobject SET name_loc8='Пламя Скверны' WHERE entry=179676; -- name: Fel Fire
+UPDATE locales_gameobject SET name_loc8='Останки Крошиуса' WHERE entry=179677; -- name: Kroshius\' Remains
 UPDATE locales_gameobject SET name_loc8='Портал коня погибели' WHERE entry=179681; -- name: Dreadsteed Portal
 UPDATE locales_gameobject SET name_loc8='Жаровня' WHERE entry=179682; -- name: Brazier
 UPDATE locales_gameobject SET name_loc8='Крестянин - световая ловушка' WHERE entry=179693; -- name: Peasant Light Trap
@@ -8190,6 +8216,7 @@ UPDATE locales_gameobject SET name_loc8='Больший Ветровой Кам�
 UPDATE locales_gameobject SET name_loc8='Меньший камень Ветров' WHERE entry=180564; -- name: Lesser Wind Stone
 UPDATE locales_gameobject SET name_loc8='Бочонок' WHERE entry=180570; -- name: Keg
 UPDATE locales_gameobject SET name_loc8='Пушка - цель' WHERE entry=180573; -- name: Cannon Target
+UPDATE locales_gameobject SET name_loc8='Уголь стража проклятуна' WHERE entry=180574; -- name: Wickerman Guardian Ember
 UPDATE locales_gameobject SET name_loc8='Бочонок' WHERE entry=180575; -- name: Keg
 UPDATE locales_gameobject SET name_loc8='Косяк масляного черноротика' WHERE entry=180582; -- name: Oily Blackmouth School
 UPDATE locales_gameobject SET name_loc8='Фрагмент сумеречной таблички' WHERE entry=180583; -- name: Twilight Tablet Fragment
@@ -10206,5 +10233,17 @@ UPDATE locales_gameobject SET name_loc8='Дымящаяся кружка' WHERE 
 UPDATE locales_gameobject SET name_loc8='Сундучок для бумаг #2' WHERE entry=190483; -- name: Document Chest
 UPDATE locales_gameobject SET name_loc8='Сундучок для бумаг #3' WHERE entry=190484; -- name: Document Chest
 UPDATE locales_gameobject SET name_loc8='Пушка' WHERE entry=193011; -- name: Cannon
+UPDATE locales_gameobject SET name_loc8='Кристалл горишского силитида' WHERE entry=210338; -- name: Gorishi Silithid Crystal
+UPDATE locales_gameobject SET name_loc8='Наковальня' WHERE entry=211016; -- name: Anvil
+UPDATE locales_gameobject SET name_loc8='Круг Призыва' WHERE entry=211020; -- name: Summoning Circle
+UPDATE locales_gameobject SET name_loc8='Знамя' WHERE entry=211029; -- name: Banner
+UPDATE locales_gameobject SET name_loc8='Аура' WHERE entry=211033; -- name: Aura
+UPDATE locales_gameobject SET name_loc8='Аура' WHERE entry=211034; -- name: Aura
+UPDATE locales_gameobject SET name_loc8='Тотем огня' WHERE entry=211036; -- name: Fire Totem
+UPDATE locales_gameobject SET name_loc8='Таинственный пень' WHERE entry=211051; -- name: Mysterious Tree Stump
+UPDATE locales_gameobject SET name_loc8='Лавовая трещина' WHERE entry=211054; -- name: Lava Crack
+UPDATE locales_gameobject SET name_loc8='Элвиннская изгородь' WHERE entry=211062; -- name: Elwynn Fence
+UPDATE locales_gameobject SET name_loc8='Элвиннская изгородь' WHERE entry=211063; -- name: Elwynn Fence
+UPDATE locales_gameobject SET name_loc8='Тотем огня' WHERE entry=211068; -- name: Fire Totem
 
 SET NAMES 'latin1';

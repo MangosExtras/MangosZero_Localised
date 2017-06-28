@@ -306,6 +306,7 @@ UPDATE locales_item SET name_loc5='豺狼人戰斧' WHERE entry=1220; -- name: L
 UPDATE locales_item SET name_loc5='幼龍的腹鱗' WHERE entry=1221; -- name: Underbelly Whelp Scale
 UPDATE locales_item SET name_loc5='亞麻繃帶' WHERE entry=1251; -- name: Linen Bandage
 UPDATE locales_item SET name_loc5='斯通菲爾德老奶奶的便箋' WHERE entry=1252; -- name: Gramma Stonefield\'s Note
+UPDATE locales_item SET name_loc5='火焰石' WHERE entry=1254; -- name: Lesser Firestone
 UPDATE locales_item SET name_loc5='水晶藻葉' WHERE entry=1256; -- name: Crystal Kelp Frond
 UPDATE locales_item SET name_loc5='隱形液' WHERE entry=1257; -- name: Invisibility Liquor
 UPDATE locales_item SET name_loc5='薩瑞爾祖恩的頭顱' WHERE entry=1260; -- name: Tharil\'zun\'s Head
@@ -1438,6 +1439,7 @@ UPDATE locales_item SET name_loc5='強化弓' WHERE entry=3026; -- name: Reinfor
 UPDATE locales_item SET name_loc5='重型彎弓' WHERE entry=3027; -- name: Heavy Recurve Bow
 UPDATE locales_item SET name_loc5='銳鋒箭' WHERE entry=3030; -- name: Razor Arrow
 UPDATE locales_item SET name_loc5='實心子彈' WHERE entry=3033; -- name: Solid Shot
+UPDATE locales_item SET name_loc5='雕紋胸甲' WHERE entry=3034; -- name: Glyphed Breastplate
 UPDATE locales_item SET name_loc5='斑紋南瓜' WHERE entry=3035; -- name: Laced Pumpkin
 UPDATE locales_item SET name_loc5='沉重的短弓' WHERE entry=3036; -- name: Heavy Shortbow
 UPDATE locales_item SET name_loc5='柳木彎弓' WHERE entry=3037; -- name: Whipwood Recurve Bow
@@ -3124,6 +3126,7 @@ UPDATE locales_item SET name_loc5='樹精之心' WHERE entry=5218; -- name: Clea
 UPDATE locales_item SET name_loc5='刻字的樹皮' WHERE entry=5219; -- name: Inscribed Bark
 UPDATE locales_item SET name_loc5='瘤背熊怪的牙齒' WHERE entry=5220; -- name: Gnarlpine Fang
 UPDATE locales_item SET name_loc5='邁雷納斯的頭顱' WHERE entry=5221; -- name: Melenas\' Head
+UPDATE locales_item SET name_loc5='手工皮護腕' WHERE entry=5229; -- name: Handstitched Leather Bracers
 UPDATE locales_item SET name_loc5='靈魂石' WHERE entry=5232; -- name: Minor Soulstone
 UPDATE locales_item SET name_loc5='雷魯之石' WHERE entry=5233; -- name: Stone of Relu
 UPDATE locales_item SET name_loc5='弗拉岡特的化石' WHERE entry=5234; -- name: Flagongut\'s Fossil
@@ -3239,6 +3242,7 @@ UPDATE locales_item SET name_loc5='棘木匕首' WHERE entry=5392; -- name: This
 UPDATE locales_item SET name_loc5='棘木法杖' WHERE entry=5393; -- name: Thistlewood Staff
 UPDATE locales_item SET name_loc5='箭術訓練手套' WHERE entry=5394; -- name: Archery Training Gloves
 UPDATE locales_item SET name_loc5='林地之盾' WHERE entry=5395; -- name: Woodland Shield
+UPDATE locales_item SET name_loc5='迪菲亞火藥' WHERE entry=5397; -- name: Defias Gunpowder
 UPDATE locales_item SET name_loc5='布織護腿' WHERE entry=5398; -- name: Canopy Leggings
 UPDATE locales_item SET name_loc5='追蹤之靴' WHERE entry=5399; -- name: Tracking Boots
 UPDATE locales_item SET name_loc5='堅硬的護肩' WHERE entry=5404; -- name: Serpent\'s Shoulders
@@ -3335,6 +3339,7 @@ UPDATE locales_item SET name_loc5='魚龍的尖牙' WHERE entry=5516; -- name: T
 UPDATE locales_item SET name_loc5='鐵質柄頭',description_loc5='達圖爾的魔棒的最後一部份。' WHERE entry=5519; -- name: Iron Pommel -- description: The final piece of Dartol\'s Rod.
 UPDATE locales_item SET name_loc5='維琳德的日記' WHERE entry=5520; -- name: Velinde\'s Journal
 UPDATE locales_item SET name_loc5='維琳德的鑰匙' WHERE entry=5521; -- name: Velinde\'s Key
+UPDATE locales_item SET name_loc5='法術石' WHERE entry=5522; -- name: Spellstone
 UPDATE locales_item SET name_loc5='小蚌殼' WHERE entry=5523; -- name: Small Barnacled Clam
 UPDATE locales_item SET name_loc5='厚殼蚌' WHERE entry=5524; -- name: Thick-shelled Clam
 UPDATE locales_item SET name_loc5='水煮蚌肉' WHERE entry=5525; -- name: Boiled Clams
@@ -6583,6 +6588,7 @@ UPDATE locales_item SET name_loc5='公式:附魔披風 - 初級敏捷',descripti
 UPDATE locales_item SET name_loc5='晨光麥' WHERE entry=11040; -- name: Morrowgrain
 UPDATE locales_item SET name_loc5='沙妮的鼻環' WHERE entry=11058; -- name: Sha\'ni\'s Nose-Ring
 UPDATE locales_item SET name_loc5='古物寶庫鑰匙' WHERE entry=11078; -- name: Relic Coffer Key
+UPDATE locales_item SET name_loc5='戈泰什的頭顱' WHERE entry=11079; -- name: Gor\'tesh\'s Lopped Off Head -- description: Gor\'tesh\'s severed head, propped up on a pike.
 UPDATE locales_item SET name_loc5='戈泰什的頭顱',description_loc5='滑膩，惡臭，肥大' WHERE entry=11080; -- name: Gor\'tesh\'s Lopped Off Head -- description: Squishy, Smelly, Slimy
 UPDATE locales_item SET name_loc5='公式:附魔盾牌 - 次級防護',description_loc5='教你學會如何永久地為一面盾牌附魔，使其提高30點護甲值。' WHERE entry=11081; -- name: Formula: Enchant Shield - Lesser Protection -- description: Teaches you how to permanently enchant a shield with +30 armor.
 UPDATE locales_item SET name_loc5='強效星界精華' WHERE entry=11082; -- name: Greater Astral Essence
@@ -7275,6 +7281,7 @@ UPDATE locales_item SET name_loc5='阿萊克斯的先鋒' WHERE entry=12368; -- 
 UPDATE locales_item SET name_loc5='城市大門鑰匙',description_loc5='打開斯坦索姆城門的鑰匙' WHERE entry=12382; -- name: Key to the City -- description: Master Key to the City of Stratholme
 UPDATE locales_item SET name_loc5='月觸羽毛' WHERE entry=12383; -- name: Moontouched Feather
 UPDATE locales_item SET name_loc5='瑪艾里的容器' WHERE entry=12384; -- name: Cache of Mau\'ari
+UPDATE locales_item SET name_loc5='法官裁決槌' WHERE entry=12400; -- name: The Judge\'s Gavel
 UPDATE locales_item SET name_loc5='遠古之卵' WHERE entry=12402; -- name: Ancient Egg
 UPDATE locales_item SET name_loc5='緻密磨刀石' WHERE entry=12404; -- name: Dense Sharpening Stone
 UPDATE locales_item SET name_loc5='瑟銀護甲' WHERE entry=12405; -- name: Thorium Armor
@@ -8033,8 +8040,13 @@ UPDATE locales_item SET name_loc5='跳跳蟲繩索',description_loc5='教你學�
 UPDATE locales_item SET name_loc5='熊貓項圈',description_loc5='教你學會如何召喚這個夥伴。' WHERE entry=13583; -- name: Panda Collar -- description: Teaches you how to summon this companion.
 UPDATE locales_item SET name_loc5='破壞神之石',description_loc5='教你學會如何召喚這個夥伴。' WHERE entry=13584; -- name: Diablo Stone -- description: Teaches you how to summon this companion.
 UPDATE locales_item SET name_loc5='巫妖生前的遺物',description_loc5='所有的書頁都被撕破了。' WHERE entry=13585; -- name: Keepsake of Remembrance -- description: All of the pages are torn out.
+UPDATE locales_item SET name_loc5='強效法術石' WHERE entry=13602; -- name: Greater Spellstone
+UPDATE locales_item SET name_loc5='極效法術石' WHERE entry=13603; -- name: Major Spellstone
 UPDATE locales_item SET name_loc5='禁錮靈魂的遺物' WHERE entry=13624; -- name: Soulbound Keepsake
 UPDATE locales_item SET name_loc5='萊斯·霜語的頭顱' WHERE entry=13626; -- name: Human Head of Ras Frostwhisper
+UPDATE locales_item SET name_loc5='火焰石' WHERE entry=13699; -- name: Firestone
+UPDATE locales_item SET name_loc5='強效火焰石' WHERE entry=13700; -- name: Greater Firestone
+UPDATE locales_item SET name_loc5='極效火焰石' WHERE entry=13701; -- name: Major Firestone
 UPDATE locales_item SET name_loc5='末日草',description_loc5='別跟陰暗草、鷹暗草、英氨草或是末日種子搞混了。' WHERE entry=13702; -- name: Doom Weed -- description: Not to be confused with gloom weed, womb weed, or broom weed.  Or doom seed.
 UPDATE locales_item SET name_loc5='科多獸骨' WHERE entry=13703; -- name: Kodo Bone
 UPDATE locales_item SET name_loc5='可口的魔法點心' WHERE entry=13724; -- name: Enriched Manna Biscuit
@@ -9865,6 +9877,7 @@ UPDATE locales_item SET name_loc5='結構圖:工程大師護目鏡',description_
 UPDATE locales_item SET name_loc5='結構圖:奧金幼龍',description_loc5='教你學會如何製作奧金幼龍。' WHERE entry=16054; -- name: Schematic: Arcanite Dragonling -- description: Teaches you how to make an Arcanite Dragonling.
 UPDATE locales_item SET name_loc5='結構圖:秘法炸彈',description_loc5='教你學會如何製作秘法炸彈。' WHERE entry=16055; -- name: Schematic: Arcane Bomb -- description: Teaches you how to make an Arcane Bomb.
 UPDATE locales_item SET name_loc5='結構圖:完美的奧金步槍',description_loc5='教你學會如何製作完美的奧金步槍。' WHERE entry=16056; -- name: Schematic: Flawless Arcanite Rifle -- description: Teaches you how to make a Flawless Arcanite Rifle.
+UPDATE locales_item SET name_loc5='探險者的背包' WHERE entry=16057; -- name: Explorer\'s Knapsack
 UPDATE locales_item SET name_loc5='弗丁的徽印' WHERE entry=16058; -- name: Fordring\'s Seal
 UPDATE locales_item SET name_loc5='普通的棕襯衣' WHERE entry=16059; -- name: Common Brown Shirt
 UPDATE locales_item SET name_loc5='普通的白襯衣' WHERE entry=16060; -- name: Common White Shirt
@@ -10627,6 +10640,8 @@ UPDATE locales_item SET name_loc5='極效法力藥膏' WHERE entry=17351; -- nam
 UPDATE locales_item SET name_loc5='超強法力藥膏' WHERE entry=17352; -- name: Superior Mana Draught
 UPDATE locales_item SET name_loc5='雷矛突擊令' WHERE entry=17353; -- name: Stormpike Assault Orders
 UPDATE locales_item SET name_loc5='拉比恩的信' WHERE entry=17355; -- name: Rabine\'s Letter
+UPDATE locales_item SET name_loc5='雷松的信號燈' WHERE entry=17362; -- name: Ryson\'s Beacon
+UPDATE locales_item SET name_loc5='雷松的信號燈' WHERE entry=17363; -- name: Ryson\'s Beacon
 UPDATE locales_item SET name_loc5='占卜瞄準鏡' WHERE entry=17364; -- name: Scrying Scope
 UPDATE locales_item SET name_loc5='冬天爺爺的麥芽酒' WHERE entry=17402; -- name: Greatfather\'s Winter Ale
 UPDATE locales_item SET name_loc5='熱砂泡沫啤酒' WHERE entry=17403; -- name: Steamwheedle Fizzy Spirits
@@ -10644,6 +10659,8 @@ UPDATE locales_item SET name_loc5='霜狼突擊令',description_loc5='交給征�
 UPDATE locales_item SET name_loc5='部落士兵的勳章' WHERE entry=17502; -- name: Frostwolf Soldier\'s Medal
 UPDATE locales_item SET name_loc5='部落士官的勳章' WHERE entry=17503; -- name: Frostwolf Lieutenant\'s Medal
 UPDATE locales_item SET name_loc5='部落指揮官的勳章' WHERE entry=17504; -- name: Frostwolf Commander\'s Medal
+UPDATE locales_item SET name_loc5='艾克曼的信號燈' WHERE entry=17505; -- name: Ichman\'s Beacon
+UPDATE locales_item SET name_loc5='維波里的信號燈' WHERE entry=17506; -- name: Vipore\'s Beacon
 UPDATE locales_item SET name_loc5='斯里多爾的信號燈' WHERE entry=17507; -- name: Slidore\'s Beacon
 UPDATE locales_item SET name_loc5='力石圓盾' WHERE entry=17508; -- name: Forcestone Buckler
 UPDATE locales_item SET name_loc5='深鐵礦坑補給品' WHERE entry=17522; -- name: Irondeep Supplies
@@ -10817,6 +10834,9 @@ UPDATE locales_item SET name_loc5='奧妮克希亞皮袋' WHERE entry=17966; -- 
 UPDATE locales_item SET name_loc5='充能奧妮克希亞鱗片' WHERE entry=17968; -- name: Charged Scale of Onyxia
 UPDATE locales_item SET name_loc5='紅色寶石袋' WHERE entry=17969; -- name: Red Sack of Gems
 UPDATE locales_item SET name_loc5='拉格納羅斯之核' WHERE entry=17982; -- name: Ragnaros Core
+UPDATE locales_item SET name_loc5='硬肉乾' WHERE entry=18000; -- name: Tough Jerky
+UPDATE locales_item SET name_loc5='大塊的硬麵包' WHERE entry=18001; -- name: Tough Hunk of Bread
+UPDATE locales_item SET name_loc5='清涼的泉水' WHERE entry=18005; -- name: Refreshing Spring Water
 UPDATE locales_item SET name_loc5='阿萊希斯皇家徽印' WHERE entry=18022; -- name: Royal Seal of Alexis
 UPDATE locales_item SET name_loc5='瑟銀之箭' WHERE entry=18042; -- name: Thorium Headed Arrow
 UPDATE locales_item SET name_loc5='煤工長靴' WHERE entry=18043; -- name: Coal Miner Boots
@@ -11155,6 +11175,8 @@ UPDATE locales_item SET name_loc5='永凍束腰' WHERE entry=18547; -- name: Unm
 UPDATE locales_item SET name_loc5='源質錠' WHERE entry=18562; -- name: Elementium Ore
 UPDATE locales_item SET name_loc5='逐風者禁錮之顱',description_loc5='桑德蘭的永恆監牢的左半部分' WHERE entry=18563; -- name: Bindings of the Windseeker -- description: The Left Half of Thunderaan\'s Eternal Prison
 UPDATE locales_item SET name_loc5='逐風者禁錮之顱',description_loc5='桑德蘭的永恆監牢的右半部分' WHERE entry=18564; -- name: Bindings of the Windseeker -- description: The Right Half of Thunderaan\'s Eternal Prison
+UPDATE locales_item SET name_loc5='重生之瓶' WHERE entry=18565; -- name: Vessel of Rebirth
+UPDATE locales_item SET name_loc5='炎魔的精華' WHERE entry=18566; -- name: Essence of the Firelord
 UPDATE locales_item SET name_loc5='元素助熔劑' WHERE entry=18567; -- name: Elemental Flux
 UPDATE locales_item SET name_loc5='埃辛諾斯雙刃' WHERE entry=18582; -- name: The Twin Blades of Azzinoth
 UPDATE locales_item SET name_loc5='埃辛諾斯戰刃(右)' WHERE entry=18583; -- name: Warglaive of Azzinoth (Right)
@@ -11993,6 +12015,7 @@ UPDATE locales_item SET name_loc5='原始哈卡萊聖禦盾',description_loc5='�
 UPDATE locales_item SET name_loc5='阿拉希資源木箱',description_loc5='阿拉希盆地的勝利證明' WHERE entry=19725; -- name: Arathi Resource Crate -- description: Proof of victory in Arathi Basin
 UPDATE locales_item SET name_loc5='血藤' WHERE entry=19726; -- name: Bloodvine
 UPDATE locales_item SET name_loc5='血鐮刀',description_loc5='草藥師可以用它從祖爾格拉布的植物那裡採集血藤' WHERE entry=19727; -- name: Blood Scythe -- description: Allows an Herbalist to collect Bloodvine from Zul\'Gurub Flora when carried.
+UPDATE locales_item SET name_loc5='霸主擁抱' WHERE entry=19760; -- name: Overlord\'s Embrace
 UPDATE locales_item SET name_loc5='圖樣:血藤外衣',description_loc5='教你學會如何縫製血藤外衣。' WHERE entry=19764; -- name: Pattern: Bloodvine Vest -- description: Teaches you how to sew a Bloodvine Vest.
 UPDATE locales_item SET name_loc5='圖樣:血藤護腿',description_loc5='教你學會如何縫製血藤護腿。' WHERE entry=19765; -- name: Pattern: Bloodvine Leggings -- description: Teaches you how to sew Bloodvine Leggings.
 UPDATE locales_item SET name_loc5='圖樣:血藤長靴',description_loc5='教你學會如何縫製血藤長靴。' WHERE entry=19766; -- name: Pattern: Bloodvine Boots -- description: Teaches you how to sew Bloodvine Boots.

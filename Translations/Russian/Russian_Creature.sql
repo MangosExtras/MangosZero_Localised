@@ -8549,6 +8549,7 @@ UPDATE locales_creature SET name_loc8='Старший сержант Маклу�
 UPDATE locales_creature SET name_loc8='Старший сержант Тень Луны',subname_loc8='Ан\'киражский вербовщик' WHERE entry=15709; -- name: Master Sergeant Moonshadow -- subname: War Effort Recruiter
 UPDATE locales_creature SET name_loc8='Снеговичок' WHERE entry=15710; -- name: Tiny Snowman
 UPDATE locales_creature SET name_loc8='Куча земли' WHERE entry=15712; -- name: Dirt Mound
+UPDATE locales_creature SET name_loc8='Синий киражский боевой танк' WHERE entry=15713; -- name: Blue Qiraji Battle Tank
 UPDATE locales_creature SET name_loc8='Желтый киражский боевой танк' WHERE entry=15714; -- name: Yellow Qiraji Battle Tank
 UPDATE locales_creature SET name_loc8='Зеленый киражский боевой танк' WHERE entry=15715; -- name: Green Qiraji Battle Tank
 UPDATE locales_creature SET name_loc8='Красный киражский боевой танк' WHERE entry=15716; -- name: Red Qiraji Battle Tank
@@ -9052,6 +9053,7 @@ UPDATE locales_creature SET name_loc8='Хранитель праздничног
 UPDATE locales_creature SET name_loc8='Глашатай Короля-лича' WHERE entry=16995; -- name: Herald of the Lich King
 UPDATE locales_creature SET name_loc8='Мистер Бигглсуорт' WHERE entry=16998; -- name: Mr. Bigglesworth
 UPDATE locales_creature SET name_loc8='Испепеляющий элементаль' WHERE entry=17003; -- name: Cinder Elemental
+UPDATE locales_creature SET name_loc8='Рассечение крылом Сапфирона' WHERE entry=17025; -- name: Sapphiron\'s Wing Buffet
 UPDATE locales_creature SET name_loc8='Огнеглотатель Штормграда' WHERE entry=17038; -- name: Stormwind Firebreather
 UPDATE locales_creature SET name_loc8='Огнеглотатель Оргриммара' WHERE entry=17041; -- name: Orgrimmar Fireeater
 UPDATE locales_creature SET name_loc8='Огнеглотатель Стальгорна' WHERE entry=17048; -- name: Ironforge Firebreather

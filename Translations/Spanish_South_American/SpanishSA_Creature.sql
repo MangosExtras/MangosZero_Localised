@@ -2446,6 +2446,7 @@ UPDATE locales_creature SET name_loc7='Morgan Ladimor' WHERE entry=3301; -- name
 UPDATE locales_creature SET name_loc7='Maestro Vornal' WHERE entry=3304; -- name: Master Vornal
 UPDATE locales_creature SET name_loc7='Grisha',subname_loc7='Maestra de jinetes del viento' WHERE entry=3305; -- name: Grisha -- subname: Wind Rider Master
 UPDATE locales_creature SET name_loc7='Keldas',subname_loc7='Instructor de mascotas' WHERE entry=3306; -- name: Keldas -- subname: Pet Trainer
+UPDATE locales_creature SET name_loc7='Karus',subname_loc7='Banquera' WHERE entry=3309; -- name: Karus -- subname: Banker
 UPDATE locales_creature SET name_loc7='Doras',subname_loc7='Maestro de jinetes del viento' WHERE entry=3310; -- name: Doras -- subname: Wind Rider Master
 UPDATE locales_creature SET name_loc7='Olvia',subname_loc7='Vendedora de carne' WHERE entry=3312; -- name: Olvia -- subname: Meat Vendor
 UPDATE locales_creature SET name_loc7='Trak\'gen',subname_loc7='Pertrechos' WHERE entry=3313; -- name: Trak\'gen -- subname: General Goods
@@ -2453,7 +2454,9 @@ UPDATE locales_creature SET name_loc7='Urtharo',subname_loc7='Mercader de armas'
 UPDATE locales_creature SET name_loc7='Tor\'phan',subname_loc7='Mercader de armaduras de tela y cuero' WHERE entry=3315; -- name: Tor\'phan -- subname: Cloth & Leather Armor Merchant
 UPDATE locales_creature SET name_loc7='Handor',subname_loc7='Mercader de armaduras de tela y cuero' WHERE entry=3316; -- name: Handor -- subname: Cloth & Leather Armor Merchant
 UPDATE locales_creature SET name_loc7='Ollanus',subname_loc7='Mercader de armaduras de tela' WHERE entry=3317; -- name: Ollanus -- subname: Light Armor Merchant
+UPDATE locales_creature SET name_loc7='Koma',subname_loc7='Banquera' WHERE entry=3318; -- name: Koma -- subname: Banker
 UPDATE locales_creature SET name_loc7='Sana',subname_loc7='Mercader de armaduras de malla' WHERE entry=3319; -- name: Sana -- subname: Mail Armor Merchant
+UPDATE locales_creature SET name_loc7='Soran',subname_loc7='Banquera' WHERE entry=3320; -- name: Soran -- subname: Banker
 UPDATE locales_creature SET name_loc7='Morgum',subname_loc7='Mercader de armaduras de cuero' WHERE entry=3321; -- name: Morgum -- subname: Leather Armor Merchant
 UPDATE locales_creature SET name_loc7='Kaja',subname_loc7='Vendedora de arcos y rifles' WHERE entry=3322; -- name: Kaja -- subname: Guns & Ammunition
 UPDATE locales_creature SET name_loc7='Horthus',subname_loc7='Componentes' WHERE entry=3323; -- name: Horthus -- subname: Reagents
@@ -5611,6 +5614,7 @@ UPDATE locales_creature SET name_loc7='Subastador Tolon' WHERE entry=8669; -- na
 UPDATE locales_creature SET name_loc7='Subastador Chilton' WHERE entry=8670; -- name: Auctioneer Chilton
 UPDATE locales_creature SET name_loc7='Subastador Buckler' WHERE entry=8671; -- name: Auctioneer Buckler
 UPDATE locales_creature SET name_loc7='Subastadora Leeka' WHERE entry=8672; -- name: Auctioneer Leeka
+UPDATE locales_creature SET name_loc7='Subastador Thathung' WHERE entry=8673; -- name: Auctioneer Thathung
 UPDATE locales_creature SET name_loc7='Subastador Stampi' WHERE entry=8674; -- name: Auctioneer Stampi
 UPDATE locales_creature SET name_loc7='Bestia vil' WHERE entry=8675; -- name: Felbeast
 UPDATE locales_creature SET name_loc7='Jubie Cacharretio',subname_loc7='Suministros de ingeniería' WHERE entry=8678; -- name: Jubie Gadgetspring -- subname: Engineering Supplies
@@ -8541,6 +8545,7 @@ UPDATE locales_creature SET name_loc7='Sargento primera Maclure',subname_loc7='R
 UPDATE locales_creature SET name_loc7='Sargento primera Umbraluna',subname_loc7='Reclutadora para la campaña de guerra' WHERE entry=15709; -- name: Master Sergeant Moonshadow -- subname: War Effort Recruiter
 UPDATE locales_creature SET name_loc7='Muñeco de nieve diminuto' WHERE entry=15710; -- name: Tiny Snowman
 UPDATE locales_creature SET name_loc7='Montón de barro' WHERE entry=15712; -- name: Dirt Mound
+UPDATE locales_creature SET name_loc7='Tanque de batalla qiraji azul' WHERE entry=15713; -- name: Blue Qiraji Battle Tank
 UPDATE locales_creature SET name_loc7='Tanque de batalla qiraji amarillo' WHERE entry=15714; -- name: Yellow Qiraji Battle Tank
 UPDATE locales_creature SET name_loc7='Tanque de batalla qiraji verde' WHERE entry=15715; -- name: Green Qiraji Battle Tank
 UPDATE locales_creature SET name_loc7='Tanque de batalla qiraji rojo' WHERE entry=15716; -- name: Red Qiraji Battle Tank
@@ -9044,6 +9049,7 @@ UPDATE locales_creature SET name_loc7='Traje de Guardián de la llama del Festiv
 UPDATE locales_creature SET name_loc7='Heraldo de El Rey Exánime' WHERE entry=16995; -- name: Herald of the Lich King
 UPDATE locales_creature SET name_loc7='Baldomero' WHERE entry=16998; -- name: Mr. Bigglesworth
 UPDATE locales_creature SET name_loc7='Elemental de ceniza' WHERE entry=17003; -- name: Cinder Elemental
+UPDATE locales_creature SET name_loc7='Sacudida de alas de Sapphiron' WHERE entry=17025; -- name: Sapphiron\'s Wing Buffet
 UPDATE locales_creature SET name_loc7='Soplafuegos de Ventormenta' WHERE entry=17038; -- name: Stormwind Firebreather
 UPDATE locales_creature SET name_loc7='Tragafuegos de Orgrimmar' WHERE entry=17041; -- name: Orgrimmar Fireeater
 UPDATE locales_creature SET name_loc7='Soplafuegos de Forjaz' WHERE entry=17048; -- name: Ironforge Firebreather

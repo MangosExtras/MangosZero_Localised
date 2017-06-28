@@ -2446,6 +2446,7 @@ UPDATE locales_creature SET name_loc5='摩根·拉迪莫爾' WHERE entry=3301; -
 UPDATE locales_creature SET name_loc5='沃納爾大師' WHERE entry=3304; -- name: Master Vornal
 UPDATE locales_creature SET name_loc5='格瑞沙',subname_loc5='雙足飛龍管理員' WHERE entry=3305; -- name: Grisha -- subname: Wind Rider Master
 UPDATE locales_creature SET name_loc5='凱爾達斯',subname_loc5='寵物訓練師' WHERE entry=3306; -- name: Keldas -- subname: Pet Trainer
+UPDATE locales_creature SET name_loc5='卡魯斯',subname_loc5='銀行職員' WHERE entry=3309; -- name: Karus -- subname: Banker
 UPDATE locales_creature SET name_loc5='朵拉斯',subname_loc5='雙足飛龍管理員' WHERE entry=3310; -- name: Doras -- subname: Wind Rider Master
 UPDATE locales_creature SET name_loc5='奧維亞',subname_loc5='肉商' WHERE entry=3312; -- name: Olvia -- subname: Meat Vendor
 UPDATE locales_creature SET name_loc5='特拉克根',subname_loc5='雜貨商' WHERE entry=3313; -- name: Trak\'gen -- subname: General Goods
@@ -2453,7 +2454,9 @@ UPDATE locales_creature SET name_loc5='烏薩羅',subname_loc5='武器商' WHERE
 UPDATE locales_creature SET name_loc5='托爾凡',subname_loc5='布甲和皮甲商人' WHERE entry=3315; -- name: Tor\'phan -- subname: Cloth & Leather Armor Merchant
 UPDATE locales_creature SET name_loc5='罕杜爾',subname_loc5='布甲和皮甲商人' WHERE entry=3316; -- name: Handor -- subname: Cloth & Leather Armor Merchant
 UPDATE locales_creature SET name_loc5='奧蘭努斯',subname_loc5='布甲商' WHERE entry=3317; -- name: Ollanus -- subname: Light Armor Merchant
+UPDATE locales_creature SET name_loc5='寇瑪',subname_loc5='銀行職員' WHERE entry=3318; -- name: Koma -- subname: Banker
 UPDATE locales_creature SET name_loc5='薩納',subname_loc5='鎖甲商' WHERE entry=3319; -- name: Sana -- subname: Mail Armor Merchant
+UPDATE locales_creature SET name_loc5='索蘭',subname_loc5='銀行職員' WHERE entry=3320; -- name: Soran -- subname: Banker
 UPDATE locales_creature SET name_loc5='摩古姆',subname_loc5='皮甲商' WHERE entry=3321; -- name: Morgum -- subname: Leather Armor Merchant
 UPDATE locales_creature SET name_loc5='卡加',subname_loc5='弓箭和槍械商' WHERE entry=3322; -- name: Kaja -- subname: Guns & Ammunition
 UPDATE locales_creature SET name_loc5='霍蘇斯',subname_loc5='施法材料' WHERE entry=3323; -- name: Horthus -- subname: Reagents
@@ -5611,6 +5614,7 @@ UPDATE locales_creature SET name_loc5='拍賣師圖爾倫' WHERE entry=8669; -- 
 UPDATE locales_creature SET name_loc5='拍賣師希爾頓' WHERE entry=8670; -- name: Auctioneer Chilton
 UPDATE locales_creature SET name_loc5='拍賣師巴克爾' WHERE entry=8671; -- name: Auctioneer Buckler
 UPDATE locales_creature SET name_loc5='拍賣師里卡' WHERE entry=8672; -- name: Auctioneer Leeka
+UPDATE locales_creature SET name_loc5='拍賣師薩蘇恩' WHERE entry=8673; -- name: Auctioneer Thathung
 UPDATE locales_creature SET name_loc5='拍賣師斯塔比' WHERE entry=8674; -- name: Auctioneer Stampi
 UPDATE locales_creature SET name_loc5='魔化犬' WHERE entry=8675; -- name: Felbeast
 UPDATE locales_creature SET name_loc5='朱比·機簧',subname_loc5='工程學供應商' WHERE entry=8678; -- name: Jubie Gadgetspring -- subname: Engineering Supplies
@@ -8541,6 +8545,7 @@ UPDATE locales_creature SET name_loc5='軍士長瑪克盧爾',subname_loc5='戰�
 UPDATE locales_creature SET name_loc5='軍士長希德·月影',subname_loc5='戰備招募員' WHERE entry=15709; -- name: Master Sergeant Moonshadow -- subname: War Effort Recruiter
 UPDATE locales_creature SET name_loc5='小雪人' WHERE entry=15710; -- name: Tiny Snowman
 UPDATE locales_creature SET name_loc5='土堆' WHERE entry=15712; -- name: Dirt Mound
+UPDATE locales_creature SET name_loc5='藍色其拉作戰坦克' WHERE entry=15713; -- name: Blue Qiraji Battle Tank
 UPDATE locales_creature SET name_loc5='黃色其拉作戰坦克' WHERE entry=15714; -- name: Yellow Qiraji Battle Tank
 UPDATE locales_creature SET name_loc5='綠色其拉作戰坦克' WHERE entry=15715; -- name: Green Qiraji Battle Tank
 UPDATE locales_creature SET name_loc5='紅色其拉作戰坦克' WHERE entry=15716; -- name: Red Qiraji Battle Tank
@@ -9044,6 +9049,7 @@ UPDATE locales_creature SET name_loc5='節慶營火管理者裝扮:矮人' WHERE
 UPDATE locales_creature SET name_loc5='巫妖王傳令官' WHERE entry=16995; -- name: Herald of the Lich King
 UPDATE locales_creature SET name_loc5='畢勾沃斯先生' WHERE entry=16998; -- name: Mr. Bigglesworth
 UPDATE locales_creature SET name_loc5='煤元素' WHERE entry=17003; -- name: Cinder Elemental
+UPDATE locales_creature SET name_loc5='薩菲隆之翼擊' WHERE entry=17025; -- name: Sapphiron\'s Wing Buffet
 UPDATE locales_creature SET name_loc5='暴風城節慶吐火者' WHERE entry=17038; -- name: Stormwind Firebreather
 UPDATE locales_creature SET name_loc5='奧格瑪節慶吞火者' WHERE entry=17041; -- name: Orgrimmar Fireeater
 UPDATE locales_creature SET name_loc5='鐵爐堡節慶吐火者' WHERE entry=17048; -- name: Ironforge Firebreather

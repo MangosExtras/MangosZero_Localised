@@ -62,6 +62,9 @@ UPDATE locales_gameobject SET name_loc1='그늘숲' WHERE entry=121; -- name: Du
 UPDATE locales_gameobject SET name_loc1='감시의 언덕' WHERE entry=122; -- name: Sentinel Hill
 UPDATE locales_gameobject SET name_loc1='엘윈 숲' WHERE entry=123; -- name: Elwynn Forest
 UPDATE locales_gameobject SET name_loc1='달빛시내 마을' WHERE entry=124; -- name: Moonbrook
+UPDATE locales_gameobject SET name_loc1='애버크롬비의 상자' WHERE entry=167; -- name: Abercrombie\'s Crate
+UPDATE locales_gameobject SET name_loc1='식량 상자' WHERE entry=249; -- name: Crate of Foodstuffs
+UPDATE locales_gameobject SET name_loc1='탐사 장비' WHERE entry=251; -- name: Research Equipment
 UPDATE locales_gameobject SET name_loc1='현상 수배!' WHERE entry=256; -- name: WANTED
 UPDATE locales_gameobject SET name_loc1='수상한 통' WHERE entry=257; -- name: Suspicious Barrel
 UPDATE locales_gameobject SET name_loc1='반쯤 묻힌 통' WHERE entry=259; -- name: Half-buried Barrel
@@ -101,6 +104,7 @@ UPDATE locales_gameobject SET name_loc1='작은 토륨 광맥' WHERE entry=324; 
 UPDATE locales_gameobject SET name_loc1='대충 덮인 흙더미' WHERE entry=331; -- name: Loose Soil
 UPDATE locales_gameobject SET name_loc1='고대 유물' WHERE entry=333; -- name: Ancient Relic
 UPDATE locales_gameobject SET name_loc1='고대 유물' WHERE entry=334; -- name: Ancient Relic
+UPDATE locales_gameobject SET name_loc1='물병' WHERE entry=337; -- name: Water Pitcher
 UPDATE locales_gameobject SET name_loc1='썬더 에일 맥주' WHERE entry=369; -- name: Thunder Ale
 UPDATE locales_gameobject SET name_loc1='전장의 방패' WHERE entry=372; -- name: Battleground Shield
 UPDATE locales_gameobject SET name_loc1='티리스팔 호박' WHERE entry=375; -- name: Tirisfal Pumpkin
@@ -115,6 +119,7 @@ UPDATE locales_gameobject SET name_loc1='철퇴' WHERE entry=386; -- name: Metal
 UPDATE locales_gameobject SET name_loc1='모단 호수' WHERE entry=387; -- name: Loch Modan
 UPDATE locales_gameobject SET name_loc1='아라시 고원' WHERE entry=388; -- name: Arathi Highlands
 UPDATE locales_gameobject SET name_loc1='던 모드르' WHERE entry=389; -- name: Dun Modr
+UPDATE locales_gameobject SET name_loc1='현상 수배!' WHERE entry=711; -- name: Wanted!
 UPDATE locales_gameobject SET name_loc1='신성한 샘물' WHERE entry=759; -- name: The Holy Spring
 UPDATE locales_gameobject SET name_loc1='검은연기' WHERE entry=965; -- name: Black Smoke - scale 2
 UPDATE locales_gameobject SET name_loc1='메네실 항구' WHERE entry=1162; -- name: Menethil Harbor
@@ -143,6 +148,7 @@ UPDATE locales_gameobject SET name_loc1='서쪽시내 주둔지' WHERE entry=159
 UPDATE locales_gameobject SET name_loc1='서부 몰락지대' WHERE entry=1596; -- name: Westfall
 UPDATE locales_gameobject SET name_loc1='스톰윈드' WHERE entry=1597; -- name: Stormwind City
 UPDATE locales_gameobject SET name_loc1='황금골' WHERE entry=1598; -- name: Goldshire
+UPDATE locales_gameobject SET name_loc1='얕은 무덤' WHERE entry=1599; -- name: Shallow Grave
 UPDATE locales_gameobject SET name_loc1='검은 연기' WHERE entry=1604; -- name: Black Smoke Emitter
 UPDATE locales_gameobject SET name_loc1='흰 연기' WHERE entry=1605; -- name: White Smoke Emitter
 UPDATE locales_gameobject SET name_loc1='큰 불' WHERE entry=1607; -- name: Big Flame Emitter
@@ -159,8 +165,11 @@ UPDATE locales_gameobject SET name_loc1='왕꽃잎풀' WHERE entry=1624; -- name
 UPDATE locales_gameobject SET name_loc1='달라란 상자' WHERE entry=1627; -- name: Dalaran Crate
 UPDATE locales_gameobject SET name_loc1='무덤이끼' WHERE entry=1628; -- name: Grave Moss
 UPDATE locales_gameobject SET name_loc1='브릴' WHERE entry=1630; -- name: Brill
+UPDATE locales_gameobject SET name_loc1='아가만드 제분소' WHERE entry=1631; -- name: Agamand Mills
+UPDATE locales_gameobject SET name_loc1='브릴' WHERE entry=1632; -- name: Brill
 UPDATE locales_gameobject SET name_loc1='브릴' WHERE entry=1633; -- name: Brill
 UPDATE locales_gameobject SET name_loc1='아가만드 제분소' WHERE entry=1634; -- name: Agamand Mills
+UPDATE locales_gameobject SET name_loc1='죽음의 종소리 마을' WHERE entry=1638; -- name: Deathknell
 UPDATE locales_gameobject SET name_loc1='죽음의 종소리 마을' WHERE entry=1639; -- name: Deathknell
 UPDATE locales_gameobject SET name_loc1='브릴' WHERE entry=1643; -- name: Brill
 UPDATE locales_gameobject SET name_loc1='아가만드 제분소' WHERE entry=1644; -- name: Agamand Mills
@@ -244,15 +253,22 @@ UPDATE locales_gameobject SET name_loc1='은 광맥' WHERE entry=1733; -- name: 
 UPDATE locales_gameobject SET name_loc1='금 광맥' WHERE entry=1734; -- name: Gold Vein
 UPDATE locales_gameobject SET name_loc1='철 광맥' WHERE entry=1735; -- name: Iron Deposit
 UPDATE locales_gameobject SET name_loc1='철괴 상자' WHERE entry=1736; -- name: Shipment of Iron
+UPDATE locales_gameobject SET name_loc1='비밀결사대 문서' WHERE entry=1738; -- name: Syndicate Documents
+UPDATE locales_gameobject SET name_loc1='비밀결사대 문서' WHERE entry=1739; -- name: Syndicate Documents
 UPDATE locales_gameobject SET name_loc1='비밀결사대 문서' WHERE entry=1740; -- name: Syndicate Documents
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=1743; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=1744; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=1745; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=1748; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=1749; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=1752; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=1753; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=1754; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=1755; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='언덕마루 마을 기록부' WHERE entry=1759; -- name: Hillsbrad Town Registry
 UPDATE locales_gameobject SET name_loc1='오래된 책장' WHERE entry=1760; -- name: Weathered Bookcase
 UPDATE locales_gameobject SET name_loc1='언덕마루 선언문' WHERE entry=1761; -- name: Hillsbrad Proclamation
+UPDATE locales_gameobject SET name_loc1='현상 수배!' WHERE entry=1763; -- name: WANTED
 UPDATE locales_gameobject SET name_loc1='단단히 잠긴 족쇄' WHERE entry=1764; -- name: Locked ball and chain
 UPDATE locales_gameobject SET name_loc1='낡은 나무 궤짝' WHERE entry=1765; -- name: Worn Wooden Chest
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1766; -- name: Fire
@@ -287,9 +303,11 @@ UPDATE locales_gameobject SET name_loc1='타렌 제분소' WHERE entry=1794; -- 
 UPDATE locales_gameobject SET name_loc1='남녘해안' WHERE entry=1795; -- name: Southshore
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=1796; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=1797; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1798; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1799; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1801; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1802; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1803; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1804; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1805; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1806; -- name: Campfire
@@ -304,14 +322,18 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1814; -- name: C
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1815; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1816; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1817; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1818; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1819; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1820; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1821; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1822; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1824; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1825; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1826; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1827; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1828; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1829; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1830; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=1831; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=1832; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1833; -- name: Campfire
@@ -349,6 +371,7 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1867; -- name: C
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1868; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1869; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1870; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1871; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1872; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1873; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1874; -- name: Campfire
@@ -365,33 +388,48 @@ UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=1884; -- name: B
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=1885; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=1886; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=1887; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1888; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1889; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1890; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1891; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1892; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1893; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1894; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1895; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=1896; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=1897; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1898; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1901; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1902; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1903; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1904; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1905; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1906; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1908; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1909; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1911; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1912; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1914; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=1915; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1916; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1917; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1921; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1922; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1923; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1926; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1927; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=1928; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1930; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1931; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1932; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1935; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1936; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1937; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1938; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1939; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1940; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1941; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1942; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1943; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1944; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1945; -- name: Campfire
@@ -411,7 +449,9 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1960; -- name: C
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1961; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1962; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1964; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1965; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='불구덩이' WHERE entry=1967; -- name: Firepit
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1968; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1969; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1970; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1971; -- name: Campfire
@@ -431,14 +471,20 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1989; -- name: C
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1990; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1991; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1992; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1993; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1994; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1995; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1996; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1997; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1998; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=1999; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2000; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2001; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2002; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2003; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2005; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2006; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2007; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=2010; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=2014; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=2015; -- name: Forge
@@ -461,6 +507,7 @@ UPDATE locales_gameobject SET name_loc1='안돌할' WHERE entry=2031; -- name: A
 UPDATE locales_gameobject SET name_loc1='경고!!! 역병지대' WHERE entry=2032; -- name: Warning!!!! Plaguelands
 UPDATE locales_gameobject SET name_loc1='아가만드 제분소' WHERE entry=2033; -- name: Agamand Mills
 UPDATE locales_gameobject SET name_loc1='브릴' WHERE entry=2034; -- name: Brill
+UPDATE locales_gameobject SET name_loc1='죽음의 종소리 마을' WHERE entry=2035; -- name: Deathknell
 UPDATE locales_gameobject SET name_loc1='아가만드 제분소' WHERE entry=2036; -- name: Agamand Mills
 UPDATE locales_gameobject SET name_loc1='죽음의 종소리 마을' WHERE entry=2037; -- name: Deathknell
 UPDATE locales_gameobject SET name_loc1='브릴' WHERE entry=2038; -- name: Brill
@@ -570,6 +617,8 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2334; -- name: c
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=2335; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2336; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='인간사냥꾼의 해골' WHERE entry=2371; -- name: Headhunter Skull
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=2413; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='난로' WHERE entry=2414; -- name: Need Name
 UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=2489; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='끓어오르는 해골' WHERE entry=2551; -- name: Boiled Skull
 UPDATE locales_gameobject SET name_loc1='가마솥 증기' WHERE entry=2552; -- name: Cauldron Steam
@@ -582,13 +631,18 @@ UPDATE locales_gameobject SET name_loc1='반쯤 묻힌 병' WHERE entry=2560; --
 UPDATE locales_gameobject SET name_loc1='빙결의 덫' WHERE entry=2561; -- name: Freezing Trap
 UPDATE locales_gameobject SET name_loc1='구운 빵' WHERE entry=2562; -- name: Baked Bread
 UPDATE locales_gameobject SET name_loc1='해일의 제단' WHERE entry=2563; -- name: Altar of the Tides - Focused
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=2572; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=2573; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=2574; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=2575; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='해일의 제단' WHERE entry=2576; -- name: Altar of the Tides
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=2649; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=2650; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='에벤에셀 러스트로크의 시체' WHERE entry=2652; -- name: Ebenezer Rustlocke\'s Corpse
 UPDATE locales_gameobject SET name_loc1='저급 혈석 광맥' WHERE entry=2653; -- name: Lesser Bloodstone Deposit
 UPDATE locales_gameobject SET name_loc1='물에 젖은 편지' WHERE entry=2656; -- name: Waterlogged Letter
 UPDATE locales_gameobject SET name_loc1='대지의 전설' WHERE entry=2657; -- name: Legends of the Earth
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=2658; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2661; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2663; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=2664; -- name: Campfire
@@ -690,6 +744,8 @@ UPDATE locales_gameobject SET name_loc1='나라체 야영지' WHERE entry=2977; 
 UPDATE locales_gameobject SET name_loc1='블러드후프 마을' WHERE entry=2978; -- name: Bloodhoof Village
 UPDATE locales_gameobject SET name_loc1='지저분한 지도' WHERE entry=3076; -- name: Dirt-stained Map
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=3084; -- name: Fire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3085; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3089; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=3187; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='공격 계획서: 시험의 골짜기' WHERE entry=3189; -- name: Attack Plan: Valley of Trials
 UPDATE locales_gameobject SET name_loc1='공격 계획서: 센진 마을' WHERE entry=3190; -- name: Attack Plan: Sen\'jin Village
@@ -721,6 +777,7 @@ UPDATE locales_gameobject SET name_loc1='그늘숲' WHERE entry=3217; -- name: D
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3220; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=3222; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=3223; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='칼바위 언덕' WHERE entry=3224; -- name: Razor Hill
 UPDATE locales_gameobject SET name_loc1='칼바위 언덕' WHERE entry=3225; -- name: Razor Hill
 UPDATE locales_gameobject SET name_loc1='오그리마' WHERE entry=3226; -- name: Orgrimmar
 UPDATE locales_gameobject SET name_loc1='동굴 막사' WHERE entry=3227; -- name: The Den
@@ -740,12 +797,15 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3246; -- name: C
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3249; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3251; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3252; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3253; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3254; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3256; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3258; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3260; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3262; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3264; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=3266; -- name: Cauldron
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3270; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='센진 마을' WHERE entry=3276; -- name: Sen\'jin Village
 UPDATE locales_gameobject SET name_loc1='활활타는 장작불' WHERE entry=3286; -- name: Roaring Fire
 UPDATE locales_gameobject SET name_loc1='도둑맞은 보급품 부대' WHERE entry=3290; -- name: Stolen Supply Sack
@@ -753,6 +813,7 @@ UPDATE locales_gameobject SET name_loc1='이글거리는 모닥불' WHERE entry=
 UPDATE locales_gameobject SET name_loc1='선명한 불꽃' WHERE entry=3298; -- name: Blazing Fire
 UPDATE locales_gameobject SET name_loc1='타오르는 잿불' WHERE entry=3301; -- name: Burning Embers
 UPDATE locales_gameobject SET name_loc1='따뜻한 장작불' WHERE entry=3303; -- name: Warm Fire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3306; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3307; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=3308; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3310; -- name: Campfire
@@ -764,6 +825,8 @@ UPDATE locales_gameobject SET name_loc1='악마의 씨앗' WHERE entry=3524; -- 
 UPDATE locales_gameobject SET name_loc1='불의 제단' WHERE entry=3525; -- name: The Altar of Fire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3636; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3637; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3638; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3639; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='숙성한 버섯' WHERE entry=3640; -- name: Laden Mushroom
 UPDATE locales_gameobject SET name_loc1='콜카르 노획물 궤짝' WHERE entry=3642; -- name: Kolkars\' Booty
 UPDATE locales_gameobject SET name_loc1='낡은 사물함' WHERE entry=3643; -- name: Old Footlocker
@@ -806,6 +869,8 @@ UPDATE locales_gameobject SET name_loc1='생채기풀' WHERE entry=3730; -- name
 UPDATE locales_gameobject SET name_loc1='거품이 나오는 균열' WHERE entry=3737; -- name: Bubbling Fissure
 UPDATE locales_gameobject SET name_loc1='거품이 나오는 균열' WHERE entry=3740; -- name: Bubbling Fissure
 UPDATE locales_gameobject SET name_loc1='균열 식물' WHERE entry=3743; -- name: Fissure Plant
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3760; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=3761; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='구리 광맥' WHERE entry=3763; -- name: Copper Vein
 UPDATE locales_gameobject SET name_loc1='주석 광맥' WHERE entry=3764; -- name: Tin Vein
 UPDATE locales_gameobject SET name_loc1='배불뚝이 난로' WHERE entry=3769; -- name: Potbelly Stove
@@ -940,6 +1005,8 @@ UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=
 UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=3967; -- name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=3968; -- name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc1='현상 수배!' WHERE entry=3972; -- name: WANTED
+UPDATE locales_gameobject SET name_loc1='불기둥 마루 용암의 강' WHERE entry=4004; -- name: Fire Plume Ridge Lava Lake
+UPDATE locales_gameobject SET name_loc1='은행' WHERE entry=4005; -- name: Bank
 UPDATE locales_gameobject SET name_loc1='주제어 밸브' WHERE entry=4072; -- name: Main Control Valve
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=4087; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=4088; -- name: Anvil
@@ -952,6 +1019,8 @@ UPDATE locales_gameobject SET name_loc1='듀로타' WHERE entry=4098; -- name: D
 UPDATE locales_gameobject SET name_loc1='멀고어' WHERE entry=4099; -- name: Mulgore
 UPDATE locales_gameobject SET name_loc1='돌발톱 산맥' WHERE entry=4100; -- name: Stonetalon Mountains
 UPDATE locales_gameobject SET name_loc1='십자로' WHERE entry=4101; -- name: Crossroads
+UPDATE locales_gameobject SET name_loc1='십자로' WHERE entry=4102; -- name: The Crossroads
+UPDATE locales_gameobject SET name_loc1='돌발톱 산맥' WHERE entry=4103; -- name: Stonetalon Mountains
 UPDATE locales_gameobject SET name_loc1='잿빛 골짜기' WHERE entry=4104; -- name: Ashenvale
 UPDATE locales_gameobject SET name_loc1='먼지진흙 습지대' WHERE entry=4105; -- name: Dustwallow Marsh
 UPDATE locales_gameobject SET name_loc1='버섯구름 봉우리' WHERE entry=4106; -- name: Thousand Needles
@@ -982,16 +1051,22 @@ UPDATE locales_gameobject SET name_loc1='혼란의 마법석' WHERE entry=5619; 
 UPDATE locales_gameobject SET name_loc1='혼란의 마법석' WHERE entry=5620; -- name: Flawed Power Stones
 UPDATE locales_gameobject SET name_loc1='혼란의 마법석' WHERE entry=5621; -- name: Flawed Power Stones
 UPDATE locales_gameobject SET name_loc1='보라색 오라' WHERE entry=5622; -- name: Purple aura, short column, 0.6 scale
+UPDATE locales_gameobject SET name_loc1='불구덩이' WHERE entry=6286; -- name: Fire Pit
+UPDATE locales_gameobject SET name_loc1='불구덩이' WHERE entry=6287; -- name: Fire Pit
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=6288; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=6289; -- name: Smoldering Blaze
 UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=6290; -- name: Smoldering Blaze
 UPDATE locales_gameobject SET name_loc1='이글거리는 화로' WHERE entry=6291; -- name: Smoldering Brazier
 UPDATE locales_gameobject SET name_loc1='이글거리는 화로' WHERE entry=6292; -- name: Smoldering Brazier
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=6293; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=6294; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=6295; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='이상한 열매의 식물' WHERE entry=6751; -- name: Strange Fruited Plant
 UPDATE locales_gameobject SET name_loc1='이상한 잎의 식물' WHERE entry=6752; -- name: Strange Fronded Plant
 UPDATE locales_gameobject SET name_loc1='싹튼 잎' WHERE entry=7510; -- name: Sprouted Frond
 UPDATE locales_gameobject SET name_loc1='데날란의 화분' WHERE entry=7923; -- name: Denalan\'s Planter
 UPDATE locales_gameobject SET name_loc1='플라곤구트의 화석' WHERE entry=9630; -- name: Flagongut\'s Fossil
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=9847; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc1='수정점 그릇' WHERE entry=10076; -- name: Scrying Bowl
 UPDATE locales_gameobject SET name_loc1='스톰윈드' WHERE entry=10082; -- name: Stormwind
 UPDATE locales_gameobject SET name_loc1='황금골' WHERE entry=10083; -- name: Goldshire
@@ -1028,10 +1103,12 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=10221; -- na
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=10222; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=10223; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=10224; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=10388; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc1='알광대버섯' WHERE entry=11713; -- name: Death Cap
 UPDATE locales_gameobject SET name_loc1='껄껄이그물버섯' WHERE entry=11714; -- name: Scaber Stalk
 UPDATE locales_gameobject SET name_loc1='절벽 승강기' WHERE entry=11898; -- name: Mesa Elevator
 UPDATE locales_gameobject SET name_loc1='절벽 승강기' WHERE entry=11899; -- name: Mesa Elevator
+UPDATE locales_gameobject SET name_loc1='황혼의 고서' WHERE entry=12144; -- name: Twilight Tome
 UPDATE locales_gameobject SET name_loc1='돌라나르' WHERE entry=12351; -- name: Dolanaar
 UPDATE locales_gameobject SET name_loc1='별바람 마을' WHERE entry=12352; -- name: Starbreeze Village
 UPDATE locales_gameobject SET name_loc1='그늘 협곡' WHERE entry=12353; -- name: Shadowglen
@@ -1050,6 +1127,7 @@ UPDATE locales_gameobject SET name_loc1='신탁의 숲' WHERE entry=12365; -- na
 UPDATE locales_gameobject SET name_loc1='다르나서스' WHERE entry=12366; -- name: Darnassus
 UPDATE locales_gameobject SET name_loc1='마시스트라 유물' WHERE entry=12654; -- name: Mathystra Relic
 UPDATE locales_gameobject SET name_loc1='조리대' WHERE entry=12665; -- name: Cooking Table
+UPDATE locales_gameobject SET name_loc1='황혼의 고서' WHERE entry=12666; -- name: Twilight Tome
 UPDATE locales_gameobject SET name_loc1='고대정령의 숲' WHERE entry=12893; -- name: Grove of the Ancients
 UPDATE locales_gameobject SET name_loc1='아메스아란' WHERE entry=12894; -- name: Ameth\'Aran
 UPDATE locales_gameobject SET name_loc1='잿빛 골짜기' WHERE entry=12895; -- name: Ashenvale
@@ -1091,6 +1169,11 @@ UPDATE locales_gameobject SET name_loc1='고양이 입상' WHERE entry=13873; --
 UPDATE locales_gameobject SET name_loc1='불뱀꽃' WHERE entry=13891; -- name: Serpentbloom
 UPDATE locales_gameobject SET name_loc1='움푹 파인 철제 궤짝' WHERE entry=13949; -- name: Pitted Iron Chest
 UPDATE locales_gameobject SET name_loc1='제작소 문' WHERE entry=13965; -- name: Factory Door
+UPDATE locales_gameobject SET name_loc1='금광 깃발' WHERE entry=15001; -- name: Mine Banner
+UPDATE locales_gameobject SET name_loc1='제재소 깃발' WHERE entry=15002; -- name: Lumber Mill Banner
+UPDATE locales_gameobject SET name_loc1='농장 깃발' WHERE entry=15003; -- name: Farm Banner
+UPDATE locales_gameobject SET name_loc1='대장간 깃발' WHERE entry=15004; -- name: Blacksmith Banner
+UPDATE locales_gameobject SET name_loc1='마구간 깃발' WHERE entry=15005; -- name: Stable Banner
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=15068; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=15069; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='고대의 불꽃' WHERE entry=16393; -- name: Ancient Flame
@@ -1100,6 +1183,7 @@ UPDATE locales_gameobject SET name_loc1='철갑 동굴 문' WHERE entry=16397; -
 UPDATE locales_gameobject SET name_loc1='데피아즈단 대포' WHERE entry=16398; -- name: Defias Cannon
 UPDATE locales_gameobject SET name_loc1='주물 공장 문' WHERE entry=16399; -- name: Foundry Door
 UPDATE locales_gameobject SET name_loc1='목재 작업장 문' WHERE entry=16400; -- name: Mast Room Door
+UPDATE locales_gameobject SET name_loc1='부서진 죽음의 수정' WHERE entry=16431; -- name: Cracked Necrotic Crystal
 UPDATE locales_gameobject SET name_loc1='육중한 문' WHERE entry=17153; -- name: Heavy Door
 UPDATE locales_gameobject SET name_loc1='육중한 문' WHERE entry=17154; -- name: Heavy Door
 UPDATE locales_gameobject SET name_loc1='데피아즈단 화약' WHERE entry=17155; -- name: Defias Gunpowder
@@ -1152,6 +1236,7 @@ UPDATE locales_gameobject SET name_loc1='부족의 불' WHERE entry=18035; -- na
 UPDATE locales_gameobject SET name_loc1='역병 견본' WHERE entry=18036; -- name: Bottle of Disease
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=18043; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=18045; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=18046; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=18063; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=18064; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=18065; -- name: Campfire
@@ -1169,6 +1254,9 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=18076; -- name: 
 UPDATE locales_gameobject SET name_loc1='연기나는 선반' WHERE entry=18077; -- name: Smoking Rack
 UPDATE locales_gameobject SET name_loc1='끓고 있는 가마솥' WHERE entry=18079; -- name: Bubbling Cauldron
 UPDATE locales_gameobject SET name_loc1='끓고 있는 가마솥' WHERE entry=18083; -- name: Bubbling Cauldron
+UPDATE locales_gameobject SET name_loc1='끓고 있는 가마솥' WHERE entry=18084; -- name: Bubbling Cauldron
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=18085; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=18087; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=18089; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=18090; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=18340; -- name: Cauldron
@@ -1210,8 +1298,11 @@ UPDATE locales_gameobject SET name_loc1='흙무더기' WHERE entry=19030; -- nam
 UPDATE locales_gameobject SET name_loc1='불모의 땅' WHERE entry=19033; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc1='타락의 개요' WHERE entry=19283; -- name: Compendium of the Fallen
 UPDATE locales_gameobject SET name_loc1='티탄 신화' WHERE entry=19284; -- name: Mythology of the Titans
+UPDATE locales_gameobject SET name_loc1='절벽 폭포' WHERE entry=19463; -- name: Cliffspring Falls Cave Mouth
+UPDATE locales_gameobject SET name_loc1='공포안개 봉우리 웅덩이' WHERE entry=19464; -- name: Dreadmist Peak Pool
 UPDATE locales_gameobject SET name_loc1='안톤의 추천서' WHERE entry=19534; -- name: Anton\'s Letter of Commendation
 UPDATE locales_gameobject SET name_loc1='불뱀꽃' WHERE entry=19535; -- name: Serpentbloom
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=19536; -- name: Crackling Campfire
 UPDATE locales_gameobject SET name_loc1='작은 위습' WHERE entry=19538; -- name: World Tree Portal
 UPDATE locales_gameobject SET name_loc1='작은 위습' WHERE entry=19539; -- name: Grinding Wheel
 UPDATE locales_gameobject SET name_loc1='큰 위습' WHERE entry=19540; -- name: Orc Manacle
@@ -1251,6 +1342,7 @@ UPDATE locales_gameobject SET name_loc1='돌발톱 봉우리' WHERE entry=19573;
 UPDATE locales_gameobject SET name_loc1='칼바람 바위산' WHERE entry=19574; -- name: Windshear Crag
 UPDATE locales_gameobject SET name_loc1='큰소나무 계곡' WHERE entry=19575; -- name: Greatwood Vale
 UPDATE locales_gameobject SET name_loc1='불모의 땅' WHERE entry=19576; -- name: The Barrens
+UPDATE locales_gameobject SET name_loc1='잿더미 계곡' WHERE entry=19577; -- name: The Charred Vale
 UPDATE locales_gameobject SET name_loc1='칼바람 바위산' WHERE entry=19578; -- name: Windshear Crag
 UPDATE locales_gameobject SET name_loc1='잊혀진 땅' WHERE entry=19579; -- name: Desolace
 UPDATE locales_gameobject SET name_loc1='큰소나무 계곡' WHERE entry=19580; -- name: Greatwood Vale
@@ -1281,6 +1373,16 @@ UPDATE locales_gameobject SET name_loc1='구름 승강장' WHERE entry=19844; --
 UPDATE locales_gameobject SET name_loc1='불모의 땅' WHERE entry=19845; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc1='소금 평원' WHERE entry=19846; -- name: The Shimmering Flats
 UPDATE locales_gameobject SET name_loc1='탈라나르' WHERE entry=19847; -- name: Thalanaar
+UPDATE locales_gameobject SET name_loc1='높새바람 봉우리' WHERE entry=19848; -- name: Freewind Post
+UPDATE locales_gameobject SET name_loc1='소금 평원' WHERE entry=19849; -- name: The Shimmering Flats
+UPDATE locales_gameobject SET name_loc1='구름 승강장' WHERE entry=19851; -- name: The Great Lift
+UPDATE locales_gameobject SET name_loc1='불모의 땅' WHERE entry=19852; -- name: The Barrens
+UPDATE locales_gameobject SET name_loc1='높새바람 봉우리' WHERE entry=19853; -- name: Freewind Post
+UPDATE locales_gameobject SET name_loc1='불모의 땅' WHERE entry=19854; -- name: The Barrens
+UPDATE locales_gameobject SET name_loc1='불모의 땅' WHERE entry=19856; -- name: The Barrens
+UPDATE locales_gameobject SET name_loc1='소금 평원' WHERE entry=19857; -- name: The Shimmering Flats
+UPDATE locales_gameobject SET name_loc1='탈라나르' WHERE entry=19858; -- name: Thalanaar
+UPDATE locales_gameobject SET name_loc1='페랄라스' WHERE entry=19859; -- name: Feralas
 UPDATE locales_gameobject SET name_loc1='헨리그 론브라우의 일지' WHERE entry=19861; -- name: Henrig Lonebrow\'s Journal
 UPDATE locales_gameobject SET name_loc1='빛나는 영혼의 보석' WHERE entry=19862; -- name: Glowing Soulgem
 UPDATE locales_gameobject SET name_loc1='마에스트라 주둔지' WHERE entry=19863; -- name: Maestra\'s Post
@@ -1297,11 +1399,13 @@ UPDATE locales_gameobject SET name_loc1='벨린데의 사물함' WHERE entry=198
 UPDATE locales_gameobject SET name_loc1='부품 상자' WHERE entry=19878; -- name: Parts Crate
 UPDATE locales_gameobject SET name_loc1='붉은 영혼의 보석' WHERE entry=19879; -- name: Red Soulgem
 UPDATE locales_gameobject SET name_loc1='멍텅구리 스타우트 맥주통' WHERE entry=19897; -- name: Cask of Fool\'s Stout
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=19902; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='인듀리움 광맥' WHERE entry=19903; -- name: Indurium Mineral Vein
 UPDATE locales_gameobject SET name_loc1='모크모로크의 코담배통' WHERE entry=19904; -- name: Mok\'Morokk\'s Snuff
 UPDATE locales_gameobject SET name_loc1='모크모로크의 그로그주' WHERE entry=19905; -- name: Mok\'Morokk\'s Grog
 UPDATE locales_gameobject SET name_loc1='모크모로크의 금고' WHERE entry=19906; -- name: Mok\'Morokk\'s Strongbox
 UPDATE locales_gameobject SET name_loc1='푸른 영혼의 보석' WHERE entry=20351; -- name: Blue Soulgem
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20356; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='흰 연기' WHERE entry=20358; -- name: White Smoke Emitter - scale 0.2
 UPDATE locales_gameobject SET name_loc1='오닉시아의 알' WHERE entry=20359; -- name: Egg of Onyxia
 UPDATE locales_gameobject SET name_loc1='하피 식량' WHERE entry=20447; -- name: Harpy Foodstuffs
@@ -1331,15 +1435,24 @@ UPDATE locales_gameobject SET name_loc1='잿빛 골짜기 달샘' WHERE entry=20
 UPDATE locales_gameobject SET name_loc1='[4.x 미사용]고대 화톳불' WHERE entry=20807; -- name: Ancient Brazier
 UPDATE locales_gameobject SET name_loc1='함선 (처녀의 몽상호)' WHERE entry=20808; -- name: Booty Bay Ship
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20810; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='나무 우리' WHERE entry=20817; -- name: Holding Pen
+UPDATE locales_gameobject SET name_loc1='스톰윈드' WHERE entry=20827; -- name: Stormwind City
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20829; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20830; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20831; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=20849; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20850; -- name: Crackling Campfire
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=20869; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=20870; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=20871; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=20872; -- name: Cauldron
+UPDATE locales_gameobject SET name_loc1='이글거리는 화로' WHERE entry=20873; -- name: Smoldering Brazier
+UPDATE locales_gameobject SET name_loc1='이글거리는 화로' WHERE entry=20874; -- name: Smoldering Brazier
+UPDATE locales_gameobject SET name_loc1='이글거리는 화로' WHERE entry=20875; -- name: Smoldering Brazier
+UPDATE locales_gameobject SET name_loc1='이글거리는 화로' WHERE entry=20876; -- name: Smoldering Brazier
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=20877; -- name: Cauldron
+UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=20878; -- name: Cauldron
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20879; -- name: Crackling Campfire
 UPDATE locales_gameobject SET name_loc1='뼈장작불' WHERE entry=20898; -- name: Burning Pile of Bones
 UPDATE locales_gameobject SET name_loc1='투자개발회사 짐마차' WHERE entry=20899; -- name: Venture Co. Explosives Wagon
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=20900; -- name: Anvil
@@ -1349,6 +1462,7 @@ UPDATE locales_gameobject SET name_loc1='청엽수 줄기' WHERE entry=20920; --
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20921; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20922; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='기념비' WHERE entry=20923; -- name: Stone of Remembrance
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20924; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='선장의 사물함' WHERE entry=20925; -- name: Captain\'s Footlocker
 UPDATE locales_gameobject SET name_loc1='진흙콩 나무' WHERE entry=20939; -- name: Bogbean Plant
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20960; -- name: Campfire
@@ -1361,6 +1475,7 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20966; -- name: 
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20968; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='스컬지 모닥불' WHERE entry=20969; -- name: Scourge Campfire
 UPDATE locales_gameobject SET name_loc1='끓고 있는 가마솥' WHERE entry=20970; -- name: Bubbling Cauldron
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20972; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=20975; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20976; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='트롤 화톳불' WHERE entry=20977; -- name: Troll Bonfire
@@ -1369,6 +1484,7 @@ UPDATE locales_gameobject SET name_loc1='트롤 화톳불' WHERE entry=20979; --
 UPDATE locales_gameobject SET name_loc1='트롤 화톳불' WHERE entry=20980; -- name: Troll Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20981; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20982; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20983; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='푸석푸석한 흙더미' WHERE entry=20985; -- name: Loose Dirt
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=20986; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=20989; -- name: Campfire
@@ -1427,6 +1543,7 @@ UPDATE locales_gameobject SET name_loc1='아쿠마이의 불' WHERE entry=21121;
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=21127; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='오크 밀정의 보고서' WHERE entry=21128; -- name: Orc Spy Report
 UPDATE locales_gameobject SET name_loc1='구멍 난 상자' WHERE entry=21277; -- name: Crate with Holes
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=21282; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=21308; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=21327; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=21459; -- name: Campfire
@@ -1435,10 +1552,17 @@ UPDATE locales_gameobject SET name_loc1='땅다람쥐 설명서' WHERE entry=215
 UPDATE locales_gameobject SET name_loc1='2차 대전쟁의 여파' WHERE entry=21581; -- name: Aftermath of the Second War
 UPDATE locales_gameobject SET name_loc1='어둠의 문 저편' WHERE entry=21582; -- name: Beyond the Dark Portal
 UPDATE locales_gameobject SET name_loc1='칼도레이와 영원의 샘' WHERE entry=21583; -- name: The Kaldorei and the Well of Eternity
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=21628; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=21629; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=21630; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=21631; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=21678; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=21679; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='결투 깃발' WHERE entry=21680; -- name: Duel Flag
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=21701; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='드워프 장작불' WHERE entry=22205; -- name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc1='드워프 장작불' WHERE entry=22207; -- name: Dwarven Fire
+UPDATE locales_gameobject SET name_loc1='드워프 장작불' WHERE entry=22208; -- name: Dwarven Fire
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=22216; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=22217; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=22218; -- name: Dwarven Brazier
@@ -1457,6 +1581,7 @@ UPDATE locales_gameobject SET name_loc1='봉화 횃불' WHERE entry=22234; -- na
 UPDATE locales_gameobject SET name_loc1='고기 부대' WHERE entry=22245; -- name: Sack of Meat
 UPDATE locales_gameobject SET name_loc1='테라드라스의 눈물' WHERE entry=22246; -- name: Tear of Theradras
 UPDATE locales_gameobject SET name_loc1='상점 의자' WHERE entry=22248; -- name: Merchant Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22249; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22250; -- name: Wooden Seat
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22251; -- name: Wooden Seat
 UPDATE locales_gameobject SET name_loc1='높은 의자' WHERE entry=22253; -- name: Head Chair
@@ -1478,6 +1603,7 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22537; -- na
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22538; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22540; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22541; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22542; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22543; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22544; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22545; -- name: Wooden Chair
@@ -1518,6 +1644,7 @@ UPDATE locales_gameobject SET name_loc1='아늑한 장작불' WHERE entry=22606;
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22615; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22616; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22617; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22618; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22619; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22622; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22623; -- name: Wooden Chair
@@ -1541,6 +1668,7 @@ UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=22659; -- 
 UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=22660; -- name: High Back Chair
 UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=22661; -- name: High Back Chair
 UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=22662; -- name: High Back Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22663; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22664; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22665; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22666; -- name: Wooden Chair
@@ -1595,12 +1723,24 @@ UPDATE locales_gameobject SET name_loc1='아늑한 장작불' WHERE entry=22777;
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22783; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22794; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22795; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22796; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22797; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22798; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22799; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=22800; -- name: High Back Chair
+UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=22801; -- name: High Back Chair
+UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=22802; -- name: High Back Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22803; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22804; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22806; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22808; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22809; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22810; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22811; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22812; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22813; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22816; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=22817; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='아늑한 장작불' WHERE entry=22831; -- name: Cozy Fire
 UPDATE locales_gameobject SET name_loc1='아늑한 장작불' WHERE entry=22832; -- name: Cozy Fire
 UPDATE locales_gameobject SET name_loc1='아늑한 장작불' WHERE entry=22833; -- name: Cozy Fire
@@ -1666,6 +1806,7 @@ UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=23302; -- name: Anv
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=23303; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=23304; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=23305; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='기즈모리움 화물 상자' WHERE entry=23505; -- name: Gizmorium Shipping Crate
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=23570; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=23571; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=23572; -- name: Bonfire
@@ -1674,6 +1815,8 @@ UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=23574; -- name: 
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=23575; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=23577; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=23879; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=23880; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=23881; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24388; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24389; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=24390; -- name: Highback Chair
@@ -1683,6 +1826,7 @@ UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24393; -- na
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24394; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24395; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24396; -- name: Stone Bench
+UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24397; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24398; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24399; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24400; -- name: Stone Bench
@@ -1778,16 +1922,25 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24489; -- na
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24490; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24491; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24492; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24493; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24494; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24495; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24496; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24497; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24498; -- name: Stone Bench
 UPDATE locales_gameobject SET name_loc1='긴 돌의자' WHERE entry=24499; -- name: Stone Bench
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24500; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24501; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24502; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24503; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24504; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24505; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24506; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24507; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24508; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24509; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24510; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24511; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24512; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24513; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=24514; -- name: Wooden Chair
@@ -2021,18 +2174,33 @@ UPDATE locales_gameobject SET name_loc1='대성당 광장' WHERE entry=25338; --
 UPDATE locales_gameobject SET name_loc1='대성당 광장' WHERE entry=25339; -- name: Cathedral Square
 UPDATE locales_gameobject SET name_loc1='대성당 광장' WHERE entry=25340; -- name: Cathedral Square
 UPDATE locales_gameobject SET name_loc1='스톰윈드 공원' WHERE entry=25341; -- name: The Park
+UPDATE locales_gameobject SET name_loc1='스톰윈드 공원' WHERE entry=25342; -- name: The Park
 UPDATE locales_gameobject SET name_loc1='구 시가지' WHERE entry=25346; -- name: Old Town
 UPDATE locales_gameobject SET name_loc1='구 시가지' WHERE entry=25347; -- name: Old Town
 UPDATE locales_gameobject SET name_loc1='마법사 지구' WHERE entry=25348; -- name: Mage Quarter
 UPDATE locales_gameobject SET name_loc1='마법사 지구' WHERE entry=25349; -- name: Mage Quarter
 UPDATE locales_gameobject SET name_loc1='마법사 지구' WHERE entry=25350; -- name: Mage Quarter
 UPDATE locales_gameobject SET name_loc1='마법사 지구' WHERE entry=25351; -- name: Mage Quarter
+UPDATE locales_gameobject SET name_loc1='스톰윈드 공원' WHERE entry=25352; -- name: The Park
 UPDATE locales_gameobject SET name_loc1='스톰윈드 공원' WHERE entry=25353; -- name: The Park
 UPDATE locales_gameobject SET name_loc1='스톰윈드 공원' WHERE entry=25354; -- name: The Park
+UPDATE locales_gameobject SET name_loc1='대성당 광장' WHERE entry=25355; -- name: Cathedral Square
+UPDATE locales_gameobject SET name_loc1='대성당 광장' WHERE entry=25356; -- name: Cathedral Square
+UPDATE locales_gameobject SET name_loc1='대성당 광장' WHERE entry=25357; -- name: Cathedral Square
 UPDATE locales_gameobject SET name_loc1='유전자 재결합기' WHERE entry=26449; -- name: Recombobulator
+UPDATE locales_gameobject SET name_loc1='크래그헬름 형제의 갑옷 상점' WHERE entry=26480; -- name: Craghelm\'s Plate and Chain
+UPDATE locales_gameobject SET name_loc1='골드퓨리의 사냥용품 상점' WHERE entry=26482; -- name: Goldfury\'s Hunting Supplies
+UPDATE locales_gameobject SET name_loc1='피즐스피너의 일용품 상점' WHERE entry=26483; -- name: Fizzlespinner\'s General Goods
+UPDATE locales_gameobject SET name_loc1='부싯돌 선술집' WHERE entry=26486; -- name: The Stonefire Tavern
+UPDATE locales_gameobject SET name_loc1='바림의 마법용품 상점' WHERE entry=26487; -- name: Barim\'s Reagents
+UPDATE locales_gameobject SET name_loc1='잘나가는 무기 상점' WHERE entry=26488; -- name: Timberline Arms
+UPDATE locales_gameobject SET name_loc1='브루크의 모퉁이 선술집' WHERE entry=26489; -- name: Bruuk\'s Corner
+UPDATE locales_gameobject SET name_loc1='아이언포지 길드 사무소' WHERE entry=26490; -- name: Ironforge Visitor\'s Center
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=26494; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=26495; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=26496; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='깊은산속 광부조합과 보석세공점' WHERE entry=26497; -- name: Deep Mountain Mining Guild
+UPDATE locales_gameobject SET name_loc1='놋쇠단지 제과점' WHERE entry=26498; -- name: The Bronze Kettle
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=26499; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='짐마차 상자' WHERE entry=28024; -- name: Caravan Chest
 UPDATE locales_gameobject SET name_loc1='드워프 지구' WHERE entry=28027; -- name: Dwarven District
@@ -2056,6 +2224,15 @@ UPDATE locales_gameobject SET name_loc1='드워프 지구' WHERE entry=28044; --
 UPDATE locales_gameobject SET name_loc1='드워프 지구' WHERE entry=28045; -- name: Dwarven District
 UPDATE locales_gameobject SET name_loc1='드워프 지구' WHERE entry=28046; -- name: Dwarven District
 UPDATE locales_gameobject SET name_loc1='드워프 지구' WHERE entry=28047; -- name: Dwarven District
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28048; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28049; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28050; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28051; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28052; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28053; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28054; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28055; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28056; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28069; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28070; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28071; -- name: Wooden Chair
@@ -2065,6 +2242,15 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28074; -- na
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28075; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28603; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='짐마차 상자' WHERE entry=28604; -- name: Scattered Crate
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28605; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28606; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28607; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28608; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28609; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28610; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=28611; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=28612; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=28613; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='드워프 장작불' WHERE entry=29150; -- name: Dwarven Fire
 UPDATE locales_gameobject SET name_loc1='드워프 장작불' WHERE entry=29151; -- name: Dwarven Fire
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=29152; -- name: Wooden Chair
@@ -2144,25 +2330,69 @@ UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=31572; -- name: 
 UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=31573; -- name: Medium Brazier
 UPDATE locales_gameobject SET name_loc1='연기나는 선반' WHERE entry=31574; -- name: Smoking Rack
 UPDATE locales_gameobject SET name_loc1='큰 화롯불' WHERE entry=31575; -- name: Tall Brazier
+UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=31576; -- name: Medium Brazier
 UPDATE locales_gameobject SET name_loc1='큰 화롯불' WHERE entry=31577; -- name: Tall Brazier
 UPDATE locales_gameobject SET name_loc1='큰 화롯불' WHERE entry=31578; -- name: Tall Brazier
 UPDATE locales_gameobject SET name_loc1='큰 화롯불' WHERE entry=31579; -- name: Tall Brazier
 UPDATE locales_gameobject SET name_loc1='끓고 있는 가마솥' WHERE entry=31580; -- name: Bubbling Cauldron
 UPDATE locales_gameobject SET name_loc1='활활타는 장작불' WHERE entry=32107; -- name: Roaring Fire
+UPDATE locales_gameobject SET name_loc1='활활타는 장작불' WHERE entry=32109; -- name: Roaring Fire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=32110; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=32349; -- name: Mailbox
+UPDATE locales_gameobject SET name_loc1='파인스핀들의 가죽 상점' WHERE entry=32350; -- name: Finespindle\'s Leather Goods
+UPDATE locales_gameobject SET name_loc1='스톤브라우의 의류점' WHERE entry=32351; -- name: Stonebrow\'s Clothier
+UPDATE locales_gameobject SET name_loc1='여행용 낚시용품점' WHERE entry=32352; -- name: Traveling Fisherman
+UPDATE locales_gameobject SET name_loc1='스프링스핀들의 고물상' WHERE entry=32353; -- name: Springspindle\'s Gadgets
+UPDATE locales_gameobject SET name_loc1='우르릉꽝꽝 폭약 상점' WHERE entry=32354; -- name: Things That Go Boom!
 UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32355; -- name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32356; -- name: Hall of Explorers
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=32358; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='군사 지구' WHERE entry=32359; -- name: The Military Ward
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32360; -- name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc1='마법 지구' WHERE entry=32362; -- name: The Mystic Ward
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32363; -- name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc1='군사 지구' WHERE entry=32365; -- name: The Military Ward
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32367; -- name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32370; -- name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32371; -- name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32372; -- name: The Great Forge
+UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32373; -- name: The Great Forge
+UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32374; -- name: The Great Forge
+UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32375; -- name: The Great Forge
+UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32378; -- name: The Great Forge
+UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32379; -- name: The Great Forge
 UPDATE locales_gameobject SET name_loc1='쓸쓸한 뒷골목' WHERE entry=32383; -- name: The Forlorn Cavern
 UPDATE locales_gameobject SET name_loc1='군사 지구' WHERE entry=32385; -- name: The Military Ward
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=32389; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=32391; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32392; -- name: The Great Forge
+UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32395; -- name: The Great Forge
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32396; -- name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32397; -- name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32398; -- name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32399; -- name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32402; -- name: Ironforge Main Gate
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=32404; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32405; -- name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32408; -- name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32410; -- name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32411; -- name: Ironforge Main Gate
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32413; -- name: Hall of Explorers
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=32416; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32418; -- name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32421; -- name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32423; -- name: Hall of Explorers
 UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32424; -- name: The Great Forge
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=32425; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='마법 지구' WHERE entry=32427; -- name: The Mystic Ward
+UPDATE locales_gameobject SET name_loc1='군사 지구' WHERE entry=32428; -- name: The Military Ward
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=32429; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32430; -- name: Ironforge Main Gate
 UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32431; -- name: The Great Forge
+UPDATE locales_gameobject SET name_loc1='군사 지구' WHERE entry=32434; -- name: The Military Ward
+UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32436; -- name: The Great Forge
+UPDATE locales_gameobject SET name_loc1='마법 지구' WHERE entry=32438; -- name: The Mystic Ward
+UPDATE locales_gameobject SET name_loc1='아이언포지 성문' WHERE entry=32440; -- name: Ironforge Main Gate
 UPDATE locales_gameobject SET name_loc1='갈렌의 금고' WHERE entry=32569; -- name: Galen\'s Strongbox
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=32570; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=32571; -- name: Anvil
@@ -2182,7 +2412,14 @@ UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=32591; -- name: Anv
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=32592; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=32593; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=32594; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=32595; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=32596; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32786; -- name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32788; -- name: Hall of Explorers
+UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32789; -- name: The Great Forge
+UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=32790; -- name: The Great Forge
+UPDATE locales_gameobject SET name_loc1='마법 지구' WHERE entry=32791; -- name: The Mystic Ward
+UPDATE locales_gameobject SET name_loc1='탐험가의 전당' WHERE entry=32793; -- name: Hall of Explorers
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=32833; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=32834; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=32835; -- name: Wooden Chair
@@ -2236,11 +2473,32 @@ UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=34037; -- name: Anv
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=34038; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=34167; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=34168; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='쓸쓸한 뒷골목' WHERE entry=34358; -- name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc1='쓸쓸한 뒷골목' WHERE entry=34359; -- name: The Forlorn Cavern
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=34360; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='쓸쓸한 뒷골목' WHERE entry=34361; -- name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc1='쓸쓸한 뒷골목' WHERE entry=34362; -- name: The Forlorn Cavern
+UPDATE locales_gameobject SET name_loc1='쓸쓸한 뒷골목' WHERE entry=34363; -- name: The Forlorn Cavern
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=34571; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=34572; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='카니톨의 궤짝' WHERE entry=35251; -- name: Karnitol\'s Chest
 UPDATE locales_gameobject SET name_loc1='고대 유물' WHERE entry=35252; -- name: Ancient Relic
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=35572; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=35573; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=35574; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=35575; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=35576; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=35577; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=35578; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=35579; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=35580; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=35581; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=35582; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=35583; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=35584; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=35585; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=35588; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=35589; -- name: Dwarven High Back Chair
 UPDATE locales_gameobject SET name_loc1='낚시찌' WHERE entry=35591; -- name: Fishing Bobber
 UPDATE locales_gameobject SET name_loc1='활활타는 장작불' WHERE entry=35593; -- name: Roaring Fire
 UPDATE locales_gameobject SET name_loc1='활활타는 장작불' WHERE entry=35594; -- name: Roaring Fire
@@ -2278,6 +2536,7 @@ UPDATE locales_gameobject SET name_loc1='왕실' WHERE entry=36127; -- name: Roy
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=36396; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='왕실' WHERE entry=36397; -- name: Royal Quarter
 UPDATE locales_gameobject SET name_loc1='왕실' WHERE entry=36398; -- name: Royal Quarter
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=36645; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='소환의 문' WHERE entry=36727; -- name: Summoning Portal
 UPDATE locales_gameobject SET name_loc1='우르의 책' WHERE entry=36738; -- name: The Book of Ur
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=36977; -- name: Wooden Chair
@@ -2336,7 +2595,36 @@ UPDATE locales_gameobject SET name_loc1='소환 마법진' WHERE entry=37097; --
 UPDATE locales_gameobject SET name_loc1='페린의 궤짝' WHERE entry=37098; -- name: Perrine\'s Chest
 UPDATE locales_gameobject SET name_loc1='아탈라이 서판' WHERE entry=37099; -- name: Atal\'ai Tablet
 UPDATE locales_gameobject SET name_loc1='갈렌의 우리' WHERE entry=37118; -- name: Galen\'s Cage
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37473; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=37474; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=37475; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37476; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37477; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37478; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37479; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=37480; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=37481; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37482; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=37483; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=37484; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37485; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37486; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37487; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37488; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37489; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37490; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=37491; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=37492; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=37493; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='요리 단지' WHERE entry=38019; -- name: Cookpot
+UPDATE locales_gameobject SET name_loc1='배불뚝이 난로' WHERE entry=38020; -- name: Potbelly Stove
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=38021; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=38022; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=38023; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=38024; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=38025; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=38026; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=38027; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=38028; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=38029; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=38030; -- name: Campfire
@@ -2349,10 +2637,12 @@ UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=38494; -- name: Anv
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=38495; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='개척자의 착륙장' WHERE entry=38927; -- name: Newman\'s Landing
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=40197; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=40198; -- name: Fire
 UPDATE locales_gameobject SET name_loc1='뼈장작불' WHERE entry=40199; -- name: Fire
 UPDATE locales_gameobject SET name_loc1='뼈장작불' WHERE entry=40200; -- name: Fire
 UPDATE locales_gameobject SET name_loc1='불' WHERE entry=40201; -- name: Fire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=40298; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=40299; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=40301; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=40303; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=41185; -- name: Campfire
@@ -2651,9 +2941,12 @@ UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=52176; -- name: 
 UPDATE locales_gameobject SET name_loc1='큰 화롯불' WHERE entry=55250; -- name: Tall Brazier
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=55535; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=55615; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=55616; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='레이지토템 무기점' WHERE entry=55774; -- name: Ragetotem Arms
+UPDATE locales_gameobject SET name_loc1='불구덩이' WHERE entry=56810; -- name: Fire Pit
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=56818; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=56819; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=56820; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=56821; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=56897; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='판금 및 사슬 방어구점' WHERE entry=56898; -- name: Plate-n-Chain
@@ -2663,6 +2956,17 @@ UPDATE locales_gameobject SET name_loc1='바람깃털 활 상점' WHERE entry=56
 UPDATE locales_gameobject SET name_loc1='뱃사공의 선술집' WHERE entry=56910; -- name: The Salty Sailor Tavern
 UPDATE locales_gameobject SET name_loc1='가시덤불 신용금고' WHERE entry=56911; -- name: Stranglethorn Trust Bank
 UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57708; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57709; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57710; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57725; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57726; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57727; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57748; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57749; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57750; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57751; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57752; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=57753; -- name: Lamppost
 UPDATE locales_gameobject SET name_loc1='훔친 철제 궤짝' WHERE entry=58369; -- name: Stolen Iron Chest
 UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=58388; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=58389; -- name: Brazier
@@ -2702,6 +3006,8 @@ UPDATE locales_gameobject SET name_loc1='책 상인' WHERE entry=58627; -- name:
 UPDATE locales_gameobject SET name_loc1='지팡이 상점' WHERE entry=58629; -- name: Staff Merchant
 UPDATE locales_gameobject SET name_loc1='풍요의 약초상점' WHERE entry=59517; -- name: All Things Flora
 UPDATE locales_gameobject SET name_loc1='항해 용품점' WHERE entry=59518; -- name: Nautical Needs
+UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=59529; -- name: Cauldron
+UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=59530; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='구 항만공사' WHERE entry=59845; -- name: The Old Port Authority
 UPDATE locales_gameobject SET name_loc1='칼림도어 항공' WHERE entry=59846; -- name: Kalimdor Airlines
 UPDATE locales_gameobject SET name_loc1='무기 공장' WHERE entry=59847; -- name: Cuts-N-Bruises Incorporated
@@ -2724,6 +3030,7 @@ UPDATE locales_gameobject SET name_loc1='난로' WHERE entry=59864; -- name: Sto
 UPDATE locales_gameobject SET name_loc1='난로' WHERE entry=59865; -- name: Stove
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=59990; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=60393; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=60394; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=60395; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=60438; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=60439; -- name: Wooden Chair
@@ -2804,15 +3111,21 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=61922; -- na
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=61923; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=61924; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=61925; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=61927; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=61928; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=61929; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='희미한 불꽃의 화로' WHERE entry=61934; -- name: Brazier of the Dormant Flame
 UPDATE locales_gameobject SET name_loc1='압력 조절 밸브' WHERE entry=61935; -- name: Regulator Valve
 UPDATE locales_gameobject SET name_loc1='연료 조절 밸브' WHERE entry=61936; -- name: Fuel Control Valve
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=61952; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=61953; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='스톰윈드 사무소' WHERE entry=63195; -- name: Stormwind Visitor\'s Center
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=63196; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='대성당 광장' WHERE entry=63197; -- name: Cathedral Square
 UPDATE locales_gameobject SET name_loc1='대성당 광장' WHERE entry=63198; -- name: Cathedral Square
 UPDATE locales_gameobject SET name_loc1='주술의 제단' WHERE entry=63674; -- name: Shaman Shrine
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=64849; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=64850; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=64856; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=64857; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=64858; -- name: Wooden Chair
@@ -2823,17 +3136,20 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=64862; -- na
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=64863; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='그래즈냅의 기계' WHERE entry=65407; -- name: Graznab\'s Machine
 UPDATE locales_gameobject SET name_loc1='용맹의 갑옷 상점' WHERE entry=66780; -- name: Lionheart Armory
+UPDATE locales_gameobject SET name_loc1='불의 토템' WHERE entry=67234; -- name: Fire Totem
 UPDATE locales_gameobject SET name_loc1='땅다람쥐 지휘봉' WHERE entry=68865; -- name: Snufflenose Command Sticks
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69282; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69421; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=69422; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69423; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69424; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=69425; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=69426; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=69427; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=69428; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69429; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69430; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69431; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69432; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69433; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69434; -- name: Campfire
@@ -2842,11 +3158,50 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69436; -- name: 
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=69437; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=69438; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70517; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70518; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70519; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70520; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70521; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70522; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70523; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70524; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70525; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70526; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70527; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70528; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70530; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70531; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70532; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70533; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70534; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70535; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70536; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70537; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70538; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70539; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70540; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70541; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70542; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70543; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70544; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70545; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70546; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70547; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70548; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70549; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70551; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70552; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70553; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70554; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70555; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70556; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=70557; -- name: Lamppost
 UPDATE locales_gameobject SET name_loc1='진흙으로 덮인 철 광맥' WHERE entry=73939; -- name: Ooze Covered Iron Deposit
 UPDATE locales_gameobject SET name_loc1='진흙으로 덮인 은 광맥' WHERE entry=73940; -- name: Ooze Covered Silver Vein
 UPDATE locales_gameobject SET name_loc1='진흙으로 덮인 금 광맥' WHERE entry=73941; -- name: Ooze Covered Gold Vein
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=74075; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=74076; -- name: Cauldron
+UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=74077; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=74078; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='뱃사공의 선술집' WHERE entry=74091; -- name: The Salty Sailor Tavern
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=74135; -- name: Campfire
@@ -2859,12 +3214,14 @@ UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=74442; -- name: 
 UPDATE locales_gameobject SET name_loc1='훈제 고기 선반' WHERE entry=74443; -- name: Smoked Meat Rack
 UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=74444; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='훈제 고기 선반' WHERE entry=74445; -- name: Smoked Meat Rack
+UPDATE locales_gameobject SET name_loc1='훈제 고기 선반' WHERE entry=74446; -- name: Smoked Meat Rack
 UPDATE locales_gameobject SET name_loc1='큰 철제 궤짝' WHERE entry=74447; -- name: Large Iron Bound Chest
 UPDATE locales_gameobject SET name_loc1='크고 단단한 궤짝' WHERE entry=74448; -- name: Large Solid Chest
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=74727; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='훈제 고기 선반' WHERE entry=74728; -- name: Smoked Meat Rack
 UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=74729; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=74730; -- name: Brazier
+UPDATE locales_gameobject SET name_loc1='노글의 자루' WHERE entry=74731; -- name: Noggle\'s Satchel
 UPDATE locales_gameobject SET name_loc1='찌그러진 대형 궤짝' WHERE entry=75293; -- name: Large Battered Chest
 UPDATE locales_gameobject SET name_loc1='큰 철제 궤짝' WHERE entry=75295; -- name: Large Iron Bound Chest
 UPDATE locales_gameobject SET name_loc1='큰 철제 궤짝' WHERE entry=75296; -- name: Large Iron Bound Chest
@@ -2878,12 +3235,15 @@ UPDATE locales_gameobject SET name_loc1='승강기' WHERE entry=80023; -- name: 
 UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=82136; -- name: Lamppost
 UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=82137; -- name: Lamppost
 UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=82138; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=82139; -- name: Lamppost
+UPDATE locales_gameobject SET name_loc1='가로등불' WHERE entry=82140; -- name: Lamppost
 UPDATE locales_gameobject SET name_loc1='승강기' WHERE entry=85556; -- name: Vator2
 UPDATE locales_gameobject SET name_loc1='아이언밴드의 금고' WHERE entry=85562; -- name: Ironband\'s Strongbox
 UPDATE locales_gameobject SET name_loc1='썩은니의 금고' WHERE entry=85563; -- name: Dead-tooth\'s Strongbox
 UPDATE locales_gameobject SET name_loc1='엘루니트 상자' WHERE entry=86492; -- name: Crate of Elunite
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=88496; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=88497; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=88498; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='철산호' WHERE entry=89634; -- name: Iron Coral
 UPDATE locales_gameobject SET name_loc1='바짝 마른 알껍질' WHERE entry=89635; -- name: Sunscorched Shell
 UPDATE locales_gameobject SET name_loc1='바스라의 가마솥' WHERE entry=89931; -- name: Bath\'rah\'s Cauldron
@@ -2896,12 +3256,14 @@ UPDATE locales_gameobject SET name_loc1='난로' WHERE entry=91673; -- name: Sto
 UPDATE locales_gameobject SET name_loc1='붐스틱 수입상' WHERE entry=91692; -- name: Boomstick Imports East
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=91706; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=91737; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=91738; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='그리만트의 모루' WHERE entry=92011; -- name: Grimand\'s Anvil
 UPDATE locales_gameobject SET name_loc1='비밀의 고서' WHERE entry=92013; -- name: Tome of the Cabal
 UPDATE locales_gameobject SET name_loc1='소환 마법진' WHERE entry=92015; -- name: Summoning Circle
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=92065; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=92066; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=92067; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=92098; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=92099; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=92140; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=92141; -- name: Campfire
@@ -2965,6 +3327,7 @@ UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=94185; -- name: 
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=94186; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=94187; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=94188; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=94189; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=94190; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=94191; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='천 방어구 상점' WHERE entry=95449; -- name: Cloth Armor
@@ -2980,8 +3343,11 @@ UPDATE locales_gameobject SET name_loc1='군사 지구' WHERE entry=98349; -- na
 UPDATE locales_gameobject SET name_loc1='상업 지구' WHERE entry=98350; -- name: Trade Quarter
 UPDATE locales_gameobject SET name_loc1='마법 지구' WHERE entry=98351; -- name: Magic Quarter
 UPDATE locales_gameobject SET name_loc1='상업 지구' WHERE entry=98354; -- name: Trade Quarter
+UPDATE locales_gameobject SET name_loc1='주술의 제단' WHERE entry=100028; -- name: Shaman Shrine
+UPDATE locales_gameobject SET name_loc1='주술의 제단' WHERE entry=100035; -- name: Shaman Shrine
 UPDATE locales_gameobject SET name_loc1='주술의 제단' WHERE entry=101748; -- name: Shaman Shrine
 UPDATE locales_gameobject SET name_loc1='주술의 제단' WHERE entry=101749; -- name: Shaman Shrine
+UPDATE locales_gameobject SET name_loc1='주술의 제단' WHERE entry=101750; -- name: Shaman Shrine
 UPDATE locales_gameobject SET name_loc1='주술의 제단' WHERE entry=101751; -- name: Shaman Shrine
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=101766; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=101767; -- name: Wooden Chair
@@ -3193,7 +3559,17 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=111969; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=111973; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=111974; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=111979; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=111993; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=111994; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=111995; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=111996; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=111998; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112000; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112012; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112015; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112023; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112024; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112028; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112042; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112043; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112044; -- name: Wooden Chair
@@ -3213,6 +3589,7 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112061; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112062; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112065; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112066; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112068; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112070; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112071; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112072; -- name: Wooden Chair
@@ -3242,6 +3619,7 @@ UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=112201; -- name: Ch
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=112202; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=112204; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=112205; -- name: Chair
+UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=112214; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=112215; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=112216; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=112217; -- name: Chair
@@ -3266,6 +3644,7 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112311; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112312; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112316; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112317; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112318; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112319; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112321; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=112322; -- name: Wooden Chair
@@ -3287,6 +3666,7 @@ UPDATE locales_gameobject SET name_loc1='용감무쌍호의 잠긴 금고' WHERE
 UPDATE locales_gameobject SET name_loc1='정기의 치료소' WHERE entry=113528; -- name: Spiritual Healing
 UPDATE locales_gameobject SET name_loc1='아라시 대포 발사' WHERE entry=113529; -- name: Arathi Cannon Fire
 UPDATE locales_gameobject SET name_loc1='대포' WHERE entry=113531; -- name: Cannon
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=113540; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='도적 지구' WHERE entry=113568; -- name: Rogues\' Quarter
 UPDATE locales_gameobject SET name_loc1='도적 지구' WHERE entry=113569; -- name: Rogues\' Quarter
 UPDATE locales_gameobject SET name_loc1='연금술 실험실' WHERE entry=113570; -- name: The Apothecarium
@@ -3359,6 +3739,13 @@ UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=126312; -- name:
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=126313; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=126314; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=126335; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=126337; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=126338; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=126339; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=126340; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=126341; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=126342; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=126345; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc1='자홍버섯' WHERE entry=128196; -- name: Magenta Cap Clusters Trap
 UPDATE locales_gameobject SET name_loc1='자홍버섯' WHERE entry=128293; -- name: Magenta Cap Clusters
 UPDATE locales_gameobject SET name_loc1='얕은 무덤' WHERE entry=128308; -- name: Shallow Grave
@@ -3425,19 +3812,31 @@ UPDATE locales_gameobject SET name_loc1='황천의 균열' WHERE entry=137167; -
 UPDATE locales_gameobject SET name_loc1='쓸쓸한 뒷골목' WHERE entry=137644; -- name: The Forlorn Cavern
 UPDATE locales_gameobject SET name_loc1='군사 지구' WHERE entry=137646; -- name: The Military Ward
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=137647; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=138316; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=138317; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=138318; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='미즈라엘의 결정' WHERE entry=138492; -- name: Shards of Myzrael
+UPDATE locales_gameobject SET name_loc1='문' WHERE entry=138493; -- name: Doors
 UPDATE locales_gameobject SET name_loc1='뿔피리' WHERE entry=138496; -- name: HornCover
 UPDATE locales_gameobject SET name_loc1='뿔피리 파이프' WHERE entry=138497; -- name: Mouthpiece Mount
 UPDATE locales_gameobject SET name_loc1='달의 신전 샘' WHERE entry=138498; -- name: Temple of the Moon Fountain
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=138614; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='설리 발루의 기념비' WHERE entry=139852; -- name: Memorial to Sully Balloo
 UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=140105; -- name: Fierce Blaze
+UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=140106; -- name: Fierce Blaze
+UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=140107; -- name: Fierce Blaze
+UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=140108; -- name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=140109; -- name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=140110; -- name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=140111; -- name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=140112; -- name: Fierce Blaze
 UPDATE locales_gameobject SET name_loc1='이글거리는 화롯불' WHERE entry=140113; -- name: Fierce Blaze
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=140211; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=140212; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=140213; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=140214; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=140357; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=140360; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=140372; -- name: Bench
 UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=140373; -- name: Bench
 UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=140374; -- name: Bench
@@ -3472,6 +3871,7 @@ UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=140403; -- name
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=140439; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='아이언포지 우체통' WHERE entry=140908; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='밝은 황록색 비단 실타래' WHERE entry=140911; -- name: Spool of Light Chartreuse Silk Thread
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=140931; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='가즈리디안' WHERE entry=140971; -- name: Gahz\'ridian
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=141069; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='트롤 우리' WHERE entry=141070; -- name: Troll Cage
@@ -3479,6 +3879,9 @@ UPDATE locales_gameobject SET name_loc1='트롤 우리' WHERE entry=141071; -- n
 UPDATE locales_gameobject SET name_loc1='트롤 우리' WHERE entry=141072; -- name: Troll Cage
 UPDATE locales_gameobject SET name_loc1='트롤 우리' WHERE entry=141073; -- name: Troll Cage
 UPDATE locales_gameobject SET name_loc1='트롤 우리' WHERE entry=141074; -- name: Troll Cage
+UPDATE locales_gameobject SET name_loc1='해바위 야영지' WHERE entry=141076; -- name: Sun Rock Retreat
+UPDATE locales_gameobject SET name_loc1='큰소나무 계곡' WHERE entry=141077; -- name: Greatwood Vale
+UPDATE locales_gameobject SET name_loc1='불모의 땅' WHERE entry=141078; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc1='의술사의 궤짝' WHERE entry=141596; -- name: Witch Doctor\'s Chest
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=141610; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=141611; -- name: Bonfire
@@ -3487,13 +3890,20 @@ UPDATE locales_gameobject SET name_loc1='봉인석' WHERE entry=141812; -- name:
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=141813; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='줄파락 징' WHERE entry=141832; -- name: Gong of Zul\'Farrak
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=141838; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=141839; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=141840; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=141841; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=141843; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=141844; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=141845; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=141851; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=141852; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='제비수염버섯' WHERE entry=141853; -- name: Violet Tragan
 UPDATE locales_gameobject SET name_loc1='봉인석' WHERE entry=141857; -- name: Stone of Binding
 UPDATE locales_gameobject SET name_loc1='봉인석' WHERE entry=141858; -- name: Stone of Binding
 UPDATE locales_gameobject SET name_loc1='봉인석' WHERE entry=141859; -- name: Stone of Binding
+UPDATE locales_gameobject SET name_loc1='대포' WHERE entry=141860; -- name: Cannon
+UPDATE locales_gameobject SET name_loc1='대포' WHERE entry=141861; -- name: Cannon
 UPDATE locales_gameobject SET name_loc1='대포' WHERE entry=141862; -- name: Cannon
 UPDATE locales_gameobject SET name_loc1='대포' WHERE entry=141863; -- name: Cannon
 UPDATE locales_gameobject SET name_loc1='사원 문' WHERE entry=141869; -- name: Temple Door
@@ -3502,10 +3912,15 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=141871; -- name:
 UPDATE locales_gameobject SET name_loc1='라젤리크의 눈물' WHERE entry=141891; -- name: Razelikh\'s Tear
 UPDATE locales_gameobject SET name_loc1='라젤리크의 눈물 II' WHERE entry=141892; -- name: Razelikh\'s Tear II
 UPDATE locales_gameobject SET name_loc1='히포그리프 알' WHERE entry=141931; -- name: Hippogryph Egg
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=141971; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=141972; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='고대의 보물' WHERE entry=141979; -- name: Ancient Treasure
 UPDATE locales_gameobject SET name_loc1='유령의 금고' WHERE entry=141980; -- name: Spectral Lockbox
 UPDATE locales_gameobject SET name_loc1='유령의 금고' WHERE entry=141981; -- name: Spectral Lockbox Particles
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142018; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142019; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142020; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142021; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142073; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=142075; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='클라라의 싱싱한 사과' WHERE entry=142076; -- name: Clara\'s Fresh Apples
@@ -3519,12 +3934,15 @@ UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=142091; -- name:
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=142093; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=142094; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=142095; -- name: Mailbox
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=142101; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=142102; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=142103; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=142109; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=142110; -- name: Mailbox
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=142111; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=142117; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='끓고 있는 가마솥' WHERE entry=142118; -- name: Bubbling Cauldron
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=142119; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142121; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='현상 수배 전단' WHERE entry=142122; -- name: Wanted Poster
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142123; -- name: Campfire
@@ -3553,6 +3971,7 @@ UPDATE locales_gameobject SET name_loc1='눈에 띄지 않는 표시' WHERE entr
 UPDATE locales_gameobject SET name_loc1='호드 보급품 상자' WHERE entry=142191; -- name: Horde Supply Crate
 UPDATE locales_gameobject SET name_loc1='해적의 보물' WHERE entry=142194; -- name: Pirate\'s Treasure!
 UPDATE locales_gameobject SET name_loc1='덩굴발 작전도' WHERE entry=142195; -- name: Woodpaw Battle Map
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142196; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142197; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142198; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='최후의 방' WHERE entry=142207; -- name: The Final Chamber
@@ -3584,6 +4003,7 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142689; -- name:
 UPDATE locales_gameobject SET name_loc1='끓고 있는 가마솥' WHERE entry=142690; -- name: Bubbling Cauldron
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142691; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142692; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='끓고 있는 가마솥' WHERE entry=142693; -- name: Bubbling Cauldron
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142694; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142695; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='행렬 천공기록기 3005-D' WHERE entry=142696; -- name: Matrix Punchograph 3005-D
@@ -3595,6 +4015,10 @@ UPDATE locales_gameobject SET name_loc1='독약병' WHERE entry=142704; -- name:
 UPDATE locales_gameobject SET name_loc1='독약병' WHERE entry=142705; -- name: Venom Bottle
 UPDATE locales_gameobject SET name_loc1='독약병' WHERE entry=142706; -- name: Venom Bottle
 UPDATE locales_gameobject SET name_loc1='독약병' WHERE entry=142707; -- name: Venom Bottle
+UPDATE locales_gameobject SET name_loc1='독병' WHERE entry=142708; -- name: Venom Bottle
+UPDATE locales_gameobject SET name_loc1='독병' WHERE entry=142709; -- name: Venom Bottle
+UPDATE locales_gameobject SET name_loc1='독병' WHERE entry=142710; -- name: Venom Bottle
+UPDATE locales_gameobject SET name_loc1='독병' WHERE entry=142711; -- name: Venom Bottle
 UPDATE locales_gameobject SET name_loc1='독약병' WHERE entry=142712; -- name: Venom Bottle
 UPDATE locales_gameobject SET name_loc1='독약병' WHERE entry=142713; -- name: Venom Bottle
 UPDATE locales_gameobject SET name_loc1='독약병' WHERE entry=142714; -- name: Venom Bottle
@@ -3611,6 +4035,7 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=142912; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=142914; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=142915; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=142916; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='페랄라스의 역사' WHERE entry=142958; -- name: Feralas: A History
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=142959; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=142960; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=142961; -- name: Chair
@@ -3618,6 +4043,7 @@ UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=142962; -- name: Ch
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=142963; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=142964; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=142965; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=142966; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=142967; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=142968; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='훈제 고기 선반' WHERE entry=142969; -- name: Smoked Meat Rack
@@ -3691,6 +4117,10 @@ UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=143983; -- name:
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=143984; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=143985; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=143986; -- name: Mailbox
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=143987; -- name: Mailbox
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=143988; -- name: Mailbox
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=143989; -- name: Mailbox
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=143990; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='훈제 고기 선반' WHERE entry=143991; -- name: Smoked Meat Rack
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=144011; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='골두니 함정' WHERE entry=144050; -- name: Gordunni Trap
@@ -3724,6 +4154,7 @@ UPDATE locales_gameobject SET name_loc1='스프링스핀들의 고물상' WHERE 
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=144179; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=144180; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='야만용사의 검' WHERE entry=144181; -- name: Sword of the Barbarian King
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=144570; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='역병지대' WHERE entry=146079; -- name: Plaguelands
 UPDATE locales_gameobject SET name_loc1='언더시티' WHERE entry=146080; -- name: Undercity
 UPDATE locales_gameobject SET name_loc1='브릴' WHERE entry=146081; -- name: Brill
@@ -3732,6 +4163,9 @@ UPDATE locales_gameobject SET name_loc1='에퀴넥스 비석탑' WHERE entry=146
 UPDATE locales_gameobject SET name_loc1='최후의 문' WHERE entry=146084; -- name: End Door
 UPDATE locales_gameobject SET name_loc1='동굴 입구' WHERE entry=146085; -- name: Cave In
 UPDATE locales_gameobject SET name_loc1='동굴 입구' WHERE entry=146086; -- name: Cave In
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=146088; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=146089; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=146090; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=146091; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='파수꾼 합숙소' WHERE entry=146096; -- name: Sentinel\'s Bunkhouse
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=146441; -- name: Anvil
@@ -3749,6 +4183,10 @@ UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=147046; -- name: An
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=147047; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=147048; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=147049; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=147065; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=147078; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=147079; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=147080; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='난폭한 마르골의 뿔' WHERE entry=147136; -- name: Horn of Margol the Rager
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=147279; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=147282; -- name: Anvil
@@ -3773,7 +4211,9 @@ UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=147449; -- name
 UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=147450; -- name: Bench
 UPDATE locales_gameobject SET name_loc1='검은무쇠' WHERE entry=147516; -- name: Dark Iron
 UPDATE locales_gameobject SET name_loc1='검은무쇠' WHERE entry=147517; -- name: Dark Iron
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=147536; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='방금 죽은 얼룩말 시체' WHERE entry=147537; -- name: Fresh Zhevra Carcass
+UPDATE locales_gameobject SET name_loc1='도둑맞은 은화' WHERE entry=147557; -- name: Stolen Silver
 UPDATE locales_gameobject SET name_loc1='조잡한 화로' WHERE entry=147742; -- name: Crude Brazier
 UPDATE locales_gameobject SET name_loc1='조잡한 화로' WHERE entry=147743; -- name: Crude Brazier
 UPDATE locales_gameobject SET name_loc1='조잡한 화로' WHERE entry=147744; -- name: Crude Brazier
@@ -3996,11 +4436,14 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148886; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148887; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148888; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148889; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148890; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148891; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148892; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148893; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148894; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148895; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148896; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148897; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148898; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148899; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148900; -- name: Wooden Chair
@@ -4010,6 +4453,8 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148903; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148904; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148905; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148906; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148907; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148908; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148909; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148910; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=148911; -- name: Wooden Chair
@@ -4063,6 +4508,7 @@ UPDATE locales_gameobject SET name_loc1='역장' WHERE entry=149431; -- name: fo
 UPDATE locales_gameobject SET name_loc1='문' WHERE entry=149432; -- name: DOOR1
 UPDATE locales_gameobject SET name_loc1='문' WHERE entry=149433; -- name: DOOR2
 UPDATE locales_gameobject SET name_loc1='검은용군단의 보물' WHERE entry=149502; -- name: Hoard of the Black Dragonflight
+UPDATE locales_gameobject SET name_loc1='현상 수배 전단' WHERE entry=150075; -- name: Wanted Poster
 UPDATE locales_gameobject SET name_loc1='미스릴 광맥' WHERE entry=150079; -- name: Mithril Deposit
 UPDATE locales_gameobject SET name_loc1='금 광맥' WHERE entry=150080; -- name: Gold Vein
 UPDATE locales_gameobject SET name_loc1='진은 광맥' WHERE entry=150081; -- name: Truesilver Deposit
@@ -4072,6 +4518,7 @@ UPDATE locales_gameobject SET name_loc1='부르빅의 일용품점' WHERE entry=
 UPDATE locales_gameobject SET name_loc1='문' WHERE entry=150137; -- name: Door
 UPDATE locales_gameobject SET name_loc1='문' WHERE entry=150138; -- name: Door
 UPDATE locales_gameobject SET name_loc1='비전 집중의 수정' WHERE entry=150140; -- name: Arcane Focusing Crystal
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=150713; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='우상' WHERE entry=151951; -- name: Idol Oven Fire
 UPDATE locales_gameobject SET name_loc1='파수꾼과 기나긴 철야' WHERE entry=151952; -- name: Idol Cup Fire
 UPDATE locales_gameobject SET name_loc1='긴 나무의자' WHERE entry=151953; -- name: Wooden Bench
@@ -4101,6 +4548,9 @@ UPDATE locales_gameobject SET name_loc1='소금 평원' WHERE entry=151976; -- n
 UPDATE locales_gameobject SET name_loc1='소금 평원' WHERE entry=151977; -- name: Shimmering Flats
 UPDATE locales_gameobject SET name_loc1='가젯잔' WHERE entry=151978; -- name: Gadgetzan
 UPDATE locales_gameobject SET name_loc1='스팀휘들 항구' WHERE entry=151979; -- name: Steamwheedle Port
+UPDATE locales_gameobject SET name_loc1='소금 평원' WHERE entry=151980; -- name: Shimmering Flats
+UPDATE locales_gameobject SET name_loc1='스팀휘들 항구' WHERE entry=151981; -- name: Steamwheedle Port
+UPDATE locales_gameobject SET name_loc1='가젯잔' WHERE entry=151982; -- name: Gadgetzan
 UPDATE locales_gameobject SET name_loc1='가젯잔' WHERE entry=151983; -- name: Gadgetzan
 UPDATE locales_gameobject SET name_loc1='스팀휘들 항구' WHERE entry=151984; -- name: Steamwheedle Port
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=152032; -- name: Anvil
@@ -4123,6 +4573,7 @@ UPDATE locales_gameobject SET name_loc1='Kadrak Flag Spell Focus (DND)' WHERE en
 UPDATE locales_gameobject SET name_loc1='히아신스 버섯' WHERE entry=152094; -- name: Hyacinth Mushroom
 UPDATE locales_gameobject SET name_loc1='달봉오리 백합' WHERE entry=152095; -- name: Moonpetal Lily
 UPDATE locales_gameobject SET name_loc1='벨리스트라즈의 화로' WHERE entry=152097; -- name: Belnistrasz\'s Brazier
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=152324; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='뜨거운 화로' WHERE entry=152325; -- name: Fiery Brazier
 UPDATE locales_gameobject SET name_loc1='뜨거운 화로' WHERE entry=152326; -- name: Fiery Brazier
 UPDATE locales_gameobject SET name_loc1='뜨거운 화로' WHERE entry=152327; -- name: Fiery Brazier
@@ -4144,8 +4595,10 @@ UPDATE locales_gameobject SET name_loc1='높은벌' WHERE entry=152584; -- name:
 UPDATE locales_gameobject SET name_loc1='쌍둥이 바위산' WHERE entry=152585; -- name: The Twin Colossals
 UPDATE locales_gameobject SET name_loc1='잊혀진 땅' WHERE entry=152586; -- name: Desolace
 UPDATE locales_gameobject SET name_loc1='버섯구름 봉우리' WHERE entry=152587; -- name: Thousand Needles
+UPDATE locales_gameobject SET name_loc1='콜카르 노획물 궤짝' WHERE entry=152608; -- name: Kolkar\'s Booty
 UPDATE locales_gameobject SET name_loc1='승강기' WHERE entry=152614; -- name: Elevator
 UPDATE locales_gameobject SET name_loc1='콜카르 노획물 궤짝' WHERE entry=152618; -- name: Kolkar\'s Booty
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=152619; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='아즈샤리트 결정체' WHERE entry=152620; -- name: Azsharite Formation
 UPDATE locales_gameobject SET name_loc1='아즈샤리트 결정체' WHERE entry=152621; -- name: Azsharite Formation
 UPDATE locales_gameobject SET name_loc1='아즈샤리트 결정체' WHERE entry=152622; -- name: Azsharite Formation
@@ -4192,10 +4645,12 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=153516; -- name:
 UPDATE locales_gameobject SET name_loc1='타우릿산 유물' WHERE entry=153556; -- name: Thaurissan Relic
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=153576; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=153577; -- name: Cauldron
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=153578; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=153579; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=153580; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=153581; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=153582; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=153583; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=153584; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=153695; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=153716; -- name: Mailbox
@@ -4327,10 +4782,13 @@ UPDATE locales_gameobject SET name_loc1='채석장 문' WHERE entry=161536; -- n
 UPDATE locales_gameobject SET name_loc1='밀리의 수확물' WHERE entry=161557; -- name: Milly\'s Harvest
 UPDATE locales_gameobject SET name_loc1='연장통' WHERE entry=161752; -- name: Tool Bucket
 UPDATE locales_gameobject SET name_loc1='사모플랜지' WHERE entry=162024; -- name: Samophlange
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=163313; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=163645; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=164618; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='제물의 덫' WHERE entry=164638; -- name: Immolation Trap
 UPDATE locales_gameobject SET name_loc1='얼음의 덫' WHERE entry=164639; -- name: Frost Trap
+UPDATE locales_gameobject SET name_loc1='고목' WHERE entry=164644; -- name: The Dead Tree
+UPDATE locales_gameobject SET name_loc1='에체야키의 둥지' WHERE entry=164651; -- name: Echeyakee\'s Lair
 UPDATE locales_gameobject SET name_loc1='푸른 마력의 수정' WHERE entry=164658; -- name: Blue Power Crystal
 UPDATE locales_gameobject SET name_loc1='녹색 마력의 수정' WHERE entry=164659; -- name: Green Power Crystal
 UPDATE locales_gameobject SET name_loc1='붉은 마력의 수정' WHERE entry=164660; -- name: Red Power Crystal
@@ -4339,7 +4797,13 @@ UPDATE locales_gameobject SET name_loc1='장비 상자 더미' WHERE entry=16466
 UPDATE locales_gameobject SET name_loc1='무쇠지옥' WHERE entry=164688; -- name: Ironfel
 UPDATE locales_gameobject SET name_loc1='프랑클론 포지라이트의 기념비' WHERE entry=164689; -- name: Monument of Franclorn Forgewright
 UPDATE locales_gameobject SET name_loc1='크롬자르의 깃발' WHERE entry=164690; -- name: Krom\'zar\'s Banner
+UPDATE locales_gameobject SET name_loc1='활활타는 장작불' WHERE entry=164699; -- name: Roaring Fire
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=164704; -- name: Blazing Fire
+UPDATE locales_gameobject SET name_loc1='활활타는 장작불' WHERE entry=164701; -- name: Roaring Fire
+UPDATE locales_gameobject SET name_loc1='선명한 불꽃' WHERE entry=164702; -- name: Blazing Fire
+UPDATE locales_gameobject SET name_loc1='선명한 불꽃' WHERE entry=164703; -- name: Blazing Fire
+UPDATE locales_gameobject SET name_loc1='선명한 불꽃' WHERE entry=164704; -- name: Blazing Fire
+UPDATE locales_gameobject SET name_loc1='선명한 불꽃' WHERE entry=164705; -- name: Blazing Fire
 UPDATE locales_gameobject SET name_loc1='용첨탑 문' WHERE entry=164725; -- name: Dragonspine Door
 UPDATE locales_gameobject SET name_loc1='석실 문' WHERE entry=164726; -- name: Doodad_PortcullisActive01
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=164728; -- name: Campfire
@@ -4470,6 +4934,7 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=169282; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=169283; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=169284; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=169285; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=169286; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=169287; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=169288; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=169289; -- name: Wooden Chair
@@ -4489,6 +4954,8 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=169999; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170000; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170001; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170002; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170033; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=170034; -- name: Doodad_GeneralChairLoEnd27
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170035; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170036; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170037; -- name: Wooden Chair
@@ -4501,6 +4968,9 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170043; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170044; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170045; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170046; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170047; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170053; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170054; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170055; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170056; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170057; -- name: Wooden Chair
@@ -4513,6 +4983,7 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170063; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170064; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170065; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170066; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170067; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=170073; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=170347; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=170348; -- name: Chair
@@ -4763,6 +5234,10 @@ UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE ent
 UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=171616; -- name: Dwarven High Back Chair
 UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=171617; -- name: Dwarven High Back Chair
 UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=171618; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=171619; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=171620; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=171621; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=171622; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171623; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171624; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171625; -- name: Dwarven Brazier
@@ -4787,6 +5262,8 @@ UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171644; -
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171645; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=171646; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=171647; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=171648; -- name: Dwarven High Back Chair
+UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=171649; -- name: Dwarven High Back Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=171650; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=171651; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='드워프의 등받이의자' WHERE entry=171652; -- name: Dwarven High Back Chair
@@ -4884,6 +5361,13 @@ UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171753; -
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171754; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171755; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171756; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171757; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171758; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171759; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171760; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171761; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171762; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171763; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171764; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=171765; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='대용광로' WHERE entry=171766; -- name: The Great Forge
@@ -4904,6 +5388,7 @@ UPDATE locales_gameobject SET name_loc1='오염된 노래꽃' WHERE entry=171942
 UPDATE locales_gameobject SET name_loc1='검은 모루' WHERE entry=172911; -- name: The Black Anvil
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=172941; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=172942; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=172943; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=172944; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=172945; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=172946; -- name: Mighty Blaze
@@ -4958,6 +5443,14 @@ UPDATE locales_gameobject SET name_loc1='오그리마 관문' WHERE entry=172994
 UPDATE locales_gameobject SET name_loc1='정기의 골짜기' WHERE entry=172995; -- name: Valley of Spirits
 UPDATE locales_gameobject SET name_loc1='힘의 골짜기' WHERE entry=172996; -- name: Valley of Strength
 UPDATE locales_gameobject SET name_loc1='오그리마 관문' WHERE entry=172997; -- name: Orgrimmar Main Gate
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=172998; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=172999; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173000; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173001; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173002; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173003; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173004; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='검은불꽃 비밀집회' WHERE entry=173005; -- name: Darkfire Enclave
 UPDATE locales_gameobject SET name_loc1='성난정기의 마법용품점' WHERE entry=173006; -- name: Spiritfury Reagents
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173007; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173008; -- name: Mighty Blaze
@@ -5076,7 +5569,9 @@ UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173121; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173122; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173123; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173124; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173125; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173126; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173127; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173128; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173129; -- name: Mighty Blaze
@@ -5151,6 +5646,7 @@ UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173198; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173199; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173200; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173201; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='소란의 가죽 및 강철 방어구점' WHERE entry=173202; -- name: Soran\'s Leather and Steel Armory
 UPDATE locales_gameobject SET name_loc1='오그리마 일용품점' WHERE entry=173203; -- name: Orgrimmar General Store
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173204; -- name: Mighty Blaze
@@ -5176,6 +5672,11 @@ UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173224; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173225; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173226; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='경매장' WHERE entry=173227; -- name: AuctionNode
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173228; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173229; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173230; -- name: Mighty Blaze
+UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=173231; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc1='대장기술 도면' WHERE entry=173232; -- name: Blacksmithing Plans
 UPDATE locales_gameobject SET name_loc1='대장기술 도면' WHERE entry=173234; -- name: Blacksmithing Plans
 UPDATE locales_gameobject SET name_loc1='나무 간이화장실' WHERE entry=173265; -- name: Wooden Outhouse
@@ -5394,6 +5895,14 @@ UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=174
 UPDATE locales_gameobject SET name_loc1='활활타는 화롯불' WHERE entry=174861; -- name: Doodad_SmallBrazier01
 UPDATE locales_gameobject SET name_loc1='난로' WHERE entry=174862; -- name: Stove
 UPDATE locales_gameobject SET name_loc1='난로' WHERE entry=174863; -- name: Stove
+UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174864; -- name: Doodad_GeneralChairLoEnd75
+UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174865; -- name: Doodad_GeneralChairLoEnd64
+UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174866; -- name: Doodad_GeneralChairLoEnd72
+UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174867; -- name: Doodad_GeneralChairLoEnd66
+UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174868; -- name: Doodad_GeneralChairLoEnd76
+UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174869; -- name: Doodad_GeneralChairLoEnd78
+UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174870; -- name: Doodad_GeneralChairLoEnd79
+UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174871; -- name: Doodad_GeneralChairLoEnd81
 UPDATE locales_gameobject SET name_loc1='난로' WHERE entry=174872; -- name: Stove
 UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=174873; -- name: Bench
 UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=174874; -- name: Bench
@@ -5448,6 +5957,7 @@ UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174942; -- name: Ch
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174943; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174944; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=174945; -- name: Chair
+UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=174946; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='타오르는 잿불' WHERE entry=174953; -- name: Burning Embers
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=174954; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=174955; -- name: Wooden Chair
@@ -5463,6 +5973,7 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=174964; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=174965; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=174966; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=174967; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=174968; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=174974; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=174975; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=174976; -- name: Wooden Chair
@@ -5518,6 +6029,7 @@ UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=175078; -- name: An
 UPDATE locales_gameobject SET name_loc1='비행선 (강철의 독수리호)' WHERE entry=175080; -- name: Grom\'Gol Base Camp - Orgrimmar
 UPDATE locales_gameobject SET name_loc1='빤질빤질세척기 5200' WHERE entry=175084; -- name: The Sparklematic 5200
 UPDATE locales_gameobject SET name_loc1='빤질빤질세척기 5200' WHERE entry=175085; -- name: The Sparklematic 5200
+UPDATE locales_gameobject SET name_loc1='빤질빤질세척기 5200' WHERE entry=175087; -- name: The Sparklematic 5200
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175104; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='부화장 알' WHERE entry=175124; -- name: Rookery Egg
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=175144; -- name: Forge
@@ -5545,7 +6057,10 @@ UPDATE locales_gameobject SET name_loc1='룬' WHERE entry=175198; -- name: Room 
 UPDATE locales_gameobject SET name_loc1='룬' WHERE entry=175199; -- name: Room 2 Rune
 UPDATE locales_gameobject SET name_loc1='룬' WHERE entry=175200; -- name: Room 4 Rune
 UPDATE locales_gameobject SET name_loc1='떠내려온 바다 생물' WHERE entry=175207; -- name: Beached Sea Creature
+UPDATE locales_gameobject SET name_loc1='떠내려온 바다 생물' WHERE entry=175226; -- name: Beached Sea Creature
 UPDATE locales_gameobject SET name_loc1='떠내려온 바다 생물' WHERE entry=175227; -- name: Beached Sea Creature
+UPDATE locales_gameobject SET name_loc1='떠내려온 바다 생물' WHERE entry=175230; -- name: Beached Sea Creature
+UPDATE locales_gameobject SET name_loc1='떠내려온 바다 생물' WHERE entry=175233; -- name: Beached Sea Creature
 UPDATE locales_gameobject SET name_loc1='엠버시어' WHERE entry=175244; -- name: Emberseer In
 UPDATE locales_gameobject SET name_loc1='태초의 불꽃' WHERE entry=175245; -- name: Father Flame
 UPDATE locales_gameobject SET name_loc1='키블러의 우리' WHERE entry=175246; -- name: Kibler\'s Cage
@@ -5623,6 +6138,7 @@ UPDATE locales_gameobject SET name_loc1='마루둥지 와이번 알' WHERE entry
 UPDATE locales_gameobject SET name_loc1='다크스톤 서판' WHERE entry=175385; -- name: Darkstone Tablet
 UPDATE locales_gameobject SET name_loc1='풍부한 토륨 광맥' WHERE entry=175404; -- name: Rich Thorium Vein
 UPDATE locales_gameobject SET name_loc1='문' WHERE entry=175405; -- name: Doodad_ZigguratDoor04
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=175406; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='달빛 깃든 깃털' WHERE entry=175407; -- name: Moontouched Feather
 UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=175424; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=175425; -- name: Brazier
@@ -5632,6 +6148,7 @@ UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=175428; -- name:
 UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=175429; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=175430; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='화롯불' WHERE entry=175431; -- name: Brazier
+UPDATE locales_gameobject SET name_loc1='지렛대' WHERE entry=175432; -- name: Lever
 UPDATE locales_gameobject SET name_loc1='축제의 거리' WHERE entry=175433; -- name: Festival Lane
 UPDATE locales_gameobject SET name_loc1='십자군 광장' WHERE entry=175434; -- name: Crusaders\' Square
 UPDATE locales_gameobject SET name_loc1='왕의 광장' WHERE entry=175435; -- name: King\'s Square
@@ -5696,6 +6213,21 @@ UPDATE locales_gameobject SET name_loc1='야론의 짐마차' WHERE entry=175586
 UPDATE locales_gameobject SET name_loc1='부서진 상자' WHERE entry=175587; -- name: Damaged Crate
 UPDATE locales_gameobject SET name_loc1='첨탑 거미알' WHERE entry=175588; -- name: Spire Spider Egg
 UPDATE locales_gameobject SET name_loc1='우로크에게 도전' WHERE entry=175589; -- name: Challenge to Urok Trap
+UPDATE locales_gameobject SET name_loc1='선명한 불꽃' WHERE entry=175591; -- name: Blazing Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=175592; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175593; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=175594; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175595; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='작은 불길' WHERE entry=175596; -- name: Small Fire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175597; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175598; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='이글거리는 화톳불' WHERE entry=175599; -- name: Raging Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=175600; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='작은 불길' WHERE entry=175601; -- name: Small Fire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=175602; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175603; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=175604; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=175605; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc1='첨탑 거미알' WHERE entry=175606; -- name: Spire Spider Egg
 UPDATE locales_gameobject SET name_loc1='검은무쇠 드워프 시체' WHERE entry=175607; -- name: Dark Iron Dwarf Corpse
 UPDATE locales_gameobject SET name_loc1='검은무쇠 드워프 시체' WHERE entry=175608; -- name: Dark Iron Dwarf Corpse
@@ -5714,12 +6246,31 @@ UPDATE locales_gameobject SET name_loc1='철창문' WHERE entry=175620; -- name:
 UPDATE locales_gameobject SET name_loc1='우로크의 제물더미' WHERE entry=175621; -- name: Urok\'s Tribute Pile
 UPDATE locales_gameobject SET name_loc1='야론의 보급품' WHERE entry=175628; -- name: Jaron\'s Supplies
 UPDATE locales_gameobject SET name_loc1='야론의 보급품' WHERE entry=175629; -- name: Jaron\'s Supplies
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175630; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175631; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175632; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='Doodad_WoodSignPointerNice03' WHERE entry=175647; -- name: Doodad_WoodSignPointerNice03
+UPDATE locales_gameobject SET name_loc1='Doodad_WoodSignPointerNice05' WHERE entry=175648; -- name: Doodad_WoodSignPointerNice05
+UPDATE locales_gameobject SET name_loc1='Doodad_WoodSignPointerNice04' WHERE entry=175649; -- name: Doodad_WoodSignPointerNice04
+UPDATE locales_gameobject SET name_loc1='Doodad_WoodSignPointerNice06' WHERE entry=175650; -- name: Doodad_WoodSignPointerNice06
+UPDATE locales_gameobject SET name_loc1='Doodad_WoodSignPointerNice07' WHERE entry=175651; -- name: Doodad_WoodSignPointerNice07
+UPDATE locales_gameobject SET name_loc1='Doodad_WoodSignPointerNice08' WHERE entry=175652; -- name: Doodad_WoodSignPointerNice08
+UPDATE locales_gameobject SET name_loc1='Doodad_WoodSignPointerNice09' WHERE entry=175653; -- name: Doodad_WoodSignPointerNice09
+UPDATE locales_gameobject SET name_loc1='Doodad_WoodSignPointerNice10' WHERE entry=175656; -- name: Doodad_WoodSignPointerNice10
+UPDATE locales_gameobject SET name_loc1='Doodad_WoodSignPointerNice11' WHERE entry=175657; -- name: Doodad_WoodSignPointerNice11
 UPDATE locales_gameobject SET name_loc1='만노로스의 갑옷' WHERE entry=175658; -- name: The Armor of Mannoroth
 UPDATE locales_gameobject SET name_loc1='국왕 테레나스 메네실 2세 여기 잠들다' WHERE entry=175659; -- name: Here Lies King Terenas Menethil II
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=175666; -- name: Brazier
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=175667; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175669; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='작은 불' WHERE entry=175670; -- name: Small Fire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=175671; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175672; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=175673; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='이글거리는 화톳불' WHERE entry=175674; -- name: Raging Fire
 UPDATE locales_gameobject SET name_loc1='요리용 장작불' WHERE entry=175675; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=175677; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=175678; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='티란니스트라즈의 뼈' WHERE entry=175679; -- name: The Skull of Tyrannistrasz
 UPDATE locales_gameobject SET name_loc1='화석 알' WHERE entry=175680; -- name: Fossilized Egg
 UPDATE locales_gameobject SET name_loc1='로크 갈퀴발톱' WHERE entry=175681; -- name: Roc Talon
@@ -5825,6 +6376,7 @@ UPDATE locales_gameobject SET name_loc1='제국의 몰락' WHERE entry=175855; -
 UPDATE locales_gameobject SET name_loc1='영혼약탈자의 격노' WHERE entry=175856; -- name: Wrath of Soulflayer
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=175857; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=175858; -- name: Chair
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=175864; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='호드 종' WHERE entry=175885; -- name: Horde Bell
 UPDATE locales_gameobject SET name_loc1='날카로운 장창' WHERE entry=175886; -- name: Roughshod Pike
 UPDATE locales_gameobject SET name_loc1='핑클 함정' WHERE entry=175887; -- name: Finkle Trap
@@ -5857,6 +6409,12 @@ UPDATE locales_gameobject SET name_loc1='성채 문' WHERE entry=175967; -- name
 UPDATE locales_gameobject SET name_loc1='병참부 문' WHERE entry=175968; -- name: Hoard Door
 UPDATE locales_gameobject SET name_loc1='창살문' WHERE entry=175969; -- name: Doodad_DwarvenTunnelPortcullis04
 UPDATE locales_gameobject SET name_loc1='벼리지 않은 룬문자 가슴보호갑' WHERE entry=175970; -- name: Unforged Runic Breastplate
+UPDATE locales_gameobject SET name_loc1='벼리지 않은 룬문자 가슴보호갑' WHERE entry=176080; -- name: Subway
+UPDATE locales_gameobject SET name_loc1='벼리지 않은 룬문자 가슴보호갑' WHERE entry=176081; -- name: Subway
+UPDATE locales_gameobject SET name_loc1='벼리지 않은 룬문자 가슴보호갑' WHERE entry=176082; -- name: Subway
+UPDATE locales_gameobject SET name_loc1='벼리지 않은 룬문자 가슴보호갑' WHERE entry=176083; -- name: Subway
+UPDATE locales_gameobject SET name_loc1='벼리지 않은 룬문자 가슴보호갑' WHERE entry=176084; -- name: Subway
+UPDATE locales_gameobject SET name_loc1='벼리지 않은 룬문자 가슴보호갑' WHERE entry=176085; -- name: Subway
 UPDATE locales_gameobject SET name_loc1='벼리지 않은 룬문자 가슴보호갑' WHERE entry=176086; -- name: Subway
 UPDATE locales_gameobject SET name_loc1='스컬지 깃발' WHERE entry=176087; -- name: Scourge Banner
 UPDATE locales_gameobject SET name_loc1='불타지 않은 판금 건틀릿' WHERE entry=176089; -- name: Unfired Plate Gauntlets
@@ -5870,6 +6428,7 @@ UPDATE locales_gameobject SET name_loc1='세번째 안돌할 탑' WHERE entry=17
 UPDATE locales_gameobject SET name_loc1='네번째 안돌할 탑' WHERE entry=176097; -- name: UDB_Fourth_Andorhal_Tower
 UPDATE locales_gameobject SET name_loc1='여명의 계략' WHERE entry=176110; -- name: Dawn\'s Gambit
 UPDATE locales_gameobject SET name_loc1='말로의 금고' WHERE entry=176112; -- name: Malor\'s Strongbox
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=176113; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='현상 수배: 아르낙 그림토템' WHERE entry=176115; -- name: Wanted Poster - Arnak Grimtotem
 UPDATE locales_gameobject SET name_loc1='파멜라의 인형 머리' WHERE entry=176116; -- name: Pamela\'s Doll\'s Head
 UPDATE locales_gameobject SET name_loc1='파멜라의 인형' WHERE entry=176117; -- name: Pamela\'s Doll\'s Trap
@@ -5896,13 +6455,18 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176187; -- name:
 UPDATE locales_gameobject SET name_loc1='의식의 양초' WHERE entry=176188; -- name: Ritual Candle
 UPDATE locales_gameobject SET name_loc1='바다거북 뼈' WHERE entry=176189; -- name: Skeletal Sea Turtle
 UPDATE locales_gameobject SET name_loc1='떠내려온 바다거북' WHERE entry=176190; -- name: Beached Sea Turtle
+UPDATE locales_gameobject SET name_loc1='떠내려온 바다거북' WHERE entry=176191; -- name: Beached Sea Turtle
 UPDATE locales_gameobject SET name_loc1='무법의 시대 일람' WHERE entry=176192; -- name: Catalogue of the Wayward
 UPDATE locales_gameobject SET name_loc1='사령관의 전당' WHERE entry=176194; -- name: Hall of the High Command
 UPDATE locales_gameobject SET name_loc1='퓨마 우리' WHERE entry=176195; -- name: Panther Cage
 UPDATE locales_gameobject SET name_loc1='떠내려온 바다거북' WHERE entry=176196; -- name: Beached Sea Turtle
+UPDATE locales_gameobject SET name_loc1='떠내려온 바다거북' WHERE entry=176197; -- name: Beached Sea Turtle
+UPDATE locales_gameobject SET name_loc1='떠내려온 바다거북' WHERE entry=176198; -- name: Beached Sea Turtle
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176200; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176201; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176202; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176203; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176204; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='다빌의 성서' WHERE entry=176206; -- name: Davil\'s Libram
 UPDATE locales_gameobject SET name_loc1='레드패스의 방패' WHERE entry=176207; -- name: Redpath\'s Shield
 UPDATE locales_gameobject SET name_loc1='호르구스의 해골' WHERE entry=176208; -- name: Horgus\' Skull
@@ -5939,6 +6503,7 @@ UPDATE locales_gameobject SET name_loc1='파멜라의 인형' WHERE entry=176247
 UPDATE locales_gameobject SET name_loc1='샤비의 최고급 담배' WHERE entry=176248; -- name: Premium Siabi Tobacco
 UPDATE locales_gameobject SET name_loc1='스컬지 자료' WHERE entry=176249; -- name: Scourge Data
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176264; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176265; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176266; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176267; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176268; -- name: Campfire
@@ -5955,6 +6520,7 @@ UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=176278; -- name:
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176279; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176280; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176281; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176282; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176283; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=176284; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176285; -- name: Bonfire
@@ -5962,7 +6528,11 @@ UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176286; -- name:
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176287; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176288; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176289; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176290; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176291; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176292; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176293; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176294; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='보관소 불' WHERE entry=176295; -- name: Archive Fire
 UPDATE locales_gameobject SET name_loc1='스톰윈드로 통하는 차원문' WHERE entry=176296; -- name: Portal to Stormwind
 UPDATE locales_gameobject SET name_loc1='보급품 상자' WHERE entry=176304; -- name: Supply Crate
@@ -5995,6 +6565,8 @@ UPDATE locales_gameobject SET name_loc1='왕의 광장 우체통' WHERE entry=17
 UPDATE locales_gameobject SET name_loc1='프라스 샤비의 우체통' WHERE entry=176353; -- name: Fras Siabi\'s Postbox
 UPDATE locales_gameobject SET name_loc1='명가의 성서' WHERE entry=176356; -- name: Sacred Highborne Writings
 UPDATE locales_gameobject SET name_loc1='우체통 소포' WHERE entry=176360; -- name: Postbox Parcel
+UPDATE locales_gameobject SET name_loc1='스컬지 가마솥' WHERE entry=176361; -- name: Scourge Cauldron
+UPDATE locales_gameobject SET name_loc1='루테란 마을행' WHERE entry=176370; -- name: Boat to Auberdine
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=176371; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=176372; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=176373; -- name: Wooden Chair
@@ -6016,6 +6588,7 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=176388; -- n
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176389; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176390; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='스컬지 가마솥' WHERE entry=176392; -- name: Scourge Cauldron
+UPDATE locales_gameobject SET name_loc1='스컬지 가마솥' WHERE entry=176393; -- name: Scourge Cauldron
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=176404; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='문' WHERE entry=176424; -- name: Doodad_GuildInstanceBLOCKER
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176425; -- name: Bonfire
@@ -6075,6 +6648,7 @@ UPDATE locales_gameobject SET name_loc1='오그리마로 통하는 차원문' WH
 UPDATE locales_gameobject SET name_loc1='썬더 블러프로 통하는 차원문' WHERE entry=176500; -- name: Portal to Thunder Bluff
 UPDATE locales_gameobject SET name_loc1='언더시티로 통하는 차원문' WHERE entry=176501; -- name: Portal to Undercity
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176504; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176505; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176506; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176507; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=176508; -- name: Anvil
@@ -6153,6 +6727,7 @@ UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=176628; -
 UPDATE locales_gameobject SET name_loc1='드워프 화로' WHERE entry=176629; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc1='추억의 유품' WHERE entry=176630; -- name: Keepsake of Remembrance
 UPDATE locales_gameobject SET name_loc1='메네실의 선물' WHERE entry=176631; -- name: Menethil\'s Gift
+UPDATE locales_gameobject SET name_loc1='문' WHERE entry=176632; -- name: Door
 UPDATE locales_gameobject SET name_loc1='문' WHERE entry=176633; -- name: Door
 UPDATE locales_gameobject SET name_loc1='케를로니안의 상자' WHERE entry=176634; -- name: Kerlonian\'s Chest
 UPDATE locales_gameobject SET name_loc1='가재 통발' WHERE entry=176635; -- name: Shellfish Trap
@@ -6162,6 +6737,7 @@ UPDATE locales_gameobject SET name_loc1='황금 산삼' WHERE entry=176638; -- n
 UPDATE locales_gameobject SET name_loc1='꿈풀' WHERE entry=176639; -- name: Dreamfoil
 UPDATE locales_gameobject SET name_loc1='은초롱이' WHERE entry=176640; -- name: Mountain Silversage
 UPDATE locales_gameobject SET name_loc1='슬픔이끼' WHERE entry=176641; -- name: Plaguebloom
+UPDATE locales_gameobject SET name_loc1='아서스의 눈물' WHERE entry=176642; -- name: Arthas\' Tears
 UPDATE locales_gameobject SET name_loc1='작은 토륨 광맥' WHERE entry=176643; -- name: Small Thorium Vein
 UPDATE locales_gameobject SET name_loc1='미스릴 광맥' WHERE entry=176645; -- name: Mithril Deposit
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=176665; -- name: Chair
@@ -6194,6 +6770,7 @@ UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=176691; -- name: Ch
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=176692; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=176693; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='카라잔 옆문' WHERE entry=176694; -- name: Karazhan Side Entrance
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176705; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='카엘 다로우 해골' WHERE entry=176745; -- name: Caer Darrow Skeleton 001
 UPDATE locales_gameobject SET name_loc1='큰 병영 불' WHERE entry=176746; -- name: Big Barracks Flame
 UPDATE locales_gameobject SET name_loc1='작은 병영 불' WHERE entry=176747; -- name: Small Barracks Flame
@@ -6206,9 +6783,11 @@ UPDATE locales_gameobject SET name_loc1='횃불' WHERE entry=176767; -- name: To
 UPDATE locales_gameobject SET name_loc1='난로' WHERE entry=176768; -- name: Stove
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176784; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='탄환 상자' WHERE entry=176785; -- name: Ammo Crate
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176786; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176787; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176789; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='조리대' WHERE entry=176790; -- name: Cooking Table
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176791; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176792; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='장작 더미' WHERE entry=176793; -- name: Bundle of Wood
 UPDATE locales_gameobject SET name_loc1='칼바람 바위산' WHERE entry=176794; -- name: Windshear Crag
@@ -6273,6 +6852,14 @@ UPDATE locales_gameobject SET name_loc1='바위' WHERE entry=176854; -- name: Do
 UPDATE locales_gameobject SET name_loc1='바위' WHERE entry=176855; -- name: Doodad_OnyziasLairFallingRocks05
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176863; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='마르두크의 검' WHERE entry=176865; -- name: Sword of Marduk Trap
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=176885; -- name: Brazier
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=176886; -- name: Brazier
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=176887; -- name: Brazier
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=176888; -- name: Brazier
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=176889; -- name: Brazier
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=176890; -- name: Brazier
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=176891; -- name: Brazier
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=176892; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='돌모루' WHERE entry=176894; -- name: Stone Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=176895; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=176896; -- name: Bonfire
@@ -6280,6 +6867,7 @@ UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=176897
 UPDATE locales_gameobject SET name_loc1='불구덩이' WHERE entry=176898; -- name: Fire pit
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=176899; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='석실 문' WHERE entry=176901; -- name: Doodad_PortcullisActive02
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=176904; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='이글거리는 화로' WHERE entry=176905; -- name: Smoldering Brazier
 UPDATE locales_gameobject SET name_loc1='이글거리는 화로' WHERE entry=176906; -- name: Smoldering Brazier
 UPDATE locales_gameobject SET name_loc1='정원 문' WHERE entry=176907; -- name: Conservatory Door
@@ -6378,6 +6966,7 @@ UPDATE locales_gameobject SET name_loc1='석실 문' WHERE entry=177047; -- name
 UPDATE locales_gameobject SET name_loc1='마술사의 문' WHERE entry=177048; -- name: Doodad_PortcullisActive06
 UPDATE locales_gameobject SET name_loc1='창살문' WHERE entry=177049; -- name: Doodad_PortcullisActive07
 UPDATE locales_gameobject SET name_loc1='모던의 마법 재료' WHERE entry=177064; -- name: Mordan\'s Reagents
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=177084; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='잿빛 골짜기' WHERE entry=177104; -- name: Ashenvale
 UPDATE locales_gameobject SET name_loc1='제데나르' WHERE entry=177105; -- name: Jaedenar
 UPDATE locales_gameobject SET name_loc1='갈퀴가지 숲' WHERE entry=177106; -- name: Talonbranch Glade
@@ -6473,6 +7062,7 @@ UPDATE locales_gameobject SET name_loc1='티리온 폴드링의 무덤' WHERE en
 UPDATE locales_gameobject SET name_loc1='푸석푸석한 흙더미' WHERE entry=177240; -- name: Loose Dirt Mound
 UPDATE locales_gameobject SET name_loc1='아라즈의 성물함' WHERE entry=177241; -- name: Araj\'s Phylactery
 UPDATE locales_gameobject SET name_loc1='악마의 차원문' WHERE entry=177243; -- name: Demon Portal
+UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=177244; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='문' WHERE entry=177245; -- name: Doodad_WroughtIronDoor01
 UPDATE locales_gameobject SET name_loc1='문' WHERE entry=177246; -- name: Doodad_WroughtIronDoor02
 UPDATE locales_gameobject SET name_loc1='문' WHERE entry=177247; -- name: Doodad_WroughtIronDoor03
@@ -6500,6 +7090,7 @@ UPDATE locales_gameobject SET name_loc1='정기의 봉우리로 가는 구름다
 UPDATE locales_gameobject SET name_loc1='수렵의 봉우리로 가는 구름다리' WHERE entry=177270; -- name: Bridge to Hunter Rise
 UPDATE locales_gameobject SET name_loc1='달샘' WHERE entry=177272; -- name: Moonwell
 UPDATE locales_gameobject SET name_loc1='달샘' WHERE entry=177273; -- name: Moonwell
+UPDATE locales_gameobject SET name_loc1='달샘' WHERE entry=177274; -- name: Moonwell
 UPDATE locales_gameobject SET name_loc1='달샘' WHERE entry=177275; -- name: Moonwell
 UPDATE locales_gameobject SET name_loc1='달샘' WHERE entry=177276; -- name: Moonwell
 UPDATE locales_gameobject SET name_loc1='달샘' WHERE entry=177277; -- name: Moonwell
@@ -6512,6 +7103,9 @@ UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=177285; -- name:
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=177286; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='완성되지 않은 그림' WHERE entry=177287; -- name: Unfinished Painting
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=177288; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='스컬지 가마솥' WHERE entry=177289; -- name: Scourge Cauldron
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=177290; -- name: Brazier
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=177291; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=177292; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=177293; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='여명의 계략' WHERE entry=177304; -- name: Dawn\'s Gambit
@@ -6520,6 +7114,7 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=177324; -- name:
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=177325; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=177326; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=177327; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=177364; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='악마의 차원문' WHERE entry=177365; -- name: Demon Portal
 UPDATE locales_gameobject SET name_loc1='악마의 차원문' WHERE entry=177366; -- name: Demon Portal
 UPDATE locales_gameobject SET name_loc1='악마의 차원문' WHERE entry=177367; -- name: Demon Portal
@@ -6563,6 +7158,7 @@ UPDATE locales_gameobject SET name_loc1='엘룬의 오라' WHERE entry=177416; -
 UPDATE locales_gameobject SET name_loc1='엘룬의 불꽃' WHERE entry=177417; -- name: Fire of Elune
 UPDATE locales_gameobject SET name_loc1='엘룬의 빛' WHERE entry=177418; -- name: Light of Elune (LARGE)
 UPDATE locales_gameobject SET name_loc1='엘룬의 빛' WHERE entry=177419; -- name: Light of Elune (SMALL)
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=177424; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=177425; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='석실 문' WHERE entry=177444; -- name: Stone Door
 UPDATE locales_gameobject SET name_loc1='큰 흰개미집' WHERE entry=177464; -- name: Large Termite Mound
@@ -6827,6 +7423,8 @@ UPDATE locales_gameobject SET name_loc1='등불' WHERE entry=178645; -- name: Li
 UPDATE locales_gameobject SET name_loc1='얼라이언스 보급품 상자' WHERE entry=178646; -- name: Alliance Supply Crate
 UPDATE locales_gameobject SET name_loc1='크리스마스 트리' WHERE entry=178647; -- name: Christmas Tree
 UPDATE locales_gameobject SET name_loc1='월계관' WHERE entry=178649; -- name: Wreath scale 0.75
+UPDATE locales_gameobject SET name_loc1='증기톱' WHERE entry=178664; -- name: Steamsaw
+UPDATE locales_gameobject SET name_loc1='증기톱' WHERE entry=178665; -- name: Steamsaw
 UPDATE locales_gameobject SET name_loc1='집시 마차' WHERE entry=178666; -- name: Gypsy Wagon
 UPDATE locales_gameobject SET name_loc1='크리스마스 트리' WHERE entry=178667; -- name: Christmas Tree (Medium)
 UPDATE locales_gameobject SET name_loc1='크리스마스 트리' WHERE entry=178668; -- name: Christmas Tree (Medium)
@@ -6926,6 +7524,7 @@ UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=179121; -- name:
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=179122; -- name: Fire
 UPDATE locales_gameobject SET name_loc1='이찌의 금고' WHERE entry=179125; -- name: Izzy\'s Holdings
 UPDATE locales_gameobject SET name_loc1='위험! 수정 광산 문 닫았음!' WHERE entry=179144; -- name: Danger! Crystalvein Mine closed!
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=179147; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='지렛대' WHERE entry=179148; -- name: Lever
 UPDATE locales_gameobject SET name_loc1='수정 광산 - 접근 금지!' WHERE entry=179224; -- name: Crystalvein Mine - Keep Out!
 UPDATE locales_gameobject SET name_loc1='대합' WHERE entry=179264; -- name: Giant Clam
@@ -7050,6 +7649,8 @@ UPDATE locales_gameobject SET name_loc1='고르독 공물' WHERE entry=179564; -
 UPDATE locales_gameobject SET name_loc1='더러운 성물함' WHERE entry=179565; -- name: Dusty Reliquary
 UPDATE locales_gameobject SET name_loc1='만남의 돌' WHERE entry=179584; -- name: Meeting Stone
 UPDATE locales_gameobject SET name_loc1='만남의 돌' WHERE entry=179585; -- name: Meeting Stone
+UPDATE locales_gameobject SET name_loc1='만남의 돌' WHERE entry=179586; -- name: Meeting Stone
+UPDATE locales_gameobject SET name_loc1='만남의 돌' WHERE entry=179587; -- name: Meeting Stone
 UPDATE locales_gameobject SET name_loc1='만남의 돌' WHERE entry=179595; -- name: Meeting Stone
 UPDATE locales_gameobject SET name_loc1='만남의 돌' WHERE entry=179596; -- name: Meeting Stone
 UPDATE locales_gameobject SET name_loc1='사로잡은 파멸의 수호병' WHERE entry=179644; -- name: Imprisoned Doomguard
@@ -7065,7 +7666,9 @@ UPDATE locales_gameobject SET name_loc1='어둠의 물레' WHERE entry=179672; -
 UPDATE locales_gameobject SET name_loc1='심판의 양초' WHERE entry=179673; -- name: Doomsday Candle
 UPDATE locales_gameobject SET name_loc1='데스무라의 종' WHERE entry=179674; -- name: Bell of Dethmoora
 UPDATE locales_gameobject SET name_loc1='지옥의 불꽃' WHERE entry=179676; -- name: Fel Fire
+UPDATE locales_gameobject SET name_loc1='크로쉬우스의 잔해' WHERE entry=179677; -- name: Kroshius\' Remains
 UPDATE locales_gameobject SET name_loc1='공포마의 차원문' WHERE entry=179681; -- name: Dreadsteed Portal
+UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=179682; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='인부 빛 함정' WHERE entry=179693; -- name: Peasant Light Trap
 UPDATE locales_gameobject SET name_loc1='죽음의 말뚝' WHERE entry=179694; -- name: Death Post
 UPDATE locales_gameobject SET name_loc1='살해된 농부' WHERE entry=179695; -- name: Slain Peasant
@@ -7141,6 +7744,7 @@ UPDATE locales_gameobject SET name_loc1='검은무쇠 베개' WHERE entry=179828
 UPDATE locales_gameobject SET name_loc1='얼라이언스 깃발' WHERE entry=179830; -- name: Silverwing Flag
 UPDATE locales_gameobject SET name_loc1='호드 깃발' WHERE entry=179831; -- name: Warsong Flag
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=179844; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=179846; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=179862; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=179863; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=179864; -- name: Anvil
@@ -7173,6 +7777,7 @@ UPDATE locales_gameobject SET name_loc1='석실 문' WHERE entry=179919; -- name
 UPDATE locales_gameobject SET name_loc1='Doodad_PortcullisActive03' WHERE entry=179920; -- name: Doodad_PortcullisActive03
 UPDATE locales_gameobject SET name_loc1='Doodad_PortcullisActive04' WHERE entry=179921; -- name: Doodad_PortcullisActive04
 UPDATE locales_gameobject SET name_loc1='얼룩진 피가 담긴 용기' WHERE entry=179922; -- name: Vessel of Tainted Blood
+UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=179924; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='만남의 돌 소환의 문' WHERE entry=179944; -- name: Meeting Stone Summoning Portal
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=179945; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='다크문 축제 - 개봉박두!' WHERE entry=179964; -- name: DARKMOON FAIRE - Coming Soon!
@@ -7497,6 +8102,8 @@ UPDATE locales_gameobject SET name_loc1='기름기 많은 아귀 떼' WHERE entr
 UPDATE locales_gameobject SET name_loc1='불지느러미퉁돔 떼' WHERE entry=180683; -- name: Firefin Snapper School
 UPDATE locales_gameobject SET name_loc1='대형 총명어 떼' WHERE entry=180684; -- name: Greater Sagefish School
 UPDATE locales_gameobject SET name_loc1='물에 젖은 잔해' WHERE entry=180685; -- name: Floating Wreckage
+UPDATE locales_gameobject SET name_loc1='요리용 화로' WHERE entry=180688; -- name: Cooking Brazier
+UPDATE locales_gameobject SET name_loc1='요리용 화로' WHERE entry=180689; -- name: Cooking Brazier
 UPDATE locales_gameobject SET name_loc1='큰 스카라베 상자' WHERE entry=180690; -- name: Large Scarab Coffer
 UPDATE locales_gameobject SET name_loc1='스카라베 상자' WHERE entry=180691; -- name: Scarab Coffer
 UPDATE locales_gameobject SET name_loc1='AQWar - Resource, Skins, Alliance, Tier 1' WHERE entry=180692; -- name: AQWar - Resource, Skins, Alliance, Tier 1
@@ -7741,6 +8348,7 @@ UPDATE locales_gameobject SET name_loc1='스트라솔름 보급품 상자' WHERE
 UPDATE locales_gameobject SET name_loc1='발렌타인 아치' WHERE entry=181086; -- name: Valentine Arch
 UPDATE locales_gameobject SET name_loc1='식물' WHERE entry=181087; -- name: Plant
 UPDATE locales_gameobject SET name_loc1='화산재' WHERE entry=181098; -- name: Volcanic Ash
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=181099; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='빛샘' WHERE entry=181102; -- name: Lightwell
 UPDATE locales_gameobject SET name_loc1='꽃' WHERE entry=181103; -- name: Flower
 UPDATE locales_gameobject SET name_loc1='작은 흙더미' WHERE entry=181104; -- name: Small Dirt Mound
@@ -7762,6 +8370,7 @@ UPDATE locales_gameobject SET name_loc1='라디스 톰버의 보급상자' WHERE
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=181134; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=181135; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='소환진' WHERE entry=181136; -- name: Circle
+UPDATE locales_gameobject SET name_loc1='고대의 문' WHERE entry=181137; -- name: Ancient Door
 UPDATE locales_gameobject SET name_loc1='나이트 엘프 계획서: 안다로스' WHERE entry=181138; -- name: Night Elf Plans: An\'daroth
 UPDATE locales_gameobject SET name_loc1='나이트 엘프 계획서: 안오윈' WHERE entry=181139; -- name: Night Elf Plans: An\'owyn
 UPDATE locales_gameobject SET name_loc1='나이트 엘프 계획서: 신도레이의 상황 점치기' WHERE entry=181140; -- name: Night Elf Plans: Scrying on the Sin\'dorei
@@ -8021,6 +8630,7 @@ UPDATE locales_gameobject SET name_loc1='낙스라마스 차원문' WHERE entry=
 UPDATE locales_gameobject SET name_loc1='낙스라마스 차원문' WHERE entry=181578; -- name: Naxxramas Portal
 UPDATE locales_gameobject SET name_loc1='오염된 토양' WHERE entry=181583; -- name: Tainted Soil Trap
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=181595; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=181596; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='실리시스트 흙더미' WHERE entry=181597; -- name: Silithyst Mound
 UPDATE locales_gameobject SET name_loc1='실리시스트 모래기둥' WHERE entry=181598; -- name: Silithyst Geyser
 UPDATE locales_gameobject SET name_loc1='룬' WHERE entry=181599; -- name: Rune
@@ -8041,6 +8651,7 @@ UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=181633; -- name:
 UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=181634; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=181635; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='나이아스의 제단' WHERE entry=181636; -- name: Altar of Naias
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=181639; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='Doodad_kelthuzad_throne02' WHERE entry=181640; -- name: Doodad_kelthuzad_throne02
 UPDATE locales_gameobject SET name_loc1='페더비어드의 유골' WHERE entry=181643; -- name: Featherbeard\'s Remains
 UPDATE locales_gameobject SET name_loc1='하늘금어초' WHERE entry=181644; -- name: Azure Snapdragon
@@ -8590,6 +9201,12 @@ UPDATE locales_gameobject SET name_loc1='훈제 고기 선반' WHERE entry=18346
 UPDATE locales_gameobject SET name_loc1='장작불' WHERE entry=183467; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=183483; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=183484; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=183497; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=183498; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=183499; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=183500; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=183501; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=183502; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc1='오라' WHERE entry=183516; -- name: Aura
 UPDATE locales_gameobject SET name_loc1='지렛대' WHERE entry=183517; -- name: Lever
 UPDATE locales_gameobject SET name_loc1='지렛대' WHERE entry=183518; -- name: Lever
@@ -8909,6 +9526,20 @@ UPDATE locales_gameobject SET name_loc1='인간 경비탑' WHERE entry=184082; -
 UPDATE locales_gameobject SET name_loc1='드레나이 경비탑' WHERE entry=184083; -- name: Draenei Tower Cap Pt
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=184085; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='군단 통신기' WHERE entry=184092; -- name: Legion Communicator Aura
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184093; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184094; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184095; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184096; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184097; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184098; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184099; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184100; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184101; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184102; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184103; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184104; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184105; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=184114; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc1='수정점의 오라' WHERE entry=184119; -- name: Scrying Aura
 UPDATE locales_gameobject SET name_loc1='크라서스의 개론 - 1장' WHERE entry=184121; -- name: Krasus\'s Compendium - Chapter 1
 UPDATE locales_gameobject SET name_loc1='크라서스의 개론 - 3장' WHERE entry=184123; -- name: Krasus\'s Compendium - Chapter 3
@@ -8917,6 +9548,7 @@ UPDATE locales_gameobject SET name_loc1='알레리온의 배낭' WHERE entry=184
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=184145; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=184147; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=184148; -- name: Mailbox
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=184161; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='카라잔 현관문' WHERE entry=184164; -- name: Karazhan Gatehouse Portcullis
 UPDATE locales_gameobject SET name_loc1='순간이동기 예비 부품' WHERE entry=184265; -- name: Spare Teleporter Parts
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=184285; -- name: Anvil
@@ -8969,10 +9601,12 @@ UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=184398; -- name: Br
 UPDATE locales_gameobject SET name_loc1='화로' WHERE entry=184399; -- name: Brazier
 UPDATE locales_gameobject SET name_loc1='장작불' WHERE entry=184400; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='불구덩이' WHERE entry=184401; -- name: Fire Pit
+UPDATE locales_gameobject SET name_loc1='큰 불길' WHERE entry=184416; -- name: Large Fire
 UPDATE locales_gameobject SET name_loc1='가마솥' WHERE entry=184442; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc1='장작불' WHERE entry=184448; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='진홍색 수정 조각' WHERE entry=184450; -- name: Crimson Crystal Shard
 UPDATE locales_gameobject SET name_loc1='대지의 결속자의 룬' WHERE entry=184454; -- name: Earthbinder\'s Rune
+UPDATE locales_gameobject SET name_loc1='두루마리' WHERE entry=184461; -- name: Scroll
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=184467; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=184470; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=184471; -- name: Bonfire
@@ -8991,14 +9625,20 @@ UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=184558; -- name: An
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=184559; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='에테리움 기억소자' WHERE entry=184560; -- name: Ethereum Data Cell
 UPDATE locales_gameobject SET name_loc1='자유연합 분열기' WHERE entry=184561; -- name: Protectorate Disruptor
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=184565; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc1='버려진 버섯' WHERE entry=184578; -- name: Discarded Nutriment
 UPDATE locales_gameobject SET name_loc1='측량 지점 표지' WHERE entry=184612; -- name: Surveying Marker Aura
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=184616; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=184617; -- name: Forge
+UPDATE locales_gameobject SET name_loc1='요리용 모닥불' WHERE entry=184618; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc1='장작불' WHERE entry=184644; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='장작불' WHERE entry=184645; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='장작불' WHERE entry=184646; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='장작불' WHERE entry=184647; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=184648; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=184649; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=184650; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=184651; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=184652; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='세다이의 오라' WHERE entry=184655; -- name: Sedai\'s Aura
 UPDATE locales_gameobject SET name_loc1='악의의 룬' WHERE entry=184656; -- name: Hellfire Quest - Rune of Spite Closed - 3.0
@@ -9018,6 +9658,7 @@ UPDATE locales_gameobject SET name_loc1='족쇄' WHERE entry=184714; -- name: Ba
 UPDATE locales_gameobject SET name_loc1='가마솥 연기' WHERE entry=184717; -- name: Cauldron Smoke
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=184724; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=184732; -- name: Chair
+UPDATE locales_gameobject SET name_loc1='등받이의자' WHERE entry=184733; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=184734; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='의자' WHERE entry=184735; -- name: Chair
 UPDATE locales_gameobject SET name_loc1='천둥군주 부족 서판' WHERE entry=184736; -- name: Thunderlord Clan Tablet
@@ -9035,12 +9676,14 @@ UPDATE locales_gameobject SET name_loc1='봉인된 석관' WHERE entry=184813; -
 UPDATE locales_gameobject SET name_loc1='봉인된 석관' WHERE entry=184814; -- name: Sealed Coffin
 UPDATE locales_gameobject SET name_loc1='봉인된 석관' WHERE entry=184815; -- name: Sealed Coffin
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=184816; -- name: Campfire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=184818; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=184836; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=184837; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=184838; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='토르고스의 파멸' WHERE entry=184843; -- name: Torgos\'s Bane
 UPDATE locales_gameobject SET name_loc1='트라첼라의 시체' WHERE entry=184844; -- name: Trachela\'s Carcass
 UPDATE locales_gameobject SET name_loc1='군단 요새 괴철로' WHERE entry=184846; -- name: Legion Hold Forge
+UPDATE locales_gameobject SET name_loc1='봉인된 고서' WHERE entry=184847; -- name: Sealed Tome
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=184852; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='요리 단지' WHERE entry=184853; -- name: Cookpot
 UPDATE locales_gameobject SET name_loc1='자루' WHERE entry=184858; -- name: Bag A
@@ -9237,6 +9880,7 @@ UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=185429; -- n
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=185430; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=185431; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc1='나무 의자' WHERE entry=185432; -- name: Wooden Chair
+UPDATE locales_gameobject SET name_loc1='만남의 돌' WHERE entry=185433; -- name: Meeting Stone
 UPDATE locales_gameobject SET name_loc1='앉아있는 해골' WHERE entry=185438; -- name: Sitting Skeleton 04
 UPDATE locales_gameobject SET name_loc1='우리' WHERE entry=185474; -- name: Cage
 UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=185477; -- name: Mailbox
@@ -9260,6 +9904,9 @@ UPDATE locales_gameobject SET name_loc1='까마귀석 조각' WHERE entry=185541
 UPDATE locales_gameobject SET name_loc1='거대한 칼리리 알' WHERE entry=185549; -- name: Monstrous Kaliri Egg
 UPDATE locales_gameobject SET name_loc1='불타는 마법진' WHERE entry=185555; -- name: Flame Circle
 UPDATE locales_gameobject SET name_loc1='Aura Trap Purple Tall' WHERE entry=185564; -- name: Aura Trap Purple Tall
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=185571; -- name: Fire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=185572; -- name: Fire
+UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=185573; -- name: Fire
 UPDATE locales_gameobject SET name_loc1='Aura Trap Blue Tall (scale 3.00)' WHERE entry=185578; -- name: Aura Trap Purple Tall
 UPDATE locales_gameobject SET name_loc1='Aura Trap Yellow Tall (scale 2.00)' WHERE entry=185579; -- name: Aura Trap Purple Tall
 UPDATE locales_gameobject SET name_loc1='월장석 제단' WHERE entry=185580; -- name: Moonstone Altar
@@ -9290,6 +9937,7 @@ UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=186023; -- name:
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=186035; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=186130; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=186131; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc1='화톳불' WHERE entry=186132; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=186137; -- name: Anvil
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=186138; -- name: Forge
 UPDATE locales_gameobject SET name_loc1='가열로' WHERE entry=186141; -- name: Forge
@@ -9372,6 +10020,7 @@ UPDATE locales_gameobject SET name_loc1='퍼지릭의 폭죽' WHERE entry=186750
 UPDATE locales_gameobject SET name_loc1='검은무쇠 방해 공작 계획서' WHERE entry=186881; -- name: Dark Iron Sabotage Plans
 UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=186896; -- name: Bench
 UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=186897; -- name: Bench
+UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=186898; -- name: Bench
 UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=186899; -- name: Bench
 UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=186900; -- name: Bench
 UPDATE locales_gameobject SET name_loc1='긴 의자' WHERE entry=186901; -- name: Bench
@@ -9386,6 +10035,7 @@ UPDATE locales_gameobject SET name_loc1='크리스마스 입식 장식' WHERE en
 UPDATE locales_gameobject SET name_loc1='중간 크기 입식 크리스마스 장식' WHERE entry=187235; -- name: HDressing, Christmas Standing Medium Exterior
 UPDATE locales_gameobject SET name_loc1='모닥불' WHERE entry=187252; -- name: Campfire
 UPDATE locales_gameobject SET name_loc1='돌돌 말린 양피지' WHERE entry=187254; -- name: Rolled Scroll
+UPDATE locales_gameobject SET name_loc1='우체통' WHERE entry=187260; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc1='발굽 자국' WHERE entry=187272; -- name: Generic Hoofprint
 UPDATE locales_gameobject SET name_loc1='수상한 발굽 자국' WHERE entry=187273; -- name: Suspicious Hoofprint
 UPDATE locales_gameobject SET name_loc1='선홍딸기 덤불' WHERE entry=187333; -- name: Bloodberry Bush
@@ -9415,5 +10065,16 @@ UPDATE locales_gameobject SET name_loc1='가마솥 연기' WHERE entry=190395; -
 UPDATE locales_gameobject SET name_loc1='잔 연기' WHERE entry=190396; -- name: Mug Smoke
 UPDATE locales_gameobject SET name_loc1='문서함' WHERE entry=190483; -- name: Document Chest
 UPDATE locales_gameobject SET name_loc1='문서함' WHERE entry=190484; -- name: Document Chest
+UPDATE locales_gameobject SET name_loc1='대포' WHERE entry=193011; -- name: Cannon
+UPDATE locales_gameobject SET name_loc1='고리쉬 실리시드 수정' WHERE entry=210338; -- name: Gorishi Silithid Crystal
+UPDATE locales_gameobject SET name_loc1='모루' WHERE entry=211016; -- name: Anvil
+UPDATE locales_gameobject SET name_loc1='소환 마법진' WHERE entry=211020; -- name: Summoning Circle
+UPDATE locales_gameobject SET name_loc1='깃발' WHERE entry=211029; -- name: Banner
+UPDATE locales_gameobject SET name_loc1='오라' WHERE entry=211033; -- name: Aura
+UPDATE locales_gameobject SET name_loc1='오라' WHERE entry=211034; -- name: Aura
+UPDATE locales_gameobject SET name_loc1='불의 토템' WHERE entry=211036; -- name: Fire Totem
+UPDATE locales_gameobject SET name_loc1='신비의 그루터기' WHERE entry=211051; -- name: Mysterious Tree Stump
+UPDATE locales_gameobject SET name_loc1='용암 균열' WHERE entry=211054; -- name: Lava Crack
+UPDATE locales_gameobject SET name_loc1='불의 토템' WHERE entry=211068; -- name: Fire Totem
 
 SET NAMES 'latin1';

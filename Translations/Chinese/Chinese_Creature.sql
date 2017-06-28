@@ -9055,6 +9055,7 @@ UPDATE locales_creature SET name_loc4='节日护火者：矮人' WHERE entry=169
 UPDATE locales_creature SET name_loc4='巫妖王的使者' WHERE entry=16995; -- name: Herald of the Lich King
 UPDATE locales_creature SET name_loc4='比格沃斯' WHERE entry=16998; -- name: Mr. Bigglesworth
 UPDATE locales_creature SET name_loc4='灰烬元素' WHERE entry=17003; -- name: Cinder Elemental
+UPDATE locales_creature SET name_loc4='萨菲隆的龙翼打击' WHERE entry=17025; -- name: Sapphiron\'s Wing Buffet
 UPDATE locales_creature SET name_loc4='暴风城食火者' WHERE entry=17038; -- name: Stormwind Firebreather
 UPDATE locales_creature SET name_loc4='奥格瑞玛食火者' WHERE entry=17041; -- name: Orgrimmar Fireeater
 UPDATE locales_creature SET name_loc4='铁炉堡食火者' WHERE entry=17048; -- name: Ironforge Firebreather

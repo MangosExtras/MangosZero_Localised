@@ -146,4 +146,17 @@ UPDATE locales_creature SET name_loc9='Chef Breanna' WHERE entry=343; -- name: C
 UPDATE locales_creature SET name_loc9='Magistrato Solomon' WHERE entry=344; -- name: Magistrate Solomon
 UPDATE locales_creature SET name_loc9='Bellygrub' WHERE entry=345; -- name: Bellygrub - Keep original name
 UPDATE locales_creature SET name_loc9='Barkeep Daniels' WHERE entry=346; -- name: Barkeep Daniels - Keep original name
+UPDATE locales_creature SET name_loc9='Lupo della Foresta' WHERE entry=358; -- name: Timber Wolf
+UPDATE locales_creature SET name_loc9='Stallone Nero' WHERE entry=5404; -- name: Black Stallion
+UPDATE locales_creature SET name_loc9='Pinto' WHERE entry=5405; -- name: Pinto
+UPDATE locales_creature SET name_loc9='Banco di Pesci' WHERE entry=6145; -- name: School of Fish
+UPDATE locales_creature SET name_loc9='Ragnaros' WHERE entry=11502; -- name: Ragnaros
+UPDATE locales_creature SET name_loc9='Teschio Umano' WHERE entry=12202; -- name: Human Skull
+UPDATE locales_creature SET name_loc9='Cavallo Marrone' WHERE entry=12376; -- name: Brown Horse
+UPDATE locales_creature SET name_loc9='Portale Demoniaco' WHERE entry=14081; -- name: Demon Portal
+UPDATE locales_creature SET name_loc9='Globo della Dominazione' WHERE entry=14453; -- name: Orb of Domination
+UPDATE locales_creature SET name_loc9='Risveglio di Merithra' WHERE entry=15427; -- name: Merithra\'s Wake
+UPDATE locales_creature SET name_loc9='Mucchio di Terra' WHERE entry=15712; -- name: Dirt Mound
+UPDATE locales_creature SET name_loc9='Necropoli' WHERE entry=16401; -- name: Necropolis
+UPDATE locales_creature SET name_loc9='Cristallo Necrotico Rotto' WHERE entry=16431; -- name: Cracked Necrotic Crystal
 SET NAMES 'latin1';

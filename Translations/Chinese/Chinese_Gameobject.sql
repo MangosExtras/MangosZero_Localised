@@ -6302,6 +6302,7 @@ UPDATE locales_gameobject SET name_loc4='火盆' WHERE entry=175428; -- name: Br
 UPDATE locales_gameobject SET name_loc4='火盆' WHERE entry=175429; -- name: Brazier
 UPDATE locales_gameobject SET name_loc4='火盆' WHERE entry=175430; -- name: Brazier
 UPDATE locales_gameobject SET name_loc4='火盆' WHERE entry=175431; -- name: Brazier
+UPDATE locales_gameobject SET name_loc4='杠杆' WHERE entry=175432; -- name: Lever
 UPDATE locales_gameobject SET name_loc4='节日小道' WHERE entry=175433; -- name: Festival Lane
 UPDATE locales_gameobject SET name_loc4='十字军广场' WHERE entry=175434; -- name: Crusaders\' Square
 UPDATE locales_gameobject SET name_loc4='国王广场' WHERE entry=175435; -- name: King\'s Square
@@ -7930,6 +7931,7 @@ UPDATE locales_gameobject SET name_loc4='黑暗战车之轮' WHERE entry=179672;
 UPDATE locales_gameobject SET name_loc4='末日蜡烛' WHERE entry=179673; -- name: Doomsday Candle
 UPDATE locales_gameobject SET name_loc4='达斯莫拉之铃' WHERE entry=179674; -- name: Bell of Dethmoora
 UPDATE locales_gameobject SET name_loc4='魔火' WHERE entry=179676; -- name: Fel Fire
+UPDATE locales_gameobject SET name_loc4='克罗苏斯的残骸' WHERE entry=179677; -- name: Kroshius\' Remains
 UPDATE locales_gameobject SET name_loc4='恐惧战马传送门' WHERE entry=179681; -- name: Dreadsteed Portal
 UPDATE locales_gameobject SET name_loc4='火盆' WHERE entry=179682; -- name: Brazier
 UPDATE locales_gameobject SET name_loc4='农民光源陷阱' WHERE entry=179693; -- name: Peasant Light Trap

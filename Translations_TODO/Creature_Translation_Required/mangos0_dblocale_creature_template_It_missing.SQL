@@ -8042,7 +8042,7 @@ UPDATE locales_creature SET name_loc9='Frankal Stonebridge' WHERE entry=15171; -
 UPDATE locales_creature SET name_loc9='Glibb',subname_loc9='Brann Bronzebeard\'s Pet Monkey' WHERE entry=15172; -- name: Glibb -- subname: Brann Bronzebeard\'s Pet Monkey
 UPDATE locales_creature SET name_loc9='Calandrath',subname_loc9='Innkeeper' WHERE entry=15174; -- name: Calandrath -- subname: Innkeeper
 UPDATE locales_creature SET name_loc9='Khur Hornstriker',subname_loc9='Reagents' WHERE entry=15175; -- name: Khur Hornstriker -- subname: Reagents
-UPDATE locales_creature SET name_loc9='Vargus',subname_loc9='Blacksmith' WHERE entry=15176; -- name: Vargus -- subname: Blacksmith
+UPDATE locales_creature SET name_loc9='Vargus',subname_loc9='blacksmith' WHERE entry=15176; -- name: Vargus -- subname: blacksmith
 UPDATE locales_creature SET name_loc9='Cloud Skydancer',subname_loc9='Hippogryph Master' WHERE entry=15177; -- name: Cloud Skydancer -- subname: Hippogryph Master
 UPDATE locales_creature SET name_loc9='Runk Windtamer',subname_loc9='Wind Rider Master' WHERE entry=15178; -- name: Runk Windtamer -- subname: Wind Rider Master
 UPDATE locales_creature SET name_loc9='Mishta',subname_loc9='Trade Supplies' WHERE entry=15179; -- name: Mishta -- subname: Trade Supplies

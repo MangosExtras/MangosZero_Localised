@@ -2446,6 +2446,7 @@ UPDATE locales_creature SET name_loc1='모건 래디모어' WHERE entry=3301; --
 UPDATE locales_creature SET name_loc1='장로 보르날' WHERE entry=3304; -- name: Master Vornal
 UPDATE locales_creature SET name_loc1='그리샤',subname_loc1='와이번 조련사' WHERE entry=3305; -- name: Grisha -- subname: Wind Rider Master
 UPDATE locales_creature SET name_loc1='켈다스',subname_loc1='야수 조련사' WHERE entry=3306; -- name: Keldas -- subname: Pet Trainer
+UPDATE locales_creature SET name_loc1='카루스',subname_loc1='은행원' WHERE entry=3309; -- name: Karus -- subname: Banker
 UPDATE locales_creature SET name_loc1='도라스',subname_loc1='와이번 조련사' WHERE entry=3310; -- name: Doras -- subname: Wind Rider Master
 UPDATE locales_creature SET name_loc1='올비아',subname_loc1='고기 상인' WHERE entry=3312; -- name: Olvia -- subname: Meat Vendor
 UPDATE locales_creature SET name_loc1='트락겐',subname_loc1='일용품 상인' WHERE entry=3313; -- name: Trak\'gen -- subname: General Goods
@@ -2453,7 +2454,9 @@ UPDATE locales_creature SET name_loc1='울타로',subname_loc1='무기 상인' W
 UPDATE locales_creature SET name_loc1='토르판',subname_loc1='천 및 가죽 방어구 상인' WHERE entry=3315; -- name: Tor\'phan -- subname: Cloth & Leather Armor Merchant
 UPDATE locales_creature SET name_loc1='한도르',subname_loc1='천 및 가죽 방어구 상인' WHERE entry=3316; -- name: Handor -- subname: Cloth & Leather Armor Merchant
 UPDATE locales_creature SET name_loc1='올라누스',subname_loc1='천 방어구 상인' WHERE entry=3317; -- name: Ollanus -- subname: Light Armor Merchant
+UPDATE locales_creature SET name_loc1='코마',subname_loc1='은행원' WHERE entry=3318; -- name: Koma -- subname: Banker
 UPDATE locales_creature SET name_loc1='사나',subname_loc1='사슬 방어구 상인' WHERE entry=3319; -- name: Sana -- subname: Mail Armor Merchant
+UPDATE locales_creature SET name_loc1='소란',subname_loc1='은행원' WHERE entry=3320; -- name: Soran -- subname: Banker
 UPDATE locales_creature SET name_loc1='모르굼',subname_loc1='가죽 방어구 상인' WHERE entry=3321; -- name: Morgum -- subname: Leather Armor Merchant
 UPDATE locales_creature SET name_loc1='카자',subname_loc1='활 및 총기류 상인' WHERE entry=3322; -- name: Kaja -- subname: Guns & Ammunition
 UPDATE locales_creature SET name_loc1='호르투스',subname_loc1='마법 재료 상인' WHERE entry=3323; -- name: Horthus -- subname: Reagents
@@ -5611,6 +5614,7 @@ UPDATE locales_creature SET name_loc1='경매인 톨론' WHERE entry=8669; -- na
 UPDATE locales_creature SET name_loc1='경매인 칠톤' WHERE entry=8670; -- name: Auctioneer Chilton
 UPDATE locales_creature SET name_loc1='경매인 버클러' WHERE entry=8671; -- name: Auctioneer Buckler
 UPDATE locales_creature SET name_loc1='경매인 리카' WHERE entry=8672; -- name: Auctioneer Leeka
+UPDATE locales_creature SET name_loc1='경매인 타퉁' WHERE entry=8673; -- name: Auctioneer Thathung
 UPDATE locales_creature SET name_loc1='경매인 샴피' WHERE entry=8674; -- name: Auctioneer Stampi
 UPDATE locales_creature SET name_loc1='지옥야수' WHERE entry=8675; -- name: Felbeast
 UPDATE locales_creature SET name_loc1='주비 가젯스프링',subname_loc1='기술용품 상인' WHERE entry=8678; -- name: Jubie Gadgetspring -- subname: Engineering Supplies
@@ -8541,6 +8545,7 @@ UPDATE locales_creature SET name_loc1='정예근위병 매클루어',subname_loc
 UPDATE locales_creature SET name_loc1='정예근위병 문섀도',subname_loc1='전쟁 지원 징집관' WHERE entry=15709; -- name: Master Sergeant Moonshadow -- subname: War Effort Recruiter
 UPDATE locales_creature SET name_loc1='꼬마 눈사람' WHERE entry=15710; -- name: Tiny Snowman
 UPDATE locales_creature SET name_loc1='흙더미' WHERE entry=15712; -- name: Dirt Mound
+UPDATE locales_creature SET name_loc1='푸른 퀴라지 전차' WHERE entry=15713; -- name: Blue Qiraji Battle Tank
 UPDATE locales_creature SET name_loc1='노란 퀴라지 전차' WHERE entry=15714; -- name: Yellow Qiraji Battle Tank
 UPDATE locales_creature SET name_loc1='녹색 퀴라지 전차' WHERE entry=15715; -- name: Green Qiraji Battle Tank
 UPDATE locales_creature SET name_loc1='붉은 퀴라지 전차' WHERE entry=15716; -- name: Red Qiraji Battle Tank
@@ -9044,6 +9049,7 @@ UPDATE locales_creature SET name_loc1='한여름 축제 드워프 불꽃지기' 
 UPDATE locales_creature SET name_loc1='리치 왕의 전령' WHERE entry=16995; -- name: Herald of the Lich King
 UPDATE locales_creature SET name_loc1='비글스워스 씨' WHERE entry=16998; -- name: Mr. Bigglesworth
 UPDATE locales_creature SET name_loc1='불꽃 정령' WHERE entry=17003; -- name: Cinder Elemental
+UPDATE locales_creature SET name_loc1='사피론의 폭풍 날개' WHERE entry=17025; -- name: Sapphiron\'s Wing Buffet
 UPDATE locales_creature SET name_loc1='스톰윈드 불꽃마술사' WHERE entry=17038; -- name: Stormwind Firebreather
 UPDATE locales_creature SET name_loc1='오그리마 불꽃마술사' WHERE entry=17041; -- name: Orgrimmar Fireeater
 UPDATE locales_creature SET name_loc1='아이언포지 불꽃마술사' WHERE entry=17048; -- name: Ironforge Firebreather

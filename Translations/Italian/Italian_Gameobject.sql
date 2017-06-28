@@ -1071,6 +1071,8 @@ UPDATE locales_gameobject SET name_loc9='Pietra del Potere Imperfetta' WHERE ent
 UPDATE locales_gameobject SET name_loc9='Pietre del Potere Imperfette' WHERE entry=5620; -- name: Flawed Power Stones
 UPDATE locales_gameobject SET name_loc9='Pietre del Potere Imperfette' WHERE entry=5621; -- name: Flawed Power Stones
 UPDATE locales_gameobject SET name_loc9='Aura viola, colonna bassa, grandezza 0.6' WHERE entry=5622; -- name: Purple aura, short column, 0.6 scale
+UPDATE locales_gameobject SET name_loc9='Fire Pit' WHERE entry=6286; -- name: Fire Pit
+UPDATE locales_gameobject SET name_loc9='Fire Pit' WHERE entry=6287; -- name: Fire Pit
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=6288; -- name: Campfire
 UPDATE locales_gameobject SET name_loc9='Fiammata Fumante' WHERE entry=6289; -- name: Smoldering Blaze
 UPDATE locales_gameobject SET name_loc9='Fiammata Fumante' WHERE entry=6290; -- name: Smoldering Blaze
@@ -3041,6 +3043,7 @@ UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=55535; -- n
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=55615; -- name: Campfire
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=55616; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Armi Ragetotem' WHERE entry=55774; -- name: Ragetotem Arms
+UPDATE locales_gameobject SET name_loc9='Fire Pit' WHERE entry=56810; -- name: Fire Pit
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=56818; -- name: Campfire
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=56819; -- name: Campfire
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=56820; -- name: Campfire
@@ -3839,6 +3842,13 @@ UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=126312; -- name: Bon
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=126313; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=126314; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=126335; -- name: Bonfire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=126337; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=126338; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=126339; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=126340; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=126341; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=126342; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=126345; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc9='Mazzi di Cappucci Magenta Trappola' WHERE entry=128196; -- name: Magenta Cap Clusters Trap
 UPDATE locales_gameobject SET name_loc9='Mazzi di Cappucci Magenta' WHERE entry=128293; -- name: Magenta Cap Clusters
 UPDATE locales_gameobject SET name_loc9='Tomba Poco Profonda' WHERE entry=128308; -- name: Shallow Grave
@@ -6274,6 +6284,7 @@ UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=175428; -- name: 
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=175429; -- name: Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=175430; -- name: Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=175431; -- name: Brazier
+UPDATE locales_gameobject SET name_loc9='Leva' WHERE entry=175432; -- name: Lever
 UPDATE locales_gameobject SET name_loc9='Corso della Festa' WHERE entry=175433; -- name: Festival Lane
 UPDATE locales_gameobject SET name_loc9='Piazza dei Crociati' WHERE entry=175434; -- name: Crusaders\' Square
 UPDATE locales_gameobject SET name_loc9='Piazza del Re' WHERE entry=175435; -- name: King\'s Square
@@ -6778,6 +6789,7 @@ UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=176318; -- name: Bon
 UPDATE locales_gameobject SET name_loc9='Cassetta Postale' WHERE entry=176319; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc9='Cassetta Postale' WHERE entry=176324; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc9='Progetti del Fabbro' WHERE entry=176325; -- name: Blacksmithing Plans
+UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=176326; -- name: Brazier
 UPDATE locales_gameobject SET name_loc9='Progetti del Fabbro' WHERE entry=176327; -- name: Blacksmithing Plans
 UPDATE locales_gameobject SET name_loc9='Forziere dei Documenti' WHERE entry=176344; -- name: Document Chest
 UPDATE locales_gameobject SET name_loc9='Cassetta della Posta della Strada del Mercato' WHERE entry=176346; -- name: Market Row Postbox
@@ -9443,6 +9455,12 @@ UPDATE locales_gameobject SET name_loc9='Griglia di Carne Affumicata' WHERE entr
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=183467; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=183483; -- name: Anvil
 UPDATE locales_gameobject SET name_loc9='Forgia' WHERE entry=183484; -- name: Forge
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=183497; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=183498; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=183499; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=183500; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=183501; -- name: Cooking Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=183502; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc9='Aura' WHERE entry=183516; -- name: Aura
 UPDATE locales_gameobject SET name_loc9='Leva' WHERE entry=183517; -- name: Lever
 UPDATE locales_gameobject SET name_loc9='Leva' WHERE entry=183518; -- name: Lever
@@ -9762,6 +9780,20 @@ UPDATE locales_gameobject SET name_loc9='Torre Umana Catturata Pt' WHERE entry=1
 UPDATE locales_gameobject SET name_loc9='Torre Draenei Catturata Pt' WHERE entry=184083; -- name: Draenei Tower Cap Pt
 UPDATE locales_gameobject SET name_loc9='Cassetta Postale' WHERE entry=184085; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc9='Aura Comunicatore Legione' WHERE entry=184092; -- name: Legion Communicator Aura
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184093; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184094; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184095; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184096; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184097; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184098; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184099; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184100; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184101; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184102; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184103; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184104; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184105; -- name: Large Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=184114; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc9='Scrying Aura' WHERE entry=184119; -- name: Scrying Aura
 UPDATE locales_gameobject SET name_loc9='Compendio di Krasus - Capitolo 1' WHERE entry=184121; -- name: Krasus\'s Compendium - Chapter 1
 UPDATE locales_gameobject SET name_loc9='Compendio di Krasus - Capitolo 3' WHERE entry=184123; -- name: Krasus\'s Compendium - Chapter 3
@@ -9824,10 +9856,12 @@ UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=184398; -- name: 
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=184399; -- name: Brazier
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=184400; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Fire Pit' WHERE entry=184401; -- name: Fire Pit
+UPDATE locales_gameobject SET name_loc9='Grande Fuoco' WHERE entry=184416; -- name: Large Fire
 UPDATE locales_gameobject SET name_loc9='Calderone' WHERE entry=184442; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=184448; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Frammento di Cristallo Cremisi' WHERE entry=184450; -- name: Crimson Crystal Shard
 UPDATE locales_gameobject SET name_loc9='Runa dell\'Earthbinder' WHERE entry=184454; -- name: Earthbinder\'s Rune
+UPDATE locales_gameobject SET name_loc9='Pergamena' WHERE entry=184461; -- name: Scroll
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=184467; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=184470; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=184471; -- name: Bonfire
@@ -9846,6 +9880,7 @@ UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=184558; -- name: 
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=184559; -- name: Anvil
 UPDATE locales_gameobject SET name_loc9='Cella Dati Eterei' WHERE entry=184560; -- name: Ethereum Data Cell
 UPDATE locales_gameobject SET name_loc9='Perturbatore Protettorato' WHERE entry=184561; -- name: Protectorate Disruptor
+UPDATE locales_gameobject SET name_loc9='Fuoco di Cottura' WHERE entry=184565; -- name: Cooking Fire
 UPDATE locales_gameobject SET name_loc9='Nutrimenti Scartati' WHERE entry=184578; -- name: Discarded Nutriment
 UPDATE locales_gameobject SET name_loc9='Aura Marcatore di Analisi' WHERE entry=184612; -- name: Surveying Marker Aura
 UPDATE locales_gameobject SET name_loc9='Incudine' WHERE entry=184616; -- name: Anvil
@@ -10124,6 +10159,9 @@ UPDATE locales_gameobject SET name_loc9='Frammento Pietra del Falco' WHERE entry
 UPDATE locales_gameobject SET name_loc9='Uovo di Kaliri Mostruoso' WHERE entry=185549; -- name: Monstrous Kaliri Egg
 UPDATE locales_gameobject SET name_loc9='Circolo delle Fiamme' WHERE entry=185555; -- name: Flame Circle
 UPDATE locales_gameobject SET name_loc9='Aura Trappola Viola Alta' WHERE entry=185564; -- name: Aura Trap Purple Tall
+UPDATE locales_gameobject SET name_loc9='Fuoco' WHERE entry=185571; -- name: Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco' WHERE entry=185572; -- name: Fire
+UPDATE locales_gameobject SET name_loc9='Fuoco' WHERE entry=185573; -- name: Fire
 UPDATE locales_gameobject SET name_loc9='Aura Trappola Viola Alta' WHERE entry=185578; -- name: Aura Trap Purple Tall
 UPDATE locales_gameobject SET name_loc9='Aura Trappola Viola Alta' WHERE entry=185579; -- name: Aura Trap Purple Tall
 UPDATE locales_gameobject SET name_loc9='Altare Moonstone' WHERE entry=185580; -- name: Moonstone Altar

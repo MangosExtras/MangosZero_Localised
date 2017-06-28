@@ -9055,6 +9055,7 @@ UPDATE locales_creature SET name_loc2='Costume de gardien des flammes : nain' W
 UPDATE locales_creature SET name_loc2='Héraut du roi-liche' WHERE entry=16995; -- name: Herald of the Lich King
 UPDATE locales_creature SET name_loc2='M. Bigglesworth' WHERE entry=16998; -- name: Mr. Bigglesworth
 UPDATE locales_creature SET name_loc2='Elémentaire de braise' WHERE entry=17003; -- name: Cinder Elemental
+UPDATE locales_creature SET name_loc2='Coup d\'aile de Saphiron' WHERE entry=17025; -- name: Sapphiron\'s Wing Buffet
 UPDATE locales_creature SET name_loc2='Cracheur de feu de Hurlevent' WHERE entry=17038; -- name: Stormwind Firebreather
 UPDATE locales_creature SET name_loc2='Avaleur de feu d\'Orgrimmar' WHERE entry=17041; -- name: Orgrimmar Fireeater
 UPDATE locales_creature SET name_loc2='Cracheur de feu de Forgefer' WHERE entry=17048; -- name: Ironforge Firebreather

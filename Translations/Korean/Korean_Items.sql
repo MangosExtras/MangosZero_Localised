@@ -306,6 +306,7 @@ UPDATE locales_item SET name_loc1='약탈의 도끼' WHERE entry=1220; -- name: 
 UPDATE locales_item SET name_loc1='얇은 새끼용 비늘' WHERE entry=1221; -- name: Underbelly Whelp Scale
 UPDATE locales_item SET name_loc1='리넨 붕대' WHERE entry=1251; -- name: Linen Bandage
 UPDATE locales_item SET name_loc1='스톤필드 할머니의 쪽지' WHERE entry=1252; -- name: Gramma Stonefield\'s Note
+UPDATE locales_item SET name_loc1='화염석' WHERE entry=1254; -- name: Lesser Firestone
 UPDATE locales_item SET name_loc1='투명한 해초 잎' WHERE entry=1256; -- name: Crystal Kelp Frond
 UPDATE locales_item SET name_loc1='투명주' WHERE entry=1257; -- name: Invisibility Liquor
 UPDATE locales_item SET name_loc1='타릴준의 머리카락' WHERE entry=1260; -- name: Tharil\'zun\'s Head
@@ -1438,6 +1439,7 @@ UPDATE locales_item SET name_loc1='강화된 활' WHERE entry=3026; -- name: Rei
 UPDATE locales_item SET name_loc1='강화 곡궁' WHERE entry=3027; -- name: Heavy Recurve Bow
 UPDATE locales_item SET name_loc1='날카로운 화살' WHERE entry=3030; -- name: Razor Arrow
 UPDATE locales_item SET name_loc1='합금 탄환' WHERE entry=3033; -- name: Solid Shot
+UPDATE locales_item SET name_loc1='문양장식 가슴보호갑' WHERE entry=3034; -- name: Glyphed Breastplate
 UPDATE locales_item SET name_loc1='줄무늬 호박' WHERE entry=3035; -- name: Laced Pumpkin
 UPDATE locales_item SET name_loc1='강화 단궁' WHERE entry=3036; -- name: Heavy Shortbow
 UPDATE locales_item SET name_loc1='채찍나무 곡궁' WHERE entry=3037; -- name: Whipwood Recurve Bow
@@ -3124,6 +3126,7 @@ UPDATE locales_item SET name_loc1='정화된 나무괴물 심장' WHERE entry=52
 UPDATE locales_item SET name_loc1='글씨가 새겨진 나무껍질' WHERE entry=5219; -- name: Inscribed Bark
 UPDATE locales_item SET name_loc1='나무옹이 송곳니' WHERE entry=5220; -- name: Gnarlpine Fang
 UPDATE locales_item SET name_loc1='멜레나스의 머리띠' WHERE entry=5221; -- name: Melenas\' Head
+UPDATE locales_item SET name_loc1='손바느질한 가죽 팔보호구' WHERE entry=5229; -- name: Handstitched Leather Bracers
 UPDATE locales_item SET name_loc1='영혼석' WHERE entry=5232; -- name: Minor Soulstone
 UPDATE locales_item SET name_loc1='렐루의 돌' WHERE entry=5233; -- name: Stone of Relu
 UPDATE locales_item SET name_loc1='플라곤구트의 화석' WHERE entry=5234; -- name: Flagongut\'s Fossil
@@ -3239,6 +3242,7 @@ UPDATE locales_item SET name_loc1='엉겅퀴나무 단검' WHERE entry=5392; -- 
 UPDATE locales_item SET name_loc1='엉겅퀴나무 지팡이' WHERE entry=5393; -- name: Thistlewood Staff
 UPDATE locales_item SET name_loc1='궁술 훈련용 장갑' WHERE entry=5394; -- name: Archery Training Gloves
 UPDATE locales_item SET name_loc1='삼림지 방패' WHERE entry=5395; -- name: Woodland Shield
+UPDATE locales_item SET name_loc1='데피아즈단 화약' WHERE entry=5397; -- name: Defias Gunpowder
 UPDATE locales_item SET name_loc1='무늬가죽 다리보호구' WHERE entry=5398; -- name: Canopy Leggings
 UPDATE locales_item SET name_loc1='추적용 장화' WHERE entry=5399; -- name: Tracking Boots
 UPDATE locales_item SET name_loc1='불뱀 어깨보호구' WHERE entry=5404; -- name: Serpent\'s Shoulders
@@ -3335,6 +3339,7 @@ UPDATE locales_item SET name_loc1='트레샤돈 송곳니' WHERE entry=5516; -- 
 UPDATE locales_item SET name_loc1='철제 머리장식',description_loc1='다르톨의 마법봉 끝에 붙어 있는 조각입니다.' WHERE entry=5519; -- name: Iron Pommel -- description: The final piece of Dartol\'s Rod.
 UPDATE locales_item SET name_loc1='벨린데의 일지' WHERE entry=5520; -- name: Velinde\'s Journal
 UPDATE locales_item SET name_loc1='벨린데의 열쇠' WHERE entry=5521; -- name: Velinde\'s Key
+UPDATE locales_item SET name_loc1='주문석' WHERE entry=5522; -- name: Spellstone
 UPDATE locales_item SET name_loc1='작은 조개' WHERE entry=5523; -- name: Small Barnacled Clam
 UPDATE locales_item SET name_loc1='큰 조개' WHERE entry=5524; -- name: Thick-shelled Clam
 UPDATE locales_item SET name_loc1='삶은 조개' WHERE entry=5525; -- name: Boiled Clams
@@ -6583,6 +6588,7 @@ UPDATE locales_item SET name_loc1='주문식: 망토 마법부여 - 최하급 �
 UPDATE locales_item SET name_loc1='여명초' WHERE entry=11040; -- name: Morrowgrain
 UPDATE locales_item SET name_loc1='샤니의 코걸이' WHERE entry=11058; -- name: Sha\'ni\'s Nose-Ring
 UPDATE locales_item SET name_loc1='유물 금고 열쇠' WHERE entry=11078; -- name: Relic Coffer Key
+UPDATE locales_item SET name_loc1='고르테쉬의 가면' WHERE entry=11079; -- name: Gor\'tesh\'s Lopped Off Head -- description: Gor\'tesh\'s severed head, propped up on a pike.
 UPDATE locales_item SET name_loc1='고르테쉬의 가면',description_loc1='축축하고 끈적거리고 심한 악취가 납니다.' WHERE entry=11080; -- name: Gor\'tesh\'s Lopped Off Head -- description: Squishy, Smelly, Slimy
 UPDATE locales_item SET name_loc1='주문식: 방패 마법부여 - 하급 보호',description_loc1='방패에 영구적으로 마법을 부여해 착용자의 방어도를 추가로 30만큼 증가시키는 방법을 배웁니다.' WHERE entry=11081; -- name: Formula: Enchant Shield - Lesser Protection -- description: Teaches you how to permanently enchant a shield with +30 armor.
 UPDATE locales_item SET name_loc1='상급 별의 정수' WHERE entry=11082; -- name: Greater Astral Essence
@@ -7275,6 +7281,7 @@ UPDATE locales_item SET name_loc1='알렉시의 계략' WHERE entry=12368; -- na
 UPDATE locales_item SET name_loc1='도시로 통하는 열쇠',description_loc1='스트라솔름 도시로 통하는 열쇠입니다.' WHERE entry=12382; -- name: Key to the City -- description: Master Key to the City of Stratholme
 UPDATE locales_item SET name_loc1='달빛 깃든 깃털' WHERE entry=12383; -- name: Moontouched Feather
 UPDATE locales_item SET name_loc1='마우아리의 부적' WHERE entry=12384; -- name: Cache of Mau\'ari
+UPDATE locales_item SET name_loc1='재판관의 망치' WHERE entry=12400; -- name: The Judge\'s Gavel
 UPDATE locales_item SET name_loc1='고대의 알' WHERE entry=12402; -- name: Ancient Egg
 UPDATE locales_item SET name_loc1='강도 높은 숫돌' WHERE entry=12404; -- name: Dense Sharpening Stone
 UPDATE locales_item SET name_loc1='토륨 갑옷' WHERE entry=12405; -- name: Thorium Armor
@@ -8033,8 +8040,13 @@ UPDATE locales_item SET name_loc1='저글링 목줄',description_loc1='애완동
 UPDATE locales_item SET name_loc1='판다 목걸이',description_loc1='애완동물 친구를 소환하는 법을 배웁니다.' WHERE entry=13583; -- name: Panda Collar -- description: Teaches you how to summon this companion.
 UPDATE locales_item SET name_loc1='디아블로 소환석',description_loc1='애완동물 친구를 소환하는 법을 배웁니다.' WHERE entry=13584; -- name: Diablo Stone -- description: Teaches you how to summon this companion.
 UPDATE locales_item SET name_loc1='추억의 유품',description_loc1='모든 페이지가 찢겨 나갔습니다.' WHERE entry=13585; -- name: Keepsake of Remembrance -- description: All of the pages are torn out.
+UPDATE locales_item SET name_loc1='상급 주문석' WHERE entry=13602; -- name: Greater Spellstone
+UPDATE locales_item SET name_loc1='일급 주문석' WHERE entry=13603; -- name: Major Spellstone
 UPDATE locales_item SET name_loc1='영혼이 씐 유품' WHERE entry=13624; -- name: Soulbound Keepsake
 UPDATE locales_item SET name_loc1='사람이 된 라스 프로스트위스퍼의 머리카락' WHERE entry=13626; -- name: Human Head of Ras Frostwhisper
+UPDATE locales_item SET name_loc1='화염석' WHERE entry=13699; -- name: Firestone
+UPDATE locales_item SET name_loc1='상급 화염석' WHERE entry=13700; -- name: Greater Firestone
+UPDATE locales_item SET name_loc1='일급 화염석' WHERE entry=13701; -- name: Major Firestone
 UPDATE locales_item SET name_loc1='죽음풀',description_loc1='어둠풀, 주검풀, 득음풀과 헷갈리지 말 것. 죽음 씨앗도 혼동하기 쉬우니 조심할 것.' WHERE entry=13702; -- name: Doom Weed -- description: Not to be confused with gloom weed, womb weed, or broom weed.  Or doom seed.
 UPDATE locales_item SET name_loc1='코도 뼈' WHERE entry=13703; -- name: Kodo Bone
 UPDATE locales_item SET name_loc1='맛좋은 만나빵' WHERE entry=13724; -- name: Enriched Manna Biscuit
@@ -9865,6 +9877,7 @@ UPDATE locales_item SET name_loc1='설계도: 전문 기계공학자의 고글',
 UPDATE locales_item SET name_loc1='설계도: 아케이나이트 기계용',description_loc1='아케이나이트 기계용 만드는 법을 배웁니다.' WHERE entry=16054; -- name: Schematic: Arcanite Dragonling -- description: Teaches you how to make an Arcanite Dragonling.
 UPDATE locales_item SET name_loc1='설계도: 신비의 폭탄',description_loc1='신비의 폭탄 만드는 법을 배웁니다.' WHERE entry=16055; -- name: Schematic: Arcane Bomb -- description: Teaches you how to make an Arcane Bomb.
 UPDATE locales_item SET name_loc1='설계도: 정교한 아케이나이트 소총',description_loc1='정교한 아케이나이트 소총 만드는 법을 배웁니다.' WHERE entry=16056; -- name: Schematic: Flawless Arcanite Rifle -- description: Teaches you how to make a Flawless Arcanite Rifle.
+UPDATE locales_item SET name_loc1='탐험가의 배낭' WHERE entry=16057; -- name: Explorer\'s Knapsack
 UPDATE locales_item SET name_loc1='폴드링의 인장' WHERE entry=16058; -- name: Fordring\'s Seal
 UPDATE locales_item SET name_loc1='평범한 갈색 셔츠' WHERE entry=16059; -- name: Common Brown Shirt
 UPDATE locales_item SET name_loc1='평범한 흰색 셔츠' WHERE entry=16060; -- name: Common White Shirt
@@ -10627,6 +10640,8 @@ UPDATE locales_item SET name_loc1='일급 마나 비약' WHERE entry=17351; -- n
 UPDATE locales_item SET name_loc1='최상급 마나 비약' WHERE entry=17352; -- name: Superior Mana Draught
 UPDATE locales_item SET name_loc1='스톰파이크 공격명령서' WHERE entry=17353; -- name: Stormpike Assault Orders
 UPDATE locales_item SET name_loc1='라빈의 편지' WHERE entry=17355; -- name: Rabine\'s Letter
+UPDATE locales_item SET name_loc1='라이슨의 봉화' WHERE entry=17362; -- name: Ryson\'s Beacon
+UPDATE locales_item SET name_loc1='라이슨의 봉화' WHERE entry=17363; -- name: Ryson\'s Beacon
 UPDATE locales_item SET name_loc1='관측용 망원경' WHERE entry=17364; -- name: Scrying Scope
 UPDATE locales_item SET name_loc1='겨울 할아버지 꽁꽁주' WHERE entry=17402; -- name: Greatfather\'s Winter Ale
 UPDATE locales_item SET name_loc1='스팀휘들 탄산주' WHERE entry=17403; -- name: Steamwheedle Fizzy Spirits
@@ -10644,6 +10659,8 @@ UPDATE locales_item SET name_loc1='서리늑대 공격명령서',description_loc
 UPDATE locales_item SET name_loc1='서리늑대 병사의 견장' WHERE entry=17502; -- name: Frostwolf Soldier\'s Medal
 UPDATE locales_item SET name_loc1='서리늑대 부관의 견장' WHERE entry=17503; -- name: Frostwolf Lieutenant\'s Medal
 UPDATE locales_item SET name_loc1='서리늑대 지휘관의 견장' WHERE entry=17504; -- name: Frostwolf Commander\'s Medal
+UPDATE locales_item SET name_loc1='이크만의 봉화' WHERE entry=17505; -- name: Ichman\'s Beacon
+UPDATE locales_item SET name_loc1='비포르의 봉화' WHERE entry=17506; -- name: Vipore\'s Beacon
 UPDATE locales_item SET name_loc1='실도르의 봉화' WHERE entry=17507; -- name: Slidore\'s Beacon
 UPDATE locales_item SET name_loc1='마력석 버클러' WHERE entry=17508; -- name: Forcestone Buckler
 UPDATE locales_item SET name_loc1='깊은무쇠 광산 보급품' WHERE entry=17522; -- name: Irondeep Supplies
@@ -10817,6 +10834,9 @@ UPDATE locales_item SET name_loc1='오닉시아 가죽 배낭' WHERE entry=17966
 UPDATE locales_item SET name_loc1='충전된 오닉시아 비늘' WHERE entry=17968; -- name: Charged Scale of Onyxia
 UPDATE locales_item SET name_loc1='붉은색 보석 꾸러미' WHERE entry=17969; -- name: Red Sack of Gems
 UPDATE locales_item SET name_loc1='라그나로스 핵' WHERE entry=17982; -- name: Ragnaros Core
+UPDATE locales_item SET name_loc1='질긴 육포' WHERE entry=18000; -- name: Tough Jerky
+UPDATE locales_item SET name_loc1='질긴 빵' WHERE entry=18001; -- name: Tough Hunk of Bread
+UPDATE locales_item SET name_loc1='맑은 샘물' WHERE entry=18005; -- name: Refreshing Spring Water
 UPDATE locales_item SET name_loc1='알렉시스의 결혼반지' WHERE entry=18022; -- name: Royal Seal of Alexis
 UPDATE locales_item SET name_loc1='토륨 화살' WHERE entry=18042; -- name: Thorium Headed Arrow
 UPDATE locales_item SET name_loc1='석탄광 장화' WHERE entry=18043; -- name: Coal Miner Boots
@@ -11155,6 +11175,8 @@ UPDATE locales_item SET name_loc1='극한의 얼음 요대' WHERE entry=18547; -
 UPDATE locales_item SET name_loc1='엘레멘티움 덩어리' WHERE entry=18562; -- name: Elementium Ore
 UPDATE locales_item SET name_loc1='바람추적자의 족쇄',description_loc1='썬더란의 영원한 감옥의 왼쪽 조각' WHERE entry=18563; -- name: Bindings of the Windseeker -- description: The Left Half of Thunderaan\'s Eternal Prison
 UPDATE locales_item SET name_loc1='바람추적자의 족쇄',description_loc1='썬더란의 영원한 감옥의 오른쪽 조각' WHERE entry=18564; -- name: Bindings of the Windseeker -- description: The Right Half of Thunderaan\'s Eternal Prison
+UPDATE locales_item SET name_loc1='환생의 관' WHERE entry=18565; -- name: Vessel of Rebirth
+UPDATE locales_item SET name_loc1='불의 군주의 정수' WHERE entry=18566; -- name: Essence of the Firelord
 UPDATE locales_item SET name_loc1='원소 융해촉진제' WHERE entry=18567; -- name: Elemental Flux
 UPDATE locales_item SET name_loc1='아지노스의 쌍날검' WHERE entry=18582; -- name: The Twin Blades of Azzinoth
 UPDATE locales_item SET name_loc1='아지노스의 전투검 (오른손)' WHERE entry=18583; -- name: Warglaive of Azzinoth (Right)
@@ -11993,6 +12015,7 @@ UPDATE locales_item SET name_loc1='고대 학카리 아이기스',description_lo
 UPDATE locales_item SET name_loc1='아라시 보급품 상자',description_loc1='아라시 분지 전투의 전리품' WHERE entry=19725; -- name: Arathi Resource Crate -- description: Proof of victory in Arathi Basin
 UPDATE locales_item SET name_loc1='붉은덩굴' WHERE entry=19726; -- name: Bloodvine
 UPDATE locales_item SET name_loc1='붉은 낫',description_loc1='약초채집 기술을 익힌 플레이어가 줄구룹에서 붉은덩굴을 채취하는 데 사용합니다.' WHERE entry=19727; -- name: Blood Scythe -- description: Allows an Herbalist to collect Bloodvine from Zul\'Gurub Flora when carried.
+UPDATE locales_item SET name_loc1='대군주의 아량' WHERE entry=19760; -- name: Overlord\'s Embrace
 UPDATE locales_item SET name_loc1='도안: 붉은덩굴 조끼',description_loc1='붉은덩굴 조끼 만드는 법을 배웁니다.' WHERE entry=19764; -- name: Pattern: Bloodvine Vest -- description: Teaches you how to sew a Bloodvine Vest.
 UPDATE locales_item SET name_loc1='도안: 붉은덩굴 다리보호구',description_loc1='붉은덩굴 다리보호구 만드는 법을 배웁니다.' WHERE entry=19765; -- name: Pattern: Bloodvine Leggings -- description: Teaches you how to sew Bloodvine Leggings.
 UPDATE locales_item SET name_loc1='도안: 붉은덩굴 장화',description_loc1='붉은덩굴 장화 만드는 법을 배웁니다.' WHERE entry=19766; -- name: Pattern: Bloodvine Boots -- description: Teaches you how to sew Bloodvine Boots.

@@ -306,6 +306,7 @@ UPDATE locales_item SET name_loc3='Werwolfaxt' WHERE entry=1220; -- name: Lupine
 UPDATE locales_item SET name_loc3='Welpenbauchschuppe' WHERE entry=1221; -- name: Underbelly Whelp Scale
 UPDATE locales_item SET name_loc3='Leinenverband' WHERE entry=1251; -- name: Linen Bandage
 UPDATE locales_item SET name_loc3='Oma Steinfelds Nachricht' WHERE entry=1252; -- name: Gramma Stonefield\'s Note
+UPDATE locales_item SET name_loc3='Feuerstein' WHERE entry=1254; -- name: Lesser Firestone
 UPDATE locales_item SET name_loc3='Kristalltangwedel' WHERE entry=1256; -- name: Crystal Kelp Frond
 UPDATE locales_item SET name_loc3='Unsichtbarkeitsschnaps' WHERE entry=1257; -- name: Invisibility Liquor
 UPDATE locales_item SET name_loc3='Tharil\'zuns Kopf' WHERE entry=1260; -- name: Tharil\'zun\'s Head
@@ -1438,6 +1439,7 @@ UPDATE locales_item SET name_loc3='Verstärkter Bogen' WHERE entry=3026; -- name
 UPDATE locales_item SET name_loc3='Schwerer Doppelbogen' WHERE entry=3027; -- name: Heavy Recurve Bow
 UPDATE locales_item SET name_loc3='Schneidenpfeil' WHERE entry=3030; -- name: Razor Arrow
 UPDATE locales_item SET name_loc3='Robustes Geschoss' WHERE entry=3033; -- name: Solid Shot
+UPDATE locales_item SET name_loc3='Glyphenverzierte Brustplatte' WHERE entry=3034; -- name: Glyphed Breastplate
 UPDATE locales_item SET name_loc3='Getränkter Kürbis' WHERE entry=3035; -- name: Laced Pumpkin
 UPDATE locales_item SET name_loc3='Schwerer Kurzbogen' WHERE entry=3036; -- name: Heavy Shortbow
 UPDATE locales_item SET name_loc3='Peitschenholzdoppelbogen' WHERE entry=3037; -- name: Whipwood Recurve Bow
@@ -3124,6 +3126,7 @@ UPDATE locales_item SET name_loc3='Gesäubertes Bäumlingsherz' WHERE entry=5218
 UPDATE locales_item SET name_loc3='Gravierte Rinde' WHERE entry=5219; -- name: Inscribed Bark
 UPDATE locales_item SET name_loc3='Knarzklauenfangzahn' WHERE entry=5220; -- name: Gnarlpine Fang
 UPDATE locales_item SET name_loc3='Melenas Kopf' WHERE entry=5221; -- name: Melenas\' Head
+UPDATE locales_item SET name_loc3='Handgenähte Armschienen' WHERE entry=5229; -- name: Handstitched Leather Bracers
 UPDATE locales_item SET name_loc3='Seelenstein' WHERE entry=5232; -- name: Minor Soulstone
 UPDATE locales_item SET name_loc3='Stein von Relu' WHERE entry=5233; -- name: Stone of Relu
 UPDATE locales_item SET name_loc3='Magenbitters Fossil' WHERE entry=5234; -- name: Flagongut\'s Fossil
@@ -3239,6 +3242,7 @@ UPDATE locales_item SET name_loc3='Distelholzdolch' WHERE entry=5392; -- name: T
 UPDATE locales_item SET name_loc3='Distelholzstab' WHERE entry=5393; -- name: Thistlewood Staff
 UPDATE locales_item SET name_loc3='Ausbildungshandschuhe zum Bogenschießen' WHERE entry=5394; -- name: Archery Training Gloves
 UPDATE locales_item SET name_loc3='Waldlandschild' WHERE entry=5395; -- name: Woodland Shield
+UPDATE locales_item SET name_loc3='Schießpulver der Defias' WHERE entry=5397; -- name: Defias Gunpowder
 UPDATE locales_item SET name_loc3='Schutzgamaschen' WHERE entry=5398; -- name: Canopy Leggings
 UPDATE locales_item SET name_loc3='Stiefel des Fährtenlesens' WHERE entry=5399; -- name: Tracking Boots
 UPDATE locales_item SET name_loc3='Schlangenschultern' WHERE entry=5404; -- name: Serpent\'s Shoulders
@@ -3335,6 +3339,7 @@ UPDATE locales_item SET name_loc3='Dreschadonfangzahn' WHERE entry=5516; -- name
 UPDATE locales_item SET name_loc3='Eisenschwertknauf' WHERE entry=5519; -- name: Iron Pommel -- description: The final piece of Dartol\'s Rod.
 UPDATE locales_item SET name_loc3='Velindes Tagebuch' WHERE entry=5520; -- name: Velinde\'s Journal
 UPDATE locales_item SET name_loc3='Velindes Schlüssel' WHERE entry=5521; -- name: Velinde\'s Key
+UPDATE locales_item SET name_loc3='Zauberstein' WHERE entry=5522; -- name: Spellstone
 UPDATE locales_item SET name_loc3='Kleine rankenfüßige Muschel' WHERE entry=5523; -- name: Small Barnacled Clam
 UPDATE locales_item SET name_loc3='Dickschalige Muschel' WHERE entry=5524; -- name: Thick-shelled Clam
 UPDATE locales_item SET name_loc3='Gekochte Muscheln' WHERE entry=5525; -- name: Boiled Clams
@@ -6584,6 +6589,7 @@ UPDATE locales_item SET name_loc3='Morgenkorn' WHERE entry=11040; -- name: Morro
 UPDATE locales_item SET name_loc3='Sha\'nis Nasenring' WHERE entry=11058; -- name: Sha\'ni\'s Nose-Ring
 UPDATE locales_item SET name_loc3='Reliktkastenschlüssel' WHERE entry=11078; -- name: Relic Coffer Key
 UPDATE locales_item SET name_loc3='Gor\'teshs abgehackter Kopf' WHERE entry=11079; -- name: Gor\'tesh\'s Lopped Off Head -- description: Gor\'tesh\'s severed head, propped up on a pike.
+UPDATE locales_item SET name_loc3='Gor\'teshs abgehackter Kopf' WHERE entry=11080; -- name: Gor\'tesh\'s Lopped Off Head -- description: Squishy, Smelly, Slimy
 UPDATE locales_item SET name_loc3='Formel: Schild - Geringer Schutz' WHERE entry=11081; -- name: Formula: Enchant Shield - Lesser Protection -- description: Teaches you how to permanently enchant a shield with +30 armor.
 UPDATE locales_item SET name_loc3='Große Astralessenz' WHERE entry=11082; -- name: Greater Astral Essence
 UPDATE locales_item SET name_loc3='Seelenstaub' WHERE entry=11083; -- name: Soul Dust
@@ -7275,6 +7281,7 @@ UPDATE locales_item SET name_loc3='Alexis Trick' WHERE entry=12368; -- name: Daw
 UPDATE locales_item SET name_loc3='Schlüssel zur Stadt' WHERE entry=12382; -- name: Key to the City -- description: Master Key to the City of Stratholme
 UPDATE locales_item SET name_loc3='Mondbestrahlte Feder' WHERE entry=12383; -- name: Moontouched Feather
 UPDATE locales_item SET name_loc3='Behälter von Mau\'ari' WHERE entry=12384; -- name: Cache of Mau\'ari
+UPDATE locales_item SET name_loc3='Der Hammer des Richters' WHERE entry=12400; -- name: The Judge\'s Gavel
 UPDATE locales_item SET name_loc3='Uraltes Ei' WHERE entry=12402; -- name: Ancient Egg
 UPDATE locales_item SET name_loc3='Verdichteter Wetzstein' WHERE entry=12404; -- name: Dense Sharpening Stone
 UPDATE locales_item SET name_loc3='Thoriumrüstung' WHERE entry=12405; -- name: Thorium Armor
@@ -8033,8 +8040,13 @@ UPDATE locales_item SET name_loc3='Zerglinglasso',description_loc3='Lehrt Euch, 
 UPDATE locales_item SET name_loc3='Pandahalsband',description_loc3='Lehrt Euch, wie man dieses Haustier beschwört.' WHERE entry=13583; -- name: Panda Collar -- description: Teaches you how to summon this companion.
 UPDATE locales_item SET name_loc3='Diablostein',description_loc3='Lehrt Euch, wie man dieses Haustier beschwört.' WHERE entry=13584; -- name: Diablo Stone -- description: Teaches you how to summon this companion.
 UPDATE locales_item SET name_loc3='Andenken der Erinnerung' WHERE entry=13585; -- name: Keepsake of Remembrance -- description: All of the pages are torn out.
+UPDATE locales_item SET name_loc3='Großer Zauberstein' WHERE entry=13602; -- name: Greater Spellstone
+UPDATE locales_item SET name_loc3='Erheblicher Zauberstein' WHERE entry=13603; -- name: Major Spellstone
 UPDATE locales_item SET name_loc3='Seelengebund. Andenken' WHERE entry=13624; -- name: Soulbound Keepsake
 UPDATE locales_item SET name_loc3='Menschlicher Kopf von Ras Frostraunen' WHERE entry=13626; -- name: Human Head of Ras Frostwhisper
+UPDATE locales_item SET name_loc3='Feuerstein' WHERE entry=13699; -- name: Firestone
+UPDATE locales_item SET name_loc3='Großer Feuerstein' WHERE entry=13700; -- name: Greater Firestone
+UPDATE locales_item SET name_loc3='Erheblicher Feuerstein' WHERE entry=13701; -- name: Major Firestone
 UPDATE locales_item SET name_loc3='Verdammniskraut' WHERE entry=13702; -- name: Doom Weed -- description: Not to be confused with gloom weed, womb weed, or broom weed.  Or doom seed.
 UPDATE locales_item SET name_loc3='Kodoknochen' WHERE entry=13703; -- name: Kodo Bone
 UPDATE locales_item SET name_loc3='Angereicherter Mannakeks' WHERE entry=13724; -- name: Enriched Manna Biscuit
@@ -9865,6 +9877,7 @@ UPDATE locales_item SET name_loc3='Bauplan: Schutzbrille des Meisteringenieurs' 
 UPDATE locales_item SET name_loc3='Bauplan: Arkanitdrachling' WHERE entry=16054; -- name: Schematic: Arcanite Dragonling -- description: Teaches you how to make an Arcanite Dragonling.
 UPDATE locales_item SET name_loc3='Bauplan: Arkane Bombe' WHERE entry=16055; -- name: Schematic: Arcane Bomb -- description: Teaches you how to make an Arcane Bomb.
 UPDATE locales_item SET name_loc3='Bauplan: Fehlerloses Arkanitgewehr' WHERE entry=16056; -- name: Schematic: Flawless Arcanite Rifle -- description: Teaches you how to make a Flawless Arcanite Rifle.
+UPDATE locales_item SET name_loc3='Forscherknappsack' WHERE entry=16057; -- name: Explorer\'s Knapsack
 UPDATE locales_item SET name_loc3='Fordrings Siegel' WHERE entry=16058; -- name: Fordring\'s Seal
 UPDATE locales_item SET name_loc3='Gewöhnliches braunes Hemd' WHERE entry=16059; -- name: Common Brown Shirt
 UPDATE locales_item SET name_loc3='Gewöhnliches weißes Hemd' WHERE entry=16060; -- name: Common White Shirt
@@ -10627,6 +10640,8 @@ UPDATE locales_item SET name_loc3='Erhebliches Managebräu' WHERE entry=17351; -
 UPDATE locales_item SET name_loc3='Überragendes Managebräu' WHERE entry=17352; -- name: Superior Mana Draught
 UPDATE locales_item SET name_loc3='Angriffsbefehle der Sturmlanzen' WHERE entry=17353; -- name: Stormpike Assault Orders
 UPDATE locales_item SET name_loc3='Rabines Brief' WHERE entry=17355; -- name: Rabine\'s Letter
+UPDATE locales_item SET name_loc3='Rysons Signal' WHERE entry=17362; -- name: Ryson\'s Beacon
+UPDATE locales_item SET name_loc3='Rysons Signal' WHERE entry=17363; -- name: Ryson\'s Beacon
 UPDATE locales_item SET name_loc3='Wahrsagezielfernrohr' WHERE entry=17364; -- name: Scrying Scope
 UPDATE locales_item SET name_loc3='Altvater Winters Bier' WHERE entry=17402; -- name: Greatfather\'s Winter Ale
 UPDATE locales_item SET name_loc3='Dampfdruckprickelschnaps' WHERE entry=17403; -- name: Steamwheedle Fizzy Spirits
@@ -10644,6 +10659,8 @@ UPDATE locales_item SET name_loc3='Angriffsbefehle der Frostwölfe' WHERE entry=
 UPDATE locales_item SET name_loc3='Medaille des Soldaten der Frostwölfe' WHERE entry=17502; -- name: Frostwolf Soldier\'s Medal
 UPDATE locales_item SET name_loc3='Medaille des Leutnants der Frostwölfe' WHERE entry=17503; -- name: Frostwolf Lieutenant\'s Medal
 UPDATE locales_item SET name_loc3='Medaille des Kommandanten der Frostwölfe' WHERE entry=17504; -- name: Frostwolf Commander\'s Medal
+UPDATE locales_item SET name_loc3='Ichmans Signal' WHERE entry=17505; -- name: Ichman\'s Beacon
+UPDATE locales_item SET name_loc3='Vipores Signal' WHERE entry=17506; -- name: Vipore\'s Beacon
 UPDATE locales_item SET name_loc3='Slidores Signal' WHERE entry=17507; -- name: Slidore\'s Beacon
 UPDATE locales_item SET name_loc3='Zwingsteinrundschild' WHERE entry=17508; -- name: Forcestone Buckler
 UPDATE locales_item SET name_loc3='Vorräte der Eisenschachtmine' WHERE entry=17522; -- name: Irondeep Supplies
@@ -10817,6 +10834,9 @@ UPDATE locales_item SET name_loc3='Rucksack aus Onyxias Haut' WHERE entry=17966;
 UPDATE locales_item SET name_loc3='Aufgeladene Schuppe von Onyxia' WHERE entry=17968; -- name: Charged Scale of Onyxia
 UPDATE locales_item SET name_loc3='Roter Sack voller Edelsteine' WHERE entry=17969; -- name: Red Sack of Gems
 UPDATE locales_item SET name_loc3='Ragnaros Kern' WHERE entry=17982; -- name: Ragnaros Core
+UPDATE locales_item SET name_loc3='Zähes Stockfleisch' WHERE entry=18000; -- name: Tough Jerky
+UPDATE locales_item SET name_loc3='Zäher Brocken Brot' WHERE entry=18001; -- name: Tough Hunk of Bread
+UPDATE locales_item SET name_loc3='Erfrischendes Quellwasser' WHERE entry=18005; -- name: Refreshing Spring Water
 UPDATE locales_item SET name_loc3='Königliches Siegel von Alexis' WHERE entry=18022; -- name: Royal Seal of Alexis
 UPDATE locales_item SET name_loc3='Thoriumpfeile' WHERE entry=18042; -- name: Thorium Headed Arrow
 UPDATE locales_item SET name_loc3='Kohlebergarbeiterstiefel' WHERE entry=18043; -- name: Coal Miner Boots
@@ -11155,6 +11175,8 @@ UPDATE locales_item SET name_loc3='Nieschmelzender Eisgurt' WHERE entry=18547; -
 UPDATE locales_item SET name_loc3='Elementiumblock' WHERE entry=18562; -- name: Elementium Ore
 UPDATE locales_item SET name_loc3='Fesseln des Windsuchers' WHERE entry=18563; -- name: Bindings of the Windseeker -- description: The Left Half of Thunderaan\'s Eternal Prison
 UPDATE locales_item SET name_loc3='Fesseln des Windsuchers' WHERE entry=18564; -- name: Bindings of the Windseeker -- description: The Right Half of Thunderaan\'s Eternal Prison
+UPDATE locales_item SET name_loc3='Gefäß der Wiedergeburt' WHERE entry=18565; -- name: Vessel of Rebirth
+UPDATE locales_item SET name_loc3='Essenz des Feuerfürsten' WHERE entry=18566; -- name: Essence of the Firelord
 UPDATE locales_item SET name_loc3='Elementarfluxus' WHERE entry=18567; -- name: Elemental Flux
 UPDATE locales_item SET name_loc3='Die Zwillingsklingen von Azzinoth' WHERE entry=18582; -- name: The Twin Blades of Azzinoth
 UPDATE locales_item SET name_loc3='Kriegsgleve von Azzinoth (rechts)' WHERE entry=18583; -- name: Warglaive of Azzinoth (Right)
@@ -11993,6 +12015,7 @@ UPDATE locales_item SET name_loc3='Urzeitliche Aegis der Hakkari' WHERE entry=19
 UPDATE locales_item SET name_loc3='Arathivorratskiste' WHERE entry=19725; -- name: Arathi Resource Crate -- description: Proof of victory in Arathi Basin
 UPDATE locales_item SET name_loc3='Blutrebe' WHERE entry=19726; -- name: Bloodvine
 UPDATE locales_item SET name_loc3='Blutsense' WHERE entry=19727; -- name: Blood Scythe -- description: Allows an Herbalist to collect Bloodvine from Zul\'Gurub Flora when carried.
+UPDATE locales_item SET name_loc3='Umarmung des Oberherren' WHERE entry=19760; -- name: Overlord\'s Embrace
 UPDATE locales_item SET name_loc3='Muster: Blutrebenweste' WHERE entry=19764; -- name: Pattern: Bloodvine Vest -- description: Teaches you how to sew a Bloodvine Vest.
 UPDATE locales_item SET name_loc3='Muster: Blutrebengamaschen' WHERE entry=19765; -- name: Pattern: Bloodvine Leggings -- description: Teaches you how to sew Bloodvine Leggings.
 UPDATE locales_item SET name_loc3='Muster: Blutrebenstiefel' WHERE entry=19766; -- name: Pattern: Bloodvine Boots -- description: Teaches you how to sew Bloodvine Boots.
