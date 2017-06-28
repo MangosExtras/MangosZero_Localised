@@ -73,8 +73,8 @@ UPDATE mangos_string SET content_loc4 = "全体注意：" WHERE entry = 100; -- 
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 101; -- content_default: Map: %u (%s) Zone: %u (%s) Area: %u (%s)X: %f Y: %f Z: %f Orientation: %fgrid[%u,%u]cell[%u,%u] InstanceID: %u ZoneX: %f ZoneY: %fGroundZ: %f FloorZ: %f Have height data (Map: %u VMap: %u)
 UPDATE mangos_string SET content_loc4 = "%s正在被传送中" WHERE entry = 102; -- content_default: %s is already being teleported.
 UPDATE mangos_string SET content_loc4 = "只有对方在你的队伍中并且你是队长才能召唤他到你附近" WHERE entry = 103; -- content_default: You can summon a player to your instance only if he is in your party with you as leader.
--- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 104; -- content_default: You cannot go to the player's instance because you are in a party now.
--- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 105; -- content_default: You can go to the player's instance while not being in his party only if your GM mode is on.
+-- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 104; -- content_default: You cannot go to the player\'s instance because you are in a party now.
+-- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 105; -- content_default: You can go to the player\'s instance while not being in his party only if your GM mode is on.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 106; -- content_default: You can not go to player %s from instance to instance.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 107; -- content_default: You can not summon player %s from instance to instance.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 108; -- content_default: You are summoning %s%s.
@@ -82,7 +82,7 @@ UPDATE mangos_string SET content_loc4 = "只有对方在你的队伍中并且你
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 110; -- content_default: You are teleporting %s%s to %s.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 111; -- content_default: You are being teleported by %s.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 112; -- content_default: Player (%s) does not exist.
--- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 113; -- content_default: Appearing at %s's location.
+-- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 113; -- content_default: Appearing at %s\'s location.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 114; -- content_default: %s is appearing to your location.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 115; -- content_default: Incorrect values.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 116; -- content_default: No character selected.
@@ -239,10 +239,10 @@ UPDATE mangos_string SET content_loc4 = "玩家 %s 被踢出" WHERE entry = 282;
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 298; -- content_default: Spawn time changed to: %i
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 299; -- content_default: The %s field of %s was set to %u
 UPDATE mangos_string SET content_loc4 = "你被禁言%u分钟" WHERE entry = 300; -- content_default: Your chat has been disabled for %u minutes.
-UPDATE mangos_string SET content_loc4 = "你对 %s 禁言%u分钟" WHERE entry = 301; -- content_default: You have disabled %s's chat for %u minutes.
-UPDATE mangos_string SET content_loc4 = "玩家的禁言已经解除" WHERE entry = 302; -- content_default: Player's chat is already enabled.
+UPDATE mangos_string SET content_loc4 = "你对 %s 禁言%u分钟" WHERE entry = 301; -- content_default: You have disabled %s\'s chat for %u minutes.
+UPDATE mangos_string SET content_loc4 = "玩家的禁言已经解除" WHERE entry = 302; -- content_default: Player\'s chat is already enabled.
 UPDATE mangos_string SET content_loc4 = "你的禁言已经解除" WHERE entry = 303; -- content_default: Your chat has been enabled.
-UPDATE mangos_string SET content_loc4 = "你已经解除了%s的禁言" WHERE entry = 304; -- content_default: You have enabled %s's chat.
+UPDATE mangos_string SET content_loc4 = "你已经解除了%s的禁言" WHERE entry = 304; -- content_default: You have enabled %s\'s chat.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 305; -- content_default: Faction %s (%u) reputation of %s was set to %5d!
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 307; -- content_default: No faction found!
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 308; -- content_default: Faction %i unknown!
@@ -273,7 +273,7 @@ UPDATE mangos_string SET content_loc4 = "GM模式开启" WHERE entry = 332; -- c
 UPDATE mangos_string SET content_loc4 = "GM模式关闭" WHERE entry = 333; -- content_default: GM mode is OFF
 UPDATE mangos_string SET content_loc4 = "GM聊天频道标记开启" WHERE entry = 334; -- content_default: GM Chat Badge is ON
 UPDATE mangos_string SET content_loc4 = "GM聊天频道标记关闭" WHERE entry = 335; -- content_default: GM Chat Badge is OFF
--- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 336; -- content_default: You repair all %s's items.
+-- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 336; -- content_default: You repair all %s\'s items.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 337; -- content_default: All your items repaired by %s.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 338; -- content_default: You set waterwalk mode %s for %s.
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 339; -- content_default: Your waterwalk mode %s by %s.
@@ -398,7 +398,7 @@ UPDATE mangos_string SET content_loc4 = "部落" WHERE entry = 458; -- content_d
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 474; -- content_default:  [rewarded]
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 475; -- content_default:  [complete]
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 476; -- content_default:  [active]
--- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 477; -- content_default: %s's Fly Mode %s
+-- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 477; -- content_default: %s\'s Fly Mode %s
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 478; -- content_default: Opcode %u sent to %s
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 479; -- content_default: Character loaded successfully!
 -- UPDATE mangos_string SET content_loc4 = "" WHERE entry = 480; -- content_default: Failed to load the character!

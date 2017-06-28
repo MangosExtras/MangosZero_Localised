@@ -9,15 +9,15 @@ UPDATE creature_ai_texts SET content_loc4 = "异种爬行者的卵开始孵化..
 UPDATE creature_ai_texts SET content_loc4 = "异种爬行者产了一个卵！" WHERE entry = -1317; -- content_default: Silithid Creeper lays an egg!
 UPDATE creature_ai_texts SET content_loc4 = "异种爬行者的卵裂开了！" WHERE entry = -1319; -- content_default: Silithid Creeper Egg splits open!
 UPDATE creature_ai_texts SET content_loc4 = "%s分裂成两个全新的熔岩爪牙！" WHERE entry = -1320; -- content_default: %s splits into two new Lava Spawns!
-UPDATE creature_ai_texts SET content_loc4 = "当面对任何类型的施法者时，这种凶猛的野兽将是你最好的朋友。现在，让我们看点不一样的东西。接下来的这个生物将帮助你旅行，让你将来的旅途更容易。我们来看看地狱战马。" WHERE entry = -1420; -- content_default: When facing a spellcaster of any kind, this feral beast will be your best friend. Now, let us take a look at something a bit different. This next creature will aid your travels and make your future journeys much easier. Let's take a look at a felsteed.
+UPDATE creature_ai_texts SET content_loc4 = "当面对任何类型的施法者时，这种凶猛的野兽将是你最好的朋友。现在，让我们看点不一样的东西。接下来的这个生物将帮助你旅行，让你将来的旅途更容易。我们来看看地狱战马。" WHERE entry = -1420; -- content_default: When facing a spellcaster of any kind, this feral beast will be your best friend. Now, let us take a look at something a bit different. This next creature will aid your travels and make your future journeys much easier. Let\'s take a look at a felsteed.
 UPDATE creature_ai_texts SET content_loc4 = "欢迎来到美味的国度！" WHERE entry = -1310; -- content_default: Welcome to flavor country!
 UPDATE creature_ai_texts SET content_loc4 = "血色十字军将会打击邪恶势力并将恶魔从这些土地上赶出去！" WHERE entry = -1308; -- content_default: The Scarlet Crusade shall smite the wicked and drive evil from these lands!
-UPDATE creature_ai_texts SET content_loc4 = "你无路可逃了。血色十字军将会消灭所有的天灾瘟疫携带者！" WHERE entry = -1307; -- content_default: There is no escape for you.  The Crusade shall destroy all who carry the scourge's taint.
+UPDATE creature_ai_texts SET content_loc4 = "你无路可逃了。血色十字军将会消灭所有的天灾瘟疫携带者！" WHERE entry = -1307; -- content_default: There is no escape for you.  The Crusade shall destroy all who carry the scourge\'s taint.
 UPDATE creature_ai_texts SET content_loc4 = "你竟敢携带天灾瘟疫。准备好下地狱吧。" WHERE entry = -1306; -- content_default: You carry the taint of the scourge.  Prepare to enter the twisting nether.
 UPDATE creature_ai_texts SET content_loc4 = "圣光制裁所有庇护恶魔的人。现在你死定了！" WHERE entry = -1305; -- content_default: The light condemns all who harbor evil.  Now you will die!
 UPDATE creature_ai_texts SET content_loc4 = "死神带我走吧！我不能再坚持了！我已经一无所有..." WHERE entry = -1302; -- content_default: Death take me! I cannot go on! I have nothing left...
 UPDATE creature_ai_texts SET content_loc4 = "我做不到了...继..继续前进..." WHERE entry = -1301; -- content_default: I won't make it... go... go on without me...
-UPDATE creature_ai_texts SET content_loc4 = "我能凭这个活下去吗，我将让它成为我人生仅有的追求，那就是摧毁阿尔萨斯..." WHERE entry = -1300; -- content_default: Should I live through this, I shall make it my life's sole ambition to destroy Arthas...
+UPDATE creature_ai_texts SET content_loc4 = "我能凭这个活下去吗，我将让它成为我人生仅有的追求，那就是摧毁阿尔萨斯..." WHERE entry = -1300; -- content_default: Should I live through this, I shall make it my life\'s sole ambition to destroy Arthas...
 UPDATE creature_ai_texts SET content_loc4 = "陌生人，找到堕落的米奈希尔王子并终结他的恐怖统治。" WHERE entry = -1299; -- content_default: Stranger, find the fallen Prince Menethil and end his reign of terror.
 UPDATE creature_ai_texts SET content_loc4 = "最后，终于结束了..." WHERE entry = -1298; -- content_default: At last, it ends...
 UPDATE creature_ai_texts SET content_loc4 = "我们将再次团聚，我的爱人..." WHERE entry = -1297; -- content_default: We shall be reunited once more, my love...
@@ -49,14 +49,14 @@ UPDATE creature_ai_texts SET content_loc4 = "没有人能与毒蛇之王抗衡�
 UPDATE creature_ai_texts SET content_loc4 = "杀了$N!" WHERE entry = -1119; -- content_default: Kill $N!
 UPDATE creature_ai_texts SET content_loc4 = "%s看起来不能再施法了..." WHERE entry = -1058; -- content_default: %s seems to no longer be able to cast spells...
 UPDATE creature_ai_texts SET content_loc4 = "嘿！离我们的宝藏远点！" WHERE entry = -1057; -- content_default: Hey!  Get away from our treasure!
-UPDATE creature_ai_texts SET content_loc4 = "这是我们的宝藏！傻大个！" WHERE entry = -1056; -- content_default: That's our treasure, you lubber!
+UPDATE creature_ai_texts SET content_loc4 = "这是我们的宝藏！傻大个！" WHERE entry = -1056; -- content_default: That\'s our treasure, you lubber!
 UPDATE creature_ai_texts SET content_loc4 = "不准篡改信件！" WHERE entry = -1055; -- content_default: No tampering with the mail!
 UPDATE creature_ai_texts SET content_loc4 = "%s崩溃了但是破碎的身躯很快又组合起来！" WHERE entry = -1054; -- content_default: %s collapses but the broken body rises again!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1048; -- content_default: You are in the presence of a god!
 UPDATE creature_ai_texts SET content_loc4 = "你们怎敢进入我的密室！" WHERE entry = -1047; -- content_default: How dare you enter my sanctum!
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1045; -- content_default: More of the Warden's errand boys!
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1045; -- content_default: More of the Warden\'s errand boys!
 UPDATE creature_ai_texts SET content_loc4 = "新鲜的肉！" WHERE entry = -1044; -- content_default: Fresh meat!
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1043; -- content_default: Death to the Warden's men!
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1043; -- content_default: Death to the Warden\'s men!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1042; -- content_default: I'll crush your skull beneath my boot!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1041; -- content_default: Tell the Warden this prison is ours now!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1040; -- content_default: Justice is done!
@@ -69,7 +69,7 @@ UPDATE creature_ai_texts SET content_loc4 = "沙漠是我的！" WHERE entry = -
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1033; -- content_default: Here to visit the family? Die, fool!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1032; -- content_default: These lands shall be cleansed!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1031; -- content_default: These undead atrocities will be destroyed!
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1030; -- content_default: The Scarlet Crusade shall not fail in it's mission!
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1030; -- content_default: The Scarlet Crusade shall not fail in it\'s mission!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1029; -- content_default: You carry the taint of the scourge.  Prepare to enter the twisting nether.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1028; -- content_default: The Scarlet Crusade shall smite the wicked and drive evil from these lands!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1027; -- content_default: For a limited time only, Crunchy Frog available exclusively here at the Darkmoon Faire.
@@ -79,7 +79,7 @@ UPDATE creature_ai_texts SET content_loc4 = "沙漠是我的！" WHERE entry = -
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1023; -- content_default: And, don't forget to turn in your Darkmoon Faire Prize Tickets! All it takes is five or more and you're on your way to the most wondrous prizes on all of Azeroth. Everybody is a winner!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1022; -- content_default: We have it all... delicious food, strong drink, exotic artifacts, fortunes read, amazing prizes and excitement without end!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1021; -- content_default: Amaze at the wonders that the Darkmoon Faire has uncovered in this vast and mysterious world! We have spared no expense in bringing you excitement that children of all ages will delight in!
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1020; -- content_default: Step right up! Step right up! Greetings my friend. I'm Silas Darkmoon and I want to welcome you to the greatest show on Azeroth! It's the Darkmoon Faire friend, and it's your lucky day! Sparing no expense, we've gathered wonders and treats from around the world for your delight. Whether you're young or old, rich or poor, the Darkmoon Faire has it all!
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1020; -- content_default: Step right up! Step right up! Greetings my friend. I'm Silas Darkmoon and I want to welcome you to the greatest show on Azeroth! It\'s the Darkmoon Faire friend, and it\'s your lucky day! Sparing no expense, we've gathered wonders and treats from around the world for your delight. Whether you're young or old, rich or poor, the Darkmoon Faire has it all!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1019; -- content_default: This will teach you to lay off the herb, $r.
 UPDATE creature_ai_texts SET content_loc4 = "妈妈！" WHERE entry = -990; -- content_default: Mommy!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -987; -- content_default: What? No you can't beat me! Me will return!
@@ -103,9 +103,9 @@ UPDATE creature_ai_texts SET content_loc4 = "这个果树林现在就跟我腐�
 UPDATE creature_ai_texts SET content_loc4 = "我打赌将会有更多的辛迪加刺客！你不可能收回奥特兰克...或者南海镇！" WHERE entry = -924; -- content_default: More agents of the Syndicate I'll wager! You'll never take back Alterac... Or Southshore!
 UPDATE creature_ai_texts SET content_loc4 = "圣光制裁所有庇护恶魔的人。现在你死定了！" WHERE entry = -897; -- content_default: The light condemns all who harbor evil. Now you will die!
 UPDATE creature_ai_texts SET content_loc4 = "你竟敢携带天灾瘟疫。准备好下地狱吧。" WHERE entry = -896; -- content_default: You carry the taint of the scourge. Prepare to enter the twisting nether.
-UPDATE creature_ai_texts SET content_loc4 = "你无路可逃了。血色十字军将会消灭所有的天灾瘟疫携带者！" WHERE entry = -895; -- content_default: There is no escape for you. The Crusade shall destroy all who carry the scourge's taint.
+UPDATE creature_ai_texts SET content_loc4 = "你无路可逃了。血色十字军将会消灭所有的天灾瘟疫携带者！" WHERE entry = -895; -- content_default: There is no escape for you. The Crusade shall destroy all who carry the scourge\'s taint.
 UPDATE creature_ai_texts SET content_loc4 = "%s充电了！" WHERE entry = -829; -- content_default: %s charges!
-UPDATE creature_ai_texts SET content_loc4 = "%s攻击了卡拉恩的旌旗！" WHERE entry = -828; -- content_default: %s attacks Karang's Banner!
+UPDATE creature_ai_texts SET content_loc4 = "%s攻击了卡拉恩的旌旗！" WHERE entry = -828; -- content_default: %s attacks Karang\'s Banner!
 UPDATE creature_ai_texts SET content_loc4 = "不！你不可能比污林强大，不可能！！" WHERE entry = -827; -- content_default: No!  You cannot be stronger than the Foulweald!  No!!
 UPDATE creature_ai_texts SET content_loc4 = "你在污林的面前微不足道！死吧！" WHERE entry = -826; -- content_default: You are a little gnat to the Foulweald!  Die!
 UPDATE creature_ai_texts SET content_loc4 = "不能允许这个恶魔进入这个世界！来吧我的孩子们！" WHERE entry = -825; -- content_default: This evil cannot be allowed to enter this world!  Come my children!
@@ -150,7 +150,7 @@ UPDATE creature_ai_texts SET content_loc4 = "我讨厌使用暴力。" WHERE ent
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1152; -- content_default: For Doomhammer!
 UPDATE creature_ai_texts SET content_loc4 = "[兽人语] Lok'Narosh!" WHERE entry = -1151; -- content_default: Lok'Narosh!
 UPDATE creature_ai_texts SET content_loc4 = "到你了！" WHERE entry = -1150; -- content_default: Your time has come!
-UPDATE creature_ai_texts SET content_loc4 = "%s的悲鸣惊动了附近的异种虫巢" WHERE entry = -345; -- content_default: %s's death cry has stirred the nearby silithid hive.
+UPDATE creature_ai_texts SET content_loc4 = "%s的悲鸣惊动了附近的异种虫巢" WHERE entry = -345; -- content_default: %s\'s death cry has stirred the nearby silithid hive.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1158; -- content_default: As if we don't have enough problems, you go and create more!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1157; -- content_default: Please tell me that you didn't just do what I think you just did. Please tell me that I'm not going to have to hurt you...
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1156; -- content_default: Taste blade, mongrel!
@@ -158,7 +158,7 @@ UPDATE creature_ai_texts SET content_loc4 = "斯尼维尔在此！冷齿矿坑�
 UPDATE creature_ai_texts SET content_loc4 = "%s开始发酒疯了！" WHERE entry = -649; -- content_default: %s goes into a drunken rage!
 UPDATE creature_ai_texts SET content_loc4 = "%s大吼了一声，提醒附近的同伴并变得愤怒了！" WHERE entry = -648; -- content_default: %s lets out a deep roar, alerting nearby allies and becoming enraged!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -587; -- content_default: Kibler is being investigated by G.E.T.A.
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -586; -- content_default: Opus wants some Cuergo's Gold... with worm.
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -586; -- content_default: Opus wants some Cuergo\'s Gold... with worm.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -585; -- content_default: They all go to the Spire but none never come back... just like Bijou.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -584; -- content_default: Ask Kibler about the treasure! SQUAWK!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -583; -- content_default: SQUAWK!! *cough* *cough* I need to quit smoking!
@@ -168,7 +168,7 @@ UPDATE creature_ai_texts SET content_loc4 = "死吧！！凡人！！" WHERE ent
 UPDATE creature_ai_texts SET content_loc4 = "不！你不能这样做！" WHERE entry = -579; -- content_default: No! You must no do this!
 UPDATE creature_ai_texts SET content_loc4 = "死！去死！" WHERE entry = -578; -- content_default: Die! Die!
 UPDATE creature_ai_texts SET content_loc4 = "我，格瑞姆洛克，我是国王！" WHERE entry = -577; -- content_default: Me Grimlok, king!
-UPDATE creature_ai_texts SET content_loc4 = "以索瑞森的胡须的名义!杀了他们！" WHERE entry = -576; -- content_default: By Thaurissan's beard! Slay them!
+UPDATE creature_ai_texts SET content_loc4 = "以索瑞森的胡须的名义!杀了他们！" WHERE entry = -576; -- content_default: By Thaurissan\'s beard! Slay them!
 UPDATE creature_ai_texts SET content_loc4 = "阿库麦尔死了!我终于可以离开这块伤心地了。" WHERE entry = -569; -- content_default: Aku'mai is dead! At last, I can leave this wretched place!
 UPDATE creature_ai_texts SET content_loc4 = "尘归尘...土归土..." WHERE entry = -568; -- content_default: Just... Dust...
 UPDATE creature_ai_texts SET content_loc4 = "睡吧..." WHERE entry = -567; -- content_default: Sleep...
@@ -202,7 +202,7 @@ UPDATE creature_ai_texts SET content_loc4 = "我感觉到危险的存在。" WHE
 UPDATE creature_ai_texts SET content_loc4 = "如果我挂了，拿上我的邮袋。确保送到大将军手上。" WHERE entry = -491; -- content_default: If I should fall, take my pouch. Make certain that it gets to the High General.
 UPDATE creature_ai_texts SET content_loc4 = "我的背疼得要命。" WHERE entry = -490; -- content_default: My back is killing me.
 UPDATE creature_ai_texts SET content_loc4 = "%s几乎都成了碎块，但仍然在继续战斗。" WHERE entry = -473; -- content_default: %s is reduced to rubble, but still continues to fight.
-UPDATE creature_ai_texts SET content_loc4 = "%s的力量随着石块断裂迅速衰减。" WHERE entry = -472; -- content_default: %s's strength dwindles as chunks of rock break off.
+UPDATE creature_ai_texts SET content_loc4 = "%s的力量随着石块断裂迅速衰减。" WHERE entry = -472; -- content_default: %s\'s strength dwindles as chunks of rock break off.
 UPDATE creature_ai_texts SET content_loc4 = "%s开始裂开并破裂成碎块。" WHERE entry = -471; -- content_default: %s begins to crack and break apart.
 UPDATE creature_ai_texts SET content_loc4 = "你听好了，在我杀死你之后，你的身体将为我所用，$r." WHERE entry = -470; -- content_default: You have my word that I shall find a use for your body after I've killed you, $r.
 UPDATE creature_ai_texts SET content_loc4 = "你不能阻止被遗忘者，$r。黑暗女王将会让你感受到痛苦和恐惧。" WHERE entry = -469; -- content_default: You will never stop the Forsaken, $r. The Dark Lady shall make you suffer.
@@ -224,7 +224,7 @@ UPDATE creature_ai_texts SET content_loc4 = "是哪个$r在这里多管闲事？
 UPDATE creature_ai_texts SET content_loc4 = "我们被出卖了！" WHERE entry = -438; -- content_default: We are betrayed!
 UPDATE creature_ai_texts SET content_loc4 = "我会呆在后面保护残骸。快点！希望没有人会发现烟 …" WHERE entry = -437; -- content_default: I'll stay behind and guard the wreck. Hurry! Hopefully no one will notice the smoke...
 UPDATE creature_ai_texts SET content_loc4 = "看起来你要继续前进，棘轮，告诉他，我已经破坏了撕裂者。" WHERE entry = -436; -- content_default: Looks like you'll have to go ahead to Ratchet and tell Sputtervalve that I've wrecked the shredder.
-UPDATE creature_ai_texts SET content_loc4 = "不要召唤这样的东西。它如此脆弱，用棒敲击就能使它粉身碎骨。" WHERE entry = -435; -- content_default: Now this is an example of what not to summon. Look, it's frail and brittle. One good whack from a mace will send bone shards flying.
+UPDATE creature_ai_texts SET content_loc4 = "不要召唤这样的东西。它如此脆弱，用棒敲击就能使它粉身碎骨。" WHERE entry = -435; -- content_default: Now this is an example of what not to summon. Look, it\'s frail and brittle. One good whack from a mace will send bone shards flying.
 UPDATE creature_ai_texts SET content_loc4 = "我要去看法师塔。" WHERE entry = -434; -- content_default: I wanna see the Mage Tower.
 UPDATE creature_ai_texts SET content_loc4 = "我们要去哪里？" WHERE entry = -433; -- content_default: Where we goin'?
 UPDATE creature_ai_texts SET content_loc4 = "为什么我们总走这条路？" WHERE entry = -432; -- content_default: Why do we always go the same way?
@@ -233,14 +233,14 @@ UPDATE creature_ai_texts SET content_loc4 = "我腿疼？" WHERE entry = -430; -
 UPDATE creature_ai_texts SET content_loc4 = "还没到吗？" WHERE entry = -429; -- content_default: Are we there yet?
 UPDATE creature_ai_texts SET content_loc4 = "我只是在自言自语罢了，和这里的其它人说话的时候，我总是得不到应有的尊重。" WHERE entry = -428; -- content_default: O'ourse I'm talking to myself. Only way to get a decent conversation in this city.
 UPDATE creature_ai_texts SET content_loc4 = "我这么多年来好像都没干过比打水更有意义的事情似的!" WHERE entry = -427; -- content_default: As if I don't have better things to do in my old age than carry buckets of water.
-UPDATE creature_ai_texts SET content_loc4 = "有水吗，艾玛？去弄点水，艾玛？你要是再不去打水，我都快忘了水是什么样的了..." WHERE entry = -426; -- content_default: Where's the water Emma? Get the water Emma? If'n it weren't fer me that lot wouldn't know what water looks like.
+UPDATE creature_ai_texts SET content_loc4 = "有水吗，艾玛？去弄点水，艾玛？你要是再不去打水，我都快忘了水是什么样的了..." WHERE entry = -426; -- content_default: Where\'s the water Emma? Get the water Emma? If'n it weren't fer me that lot wouldn't know what water looks like.
 UPDATE creature_ai_texts SET content_loc4 = "我一天要走好多趟到水井那边去打水，现在的年轻人啊..." WHERE entry = -425; -- content_default: Seems like a hundred times a day I walk all the way to get more water. No respect for their elders I tell ya.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -424; -- content_default: Jack and Jill my wrinkled patoot! I do all the water luggin' 'round here.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -423; -- content_default: Think I'm starting to wear a rut in the paving stones.
 UPDATE creature_ai_texts SET content_loc4 = "突然之间，到处都是那帮家伙了。" WHERE entry = -416; -- content_default: All of a sudden they were everywhere.
 UPDATE creature_ai_texts SET content_loc4 = "他们一定是得到了某些人的帮助。" WHERE entry = -415; -- content_default: They must have had someone helping them.
 UPDATE creature_ai_texts SET content_loc4 = "如果被上尉发现，我就死定了。" WHERE entry = -414; -- content_default: If the Captain finds out, it'll be the end of me.
-UPDATE creature_ai_texts SET content_loc4 = "这都是他们的错，愚蠢的联盟军队。刚在我的农场后面创建自己的水塔。" WHERE entry = -413; -- content_default: It's all their fault, stupid Alliance army. Just had to build their towers right behind my farm.
+UPDATE creature_ai_texts SET content_loc4 = "这都是他们的错，愚蠢的联盟军队。刚在我的农场后面创建自己的水塔。" WHERE entry = -413; -- content_default: It\'s all their fault, stupid Alliance army. Just had to build their towers right behind my farm.
 UPDATE creature_ai_texts SET content_loc4 = "给我这个可怜的瞎子一点零钱吧？...你说我不是瞎子是什么意思？...我真的不瞎了！我看的见了！！这真是一个奇迹！" WHERE entry = -412; -- content_default: Spare some change for a poor blind man?...What do you mean I'm not blind?...I'M NOT BLIND! I CAN SEE! ITS A MIRACLE!
 UPDATE creature_ai_texts SET content_loc4 = "今天的汉堡我会很高兴地在星期二那天付钱给你。" WHERE entry = -411; -- content_default: I will gladly pay you Tuesday for a hamburger today.
 UPDATE creature_ai_texts SET content_loc4 = "嗯~~~这一个看起来也就比风铃好一些。做好记录同学们...这不是在战斗激烈的时候你们想要召唤的东西。" WHERE entry = -410; -- content_default: Hmmm, this one looks like something that would be better off as a windchime. Take notes class... This is NOT what you want to summon in the heat of battle.
@@ -253,7 +253,7 @@ UPDATE creature_ai_texts SET content_loc4 = "我不能让你进入圣殿！我�
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -388; -- content_default: Hearty Kill!
 UPDATE creature_ai_texts SET content_loc4 = "[兽人语] Tago mog regas gi mog Tov'nokaz Kagg" WHERE entry = -377; -- content_default: [Orcish] Tago mog regas gi mog Tov'nokaz Kagg
 UPDATE creature_ai_texts SET content_loc4 = "[兽人语] Ogg kaz ko zugas kil mog Tov'nokaz Kagg" WHERE entry = -376; -- content_default: [Orcish] Ogg kaz ko zugas kil mog Tov'nokaz Kagg
-UPDATE creature_ai_texts SET content_loc4 = "%s的眼睛变得通红，一边狂笑一边点燃了火药！" WHERE entry = -375; -- content_default: %s's eyes glow red as he lights his dynamite and begins to cackle madly!
+UPDATE creature_ai_texts SET content_loc4 = "%s的眼睛变得通红，一边狂笑一边点燃了火药！" WHERE entry = -375; -- content_default: %s\'s eyes glow red as he lights his dynamite and begins to cackle madly!
 UPDATE creature_ai_texts SET content_loc4 = "[矮人语] Dum mos" WHERE entry = -374; -- content_default: [Dwarvish] Dum mos
 UPDATE creature_ai_texts SET content_loc4 = "以拉格纳罗斯之名，去死吧!" WHERE entry = -373; -- content_default: Die in the name of Ragnaros!
 UPDATE creature_ai_texts SET content_loc4 = "这个湖现在属于碎石穴居部落，$N！死吧！" WHERE entry = -372; -- content_default: The Loch belongs to the Stonesplinter Tribe now, $N! Now die!
@@ -316,7 +316,7 @@ UPDATE creature_ai_texts SET content_loc4 = "这里很危险，主人。我会�
 UPDATE creature_ai_texts SET content_loc4 = "啪嗒……咔咔……" WHERE entry = -195; -- content_default: Brzt... click... whir...
 UPDATE creature_ai_texts SET content_loc4 = "总有一天我要成为一个真正的男孩。" WHERE entry = -194; -- content_default: One day I'll be a real boy.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -193; -- content_default: Gizmos... check. Doothingies... check. Wizzers... check.
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -192; -- content_default: It can get really hot here in the Badlands. But at least it's a dry heat.
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -192; -- content_default: It can get really hot here in the Badlands. But at least it\'s a dry heat.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -191; -- content_default: The troggs...they never stop coming.  Die trogg!  Die!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -190; -- content_default: No gnome will be left behind.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -189; -- content_default: This sickness clouds my vision, but I know you must be a trogg.  Die foul invader!
@@ -390,15 +390,15 @@ UPDATE creature_ai_texts SET content_loc4 = "是谁在打扰我！！！" WHERE 
 UPDATE creature_ai_texts SET content_loc4 = "%s的悲鸣惊动了附近的异种虫巢" WHERE entry = -1147; -- content_default: %s 's death cry has stirred the nearby silithid hive
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1159; -- content_default: Is that the best you can do?
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1160; -- content_default: Ah ken see very well through this haze, but I'd know tha' smell anywhere! Die ye foul ogre!
-UPDATE creature_ai_texts SET content_loc4 = "趁他还是热的快拿走！" WHERE entry = -142; -- content_default: Get it while it's hot!
+UPDATE creature_ai_texts SET content_loc4 = "趁他还是热的快拿走！" WHERE entry = -142; -- content_default: Get it while it\'s hot!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -143; -- content_default: The Defias shall succeed! No meek adventurer will stop us!
 UPDATE creature_ai_texts SET content_loc4 = "什么？你竟敢如此！" WHERE entry = -144; -- content_default: What? How dare you!
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -658; -- content_default: Fools. I knew that if I played upon my brother's feeble emotions, he would send 'rescuers.'
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -659; -- content_default: How easy it was to manipulate you into recovering the last Suntara stone from those imbeciles of the Twilight's Hammer..
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -658; -- content_default: Fools. I knew that if I played upon my brother\'s feeble emotions, he would send 'rescuers.'
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -659; -- content_default: How easy it was to manipulate you into recovering the last Suntara stone from those imbeciles of the Twilight\'s Hammer..
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -660; -- content_default: When I stumbled upon the Suntara stones at the Grimesilt Digsite, the power of Ragnaros surged through my being. It was Ragnaros that gave me a purpose.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -661; -- content_default: It was the will of Ragnaros that Obsidion be built. Obsidion will destroy the Blackrock orcs of Blackrock Spire, uniting us with our bretheren in the fiery depths.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -662; -- content_default: And ultimately, it was Ragnaros that named me when I was reborn as an acolyte of fire: Lathoric... Lathoric the Black.
-UPDATE creature_ai_texts SET content_loc4 = "%s的笑声渐渐低了下来..." WHERE entry = -663; -- content_default: %s's laughter trails off..
+UPDATE creature_ai_texts SET content_loc4 = "%s的笑声渐渐低了下来..." WHERE entry = -663; -- content_default: %s\'s laughter trails off..
 UPDATE creature_ai_texts SET content_loc4 = "你的任务完成了。准备迎接你的死亡。" WHERE entry = -664; -- content_default: Your task is complete. Prepare to meet your doom.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -665; -- content_default: Obsidion, Rise and Serve your Master!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -666; -- content_default: At last: one among you is worthy of my knowledge. Worry not: I have probed your thoughts, no harm will come to you.
@@ -412,16 +412,16 @@ UPDATE creature_ai_texts SET content_loc4 = "你的任务完成了。准备迎�
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1211; -- content_default: HAVE YOU RUN OUT OF SHIPS TO SEND? WHERE IS YOUR COURAGE?
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1212; -- content_default: YOU WERE SUCH GOOD SPORT THE LAST TIME...COME OUT!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1213; -- content_default: I HAVE YOUR LITTLE BELT TIED AROUND MY FINGER, SMOTTS. DON'T YOU WANT IT BACK?
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1161; -- content_default: Ooooooooh... $B To the plaguelands went old Duggan, ta' send them Scourge back inta' th' groun'. $B Where th' scent of death is on th' wind and everythin' is mostly brown. $B An' when he did arrive there, what'd his dwarf eyes see? $B A hundred crates of barley there ta' be makin' inta' mead! $B But tha' mead was cursed with th' plague o' death, and now old Duggan, too. $B An' surrounded by the Lich King's beasts, what could old Duggan do? $B But though I feel the plague within, my hopes 'ave not yet sunk. $B If'n I'm gonna be Scourge anyway, I might as well be drunk!
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1161; -- content_default: Ooooooooh... $B To the plaguelands went old Duggan, ta' send them Scourge back inta' th' groun'. $B Where th' scent of death is on th' wind and everythin' is mostly brown. $B An' when he did arrive there, what'd his dwarf eyes see? $B A hundred crates of barley there ta' be makin' inta' mead! $B But tha' mead was cursed with th' plague o' death, and now old Duggan, too. $B An' surrounded by the Lich King\'s beasts, what could old Duggan do? $B But though I feel the plague within, my hopes 'ave not yet sunk. $B If'n I'm gonna be Scourge anyway, I might as well be drunk!
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1134; -- content_default: Endudi Rifa!
 UPDATE creature_ai_texts SET content_loc4 = "[卡利姆多语] Ma reth bromo zoln kilagrin dra ma zoern tu ko fraht ko kadrom Ma krin drinor zoln drinor Ma krin kan aasrugel korsul" WHERE entry = -148; -- content_default: [Kalimag] Ma reth bromo zoln kilagrin dra ma zoern tu ko fraht ko kadrom Ma krin drinor zoln drinor Ma krin kan aasrugel korsul
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1136; -- content_default: Anudora!
 UPDATE creature_ai_texts SET content_loc4 = "为了卡利姆多！" WHERE entry = -1133; -- content_default: For Kalimdor!
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1419; -- content_default: What you see before you is a felhunter. This creature's natural talents include spell lock and other abilities which make it unequalled when facing a magically attuned opponent.
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1418; -- content_default: Study hard and you might one day be able to summon one on your own, but for now it's time to move on to the felhunter.
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1419; -- content_default: What you see before you is a felhunter. This creature\'s natural talents include spell lock and other abilities which make it unequalled when facing a magically attuned opponent.
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1418; -- content_default: Study hard and you might one day be able to summon one on your own, but for now it\'s time to move on to the felhunter.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1417; -- content_default: All right now. Aside from the obvious distractions a minion like this will provide against your more masculine foes, she is also capable of dealing out impressive amounts of damage. However, her fragile endurance makes her almost useless as a shield.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1416; -- content_default: If you've never seen one, it is a sight to behold. A very impressive creature both on and off the field of battle. Next, let us take a look at what I am sure all you male students have been waiting for. The succubus.
--- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1415; -- content_default: This demonic entity is known as the Voidwalker. Its strength and endurance are significant, making it ideal for defense. Send it to attack your enemy, then use it as a shield while you use your spells and abilities to drain away your opponent's life.
+-- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1415; -- content_default: This demonic entity is known as the Voidwalker. Its strength and endurance are significant, making it ideal for defense. Send it to attack your enemy, then use it as a shield while you use your spells and abilities to drain away your opponent\'s life.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1414; -- content_default: Now that you have had a chance to study imp, let us move on the next minion you will be able to summon, the voidwalker.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1413; -- content_default: This foul little beast is the imp. It is small and weak, making it almost useless as a meatshield, and its damage output is mediocre at best. This creature is best used for support of a larger group.
 -- UPDATE creature_ai_texts SET content_loc4 = "" WHERE entry = -1412; -- content_default: The easiest creature for you to summon is the imp. You should already be able to bring forth this minion but for completeness' sake I will start with him.

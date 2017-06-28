@@ -24,18 +24,18 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000114; -- content_default: Father! Father! You're alive!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000115; -- content_default: You can thank $N for getting me back here safely, father.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000116; -- content_default: %s hugs her father.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000117; -- content_default: Thank you for agreeing to help. Now, let's get out of here $N.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000117; -- content_default: Thank you for agreeing to help. Now, let\'s get out of here $N.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000118; -- content_default: Over there! They're following us!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000119; -- content_default: Allow me a moment to rest. The journey taxes what little strength I have.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000120; -- content_default: Did you hear something?
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000121; -- content_default: Falcon Watch, at last! Now, where's my... Oh no! My pack, it's missing! Where has -
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000121; -- content_default: Falcon Watch, at last! Now, where\'s my... Oh no! My pack, it\'s missing! Where has -
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000122; -- content_default: You won't keep me from getting to Falcon Watch!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000123; -- content_default: Ready when you are, $c.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000124; -- content_default: The Affray has begun. $n, get ready to fight!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000125; -- content_default: You! Enter the fray!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000126; -- content_default: Challenger is down!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000127; -- content_default: The Affray is over.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000128; -- content_default: We need you to send reinforcements to Manaforge Duro, Ardonis. This is not a request, it's an order.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000128; -- content_default: We need you to send reinforcements to Manaforge Duro, Ardonis. This is not a request, it\'s an order.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000129; -- content_default: You cannot be serious! We are severely understaffed and can barely keep this manaforge functional!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000130; -- content_default: You will do as ordered. Manaforge Duro has come under heavy attack by mana creatures and the situation is out of control. Failure to comply will not be tolerated!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000131; -- content_default: Indeed, it is not a request.
@@ -45,12 +45,12 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000135; -- content_default: I am returning to Tempest Keep. See to it that I do not have reason to return!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000136; -- content_default: Yes, my lord.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000137; -- content_default: See to it, Ardonis!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000138; -- content_default: Avruu's magic... it still controls me. You must fight me, mortal. It's the only way to break the spell!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000139; -- content_default: Avruu's magic is broken! I'm free once again!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000140; -- content_default: Let's go.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000141; -- content_default: $N, let's use the antechamber to the right.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000138; -- content_default: Avruu\'s magic... it still controls me. You must fight me, mortal. It\'s the only way to break the spell!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000139; -- content_default: Avruu\'s magic is broken! I'm free once again!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000140; -- content_default: Let\'s go.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000141; -- content_default: $N, let\'s use the antechamber to the right.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000142; -- content_default: I can see the light at the end of the tunnel!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000143; -- content_default: There's Farstrider Enclave now, $C. Not far to go... Look out! Troll ambush!!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000143; -- content_default: There\'s Farstrider Enclave now, $C. Not far to go... Look out! Troll ambush!!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000144; -- content_default: Thank you for saving my life and bringing me back to safety, $N
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000145; -- content_default: Captain Helios, I've been rescued from the Amani Catacombs. Reporting for duty, sir!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000146; -- content_default: Liatha, get someone to look at those injuries. Thank you for bringing her back safely.
@@ -72,12 +72,12 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000171; -- content_default: Where shall I begin? I cannot bother myself with a worm such as yourself. There is a world to be conquered!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000172; -- content_default: No doubt the fools that banished me are long dead. I shall take wing survey my demense. Pray to whatever gods you hold dear that we do not meet again.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000173; -- content_default: NOOOOooooooo!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000174; -- content_default: Good $N, you are under the spell's influence. I must analyze it quickly, then we can talk.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000174; -- content_default: Good $N, you are under the spell\'s influence. I must analyze it quickly, then we can talk.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000175; -- content_default: Thank you, mortal.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000176; -- content_default: The last thing I remember is the ship falling and us getting into the pods. I'll go see how I can help. Thank you!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000177; -- content_default: $C, Where am I? Who are you? Oh no! What happened to the ship?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000178; -- content_default: $C You saved me! I owe you a debt that I can never repay. I'll go see if I can help the others.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000179; -- content_default: Ugh... what is this place? Is that all that's left of the ship over there?
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000179; -- content_default: Ugh... what is this place? Is that all that\'s left of the ship over there?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000180; -- content_default: Oh, the pain...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000181; -- content_default: Everything hurts, Please make it stop...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000182; -- content_default: Ughhh... I hurt. Can you help me?
@@ -106,7 +106,7 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000206; -- content_default: %s starts pecking at the feed.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000207; -- content_default: REUSE ME
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000208; -- content_default: Frenzyheart kill you if you come back. You no welcome here no more!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000209; -- content_default: Very well. Let's see what you have to show me, $N.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000209; -- content_default: Very well. Let\'s see what you have to show me, $N.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000210; -- content_default: What manner of trick is this, $R? If you seek to ambush me, I warn you I will not go down quietly!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000211; -- content_default: Warning! %s emergency shutdown process initiated by $N. Shutdown will complete in two minutes.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000212; -- content_default: Emergency shutdown will complete in one minute.
@@ -119,14 +119,14 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000219; -- content_default: It is strange, I know... Most mortals cannot actually comprehend what they see here, as often, what they see is not anchored within their own perception of reality.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000220; -- content_default: Follow me, please.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000221; -- content_default: There are only two truths to be found here: First, that time is chaotic, always in flux, and completely malleable and second, perception does not dictate reality.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000222; -- content_default: As custodians of time, we watch over and care for Nozdormu's realm. The master is away at the moment, which means that attempts are being made to dramatically alter time. The master never meddles in the affairs of mortals but instead corrects the alterations made to time by others. He is reactionary in this regard.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000222; -- content_default: As custodians of time, we watch over and care for Nozdormu\'s realm. The master is away at the moment, which means that attempts are being made to dramatically alter time. The master never meddles in the affairs of mortals but instead corrects the alterations made to time by others. He is reactionary in this regard.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000223; -- content_default: For normal maintenance of time, the Keepers of Time are sufficient caretakers. We are able to deal with most ordinary disturbances. I speak of little things, such as rogue mages changing something in the past to elevate their status or wealth in the present.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000224; -- content_default: These tunnels that you see are called timeways. They are infinite in number. The ones that currently exist in your reality are what the master has deemed as 'trouble spots.' These trouble spots may differ completely in theme but they always share a cause. That is, their existence is a result of the same temporal disturbance. Remember that should you venture inside one...
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000225; -- content_default: This timeway is in great disarray! We have agents inside right now attempting to restore order. What information I have indicates that Thrall's freedom is in jeopardy. A malevolent organization known as the Infinite Dragonflight is trying to prevent his escape. I fear without outside assistance, all will be lost.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000225; -- content_default: This timeway is in great disarray! We have agents inside right now attempting to restore order. What information I have indicates that Thrall\'s freedom is in jeopardy. A malevolent organization known as the Infinite Dragonflight is trying to prevent his escape. I fear without outside assistance, all will be lost.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000226; -- content_default: We have very little information on this timeway. Sa'at has been dispatched and is currently inside. The data we have gathered from his correspondence is that the Infinite Dragonflight are once again attempting to alter time. Could it be that the opening of the Dark Portal is being targeted for sabotage? Let us hope not...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000227; -- content_default: This timeway is currently collapsing. What that may hold for the past, present and future is currently unknown...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000228; -- content_default: The timeways are currently ranked in order from least catastrophic to most catastrophic. Note that they are all classified as catastrophic, meaning that any single one of these timeways collapsing would mean that your world would end. We only classify them in such a way so that the heroes and adventurers that are sent here know which timeway best suits their abilities.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000229; -- content_default: All we know of this timeway is that it leads to Mount Hyjal. The Infinite Dragonflight have gone to great lengths to prevent our involvement. We know next to nothing, mortal. Soridormi is currently attempting to break through the timeway's defenses but has thus far been unsuccessful. You might be our only hope of breaking through and resolving the conflict.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000229; -- content_default: All we know of this timeway is that it leads to Mount Hyjal. The Infinite Dragonflight have gone to great lengths to prevent our involvement. We know next to nothing, mortal. Soridormi is currently attempting to break through the timeway\'s defenses but has thus far been unsuccessful. You might be our only hope of breaking through and resolving the conflict.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000230; -- content_default: Our time is at an end $N. I would wish you luck, if such a thing existed.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000231; -- content_default: Ah, $GPriest:Priestess; you came along just in time. I appreciate it.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000232; -- content_default: Thank you! Thank you, $GPriest:Priestess;. Now I can take on those gnolls with your power to back me!
@@ -139,18 +139,18 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000239; -- content_default: The Sha'tar, or "born from light" are the naaru that came to Outland to fight the demons of the Burning Legion.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000240; -- content_default: They were drawn to the ruins of Shattrath City where a small remnant of the draenei priesthood conducted its rites inside a ruined temple on this very spot.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000241; -- content_default: The priesthood, known as the Aldor, quickly regained its strength as word spread that the naaru had returned and reconstruction soon began. The ruined temple is now used as an infirmary for injured refugees.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000242; -- content_default: It wouldn't be long, however, before the city came under attack once again. This time, the attack came from Illidan's armies. A large regiment of blood elves had been sent by Illidan's ally, Kael'thas Sunstrider, to lay waste to the city.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000243; -- content_default: As the regiment of blood elves crossed this very bridge, the Aldor's exarchs and vindicators lined up to defend the Terrace of Light. But then the unexpected happened.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000244; -- content_default: The blood elves laid down their weapons in front of the city's defenders; their leader, a blood elf elder known as Voren'thal, stormed into the Terrace of Light and demanded to speak to A'dal.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000245; -- content_default: As the naaru approached him, Voren'thal kneeled before him and uttered the following words: "I've seen you in a vision, naaru. My race's only hope for survival lies with you. My followers and I are here to serve you."
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000246; -- content_default: The defection of Voren'thal and his followers was the largest loss ever incurred by Kael's forces. And these weren't just any blood elves. Many of the best and brightest amongst Kael's scholars and magisters had been swayed by Voren'thal's influence.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000242; -- content_default: It wouldn't be long, however, before the city came under attack once again. This time, the attack came from Illidan\'s armies. A large regiment of blood elves had been sent by Illidan\'s ally, Kael'thas Sunstrider, to lay waste to the city.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000243; -- content_default: As the regiment of blood elves crossed this very bridge, the Aldor\'s exarchs and vindicators lined up to defend the Terrace of Light. But then the unexpected happened.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000244; -- content_default: The blood elves laid down their weapons in front of the city\'s defenders; their leader, a blood elf elder known as Voren'thal, stormed into the Terrace of Light and demanded to speak to A'dal.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000245; -- content_default: As the naaru approached him, Voren'thal kneeled before him and uttered the following words: "I've seen you in a vision, naaru. My race\'s only hope for survival lies with you. My followers and I are here to serve you."
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000246; -- content_default: The defection of Voren'thal and his followers was the largest loss ever incurred by Kael\'s forces. And these weren't just any blood elves. Many of the best and brightest amongst Kael\'s scholars and magisters had been swayed by Voren'thal\'s influence.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000247; -- content_default: The naaru accepted the defectors, who would become known as the Scryers; their dwelling lies in the platform above. Only those initiated with the Scryers are allowed there.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000248; -- content_default: The Aldor are followers of the Light and forgiveness and redemption are values they understand. However, they found hard to forget the deeds of the blood elves while under Kael's command.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000248; -- content_default: The Aldor are followers of the Light and forgiveness and redemption are values they understand. However, they found hard to forget the deeds of the blood elves while under Kael\'s command.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000249; -- content_default: Many of the priesthood had been slain by the same magisters who now vowed to serve the naaru. They were not happy to share the city with their former enemies.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000250; -- content_default: The Aldor's most holy temple and its surrounding dwellings lie on the terrace above. As a holy site, only the initiated are welcome inside.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000251; -- content_default: The attacks against Shattrath continued, but the city did not fall, as you can see. On the contrary, the naaru known as Xi'ri led a successful incursion into Shadowmoon Valley - Illidan's doorstep.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000250; -- content_default: The Aldor\'s most holy temple and its surrounding dwellings lie on the terrace above. As a holy site, only the initiated are welcome inside.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000251; -- content_default: The attacks against Shattrath continued, but the city did not fall, as you can see. On the contrary, the naaru known as Xi'ri led a successful incursion into Shadowmoon Valley - Illidan\'s doorstep.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000252; -- content_default: There he continues to wage war on Illidan with the assistance of the Aldor and the Scryers. The two factions have not given up on their old feuds, though.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000253; -- content_default: Such is their animosity that they vie for the honor of being sent to assist the naaru there. Each day, that decision is made here by A'dal. The armies gather here to receive A'dal's blessing before heading to Shadowmoon.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000253; -- content_default: Such is their animosity that they vie for the honor of being sent to assist the naaru there. Each day, that decision is made here by A'dal. The armies gather here to receive A'dal\'s blessing before heading to Shadowmoon.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000254; -- content_default: Khadgar should be ready to see you again. Just remember that to serve the Sha'tar you will most likely have to ally with the Aldor or the Scryers. And seeking the favor of one group will cause the others' dislike.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000255; -- content_default: Good luck stranger, and welcome to Shattrath City.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000256; -- content_default: Thank you! Thank you, $GPriest:Priestess;. Now I can take on those murlocs with the Light on my side!
@@ -159,7 +159,7 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000259; -- content_default: Farewell to you, and may our ancestors be with you always!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000260; -- content_default: Thank you! Thank you, $GPriest:Priestess;. Now I can take on those wendigo with the Light on my side!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000261; -- content_default: Farewell to you, and may the Light be with you always.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000262; -- content_default: Thank you! Thank you, $GPriest:Priestess;. Now I can take on those corrupt timberlings with Elune's power behind me!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000262; -- content_default: Thank you! Thank you, $GPriest:Priestess;. Now I can take on those corrupt timberlings with Elune\'s power behind me!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000263; -- content_default: Farewell to you, and may Elune be with you always.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000264; -- content_default: Ok, $N. Follow me to the cave where I'll attempt to harness the power of the rune stone into these goggles.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000265; -- content_default: I discovered this cave on our first day here. I believe the energy in the stone can be used to our advantage.
@@ -167,7 +167,7 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000267; -- content_default: %s begins tinkering with the goggles before the stone.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000268; -- content_default: Help!!! Get these things off me so I can get my work done!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000269; -- content_default: Almost done! Just a little longer!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000270; -- content_default: I've done it! I have harnessed the power of the stone into the goggles! Let's get out of here!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000270; -- content_default: I've done it! I have harnessed the power of the stone into the goggles! Let\'s get out of here!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000271; -- content_default: Phew! Glad to be back from that creepy cave.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000272; -- content_default: %s hands one glowing goggles over to Doctor Draxlegauge.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000273; -- content_default: Doctor Draxlegauge will give you further instructions, $N. Many thanks for your help!
@@ -177,10 +177,10 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000277; -- content_default: 2...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000278; -- content_default: Time to meet your maker!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000279; -- content_default: Alright, we give up! Don't hurt us!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000280; -- content_default: A shadowy, sinister presence has invaded the Emerald Dream. Its power is poised to spill over into our world, $N. We must oppose it! That's why I cannot accompany you in person.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000280; -- content_default: A shadowy, sinister presence has invaded the Emerald Dream. Its power is poised to spill over into our world, $N. We must oppose it! That\'s why I cannot accompany you in person.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000281; -- content_default: The Emerald Dream will never be yours!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000282; -- content_default: Begone from this place!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000283; -- content_default: That's the first relic, but there are still two more. Follow me, $N.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000283; -- content_default: That\'s the first relic, but there are still two more. Follow me, $N.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000284; -- content_default: I've recovered the second relic. Take a moment to rest, and then we'll continue to the last reliquary.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000285; -- content_default: We have all three of the relics, but my energy is rapidly fading. We must make our way back to Dreamwarden Lurosa! He will let you know what to do next.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000286; -- content_default: Lurosa, I am entrusting the Relics of Aviana to $N, who will take them to Morthis Whisperwing. I must return completely to the Emerald Dream now. Do not let $N fail!
@@ -198,20 +198,20 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000298; -- content_default: Alright, alright I think I can figure out how to operate this thing...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000299; -- content_default: Arrrgh! This isn't right!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000300; -- content_default: Okay, I think I've got it, now. Follow me, $n!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000301; -- content_default: There's the stolen shredder! Stop it or Lugwizzle will have our hides!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000301; -- content_default: There\'s the stolen shredder! Stop it or Lugwizzle will have our hides!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000302; -- content_default: Looks like we're out of woods, eh? Wonder what this does...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000303; -- content_default: Come on, don't break down on me now!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000304; -- content_default: That was a close one! Well, let's get going, it's still a ways to Ratchet!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000304; -- content_default: That was a close one! Well, let\'s get going, it\'s still a ways to Ratchet!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000305; -- content_default: Hmm... I don't think this blinking red light is a good thing...
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000306; -- content_default: Let's get to the others, and keep an eye open for those wolves cutside...
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000306; -- content_default: Let\'s get to the others, and keep an eye open for those wolves cutside...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000307; -- content_default: Be careful, $N. Those wolves like to hide among the trees.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000308; -- content_default: A $C attacks!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000309; -- content_default: Beware! I am under attack!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000310; -- content_default: Oh no! A $C is upon us!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000311; -- content_default: We're almost there!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000312; -- content_default: We made it! Thanks, $N. I couldn't have gotten without you.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000313; -- content_default: It's good to see you again, Erland. What is your report?
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000314; -- content_default: Masses of wolves are to the east, and whoever lived at Malden's Orchard is gone.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000313; -- content_default: It\'s good to see you again, Erland. What is your report?
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000314; -- content_default: Masses of wolves are to the east, and whoever lived at Malden\'s Orchard is gone.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000315; -- content_default: If I am excused, then I'd like to check on Quinn...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000316; -- content_default: Hello, Quinn. How are you faring?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000317; -- content_default: I've been better. Ivar the Foul got the better of me...
@@ -223,13 +223,13 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000323; -- content_default: Mist! I feared I would never see you again! Yes, I am well, do not worry for me. You must rest and recover your health.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000324; -- content_default: %s growls in acknowledgement before straightening and making her way off into the forest.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000325; -- content_default: "Threshwackonator First Mate unit prepared to follow"
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000326; -- content_default: YARRR! Swabie, what have ye done?! He's gone mad! Baton him down the hatches! Hoist the mast! ARRRR! Every man for hi'self!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000327; -- content_default: Ok, $n, let's go find where I left that mysterious fossil. Follow me!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000326; -- content_default: YARRR! Swabie, what have ye done?! He\'s gone mad! Baton him down the hatches! Hoist the mast! ARRRR! Every man for hi\'self!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000327; -- content_default: Ok, $n, let\'s go find where I left that mysterious fossil. Follow me!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000328; -- content_default: Now where did I put that mysterious fossil? Ah, maybe up there...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000329; -- content_default: Hrm, nothing up here.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000330; -- content_default: No mysterious fossil here... Ah, but my copy of Green Hills of Stranglethorn. What a good book!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000331; -- content_default: I bet you I left it in the tent!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000332; -- content_default: Oh wait, that's Hollee's tent... and it's empty.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000332; -- content_default: Oh wait, that\'s Hollee\'s tent... and it\'s empty.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000333; -- content_default: Interesting... I hadn't noticed this earlier...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000334; -- content_default: %s inspects the ancient, mossy stone.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000335; -- content_default: Oh wait! I'm supposed to be looking for that mysterious fossil!
@@ -240,11 +240,11 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000340; -- content_default: %s howls in delight at the sight of his lunch!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000341; -- content_default: %s eats his lunch.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000342; -- content_default: %s thanks you with a special dance.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000343; -- content_default: Is the way clear? Let's get out while we can, $N.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000343; -- content_default: Is the way clear? Let\'s get out while we can, $N.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000344; -- content_default: Looks like we won't get away so easy. Get ready!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000345; -- content_default: Let's keep moving. We're not safe here!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000345; -- content_default: Let\'s keep moving. We're not safe here!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000346; -- content_default: Look out, $N! Enemies ahead!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000347; -- content_default: We're almost to the refuge! Let's go.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000347; -- content_default: We're almost to the refuge! Let\'s go.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000348; -- content_default: Ah...the wondrous sound of kodos. I love the way they make the ground shake... inspect the beast for me.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000349; -- content_default: Hey, look out with that kodo! You had better inspect that beast before i give you credit!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000350; -- content_default: That kodo sure is a beauty. Wait a minute, where are my bifocals? Perhaps you should inspect the beast for me.
@@ -254,12 +254,12 @@ UPDATE script_texts SET content_loc4 = "都准备好了吗！" WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000354; -- content_default: Stupid grenade picked a fine time to backfire! So much for high quality goblin engineering!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000355; -- content_default: All right, you win! I surrender! Just don't hurt me!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000356; -- content_default: Okay, okay... gimme a minute to rest now. You gone and beat me up good.
-UPDATE script_texts SET content_loc4 = "在他们发现我逃走之前，我们赶快走吧！" WHERE entry = -1000357; -- content_default: Let's go before they find out I'm free!
+UPDATE script_texts SET content_loc4 = "在他们发现我逃走之前，我们赶快走吧！" WHERE entry = -1000357; -- content_default: Let\'s go before they find out I'm free!
 UPDATE script_texts SET content_loc4 = "当心！我们被攻击了！" WHERE entry = -1000358; -- content_default: Look out! We're under attack!
 UPDATE script_texts SET content_loc4 = "感谢你帮助我。我知道从这里怎么回去。" WHERE entry = -1000359; -- content_default: Thank you for helping me. I know my way back from here.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000360; -- content_default: The strands of LIFE have been severed! The Dreamers must be avenged!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000361; -- content_default: Come forth, ye Dreamers - and claim your vengeance!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000362; -- content_default: Let's go $N. I am ready to reach Whitereach Post.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000362; -- content_default: Let\'s go $N. I am ready to reach Whitereach Post.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000363; -- content_default: Now this looks familiar. If we keep heading east, I think we can... Ahh, Wyvern on the attack!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000364; -- content_default: Thanks a bunch... I can find my way back to Whitereach Post from here. Be sure to talk with Motega Firemane; perhaps you can keep him from sending me home.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000365; -- content_default: Be on guard... Arnak has some strange power over the Grimtotem... they will not be happy to see me escape.
@@ -267,15 +267,15 @@ UPDATE script_texts SET content_loc4 = "当心，恐怖图腾在向我们靠近�
 UPDATE script_texts SET content_loc4 = "他们来了。" WHERE entry = -1000367; -- content_default: Here they come.
 UPDATE script_texts SET content_loc4 = "更多恐怖图腾朝这边来了！" WHERE entry = -1000368; -- content_default: More Grimtotems are coming this way!
 UPDATE script_texts SET content_loc4 = "终于自由了...我必须走了，谢谢你帮我逃出来！我能自己回到乱风岗。" WHERE entry = -1000369; -- content_default: Finally, free at last... I must be going now, thanks for helping me escape. I can get back to Freewind Post by myself.
-UPDATE script_texts SET content_loc4 = "跟紧点，$n。我需要一些帮助才能逃出这儿。我们出发吧！" WHERE entry = -1000370; -- content_default: Stay close, $n. I'll need all the help I can get to break out of here. Let's go!
+UPDATE script_texts SET content_loc4 = "跟紧点，$n。我需要一些帮助才能逃出这儿。我们出发吧！" WHERE entry = -1000370; -- content_default: Stay close, $n. I'll need all the help I can get to break out of here. Let\'s go!
 UPDATE script_texts SET content_loc4 = "终于从北方城堡逃出来了！我需要停下来喘口气..." WHERE entry = -1000371; -- content_default: At last! Free from Northwatch Hold! I need a moment to catch my breath...
-UPDATE script_texts SET content_loc4 = "现在感觉好多了，我们回棘齿城吧。跟上，$n。" WHERE entry = -1000372; -- content_default: Now i feel better. Let's get back to Ratchet. Come on, $n.
+UPDATE script_texts SET content_loc4 = "现在感觉好多了，我们回棘齿城吧。跟上，$n。" WHERE entry = -1000372; -- content_default: Now i feel better. Let\'s get back to Ratchet. Come on, $n.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000373; -- content_default: Looks like the Southsea Freebooters are heavily entrenched on the coast. This could get rough.
 UPDATE script_texts SET content_loc4 = "快帮帮我！我被$C攻击了！" WHERE entry = -1000374; -- content_default: Help! $C attacking!
 UPDATE script_texts SET content_loc4 = "$C快速的朝这边来了！报仇的时候到了！" WHERE entry = -1000375; -- content_default: $C heading this way fast! Time for revenge!
 UPDATE script_texts SET content_loc4 = "$C朝我们过来了！" WHERE entry = -1000376; -- content_default: $C coming right at us!
 UPDATE script_texts SET content_loc4 = "让这个$C离我远点！" WHERE entry = -1000377; -- content_default: Get this $C off of me!
-UPDATE script_texts SET content_loc4 = "快要到棘齿城了！我们继续前进..." WHERE entry = -1000378; -- content_default: Almost back to Ratchet! Let's keep up the pace...
+UPDATE script_texts SET content_loc4 = "快要到棘齿城了！我们继续前进..." WHERE entry = -1000378; -- content_default: Almost back to Ratchet! Let\'s keep up the pace...
 UPDATE script_texts SET content_loc4 = "啊~~~棘齿城那带着咸味的空气。" WHERE entry = -1000379; -- content_default: Ah, the sweet salt air of Ratchet.
 UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来！$N,队长一定会嘉奖你的勇气的。" WHERE entry = -1000380; -- content_default: Captain Brightsun, $N here has freed me! $N, i am certain the Captain will reward your bravery.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000381; -- content_default: I sense the tortured spirits, $n. They are this way, come quickly!
@@ -291,7 +291,7 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000391; -- content_default: I'm Thirsty.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000392; -- content_default: Torta must be so worried.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000393; -- content_default: Torta, my love! I have returned at long last.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000394; -- content_default: You have any idea how long I've been waiting here? And where's dinner? All that time gone and nothing to show for it?
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000394; -- content_default: You have any idea how long I've been waiting here? And where\'s dinner? All that time gone and nothing to show for it?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000395; -- content_default: My dearest Torta. I have been gone for so long. Finally we are reunited. At long last our love can blossom again.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000396; -- content_default: Enough with the rambling. I am starving! Now, get your dusty shell into that ocean and bring momma some grub.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000397; -- content_default: Yes Torta. Whatever your heart desires...
@@ -299,7 +299,7 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000399; -- content_default: Peace is but a fleeting dream! Let the NIGHTMARE reign!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000400; -- content_default: Children of Madness - I release you upon this world!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000401; -- content_default: Hope is a DISEASE of the soul! This land shall wither and die!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000402; -- content_default: Taste your world's corruption!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000402; -- content_default: Taste your world\'s corruption!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000403; -- content_default: Rin'ji is free!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000404; -- content_default: Attack my sisters! The troll must not escape!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000405; -- content_default: Rin'ji needs help!
@@ -331,7 +331,7 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000431; -- content_default: Ugh.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000432; -- content_default: Ringo? Wake up! Don't worry, I'll take care of you.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000433; -- content_default: %s fades away after a long pause.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000434; -- content_default: Liladris has been waiting for me at Maestra's Post, so we should make haste, $N.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000434; -- content_default: Liladris has been waiting for me at Maestra\'s Post, so we should make haste, $N.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000435; -- content_default: %s looks very sleepy...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000436; -- content_default: %s suddenly falls asleep
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000437; -- content_default: %s begins to drift off...
@@ -340,7 +340,7 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000440; -- content_default: Oh, I am so tired...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000441; -- content_default: You don't mind if I stop here for a moment, do you?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000442; -- content_default: Be on the alert! The Blackwood furbolgs are numerous in the area...
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000443; -- content_default: It's quiet... Too quiet...
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000443; -- content_default: It\'s quiet... Too quiet...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000444; -- content_default: Oh, I can see Liladris from here... Tell her I'm here, won't you?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000445; -- content_default: %s wakes up!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000446; -- content_default: A-Me good. Good, A-Me. Follow... follow A-Me. Home. A-Me go home.
@@ -349,8 +349,8 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000449; -- content_default: $c, no hurt A-Me. A-Me good.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000450; -- content_default: Danger. Danger! $c try hurt A-Me.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000451; -- content_default: Bad, $c. $c, bad!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000452; -- content_default: I noticed some fire on that island over there. A human, too. Let's go check it out, $n.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000453; -- content_default: That's Reethe alright. Let's go see what he has to say, yeah?
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000452; -- content_default: I noticed some fire on that island over there. A human, too. Let\'s go check it out, $n.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000453; -- content_default: That\'s Reethe alright. Let\'s go see what he has to say, yeah?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000454; -- content_default: W-what do you want? Just leave me alone...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000455; -- content_default: I swear. I didn't steal anything from you! Here, take some of my supplies, just go away!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000456; -- content_default: Just tell us what you know about the Shady Rest Inn, and I won't bash your skull in.
@@ -364,7 +364,7 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000464; -- content_default: Gladly, sir.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000465; -- content_default: %s staggers backwards as the arrow lodges itself deeply in his chest.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000466; -- content_default: Ugh... Hallan, didn't think you had it in you...
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000467; -- content_default: Now, let's clean up the rest of the trash, men!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000467; -- content_default: Now, let\'s clean up the rest of the trash, men!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000468; -- content_default: Damn it! You'd better not die on me, human!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000469; -- content_default: Still with us, Reethe?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000470; -- content_default: Must be your lucky day. Alright, I'll talk. Just leave me alone. Look, you're not going to believe me, but it wa... oh, Light, looks like the girl could shoot...
@@ -388,7 +388,7 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000488; -- content_default: It is best that we split up now, in case they send more after us. Hopefully one of us will make it back to Garrosh. Farewell stranger.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000489; -- content_default: Show our guest around Shattrath, will you? Keep an eye out for pickpockets in the lower city.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000490; -- content_default: A newcomer to Shattrath! Make sure to drop by later. We can always use a hand with the injured.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000491; -- content_default: Be mindful of what you say, this one's being shown around by Khadgar's pet.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000491; -- content_default: Be mindful of what you say, this one\'s being shown around by Khadgar\'s pet.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000492; -- content_default: Are you joking? I'm a Scryer, I always watch what i say. More enemies than allies in this city, it seems.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000493; -- content_default: Light be with you, $n. And welcome to Shattrath.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000494; -- content_default: We're rather selective of who we befriend, $n. You think you have what it takes?
@@ -412,23 +412,23 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000512; -- content_default: Aright, $r, just keep us safe from harm while we work. We'll pay you when we return.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000513; -- content_default: The dig site is just north of here.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000514; -- content_default: We're here! Start diggin'!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000515; -- content_default: I think there's somethin' buried here, beneath the sand!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000515; -- content_default: I think there\'s somethin' buried here, beneath the sand!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000516; -- content_default: Almost got it!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000517; -- content_default: By brann's brittle bananas! What is it!? It... It looks like a drum.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000517; -- content_default: By brann\'s brittle bananas! What is it!? It... It looks like a drum.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000518; -- content_default: Wow... a drum.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000519; -- content_default: This discovery will surely rock the foundation of modern archaeology.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000520; -- content_default: Yea, great. Can we leave now? This desert is giving me hives.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000521; -- content_default: Have ye gone mad? You expect me to leave behind a drum without first beatin' on it? Not this son of Ironforge! No sir!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000522; -- content_default: This reminds me of that one time where you made us search Silithus for evidence of sand gnomes.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000523; -- content_default: Or that time when you told us that you'd discovered the cure for the plague of the 20th century. What is that even? 20th century?
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000524; -- content_default: I don't think it can top the one time where he told us that he'd heard that Artha's "cousin's" skeleton was frozen beneath a glacier in Winterspring. I'll never forgive you for that one, Letoll. I mean honestly... Artha's cousin?
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000525; -- content_default: I dunno. It can't possibly beat the time he tried to convince us that we're all actually a figment of some being's imagination and that they only use us for their own personal amusement. That went over well during dinner with the family.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000526; -- content_default: Shut yer yaps! I'm gonna bang on this drum and that's that!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000524; -- content_default: I don't think it can top the one time where he told us that he'd heard that Artha\'s "cousin\'s" skeleton was frozen beneath a glacier in Winterspring. I'll never forgive you for that one, Letoll. I mean honestly... Artha\'s cousin?
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000525; -- content_default: I dunno. It can't possibly beat the time he tried to convince us that we're all actually a figment of some being\'s imagination and that they only use us for their own personal amusement. That went over well during dinner with the family.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000526; -- content_default: Shut yer yaps! I'm gonna bang on this drum and that\'s that!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000527; -- content_default: Say, do you guys hear that?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000528; -- content_default: IN YOUR FACE! I told you there was somethin' here!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000529; -- content_default: Don't just stand there! Help him out!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000530; -- content_default: %s picks up the drum.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000531; -- content_default: You've been a tremendous help, $r! Let's get out of here before more of those things show up! I'll let Dwarfowitz know you did the job asked of ya' admirably.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000531; -- content_default: You've been a tremendous help, $r! Let\'s get out of here before more of those things show up! I'll let Dwarfowitz know you did the job asked of ya' admirably.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000532; -- content_default: At your command, my liege...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000533; -- content_default: As you desire, Lord Illidan.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000534; -- content_default: Yes, Lord Illidan, I would sacrifice to you this magnificent physique. On this day you will fall - another victim of Torloth...
@@ -452,7 +452,7 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000554; -- content_default: Well done. A blow to Arugal no doubt!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000561; -- content_default: My wounds are grave. Forgive my slow pace but my injuries won't allow me to walk any faster.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000562; -- content_default: Ah, fresh air, at last! I need a moment to rest.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000563; -- content_default: The Blackrock infestation is thick in these parts. I will do my best to keep the pace. Let's go!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000563; -- content_default: The Blackrock infestation is thick in these parts. I will do my best to keep the pace. Let\'s go!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000564; -- content_default: Marshal Marris, sir. Corporal Keeshan of the 12th Sabre Regiment returned from battle and reporting for duty!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000565; -- content_default: Brave adventurer, thank you for rescuing me! I am sure Marshal Marris will reward your kind deed.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000566; -- content_default: Stand back! Stand clear! The infernal will need to be given a wide berth!
@@ -463,7 +463,7 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000571; -- content_default: Help! I've only one hand to defend myself with.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000572; -- content_default: Feel the power of the Dark Iron Dwarves!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000573; -- content_default: Send them on! I'm not afraid of some scrawny beasts!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000574; -- content_default: Ah, here at last! It's going to feel so good to get rid of these barrels.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000574; -- content_default: Ah, here at last! It\'s going to feel so good to get rid of these barrels.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000579; -- content_default: REUSE ME
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000582; -- content_default: Help! Please, You must help me!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000583; -- content_default: Let us leave this place.
@@ -489,21 +489,21 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000622; -- content_default: Be careful in there and come back in one piece!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000623; -- content_default: Proceed.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000624; -- content_default: You're back!  Were you able to get all of the machines?
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000625; -- content_default: %s gathers the warp chaser's blood.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000625; -- content_default: %s gathers the warp chaser\'s blood.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000628; -- content_default: %s feeds on the freshly-killed warp chaser.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000629; -- content_default: <cough> <cough> Damsel in distress over here!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000630; -- content_default: Hello? Help?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000631; -- content_default: Don't leave me in here! Cause if you do I will find you!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000632; -- content_default: Ok, let's get out of here!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000632; -- content_default: Ok, let\'s get out of here!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000633; -- content_default: You sure you're ready? Take a moment.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000634; -- content_default: Alright, let's do this!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000644; -- content_default: Ouch! That's it, I quit the target business!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000634; -- content_default: Alright, let\'s do this!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000644; -- content_default: Ouch! That\'s it, I quit the target business!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000645; -- content_default: My ear! You grazed my ear!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000646; -- content_default: Not the 'stache! Now I'm asymmetrical!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000647; -- content_default: Good shot!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000648; -- content_default: Stop whining. You've still got your luck.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000649; -- content_default: Bah, it's an improvement.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000650; -- content_default: Calm down lad, it's just a birdshot!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000649; -- content_default: Bah, it\'s an improvement.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000650; -- content_default: Calm down lad, it\'s just a birdshot!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000651; -- content_default: The only thing hurt is your pride, lad! Buck up!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000652; -- content_default: Me so hungry! YUM!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000653; -- content_default: Hey... me not feel so good.
@@ -516,10 +516,10 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000669; -- content_default: We will locate the origin of the Nightmare through the fragments you collected, $N. From there, we will pull Eranikus through a rift in the Dream. Steel yourself, $C. We are inviting the embodiment of the Nightmare into our world.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000670; -- content_default: To Nighthaven! Keep your army close, champion. 
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000671; -- content_default: The rift will be opened there, above the Lake Elun'ara. Prepare yourself, $N. Eranikus entry into our world will be wrought with chaos and strife.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000672; -- content_default: He will stop at nothing to get to Malfurion's physical manifistation. That must not happen... We must keep the beast occupied long enough for Tyrande to arrive.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000672; -- content_default: He will stop at nothing to get to Malfurion\'s physical manifistation. That must not happen... We must keep the beast occupied long enough for Tyrande to arrive.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000673; -- content_default: Defend Nightaven, hero...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000674; -- content_default: %s has entered our world
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000675; -- content_default: Pitful predictable mortals... You know not what you have done! The master's will fulfilled. The Moonglade shall be destroyed and Malfurion along with it!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000675; -- content_default: Pitful predictable mortals... You know not what you have done! The master\'s will fulfilled. The Moonglade shall be destroyed and Malfurion along with it!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000676; -- content_default: Fiend! Face the might of Cenarius!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000677; -- content_default: %s lets loose a sinister laugh.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000678; -- content_default: You are certanly not your father, insect. Should it interest me, I would crush you with but a swipe of my claws. Turn Shan'do Stormrage over to me and your pitiful life will be spared along with the lives of your people.
@@ -529,7 +529,7 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000682; -- content_default: Hurry, $N! We must find protective cover!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000683; -- content_default: Please, champion, protect our people.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000684; -- content_default: Rise, servants of the Nightmare! Rise and destroy this world! Let there be no survivors...
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000685; -- content_default: We will battle these fiends, together! Nighthaven's Defenders are also among us. They will fight to the death if asked. Now, quickly, we must drive these aberations back to the Nightmare. Destroy them all!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000685; -- content_default: We will battle these fiends, together! Nighthaven\'s Defenders are also among us. They will fight to the death if asked. Now, quickly, we must drive these aberations back to the Nightmare. Destroy them all!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000686; -- content_default: Where is your savior? How long can you hold out against my attacks?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000687; -- content_default: Defeated my minions? Then face me, mortals!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000688; -- content_default: Remulos, look how easy they fall before me? You can stop this, fool. Turn the druid over to me and it will all be over...
@@ -544,18 +544,18 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000697; -- content_default: %s is wholly consumed by the Light of Elune. Tranquility sets in over the Moonglade
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000698; -- content_default: %s falls to one knee.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000699; -- content_default: Praise be to Elune... Eranikus is redeemed.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000700; -- content_default: For so long, I was lost... The Nightmare's corruption had consumed me... And now, you... all of you.. you have saved me. Released me from its grasp.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000700; -- content_default: For so long, I was lost... The Nightmare\'s corruption had consumed me... And now, you... all of you.. you have saved me. Released me from its grasp.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000701; -- content_default: But... Malfurion, Cenarius, Ysera... They still fight. They need me. I must return to the Dream at once.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000702; -- content_default: My lady, I am unworthy of your prayer. Truly, you are an angel of light. Please, assist me in returning to the barrow den so that I may return to the Dream. I like Malfurion, also have a love awaiting me... I must return to her... to protect her...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000703; -- content_default: And heroes... I hold that which you seek. May it once more see the evil dissolved. Remulos, see to it that our champion receives the shard of the Green Flight.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000704; -- content_default: It will be done, Eranikus. Be well, ancient one.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000705; -- content_default: Let us leave Nighthave, hero. Seek me out at the grove.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000706; -- content_default: Your world shall suffer an unmerciful end. The Nightmare comes for you!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000707; -- content_default: This blue light... It's strange. What do you think it means?
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000707; -- content_default: This blue light... It\'s strange. What do you think it means?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000708; -- content_default: We've found it!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000709; -- content_default: Please, light this while I am channeling
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000710; -- content_default: This is the place. Let's light it.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000711; -- content_default: Let's find the next one.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000710; -- content_default: This is the place. Let\'s light it.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000711; -- content_default: Let\'s find the next one.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000712; -- content_default: We must continue on now.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000713; -- content_default: It is time for the final step; we must activate the altar.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000714; -- content_default: I will read the words carved into the stone, and you must find a way to light it.
@@ -565,7 +565,7 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000718; -- content_default: Who has disturbed the altar of the goddess?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000719; -- content_default: Please, priestesses, forgive us for our intrusion. We do not wish any harm here.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000720; -- content_default: We only wish to know why the wildkin guard this area...
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000721; -- content_default: Enu thora'serador. This is a sacred place.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000721; -- content_default: Enu thora\'serador. This is a sacred place.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000722; -- content_default: We will show you...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000723; -- content_default: Look above you; thara dormil dorah...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000724; -- content_default: This gem once allowed direct communication with Elune, herself.
@@ -611,21 +611,21 @@ UPDATE script_texts SET content_loc4 = "队长，这位$N帮助我逃了出来�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000764; -- content_default: I want nothing to do with Silithus, the Qiraji and least of all, any damed dragons!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000765; -- content_default: %s hurls the Scepter of the Shifting Sands into the barrier, shattering it.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000766; -- content_default: Lord Staghelm, where are you going? You would shatter our bond for the sake of pride?
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000767; -- content_default: My son's soul will find no comfort in this hollow victory, dragon! I will have him back. Though it takes a millenia. I WILL have my son back!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000767; -- content_default: My son\'s soul will find no comfort in this hollow victory, dragon! I will have him back. Though it takes a millenia. I WILL have my son back!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000768; -- content_default: %s shakes his head in disappointment.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000769; -- content_default: %s kneels down to pickup the fragments of the shattered scepter.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000770; -- content_default: And now you know all that there is to know, mortal
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000771; -- content_default: Let's go $N!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000771; -- content_default: Let\'s go $N!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000772; -- content_default: It looks like we're in trouble. Look lively, here they come!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000773; -- content_default: Assassins from that cult you found... Let's get moving before someone else finds us out here.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000773; -- content_default: Assassins from that cult you found... Let\'s get moving before someone else finds us out here.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000774; -- content_default: Hold! I sense an evil presence... Undead!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000775; -- content_default: A $C! Slaying him would please the master. Attack!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000776; -- content_default: They're coming out of the woodwork today. Let's keep moving or we may find more things that want me dead.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000776; -- content_default: They're coming out of the woodwork today. Let\'s keep moving or we may find more things that want me dead.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000777; -- content_default: These three again?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000778; -- content_default: Not quite so sure of yourself without the Purifier, hm?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000779; -- content_default: I'll finish you off for good this time!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000780; -- content_default: Well done! I should be fine on my own from here. Remember to talk to Delgren when you return to Maestra's Post in Ashenvale.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000784; -- content_default: Thanks $N. Now let's get out of here!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000780; -- content_default: Well done! I should be fine on my own from here. Remember to talk to Delgren when you return to Maestra\'s Post in Ashenvale.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000784; -- content_default: Thanks $N. Now let\'s get out of here!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000785; -- content_default: We made it! Thanks again! I'm going to run ahead!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000786; -- content_default: Hey Hornizz! I'm back! And there are some people behind me who helped me out of a jam.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000787; -- content_default: We're going to have to scratch the Maraudines off our list. Too hard to work with...
@@ -706,7 +706,7 @@ UPDATE script_texts SET content_loc4 = "好困...太困了..." WHERE entry = -10
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000862; -- content_default: %s gasps.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000863; -- content_default: Curious... Windsor, in this vision, did you survive? I only ask because one thing that I can and will assure is your death. Here and now.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000864; -- content_default: Dragon filth! Guards! Guards! Seize this monster!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000865; -- content_default: Yesss... Guards, come to your lord's aid!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000865; -- content_default: Yesss... Guards, come to your lord\'s aid!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000866; -- content_default: DO NOT LET HER ESCAPE!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000867; -- content_default: Was this fabled, Windsor? If it was death that you came for then the prophecy has been fulfilled. May your consciousness rot in the Twisting Nether. Finish the rest of these meddlesome insects, children. Bolvar, you have been a pleasureable puppet.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000868; -- content_default: You have failed him, mortalsss... Farewell!
@@ -746,25 +746,25 @@ UPDATE script_texts SET content_loc4 = "我们的敌人必将失败！" WHERE en
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000902; -- content_default: REUSE_ME
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000903; -- content_default: REUSE_ME
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000904; -- content_default: REUSE_ME
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000905; -- content_default: Ok, let's go!!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000905; -- content_default: Ok, let\'s go!!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000906; -- content_default: I can make it the rest of the way. $N. THANKS!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000948; -- content_default: Well then, let's get this started. The longer we're here, the more damage the undead could be doing back in Hilsbrad.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000948; -- content_default: Well then, let\'s get this started. The longer we're here, the more damage the undead could be doing back in Hilsbrad.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000949; -- content_default: All right, this is where we really have to be on our paws. Be ready!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000950; -- content_default: Attack me if you will, but you won't stop me from getting back to Quae.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000951; -- content_default: You have my word that I shall find a use for your body after I've killed you, Kinelory.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000952; -- content_default: Watch my rear! I'll see what I can find in all this junk...
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000953; -- content_default: %s begins rummaging through the apothecary's belongings.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000954; -- content_default: I bet Quae'll think this is important. She's pretty knowledgeable about these things--no expert, but knowledgable.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000955; -- content_default: Okay, let's get out of here quick quick! Try and keep up. I'm going to make a break for it.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000953; -- content_default: %s begins rummaging through the apothecary\'s belongings.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000954; -- content_default: I bet Quae'll think this is important. She\'s pretty knowledgeable about these things--no expert, but knowledgable.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000955; -- content_default: Okay, let\'s get out of here quick quick! Try and keep up. I'm going to make a break for it.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000958; -- content_default: You must protect me from monsters, who are living in this forest!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000959; -- content_default: This part of forest are very danger for us. We must be a careful!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000960; -- content_default: Kill two monsters, who stay near Bogbean plant and then I gather a bogbean.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000961; -- content_default: I am gathering a bogbean. It takes some time.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000977; -- content_default: Oh, it's on now! But you thought I'd be alone too, huh?!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000977; -- content_default: Oh, it\'s on now! But you thought I'd be alone too, huh?!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000978; -- content_default: Okay, okay! No need to get all violent. I'll talk. I'll talk!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000979; -- content_default: Whoa! This is way more than what I bargained for, you're on your own, Slim!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000980; -- content_default: I have a few notes from the job back at my place. I'll get them and then meet you back in the inn.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000993; -- content_default: It's on! $N, meet my fists. Fists, say hello to $N.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000993; -- content_default: It\'s on! $N, meet my fists. Fists, say hello to $N.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000994; -- content_default: I'm about to open a can on this $N.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1033000; -- content_default: Follow me and I'll open the courtyard door for you.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1033001; -- content_default: I have just the spell to get this door open. Too bad the cell doors weren't locked so haphazardly.
@@ -795,14 +795,14 @@ UPDATE script_texts SET content_loc4 = "唤醒仪式开始之前我必须做一�
 UPDATE script_texts SET content_loc4 = "这些洞穴曾经是一座神庙，是治愈贫瘠之地的希望。现在成了梦魇的栖息之地。" WHERE entry = -1043002; -- content_default: These caverns were once a temple of promise for regrowth in the Barrens. Now, they are the halls of nightmares.
 UPDATE script_texts SET content_loc4 = "跟上，我们必须继续前进。在我们能把纳拉雷克斯从他的梦魇中唤醒之前还有很多事情需要做。" WHERE entry = -1043003; -- content_default: Come. We must continue. There is much to be done before we can pull Naralex from his nightmare.
 UPDATE script_texts SET content_loc4 = "我必须在这个法阵中施法来放逐这些被杀的尖牙德鲁伊的灵魂。" WHERE entry = -1043004; -- content_default: Within this circle of fire I must cast the spell to banish the spirits of the slain Fanglords.
-UPDATE script_texts SET content_loc4 = "这个洞穴被净化了。我们赶快去纳拉雷克斯的房间！" WHERE entry = -1043005; -- content_default: The caverns have been purified. To Naralex's chamber we go!
+UPDATE script_texts SET content_loc4 = "这个洞穴被净化了。我们赶快去纳拉雷克斯的房间！" WHERE entry = -1043005; -- content_default: The caverns have been purified. To Naralex\'s chamber we go!
 UPDATE script_texts SET content_loc4 = "穿过这个通道，纳拉雷克斯正沉睡在他无尽的梦魇中。我们赶快去唤醒他，不然就来不及了。" WHERE entry = -1043006; -- content_default: Beyond this corridor, Naralex lies in fitful sleep. Let us go awaken him before it is too late.
 UPDATE script_texts SET content_loc4 = "勇士们，当我进入翡翠梦境营救纳拉雷克斯时请保护我，然后我们终结这里的堕落之源！" WHERE entry = -1043007; -- content_default: Protect me brave souls as I delve into the Emerald Dream to rescue Naralex and put an end to this corruption!
 UPDATE script_texts SET content_loc4 = "%s开始对纳拉雷克斯启动唤醒仪式" WHERE entry = -1043008; -- content_default: %s begins to perform the awakening ritual on Naralex.
 UPDATE script_texts SET content_loc4 = "%s的梦境渐渐开始崩塌" WHERE entry = -1043009; -- content_default: %s tosses fitfully in troubled sleep.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1043010; -- content_default: %s writhes in agony. The Disciple seems to be breaking through.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1043011; -- content_default: %s dreams up a horrendous vision. Something stirs beneath the murky waters.
-UPDATE script_texts SET content_loc4 = "这个$N毫无疑问是纳拉雷克斯梦魇中的一个小角色！" WHERE entry = -1043012; -- content_default: This $N is a minion from Naralex's nightmare no doubt!.
+UPDATE script_texts SET content_loc4 = "这个$N毫无疑问是纳拉雷克斯梦魇中的一个小角色！" WHERE entry = -1043012; -- content_default: This $N is a minion from Naralex\'s nightmare no doubt!.
 UPDATE script_texts SET content_loc4 = "我终于醒了！！" WHERE entry = -1043013; -- content_default: I AM AWAKE, AT LAST!
 UPDATE script_texts SET content_loc4 = "纳拉雷克斯终于中梦魇中醒过来了！" WHERE entry = -1043014; -- content_default: At last! Naralex awakes from the nightmare.
 UPDATE script_texts SET content_loc4 = "啊，你们从可怕的梦魇中救了我！谢谢你,我忠诚的信徒,连同你的勇敢的同伴。" WHERE entry = -1043015; -- content_default: Ah, to be pulled from the dreaded nightmare! I thank you, my loyal Disciple, along with your brave companions.
@@ -810,9 +810,9 @@ UPDATE script_texts SET content_loc4 = "我必须去和其它信徒汇合了。�
 UPDATE script_texts SET content_loc4 = "我受到攻击！快让这个$N离我远点！" WHERE entry = -1043017; -- content_default: Attacked! Help get this $N off of me!
 UPDATE script_texts SET content_loc4 = "快帮帮我！" WHERE entry = -1043018; -- content_default: Help!
 UPDATE script_texts SET content_loc4 = "对付一下这个$N！我要准备唤醒纳拉雷克斯！" WHERE entry = -1043019; -- content_default: Deal with this $N! I need to prepare to awake Naralex!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1047000; -- content_default: Woo hoo! Finally getting out of here. It's going to be rough though. Keep your eyes peeled for trouble.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1047000; -- content_default: Woo hoo! Finally getting out of here. It\'s going to be rough though. Keep your eyes peeled for trouble.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1047001; -- content_default: Up there is where Charlga Razorflank resides. Blasted old crone.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1047002; -- content_default: There's blueleaf tuber in this trench! It's like gold waiting to be mined I tell you!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1047002; -- content_default: There\'s blueleaf tuber in this trench! It\'s like gold waiting to be mined I tell you!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1047003; -- content_default: There could be danger around every corner here.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1047004; -- content_default: I don't see how these foul animals live in this place... sheesh it smells!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1047005; -- content_default: I think I see a way for us to get out of this big twisted mess of a bramble.
@@ -830,9 +830,9 @@ UPDATE script_texts SET content_loc4 = "对付一下这个$N！我要准备唤�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1070004; -- content_default: Reckless mortal.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1070005; -- content_default: %s breaks free from his stone slumber!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1090000; -- content_default: With your help, I can evaluate these tunnels.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1090001; -- content_default: Let's see if we can find out where these Troggs are coming from.... and put a stop to the invasion!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1090001; -- content_default: Let\'s see if we can find out where these Troggs are coming from.... and put a stop to the invasion!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1090002; -- content_default: Such devastation... what a horrible mess...
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1090003; -- content_default: It's quiet here....
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1090003; -- content_default: It\'s quiet here....
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1090004; -- content_default: ...too quiet.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1090005; -- content_default: Look! Over there at the tunnel wall!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1090006; -- content_default: Trogg incursion! Defend me while I blast the hole closed!
@@ -875,13 +875,13 @@ UPDATE script_texts SET content_loc4 = "对付一下这个$N！我要准备唤�
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129003; -- content_default: REUSE_ME
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129004; -- content_default: REUSE_ME
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129005; -- content_default: All right, stay close. These fiends will jump right out of the shadows at you if you let your guard down.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129006; -- content_default: Okay, here we go. It's going to take about five minutes to shut this thing down through the ritual. Once I start, keep the vermin off of me or it will be the end of us all!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129006; -- content_default: Okay, here we go. It\'s going to take about five minutes to shut this thing down through the ritual. Once I start, keep the vermin off of me or it will be the end of us all!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129007; -- content_default: You'll rue the day you crossed me, $N
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129008; -- content_default: Incoming $N - look sharp, friends!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129009; -- content_default: Three minutes left -- I can feel the energy starting to build! Keep up the solid defense!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129010; -- content_default: Just two minutes to go! We're half way there, but don't let your guard down!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129011; -- content_default: One more minute! Hold on now, the ritual is about to take hold!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129012; -- content_default: That's it -- we made it! The ritual is set in motion, and idol fires are about to go out for good! You truly are the heroes I thought you would be!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1129012; -- content_default: That\'s it -- we made it! The ritual is set in motion, and idol fires are about to go out for good! You truly are the heroes I thought you would be!
 UPDATE script_texts SET content_loc4 = "给我来一次真正的挑战吧！" WHERE entry = -1189000; -- content_default: Ah, I have been waiting for a real challenge!
 UPDATE script_texts SET content_loc4 = "光明之刃！" WHERE entry = -1189001; -- content_default: Blades of Light!
 UPDATE script_texts SET content_loc4 = "圣光，赐予我力量吧！" WHERE entry = -1189002; -- content_default: Light, give me strength!
@@ -943,24 +943,24 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230011; -- content_default: You locked up the wrong Marshal, $N. Prepare to be destroyed!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230012; -- content_default: I bet you're sorry now, aren't you?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230013; -- content_default: You better hold me back or $N is going to feel some prison house beatings.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230014; -- content_default: Let's get a move on. My gear should be in the storage area up this way...
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230014; -- content_default: Let\'s get a move on. My gear should be in the storage area up this way...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230015; -- content_default: Check that cell, $N. If someone is alive in there, we need to get them out.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230016; -- content_default: Good work! We're almost there, $N. This way.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230017; -- content_default: This is it, $N. My stuff should be in that room. Cover me, I'm going in!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230018; -- content_default: Ah, there it is!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230019; -- content_default: Can you feel the power, $N??? It's time to ROCK!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230019; -- content_default: Can you feel the power, $N??? It\'s time to ROCK!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230020; -- content_default: Now we just have to free Tobias and we can get out of here. This way!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230021; -- content_default: Open it.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230022; -- content_default: I never did like those two. Let's get moving.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230022; -- content_default: I never did like those two. Let\'s get moving.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230023; -- content_default: Open it and be careful this time!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230024; -- content_default: That intolerant dirtbag finally got what was coming to him. Good riddance!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230025; -- content_default: Alright, let's go.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230025; -- content_default: Alright, let\'s go.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230026; -- content_default: Open it. We need to hurry up. I can smell those Dark Irons coming a mile away and I can tell you one thing, they're COMING!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230027; -- content_default: He has to be in the last cell. Unless... they killed him.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230028; -- content_default: Get him out of there!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230029; -- content_default: Excellent work, $N. Let's find the exit. I think I know the way. Follow me!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230029; -- content_default: Excellent work, $N. Let\'s find the exit. I think I know the way. Follow me!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230030; -- content_default: We made it!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230031; -- content_default: Meet me at Maxwell's encampment. We'll go over the next stages of the plan there and figure out a way to decode my tablets without the decryption ring.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230031; -- content_default: Meet me at Maxwell\'s encampment. We'll go over the next stages of the plan there and figure out a way to decode my tablets without the decryption ring.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230032; -- content_default: Thank you! I will run for safety immediately!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230033; -- content_default: Finally!! I can leave this dump.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1249000; -- content_default: How fortuitous. Usually, I must leave my lair to feed.
@@ -1008,9 +1008,9 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329008; -- content_default: Intruders at the Service Gate! Lord Rivendare must be warned!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329009; -- content_default: Intruders! More pawns of the Argent Dawn, no doubt. I already count one of their number among my prisoners. Withdraw from my domain before she is executed!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329010; -- content_default: You're still here? Your foolishness is amusing! The Argent Dawn wench needn't suffer in vain. Leave at once and she shall be spared!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329011; -- content_default: I shall take great pleasure in taking this poor wretch's life! It's not too late, she needn't suffer in vain. Turn back and her death shall be merciful!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329012; -- content_default: May this prisoner's death serve as a warning. None shall defy the Scourge and live!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329013; -- content_default: So you see fit to toy with the Lich King's creations? Ramstein, be sure to give the intruders a proper greeting.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329011; -- content_default: I shall take great pleasure in taking this poor wretch\'s life! It\'s not too late, she needn't suffer in vain. Turn back and her death shall be merciful!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329012; -- content_default: May this prisoner\'s death serve as a warning. None shall defy the Scourge and live!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329013; -- content_default: So you see fit to toy with the Lich King\'s creations? Ramstein, be sure to give the intruders a proper greeting.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329014; -- content_default: Time to take matters into my own hands. Come. Enter my domain and challenge the might of the Scourge!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329015; -- content_default: You did it... you've slain Baron Rivendare! The Argent Dawn shall hear of your valiant deeds!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329016; -- content_default: Today you have unmade what took me years to create! For this you shall all die by my hand!
@@ -1051,15 +1051,15 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469004; -- content_default: In this world where time is your enemy, it is my greatest ally. This grand game of life that you think you play in fact plays you. To that I say...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469005; -- content_default: Let the games begin!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469006; -- content_default: Ah...the heroes. You are persistent, aren't you? Your ally here attempted to match his power against mine - and paid the price. Now he shall serve me...by slaughtering you.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469007; -- content_default: Well done, my minions. The mortals' courage begins to wane! Now, let's see how they contend with the true Lord of Blackrock Spire!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469007; -- content_default: Well done, my minions. The mortals' courage begins to wane! Now, let\'s see how they contend with the true Lord of Blackrock Spire!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469008; -- content_default: Enough! Now you vermin shall feel the force of my birthright, the fury of the earth itself.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469009; -- content_default: BURN! You wretches! BURN!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469010; -- content_default: Impossible! Rise my minions! Serve your master once more!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469011; -- content_default: Worthless $N! Your friends will join you soon enough!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469012; -- content_default: This cannot be!  I am the master here!  You mortals are nothing to my kind!  Do you hear me? Nothing!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469013; -- content_default: Mages too? You should be more careful when you play with magic...
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469014; -- content_default: Warriors, I know you can hit harder than that! Let's see it!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469015; -- content_default: Druids and your silly shapeshifting. Let's see it in action!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469014; -- content_default: Warriors, I know you can hit harder than that! Let\'s see it!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469015; -- content_default: Druids and your silly shapeshifting. Let\'s see it in action!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469016; -- content_default: Priests! If you're going to keep healing like that, we might as well make it a little more interesting!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469017; -- content_default: Paladins, I've heard you have many lives. Show me.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1469018; -- content_default: Shamans, show me what your totems can do!
@@ -1131,7 +1131,7 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1531016; -- content_default: Oh so much pain...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1531017; -- content_default: Come, little ones.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1531018; -- content_default: The feast of souls begin now...
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1531019; -- content_default: It's too late to turn away.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1531019; -- content_default: It\'s too late to turn away.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1531020; -- content_default: Prepare to embrace oblivion!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1531021; -- content_default: Like a fly in a web.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1531022; -- content_default: Your brash arrogance!
@@ -1162,8 +1162,8 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533006; -- content_default: Which one shall I eat first? So difficult to choose... the all smell so delicious.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533007; -- content_default: Closer now... tasty morsels. I've been too long without food. Without blood to drink.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533008; -- content_default: Shh... it will all be over soon.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533009; -- content_default: Your old lives, your mortal desires, mean nothing. You are acolytes of the master now, and you will serve the cause without question! The greatest glory is to die in the master's service!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533010; -- content_default: Slay them in the master's name!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533009; -- content_default: Your old lives, your mortal desires, mean nothing. You are acolytes of the master now, and you will serve the cause without question! The greatest glory is to die in the master\'s service!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533010; -- content_default: Slay them in the master\'s name!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533011; -- content_default: You cannot hide from me!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533012; -- content_default: Kneel before me, worm!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533013; -- content_default: Run while you still can!
@@ -1202,7 +1202,7 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533046; -- content_default: I do hope they stay alive long enough for me to... introduce myself.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533047; -- content_default: The first kill goes to me! Anyone care to wager?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533048; -- content_default: Your life is mine!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533049; -- content_default: Who's next?
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533049; -- content_default: Who\'s next?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533050; -- content_default: Tou... che!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533051; -- content_default: Come out and fight, ye wee ninny!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533052; -- content_default: To arms, ye roustabouts! We've got company!
@@ -1211,10 +1211,10 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533055; -- content_default: I like my meat extra crispy!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533056; -- content_default: Next time, bring more friends!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533057; -- content_default: What a bloody waste this is!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533058; -- content_default: Flee, before it's too late!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533058; -- content_default: Flee, before it\'s too late!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533059; -- content_default: Invaders, cease this foolish venture at once! Turn away while you still can!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533060; -- content_default: Perhaps they will come to their senses, and run away as fast as they can!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533061; -- content_default: Do not continue! Turn back while there's still time!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533061; -- content_default: Do not continue! Turn back while there\'s still time!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533062; -- content_default: I- I have no choice but to obey!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533063; -- content_default: Forgive me!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533064; -- content_default: It is... as it should be.
@@ -1222,12 +1222,12 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533066; -- content_default: None shall pass!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533067; -- content_default: Be still!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533068; -- content_default: You will find no peace in death.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533069; -- content_default: The master's will is done.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533069; -- content_default: The master\'s will is done.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533070; -- content_default: Bow to the might of the Highlord!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533071; -- content_default: Enough prattling. Let them come! We shall grind their bones to dust.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533072; -- content_default: Conserve your anger! Harness your rage! You will all have outlets for your frustration soon enough.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533073; -- content_default: Life is meaningless. It is in death that we are truly tested.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533074; -- content_default: I...am...released! Perhaps it's not too late to 
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533074; -- content_default: I...am...released! Perhaps it\'s not too late to 
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533075; -- content_default: Glory to the master!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533076; -- content_default: Your life is forfeit!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533077; -- content_default: Die, trespasser!
@@ -1308,7 +1308,7 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533152; -- content_default: %s decimates all nearby flesh!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533153; -- content_default: A %s joins the fight!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533154; -- content_default: %s begins to unleash an insect swarm!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533155; -- content_default: Corpse Scarabs appear from a Crypt Guard's corpse!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533155; -- content_default: Corpse Scarabs appear from a Crypt Guard\'s corpse!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533156; -- content_default: %s casts Unyielding Pain on everyone!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533157; -- content_default: %s casts Condemation on everyone!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1533158; -- content_default: %s injects you with a mutagen!
@@ -1316,7 +1316,7 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000956; -- content_default: We made it! Quae, we made it!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000957; -- content_default: %s hands her pack to Quae.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1000962; -- content_default: Thanks you for help.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1001148; -- content_default: I am ready, $N. Let's find my equipment and get out of here. I think I know where it is.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1001148; -- content_default: I am ready, $N. Let\'s find my equipment and get out of here. I think I know where it is.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1001149; -- content_default: Oh my! Look at this... all these candles. I'm sure they're used for some terrible ritual or dark summoning. We best make haste.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1001150; -- content_default: There! Over there!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1001151; -- content_default: You will not stop me from escaping here, $N!
@@ -1326,7 +1326,7 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1001155; -- content_default: BETRAYER!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1001156; -- content_default: What was that?! Trey? TREY?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1001157; -- content_default: You kept me in the cell for too long, monster!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1001158; -- content_default: No! My friend... what's happened? This is all my fault...
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1001158; -- content_default: No! My friend... what\'s happened? This is all my fault...
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329019; -- content_default: Don\'t worry about me!  Slay this dreadful beast and cleanse this world of his foul taint!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1329020; -- content_default: My death means nothing.... light... will... prevail!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230036; -- content_default: I want more ale! Give me more ale!
@@ -1337,21 +1337,21 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230041; -- content_default: Get away from those kegs!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230042; -- content_default: You'll pay for that!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230043; -- content_default: You can't hide from us. Prepare to burn!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230044; -- content_default: That one's empty!!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230044; -- content_default: That one\'s empty!!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230045; -- content_default: Ah, empty again!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230046; -- content_default: ALE!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230047; -- content_default: Im out of here!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230048; -- content_default: HALT! There were...reports...of a...disturbance.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230049; -- content_default: We...are...investigating.
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230050; -- content_default: Try the boar! It's my new recipe!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230050; -- content_default: Try the boar! It\'s my new recipe!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230051; -- content_default: Enjoy! You won't find better ale anywhere!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230052; -- content_default: Drink up! There's more where that came from!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230053; -- content_default: Have you tried the Dark Iron Ale? It's the best!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230052; -- content_default: Drink up! There\'s more where that came from!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230053; -- content_default: Have you tried the Dark Iron Ale? It\'s the best!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230054; -- content_default: What are you doing over there?
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230055; -- content_default: Hey! Get away from that!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230056; -- content_default: No stealing the goods!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230057; -- content_default: That's it! You're going down!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230058; -- content_default: That's it! No more beer until this mess is sorted out!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230057; -- content_default: That\'s it! You're going down!
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230058; -- content_default: That\'s it! No more beer until this mess is sorted out!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230059; -- content_default: Hey, my pockets were picked!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230060; -- content_default: Ha! You can't even begin to imagine the futility of your efforts.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230061; -- content_default: Is that the best you can do? Do you really expect that you could defeat someone as awe inspiring as me?
@@ -1360,7 +1360,7 @@ UPDATE script_texts SET content_loc4 = "让正义的火焰吞噬你吧！" WHERE
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230064; -- content_default: I will crush you into little tiny pieces!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230065; -- content_default: Prepare to meet your doom at the hands of Ragnaros' most powerful servant!
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230066; -- content_default: Hey, Rocknot!
--- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230067; -- content_default: Let's go, honey.
+-- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230067; -- content_default: Let\'s go, honey.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230068; -- content_default: %s kisses her lover.
 -- UPDATE script_texts SET content_loc4 = "" WHERE entry = -1230069; -- content_default: %s kisses Mistress Nagmara
 

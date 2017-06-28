@@ -271,24 +271,36 @@ REM echo  .... GossipMenu
 REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_GossipMenu.sql
 echo  .... Items
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Items.sql
-REM echo  .... PageText
-REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_PageText.sql
+echo  .... PageText
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_PageText.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Quest.sql
+echo  .... Script Texts
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Script_Texts.sql
 goto WorldDB1:
 
 :LoadDE
 echo  Loading German Locale into World Database %wdb%
 echo  .... Creatures
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Creature.sql
+echo  .... Creature AI Texts
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Creature_ai_texts.sql
 echo  .... GameObjects
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Gameobject.sql
 echo  .... GossipMenu
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_GossipMenu.sql
+echo  .... Gossip Texts
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Gossip_texts.sql
 echo  .... Items
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Items.sql
 echo  .... PageText
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_PageText.sql
+echo  .... Points of Interest
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Points_of_interest.sql
+echo  .... DB Script Strings
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_db_script_string.sql
+echo  .... Script Texts
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_script_texts.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Quest.sql
 goto WorldDB2:
@@ -303,8 +315,8 @@ REM echo  .... GossipMenu
 REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_GossipMenu.sql
 echo  .... Items
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Items.sql
-REM echo  .... PageText
-REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_PageText.sql
+echo  .... PageText
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_PageText.sql
 REM echo  .... Quests
 REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Quest.sql
 goto WorldDB3:
@@ -337,8 +349,8 @@ REM echo  .... GossipMenu
 REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_GossipMenu.sql
 echo  .... Items
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Items.sql
-REM echo  .... PageText
-REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_PageText.sql
+echo  .... PageText
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_PageText.sql
 REM echo  .... Quests
 REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Quest.sql
 goto WorldDB5:
@@ -353,8 +365,8 @@ REM echo  .... GossipMenu
 REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_GossipMenu.sql
 echo  .... Items
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Items.sql
-REM echo  .... PageText
-REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_PageText.sql
+echo  .... PageText
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_PageText.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Quest.sql
 goto WorldDB6:
@@ -369,8 +381,8 @@ REM echo  .... GossipMenu
 REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_GossipMenu.sql
 echo  .... Items
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Items.sql
-REM echo  .... PageText
-REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_PageText.sql
+echo  .... PageText
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_PageText.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Quest.sql
 goto WorldDB7:
