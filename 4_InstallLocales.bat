@@ -347,6 +347,8 @@ echo  .... PageText
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_PageText.sql
 echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Script_Texts.sql
+echo  .... DB Script Strings
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_db_script_string.sql
 echo  .... Mangos String
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Mangos_String.sql
 echo  .... Creature AI Texts
@@ -433,6 +435,8 @@ echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Script_Texts.sql
 echo  .... Mangos String
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Mangos_String.sql
+echo  .... DB Script Strings
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_db_script_string.sql
 echo  .... Creature AI Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Creature_AI_Texts.sql
 echo  .... Quests
