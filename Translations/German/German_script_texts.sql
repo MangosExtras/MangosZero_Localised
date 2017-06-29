@@ -63,6 +63,7 @@ UPDATE script_texts SET content_loc3='Kirel narak!' WHERE entry=-1000152; -- con
 UPDATE script_texts SET content_loc3='Verabscheuungswürdiger Wicht!' WHERE entry=-1000153; -- content: Contemptible wretch!
 UPDATE script_texts SET content_loc3='Das Universum wird neu erschaffen.' WHERE entry=-1000154; -- content: The universe will be remade.
 UPDATE script_texts SET content_loc3='Die Legion wird niemals fallen!' WHERE entry=-1000155; -- content: The Legion... will never... fall.
+UPDATE script_texts SET content_loc3='REUSE ME' WHERE entry=-1000156; -- content: REUSE ME
 UPDATE script_texts SET content_loc3='Eindringlinge, ihr steht am Rande des Untergangs! Die Brennende Legion ist gekommen, und mit ihr euer Ende.' WHERE entry=-1000157; -- content: Invaders, you dangle upon the precipice of oblivion! The Burning Legion comes and with it comes your end.
 
 

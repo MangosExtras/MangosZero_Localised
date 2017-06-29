@@ -27,6 +27,7 @@ UPDATE script_texts SET content_loc4='快要到棘齿城了！我们继续前进
 UPDATE script_texts SET content_loc4='啊~~~棘齿城那带着咸味的空气。' WHERE entry=-1000379; -- content: Ah, the sweet salt air of Ratchet.
 UPDATE script_texts SET content_loc4='队长，这位$N帮助我逃了出来！$N,队长一定会嘉奖你的勇气的。' WHERE entry=-1000380; -- content: Captain Brightsun, $N here has freed me! $N, i am certain the Captain will reward your bravery.
 UPDATE script_texts SET content_loc4='当心！' WHERE entry=-1000482; -- content: Look out!
+UPDATE script_texts SET content_loc4='感觉一下黑铁矮人的力量!' WHERE entry=-1000572; -- content: Feel the power of the Dark Iron Dwarves!
 UPDATE script_texts SET content_loc4='他们来了。' WHERE entry=-1000791; -- content: Here they come.
 UPDATE script_texts SET content_loc4='不要放弃！一直战斗，直到死去！' WHERE entry=-1000794; -- content: Don\'t give up! Fight, to the death!
 UPDATE script_texts SET content_loc4='好的，老板，我马上回去砍树。' WHERE entry=-1000795; -- content: OK boss, I get back to tree hitting.
@@ -38,6 +39,7 @@ UPDATE script_texts SET content_loc4='科尔卡半人马是最强的！' WHERE e
 UPDATE script_texts SET content_loc4='为了部落！' WHERE entry=-1000895; -- content: For the Horde!
 UPDATE script_texts SET content_loc4='保卫地堡工事！' WHERE entry=-1000896; -- content: Defend the bunkers!
 UPDATE script_texts SET content_loc4='我们的敌人必将失败！' WHERE entry=-1000897; -- content: Our foes will fall!
+UPDATE script_texts SET content_loc4='啊~！现在你让我生气了！' WHERE entry=-1036003; -- content: D\'ah! Now you\'re making me angry!
 UPDATE script_texts SET content_loc4='现在可以唤醒纳拉雷克斯了！来协助我，勇敢的冒险者！' WHERE entry=-1043000; -- content: At last! Naralex can be awakened! Come aid me, brave adventurers!
 UPDATE script_texts SET content_loc4='唤醒仪式开始之前我必须做一些准备工作，你必须保护我。' WHERE entry=-1043001; -- content: I must make the necessary preparations before the awakening ritual can begin. You must protect me!
 UPDATE script_texts SET content_loc4='这些洞穴曾经是一座神庙，是治愈贫瘠之地的希望。现在成了梦魇的栖息之地。' WHERE entry=-1043002; -- content: These caverns were once a temple of promise for regrowth in the Barrens. Now, they are the halls of nightmares.
@@ -68,6 +70,12 @@ UPDATE script_texts SET content_loc4='圣光会审判你们的！' WHERE entry=-
 UPDATE script_texts SET content_loc4='复活吧！我的勇士！' WHERE entry=-1189010; -- content: Arise, my champion!
 UPDATE script_texts SET content_loc4='你不能玷污这些神迹！' WHERE entry=-1189019; -- content: You will not defile these mysteries!
 UPDATE script_texts SET content_loc4='让正义的火焰吞噬你吧！' WHERE entry=-1189020; -- content: Burn in righteous fire!
+UPDATE script_texts SET content_loc4='你们怎敢进入我的密室！' WHERE entry=-1209000; -- content: How dare you enter my sanctum!
+UPDATE script_texts SET content_loc4='沙漠会将你吞噬！' WHERE entry=-1209001; -- content: Sands consume you!
 UPDATE script_texts SET content_loc4='Hail to the king, baby!' WHERE entry=-1230002; -- content: Hail to the king, baby!
+UPDATE script_texts SET content_loc4='胆敢破坏神圣的埃德萨拉斯? 面对我吧，懦夫！' WHERE entry=-1429001; -- content: Who dares disrupt the sanctity of Eldre\'Thalas? Face me, cowards!
+UPDATE script_texts SET content_loc4='战士们！船长们！继续战斗！' WHERE entry=-1509014; -- content: Warriors! Captains! Continue the fight!
+UPDATE script_texts SET content_loc4='你被终结了。' WHERE entry=-1509026; -- content: You are terminated.
+UPDATE script_texts SET content_loc4='杀死！' WHERE entry=-1533030; -- content: KILL!
 
 SET NAMES 'latin1';

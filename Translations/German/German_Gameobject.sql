@@ -2363,7 +2363,9 @@ UPDATE locales_gameobject SET name_loc3='Die Große Schmiede' WHERE entry=32378;
 UPDATE locales_gameobject SET name_loc3='Die Große Schmiede' WHERE entry=32379; -- name: The Great Forge
 UPDATE locales_gameobject SET name_loc3='Das Düstere Viertel' WHERE entry=32383; -- name: The Forlorn Cavern
 UPDATE locales_gameobject SET name_loc3='Das Militärviertel' WHERE entry=32385; -- name: The Military Ward
+UPDATE locales_gameobject SET name_loc3='Halle der Mysterien' WHERE entry=32386; -- name: Hall of Mysteries
 UPDATE locales_gameobject SET name_loc3='Zwergenkohlenpfanne' WHERE entry=32389; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc3='Halle der Waffen' WHERE entry=32390; -- name: Hall of Arms
 UPDATE locales_gameobject SET name_loc3='Zwergenkohlenpfanne' WHERE entry=32391; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc3='Die Große Schmiede' WHERE entry=32392; -- name: The Great Forge
 UPDATE locales_gameobject SET name_loc3='Die Große Schmiede' WHERE entry=32395; -- name: The Great Forge
@@ -4603,6 +4605,7 @@ UPDATE locales_gameobject SET name_loc3='Azsharitformation' WHERE entry=152620; 
 UPDATE locales_gameobject SET name_loc3='Azsharitformation' WHERE entry=152621; -- name: Azsharite Formation
 UPDATE locales_gameobject SET name_loc3='Azsharitformation' WHERE entry=152622; -- name: Azsharite Formation
 UPDATE locales_gameobject SET name_loc3='Azsharitformation' WHERE entry=152631; -- name: Azsharite Formation
+UPDATE locales_gameobject SET name_loc3='Auktionshaus Darnassus' WHERE entry=153113; -- name: Darnassus Auction House
 UPDATE locales_gameobject SET name_loc3='Kim\'jaels Ausrüstung' WHERE entry=153123; -- name: Kim\'jael\'s Equipment
 UPDATE locales_gameobject SET name_loc3='Kessel' WHERE entry=153124; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc3='Kessel' WHERE entry=153125; -- name: Cauldron
