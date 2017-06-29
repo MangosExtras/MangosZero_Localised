@@ -279,6 +279,8 @@ echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Script_Texts.sql
 echo  .... Mangos String
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Mangos_String.sql
+echo  .... Creature AI Texts
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Creature_AI_Texts.sql
 goto WorldDB1:
 
 :LoadDE
@@ -305,6 +307,8 @@ echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Script_Texts.sql
 echo  .... Mangos String
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Mangos_String.sql
+echo  .... Creature AI Texts
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Creature_AI_Texts.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Quest.sql
 goto WorldDB2:
@@ -345,6 +349,8 @@ echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Script_Texts.sql
 echo  .... Mangos String
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Mangos_String.sql
+echo  .... Creature AI Texts
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Creature_AI_Texts.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Quest.sql
 echo  .... NpcText
@@ -427,6 +433,8 @@ echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Script_Texts.sql
 echo  .... Mangos String
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Mangos_String.sql
+echo  .... Creature AI Texts
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Creature_AI_Texts.sql
 echo  .... Quests
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Quest.sql
 goto WorldDB8:
