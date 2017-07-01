@@ -157,7 +157,7 @@ UPDATE locales_quest SET title_loc9='Lanciatore Fuochi d\'Artificio' WHERE entry
 UPDATE locales_quest SET title_loc9='Lanciagrappoli' WHERE entry=8882; -- title: Cluster Launcher
 UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=8922; -- RequestItemsText: You have something for me?
 UPDATE locales_quest SET title_loc9='Cristallo Necrotico Rotto' WHERE entry=9292; -- title: Cracked Necrotic Crystal
-UPDATE locales_quest SET `ObjectiveText3_loc9='Fiamma di Stratholme',`ObjectiveText4_loc9='Fiamma di Scholomance' WHERE entry=9319; -- `ObjectiveText3: Flame of Stratholme -- `ObjectiveText4: Flame of the Scholomance
-UPDATE locales_quest SET `ObjectiveText3_loc9='Fiamma di Stratholme',`ObjectiveText4_loc9='Fiamma di Scholomance' WHERE entry=9386; -- `ObjectiveText3: Flame of Stratholme -- `ObjectiveText4: Flame of the Scholomance
+UPDATE locales_quest SET ObjectiveText3_loc9='Fiamma di Stratholme',ObjectiveText4_loc9='Fiamma di Scholomance' WHERE entry=9319; -- ObjectiveText3: Flame of Stratholme -- ObjectiveText4: Flame of the Scholomance
+UPDATE locales_quest SET ObjectiveText3_loc9='Fiamma di Stratholme',ObjectiveText4_loc9='Fiamma di Scholomance' WHERE entry=9386; -- ObjectiveText3: Flame of Stratholme -- ObjectiveText4: Flame of the Scholomance
 
 SET NAMES 'latin1';

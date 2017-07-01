@@ -865,7 +865,7 @@ UPDATE locales_quest SET title_loc1='부서진 죽음의 수정' WHERE entry=929
 UPDATE locales_quest SET title_loc1='전방에서 온 편지' WHERE entry=9295; -- title: Letter from the Front
 UPDATE locales_quest SET title_loc1='희미한 죽음의 수정' WHERE entry=9310; -- title: Faint Necrotic Crystal
 UPDATE locales_quest SET title_loc1='축복받은 마술사 오일' WHERE entry=9318; -- title: Blessed Wizard Oil
-UPDATE locales_quest SET `ObjectiveText3_loc1='스트라솔름 불꽃',`ObjectiveText4_loc1='스칼로맨스 불꽃' WHERE entry=9319; -- `ObjectiveText3: Flame of Stratholme -- `ObjectiveText4: Flame of the Scholomance
+UPDATE locales_quest SET ObjectiveText3_loc1='스트라솔름 불꽃',ObjectiveText4_loc1='스칼로맨스 불꽃' WHERE entry=9319; -- ObjectiveText3: Flame of Stratholme -- ObjectiveText4: Flame of the Scholomance
 UPDATE locales_quest SET title_loc1='일급 마나 물약' WHERE entry=9320; -- title: Major Mana Potion
 UPDATE locales_quest SET title_loc1='축복받은 마술사 오일' WHERE entry=9334; -- title: Blessed Wizard Oil
 UPDATE locales_quest SET title_loc1='일급 치유 물약' WHERE entry=9336; -- title: Major Healing Potion
@@ -873,6 +873,6 @@ UPDATE locales_quest SET title_loc1='일급 마나 물약' WHERE entry=9337; -- 
 UPDATE locales_quest SET title_loc1='은빛 여명회 휘장' WHERE entry=9341; -- title: Tabard of the Argent Dawn
 UPDATE locales_quest SET title_loc1='은빛 여명회 휘장' WHERE entry=9343; -- title: Tabard of the Argent Dawn
 UPDATE locales_quest SET title_loc1='장군 크렐리안' WHERE entry=9362; -- title: Warlord Krellian
-UPDATE locales_quest SET `ObjectiveText3_loc1='스트라솔름 불꽃',`ObjectiveText4_loc1='스칼로맨스 불꽃' WHERE entry=9386; -- `ObjectiveText3: Flame of Stratholme -- `ObjectiveText4: Flame of the Scholomance
+UPDATE locales_quest SET ObjectiveText3_loc1='스트라솔름 불꽃',ObjectiveText4_loc1='스칼로맨스 불꽃' WHERE entry=9386; -- ObjectiveText3: Flame of Stratholme -- ObjectiveText4: Flame of the Scholomance
 
 SET NAMES 'latin1';

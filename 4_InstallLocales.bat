@@ -331,8 +331,8 @@ echo  .... Points of Interest
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Points_of_interest.sql
 echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Script_Texts.sql
-REM echo  .... Quests
-REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Quest.sql
+echo  .... Quests
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Quest.sql
 goto WorldDB3:
 
 :LoadCH
@@ -377,8 +377,8 @@ echo  .... PageText
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_PageText.sql
 echo  .... Script Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Script_Texts.sql
-REM echo  .... Quests
-REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Quest.sql
+echo  .... Quests
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Quest.sql
 goto WorldDB5:
 
 :LoadES

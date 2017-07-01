@@ -865,7 +865,7 @@ UPDATE locales_quest SET title_loc5='破碎的亡域水晶' WHERE entry=9292; --
 UPDATE locales_quest SET title_loc5='來自前線的信件' WHERE entry=9295; -- title: Letter from the Front
 UPDATE locales_quest SET title_loc5='黯淡的亡域水晶' WHERE entry=9310; -- title: Faint Necrotic Crystal
 UPDATE locales_quest SET title_loc5='受祝福的巫師之油' WHERE entry=9318; -- title: Blessed Wizard Oil
-UPDATE locales_quest SET `ObjectiveText3_loc5='營火 - 斯坦索姆',`ObjectiveText4_loc5='營火 - 通靈學院' WHERE entry=9319; -- `ObjectiveText3: Flame of Stratholme -- `ObjectiveText4: Flame of the Scholomance
+UPDATE locales_quest SET ObjectiveText3_loc5='營火 - 斯坦索姆',ObjectiveText4_loc5='營火 - 通靈學院' WHERE entry=9319; -- ObjectiveText3: Flame of Stratholme -- ObjectiveText4: Flame of the Scholomance
 UPDATE locales_quest SET title_loc5='極效法力藥水' WHERE entry=9320; -- title: Major Mana Potion
 UPDATE locales_quest SET title_loc5='受祝福的巫師之油' WHERE entry=9334; -- title: Blessed Wizard Oil
 UPDATE locales_quest SET title_loc5='極效治療藥水' WHERE entry=9336; -- title: Major Healing Potion
@@ -873,6 +873,6 @@ UPDATE locales_quest SET title_loc5='極效法力藥水' WHERE entry=9337; -- ti
 UPDATE locales_quest SET title_loc5='銀色黎明外袍' WHERE entry=9341; -- title: Tabard of the Argent Dawn
 UPDATE locales_quest SET title_loc5='銀色黎明外袍' WHERE entry=9343; -- title: Tabard of the Argent Dawn
 UPDATE locales_quest SET title_loc5='督軍克雷利安' WHERE entry=9362; -- title: Warlord Krellian
-UPDATE locales_quest SET `ObjectiveText3_loc5='營火 - 斯坦索姆',`ObjectiveText4_loc5='營火 - 通靈學院' WHERE entry=9386; -- `ObjectiveText3: Flame of Stratholme -- `ObjectiveText4: Flame of the Scholomance
+UPDATE locales_quest SET ObjectiveText3_loc5='營火 - 斯坦索姆',ObjectiveText4_loc5='營火 - 通靈學院' WHERE entry=9386; -- ObjectiveText3: Flame of Stratholme -- ObjectiveText4: Flame of the Scholomance
 
 SET NAMES 'latin1';
