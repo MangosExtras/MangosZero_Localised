@@ -71,8 +71,6 @@ UPDATE locales_item SET name_loc6='Key to Salem\'s Chest',description_loc6='Open
 UPDATE locales_item SET name_loc6='James\' Key',description_loc6='Opens the stolen chest from the Cathedral of Light' WHERE entry=17262; -- name: James\' Key -- description: Opens the stolen chest from the Cathedral of Light
 UPDATE locales_item SET name_loc6='Mulverick\'s Beacon' WHERE entry=17323; -- name: Mulverick\'s Beacon
 UPDATE locales_item SET name_loc6='Jeztor\'s Beacon' WHERE entry=17325; -- name: Jeztor\'s Beacon
-UPDATE locales_item SET name_loc6='Zinfizzlex\'s Portable Shredder Unit' WHERE entry=17384; -- name: Zinfizzlex\'s Portable Shredder Unit
-UPDATE locales_item SET name_loc6='Zinfizzlex\'s Portable Shredder Unit' WHERE entry=17410; -- name: Zinfizzlex\'s Portable Shredder Unit
 UPDATE locales_item SET name_loc6='Talisman of Binding Shard' WHERE entry=17782; -- name: Talisman of Binding Shard
 UPDATE locales_item SET name_loc6='Monster - Staff, Ornate Jeweled Staff - Blue High Blue Glow' WHERE entry=18122; -- name: Monster - Staff, Ornate Jeweled Staff - Blue High Blue Glow
 UPDATE locales_item SET name_loc6='Blizzard Stationery' WHERE entry=18154; -- name: Blizzard Stationery

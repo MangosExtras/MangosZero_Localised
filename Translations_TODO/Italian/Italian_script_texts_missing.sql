@@ -579,7 +579,6 @@ UPDATE script_texts SET content_loc9='Without a purpose, they wander... But many
 UPDATE script_texts SET content_loc9='Wildkin are inherently magical; this power was bestowed upon them by the goddess.' WHERE entry=-1000732; -- content: Wildkin are inherently magical; this power was bestowed upon them by the goddess.
 UPDATE script_texts SET content_loc9='Know that wherever you might find them in the world, they are protecting something of importance, as they were entrusted to do so long ago.' WHERE entry=-1000733; -- content: Know that wherever you might find them in the world, they are protecting something of importance, as they were entrusted to do so long ago.
 UPDATE script_texts SET content_loc9='Please, remember what we have shown you...' WHERE entry=-1000734; -- content: Please, remember what we have shown you...
-UPDATE script_texts SET content_loc9='Farewell.' WHERE entry=-1000735; -- content: Farewell.
 UPDATE script_texts SET content_loc9='Thank you for you help, $n. I wish you well in your adventures.' WHERE entry=-1000736; -- content: Thank you for you help, $n. I wish you well in your adventures.
 UPDATE script_texts SET content_loc9='I want to stay here and reflect on what we have seen. Please see Erelas and tell him what we have learned.' WHERE entry=-1000737; -- content: I want to stay here and reflect on what we have seen. Please see Erelas and tell him what we have learned.
 UPDATE script_texts SET content_loc9='%s begins chanting a strange spell...' WHERE entry=-1000738; -- content: %s begins chanting a strange spell...

@@ -551,7 +551,6 @@ UPDATE script_texts SET content_loc4='Without a purpose, they wander... But many
 UPDATE script_texts SET content_loc4='Wildkin are inherently magical; this power was bestowed upon them by the goddess.' WHERE entry=-1000732; -- content: Wildkin are inherently magical; this power was bestowed upon them by the goddess.
 UPDATE script_texts SET content_loc4='Know that wherever you might find them in the world, they are protecting something of importance, as they were entrusted to do so long ago.' WHERE entry=-1000733; -- content: Know that wherever you might find them in the world, they are protecting something of importance, as they were entrusted to do so long ago.
 UPDATE script_texts SET content_loc4='Please, remember what we have shown you...' WHERE entry=-1000734; -- content: Please, remember what we have shown you...
-UPDATE script_texts SET content_loc4='Farewell.' WHERE entry=-1000735; -- content: Farewell.
 UPDATE script_texts SET content_loc4='Thank you for you help, $n. I wish you well in your adventures.' WHERE entry=-1000736; -- content: Thank you for you help, $n. I wish you well in your adventures.
 UPDATE script_texts SET content_loc4='I want to stay here and reflect on what we have seen. Please see Erelas and tell him what we have learned.' WHERE entry=-1000737; -- content: I want to stay here and reflect on what we have seen. Please see Erelas and tell him what we have learned.
 UPDATE script_texts SET content_loc4='%s begins chanting a strange spell...' WHERE entry=-1000738; -- content: %s begins chanting a strange spell...
@@ -860,7 +859,6 @@ UPDATE script_texts SET content_loc4='Let not even a drop of their blood remain 
 UPDATE script_texts SET content_loc4='Foolsss...Kill the one in the dress!' WHERE entry=-1229006; -- content: Foolsss...Kill the one in the dress!
 UPDATE script_texts SET content_loc4='Sire, let me join the fray! I shall tear their spines out with my bare hands!' WHERE entry=-1229007; -- content: Sire, let me join the fray! I shall tear their spines out with my bare hands!
 UPDATE script_texts SET content_loc4='Concentrate your attacks upon the healer!' WHERE entry=-1229008; -- content: Concentrate your attacks upon the healer!
-UPDATE script_texts SET content_loc4='Inconceivable!' WHERE entry=-1229009; -- content: Inconceivable!
 UPDATE script_texts SET content_loc4='Do not force my hand, children! I shall use your hides to line my boots.' WHERE entry=-1229010; -- content: Do not force my hand, children! I shall use your hides to line my boots.
 UPDATE script_texts SET content_loc4='Defilers!' WHERE entry=-1229011; -- content: Defilers!
 UPDATE script_texts SET content_loc4='Impossible!' WHERE entry=-1229012; -- content: Impossible!

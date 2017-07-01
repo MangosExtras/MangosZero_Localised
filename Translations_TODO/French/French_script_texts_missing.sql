@@ -286,7 +286,6 @@ UPDATE script_texts SET content_loc2='Beware $N! Look to the west!' WHERE entry=
 UPDATE script_texts SET content_loc2='A defender has fallen!' WHERE entry=-1000892; -- content: A defender has fallen!
 UPDATE script_texts SET content_loc2='Kolkar invaders are retreating!' WHERE entry=-1000893; -- content: Kolkar invaders are retreating!
 UPDATE script_texts SET content_loc2='Kolkar are the strongest!' WHERE entry=-1000894; -- content: Kolkar are the strongest!
-UPDATE script_texts SET content_loc2='For the Horde!' WHERE entry=-1000895; -- content: For the Horde!
 UPDATE script_texts SET content_loc2='Defend the bunkers!' WHERE entry=-1000896; -- content: Defend the bunkers!
 UPDATE script_texts SET content_loc2='Our foes will fall!' WHERE entry=-1000897; -- content: Our foes will fall!
 UPDATE script_texts SET content_loc2='Ok, let\'s go!!' WHERE entry=-1000905; -- content: Ok, let\'s go!!

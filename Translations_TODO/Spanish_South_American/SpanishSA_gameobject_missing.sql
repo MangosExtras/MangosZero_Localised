@@ -3,11 +3,9 @@ SET NAMES 'utf8';
 UPDATE locales_gameobject SET name_loc7='Eliza\'s Tombstone' WHERE entry=37; -- name: Eliza\'s Tombstone
 UPDATE locales_gameobject SET name_loc7='Captain Sanders Chest' WHERE entry=38; -- name: Captain Sanders Chest
 UPDATE locales_gameobject SET name_loc7='Mound of loose dirt' WHERE entry=59; -- name: Mound of loose dirt
-UPDATE locales_gameobject SET name_loc7='Wanted: Chok\'Sul' WHERE entry=254; -- name: Wanted: Chok\'Sul
 UPDATE locales_gameobject SET name_loc7='Corpse Laden Boat' WHERE entry=1593; -- name: Corpse Laden Boat
 UPDATE locales_gameobject SET name_loc7='Stanley\'s Dish' WHERE entry=1720; -- name: Stanley\'s Dish
 UPDATE locales_gameobject SET name_loc7='Smoldering Fire' WHERE entry=2004; -- name: Smoldering Fire
-UPDATE locales_gameobject SET name_loc7='Dangerous!' WHERE entry=2008; -- name: Dangerous!
 UPDATE locales_gameobject SET name_loc7='The Wine Cask' WHERE entry=2130; -- name: The Wine Cask
 UPDATE locales_gameobject SET name_loc7='The Cheese Cutters' WHERE entry=2148; -- name: The Cheese Cutters
 UPDATE locales_gameobject SET name_loc7='The Seven Deadly Venoms' WHERE entry=2149; -- name: The Seven Deadly Venoms
@@ -16,7 +14,6 @@ UPDATE locales_gameobject SET name_loc7='Mage Quarters' WHERE entry=2188; -- nam
 UPDATE locales_gameobject SET name_loc7='Pillar of Diamond' WHERE entry=2842; -- name: Pillar of Diamond
 UPDATE locales_gameobject SET name_loc7='Pillar of Opal' WHERE entry=2848; -- name: Pillar of Opal
 UPDATE locales_gameobject SET name_loc7='Pillar of Amethyst' WHERE entry=2858; -- name: Pillar of Amethyst
-UPDATE locales_gameobject SET name_loc7='Seal of the Earth' WHERE entry=2933; -- name: Seal of the Earth
 UPDATE locales_gameobject SET name_loc7='Benedict\'s Chest' WHERE entry=3239; -- name: Benedict\'s Chest
 UPDATE locales_gameobject SET name_loc7='Longtoo - Teapee' WHERE entry=3265; -- name: Longtoo - Teapee
 UPDATE locales_gameobject SET name_loc7='Drizzlik\'s Emporium' WHERE entry=3767; -- name: Drizzlik\'s Emporium
@@ -27,9 +24,7 @@ UPDATE locales_gameobject SET name_loc7='Yellow Raptor Nest' WHERE entry=6908; -
 UPDATE locales_gameobject SET name_loc7='Cat Figurine Trap' WHERE entry=12653; -- name: Cat Figurine Trap
 UPDATE locales_gameobject SET name_loc7='Graveyard Banner' WHERE entry=13756; -- name: Graveyard Banner
 UPDATE locales_gameobject SET name_loc7='Target' WHERE entry=13952; -- name: Target
-UPDATE locales_gameobject SET name_loc7='Buzzbox 323' WHERE entry=17184; -- name: Buzzbox 323
 UPDATE locales_gameobject SET name_loc7='The Lay of Ameth\'Aran' WHERE entry=17188; -- name: The Lay of Ameth\'Aran
-UPDATE locales_gameobject SET name_loc7='The Fall of Ameth\'Aran' WHERE entry=17189; -- name: The Fall of Ameth\'Aran
 UPDATE locales_gameobject SET name_loc7='Stand up Torch' WHERE entry=18047; -- name: Stand up Torch
 UPDATE locales_gameobject SET name_loc7='Stand up Torch' WHERE entry=18048; -- name: Stand up Torch
 UPDATE locales_gameobject SET name_loc7='Stand up Torch' WHERE entry=18049; -- name: Stand up Torch
@@ -153,7 +148,6 @@ UPDATE locales_gameobject SET name_loc7='Stone Chair' WHERE entry=171720; -- nam
 UPDATE locales_gameobject SET name_loc7='Stone Chair' WHERE entry=171721; -- name: Stone Chair
 UPDATE locales_gameobject SET name_loc7='Xavian Waterfall' WHERE entry=174797; -- name: Xavian Waterfall
 UPDATE locales_gameobject SET name_loc7='Bed' WHERE entry=174849; -- name: Bed
-UPDATE locales_gameobject SET name_loc7='WANTED: Murkdeep!' WHERE entry=175320; -- name: WANTED: Murkdeep!
 UPDATE locales_gameobject SET name_loc7='Blackwood Nut Stores' WHERE entry=175329; -- name: Blackwood Nut Stores
 UPDATE locales_gameobject SET name_loc7='Blackwood Fruit Stores' WHERE entry=175330; -- name: Blackwood Fruit Stores
 UPDATE locales_gameobject SET name_loc7='Blackwood Grain Stores' WHERE entry=175331; -- name: Blackwood Grain Stores

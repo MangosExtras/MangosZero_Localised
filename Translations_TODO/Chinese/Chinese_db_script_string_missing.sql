@@ -137,7 +137,6 @@ UPDATE db_script_string SET content_loc4='VanCleef sends word that the plans are
 UPDATE db_script_string SET content_loc4='Hmm, it could be that meddler Shaw. I will see what I can discover. Be off with you. I\'ll contact you again soon.' WHERE entry=2000000183; -- content: Hmm, it could be that meddler Shaw. I will see what I can discover. Be off with you. I\'ll contact you again soon.
 UPDATE db_script_string SET content_loc4='Very well. I will return then.' WHERE entry=2000000184; -- content: Very well. I will return then.
 UPDATE db_script_string SET content_loc4='That\'s it! That\'s what you were waiting for! KILL THEM!' WHERE entry=2000000185; -- content: That\'s it! That\'s what you were waiting for! KILL THEM!
-UPDATE db_script_string SET content_loc4='Defend yourself, fool!' WHERE entry=2000000186; -- content: Defend yourself, fool!
 UPDATE db_script_string SET content_loc4='The abomination has overrun the Night Watch camp! Quickly, we must intercept it before it reaches town!' WHERE entry=2000000187; -- content: The abomination has overrun the Night Watch camp! Quickly, we must intercept it before it reaches town!
 UPDATE db_script_string SET content_loc4='The beast is slain! All is well in Darkshire.' WHERE entry=2000000188; -- content: The beast is slain! All is well in Darkshire.
 UPDATE db_script_string SET content_loc4='Quillboar scraps! These should do the trick. Fish love Quillboar.' WHERE entry=2000000189; -- content: Quillboar scraps! These should do the trick. Fish love Quillboar.
@@ -254,7 +253,6 @@ UPDATE db_script_string SET content_loc4='And should one die, two shall rise!' W
 UPDATE db_script_string SET content_loc4='%s shuffles through the books.' WHERE entry=2000000789; -- content: %s shuffles through the books.
 UPDATE db_script_string SET content_loc4='Now where did I put the Venture Company formulations?' WHERE entry=2000000790; -- content: Now where did I put the Venture Company formulations?
 UPDATE db_script_string SET content_loc4='Hey, Raven...' WHERE entry=2000000791; -- content: Hey, Raven...
-UPDATE db_script_string SET content_loc4='Yea?' WHERE entry=2000000792; -- content: Yea?
 UPDATE db_script_string SET content_loc4='Can we take a break? My feet are killing me and those ... those things down there are creeping me out.' WHERE entry=2000000793; -- content: Can we take a break? My feet are killing me and those ... those things down there are creeping me out.
 UPDATE db_script_string SET content_loc4='I dunno, Jill. If Klaven comes down while we\'re slacking, we may end up as one of those things!' WHERE entry=2000000794; -- content: I dunno, Jill. If Klaven comes down while we\'re slacking, we may end up as one of those things!
 UPDATE db_script_string SET content_loc4='Klaven doesn\'t pay me enough to deal with those zombies, drones or whatever he calls \'em. I don\'t know, Jill. If Klaven comes down while we\'re slacking, we might end up as those things!' WHERE entry=2000000795; -- content: Klaven doesn\'t pay me enough to deal with those zombies, drones or whatever he calls \'em. I don\'t know, Jill. If Klaven comes down while we\'re slacking, we might end up as those things!

@@ -15,7 +15,6 @@ UPDATE gossip_texts SET content_loc9='You\'re free, Dughal! Get out of here!' WH
 UPDATE gossip_texts SET content_loc9='Get out of here, Tobias, you\'re free!' WHERE entry=-3230001; -- content: Get out of here, Tobias, you\'re free!
 UPDATE gossip_texts SET content_loc9='Your bondage is at an end, Doom\'rel. I challenge you!' WHERE entry=-3230002; -- content: Your bondage is at an end, Doom\'rel. I challenge you!
 UPDATE gossip_texts SET content_loc9='Why don\'t you and Rocknot go find somewhere private...' WHERE entry=-3230003; -- content: Why don\'t you and Rocknot go find somewhere private...
-UPDATE gossip_texts SET content_loc9='Tell me more.' WHERE entry=-3409000; -- content: Tell me more.
 UPDATE gossip_texts SET content_loc9='What else do you have to say?' WHERE entry=-3409001; -- content: What else do you have to say?
 UPDATE gossip_texts SET content_loc9='You challenged us and we have come. Where is this master you speak of?' WHERE entry=-3409002; -- content: You challenged us and we have come. Where is this master you speak of?
 UPDATE gossip_texts SET content_loc9='I\'ve made no mistakes.' WHERE entry=-3469000; -- content: I\'ve made no mistakes.

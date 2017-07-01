@@ -413,7 +413,6 @@ UPDATE locales_item SET description_loc3='Data card only' WHERE entry=9316; -- d
 UPDATE locales_item SET description_loc3='New & Improved!' WHERE entry=9328; -- description: New & Improved!
 UPDATE locales_item SET description_loc3='Tied with a bow.' WHERE entry=9329; -- description: Tied with a bow.
 UPDATE locales_item SET description_loc3='She\'s so photogenic...' WHERE entry=9330; -- description: She\'s so photogenic...
-UPDATE locales_item SET description_loc3='Handle With Care' WHERE entry=9364; -- description: Handle With Care
 UPDATE locales_item SET description_loc3='DANGER! DO NOT INGEST!' WHERE entry=9365; -- description: DANGER! DO NOT INGEST!
 UPDATE locales_item SET description_loc3='Teaches you how to make Golden Scale Gauntlets.' WHERE entry=9367; -- description: Teaches you how to make Golden Scale Gauntlets.
 UPDATE locales_item SET description_loc3='Also serves as a mining pick.' WHERE entry=9465; -- description: Also serves as a mining pick.
@@ -921,8 +920,6 @@ UPDATE locales_item SET name_loc3='Mulverick\'s Beacon' WHERE entry=17323; -- na
 UPDATE locales_item SET name_loc3='Jeztor\'s Beacon' WHERE entry=17325; -- name: Jeztor\'s Beacon
 UPDATE locales_item SET description_loc3='Alliance: the other, other, OTHER, white meat.' WHERE entry=17326; -- description: Alliance: the other, other, OTHER, white meat.
 UPDATE locales_item SET description_loc3='Ewww...' WHERE entry=17345; -- description: Ewww...
-UPDATE locales_item SET name_loc3='Zinfizzlex\'s Portable Shredder Unit' WHERE entry=17384; -- name: Zinfizzlex\'s Portable Shredder Unit
-UPDATE locales_item SET name_loc3='Zinfizzlex\'s Portable Shredder Unit' WHERE entry=17410; -- name: Zinfizzlex\'s Portable Shredder Unit
 UPDATE locales_item SET description_loc3='Teaches Prayer of Fortitude (Rank 1).' WHERE entry=17413; -- description: Teaches Prayer of Fortitude (Rank 1).
 UPDATE locales_item SET description_loc3='Return to your base blacksmith to help upgrade troops' WHERE entry=17422; -- description: Return to your base blacksmith to help upgrade troops
 UPDATE locales_item SET description_loc3='Give to Warmaster Garrick in the Field of Strife' WHERE entry=17442; -- description: Give to Warmaster Garrick in the Field of Strife
@@ -942,8 +939,6 @@ UPDATE locales_item SET description_loc3='Found on the body of Magra...' WHERE e
 UPDATE locales_item SET description_loc3='Found on the body of Maraudos...' WHERE entry=17764; -- description: Found on the body of Maraudos...
 UPDATE locales_item SET description_loc3='Found on the body of Veng...' WHERE entry=17765; -- description: Found on the body of Veng...
 UPDATE locales_item SET name_loc3='Talisman of Binding Shard' WHERE entry=17782; -- name: Talisman of Binding Shard
-UPDATE locales_item SET description_loc3='The Eye of Command' WHERE entry=17904; -- description: The Eye of Command
-UPDATE locales_item SET description_loc3='The Eye of Command' WHERE entry=17909; -- description: The Eye of Command
 UPDATE locales_item SET description_loc3='Teaches you how to cook a Tender Wolf Steak.' WHERE entry=18046; -- description: Teaches you how to cook a Tender Wolf Steak.
 UPDATE locales_item SET name_loc3='Monster - Staff, Ornate Jeweled Staff - Blue High Blue Glow' WHERE entry=18122; -- name: Monster - Staff, Ornate Jeweled Staff - Blue High Blue Glow
 UPDATE locales_item SET name_loc3='Blizzard Stationery' WHERE entry=18154; -- name: Blizzard Stationery
@@ -1303,10 +1298,6 @@ UPDATE locales_item SET description_loc3='A map indicating where the crooks expe
 UPDATE locales_item SET description_loc3='Use with Narain\'s Robe to disguise yourself as Narain!' WHERE entry=21039; -- description: Use with Narain\'s Robe to disguise yourself as Narain!
 UPDATE locales_item SET description_loc3='Teaches you how to cook Smoked Sagefish.' WHERE entry=21099; -- description: Teaches you how to cook Smoked Sagefish.
 UPDATE locales_item SET description_loc3='A symbol of honor and respect for one\'s ancestry.' WHERE entry=21100; -- description: A symbol of honor and respect for one\'s ancestry.
-UPDATE locales_item SET description_loc3='Chapter I' WHERE entry=21103; -- description: Chapter I
-UPDATE locales_item SET description_loc3='Chapter II' WHERE entry=21104; -- description: Chapter II
-UPDATE locales_item SET description_loc3='Chapter III' WHERE entry=21105; -- description: Chapter III
-UPDATE locales_item SET description_loc3='Chapter IV' WHERE entry=21106; -- description: Chapter IV
 UPDATE locales_item SET description_loc3='Chapter V' WHERE entry=21107; -- description: Chapter V
 UPDATE locales_item SET description_loc3='Chapter VI' WHERE entry=21108; -- description: Chapter VI
 UPDATE locales_item SET description_loc3='Chapter VII' WHERE entry=21109; -- description: Chapter VII
@@ -1317,21 +1308,6 @@ UPDATE locales_item SET description_loc3='-Ashenvale' WHERE entry=21147; -- desc
 UPDATE locales_item SET description_loc3='-Feralas' WHERE entry=21148; -- description: -Feralas
 UPDATE locales_item SET description_loc3='-Duskwood' WHERE entry=21149; -- description: -Duskwood
 UPDATE locales_item SET description_loc3='This truesilver-wrought item is a furbolg symbol of peace.  A sealed message is attached to it.' WHERE entry=21155; -- description: This truesilver-wrought item is a furbolg symbol of peace.  A sealed message is attached to it.
-UPDATE locales_item SET description_loc3='The Path of the Protector' WHERE entry=21196; -- description: The Path of the Protector
-UPDATE locales_item SET description_loc3='The Path of the Protector' WHERE entry=21197; -- description: The Path of the Protector
-UPDATE locales_item SET description_loc3='The Path of the Protector' WHERE entry=21198; -- description: The Path of the Protector
-UPDATE locales_item SET description_loc3='The Path of the Protector' WHERE entry=21199; -- description: The Path of the Protector
-UPDATE locales_item SET description_loc3='The Path of the Protector' WHERE entry=21200; -- description: The Path of the Protector
-UPDATE locales_item SET description_loc3='The Path of the Conqueror' WHERE entry=21201; -- description: The Path of the Conqueror
-UPDATE locales_item SET description_loc3='The Path of the Conqueror' WHERE entry=21202; -- description: The Path of the Conqueror
-UPDATE locales_item SET description_loc3='The Path of the Conqueror' WHERE entry=21203; -- description: The Path of the Conqueror
-UPDATE locales_item SET description_loc3='The Path of the Conqueror' WHERE entry=21204; -- description: The Path of the Conqueror
-UPDATE locales_item SET description_loc3='The Path of the Conqueror' WHERE entry=21205; -- description: The Path of the Conqueror
-UPDATE locales_item SET description_loc3='The Path of the Invoker' WHERE entry=21206; -- description: The Path of the Invoker
-UPDATE locales_item SET description_loc3='The Path of the Invoker' WHERE entry=21207; -- description: The Path of the Invoker
-UPDATE locales_item SET description_loc3='The Path of the Invoker' WHERE entry=21208; -- description: The Path of the Invoker
-UPDATE locales_item SET description_loc3='The Path of the Invoker' WHERE entry=21209; -- description: The Path of the Invoker
-UPDATE locales_item SET description_loc3='The Path of the Invoker' WHERE entry=21210; -- description: The Path of the Invoker
 UPDATE locales_item SET description_loc3='This strange dust should allow Metzen to be freed when sprinkled on him.' WHERE entry=21211; -- description: This strange dust should allow Metzen to be freed when sprinkled on him.
 UPDATE locales_item SET description_loc3='Preserved with Graccu\'s special spices!  It\'ll be a very long time before these turn bad...' WHERE entry=21215; -- description: Preserved with Graccu\'s special spices!  It\'ll be a very long time before these turn bad...
 UPDATE locales_item SET description_loc3='Teaches you how to summon this mount.  This mount may only be summoned in the Temple of Ahn\'Qiraj.' WHERE entry=21218; -- description: Teaches you how to summon this mount.  This mount may only be summoned in the Temple of Ahn\'Qiraj.

@@ -8,7 +8,6 @@ UPDATE script_texts SET content_loc8='Follow me, $N. I\'ll take you to the Defia
 UPDATE script_texts SET content_loc8='The entrance is hidden here in Moonbrook. Keep your eyes peeled for thieves. They want me dead.' WHERE entry=-1000102; -- content: The entrance is hidden here in Moonbrook. Keep your eyes peeled for thieves. They want me dead.
 UPDATE script_texts SET content_loc8='You can go tell Stoutmantle this is where the Defias Gang is holed up, $N.' WHERE entry=-1000103; -- content: You can go tell Stoutmantle this is where the Defias Gang is holed up, $N.
 UPDATE script_texts SET content_loc8='$N coming in fast! Prepare to fight!' WHERE entry=-1000104; -- content: $N coming in fast! Prepare to fight!
-UPDATE script_texts SET content_loc8='Help!' WHERE entry=-1000105; -- content: Help!
 UPDATE script_texts SET content_loc8='Everyone ready?' WHERE entry=-1000106; -- content: Everyone ready?
 UPDATE script_texts SET content_loc8='Ok, Lets move out!' WHERE entry=-1000107; -- content: Ok, Lets move out!
 UPDATE script_texts SET content_loc8='Prepare yourselves. Silverwing is just around the bend.' WHERE entry=-1000108; -- content: Prepare yourselves. Silverwing is just around the bend.
@@ -564,7 +563,6 @@ UPDATE script_texts SET content_loc8='Without a purpose, they wander... But many
 UPDATE script_texts SET content_loc8='Wildkin are inherently magical; this power was bestowed upon them by the goddess.' WHERE entry=-1000732; -- content: Wildkin are inherently magical; this power was bestowed upon them by the goddess.
 UPDATE script_texts SET content_loc8='Know that wherever you might find them in the world, they are protecting something of importance, as they were entrusted to do so long ago.' WHERE entry=-1000733; -- content: Know that wherever you might find them in the world, they are protecting something of importance, as they were entrusted to do so long ago.
 UPDATE script_texts SET content_loc8='Please, remember what we have shown you...' WHERE entry=-1000734; -- content: Please, remember what we have shown you...
-UPDATE script_texts SET content_loc8='Farewell.' WHERE entry=-1000735; -- content: Farewell.
 UPDATE script_texts SET content_loc8='Thank you for you help, $n. I wish you well in your adventures.' WHERE entry=-1000736; -- content: Thank you for you help, $n. I wish you well in your adventures.
 UPDATE script_texts SET content_loc8='I want to stay here and reflect on what we have seen. Please see Erelas and tell him what we have learned.' WHERE entry=-1000737; -- content: I want to stay here and reflect on what we have seen. Please see Erelas and tell him what we have learned.
 UPDATE script_texts SET content_loc8='%s begins chanting a strange spell...' WHERE entry=-1000738; -- content: %s begins chanting a strange spell...
@@ -719,7 +717,6 @@ UPDATE script_texts SET content_loc8='Beware $N! Look to the west!' WHERE entry=
 UPDATE script_texts SET content_loc8='A defender has fallen!' WHERE entry=-1000892; -- content: A defender has fallen!
 UPDATE script_texts SET content_loc8='Kolkar invaders are retreating!' WHERE entry=-1000893; -- content: Kolkar invaders are retreating!
 UPDATE script_texts SET content_loc8='Kolkar are the strongest!' WHERE entry=-1000894; -- content: Kolkar are the strongest!
-UPDATE script_texts SET content_loc8='For the Horde!' WHERE entry=-1000895; -- content: For the Horde!
 UPDATE script_texts SET content_loc8='Defend the bunkers!' WHERE entry=-1000896; -- content: Defend the bunkers!
 UPDATE script_texts SET content_loc8='Our foes will fall!' WHERE entry=-1000897; -- content: Our foes will fall!
 UPDATE script_texts SET content_loc8='Ok, let\'s go!!' WHERE entry=-1000905; -- content: Ok, let\'s go!!
@@ -798,7 +795,6 @@ UPDATE script_texts SET content_loc8='At last! Naralex awakes from the nightmare
 UPDATE script_texts SET content_loc8='Ah, to be pulled from the dreaded nightmare! I thank you, my loyal Disciple, along with your brave companions.' WHERE entry=-1043015; -- content: Ah, to be pulled from the dreaded nightmare! I thank you, my loyal Disciple, along with your brave companions.
 UPDATE script_texts SET content_loc8='We must go and gather with the other Disciplies. There is much work to be done before I can make another attempt to restore the Barrens. Farewell, brave souls!' WHERE entry=-1043016; -- content: We must go and gather with the other Disciplies. There is much work to be done before I can make another attempt to restore the Barrens. Farewell, brave souls!
 UPDATE script_texts SET content_loc8='Attacked! Help get this $N off of me!' WHERE entry=-1043017; -- content: Attacked! Help get this $N off of me!
-UPDATE script_texts SET content_loc8='Help!' WHERE entry=-1043018; -- content: Help!
 UPDATE script_texts SET content_loc8='Deal with this $N! I need to prepare to awake Naralex!' WHERE entry=-1043019; -- content: Deal with this $N! I need to prepare to awake Naralex!
 UPDATE script_texts SET content_loc8='Woo hoo! Finally getting out of here. It\'s going to be rough though. Keep your eyes peeled for trouble.' WHERE entry=-1047000; -- content: Woo hoo! Finally getting out of here. It\'s going to be rough though. Keep your eyes peeled for trouble.
 UPDATE script_texts SET content_loc8='Up there is where Charlga Razorflank resides. Blasted old crone.' WHERE entry=-1047001; -- content: Up there is where Charlga Razorflank resides. Blasted old crone.
@@ -830,7 +826,6 @@ UPDATE script_texts SET content_loc8='I don\'t think one charge is going to cut 
 UPDATE script_texts SET content_loc8='The charges are set. Get back before they blow!' WHERE entry=-1090009; -- content: The charges are set. Get back before they blow!
 UPDATE script_texts SET content_loc8='Incoming blast in 10 seconds!' WHERE entry=-1090010; -- content: Incoming blast in 10 seconds!
 UPDATE script_texts SET content_loc8='Incoming blast in 5 seconds. Clear the tunnel! Stay back!' WHERE entry=-1090011; -- content: Incoming blast in 5 seconds. Clear the tunnel! Stay back!
-UPDATE script_texts SET content_loc8='FIRE IN THE HOLE!' WHERE entry=-1090012; -- content: FIRE IN THE HOLE!
 UPDATE script_texts SET content_loc8='Well done! Without your help I would have never been able to thwart that wave of troggs.' WHERE entry=-1090013; -- content: Well done! Without your help I would have never been able to thwart that wave of troggs.
 UPDATE script_texts SET content_loc8='Did you hear something?' WHERE entry=-1090014; -- content: Did you hear something?
 UPDATE script_texts SET content_loc8='I heard something over there.' WHERE entry=-1090015; -- content: I heard something over there.
@@ -839,7 +834,6 @@ UPDATE script_texts SET content_loc8='The final charge is set. Stand back!' WHER
 UPDATE script_texts SET content_loc8='10 seconds to blast! Stand back!!!' WHERE entry=-1090018; -- content: 10 seconds to blast! Stand back!!!
 UPDATE script_texts SET content_loc8='5 seconds until detonation!!!!!' WHERE entry=-1090019; -- content: 5 seconds until detonation!!!!!
 UPDATE script_texts SET content_loc8='Nice work! I\'ll set off the charges to prevent any more troggs from making it to the surface.' WHERE entry=-1090020; -- content: Nice work! I\'ll set off the charges to prevent any more troggs from making it to the surface.
-UPDATE script_texts SET content_loc8='FIRE IN THE HOLE!' WHERE entry=-1090021; -- content: FIRE IN THE HOLE!
 UPDATE script_texts SET content_loc8='Superb! Because of your help, my people stand a chance of re-taking our beloved city. Three cheers to you!' WHERE entry=-1090022; -- content: Superb! Because of your help, my people stand a chance of re-taking our beloved city. Three cheers to you!
 UPDATE script_texts SET content_loc8='We come from below! You can never stop us!' WHERE entry=-1090023; -- content: We come from below! You can never stop us!
 UPDATE script_texts SET content_loc8='Usurpers! Gnomeregan is mine!' WHERE entry=-1090024; -- content: Usurpers! Gnomeregan is mine!

@@ -389,7 +389,6 @@ UPDATE locales_item SET description_loc2='Data card only' WHERE entry=9316; -- d
 UPDATE locales_item SET description_loc2='New & Improved!' WHERE entry=9328; -- description: New & Improved!
 UPDATE locales_item SET description_loc2='Tied with a bow.' WHERE entry=9329; -- description: Tied with a bow.
 UPDATE locales_item SET description_loc2='She\'s so photogenic...' WHERE entry=9330; -- description: She\'s so photogenic...
-UPDATE locales_item SET description_loc2='Handle With Care' WHERE entry=9364; -- description: Handle With Care
 UPDATE locales_item SET description_loc2='DANGER! DO NOT INGEST!' WHERE entry=9365; -- description: DANGER! DO NOT INGEST!
 UPDATE locales_item SET description_loc2='Teaches you how to make Golden Scale Gauntlets.' WHERE entry=9367; -- description: Teaches you how to make Golden Scale Gauntlets.
 UPDATE locales_item SET description_loc2='Also serves as a mining pick.' WHERE entry=9465; -- description: Also serves as a mining pick.
@@ -882,8 +881,6 @@ UPDATE locales_item SET description_loc2='Found on the body of Gelk...' WHERE en
 UPDATE locales_item SET description_loc2='Found on the body of Magra...' WHERE entry=17763; -- description: Found on the body of Magra...
 UPDATE locales_item SET description_loc2='Found on the body of Maraudos...' WHERE entry=17764; -- description: Found on the body of Maraudos...
 UPDATE locales_item SET description_loc2='Found on the body of Veng...' WHERE entry=17765; -- description: Found on the body of Veng...
-UPDATE locales_item SET description_loc2='The Eye of Command' WHERE entry=17904; -- description: The Eye of Command
-UPDATE locales_item SET description_loc2='The Eye of Command' WHERE entry=17909; -- description: The Eye of Command
 UPDATE locales_item SET description_loc2='Teaches you how to cook a Tender Wolf Steak.' WHERE entry=18046; -- description: Teaches you how to cook a Tender Wolf Steak.
 UPDATE locales_item SET name_loc2='Monster - Staff, Ornate Jeweled Staff - Blue High Blue Glow' WHERE entry=18122; -- name: Monster - Staff, Ornate Jeweled Staff - Blue High Blue Glow
 UPDATE locales_item SET description_loc2='Teaches you how to brew a Thistle Tea.' WHERE entry=18160; -- description: Teaches you how to brew a Thistle Tea.
@@ -1236,10 +1233,6 @@ UPDATE locales_item SET description_loc2='A map indicating where the crooks expe
 UPDATE locales_item SET description_loc2='Use with Narain\'s Robe to disguise yourself as Narain!' WHERE entry=21039; -- description: Use with Narain\'s Robe to disguise yourself as Narain!
 UPDATE locales_item SET description_loc2='Teaches you how to cook Smoked Sagefish.' WHERE entry=21099; -- description: Teaches you how to cook Smoked Sagefish.
 UPDATE locales_item SET description_loc2='A symbol of honor and respect for one\'s ancestry.' WHERE entry=21100; -- description: A symbol of honor and respect for one\'s ancestry.
-UPDATE locales_item SET description_loc2='Chapter I' WHERE entry=21103; -- description: Chapter I
-UPDATE locales_item SET description_loc2='Chapter II' WHERE entry=21104; -- description: Chapter II
-UPDATE locales_item SET description_loc2='Chapter III' WHERE entry=21105; -- description: Chapter III
-UPDATE locales_item SET description_loc2='Chapter IV' WHERE entry=21106; -- description: Chapter IV
 UPDATE locales_item SET description_loc2='Chapter V' WHERE entry=21107; -- description: Chapter V
 UPDATE locales_item SET description_loc2='Chapter VI' WHERE entry=21108; -- description: Chapter VI
 UPDATE locales_item SET description_loc2='Chapter VII' WHERE entry=21109; -- description: Chapter VII
@@ -1250,21 +1243,6 @@ UPDATE locales_item SET description_loc2='-Ashenvale' WHERE entry=21147; -- desc
 UPDATE locales_item SET description_loc2='-Feralas' WHERE entry=21148; -- description: -Feralas
 UPDATE locales_item SET description_loc2='-Duskwood' WHERE entry=21149; -- description: -Duskwood
 UPDATE locales_item SET description_loc2='This truesilver-wrought item is a furbolg symbol of peace.  A sealed message is attached to it.' WHERE entry=21155; -- description: This truesilver-wrought item is a furbolg symbol of peace.  A sealed message is attached to it.
-UPDATE locales_item SET description_loc2='The Path of the Protector' WHERE entry=21196; -- description: The Path of the Protector
-UPDATE locales_item SET description_loc2='The Path of the Protector' WHERE entry=21197; -- description: The Path of the Protector
-UPDATE locales_item SET description_loc2='The Path of the Protector' WHERE entry=21198; -- description: The Path of the Protector
-UPDATE locales_item SET description_loc2='The Path of the Protector' WHERE entry=21199; -- description: The Path of the Protector
-UPDATE locales_item SET description_loc2='The Path of the Protector' WHERE entry=21200; -- description: The Path of the Protector
-UPDATE locales_item SET description_loc2='The Path of the Conqueror' WHERE entry=21201; -- description: The Path of the Conqueror
-UPDATE locales_item SET description_loc2='The Path of the Conqueror' WHERE entry=21202; -- description: The Path of the Conqueror
-UPDATE locales_item SET description_loc2='The Path of the Conqueror' WHERE entry=21203; -- description: The Path of the Conqueror
-UPDATE locales_item SET description_loc2='The Path of the Conqueror' WHERE entry=21204; -- description: The Path of the Conqueror
-UPDATE locales_item SET description_loc2='The Path of the Conqueror' WHERE entry=21205; -- description: The Path of the Conqueror
-UPDATE locales_item SET description_loc2='The Path of the Invoker' WHERE entry=21206; -- description: The Path of the Invoker
-UPDATE locales_item SET description_loc2='The Path of the Invoker' WHERE entry=21207; -- description: The Path of the Invoker
-UPDATE locales_item SET description_loc2='The Path of the Invoker' WHERE entry=21208; -- description: The Path of the Invoker
-UPDATE locales_item SET description_loc2='The Path of the Invoker' WHERE entry=21209; -- description: The Path of the Invoker
-UPDATE locales_item SET description_loc2='The Path of the Invoker' WHERE entry=21210; -- description: The Path of the Invoker
 UPDATE locales_item SET description_loc2='This strange dust should allow Metzen to be freed when sprinkled on him.' WHERE entry=21211; -- description: This strange dust should allow Metzen to be freed when sprinkled on him.
 UPDATE locales_item SET description_loc2='Preserved with Graccu\'s special spices!  It\'ll be a very long time before these turn bad...' WHERE entry=21215; -- description: Preserved with Graccu\'s special spices!  It\'ll be a very long time before these turn bad...
 UPDATE locales_item SET description_loc2='Teaches you how to summon this mount.  This mount may only be summoned in the Temple of Ahn\'Qiraj.' WHERE entry=21218; -- description: Teaches you how to summon this mount.  This mount may only be summoned in the Temple of Ahn\'Qiraj.

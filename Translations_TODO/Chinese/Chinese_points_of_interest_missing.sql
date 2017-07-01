@@ -12,7 +12,6 @@ UPDATE locales_points_of_interest SET icon_name_loc4='Cathedral Of Light' WHERE 
 UPDATE locales_points_of_interest SET icon_name_loc4='Stormwind - Rogue House' WHERE entry=36; -- icon_name: Stormwind - Rogue House
 UPDATE locales_points_of_interest SET icon_name_loc4='Stormwind Barracks' WHERE entry=39; -- icon_name: Stormwind Barracks
 UPDATE locales_points_of_interest SET icon_name_loc4='The Vault' WHERE entry=51; -- icon_name: The Vault
-UPDATE locales_points_of_interest SET icon_name_loc4='Deeprun Tram' WHERE entry=52; -- icon_name: Deeprun Tram
 UPDATE locales_points_of_interest SET icon_name_loc4='Ironforge Gryphon Master' WHERE entry=53; -- icon_name: Ironforge Gryphon Master
 UPDATE locales_points_of_interest SET icon_name_loc4='Stonefire Tavern' WHERE entry=55; -- icon_name: Stonefire Tavern
 UPDATE locales_points_of_interest SET icon_name_loc4='Ironforge Mailbox' WHERE entry=56; -- icon_name: Ironforge Mailbox
