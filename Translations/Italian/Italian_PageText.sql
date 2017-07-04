@@ -23,7 +23,6 @@ UPDATE locales_page_Text SET text_loc9='Potrei viaggiare per incontrala di preso
 Fino ad allora,
 
 Stalvan Mistmantle di Silverpine' WHERE entry=19;
-
 UPDATE locales_page_Text SET text_loc9='. . .Giles, il ragazzo, sembra un po\' chiassoso e sarà una sfida educarlo.  Tuttavia la figlia più grande, Tilloa, sembra eccezionalmente intelligente.  Non ho potuto fare a meno di notare anche la sua bellezza travolgente. È all\'apice della sua femminilità. Apparentemente il Signore ha organizzato il suo matrimonio per l\'anno prossimo.  Ma sto divagando.  Questa settimana accompagnerò la famiglia alla loro residenza estiva vicino all\'Eastvale Logging Camp ad Elwynn, vicino alle Redridge Mountain.  Spero di scrivere di più mentre sarò li.' WHERE entry=20;
 UPDATE locales_page_Text SET text_loc9='. . .la più strana ed incontrollabile delle sensazioni.  Non mi sono mai sentito come oggi.  Mentre tenevo la lezione di storia a Giles, Tilloa era fuori e stava curando il giardino dei fiori.  Dopo pochi minuti è tornata in casa e ha mezzo una begonia rossa nella mia mano aperta e mi ha sorriso in un tal modo che il mio cuore si è messo a tremare nel mio petto. . . .' WHERE entry=21;
 UPDATE locales_page_Text SET text_loc9='. . .sicuro che condivide le stesse sensazioni per me ora. Ha anche messo la sua mano sulla mia questa mattina. Quando sorride, i suoi occhi brillano come diamanti splendenti. Ci passiamo parole non dette. Ho il cuore in gola e le vene ribollono.' WHERE entry=22;
@@ -144,7 +143,6 @@ E quando i nostri fratelli se ne vanno
 Una Luna splende sopra la Valle.' WHERE entry=59;
 UPDATE locales_page_Text SET text_loc9='E quando i nostri fratelli se ne vanno Nei regni oltre la conoscenza L\'anima si rafforza In profondità sotto la Valle. E quando i nostri fratelli se ne vanno Nel Tempio della Montagna Proteggeremo il loro spirito eterno Racchiuso nel sacro cristallo blu. E quando i nostri fratelli se ne vanno Una Luna splende sopra la Valle. ' WHERE entry=61;
 UPDATE locales_page_Text SET text_loc9='Per la luna e il fuoco, Per la carne e le ossa, Scritto col sangue, Intagliato nella pietra. Lascia questo posto O incontra il tuo fato La Morte è di guardai Sulla Tomba dell\'Imperatore. ' WHERE entry=62;
-
 UPDATE locales_page_Text SET text_loc9='Padron Carevin, $g Il portatore : La portatrice; di questa lettera si è $g mostrato retto: mostrata retta; nella via della Luce, capace di combattere i non morti e i demoni che infestano i confini di Duskwood, e $g interessato : interessata ; ad unirsi alla famiglia Carevin nella loro causa della Luce. Suggerirei quindi di dare a questo guerriero della Luce ulteriori incarichi--magari di investigare su alcuni cittadini che sono sospettati di aiutare i nemici della Luce. Lealmente tuo, Calor ' WHERE entry=63;
 UPDATE locales_page_Text SET text_loc9='Morgan Ladimore fu un grande e nobile cavaliere che combattè in difesa degli innocenti, dei poveri, e degli afflitti. Per molti anni, lavorò diligentemente nelle aree periferiche di Azeroth, portando serenità ai sofferenti e rapida giustizia sui malfattori.
 
@@ -179,7 +177,6 @@ UPDATE locales_page_Text SET text_loc9='il giorno dopo. Venne sepolto velocement
 Solo giorni dopo, la sua tomba venne spostata, e il suo corpo non venne ritrovato. Ciò che era Morgan ora' WHERE entry=71;
 UPDATE locales_page_Text SET text_loc9='vaga nel Duskwood, consumato dall\'afflizione per la perdita di sua moglie e i figli e dall\'odio per se stesso. Mor\'Ladim, come si fa chiamare ora, vagabonda nel Duskwood pieno di una irragionevole vendetta e di odio, ed è conosciuto per commettere omicidi indiscriminatamente.' WHERE entry=72;
 UPDATE locales_page_Text SET text_loc9='Il terrore di queste poche passate settimane è quasi più di ciò che posso sopportare; tuttavia, sento che scrivendo ciò che ho visto sarò in qualche modo confortato.  Quindi lo faccio, ed è l\'unico  conforto che ho in questi giorni tristi.' WHERE entry=73;
-
 UPDATE locales_page_Text SET text_loc9='GIORNO 1
 
 L\'apprendista e io siamo arrivati nella Coldridge Valley oggi. Il viaggio attraverso la grotta è stato perlopiù privo di eventi. Abbiamo preparato un piccolo accampamento abbastanza lontano dalla grotta dove ci è stato detto che i troll si sono raggruppati.
@@ -197,7 +194,6 @@ UPDATE locales_page_Text SET text_loc9='Questo Buono Armatura può essere scambi
 UPDATE locales_page_Text SET text_loc9='Qui sotto è scritto il processo e il programma della raccolta di oro da parte dei Defias dalle miniere di Elwynn ai nostri quartier generali nelle Westfall.$B$BProgramma di raccolta:$B$BDomenica: 12:30pm$BMercoledì: 12:30pm$B$BIn ogni giorno specificato, l\'oro raccolto dalle miniere di Elwynn sarà raccolto al Brackwell Pumpkin Patch. L\'agente in carica di queste raccolte, "L\'Esattore," sarà riconoscibile dall\'anello intagliato che possiede. Un\'anello che gli ho dato. ' WHERE entry=79;
 UPDATE locales_page_Text SET text_loc9='Grelin, Ho poco tempo e molti problemi mi fanno pressione, e spero che la tua investigazione riguardo i troll non sia uno di essi. Quindi ti concedo l\'uso della mia autorità nel gestire questo problema nel modo che ritieni più congeniale, a maggior ragione se riesci a trovare una soluzione ingegnosa. Magni Bronzebeard ' WHERE entry=80;
 UPDATE locales_page_Text SET text_loc9='è riuscito ad avere la meglio sull\'orribile bruto, ma ora si sta medicando un brutto taglio sul suo braccio. Sembra che dovrò pensare alle faccende per un po\'. GIORNO TRE Freddo. Ha nevicato un po\' durante il pomeriggio. GIORNO QUATTRO Il ragazzo è tornato in forma oggi, quindi abbiamo dato una prima occhiata ai trolls. Frostmane, direi, vedendo i tatuaggi sulla loro pelle e le chincaglierie che indossano. ' WHERE entry=81;
-
 UPDATE locales_page_Text SET text_loc9='GIORNO CINQUE Ho fatto controllare al ragazzo l\'accampamento, mi sono intrufolato nella grotta e ho dato un\'occhiata in giro. Il numero dei troll è in qualche modo preoccupante. I Mountaineers dovrebbero essere chiamati in grande numero se questa caverna dovesse essere ripulita dall\'infestazione dei troll. Mi rendo conto che non ho parlato dei troll ultimamente. Sembrano essere in grande numero nell\'area, ma sono così primitivi che non pongono nessun particolare problema. Il tempo ci dirà se questo è vero o no. ' WHERE entry=82;
 UPDATE locales_page_Text SET text_loc9='E neanche un goccio di birra da una settimana. GIORNO SEI Freddo di nuovo. Neve. Troll. Niente birra. GIORNO SETTE La neve è bianca sulle grotte, Il cielo è blu sopra la terra, Lupi ululano nella notte, Neanche un goccio di birra. GIORNO OTTO I troll probabilmente non sono un problema così grande come avevamo pensato inizialmente. Sono un buon ' WHERE entry=83;
 UPDATE locales_page_Text SET text_loc9='numero ma non sono ben armati e organizzati. Una piccola dimostrazione di forza dovrebbe essere più che adeguata nel trattare con la minaccia che pongono. ' WHERE entry=84;
@@ -206,7 +202,6 @@ UPDATE locales_page_Text SET text_loc9='Il Mio Diario
 Il terrore di queste poche settimane passate è più di quanto possa sopportare; come mai scrivendo queste parole sul libro riesco in qualche modo ad arginare la pazzia?  Forse è come se stessi confessando i miei peccati ad un compagno silenzioso, o liberando la mia mente da questi pensieri torturanti e confinarli sulla carta.
 
 Ho iniziato un diario prima di questo, ma si trova in un posto dove non posso ritornare.  Quindi inizierò da capo.  Ma questa volta, comincerò dal vero principio.' WHERE entry=85;
-
 UPDATE locales_page_Text SET text_loc9='Un Rapporto sullo Stato dei Troll Frostname nell\'Area Generale della Coldridge Valley
 
 Redatto da Grelin Whitebeard, Inviato Speciale del Senato
@@ -215,7 +210,6 @@ Dal tempo che ho passato ad osservare i movimenti dei troll Frostmane nella Cold
 UPDATE locales_page_Text SET text_loc9='nella Coldridge Valley e di mercenari (pagati con i fondi messi da parte dal Senato prima della mia spedizione), sono fiducioso che il problema verrà risolto a breve termine.
 
 Questa azione è stata ratificata dall\'autorizzazione datami da Re Bronzebeard.' WHERE entry=87;
-
 UPDATE locales_page_Text SET text_loc9='Un Rapporto sullo Stato dei Frostmane Troll nell\'Area Generale del Dun Morogh I troll situati nel Dun Morogh sono principalmente presenti nella Frostmane Hold, una grotta sul margine occidentale. Sono in un numero sufficiente da causare qualche problema, tuttavia, sembrano più che soddisfatti nel rimanere nella loro grotta. Questo, indubbiamente, perchè non vogliono incorrere nuovamente nell\'ira dei nani, e rischiare la sterminazione totale. Le loro azioni possono essere considerate territoriali, al massimo, ed è mia convinzione ' WHERE entry=88;
 UPDATE locales_page_Text SET text_loc9='che non pongano per noi un reale problema, fintanto che non sconfiniamo nel loro territorio. Questa situazione potrebbe essere insoddisfacente per il popolo nanico, ma data la dispersione delle risorse militari, potrebbe essere prudente rimandare lo sterminio dei troll ad una priorità minore, e continuare a concentrarci sulla minaccia posta dai trogg e dai Dark Iron. Allegato, troverete anche una copia del rapporto di mio fratello Grelin su Anvilmar. Firmato, Senir Whitebeard ' WHERE entry=89;
 UPDATE locales_page_Text SET text_loc9='Un Rapporto sullo Stato dei Troll Frostname nell\'Area Generale della Coldridge Valley Redatto da Grelin Whitebeard, Inviato Speciale del Senato Dal tempo che ho passato ad osservare i movimenti dei troll Frostmane nella Coldridge Valley area, ho determinato che non pongono una grossa minaccia agli insediamenti nanici nell\'area. Oltretutto, sono un problema eliminabile con un poco si supporto addizionale dall\'esercito. Attraverso l\'aiuto dei Mountaineers già presenti ' WHERE entry=90;
@@ -234,8 +228,11 @@ Il mio amore per te rimane forte, anche in questi tempi duri.
 UPDATE locales_page_Text SET text_loc9='Saluti Ello Ebonlocke, Sindaco di Darkshire.  Temo di avere notizioe per la sua città.  Cattive notizie.
 
 Vedete, sono un creatore.  Ho ingannato il messaggero di questa lettera ad aiutarmi nella mia ultima, più terribile creazione - un mostro di carne ed ossa e metallo contorto!  Mentre state leggendo, si trova probabilmente fuori dalla mia umile dimora, digrignango gi denti ed aspettando un mio ordine per avanzare e fare una strage.
+
 Ma lo vedrete presto.
+
 -L\'Imbalsamatore' WHERE entry=235;
 UPDATE locales_page_Text SET text_loc9='01001101 01100101 01110011 01110011 01100001 01100111 01100101 00100000 01110100 01101111 00100000 01000011 01100001 01110011 01110100 01110000 01101001 01110000 01100101 00111010 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01100001 01110101 01101110 01100100 01110010 01111001 00100111 01110011 00100000 01110010 01100101 01100001 01100100 01111001 00100000 01100110 01101111 01110010 00100000 01110000 01101001 01100011 01101011 01110101 01110000 00101110' WHERE entry=1331;
 UPDATE locales_page_Text SET text_loc9='01001101 01100101 01110011 01110011 01100001 01100111 01100101 00100000 01110100 01101111 00100000 01000011 01100001 01110011 01110100 01110000 01101001 01110000 01100101 00111010 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01100001 01110101 01101110 01100100 01110010 01111001 00100111 01110011 00100000 01110010 01100101 01100001 01100100 01111001 00100000 01100110 01101111 01110010 00100000 01110000 01101001 01100011 01101011 01110101 01110000 00101110' WHERE entry=1370;
+
 SET NAMES 'latin1';

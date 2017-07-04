@@ -536,10 +536,8 @@ UPDATE mangos_string SET content_loc9='The Horde flag is now placed at its base.
 UPDATE mangos_string SET content_loc9='alliance' WHERE entry=650; -- content: alliance
 UPDATE mangos_string SET content_loc9='horde' WHERE entry=651; -- content: horde
 UPDATE mangos_string SET content_loc9='stables' WHERE entry=652; -- content: stables
-UPDATE mangos_string SET content_loc9='blacksmith' WHERE entry=653; -- content: blacksmith
 UPDATE mangos_string SET content_loc9='farm' WHERE entry=654; -- content: farm
 UPDATE mangos_string SET content_loc9='lumber mill' WHERE entry=655; -- content: lumber mill
-UPDATE mangos_string SET content_loc9='mine' WHERE entry=656; -- content: mine
 UPDATE mangos_string SET content_loc9='The %s has taken the %s' WHERE entry=657; -- content: The %s has taken the %s
 UPDATE mangos_string SET content_loc9='$n has defended the %s' WHERE entry=658; -- content: $n has defended the %s
 UPDATE mangos_string SET content_loc9='$n has assaulted the %s' WHERE entry=659; -- content: $n has assaulted the %s
@@ -619,7 +617,6 @@ UPDATE mangos_string SET content_loc9='You don\'t know that language' WHERE entr
 UPDATE mangos_string SET content_loc9='Please provide character name' WHERE entry=807; -- content: Please provide character name
 UPDATE mangos_string SET content_loc9='Player %s not found or offline' WHERE entry=808; -- content: Player %s not found or offline
 UPDATE mangos_string SET content_loc9='Account for character %s not found' WHERE entry=809; -- content: Account for character %s not found
-UPDATE mangos_string SET content_loc9='Guild Master' WHERE entry=811; -- content: Guild Master
 UPDATE mangos_string SET content_loc9='Officer' WHERE entry=812; -- content: Officer
 UPDATE mangos_string SET content_loc9='Veteran' WHERE entry=813; -- content: Veteran
 UPDATE mangos_string SET content_loc9='Member' WHERE entry=814; -- content: Member

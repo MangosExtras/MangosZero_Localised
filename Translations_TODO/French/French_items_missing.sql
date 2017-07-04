@@ -32,8 +32,6 @@ UPDATE locales_item SET description_loc2='This pendant glows with magic.' WHERE 
 UPDATE locales_item SET description_loc2='An improved pot, with extra whistles and choppers.' WHERE entry=1987; -- description: An improved pot, with extra whistles and choppers.
 UPDATE locales_item SET description_loc2='Morgan Ladimore\'s sword.' WHERE entry=2000; -- description: Morgan Ladimore\'s sword.
 UPDATE locales_item SET description_loc2='Sarah Ladimore\'s ring.' WHERE entry=2162; -- description: Sarah Ladimore\'s ring.
-UPDATE locales_item SET name_loc2='Monster - Staff, Ornate Priest Staff' WHERE entry=2176; -- name: Monster - Staff, Ornate Priest Staff
-UPDATE locales_item SET name_loc2='Monster - Staff, Ornate Mage Staff' WHERE entry=2177; -- name: Monster - Staff, Ornate Mage Staff
 UPDATE locales_item SET description_loc2='Engraved with the words \'For years of service: -EVC.\'' WHERE entry=2239; -- description: Engraved with the words \'For years of service: -EVC.\'
 UPDATE locales_item SET description_loc2='A crate of miscellaneous supplies addressed to Private Thorsen.' WHERE entry=2252; -- description: A crate of miscellaneous supplies addressed to Private Thorsen.
 UPDATE locales_item SET description_loc2='Teaches you how to craft Fine Leather Boots.' WHERE entry=2406; -- description: Teaches you how to craft Fine Leather Boots.
@@ -67,7 +65,6 @@ UPDATE locales_item SET description_loc2='It\'s dripping.' WHERE entry=3349; -- 
 UPDATE locales_item SET description_loc2='Teaches you how to make a Minor Magic Resistance Potion.' WHERE entry=3393; -- description: Teaches you how to make a Minor Magic Resistance Potion.
 UPDATE locales_item SET description_loc2='Teaches you how to make a Limited Invulnerability Potion.' WHERE entry=3395; -- description: Teaches you how to make a Limited Invulnerability Potion.
 UPDATE locales_item SET description_loc2='Teaches you how to make an Elixir of Lesser Agility.' WHERE entry=3396; -- description: Teaches you how to make an Elixir of Lesser Agility.
-UPDATE locales_item SET name_loc2='Monster - Spear, Badass' WHERE entry=3433; -- name: Monster - Spear, Badass
 UPDATE locales_item SET description_loc2='Used by Blacksmiths to remove impurities.' WHERE entry=3466; -- description: Used by Blacksmiths to remove impurities.
 UPDATE locales_item SET description_loc2='The sealed findings of Apothecary Renferrel.' WHERE entry=3468; -- description: The sealed findings of Apothecary Renferrel.
 UPDATE locales_item SET description_loc2='A crescent moon dangling from a silver chain.' WHERE entry=3498; -- description: A crescent moon dangling from a silver chain.
@@ -184,7 +181,6 @@ UPDATE locales_item SET description_loc2='Teaches you how to make a Silvered Bro
 UPDATE locales_item SET description_loc2='Teaches you how to make a Rage Potion.' WHERE entry=5640; -- description: Teaches you how to make a Rage Potion.
 UPDATE locales_item SET description_loc2='Teaches you how to make a Free Action Potion.' WHERE entry=5642; -- description: Teaches you how to make a Free Action Potion.
 UPDATE locales_item SET description_loc2='Teaches you how to make a Great Rage Potion.' WHERE entry=5643; -- description: Teaches you how to make a Great Rage Potion.
-UPDATE locales_item SET name_loc2='Monster - Trident, Copper' WHERE entry=5746; -- name: Monster - Trident, Copper
 UPDATE locales_item SET description_loc2='Teaches you how to sew a Red Linen Bag.' WHERE entry=5771; -- description: Teaches you how to sew a Red Linen Bag.
 UPDATE locales_item SET description_loc2='Teaches you how to sew a Red Woolen Bag.' WHERE entry=5772; -- description: Teaches you how to sew a Red Woolen Bag.
 UPDATE locales_item SET description_loc2='Teaches you how to sew Robes of Arcana.' WHERE entry=5773; -- description: Teaches you how to sew Robes of Arcana.
@@ -194,7 +190,6 @@ UPDATE locales_item SET description_loc2='Teaches you how to craft a Murloc Scal
 UPDATE locales_item SET description_loc2='Teaches you how to craft a Murloc Scale Breastplate.' WHERE entry=5787; -- description: Teaches you how to craft a Murloc Scale Breastplate.
 UPDATE locales_item SET description_loc2='Teaches you how to craft Thick Murloc Armor.' WHERE entry=5788; -- description: Teaches you how to craft Thick Murloc Armor.
 UPDATE locales_item SET description_loc2='Teaches you how to craft Murloc Scale Bracers.' WHERE entry=5789; -- description: Teaches you how to craft Murloc Scale Bracers.
-UPDATE locales_item SET name_loc2='Monster - Throwing Spear' WHERE entry=5870; -- name: Monster - Throwing Spear
 UPDATE locales_item SET description_loc2='Teaches you how to craft Fine Leather Pants.' WHERE entry=5972; -- description: Teaches you how to craft Fine Leather Pants.
 UPDATE locales_item SET description_loc2='Teaches you how to craft Barbaric Leggings.' WHERE entry=5973; -- description: Teaches you how to craft Barbaric Leggings.
 UPDATE locales_item SET description_loc2='Teaches you how to craft a Guardian Cloak.' WHERE entry=5974; -- description: Teaches you how to craft a Guardian Cloak.
@@ -436,7 +431,6 @@ UPDATE locales_item SET description_loc2='Teaches you how to make a Deepdive Hel
 UPDATE locales_item SET description_loc2='Teaches you how to make a Sniper Scope.' WHERE entry=10608; -- description: Teaches you how to make a Sniper Scope.
 UPDATE locales_item SET description_loc2='Teaches you how to make a Mithril Mechanical Dragonling.' WHERE entry=10609; -- description: Teaches you how to make a Mithril Mechanical Dragonling.
 UPDATE locales_item SET description_loc2='Blood of the Sea Queen' WHERE entry=10610; -- description: Blood of the Sea Queen
-UPDATE locales_item SET name_loc2='Monster - Sword, Horde Sword Black' WHERE entry=10614; -- name: Monster - Sword, Horde Sword Black
 UPDATE locales_item SET description_loc2='Teaches you how to make Goblin Rocket Fuel.' WHERE entry=10644; -- description: Teaches you how to make Goblin Rocket Fuel.
 UPDATE locales_item SET description_loc2='Death or Serious Injury may result from use of this device.' WHERE entry=10645; -- description: Death or Serious Injury may result from use of this device.
 UPDATE locales_item SET description_loc2='Etched across the blade: Rakh\'likh' WHERE entry=10696; -- description: Etched across the blade: Rakh\'likh
@@ -522,7 +516,6 @@ UPDATE locales_item SET description_loc2='Use to wake up Ringo.' WHERE entry=118
 UPDATE locales_item SET description_loc2='Teaches you how to make a smoking heart of the mountain.' WHERE entry=11813; -- description: Teaches you how to make a smoking heart of the mountain.
 UPDATE locales_item SET description_loc2='Teaches you how to make your own Lil\' Smoky robot.' WHERE entry=11827; -- description: Teaches you how to make your own Lil\' Smoky robot.
 UPDATE locales_item SET description_loc2='Teaches you how to make a Pet Bombling.' WHERE entry=11828; -- description: Teaches you how to make a Pet Bombling.
-UPDATE locales_item SET name_loc2='Monster - Trident, Wicked' WHERE entry=12063; -- name: Monster - Trident, Wicked
 UPDATE locales_item SET description_loc2='A chest full of "junk"' WHERE entry=12122; -- description: A chest full of "junk"
 UPDATE locales_item SET description_loc2='Teaches you how to make a Hardened Iron Shortsword.' WHERE entry=12162; -- description: Teaches you how to make a Hardened Iron Shortsword.
 UPDATE locales_item SET description_loc2='Teaches you how to make a Moonsteel Broadsword.' WHERE entry=12163; -- description: Teaches you how to make a Moonsteel Broadsword.
@@ -590,7 +583,6 @@ UPDATE locales_item SET description_loc2='Teaches you how to make an Enchanted T
 UPDATE locales_item SET description_loc2='Teaches you how to make Enchanted Thorium Leggings.' WHERE entry=12726; -- description: Teaches you how to make Enchanted Thorium Leggings.
 UPDATE locales_item SET description_loc2='Teaches you how to make an Enchanted Thorium Breastplate.' WHERE entry=12727; -- description: Teaches you how to make an Enchanted Thorium Breastplate.
 UPDATE locales_item SET description_loc2='Teaches you how to make Invulnerable Mail.' WHERE entry=12728; -- description: Teaches you how to make Invulnerable Mail.
-UPDATE locales_item SET name_loc2='Monster - Item, Orb - Lava' WHERE entry=12746; -- name: Monster - Item, Orb - Lava
 UPDATE locales_item SET description_loc2='Covered in Demonic runes.' WHERE entry=12806; -- description: Covered in Demonic runes.
 UPDATE locales_item SET description_loc2='It\'s got enough juice to set a large tent on fire!' WHERE entry=12814; -- description: It\'s got enough juice to set a large tent on fire!
 UPDATE locales_item SET description_loc2='Teaches you how to make an Ornate Thorium Handaxe.' WHERE entry=12819; -- description: Teaches you how to make an Ornate Thorium Handaxe.
@@ -664,10 +656,7 @@ UPDATE locales_item SET description_loc2='Teaches you how to make a Flask of Chr
 UPDATE locales_item SET description_loc2='The blood is still fresh.' WHERE entry=13523; -- description: The blood is still fresh.
 UPDATE locales_item SET description_loc2='Allows communication with the deceased of Caer Darrow.' WHERE entry=13544; -- description: Allows communication with the deceased of Caer Darrow.
 UPDATE locales_item SET description_loc2='All of the pages are torn out.' WHERE entry=13585; -- description: All of the pages are torn out.
-UPDATE locales_item SET name_loc2='Monster - Spear, Badass Blue' WHERE entry=13632; -- name: Monster - Spear, Badass Blue
-UPDATE locales_item SET name_loc2='Monster - Staff, Ornate Warlock Staff Black Glow Low' WHERE entry=13698; -- name: Monster - Staff, Ornate Warlock Staff Black Glow Low
 UPDATE locales_item SET description_loc2='Not to be confused with gloom weed, womb weed, or broom weed.  Or doom seed.' WHERE entry=13702; -- description: Not to be confused with gloom weed, womb weed, or broom weed.  Or doom seed.
-UPDATE locales_item SET name_loc2='Monster - Staff, Wood w/ Spiral Head White Low Purple Glow' WHERE entry=13723; -- name: Monster - Staff, Wood w/ Spiral Head White Low Purple Glow
 UPDATE locales_item SET description_loc2='Bears the mark of the Grand Crusader.' WHERE entry=13852; -- description: Bears the mark of the Grand Crusader.
 UPDATE locales_item SET description_loc2='Venture Company Supplies' WHERE entry=13874; -- description: Venture Company Supplies
 UPDATE locales_item SET description_loc2='Teaches you how to cook Spotted Yellowtail.' WHERE entry=13939; -- description: Teaches you how to cook Spotted Yellowtail.
@@ -794,7 +783,6 @@ UPDATE locales_item SET description_loc2='This book emits a faint glow.' WHERE e
 UPDATE locales_item SET description_loc2='Bears the Seal of the Scarlet Crusade' WHERE entry=15868; -- description: Bears the Seal of the Scarlet Crusade
 UPDATE locales_item SET description_loc2='The Worm is the Best Part.' WHERE entry=15875; -- description: The Worm is the Best Part.
 UPDATE locales_item SET description_loc2='The pendant is missing its aquatic counterpart.' WHERE entry=15882; -- description: The pendant is missing its aquatic counterpart.
-UPDATE locales_item SET name_loc2='Monster - Trident, Dark Ornate' WHERE entry=15910; -- name: Monster - Trident, Dark Ornate
 UPDATE locales_item SET description_loc2='Teaches you how to make a Thorium Grenade.' WHERE entry=16041; -- description: Teaches you how to make a Thorium Grenade.
 UPDATE locales_item SET description_loc2='Teaches you how to make a Thorium Widget.' WHERE entry=16042; -- description: Teaches you how to make a Thorium Widget.
 UPDATE locales_item SET description_loc2='Teaches you how to make a Thorium Rifle.' WHERE entry=16043; -- description: Teaches you how to make a Thorium Rifle.
@@ -882,7 +870,6 @@ UPDATE locales_item SET description_loc2='Found on the body of Magra...' WHERE e
 UPDATE locales_item SET description_loc2='Found on the body of Maraudos...' WHERE entry=17764; -- description: Found on the body of Maraudos...
 UPDATE locales_item SET description_loc2='Found on the body of Veng...' WHERE entry=17765; -- description: Found on the body of Veng...
 UPDATE locales_item SET description_loc2='Teaches you how to cook a Tender Wolf Steak.' WHERE entry=18046; -- description: Teaches you how to cook a Tender Wolf Steak.
-UPDATE locales_item SET name_loc2='Monster - Staff, Ornate Jeweled Staff - Blue High Blue Glow' WHERE entry=18122; -- name: Monster - Staff, Ornate Jeweled Staff - Blue High Blue Glow
 UPDATE locales_item SET description_loc2='Teaches you how to brew a Thistle Tea.' WHERE entry=18160; -- description: Teaches you how to brew a Thistle Tea.
 UPDATE locales_item SET description_loc2='This item has seen much use.' WHERE entry=18227; -- description: This item has seen much use.
 UPDATE locales_item SET description_loc2='The mystery remains unsolved.' WHERE entry=18228; -- description: The mystery remains unsolved.
@@ -1268,7 +1255,6 @@ UPDATE locales_item SET description_loc2='These may be gathered for the Timberma
 UPDATE locales_item SET description_loc2='These may be gathered for the Timbermaw furbolgs to earn their trust.' WHERE entry=21383; -- description: These may be gathered for the Timbermaw furbolgs to earn their trust.
 UPDATE locales_item SET description_loc2='Seek out an Alliance Commendation Officer to exchange signets for recognition.' WHERE entry=21436; -- description: Seek out an Alliance Commendation Officer to exchange signets for recognition.
 UPDATE locales_item SET description_loc2='Seek out an Horde Commendation Officer to exchange signets for recognition.' WHERE entry=21438; -- description: Seek out an Horde Commendation Officer to exchange signets for recognition.
-UPDATE locales_item SET name_loc2='Monster - Axe, Insano' WHERE entry=21465; -- name: Monster - Axe, Insano
 UPDATE locales_item SET description_loc2='Ouch' WHERE entry=21488; -- description: Ouch
 UPDATE locales_item SET description_loc2='Still dripping with blood' WHERE entry=21498; -- description: Still dripping with blood
 UPDATE locales_item SET description_loc2='A tiny fragment of a very large insect.' WHERE entry=21533; -- description: A tiny fragment of a very large insect.
@@ -1295,8 +1281,6 @@ UPDATE locales_item SET description_loc2='Teaches you how to make a Large Green 
 UPDATE locales_item SET description_loc2='Teaches you how to make a Large Red Rocket Cluster.' WHERE entry=21735; -- description: Teaches you how to make a Large Red Rocket Cluster.
 UPDATE locales_item SET description_loc2='Teaches you how to make a Firework Cluster Launcher.' WHERE entry=21737; -- description: Teaches you how to make a Firework Cluster Launcher.
 UPDATE locales_item SET description_loc2='Teaches you how to make a Firework Launcher.' WHERE entry=21738; -- description: Teaches you how to make a Firework Launcher.
-UPDATE locales_item SET name_loc2='Monster - Sword2H, Ahn\'Qiraj' WHERE entry=21794; -- name: Monster - Sword2H, Ahn\'Qiraj
-UPDATE locales_item SET name_loc2='Monster - Item, Ahn\'Qiraj Held Scepter' WHERE entry=21796; -- name: Monster - Item, Ahn\'Qiraj Held Scepter
 UPDATE locales_item SET description_loc2='A small message of affection...' WHERE entry=21815; -- description: A small message of affection...
 UPDATE locales_item SET description_loc2='Be mine!' WHERE entry=21816; -- description: Be mine!
 UPDATE locales_item SET description_loc2='I LOVE YOU' WHERE entry=21817; -- description: I LOVE YOU

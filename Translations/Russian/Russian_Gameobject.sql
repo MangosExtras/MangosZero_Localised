@@ -67,6 +67,7 @@ UPDATE locales_gameobject SET name_loc8='Луноречье' WHERE entry=124; --
 UPDATE locales_gameobject SET name_loc8='Ящик Аберкромби' WHERE entry=167; -- name: Abercrombie\'s Crate
 UPDATE locales_gameobject SET name_loc8='Ящик с провизией' WHERE entry=249; -- name: Crate of Foodstuffs
 UPDATE locales_gameobject SET name_loc8='Исследовательское оборудование' WHERE entry=251; -- name: Research Equipment
+UPDATE locales_gameobject SET name_loc8='Разыскивается: Чок\'сул' WHERE entry=254; -- name: Wanted: Chok\'Sul
 UPDATE locales_gameobject SET name_loc8='РАЗЫСКИВАЕТСЯ' WHERE entry=256; -- name: WANTED
 UPDATE locales_gameobject SET name_loc8='Подозрительная бочка' WHERE entry=257; -- name: Suspicious Barrel
 UPDATE locales_gameobject SET name_loc8='Полузакопанная бочка' WHERE entry=259; -- name: Half-buried Barrel
@@ -619,13 +620,13 @@ UPDATE locales_gameobject SET name_loc8='Торговый квартал' WHERE 
 UPDATE locales_gameobject SET name_loc8='Разбитая спасательная шлюпка' WHERE entry=2289; -- name: Ruined Lifeboat
 UPDATE locales_gameobject SET name_loc8='Жареные крылышки канюка' WHERE entry=2332; -- name: Barbequed Buzzard Wings
 UPDATE locales_gameobject SET name_loc8='Вино из ягод змеелозы' WHERE entry=2333; -- name: Stranglevine Wine
-UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=2334; -- name: campfire
+UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=2334; -- name: Campfire
 UPDATE locales_gameobject SET name_loc8='Большой костер' WHERE entry=2335; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=2336; -- name: Campfire
 UPDATE locales_gameobject SET name_loc8='Череп охотника за головами' WHERE entry=2371; -- name: Headhunter Skull
 UPDATE locales_gameobject SET name_loc8='Деревянный стул' WHERE entry=2413; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc8='Пузатая печка' WHERE entry=2414; -- name: Need Name
-UPDATE locales_gameobject SET name_loc8='Стул с высокой спинкой' WHERE entry=2489; -- name: Chair
+UPDATE locales_gameobject SET name_loc8='Стул' WHERE entry=2489; -- name: Chair
 UPDATE locales_gameobject SET name_loc8='Вываренный череп' WHERE entry=2551; -- name: Boiled Skull
 UPDATE locales_gameobject SET name_loc8='Пар из котла' WHERE entry=2552; -- name: Cauldron Steam
 UPDATE locales_gameobject SET name_loc8='Промокший свиток' WHERE entry=2553; -- name: A Soggy Scroll
@@ -1559,7 +1560,7 @@ UPDATE locales_gameobject SET name_loc8='Каменный Молот' WHERE entr
 UPDATE locales_gameobject SET name_loc8='Степи' WHERE entry=21085; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc8='Деревня Гиблотопь' WHERE entry=21086; -- name: Brackenwall Village
 UPDATE locales_gameobject SET name_loc8='Каменный Молот' WHERE entry=21087; -- name: Stonemaul
-UPDATE locales_gameobject SET name_loc8='БЕРЕГИСЬ!' WHERE entry=21088; -- name: BEWARE!
+UPDATE locales_gameobject SET name_loc8='БЕРЕГИСЬ!' WHERE entry=21088; -- name: Beware!
 UPDATE locales_gameobject SET name_loc8='Вы входите в Землю Драконов.' WHERE entry=21089; -- name: You are entering the Dragonmurk
 UPDATE locales_gameobject SET name_loc8='Охрана' WHERE entry=21099; -- name: ward
 UPDATE locales_gameobject SET name_loc8='Портал Аку\'май' WHERE entry=21117; -- name: Portal of Aku\'Mai
@@ -1569,7 +1570,7 @@ UPDATE locales_gameobject SET name_loc8='Пламя Аку\'май' WHERE entry=
 UPDATE locales_gameobject SET name_loc8='Пламя Аку\'май' WHERE entry=21121; -- name: Fire of Aku\'mai
 UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=21127; -- name: Campfire
 UPDATE locales_gameobject SET name_loc8='Отчет орочьего шпиона' WHERE entry=21128; -- name: Orc Spy Report
-UPDATE locales_gameobject SET name_loc8='Ящик с отверстиями' WHERE entry=21277; -- name: Crate with Holes
+UPDATE locales_gameobject SET name_loc8='Ящик с отверстиями' WHERE entry=21277; -- name: Crate With Holes
 UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=21282; -- name: Campfire
 UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=21308; -- name: Campfire
 UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=21327; -- name: Campfire
@@ -2392,7 +2393,9 @@ UPDATE locales_gameobject SET name_loc8='Великая Кузня' WHERE entry=
 UPDATE locales_gameobject SET name_loc8='Заброшенные гроты' WHERE entry=32381; -- name: The Forlorn Caverns
 UPDATE locales_gameobject SET name_loc8='Заброшенный грот' WHERE entry=32383; -- name: The Forlorn Cavern
 UPDATE locales_gameobject SET name_loc8='Палаты Войны' WHERE entry=32385; -- name: The Military Ward
+UPDATE locales_gameobject SET name_loc8='Зал Тайн' WHERE entry=32386; -- name: Hall of Mysteries
 UPDATE locales_gameobject SET name_loc8='Дворфийская жаровня' WHERE entry=32389; -- name: Dwarven Brazier
+UPDATE locales_gameobject SET name_loc8='Оружейная' WHERE entry=32390; -- name: Hall of Arms
 UPDATE locales_gameobject SET name_loc8='Дворфийская жаровня' WHERE entry=32391; -- name: Dwarven Brazier
 UPDATE locales_gameobject SET name_loc8='Великая Кузня' WHERE entry=32392; -- name: The Great Forge
 UPDATE locales_gameobject SET name_loc8='Великая Кузня' WHERE entry=32395; -- name: The Great Forge
@@ -4911,7 +4914,7 @@ UPDATE locales_gameobject SET name_loc8='Побег кровоцвета' WHERE 
 UPDATE locales_gameobject SET name_loc8='"Девичий каприз" - Круизы в Пиратскую Бухту и обратно' WHERE entry=165549; -- name: Maiden\'s Fancy - Round trips to Booty Bay
 UPDATE locales_gameobject SET name_loc8='Сердце Горы' WHERE entry=165554; -- name: Heart of the Mountain
 UPDATE locales_gameobject SET name_loc8='Причальная башня дирижабля' WHERE entry=165557; -- name: Zeppelin Landing Tower
-UPDATE locales_gameobject SET name_loc8='Посадочная площадка дирижабля' WHERE entry=165558; -- name: Zeppelin Landing 
+UPDATE locales_gameobject SET name_loc8='Посадочная площадка дирижабля' WHERE entry=165558; -- name: Zeppelin Landing
 UPDATE locales_gameobject SET name_loc8='Рассада Муиджина' WHERE entry=165559; -- name: Muigin\'s Sprout
 UPDATE locales_gameobject SET name_loc8='Эль Черного Железа - Ловушка' WHERE entry=165578; -- name: Dark Iron Ale TRAP
 UPDATE locales_gameobject SET name_loc8='Огонь' WHERE entry=165587; -- name: Fire
@@ -7023,7 +7026,7 @@ UPDATE locales_gameobject SET name_loc8='Каменная наковальня' 
 UPDATE locales_gameobject SET name_loc8='Горн' WHERE entry=176895; -- name: Forge
 UPDATE locales_gameobject SET name_loc8='Большой костер' WHERE entry=176896; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc8='Очаг для приготовления пищи' WHERE entry=176897; -- name: Cooking Fire
-UPDATE locales_gameobject SET name_loc8='Огненная яма' WHERE entry=176898; -- name: Fire pit
+UPDATE locales_gameobject SET name_loc8='Огненная яма' WHERE entry=176898; -- name: Fire Pit
 UPDATE locales_gameobject SET name_loc8='Котел' WHERE entry=176899; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc8='Doodad_PortcullisActive02' WHERE entry=176901; -- name: Doodad_PortcullisActive02
 UPDATE locales_gameobject SET name_loc8='Костер' WHERE entry=176904; -- name: Campfire
@@ -8193,7 +8196,7 @@ UPDATE locales_gameobject SET name_loc8='Жаровня' WHERE entry=180477; -- 
 UPDATE locales_gameobject SET name_loc8='Жаровня' WHERE entry=180478; -- name: Brazier
 UPDATE locales_gameobject SET name_loc8='Жаровня' WHERE entry=180479; -- name: Brazier
 UPDATE locales_gameobject SET name_loc8='Жаровня' WHERE entry=180480; -- name: Brazier
-UPDATE locales_gameobject SET name_loc8='Силовое поле' WHERE entry=180497; -- name: Forcefield
+UPDATE locales_gameobject SET name_loc8='Силовое поле' WHERE entry=180497; -- name: forcefield
 UPDATE locales_gameobject SET name_loc8='Фрагмент сумеречной таблички' WHERE entry=180501; -- name: Twilight Tablet Fragment
 UPDATE locales_gameobject SET name_loc8='Камень Ветров' WHERE entry=180502; -- name: Wind Stone
 UPDATE locales_gameobject SET name_loc8='Занесенная песком поваренная книга' WHERE entry=180503; -- name: Sandy Cookbook
@@ -9985,7 +9988,7 @@ UPDATE locales_gameobject SET name_loc8='Проклятое яйцо' WHERE entr
 UPDATE locales_gameobject SET name_loc8='Проклятое яйцо' WHERE entry=185211; -- name: Cursed Egg
 UPDATE locales_gameobject SET name_loc8='Фиолетовый сигнальный огонь' WHERE entry=185218; -- name: Violet Signal Fire
 UPDATE locales_gameobject SET name_loc8='Лес Тероккар - Брошенный Караван - задание - сундук открытый' WHERE entry=185221; -- name: Terokkar Forest - Derelict Caravan - Quest - Chest Opened
-UPDATE locales_gameobject SET name_loc8='Вызов Орды' WHERE entry=185222; -- name: Challenge From the Horde
+UPDATE locales_gameobject SET name_loc8='Вызов Орды' WHERE entry=185222; -- name: Challenge from the Horde
 UPDATE locales_gameobject SET name_loc8='Сундук заговорщика' WHERE entry=185224; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc8='Сундук заговорщика' WHERE entry=185225; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc8='Сундук заговорщика' WHERE entry=185226; -- name: Cabal Chest

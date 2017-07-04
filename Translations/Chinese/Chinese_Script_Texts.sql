@@ -28,6 +28,7 @@ UPDATE script_texts SET content_loc4='啊~~~棘齿城那带着咸味的空气。
 UPDATE script_texts SET content_loc4='队长，这位$N帮助我逃了出来！$N,队长一定会嘉奖你的勇气的。' WHERE entry=-1000380; -- content: Captain Brightsun, $N here has freed me! $N, i am certain the Captain will reward your bravery.
 UPDATE script_texts SET content_loc4='当心！' WHERE entry=-1000482; -- content: Look out!
 UPDATE script_texts SET content_loc4='感觉一下黑铁矮人的力量!' WHERE entry=-1000572; -- content: Feel the power of the Dark Iron Dwarves!
+UPDATE script_texts SET content_loc4='再见。' WHERE entry=-1000735; -- content: Farewell.
 UPDATE script_texts SET content_loc4='他们来了。' WHERE entry=-1000791; -- content: Here they come.
 UPDATE script_texts SET content_loc4='不要放弃！一直战斗，直到死去！' WHERE entry=-1000794; -- content: Don\'t give up! Fight, to the death!
 UPDATE script_texts SET content_loc4='好的，老板，我马上回去砍树。' WHERE entry=-1000795; -- content: OK boss, I get back to tree hitting.
@@ -72,6 +73,7 @@ UPDATE script_texts SET content_loc4='你不能玷污这些神迹！' WHERE entr
 UPDATE script_texts SET content_loc4='让正义的火焰吞噬你吧！' WHERE entry=-1189020; -- content: Burn in righteous fire!
 UPDATE script_texts SET content_loc4='你们怎敢进入我的密室！' WHERE entry=-1209000; -- content: How dare you enter my sanctum!
 UPDATE script_texts SET content_loc4='沙漠会将你吞噬！' WHERE entry=-1209001; -- content: Sands consume you!
+UPDATE script_texts SET content_loc4='难以置信!' WHERE entry=-1229009; -- content: Inconceivable!
 UPDATE script_texts SET content_loc4='Hail to the king, baby!' WHERE entry=-1230002; -- content: Hail to the king, baby!
 UPDATE script_texts SET content_loc4='胆敢破坏神圣的埃德萨拉斯? 面对我吧，懦夫！' WHERE entry=-1429001; -- content: Who dares disrupt the sanctity of Eldre\'Thalas? Face me, cowards!
 UPDATE script_texts SET content_loc4='战士们！船长们！继续战斗！' WHERE entry=-1509014; -- content: Warriors! Captains! Continue the fight!

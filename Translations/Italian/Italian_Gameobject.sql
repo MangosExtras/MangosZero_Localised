@@ -14,7 +14,7 @@ UPDATE locales_gameobject SET name_loc9='Caduta dei Gurubashi' WHERE entry=52; -
 UPDATE locales_gameobject SET name_loc9='La Tomba dell\'Imperatore' WHERE entry=54; -- name: The Emperor\'s Tomb
 UPDATE locales_gameobject SET name_loc9='Un corpo smangiucchiato' WHERE entry=55; -- name: A half-eaten body
 UPDATE locales_gameobject SET name_loc9='Cadavere di Rolf' WHERE entry=56; -- name: Rolf\'s corpse
-UPDATE locales_gameobject SET name_loc9='Luna Sopra la Valle' WHERE entry=57; -- name: Moon Over the Vale
+UPDATE locales_gameobject SET name_loc9='Luna Sopra la Valle' WHERE entry=57; -- name: Moon over the Vale
 UPDATE locales_gameobject SET name_loc9='Gri\'lek il Vagabondo' WHERE entry=58; -- name: Gri\'lek the Wanderer
 UPDATE locales_gameobject SET name_loc9='Mucchio di terra smossa' WHERE entry=59; -- name: Mound of loose dirt
 UPDATE locales_gameobject SET name_loc9='Ricercato: Gath\'Ilzogg' WHERE entry=60; -- name: Wanted: Gath\'Ilzogg
@@ -626,7 +626,7 @@ UPDATE locales_gameobject SET name_loc9='Trade District' WHERE entry=2191; -- na
 UPDATE locales_gameobject SET name_loc9='La Scialuppa Logora' WHERE entry=2289; -- name: Ruined Lifeboat
 UPDATE locales_gameobject SET name_loc9='Ali di Poiana Grigliate' WHERE entry=2332; -- name: Barbequed Buzzard Wings
 UPDATE locales_gameobject SET name_loc9='Stranglevine Wine' WHERE entry=2333; -- name: Stranglevine Wine
-UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=2334; -- name: campfire
+UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=2334; -- name: Campfire
 UPDATE locales_gameobject SET name_loc9='Falò' WHERE entry=2335; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=2336; -- name: Campfire
 UPDATE locales_gameobject SET name_loc9='Teschio di Cacciatore di Teste' WHERE entry=2371; -- name: Headhunter Skull
@@ -1469,7 +1469,7 @@ UPDATE locales_gameobject SET name_loc9='Ashenvale Moonwell' WHERE entry=20806; 
 UPDATE locales_gameobject SET name_loc9='Braciere Antico' WHERE entry=20807; -- name: Ancient Brazier
 UPDATE locales_gameobject SET name_loc9='Barca di Booty Bay' WHERE entry=20808; -- name: Booty Bay Ship
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=20810; -- name: Campfire
-UPDATE locales_gameobject SET name_loc9='Miniera' WHERE entry=20811; -- name: Mine
+UPDATE locales_gameobject SET name_loc9='Miniera' WHERE entry=20811; -- name: mine
 UPDATE locales_gameobject SET name_loc9='Torre Orchesca' WHERE entry=20812; -- name: Orc Tower
 UPDATE locales_gameobject SET name_loc9='Torre di Guardia' WHERE entry=20816; -- name: Guard Tower
 UPDATE locales_gameobject SET name_loc9='Recinto di Detenzione' WHERE entry=20817; -- name: Holding Pen
@@ -1580,7 +1580,7 @@ UPDATE locales_gameobject SET name_loc9='Stonemaul' WHERE entry=21084; -- name: 
 UPDATE locales_gameobject SET name_loc9='The Barrens' WHERE entry=21085; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc9='Brackenwall Village' WHERE entry=21086; -- name: Brackenwall Village
 UPDATE locales_gameobject SET name_loc9='Stonemaul' WHERE entry=21087; -- name: Stonemaul
-UPDATE locales_gameobject SET name_loc9='STATE IN GUARDIA!' WHERE entry=21088; -- name: BEWARE!
+UPDATE locales_gameobject SET name_loc9='STATE IN GUARDIA!' WHERE entry=21088; -- name: Beware!
 UPDATE locales_gameobject SET name_loc9='State entrando nel Dragonmurk' WHERE entry=21089; -- name: You are entering the Dragonmurk
 UPDATE locales_gameobject SET name_loc9='guardia' WHERE entry=21099; -- name: ward
 UPDATE locales_gameobject SET name_loc9='Portale di Aku\'Mai' WHERE entry=21117; -- name: Portal of Aku\'Mai
@@ -1590,7 +1590,7 @@ UPDATE locales_gameobject SET name_loc9='Fuoco di Aku\'mai' WHERE entry=21120; -
 UPDATE locales_gameobject SET name_loc9='Fuoco di Aku\'mai' WHERE entry=21121; -- name: Fire of Aku\'mai
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=21127; -- name: Campfire
 UPDATE locales_gameobject SET name_loc9='Rapporto della Spia Orchesca' WHERE entry=21128; -- name: Orc Spy Report
-UPDATE locales_gameobject SET name_loc9='Cassa Bucherellata' WHERE entry=21277; -- name: Crate with Holes
+UPDATE locales_gameobject SET name_loc9='Cassa Bucherellata' WHERE entry=21277; -- name: Crate With Holes
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=21282; -- name: Campfire
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=21308; -- name: Campfire
 UPDATE locales_gameobject SET name_loc9='Fuoco da Campo' WHERE entry=21327; -- name: Campfire
@@ -3092,7 +3092,7 @@ UPDATE locales_gameobject SET name_loc9='Alchimista' WHERE entry=58613; -- name:
 UPDATE locales_gameobject SET name_loc9='Incantamenti' WHERE entry=58614; -- name: Enchantment
 UPDATE locales_gameobject SET name_loc9='Erbalista' WHERE entry=58615; -- name: Herbalist
 UPDATE locales_gameobject SET name_loc9='Mercanti d\'Armi' WHERE entry=58616; -- name: Weapons Merchants
-UPDATE locales_gameobject SET name_loc9='Fabbro' WHERE entry=58617; -- name: Blacksmith
+UPDATE locales_gameobject SET name_loc9='Fabbro' WHERE entry=58617; -- name: blacksmith
 UPDATE locales_gameobject SET name_loc9='Mercante d\'Archi' WHERE entry=58618; -- name: Bow Merchant
 UPDATE locales_gameobject SET name_loc9='Armaiolo' WHERE entry=58619; -- name: Gunsmith
 UPDATE locales_gameobject SET name_loc9='Mining' WHERE entry=58620; -- name: Mining
@@ -10419,7 +10419,6 @@ UPDATE locales_gameobject SET name_loc9='TEMP Cimitero Snowfall' WHERE entry=300
 UPDATE locales_gameobject SET name_loc9='TEMP Cratere Orientale' WHERE entry=300046; -- name: TEMP East Crater
 UPDATE locales_gameobject SET name_loc9='TEMP Cratere Occidentale' WHERE entry=300047; -- name: TEMP West Crater
 UPDATE locales_gameobject SET name_loc9='TEMP Pozza del Cristallo Arancione' WHERE entry=300048; -- name: TEMP Orange Crystal Pool
-UPDATE locales_gameobject SET name_loc9='TEMP Resti di Kroshius' WHERE entry=300049; -- name: TEMP Kroshius' Remains
 UPDATE locales_gameobject SET name_loc9='TEMP Piedistallo di Immol\'thar' WHERE entry=300050; -- name: TEMP Pedestal of Immol\'thar
 UPDATE locales_gameobject SET name_loc9='TEMP Circolo dell\'Evocazione Oscura' WHERE entry=300051; -- name: TEMP Circle of Dark Summoning
 UPDATE locales_gameobject SET name_loc9='TEMP Pagle\'s Pointe' WHERE entry=300052; -- name: TEMP Pagle\'s Pointe

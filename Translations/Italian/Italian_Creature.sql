@@ -59,57 +59,57 @@ UPDATE locales_creature SET name_loc9='Avvoltoio Cucciolo' WHERE entry=199; -- n
 UPDATE locales_creature SET name_loc9='Skeletal dell\'Orrore' WHERE entry=202; -- name: Skeletal Horror
 UPDATE locales_creature SET name_loc9='Skeletal Mago' WHERE entry=203; -- name: Skeletal Mage
 UPDATE locales_creature SET name_loc9='Nightbane Oscuro' WHERE entry=205; -- name: Nightbane Dark Runner
-UPDATE locales_creature SET name_loc9='Nightbane Vile Fang' WHERE entry=206; -- name: Nightbane Vile Fang - Keep original name
+UPDATE locales_creature SET name_loc9='Nightbane Vile Fang' WHERE entry=206; -- name: Nightbane Vile Fang
 UPDATE locales_creature SET name_loc9='Masticaossa' WHERE entry=210; -- name: Bone Chewer
 UPDATE locales_creature SET name_loc9='Guerriero Splinter Fist' WHERE entry=212; -- name: Splinter Fist Warrior
 UPDATE locales_creature SET name_loc9='Lupo Famelico' WHERE entry=213; -- name: Starving Dire Wolf
 UPDATE locales_creature SET name_loc9='Defias Oscuro' WHERE entry=215; -- name: Defias Night Runner
 UPDATE locales_creature SET name_loc9='Ragno della Tela Velenosa' WHERE entry=217; -- name: Venom Web Spider
 UPDATE locales_creature SET name_loc9='Ladro di Tombe' WHERE entry=218; -- name: Grave Robber
-UPDATE locales_creature SET name_loc9='Nillen Andemar',subname_loc9='Artigiano di Mazze' WHERE entry=222; -- name: Nillen Andemar -- subname: Macecrafter - Keep original name
-UPDATE locales_creature SET name_loc9='Dan Golthas',subname_loc9='Leatherworker Specializzato' WHERE entry=223; -- name: Dan Golthas -- subname: Journeyman Leatherworker - Keep original name
+UPDATE locales_creature SET name_loc9='Nillen Andemar',subname_loc9='Artigiano di Mazze' WHERE entry=222; -- name: Nillen Andemar -- subname: Macecrafter
+UPDATE locales_creature SET name_loc9='Dan Golthas',subname_loc9='Leatherworker Specializzato' WHERE entry=223; -- name: Dan Golthas -- subname: Journeyman Leatherworker
 UPDATE locales_creature SET name_loc9='Gavin Gnarltree',subname_loc9='Fabbro D\'Armi' WHERE entry=225; -- name: Gavin Gnarltree -- subname: Weaponsmith
 UPDATE locales_creature SET name_loc9='Morg Gnarltree',subname_loc9='Armaiolo' WHERE entry=226; -- name: Morg Gnarltree -- subname: Armorer
 UPDATE locales_creature SET name_loc9='Mabel Solaj',subname_loc9='Beni Comuni' WHERE entry=227; -- name: Mabel Solaj -- subname: General Goods
-UPDATE locales_creature SET name_loc9='Avette Fellwood',subname_loc9='Fabbricante d\'Archi' WHERE entry=228; -- name: Avette Fellwood -- subname: Bowyer - Keep original name
+UPDATE locales_creature SET name_loc9='Avette Fellwood',subname_loc9='Fabbricante d\'Archi' WHERE entry=228; -- name: Avette Fellwood -- subname: Bowyer
 UPDATE locales_creature SET name_loc9='Contadino Ray' WHERE entry=232; -- name: Farmer Ray
 UPDATE locales_creature SET name_loc9='Contadino Saldean' WHERE entry=233; -- name: Farmer Saldean
-UPDATE locales_creature SET name_loc9='Gryan Stoutmantle',subname_loc9='Milizia Popolare' WHERE entry=234; -- name: Gryan Stoutmantle -- subname: The People\'s Militia - Keep original name
-UPDATE locales_creature SET name_loc9='Salma Saldean' WHERE entry=235; -- name: Salma Saldean - Keep original name
+UPDATE locales_creature SET name_loc9='Gryan Stoutmantle',subname_loc9='Milizia Popolare' WHERE entry=234; -- name: Gryan Stoutmantle -- subname: The People\'s Militia
+UPDATE locales_creature SET name_loc9='Salma Saldean' WHERE entry=235; -- name: Salma Saldean
 UPDATE locales_creature SET name_loc9='Contadino Furlbrow' WHERE entry=237; -- name: Farmer Furlbrow
-UPDATE locales_creature SET name_loc9='Verna Furlbrow' WHERE entry=238; -- name: Verna Furlbrow - Keep original name
-UPDATE locales_creature SET name_loc9='Grimbooze Thunderbrew' WHERE entry=239; -- name: Grimbooze  - Keep original nameThunderbrew
+UPDATE locales_creature SET name_loc9='Verna Furlbrow' WHERE entry=238; -- name: Verna Furlbrow
+UPDATE locales_creature SET name_loc9='Grimbooze Thunderbrew' WHERE entry=239; -- name: Grimbooze Thunderbrew
 UPDATE locales_creature SET name_loc9='Maresciallo Dughan' WHERE entry=240; -- name: Marshal Dughan
-UPDATE locales_creature SET name_loc9='Remy "Two Times"' WHERE entry=241; -- name: Remy "Two Times" - Keep original name
-UPDATE locales_creature SET name_loc9='Ma Stonefield' WHERE entry=244; -- name: Ma Stonefield - Keep original name
-UPDATE locales_creature SET name_loc9='"Auntie" Bernice Stonefield' WHERE entry=246; -- name: "Auntie" Bernice Stonefield - Keep original name
-UPDATE locales_creature SET name_loc9='Billy Maclure' WHERE entry=247; -- name: Billy Maclure - Keep original name
-UPDATE locales_creature SET name_loc9='Gramma Stonefield' WHERE entry=248; -- name: Gramma Stonefield - Keep original name
-UPDATE locales_creature SET name_loc9='Pa Maclure' WHERE entry=250; -- name: Pa Maclure - Keep original name
-UPDATE locales_creature SET name_loc9='Maybell Maclure' WHERE entry=251; -- name: Maybell Maclure - Keep original name
-UPDATE locales_creature SET name_loc9='Tommy Joe Stonefield' WHERE entry=252; -- name: Tommy Joe Stonefield - Keep original name
-UPDATE locales_creature SET name_loc9='William Pestle' WHERE entry=253; -- name: William Pestle - Keep original name
-UPDATE locales_creature SET name_loc9='Gerard Tiller' WHERE entry=255; -- name: Gerard Tiller - Keep original name
+UPDATE locales_creature SET name_loc9='Remy "Two Times"' WHERE entry=241; -- name: Remy "Two Times"
+UPDATE locales_creature SET name_loc9='Ma Stonefield' WHERE entry=244; -- name: Ma Stonefield
+UPDATE locales_creature SET name_loc9='"Auntie" Bernice Stonefield' WHERE entry=246; -- name: "Auntie" Bernice Stonefield
+UPDATE locales_creature SET name_loc9='Billy Maclure' WHERE entry=247; -- name: Billy Maclure
+UPDATE locales_creature SET name_loc9='Gramma Stonefield' WHERE entry=248; -- name: Gramma Stonefield
+UPDATE locales_creature SET name_loc9='Pa Maclure' WHERE entry=250; -- name: Pa Maclure
+UPDATE locales_creature SET name_loc9='Maybell Maclure' WHERE entry=251; -- name: Maybell Maclure
+UPDATE locales_creature SET name_loc9='Tommy Joe Stonefield' WHERE entry=252; -- name: Tommy Joe Stonefield
+UPDATE locales_creature SET name_loc9='William Pestle' WHERE entry=253; -- name: William Pestle
+UPDATE locales_creature SET name_loc9='Gerard Tiller' WHERE entry=255; -- name: Gerard Tiller
 UPDATE locales_creature SET name_loc9='Coboldo Operaio' WHERE entry=257; -- name: Kobold Worker
-UPDATE locales_creature SET name_loc9='Joshua Maclure',subname_loc9='Vinaio' WHERE entry=258; -- name: Joshua Maclure -- subname: Vintner - Keep original name
+UPDATE locales_creature SET name_loc9='Joshua Maclure',subname_loc9='Vinaio' WHERE entry=258; -- name: Joshua Maclure -- subname: Vintner
 UPDATE locales_creature SET name_loc9='Guard Thomas' WHERE entry=261; -- name: Guard Thomas
-UPDATE locales_creature SET name_loc9='Lord Ello Ebonlocke',subname_loc9='Sindaco di Darkshire' WHERE entry=263; -- name: Lord Ello Ebonlocke -- subname: Mayor of Darkshire - Keep original name
-UPDATE locales_creature SET name_loc9='Comandante Althea Ebonlocke',subname_loc9='Leader of The Night Watch' WHERE entry=264; -- name: Commander Althea Ebonlocke -- subname: Leader of The Night Watch - Keep original name
-UPDATE locales_creature SET name_loc9='Madame Eva' WHERE entry=265; -- name: Madame Eva - Keep original name
+UPDATE locales_creature SET name_loc9='Lord Ello Ebonlocke',subname_loc9='Sindaco di Darkshire' WHERE entry=263; -- name: Lord Ello Ebonlocke -- subname: Mayor of Darkshire
+UPDATE locales_creature SET name_loc9='Comandante Althea Ebonlocke',subname_loc9='Leader of The Night Watch' WHERE entry=264; -- name: Commander Althea Ebonlocke -- subname: Leader of The Night Watch
+UPDATE locales_creature SET name_loc9='Madame Eva' WHERE entry=265; -- name: Madame Eva
 UPDATE locales_creature SET name_loc9='Wiley lo Scuro' WHERE entry=266; -- name: Wiley the Black
-UPDATE locales_creature SET name_loc9='Clerk Daltry' WHERE entry=267; -- name: Clerk Daltry - Keep original name
+UPDATE locales_creature SET name_loc9='Clerk Daltry' WHERE entry=267; -- name: Clerk Daltry
 UPDATE locales_creature SET name_loc9='Sirra Von\'Indi',subname_loc9='Storico di Darkshire' WHERE entry=268; -- name: Sirra Von\'Indi -- subname: Historian of Darkshire
-UPDATE locales_creature SET name_loc9='Role Dreuger',subname_loc9='Vicesindaco di Darkshire' WHERE entry=269; -- name: Role Dreuger -- subname: Deputy Mayor of Darkshire - Keep original name
+UPDATE locales_creature SET name_loc9='Role Dreuger',subname_loc9='Vicesindaco di Darkshire' WHERE entry=269; -- name: Role Dreuger -- subname: Deputy Mayor of Darkshire
 UPDATE locales_creature SET name_loc9='Consigliere Millstipe',subname_loc9='Concilio di Darkshire' WHERE entry=270; -- name: Councilman Millstipe -- subname: Council of Darkshire
 UPDATE locales_creature SET name_loc9='Ambasciatore Berrybuck',subname_loc9='Concilio di Darkshire' WHERE entry=271; -- name: Ambassador Berrybuck -- subname: Council of Darkshire
-UPDATE locales_creature SET name_loc9='Chef Grual' WHERE entry=272; -- name: Chef Grual - Keep original name
+UPDATE locales_creature SET name_loc9='Chef Grual' WHERE entry=272; -- name: Chef Grual
 UPDATE locales_creature SET name_loc9='Tavernkeep Smitts' WHERE entry=273; -- name: Tavernkeep Smitts
-UPDATE locales_creature SET name_loc9='Barkeep Hann',subname_loc9='Barista' WHERE entry=274; -- name: Barkeep Hann -- subname: Bartender - Keep original name
-UPDATE locales_creature SET name_loc9='Whit Wantmal' WHERE entry=275; -- name: Whit Wantmal - Keep original name
+UPDATE locales_creature SET name_loc9='Barkeep Hann',subname_loc9='Barista' WHERE entry=274; -- name: Barkeep Hann -- subname: Bartender
+UPDATE locales_creature SET name_loc9='Whit Wantmal' WHERE entry=275; -- name: Whit Wantmal
 UPDATE locales_creature SET name_loc9='Viktori Prism\'Antras' WHERE entry=276; -- name: Viktori Prism\'Antras
-UPDATE locales_creature SET name_loc9='Roberto Pupellyverbos',subname_loc9='Esperto di Merlot' WHERE entry=277; -- name: Roberto Pupellyverbos -- subname: Merlot Connoisseur - Keep original name
-UPDATE locales_creature SET name_loc9='Sara Timberlain' WHERE entry=278; -- name: Sara Timberlain - Keep original name
-UPDATE locales_creature SET name_loc9='Morgan Pestle' WHERE entry=279; -- name: Morgan Pestle - Keep original name
+UPDATE locales_creature SET name_loc9='Roberto Pupellyverbos',subname_loc9='Esperto di Merlot' WHERE entry=277; -- name: Roberto Pupellyverbos -- subname: Merlot Connoisseur
+UPDATE locales_creature SET name_loc9='Sara Timberlain' WHERE entry=278; -- name: Sara Timberlain
+UPDATE locales_creature SET name_loc9='Morgan Pestle' WHERE entry=279; -- name: Morgan Pestle
 UPDATE locales_creature SET name_loc9='Cavallo Marrone' WHERE entry=284; -- name: Brown Horse
 UPDATE locales_creature SET name_loc9='Murloc' WHERE entry=285; -- name: Murloc - Keep original name
 UPDATE locales_creature SET name_loc9='Jitters' WHERE entry=288; -- name: Jitters - Keep original name

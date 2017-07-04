@@ -84,6 +84,7 @@ UPDATE locales_item SET name_loc9='Santa Acqua fresca' WHERE entry=737; -- name:
 UPDATE locales_item SET name_loc9='Sacco di Orzo' WHERE entry=738; -- name: Sack of Barley
 UPDATE locales_item SET name_loc9='Sacco di Mais' WHERE entry=739; -- name: Sack of Corn
 UPDATE locales_item SET name_loc9='Sacco di Segale' WHERE entry=740; -- name: Sack of Rye
+UPDATE locales_item SET name_loc9='Mazza' WHERE entry=852; -- name: Mace
 UPDATE locales_item SET name_loc9='Cassa di Abercrombie' WHERE entry=1349; -- name: Abercrombie\'s Crate -- description: This large crate is sealed tight, but it reeks of dead things.
 UPDATE locales_item SET name_loc9='Lacrima di Tilloa' WHERE entry=2779; -- name: Tear of Tilloa
 UPDATE locales_item SET name_loc9='Radice Musquash' WHERE entry=2784; -- name: Musquash Root

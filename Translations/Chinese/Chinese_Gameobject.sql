@@ -14,7 +14,7 @@ UPDATE locales_gameobject SET name_loc4='古拉巴什的毁灭' WHERE entry=52; 
 UPDATE locales_gameobject SET name_loc4='帝王之墓' WHERE entry=54; -- name: The Emperor\'s Tomb
 UPDATE locales_gameobject SET name_loc4='被吃掉一半的尸体' WHERE entry=55; -- name: A half-eaten body
 UPDATE locales_gameobject SET name_loc4='罗尔夫的尸体' WHERE entry=56; -- name: Rolf\'s corpse
-UPDATE locales_gameobject SET name_loc4='月亮照耀着山谷' WHERE entry=57; -- name: Moon Over the Vale
+UPDATE locales_gameobject SET name_loc4='月亮照耀着山谷' WHERE entry=57; -- name: Moon over the Vale
 UPDATE locales_gameobject SET name_loc4='游荡者格里雷克' WHERE entry=58; -- name: Gri\'lek the Wanderer
 UPDATE locales_gameobject SET name_loc4='一堆松软的泥土' WHERE entry=59; -- name: Mound of loose dirt
 UPDATE locales_gameobject SET name_loc4='通缉：加塞尔佐格' WHERE entry=60; -- name: Wanted: Gath\'Ilzogg
@@ -1596,7 +1596,7 @@ UPDATE locales_gameobject SET name_loc4='石槌村' WHERE entry=21084; -- name: 
 UPDATE locales_gameobject SET name_loc4='贫瘠之地' WHERE entry=21085; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc4='蕨墙村' WHERE entry=21086; -- name: Brackenwall Village
 UPDATE locales_gameobject SET name_loc4='石槌村' WHERE entry=21087; -- name: Stonemaul
-UPDATE locales_gameobject SET name_loc4='当心！' WHERE entry=21088; -- name: BEWARE!
+UPDATE locales_gameobject SET name_loc4='当心！' WHERE entry=21088; -- name: Beware!
 UPDATE locales_gameobject SET name_loc4='前方就是黑龙谷' WHERE entry=21089; -- name: You are entering the Dragonmurk
 UPDATE locales_gameobject SET name_loc4='结界' WHERE entry=21099; -- name: ward
 UPDATE locales_gameobject SET name_loc4='到阿库麦尔的传送门' WHERE entry=21117; -- name: Portal of Aku\'Mai
@@ -1606,7 +1606,7 @@ UPDATE locales_gameobject SET name_loc4='阿库麦尔之火' WHERE entry=21120; 
 UPDATE locales_gameobject SET name_loc4='阿库麦尔之火' WHERE entry=21121; -- name: Fire of Aku\'mai
 UPDATE locales_gameobject SET name_loc4='营火' WHERE entry=21127; -- name: Campfire
 UPDATE locales_gameobject SET name_loc4='兽人间谍报告' WHERE entry=21128; -- name: Orc Spy Report
-UPDATE locales_gameobject SET name_loc4='开孔的箱子' WHERE entry=21277; -- name: Crate with Holes
+UPDATE locales_gameobject SET name_loc4='开孔的箱子' WHERE entry=21277; -- name: Crate With Holes
 UPDATE locales_gameobject SET name_loc4='营火' WHERE entry=21282; -- name: Campfire
 UPDATE locales_gameobject SET name_loc4='营火' WHERE entry=21308; -- name: Campfire
 UPDATE locales_gameobject SET name_loc4='营火' WHERE entry=21327; -- name: Campfire
@@ -3108,7 +3108,7 @@ UPDATE locales_gameobject SET name_loc4='炼金师' WHERE entry=58613; -- name: 
 UPDATE locales_gameobject SET name_loc4='附魔' WHERE entry=58614; -- name: Enchantment
 UPDATE locales_gameobject SET name_loc4='采药人' WHERE entry=58615; -- name: Herbalist
 UPDATE locales_gameobject SET name_loc4='武器商人' WHERE entry=58616; -- name: Weapons Merchants
-UPDATE locales_gameobject SET name_loc4='铁匠' WHERE entry=58617; -- name: Blacksmith
+UPDATE locales_gameobject SET name_loc4='铁匠' WHERE entry=58617; -- name: blacksmith
 UPDATE locales_gameobject SET name_loc4='弓箭商人' WHERE entry=58618; -- name: Bow Merchant
 UPDATE locales_gameobject SET name_loc4='枪械商' WHERE entry=58619; -- name: Gunsmith
 UPDATE locales_gameobject SET name_loc4='采矿' WHERE entry=58620; -- name: Mining
@@ -5001,7 +5001,7 @@ UPDATE locales_gameobject SET name_loc4='血瓣花苗' WHERE entry=164958; -- na
 UPDATE locales_gameobject SET name_loc4='少女之爱号 - 驶往藏宝海湾的往返航班' WHERE entry=165549; -- name: Maiden\'s Fancy - Round trips to Booty Bay
 UPDATE locales_gameobject SET name_loc4='山脉之心' WHERE entry=165554; -- name: Heart of the Mountain
 UPDATE locales_gameobject SET name_loc4='飞艇降落塔' WHERE entry=165557; -- name: Zeppelin Landing Tower
-UPDATE locales_gameobject SET name_loc4='飞艇降落点' WHERE entry=165558; -- name: Zeppelin Landing 
+UPDATE locales_gameobject SET name_loc4='飞艇降落点' WHERE entry=165558; -- name: Zeppelin Landing
 UPDATE locales_gameobject SET name_loc4='穆尔金' WHERE entry=165559; -- name: Muigin\'s Sprout
 UPDATE locales_gameobject SET name_loc4='黑铁啤酒陷阱' WHERE entry=165578; -- name: Dark Iron Ale TRAP
 UPDATE locales_gameobject SET name_loc4='火焰' WHERE entry=165587; -- name: Fire
@@ -7121,7 +7121,7 @@ UPDATE locales_gameobject SET name_loc4='石砧' WHERE entry=176894; -- name: St
 UPDATE locales_gameobject SET name_loc4='熔炉' WHERE entry=176895; -- name: Forge
 UPDATE locales_gameobject SET name_loc4='篝火' WHERE entry=176896; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc4='烹饪火' WHERE entry=176897; -- name: Cooking Fire
-UPDATE locales_gameobject SET name_loc4='火坑' WHERE entry=176898; -- name: Fire pit
+UPDATE locales_gameobject SET name_loc4='火坑' WHERE entry=176898; -- name: Fire Pit
 UPDATE locales_gameobject SET name_loc4='大锅' WHERE entry=176899; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc4='活跃的闸门02' WHERE entry=176901; -- name: Doodad_PortcullisActive02
 UPDATE locales_gameobject SET name_loc4='营火' WHERE entry=176904; -- name: Campfire
@@ -8303,7 +8303,7 @@ UPDATE locales_gameobject SET name_loc4='火盆' WHERE entry=180477; -- name: Br
 UPDATE locales_gameobject SET name_loc4='火盆' WHERE entry=180478; -- name: Brazier
 UPDATE locales_gameobject SET name_loc4='火盆' WHERE entry=180479; -- name: Brazier
 UPDATE locales_gameobject SET name_loc4='火盆' WHERE entry=180480; -- name: Brazier
-UPDATE locales_gameobject SET name_loc4='力场' WHERE entry=180497; -- name: Forcefield
+UPDATE locales_gameobject SET name_loc4='力场' WHERE entry=180497; -- name: forcefield
 UPDATE locales_gameobject SET name_loc4='暮光石板碎片' WHERE entry=180501; -- name: Twilight Tablet Fragment
 UPDATE locales_gameobject SET name_loc4='风石' WHERE entry=180502; -- name: Wind Stone
 UPDATE locales_gameobject SET name_loc4='盖满沙子的烹饪书' WHERE entry=180503; -- name: Sandy Cookbook
@@ -10104,7 +10104,7 @@ UPDATE locales_gameobject SET name_loc4='被诅咒的卵' WHERE entry=185210; --
 UPDATE locales_gameobject SET name_loc4='被诅咒的卵' WHERE entry=185211; -- name: Cursed Egg
 UPDATE locales_gameobject SET name_loc4='紫罗兰信号火焰' WHERE entry=185218; -- name: Violet Signal Fire
 UPDATE locales_gameobject SET name_loc4='泰罗卡森林-被破坏的货车任务-箱子' WHERE entry=185221; -- name: Terokkar Forest - Derelict Caravan - Quest - Chest Opened
-UPDATE locales_gameobject SET name_loc4='部落的挑战' WHERE entry=185222; -- name: Challenge From the Horde
+UPDATE locales_gameobject SET name_loc4='部落的挑战' WHERE entry=185222; -- name: Challenge from the Horde
 UPDATE locales_gameobject SET name_loc4='秘教宝箱' WHERE entry=185224; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc4='秘教宝箱' WHERE entry=185225; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc4='秘教宝箱' WHERE entry=185226; -- name: Cabal Chest

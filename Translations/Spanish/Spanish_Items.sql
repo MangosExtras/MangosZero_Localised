@@ -10643,6 +10643,7 @@ UPDATE locales_item SET name_loc6='Carta de Rabine' WHERE entry=17355; -- name: 
 UPDATE locales_item SET name_loc6='Señal de Ryson' WHERE entry=17362; -- name: Ryson\'s Beacon
 UPDATE locales_item SET name_loc6='Señal de Ryson' WHERE entry=17363; -- name: Ryson\'s Beacon
 UPDATE locales_item SET name_loc6='Mira de visión' WHERE entry=17364; -- name: Scrying Scope
+UPDATE locales_item SET name_loc6='La unidad trituradora portátil de Zinfizzlex' WHERE entry=17384; -- name: Zinfizzlex\'s Portable Shredder Unit
 UPDATE locales_item SET name_loc6='Cerveza del Padre Invierno' WHERE entry=17402; -- name: Greatfather\'s Winter Ale
 UPDATE locales_item SET name_loc6='Licor burbujeante de Bonvapor' WHERE entry=17403; -- name: Steamwheedle Fizzy Spirits
 UPDATE locales_item SET name_loc6='Cuenco de chocolate caliente' WHERE entry=17404; -- name: Blended Bean Brew
@@ -10650,6 +10651,7 @@ UPDATE locales_item SET name_loc6='Té de jardín verde' WHERE entry=17405; -- n
 UPDATE locales_item SET name_loc6='Rueda de queso de vacaciones' WHERE entry=17406; -- name: Holiday Cheesewheel
 UPDATE locales_item SET name_loc6='Pastel de carne casero de Graccu' WHERE entry=17407; -- name: Graccu\'s Homemade Meat Pie
 UPDATE locales_item SET name_loc6='Ternera picante' WHERE entry=17408; -- name: Spicy Beefstick
+UPDATE locales_item SET name_loc6='La unidad trituradora portátil de Zinfizzlex' WHERE entry=17410; -- name: Zinfizzlex\'s Portable Shredder Unit
 UPDATE locales_item SET name_loc6='Sierra de vapor' WHERE entry=17411; -- name: Steamsaw
 UPDATE locales_item SET name_loc6='Códice: Rezo de Entereza',description_loc6='Los elementos parecen haber deteriorado este objeto y ya no se puede leer.' WHERE entry=17413; -- name: Codex: Prayer of Fortitude -- description: Teaches Prayer of Fortitude (Rank 1).
 UPDATE locales_item SET name_loc6='Códice: Rezo de Entereza',description_loc6='Los elementos parecen haber deteriorado este objeto y ya no se puede leer.' WHERE entry=17414; -- name: Codex: Prayer of Fortitude II -- description: Teaches Prayer of Fortitude (Rank 2).

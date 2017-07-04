@@ -3426,7 +3426,6 @@ UPDATE locales_creature SET name_loc5='[Deprecated for 4.x]黛西',subname_loc5=
 UPDATE locales_creature SET name_loc5='進口商威利克斯' WHERE entry=4508; -- name: Willix the Importer
 UPDATE locales_creature SET name_loc5='薩迦斯' WHERE entry=4509; -- name: Sargath
 UPDATE locales_creature SET name_loc5='赫爾拉斯·靜水' WHERE entry=4510; -- name: Heralath Fallowbrook
-UPDATE locales_creature SET name_loc5='阿迦瑪' WHERE entry=4511; -- name: Agam'ar
 UPDATE locales_creature SET name_loc5='腐爛的阿迦瑪' WHERE entry=4512; -- name: Rotting Agam\'ar
 UPDATE locales_creature SET name_loc5='盛怒的阿迦瑪' WHERE entry=4514; -- name: Raging Agam\'ar
 UPDATE locales_creature SET name_loc5='亡首侍僧' WHERE entry=4515; -- name: Death\'s Head Acolyte
@@ -6351,7 +6350,7 @@ UPDATE locales_creature SET name_loc5='被感染的松鼠' WHERE entry=10779; --
 UPDATE locales_creature SET name_loc5='被感染的鹿' WHERE entry=10780; -- name: Infected Deer
 UPDATE locales_creature SET name_loc5='皇家監督者巴哈烏斯',subname_loc5='幽暗城人口普查處' WHERE entry=10781; -- name: Royal Overseer Bauhaus -- subname: Undercity Census
 UPDATE locales_creature SET name_loc5='皇家代理人巴瑟羅爾',subname_loc5='暴風城人口普查處' WHERE entry=10782; -- name: Royal Factor Bathrilor -- subname: Stormwind Census
-UPDATE locales_creature SET name_loc5='詐欺寶珠(男性獸人)' WHERE entry=10783; -- name: Orb of Deception -- subname: Orc Male
+UPDATE locales_creature SET name_loc5='欺詐寶珠',subname_loc5='男性獸人' WHERE entry=10783; -- name: Orb of Deception -- subname: Orc Male
 UPDATE locales_creature SET name_loc5='詐欺寶珠(女性獸人)' WHERE entry=10784; -- name: Orb of Deception -- subname: Orc Female
 UPDATE locales_creature SET name_loc5='詐欺寶珠(男性牛頭人)' WHERE entry=10785; -- name: Orb of Deception -- subname: Tauren Male
 UPDATE locales_creature SET name_loc5='詐欺寶珠(女性牛頭人)' WHERE entry=10786; -- name: Orb of Deception -- subname: Tauren Female
@@ -6550,7 +6549,7 @@ UPDATE locales_creature SET name_loc5='紅衣錘類鍛造師' WHERE entry=11120;
 UPDATE locales_creature SET name_loc5='黑衣衛劍類鍛造師' WHERE entry=11121; -- name: Black Guard Swordsmith
 UPDATE locales_creature SET name_loc5='永不安息的靈魂' WHERE entry=11122; -- name: Restless Soul
 UPDATE locales_creature SET name_loc5='被解放的靈魂' WHERE entry=11136; -- name: Freed Soul
-UPDATE locales_creature SET name_loc5='塞安得爾',subname_loc5='武器鍛造師' WHERE entry=11137; -- name: Xai'ander -- subname: Weaponsmith
+UPDATE locales_creature SET name_loc5='塞安得爾',subname_loc5='武器鍛造師' WHERE entry=11137; -- name: Xai\'ander -- subname: Weaponsmith
 UPDATE locales_creature SET name_loc5='麥瑟蕾亞',subname_loc5='角鷹獸管理員' WHERE entry=11138; -- name: Maethrya -- subname: Hippogryph Master
 UPDATE locales_creature SET name_loc5='尤格雷克',subname_loc5='雙足飛龍管理員' WHERE entry=11139; -- name: Yugrek -- subname: Wind Rider Master
 UPDATE locales_creature SET name_loc5='伊根' WHERE entry=11140; -- name: Egan
@@ -6574,7 +6573,7 @@ UPDATE locales_creature SET name_loc5='奧克索斯·鐵怒',subname_loc5='鍛�
 UPDATE locales_creature SET name_loc5='伯古西',subname_loc5='鍛造訓練師' WHERE entry=11178; -- name: Borgosh Corebender -- subname: Master Weaponsmith
 UPDATE locales_creature SET name_loc5='水晶觸發器' WHERE entry=11179; -- name: Crystal Trigger
 UPDATE locales_creature SET name_loc5='血毒崗哨勇者' WHERE entry=11180; -- name: Bloodvenom Post Brave
-UPDATE locales_creature SET name_loc5='希伊露恩',subname_loc5='凱爾布魯斯的寵物' WHERE entry=11181; -- name: Shi'alune -- subname: Kaerbrus' Pet
+UPDATE locales_creature SET name_loc5='希伊露恩',subname_loc5='凱爾布魯斯的寵物' WHERE entry=11181; -- name: Shi\'alune -- subname: Kaerbrus\' Pet
 UPDATE locales_creature SET name_loc5='尼克撒克',subname_loc5='重甲商' WHERE entry=11182; -- name: Nixxrak -- subname: Heavy Armor Merchant
 UPDATE locales_creature SET name_loc5='布利科撒克',subname_loc5='輕甲商' WHERE entry=11183; -- name: Blixxrak -- subname: Light Armor Merchant
 UPDATE locales_creature SET name_loc5='維撒克',subname_loc5='武器鍛造和護甲' WHERE entry=11184; -- name: Wixxrak -- subname: Weaponsmith & Gunsmith
@@ -8774,7 +8773,6 @@ UPDATE locales_creature SET name_loc5='憎恨者' WHERE entry=16011; -- name: Lo
 UPDATE locales_creature SET name_loc5='莫克瓦' WHERE entry=16012; -- name: Mokvar
 UPDATE locales_creature SET name_loc5='德莉娜' WHERE entry=16013; -- name: Deliana
 UPDATE locales_creature SET name_loc5='莫克斯·法力爭奪者' WHERE entry=16014; -- name: Mux Manascrambler
-UPDATE locales_creature SET name_loc5='維爾',subname_loc5='奇特試劑商人' WHERE entry=16015; -- name: Vi'el -- subname: Exotic Reagent Merchant
 UPDATE locales_creature SET name_loc5='安希恩·哈莫' WHERE entry=16016; -- name: Anthion Harmon
 UPDATE locales_creature SET name_loc5='縫補魔像' WHERE entry=16017; -- name: Patchwork Golem
 UPDATE locales_creature SET name_loc5='膽汁反胃者' WHERE entry=16018; -- name: Bile Retcher

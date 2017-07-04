@@ -6351,7 +6351,7 @@ UPDATE locales_creature SET name_loc1='병든 다람쥐' WHERE entry=10779; -- n
 UPDATE locales_creature SET name_loc1='병든 사슴' WHERE entry=10780; -- name: Infected Deer
 UPDATE locales_creature SET name_loc1='왕실감독원 바우하우스',subname_loc1='언더시티 인구조사국' WHERE entry=10781; -- name: Royal Overseer Bauhaus -- subname: Undercity Census
 UPDATE locales_creature SET name_loc1='왕실조사원 바스릴로',subname_loc1='스톰윈드 인구조사국' WHERE entry=10782; -- name: Royal Factor Bathrilor -- subname: Stormwind Census
-UPDATE locales_creature SET name_loc1='변장 모델 (Orc, Male)' WHERE entry=10783; -- name: Orb of Deception -- subname: Orc Male
+UPDATE locales_creature SET name_loc1='교란의 보주',subname_loc1='Orc, Male' WHERE entry=10783; -- name: Orb of Deception -- subname: Orc Male
 UPDATE locales_creature SET name_loc1='변장 모델 (Orc, Female)' WHERE entry=10784; -- name: Orb of Deception -- subname: Orc Female
 UPDATE locales_creature SET name_loc1='변장 모델 (Tauren, Male)' WHERE entry=10785; -- name: Orb of Deception -- subname: Tauren Male
 UPDATE locales_creature SET name_loc1='변장 모델 (Tauren, Female)' WHERE entry=10786; -- name: Orb of Deception -- subname: Tauren Female

@@ -22,7 +22,6 @@ UPDATE db_script_string SET content_loc4='%s gestures to the pitcher of water si
 UPDATE db_script_string SET content_loc4='The People of Westfall salute $N, a brave and valiant defender of freedom.' WHERE entry=2000000028; -- content: The People of Westfall salute $N, a brave and valiant defender of freedom.
 UPDATE db_script_string SET content_loc4='Follow, $N. I will soon begin the summoning...' WHERE entry=2000000029; -- content: Follow, $N. I will soon begin the summoning...
 UPDATE db_script_string SET content_loc4='This makes sense!' WHERE entry=2000000030; -- content: This makes sense!
-UPDATE db_script_string SET content_loc4='Beware, $n! Look to the west!' WHERE entry=2000000031; -- content: Beware, $n! Look to the west!
 UPDATE db_script_string SET content_loc4='Gird yourself $N, for the demon in this orb is a fel beast.' WHERE entry=2000000032; -- content: Gird yourself $N, for the demon in this orb is a fel beast.
 UPDATE db_script_string SET content_loc4='Let me help you with those.' WHERE entry=2000000034; -- content: Let me help you with those.
 UPDATE db_script_string SET content_loc4='Drink this, it will help.' WHERE entry=2000000035; -- content: Drink this, it will help.
@@ -274,7 +273,6 @@ UPDATE db_script_string SET content_loc4='Zug zug! Happy to help!' WHERE entry=2
 UPDATE db_script_string SET content_loc4='Yes right away momma!' WHERE entry=2000005011; -- content: Yes right away momma!
 UPDATE db_script_string SET content_loc4='Terenthis begins to cast a spell as you take the cloak from him.' WHERE entry=2000005015; -- content: Terenthis begins to cast a spell as you take the cloak from him.
 UPDATE db_script_string SET content_loc4='Go now, $N. Find Volcor... and remember, the magics protecting you will fail if you interact with anyone, save for talking.' WHERE entry=2000005016; -- content: Go now, $N. Find Volcor... and remember, the magics protecting you will fail if you interact with anyone, save for talking.
-UPDATE db_script_string SET content_loc4='Go swiftly $N. My fate is in your hands.' WHERE entry=2000005017; -- content: Go swiftly $N. My fate is in your hands.
 UPDATE db_script_string SET content_loc4='Ah, this must be him now... no?' WHERE entry=2000005018; -- content: Ah, this must be him now... no?
 UPDATE db_script_string SET content_loc4='Well, whatever it is, it works quite well!' WHERE entry=2000005021; -- content: Well, whatever it is, it works quite well!
 UPDATE db_script_string SET content_loc4='I\'ve found that when I throw something into this water, it has improved incredibly when I retrieve it.' WHERE entry=2000005022; -- content: I\'ve found that when I throw something into this water, it has improved incredibly when I retrieve it.
@@ -517,8 +515,6 @@ UPDATE db_script_string SET content_loc4='%s only hits the side of the box!' WHE
 UPDATE db_script_string SET content_loc4='%s quickly shoots the orc dummy...' WHERE entry=2000005743; -- content: %s quickly shoots the orc dummy...
 UPDATE db_script_string SET content_loc4='%s turns to the paper target...' WHERE entry=2000005744; -- content: %s turns to the paper target...
 UPDATE db_script_string SET content_loc4='%s shoots from the hip at the bottles...' WHERE entry=2000005745; -- content: %s shoots from the hip at the bottles...
-UPDATE db_script_string SET content_loc4='Now let\'s try it...' WHERE entry=2000005752; -- content: Now let\'s try it...
-UPDATE db_script_string SET content_loc4='Ugh! That\'s terrible!' WHERE entry=2000005753; -- content: Ugh! That\'s terrible!
 UPDATE db_script_string SET content_loc4='I am going to practice and become a warrior like my father!' WHERE entry=2000005767; -- content: I am going to practice and become a warrior like my father!
 UPDATE db_script_string SET content_loc4='Now to find an unsuspecting Harpy!' WHERE entry=2000005768; -- content: Now to find an unsuspecting Harpy!
 UPDATE db_script_string SET content_loc4='There\'s one! For the Horde!' WHERE entry=2000005769; -- content: There\'s one! For the Horde!

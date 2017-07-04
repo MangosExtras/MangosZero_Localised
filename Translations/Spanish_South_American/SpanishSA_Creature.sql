@@ -3426,7 +3426,6 @@ UPDATE locales_creature SET name_loc7='[Deprecated for 4.x]Daisy',subname_loc7='
 UPDATE locales_creature SET name_loc7='Willix el Importador' WHERE entry=4508; -- name: Willix the Importer
 UPDATE locales_creature SET name_loc7='Sargath' WHERE entry=4509; -- name: Sargath
 UPDATE locales_creature SET name_loc7='Heralath Arroyobarbecho' WHERE entry=4510; -- name: Heralath Fallowbrook
-UPDATE locales_creature SET name_loc7='Agam\'ar' WHERE entry=4511; -- name: Agam\'ar
 UPDATE locales_creature SET name_loc7='Agam\'ar en podredumbre' WHERE entry=4512; -- name: Rotting Agam\'ar
 UPDATE locales_creature SET name_loc7='Agam\'ar enfurecido' WHERE entry=4514; -- name: Raging Agam\'ar
 UPDATE locales_creature SET name_loc7='Acólito Caramuerte' WHERE entry=4515; -- name: Death\'s Head Acolyte
@@ -6351,7 +6350,7 @@ UPDATE locales_creature SET name_loc7='Ardilla infectada' WHERE entry=10779; -- 
 UPDATE locales_creature SET name_loc7='Ciervo infectado' WHERE entry=10780; -- name: Infected Deer
 UPDATE locales_creature SET name_loc7='Sobrestante real Bauhaus',subname_loc7='Censo de Entrañas' WHERE entry=10781; -- name: Royal Overseer Bauhaus -- subname: Undercity Census
 UPDATE locales_creature SET name_loc7='Agente Real Bathrilor',subname_loc7='Censo de Ventormenta' WHERE entry=10782; -- name: Royal Factor Bathrilor -- subname: Stormwind Census
-UPDATE locales_creature SET name_loc7='Orbe de engaño (orco, hombre)' WHERE entry=10783; -- name: Orb of Deception -- subname: Orc Male
+UPDATE locales_creature SET name_loc7='Orbe de engaño',subname_loc7='orco, hombre' WHERE entry=10783; -- name: Orb of Deception -- subname: Orc Male
 UPDATE locales_creature SET name_loc7='Orbe de engaño (orco, mujer)' WHERE entry=10784; -- name: Orb of Deception -- subname: Orc Female
 UPDATE locales_creature SET name_loc7='Orbe de engaño (tauren, hombre)' WHERE entry=10785; -- name: Orb of Deception -- subname: Tauren Male
 UPDATE locales_creature SET name_loc7='Orbe de engaño (tauren, mujer)' WHERE entry=10786; -- name: Orb of Deception -- subname: Tauren Female
@@ -8774,7 +8773,6 @@ UPDATE locales_creature SET name_loc7='Loatheb' WHERE entry=16011; -- name: Loat
 UPDATE locales_creature SET name_loc7='Mokvar' WHERE entry=16012; -- name: Mokvar
 UPDATE locales_creature SET name_loc7='Deliana' WHERE entry=16013; -- name: Deliana
 UPDATE locales_creature SET name_loc7='Mux Cazamaná' WHERE entry=16014; -- name: Mux Manascrambler
-UPDATE locales_creature SET name_loc7='Vi\'el',subname_loc7='Mercader de componentes exóticos' WHERE entry=16015; -- name: Vi'el -- subname: Exotic Reagent Merchant
 UPDATE locales_creature SET name_loc7='Anthion Harmon' WHERE entry=16016; -- name: Anthion Harmon
 UPDATE locales_creature SET name_loc7='Gólem de retazos' WHERE entry=16017; -- name: Patchwork Golem
 UPDATE locales_creature SET name_loc7='Arcadano bílico' WHERE entry=16018; -- name: Bile Retcher

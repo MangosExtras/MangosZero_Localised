@@ -33,6 +33,7 @@ UPDATE locales_points_of_interest SET icon_name_loc4='护体皮甲' WHERE entry=
 UPDATE locales_points_of_interest SET icon_name_loc4='吉尔曼·石手' WHERE entry=48; -- icon_name: Gelman Stonehand
 UPDATE locales_points_of_interest SET icon_name_loc4='邓肯布料店' WHERE entry=49; -- icon_name: Duncan\'s Textiles
 UPDATE locales_points_of_interest SET icon_name_loc4='铁炉堡拍卖行' WHERE entry=50; -- icon_name: Ironforge Auction house
+UPDATE locales_points_of_interest SET icon_name_loc4='矿道地铁' WHERE entry=52; -- icon_name: Deeprun Tram
 UPDATE locales_points_of_interest SET icon_name_loc4='铁炉堡访客中心' WHERE entry=54; -- icon_name: Ironforge Visitor\'s Center
 UPDATE locales_points_of_interest SET icon_name_loc4='乌布雷克·火拳' WHERE entry=57; -- icon_name: Ulbrek Firehand
 UPDATE locales_points_of_interest SET icon_name_loc4='大厅' WHERE entry=61; -- icon_name: Hall of Arms

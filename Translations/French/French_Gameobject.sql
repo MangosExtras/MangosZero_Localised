@@ -12,7 +12,7 @@ UPDATE locales_gameobject SET name_loc2='Chute des Gurubashi' WHERE entry=52; --
 UPDATE locales_gameobject SET name_loc2='La tombe de l\'empereur' WHERE entry=54; -- name: The Emperor\'s Tomb
 UPDATE locales_gameobject SET name_loc2='Un corps à moitié dévoré' WHERE entry=55; -- name: A half-eaten body
 UPDATE locales_gameobject SET name_loc2='Cadavre de Rolf' WHERE entry=56; -- name: Rolf\'s corpse
-UPDATE locales_gameobject SET name_loc2='Tablette de savoir scalp-rouge' WHERE entry=57; -- name: Moon Over the Vale
+UPDATE locales_gameobject SET name_loc2='Tablette de savoir scalp-rouge' WHERE entry=57; -- name: Moon over the Vale
 UPDATE locales_gameobject SET name_loc2='Gri\'lek le Vagabond' WHERE entry=58; -- name: Gri\'lek the Wanderer
 UPDATE locales_gameobject SET name_loc2='Avis de recherche : Gath\'Ilzogg' WHERE entry=60; -- name: Wanted: Gath\'Ilzogg
 UPDATE locales_gameobject SET name_loc2='Un tombeau dégradé par les intempéries' WHERE entry=61; -- name: A Weathered Grave
@@ -65,6 +65,7 @@ UPDATE locales_gameobject SET name_loc2='Ruisselune' WHERE entry=124; -- name: M
 UPDATE locales_gameobject SET name_loc2='Caisse d\'Abercrombie' WHERE entry=167; -- name: Abercrombie\'s Crate
 UPDATE locales_gameobject SET name_loc2='Caisse de nourriture' WHERE entry=249; -- name: Crate of Foodstuffs
 UPDATE locales_gameobject SET name_loc2='Equipement de recherche' WHERE entry=251; -- name: Research Equipment
+UPDATE locales_gameobject SET name_loc2='ON RECHERCHE : Chok\'sul' WHERE entry=254; -- name: Wanted: Chok\'Sul
 UPDATE locales_gameobject SET name_loc2='Avis de recherche !' WHERE entry=256; -- name: WANTED
 UPDATE locales_gameobject SET name_loc2='Tonneau suspect' WHERE entry=257; -- name: Suspicious Barrel
 UPDATE locales_gameobject SET name_loc2='Tonneau à moitié enseveli' WHERE entry=259; -- name: Half-buried Barrel
@@ -485,6 +486,7 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2003; -- name:
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2005; -- name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2006; -- name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2007; -- name: Campfire
+UPDATE locales_gameobject SET name_loc2='[PÉRIMÉ]Dangereux !' WHERE entry=2008; -- name: Dangerous!
 UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=2010; -- name: Anvil
 UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=2014; -- name: Anvil
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=2015; -- name: Forge
@@ -613,7 +615,7 @@ UPDATE locales_gameobject SET name_loc2='Quartier commerçant' WHERE entry=2191;
 UPDATE locales_gameobject SET name_loc2='Canot de sauvetage abîmé' WHERE entry=2289; -- name: Ruined Lifeboat
 UPDATE locales_gameobject SET name_loc2='Ailes de busard grillées' WHERE entry=2332; -- name: Barbequed Buzzard Wings
 UPDATE locales_gameobject SET name_loc2='Vin de Stranglevine' WHERE entry=2333; -- name: Stranglevine Wine
-UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2334; -- name: campfire
+UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2334; -- name: Campfire
 UPDATE locales_gameobject SET name_loc2='Feu' WHERE entry=2335; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=2336; -- name: Campfire
 UPDATE locales_gameobject SET name_loc2='Crâne de chasseur de têtes' WHERE entry=2371; -- name: Headhunter Skull
@@ -731,6 +733,7 @@ UPDATE locales_gameobject SET name_loc2='Puits de Taureau-tempête' WHERE entry=
 UPDATE locales_gameobject SET name_loc2='Pomme de pin' WHERE entry=2912; -- name: Ambercorn
 UPDATE locales_gameobject SET name_loc2='Puits Sabot-d\'Hiver' WHERE entry=2913; -- name: Winterhoof Water Well
 UPDATE locales_gameobject SET name_loc2='Feu tribal' WHERE entry=2914; -- name: Tribal Fire
+UPDATE locales_gameobject SET name_loc2='Sceau de la Terre' WHERE entry=2933; -- name: Seal of the Earth
 UPDATE locales_gameobject SET name_loc2='Sabot-de-Sang' WHERE entry=2968; -- name: Bloodhoof Village
 UPDATE locales_gameobject SET name_loc2='Les Pitons-du-Tonnerre' WHERE entry=2969; -- name: Thunder Bluff
 UPDATE locales_gameobject SET name_loc2='Sabot-de-Sang' WHERE entry=2970; -- name: Bloodhoof Village
@@ -1191,7 +1194,9 @@ UPDATE locales_gameobject SET name_loc2='Levier de porte' WHERE entry=17156; -- 
 UPDATE locales_gameobject SET name_loc2='Levier de porte' WHERE entry=17157; -- name: Door Lever
 UPDATE locales_gameobject SET name_loc2='Bigobox 827' WHERE entry=17182; -- name: Buzzbox 827
 UPDATE locales_gameobject SET name_loc2='Bigobox 411' WHERE entry=17183; -- name: Buzzbox 411
+UPDATE locales_gameobject SET name_loc2='Bigobox 323' WHERE entry=17184; -- name: Buzzbox 323
 UPDATE locales_gameobject SET name_loc2='Bigobox 525' WHERE entry=17185; -- name: Buzzbox 525
+UPDATE locales_gameobject SET name_loc2='La chute d\'Ameth\'Aran' WHERE entry=17189; -- name: The Fall of Ameth\'Aran
 UPDATE locales_gameobject SET name_loc2='Forge' WHERE entry=17190; -- name: Forge
 UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=17191; -- name: Anvil
 UPDATE locales_gameobject SET name_loc2='Chaise en bois' WHERE entry=17249; -- name: Wooden Chair
@@ -1532,7 +1537,7 @@ UPDATE locales_gameobject SET name_loc2='Cognepierre' WHERE entry=21084; -- name
 UPDATE locales_gameobject SET name_loc2='Les Tarides' WHERE entry=21085; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc2='Mur-de-Fougères' WHERE entry=21086; -- name: Brackenwall Village
 UPDATE locales_gameobject SET name_loc2='Cognepierre' WHERE entry=21087; -- name: Stonemaul
-UPDATE locales_gameobject SET name_loc2='ATTENTION !' WHERE entry=21088; -- name: BEWARE!
+UPDATE locales_gameobject SET name_loc2='ATTENTION !' WHERE entry=21088; -- name: Beware!
 UPDATE locales_gameobject SET name_loc2='Vous pénétrez dans le Cloaque aux dragons' WHERE entry=21089; -- name: You are entering the Dragonmurk
 UPDATE locales_gameobject SET name_loc2='quartier' WHERE entry=21099; -- name: ward
 UPDATE locales_gameobject SET name_loc2='Portail de Aku\'Mai' WHERE entry=21117; -- name: Portal of Aku\'Mai
@@ -6147,6 +6152,7 @@ UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=175316; -- na
 UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=175317; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=175318; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc2='Enclave de Sombrefeu' WHERE entry=175319; -- name: Darkfire Enclave
+UPDATE locales_gameobject SET name_loc2='On recherche : Fondeboue !' WHERE entry=175320; -- name: WANTED: Murkdeep!
 UPDATE locales_gameobject SET name_loc2='Sceau d\'ascension brut' WHERE entry=175321; -- name: Unforged Seal of Ascension
 UPDATE locales_gameobject SET name_loc2='Sceau d\'ascension forgé' WHERE entry=175322; -- name: Forged Seal of Ascension
 UPDATE locales_gameobject SET name_loc2='Eclats cognegivre' WHERE entry=175324; -- name: Frostmaul Shards
@@ -9949,7 +9955,7 @@ UPDATE locales_gameobject SET name_loc2='Œuf maudit' WHERE entry=185210; -- nam
 UPDATE locales_gameobject SET name_loc2='Œuf maudit' WHERE entry=185211; -- name: Cursed Egg
 UPDATE locales_gameobject SET name_loc2='Feu de signal pourpre' WHERE entry=185218; -- name: Violet Signal Fire
 UPDATE locales_gameobject SET name_loc2='Terokkar Forest - Derelict Caravan - Quest - Chest Opened' WHERE entry=185221; -- name: Terokkar Forest - Derelict Caravan - Quest - Chest Opened
-UPDATE locales_gameobject SET name_loc2='Défi de la Horde' WHERE entry=185222; -- name: Challenge From the Horde
+UPDATE locales_gameobject SET name_loc2='Défi de la Horde' WHERE entry=185222; -- name: Challenge from the Horde
 UPDATE locales_gameobject SET name_loc2='Coffre de la Cabale' WHERE entry=185224; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc2='Coffre de la Cabale' WHERE entry=185225; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc2='Coffre de la Cabale' WHERE entry=185226; -- name: Cabal Chest

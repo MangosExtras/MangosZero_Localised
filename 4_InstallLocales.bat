@@ -269,7 +269,7 @@ echo  .... Creature AI Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Creature_AI_Texts.sql
 echo  .... GameObjects
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Gameobject.sql
-echo  .... GossipMenu
+echo  .... Gossip_Menu_option
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Gossip_Menu_option.sql
 echo  .... Items
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Items.sql
@@ -297,8 +297,8 @@ echo  .... GameObjects
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Gameobject.sql
 echo  .... Gossip Texts
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Gossip_texts.sql
-echo  .... GossipMenu
-%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_GossipMenu.sql
+echo  .... Gossip_Menu_option
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Gossip_Menu_option.sql
 echo  .... Items
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Items.sql
 echo  .... Mangos String

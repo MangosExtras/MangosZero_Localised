@@ -34,7 +34,6 @@ UPDATE locales_points_of_interest SET icon_name_loc9='Shaina Fuller' WHERE entry
 UPDATE locales_points_of_interest SET icon_name_loc9='Arnold Leland' WHERE entry=46; -- icon_name: Arnold Leland
 UPDATE locales_points_of_interest SET icon_name_loc9='Gelman Stonehand' WHERE entry=48; -- icon_name: Gelman Stonehand
 UPDATE locales_points_of_interest SET icon_name_loc9='The Vault' WHERE entry=51; -- icon_name: The Vault
-UPDATE locales_points_of_interest SET icon_name_loc9='Deeprun Tram' WHERE entry=52; -- icon_name: Deeprun Tram
 UPDATE locales_points_of_interest SET icon_name_loc9='Ironforge Gryphon Master' WHERE entry=53; -- icon_name: Ironforge Gryphon Master
 UPDATE locales_points_of_interest SET icon_name_loc9='Stonefire Tavern' WHERE entry=55; -- icon_name: Stonefire Tavern
 UPDATE locales_points_of_interest SET icon_name_loc9='Ironforge Mailbox' WHERE entry=56; -- icon_name: Ironforge Mailbox

@@ -11,6 +11,7 @@ UPDATE locales_points_of_interest SET icon_name_loc9='Taverna del Maiale e del F
 UPDATE locales_points_of_interest SET icon_name_loc9='La Pelle Protettiva' WHERE entry=47; -- icon_name: The Protective Hide
 UPDATE locales_points_of_interest SET icon_name_loc9='Tessili di Duncan' WHERE entry=49; -- icon_name: Duncan\'s Textiles
 UPDATE locales_points_of_interest SET icon_name_loc9='Casa d\'Aste di Ironforge' WHERE entry=50; -- icon_name: Ironforge Auction house
+UPDATE locales_points_of_interest SET icon_name_loc9='Deeprun Tram' WHERE entry=52; -- icon_name: Deeprun Tram
 UPDATE locales_points_of_interest SET icon_name_loc9='Centro Visite di Ironforge' WHERE entry=54; -- icon_name: Ironforge Visitor\'s Center
 UPDATE locales_points_of_interest SET icon_name_loc9='Sala delle Armi' WHERE entry=61; -- icon_name: Hall of Arms
 UPDATE locales_points_of_interest SET icon_name_loc9='Sala dei Misteri' WHERE entry=62; -- icon_name: Hall of Mysteries

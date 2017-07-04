@@ -65,6 +65,7 @@ UPDATE locales_gameobject SET name_loc7='Arroyo de la Luna' WHERE entry=124; -- 
 UPDATE locales_gameobject SET name_loc7='Cajón de Abercrombie' WHERE entry=167; -- name: Abercrombie\'s Crate
 UPDATE locales_gameobject SET name_loc7='Cajón de comestibles' WHERE entry=249; -- name: Crate of Foodstuffs
 UPDATE locales_gameobject SET name_loc7='Equipo de investigación' WHERE entry=251; -- name: Research Equipment
+UPDATE locales_gameobject SET name_loc7='SE BUSCA: Chok\'sul' WHERE entry=254; -- name: Wanted: Chok\'Sul
 UPDATE locales_gameobject SET name_loc7='¡Se busca!' WHERE entry=256; -- name: WANTED
 UPDATE locales_gameobject SET name_loc7='Barrica sospechosa' WHERE entry=257; -- name: Suspicious Barrel
 UPDATE locales_gameobject SET name_loc7='Barrica semienterrada' WHERE entry=259; -- name: Half-buried Barrel
@@ -485,6 +486,7 @@ UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=2003; -- name: Cam
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=2005; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=2006; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=2007; -- name: Campfire
+UPDATE locales_gameobject SET name_loc7='[DEPRECATED]¡Peligrosos!' WHERE entry=2008; -- name: Dangerous!
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=2010; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=2014; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Forja' WHERE entry=2015; -- name: Forge
@@ -613,7 +615,7 @@ UPDATE locales_gameobject SET name_loc7='Distrito de Mercaderes' WHERE entry=219
 UPDATE locales_gameobject SET name_loc7='Bote salvavidas inservible' WHERE entry=2289; -- name: Ruined Lifeboat
 UPDATE locales_gameobject SET name_loc7='Alas de águila ratonera a la parrilla' WHERE entry=2332; -- name: Barbequed Buzzard Wings
 UPDATE locales_gameobject SET name_loc7='Vino de estranguladora' WHERE entry=2333; -- name: Stranglevine Wine
-UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=2334; -- name: campfire
+UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=2334; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Fogata' WHERE entry=2335; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=2336; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Headhunter Skull' WHERE entry=2371; -- name: Headhunter Skull
@@ -731,6 +733,7 @@ UPDATE locales_gameobject SET name_loc7='Pozo de Ventoro' WHERE entry=2911; -- n
 UPDATE locales_gameobject SET name_loc7='Bellota ámbar' WHERE entry=2912; -- name: Ambercorn
 UPDATE locales_gameobject SET name_loc7='Pozo Pezuña Invernal' WHERE entry=2913; -- name: Winterhoof Water Well
 UPDATE locales_gameobject SET name_loc7='Fuego tribal' WHERE entry=2914; -- name: Tribal Fire
+UPDATE locales_gameobject SET name_loc7='El Sello de la Tierra' WHERE entry=2933; -- name: Seal of the Earth
 UPDATE locales_gameobject SET name_loc7='Poblado Pezuña de Sangre' WHERE entry=2968; -- name: Bloodhoof Village
 UPDATE locales_gameobject SET name_loc7='Cima del Trueno' WHERE entry=2969; -- name: Thunder Bluff
 UPDATE locales_gameobject SET name_loc7='Poblado Pezuña de Sangre' WHERE entry=2970; -- name: Bloodhoof Village
@@ -1191,7 +1194,9 @@ UPDATE locales_gameobject SET name_loc7='Palanca de puerta' WHERE entry=17156; -
 UPDATE locales_gameobject SET name_loc7='Palanca de puerta' WHERE entry=17157; -- name: Door Lever
 UPDATE locales_gameobject SET name_loc7='Caja mecánica 827' WHERE entry=17182; -- name: Buzzbox 827
 UPDATE locales_gameobject SET name_loc7='Caja mecánica 411' WHERE entry=17183; -- name: Buzzbox 411
+UPDATE locales_gameobject SET name_loc7='La caja mecánica 323' WHERE entry=17184; -- name: Buzzbox 323
 UPDATE locales_gameobject SET name_loc7='Caja mecánica 525' WHERE entry=17185; -- name: Buzzbox 525
+UPDATE locales_gameobject SET name_loc7='La caída de Ameth\'Aran' WHERE entry=17189; -- name: The Fall of Ameth\'Aran
 UPDATE locales_gameobject SET name_loc7='Forja' WHERE entry=17190; -- name: Forge
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=17191; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=17249; -- name: Wooden Chair
@@ -1532,7 +1537,7 @@ UPDATE locales_gameobject SET name_loc7='Quebrantarrocas' WHERE entry=21084; -- 
 UPDATE locales_gameobject SET name_loc7='Los Baldíos' WHERE entry=21085; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc7='Poblado Murohelecho' WHERE entry=21086; -- name: Brackenwall Village
 UPDATE locales_gameobject SET name_loc7='Quebrantarrocas' WHERE entry=21087; -- name: Stonemaul
-UPDATE locales_gameobject SET name_loc7='¡CUIDADO!' WHERE entry=21088; -- name: BEWARE!
+UPDATE locales_gameobject SET name_loc7='¡CUIDADO!' WHERE entry=21088; -- name: Beware!
 UPDATE locales_gameobject SET name_loc7='Estás entrando en El Pantano del Dragón' WHERE entry=21089; -- name: You are entering the Dragonmurk
 UPDATE locales_gameobject SET name_loc7='sala' WHERE entry=21099; -- name: ward
 UPDATE locales_gameobject SET name_loc7='Portal de Aku\'Mai' WHERE entry=21117; -- name: Portal of Aku\'Mai
@@ -1542,7 +1547,7 @@ UPDATE locales_gameobject SET name_loc7='Fuego de Aku\'mai' WHERE entry=21120; -
 UPDATE locales_gameobject SET name_loc7='Fuego de Aku\'mai' WHERE entry=21121; -- name: Fire of Aku\'mai
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=21127; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Informe espía orco' WHERE entry=21128; -- name: Orc Spy Report
-UPDATE locales_gameobject SET name_loc7='Cajón con agujeros' WHERE entry=21277; -- name: Crate with Holes
+UPDATE locales_gameobject SET name_loc7='Cajón con agujeros' WHERE entry=21277; -- name: Crate With Holes
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=21282; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=21308; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=21327; -- name: Campfire
@@ -2992,7 +2997,7 @@ UPDATE locales_gameobject SET name_loc7='Alquimista' WHERE entry=58613; -- name:
 UPDATE locales_gameobject SET name_loc7='Encantamiento' WHERE entry=58614; -- name: Enchantment
 UPDATE locales_gameobject SET name_loc7='Herborista' WHERE entry=58615; -- name: Herbalist
 UPDATE locales_gameobject SET name_loc7='Armeros' WHERE entry=58616; -- name: Weapons Merchants
-UPDATE locales_gameobject SET name_loc7='Herrería' WHERE entry=58617; -- name: Blacksmith
+UPDATE locales_gameobject SET name_loc7='Herrería' WHERE entry=58617; -- name: blacksmith
 UPDATE locales_gameobject SET name_loc7='Mercader de arcos' WHERE entry=58618; -- name: Bow Merchant
 UPDATE locales_gameobject SET name_loc7='Herrería de armas de fuego' WHERE entry=58619; -- name: Gunsmith
 UPDATE locales_gameobject SET name_loc7='Minería y joyería' WHERE entry=58620; -- name: Mining
@@ -3607,32 +3612,32 @@ UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=112115; --
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=112123; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=112128; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=112129; -- name: Wooden Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112192; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112194; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112195; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112196; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112197; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112198; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112199; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112200; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112201; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112202; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112204; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112205; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla con respaldo alto' WHERE entry=112214; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112215; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112216; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112217; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112223; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112231; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112232; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112234; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112235; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112236; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112237; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112238; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112239; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=112241; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112192; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112194; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112195; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112196; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112197; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112198; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112199; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112200; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112201; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112202; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112204; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112205; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112214; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112215; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112216; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112217; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112223; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112231; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112232; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112234; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112235; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112236; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112237; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112238; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112239; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=112241; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=112301; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=112302; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=112303; -- name: Wooden Chair
@@ -3774,22 +3779,22 @@ UPDATE locales_gameobject SET name_loc7='Fuego llameante' WHERE entry=136925; --
 UPDATE locales_gameobject SET name_loc7='Fuego llameante' WHERE entry=136926; -- name: Blazing Fire
 UPDATE locales_gameobject SET name_loc7='Fuego llameante' WHERE entry=136927; -- name: Blazing Fire
 UPDATE locales_gameobject SET name_loc7='Fuego llameante' WHERE entry=136928; -- name: Blazing Fire
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136929; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136930; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136929; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136930; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=136931; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136932; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136933; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136934; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136935; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136932; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136933; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136934; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136935; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=136936; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=136937; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=136938; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136939; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136940; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136941; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136942; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136943; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=136944; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136939; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136940; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136941; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136942; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136943; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=136944; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=136945; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=136946; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Fuego' WHERE entry=136947; -- name: Fire
@@ -3868,7 +3873,7 @@ UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=140400; -- name: Ben
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=140401; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=140402; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=140403; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=140439; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=140439; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Buzón de Forjaz' WHERE entry=140908; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc7='Bobina de hilo de seda verde pistacho' WHERE entry=140911; -- name: Spool of Light Chartreuse Silk Thread
 UPDATE locales_gameobject SET name_loc7='Fogata' WHERE entry=140931; -- name: Bonfire
@@ -3962,7 +3967,6 @@ UPDATE locales_gameobject SET name_loc7='Transpoliportador' WHERE entry=142175; 
 UPDATE locales_gameobject SET name_loc7='Transpoliportador' WHERE entry=142176; -- name: Transpolyporter
 UPDATE locales_gameobject SET name_loc7='Glorieta de Solarsal' WHERE entry=142179; -- name: Solarsal Gazebo
 UPDATE locales_gameobject SET name_loc7='Cargamento robado' WHERE entry=142181; -- name: Stolen Cargo
-UPDATE locales_gameobject SET name_loc7='Cofre del Capitán' WHERE entry=142184; -- name: Captain\'s Chest
 UPDATE locales_gameobject SET name_loc7='Llama de Byltan' WHERE entry=142185; -- name: Flame of Byltan
 UPDATE locales_gameobject SET name_loc7='Llama de Lahassa' WHERE entry=142186; -- name: Flame of Lahassa
 UPDATE locales_gameobject SET name_loc7='Llama de Imbel' WHERE entry=142187; -- name: Flame of Imbel
@@ -4036,12 +4040,12 @@ UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=142914; --
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=142915; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=142916; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Feralas: una historia' WHERE entry=142958; -- name: Feralas: A History
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=142959; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=142960; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=142961; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=142962; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=142963; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=142964; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=142959; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=142960; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=142961; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=142962; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=142963; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=142964; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Fogata' WHERE entry=142965; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc7='Fogata' WHERE entry=142966; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc7='Fogata' WHERE entry=142967; -- name: Bonfire
@@ -4287,46 +4291,46 @@ UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=148554; --
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=148556; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=148557; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=148567; -- name: Wooden Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148658; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148659; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148660; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148661; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148662; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148663; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148664; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148665; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148666; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148668; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148669; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148670; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148671; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148672; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148673; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148674; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148675; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148676; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148677; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148679; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148680; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148681; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148682; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148683; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148684; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148685; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148686; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148687; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148688; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148689; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148691; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148692; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148693; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148694; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148695; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148696; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148697; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148707; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148714; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=148725; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148658; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148659; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148660; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148661; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148662; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148663; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148664; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148665; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148666; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148668; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148669; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148670; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148671; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148672; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148673; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148674; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148675; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148676; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148677; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148679; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148680; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148681; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148682; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148683; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148684; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148685; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148686; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148687; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148688; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148689; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148691; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148692; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148693; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148694; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148695; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148696; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148697; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148707; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148714; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=148725; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=148728; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=148729; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=148730; -- name: Wooden Chair
@@ -4670,7 +4674,7 @@ UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=157968; -- name: C
 UPDATE locales_gameobject SET name_loc7='Caldera' WHERE entry=157969; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158545; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158546; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=158547; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=158547; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158548; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158549; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158550; -- name: Bench
@@ -4694,31 +4698,31 @@ UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158567; -- name: Ben
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158568; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158569; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158570; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=158571; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=158571; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158572; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=158576; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=158579; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=158580; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=158581; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=158582; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=158576; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=158579; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=158580; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=158581; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=158582; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158583; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158584; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158585; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158599; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158608; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=158674; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=158678; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=158679; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=158680; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=160409; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=160410; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=158678; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=158679; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=158680; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=160409; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=160410; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Estufa' WHERE entry=160411; -- name: Stove
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=160413; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=160414; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=160415; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=160416; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=160418; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=160419; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=160413; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=160414; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=160415; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=160416; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=160418; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=160419; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Estufa' WHERE entry=160420; -- name: Stove
 UPDATE locales_gameobject SET name_loc7='Caldera' WHERE entry=160421; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc7='Blandón' WHERE entry=160426; -- name: Brazier
@@ -4863,7 +4867,7 @@ UPDATE locales_gameobject SET name_loc7='Torre de cristal del Este' WHERE entry=
 UPDATE locales_gameobject SET name_loc7='Brote sangrepétalo' WHERE entry=164958; -- name: Bloodpetal Sprout
 UPDATE locales_gameobject SET name_loc7='Fantasía de la doncella: Viajes por Bahía del Botín' WHERE entry=165549; -- name: Maiden\'s Fancy - Round trips to Booty Bay
 UPDATE locales_gameobject SET name_loc7='El corazón de la montaña' WHERE entry=165554; -- name: Heart of the Mountain
-UPDATE locales_gameobject SET name_loc7='Pista de zepelines' WHERE entry=165558; -- name: Zeppelin Landing 
+UPDATE locales_gameobject SET name_loc7='Pista de zepelines' WHERE entry=165558; -- name: Zeppelin Landing
 UPDATE locales_gameobject SET name_loc7='Muigin\'s Sprout' WHERE entry=165559; -- name: Muigin\'s Sprout
 UPDATE locales_gameobject SET name_loc7='Dark Iron Ale TRAP' WHERE entry=165578; -- name: Dark Iron Ale TRAP
 UPDATE locales_gameobject SET name_loc7='Fuego' WHERE entry=165587; -- name: Fire
@@ -4871,18 +4875,18 @@ UPDATE locales_gameobject SET name_loc7='Silla de monasterio' WHERE entry=165618
 UPDATE locales_gameobject SET name_loc7='Silla de monasterio' WHERE entry=165619; -- name: monastery chair
 UPDATE locales_gameobject SET name_loc7='Silla de monasterio' WHERE entry=165620; -- name: monastery chair
 UPDATE locales_gameobject SET name_loc7='Silla de monasterio' WHERE entry=165621; -- name: monastery chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165622; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165623; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165624; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165625; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165626; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165627; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165628; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165629; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165630; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165631; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165632; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=165633; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165622; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165623; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165624; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165625; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165626; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165627; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165628; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165629; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165630; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165631; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165632; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=165633; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Cocina de mesa' WHERE entry=165637; -- name: Table Cooker
 UPDATE locales_gameobject SET name_loc7='Depósito de hierro negro' WHERE entry=165658; -- name: Dark Iron Deposit
 UPDATE locales_gameobject SET name_loc7='Jarra de cerveza Hierro Negro' WHERE entry=165738; -- name: Dark Iron Ale Mug
@@ -4985,31 +4989,31 @@ UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=170065; --
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=170066; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=170067; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=170073; -- name: Wooden Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170347; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170348; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170349; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170350; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170351; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170347; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170348; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170349; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170350; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170351; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Doodad_G_HologramDwarf01' WHERE entry=170353; -- name: Doodad_G_HologramDwarf01
 UPDATE locales_gameobject SET name_loc7='Barrio de la Guerra' WHERE entry=170354; -- name: War Quarter
 UPDATE locales_gameobject SET name_loc7='Barrio del Comercio' WHERE entry=170355; -- name: Trade Quarter
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170439; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170440; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170441; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170442; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170443; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170444; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170445; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170446; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170447; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170448; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170449; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170450; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170451; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170452; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170453; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170454; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170455; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170440; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170441; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170442; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170443; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170444; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170445; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170446; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170447; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170448; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170449; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170450; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170451; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170452; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170453; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170454; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170455; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170456; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170457; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170458; -- name: Bench
@@ -5023,11 +5027,11 @@ UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170465; -- name: Ben
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170466; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170467; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170468; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170469; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170470; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170471; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170469; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170470; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170471; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170472; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170473; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170473; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170474; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170475; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170476; -- name: Bench
@@ -5039,13 +5043,13 @@ UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170481; -- name: Ben
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170482; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170483; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170484; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170485; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170486; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170485; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170486; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170487; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170488; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170489; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170488; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170489; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170490; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170491; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170491; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170492; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170493; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170494; -- name: Bench
@@ -5105,10 +5109,10 @@ UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170547; -- name: Ben
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170548; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170549; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=170550; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170551; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170552; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170553; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=170554; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170551; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170552; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170553; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=170554; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Doodad_BurningGiantWheel01' WHERE entry=170555; -- name: Doodad_BurningGiantWheel01
 UPDATE locales_gameobject SET name_loc7='Doodad_BlackRockDoors01' WHERE entry=170556; -- name: Doodad_BlackRockDoors01
 UPDATE locales_gameobject SET name_loc7='Doodad_BlackRockDoorSingle01' WHERE entry=170557; -- name: Doodad_BlackRockDoorSingle01
@@ -5685,152 +5689,152 @@ UPDATE locales_gameobject SET name_loc7='Blancoria corrupta' WHERE entry=173284;
 UPDATE locales_gameobject SET name_loc7='Dragón nocturno corrupto' WHERE entry=173324; -- name: Corrupted Night Dragon
 UPDATE locales_gameobject SET name_loc7='Flor del viento corrupta' WHERE entry=173327; -- name: Corrupted Windblossom
 UPDATE locales_gameobject SET name_loc7='La Forja Negra' WHERE entry=174045; -- name: The Black Forge
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174407; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174408; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174409; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174410; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174411; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174412; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174413; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174414; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174415; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174416; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174417; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174418; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174419; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174420; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174421; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174422; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174423; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174424; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174425; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174426; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174427; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174428; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174429; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174430; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174431; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174432; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174433; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174434; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174435; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174436; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174437; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174438; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174439; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174440; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174441; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174442; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174443; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174444; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174445; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174446; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174447; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174448; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174449; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174450; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174451; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174452; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174453; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174454; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174455; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174456; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174457; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174458; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174459; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174460; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174461; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174462; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174463; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174464; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174465; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174466; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174467; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174468; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174469; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174470; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174471; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174472; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174473; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174474; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174475; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174476; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174477; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174478; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174479; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174480; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174481; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174482; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174483; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174484; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174485; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174486; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174487; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174488; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174489; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174490; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174491; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174492; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174493; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174494; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174495; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174496; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174497; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174498; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174499; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174500; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174501; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174502; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174503; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174504; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174505; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174506; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174507; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174508; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174509; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174510; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174511; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174512; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174513; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174514; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174515; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174516; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174517; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174518; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174519; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174520; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174521; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174522; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174523; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174524; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174525; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174526; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174527; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174528; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174529; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174530; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174531; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174532; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174533; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174534; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174535; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174536; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174537; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174538; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174539; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174540; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174541; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174542; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174543; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174544; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174545; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174546; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174547; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174548; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174549; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174550; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174551; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174552; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174407; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174408; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174409; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174410; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174411; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174412; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174413; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174414; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174415; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174416; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174417; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174418; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174419; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174420; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174421; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174422; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174423; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174424; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174425; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174426; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174427; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174428; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174429; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174430; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174431; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174432; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174433; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174434; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174435; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174436; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174437; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174438; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174439; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174440; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174441; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174442; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174443; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174444; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174445; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174446; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174447; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174448; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174449; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174450; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174451; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174452; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174453; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174454; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174455; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174456; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174457; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174458; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174459; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174460; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174461; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174462; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174463; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174464; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174465; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174466; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174467; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174468; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174469; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174470; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174471; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174472; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174473; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174474; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174475; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174476; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174477; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174478; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174479; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174480; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174481; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174482; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174483; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174484; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174485; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174486; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174487; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174488; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174489; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174490; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174491; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174492; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174493; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174494; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174495; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174496; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174497; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174498; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174499; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174500; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174501; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174502; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174503; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174504; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174505; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174506; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174507; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174508; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174509; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174510; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174511; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174512; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174513; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174514; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174515; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174516; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174517; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174518; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174519; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174520; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174521; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174522; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174523; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174524; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174525; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174526; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174527; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174528; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174529; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174530; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174531; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174532; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174533; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174534; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174535; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174536; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174537; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174538; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174539; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174540; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174541; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174542; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174543; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174544; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174545; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174546; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174547; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174548; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174549; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174550; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174551; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174552; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Puerta secreta' WHERE entry=174553; -- name: Secret Door
 UPDATE locales_gameobject SET name_loc7='Tapa del arca de reliquias' WHERE entry=174554; -- name: Relic Coffer Door
 UPDATE locales_gameobject SET name_loc7='Tapa del arca de reliquias' WHERE entry=174555; -- name: Relic Coffer Door
@@ -5864,11 +5868,11 @@ UPDATE locales_gameobject SET name_loc7='Cuidado con los pterrordáctilos' WHERE
 UPDATE locales_gameobject SET name_loc7='J.D.\'s Manual' WHERE entry=174683; -- name: J.D.\'s Manual
 UPDATE locales_gameobject SET name_loc7='Dragón nocturno corrupto' WHERE entry=174684; -- name: Corrupted Night Dragon
 UPDATE locales_gameobject SET name_loc7='Blancoria corrupta' WHERE entry=174686; -- name: Corrupted Whipper Root
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174698; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174699; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174700; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174701; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174702; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174698; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174699; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174700; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174701; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174702; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Flor del viento corrupta' WHERE entry=174708; -- name: Corrupted Windblossom
 UPDATE locales_gameobject SET name_loc7='Flor del viento corrupta' WHERE entry=174709; -- name: Corrupted Windblossom
 UPDATE locales_gameobject SET name_loc7='Melodía corrupta' WHERE entry=174712; -- name: Corrupted Songflower
@@ -5906,58 +5910,58 @@ UPDATE locales_gameobject SET name_loc7='Doodad_GeneralChairLoEnd81' WHERE entry
 UPDATE locales_gameobject SET name_loc7='Estufa' WHERE entry=174872; -- name: Stove
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=174873; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=174874; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174875; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174876; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174877; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174878; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174879; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174880; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174881; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174882; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174883; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174884; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174885; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174886; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174887; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174888; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174889; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174890; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174891; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174892; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174893; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174894; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174895; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174896; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174897; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174898; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174899; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174900; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174901; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174902; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174903; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174904; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174905; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174906; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174907; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174908; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174909; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174910; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174911; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174932; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174933; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174934; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174935; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174936; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174937; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174938; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174939; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174940; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174941; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174942; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174943; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174944; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=174945; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla con respaldo alto' WHERE entry=174946; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174875; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174876; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174877; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174878; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174879; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174880; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174881; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174882; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174883; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174884; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174885; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174886; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174887; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174888; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174889; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174890; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174891; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174892; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174893; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174894; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174895; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174896; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174897; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174898; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174899; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174900; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174901; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174902; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174903; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174904; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174905; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174906; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174907; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174908; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174909; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174910; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174911; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174932; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174933; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174934; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174935; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174936; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174937; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174938; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174939; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174940; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174941; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174942; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174943; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174944; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174945; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=174946; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Ascuas ardientes' WHERE entry=174953; -- name: Burning Embers
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=174954; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc7='Silla de madera' WHERE entry=174955; -- name: Wooden Chair
@@ -6104,6 +6108,7 @@ UPDATE locales_gameobject SET name_loc7='Grandes llamaradas' WHERE entry=175316;
 UPDATE locales_gameobject SET name_loc7='Grandes llamaradas' WHERE entry=175317; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc7='Grandes llamaradas' WHERE entry=175318; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc7='Enclave Fuego Oscuro' WHERE entry=175319; -- name: Darkfire Enclave
+UPDATE locales_gameobject SET name_loc7='SE BUSCA: ¡Viscoso!' WHERE entry=175320; -- name: WANTED: Murkdeep!
 UPDATE locales_gameobject SET name_loc7='Sello de ascensión sin forjar' WHERE entry=175321; -- name: Unforged Seal of Ascension
 UPDATE locales_gameobject SET name_loc7='Sello de ascensión forjado' WHERE entry=175322; -- name: Forged Seal of Ascension
 UPDATE locales_gameobject SET name_loc7='Esquirlas de Machacahielo' WHERE entry=175324; -- name: Frostmaul Shards
@@ -6200,7 +6205,7 @@ UPDATE locales_gameobject SET name_loc7='Doodad_DarkIronBrazier04' WHERE entry=1
 UPDATE locales_gameobject SET name_loc7='Doodad_DarkIronBrazier05' WHERE entry=175532; -- name: Doodad_DarkIronBrazier05
 UPDATE locales_gameobject SET name_loc7='Doodad_DarkIronBrazier06' WHERE entry=175533; -- name: Doodad_DarkIronBrazier06
 UPDATE locales_gameobject SET name_loc7='Ozzie Down' WHERE entry=175539; -- name: Ozzie Down
-UPDATE locales_gameobject SET name_loc7='Bola y cadena' WHERE entry=175544; -- name: Ball and chain
+UPDATE locales_gameobject SET name_loc7='Bola y cadena' WHERE entry=175544; -- name: Ball and Chain
 UPDATE locales_gameobject SET name_loc7='Ahumador de carne' WHERE entry=175545; -- name: Meat Smoker
 UPDATE locales_gameobject SET name_loc7='Blandón del Heraldo' WHERE entry=175564; -- name: Brazier of the Herald
 UPDATE locales_gameobject SET name_loc7='Huevo extraño' WHERE entry=175565; -- name: Alien Egg
@@ -6374,8 +6379,8 @@ UPDATE locales_gameobject SET name_loc7='Ahumador de carne' WHERE entry=175853; 
 UPDATE locales_gameobject SET name_loc7='Los Imperios Gemelos' WHERE entry=175854; -- name: The Twin Empires
 UPDATE locales_gameobject SET name_loc7='La caída de los imperios' WHERE entry=175855; -- name: Empires\' Fall
 UPDATE locales_gameobject SET name_loc7='La cólera del Cazador de Almas' WHERE entry=175856; -- name: Wrath of Soulflayer
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=175857; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=175858; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=175857; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=175858; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Buzón' WHERE entry=175864; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc7='Campana de la Horda' WHERE entry=175885; -- name: Horde Bell
 UPDATE locales_gameobject SET name_loc7='Pica férrea' WHERE entry=175886; -- name: Roughshod Pike
@@ -6740,35 +6745,35 @@ UPDATE locales_gameobject SET name_loc7='Musgopena' WHERE entry=176641; -- name:
 UPDATE locales_gameobject SET name_loc7='Lágrimas de Arthas' WHERE entry=176642; -- name: Arthas\' Tears
 UPDATE locales_gameobject SET name_loc7='Filón pequeño de torio' WHERE entry=176643; -- name: Small Thorium Vein
 UPDATE locales_gameobject SET name_loc7='Depósito de mitril' WHERE entry=176645; -- name: Mithril Deposit
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176665; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176666; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176667; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176668; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176669; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176670; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176671; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176672; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176673; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176674; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176675; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176676; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176677; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176678; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176679; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176680; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176681; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176682; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176683; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176684; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176685; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176686; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176687; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176688; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176689; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176690; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176691; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176692; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=176693; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176665; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176666; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176667; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176668; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176669; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176670; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176671; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176672; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176673; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176674; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176675; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176676; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176677; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176678; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176679; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176680; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176681; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176682; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176683; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176684; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176685; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176686; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176687; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176688; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176689; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176690; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176691; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176692; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=176693; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Entrada lateral de Karazhan' WHERE entry=176694; -- name: Karazhan Side Entrance
 UPDATE locales_gameobject SET name_loc7='Fogata' WHERE entry=176705; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc7='Caer Darrow Skeleton 001' WHERE entry=176745; -- name: Caer Darrow Skeleton 001
@@ -6864,7 +6869,7 @@ UPDATE locales_gameobject SET name_loc7='Yunque de piedra' WHERE entry=176894; -
 UPDATE locales_gameobject SET name_loc7='Forja' WHERE entry=176895; -- name: Forge
 UPDATE locales_gameobject SET name_loc7='Fogata' WHERE entry=176896; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc7='Lumbre' WHERE entry=176897; -- name: Cooking Fire
-UPDATE locales_gameobject SET name_loc7='Foso de fuego' WHERE entry=176898; -- name: Fire pit
+UPDATE locales_gameobject SET name_loc7='Foso de fuego' WHERE entry=176898; -- name: Fire Pit
 UPDATE locales_gameobject SET name_loc7='Caldera' WHERE entry=176899; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc7='Doodad_PortcullisActive02' WHERE entry=176901; -- name: Doodad_PortcullisActive02
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=176904; -- name: Campfire
@@ -7114,7 +7119,7 @@ UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=177324; -- name: C
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=177325; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=177326; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=177327; -- name: Campfire
-UPDATE locales_gameobject SET name_loc7='Silla con respaldo alto' WHERE entry=177364; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=177364; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Portal de demonios' WHERE entry=177365; -- name: Demon Portal
 UPDATE locales_gameobject SET name_loc7='Portal de demonios' WHERE entry=177366; -- name: Demon Portal
 UPDATE locales_gameobject SET name_loc7='Portal de demonios' WHERE entry=177367; -- name: Demon Portal
@@ -7503,16 +7508,16 @@ UPDATE locales_gameobject SET name_loc7='Smoke Emitter, Large AOI, scale 2' WHER
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=179084; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=179085; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=179086; -- name: Campfire
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179104; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179105; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179104; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179105; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179106; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179107; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179108; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179109; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179110; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179111; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179112; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179113; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179109; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179110; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179111; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179112; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179113; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179114; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Rastrillo' WHERE entry=179115; -- name: Portcullis
 UPDATE locales_gameobject SET name_loc7='Rastrillo' WHERE entry=179116; -- name: Portcullis
@@ -7544,13 +7549,13 @@ UPDATE locales_gameobject SET name_loc7='Fogata' WHERE entry=179344; -- name: Bo
 UPDATE locales_gameobject SET name_loc7='Cofre del Subterráneo' WHERE entry=179345; -- name: Deeprun Chest
 UPDATE locales_gameobject SET name_loc7='Rastrillo' WHERE entry=179364; -- name: Portcullis
 UPDATE locales_gameobject SET name_loc7='Rastrillo' WHERE entry=179365; -- name: Portcullis
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179384; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179385; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179386; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179387; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179388; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179389; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179390; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179384; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179385; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179386; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179387; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179388; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179389; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179390; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=179391; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=179392; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=179393; -- name: Anvil
@@ -7705,7 +7710,7 @@ UPDATE locales_gameobject SET name_loc7='Centro de mando' WHERE entry=179743; --
 UPDATE locales_gameobject SET name_loc7='IV:7' WHERE entry=179744; -- name: SI:7
 UPDATE locales_gameobject SET name_loc7='Aura de cristal de adivinación' WHERE entry=179745; -- name: Divination Scryer Aura
 UPDATE locales_gameobject SET name_loc7='Espíritu de Valle del Terror' WHERE entry=179747; -- name: Terrordale Haunting Spirit
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179748; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179748; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Blandón' WHERE entry=179749; -- name: Brazier
 UPDATE locales_gameobject SET name_loc7='Blandón' WHERE entry=179750; -- name: Brazier
 UPDATE locales_gameobject SET name_loc7='Blandón' WHERE entry=179751; -- name: Brazier
@@ -7715,21 +7720,21 @@ UPDATE locales_gameobject SET name_loc7='Blandón' WHERE entry=179754; -- name: 
 UPDATE locales_gameobject SET name_loc7='Blandón' WHERE entry=179755; -- name: Brazier
 UPDATE locales_gameobject SET name_loc7='Blandón' WHERE entry=179756; -- name: Brazier
 UPDATE locales_gameobject SET name_loc7='Silla con respaldo alto' WHERE entry=179757; -- name: High Back Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179758; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179759; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179760; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179761; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179762; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179763; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179764; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179765; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179766; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179758; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179759; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179760; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179761; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179762; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179763; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179764; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179765; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179766; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179767; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179768; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179769; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179770; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179771; -- name: Bench
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=179778; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=179778; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179779; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179780; -- name: Bench
 UPDATE locales_gameobject SET name_loc7='Banco' WHERE entry=179781; -- name: Bench
@@ -7815,7 +7820,7 @@ UPDATE locales_gameobject SET name_loc7='Target Practice Tent' WHERE entry=18004
 UPDATE locales_gameobject SET name_loc7='Free Standing Torch 01' WHERE entry=180043; -- name: Free Standing Torch 01
 UPDATE locales_gameobject SET name_loc7='Cadalso' WHERE entry=180044; -- name: Shoutbox
 UPDATE locales_gameobject SET name_loc7='Ventormenta Gypsy Wagon' WHERE entry=180045; -- name: Stormwind Gypsy Wagon
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=180046; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=180046; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Silla de los Páramos de Poniente' WHERE entry=180047; -- name: Westfall Chair
 UPDATE locales_gameobject SET name_loc7='Espuma de jarra 01' WHERE entry=180048; -- name: Mug Foam 01
 UPDATE locales_gameobject SET name_loc7='Jarra 01' WHERE entry=180049; -- name: Mug 01
@@ -7909,7 +7914,7 @@ UPDATE locales_gameobject SET name_loc7='PUERTA DE LA ALIANZA' WHERE entry=18025
 UPDATE locales_gameobject SET name_loc7='HORDE DOOR' WHERE entry=180256; -- name: HORDE DOOR
 UPDATE locales_gameobject SET name_loc7='Ghost Gate' WHERE entry=180322; -- name: Ghost Gate
 UPDATE locales_gameobject SET name_loc7='Dwarven Table Ornate 01' WHERE entry=180324; -- name: Dwarven Table Ornate 01
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=180325; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=180325; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='OrcBench01' WHERE entry=180326; -- name: OrcBench01
 UPDATE locales_gameobject SET name_loc7='Blandón de la Locura' WHERE entry=180327; -- name: Brazier of Madness
 UPDATE locales_gameobject SET name_loc7='General Candelabra 01' WHERE entry=180328; -- name: General Candelabra 01
@@ -8030,7 +8035,7 @@ UPDATE locales_gameobject SET name_loc7='Blandón' WHERE entry=180477; -- name: 
 UPDATE locales_gameobject SET name_loc7='Blandón' WHERE entry=180478; -- name: Brazier
 UPDATE locales_gameobject SET name_loc7='Blandón' WHERE entry=180479; -- name: Brazier
 UPDATE locales_gameobject SET name_loc7='Blandón' WHERE entry=180480; -- name: Brazier
-UPDATE locales_gameobject SET name_loc7='Campo de fuerza' WHERE entry=180497; -- name: Forcefield
+UPDATE locales_gameobject SET name_loc7='Campo de fuerza' WHERE entry=180497; -- name: forcefield
 UPDATE locales_gameobject SET name_loc7='Fragmentos de tablilla Crepuscular' WHERE entry=180501; -- name: Twilight Tablet Fragment
 UPDATE locales_gameobject SET name_loc7='Piedra de viento' WHERE entry=180502; -- name: Wind Stone
 UPDATE locales_gameobject SET name_loc7='Libro de cocina de Sandy' WHERE entry=180503; -- name: Sandy Cookbook
@@ -8284,23 +8289,23 @@ UPDATE locales_gameobject SET name_loc7='Forja' WHERE entry=180913; -- name: For
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=180914; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Brasero para cocinar' WHERE entry=180915; -- name: Cooking Brazier
 UPDATE locales_gameobject SET name_loc7='Muestra de tierra mácula' WHERE entry=180921; -- name: Tainted Soil Sample
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=180991; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=180993; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=180994; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=180996; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=180997; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=180998; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=180999; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181000; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181001; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181002; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181003; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181004; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181005; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181006; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181007; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181008; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181009; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=180991; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=180993; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=180994; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=180996; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=180997; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=180998; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=180999; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181000; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181001; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181002; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181003; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181004; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181005; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181006; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181007; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181008; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181009; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Fuego' WHERE entry=181013; -- name: Fire
 UPDATE locales_gameobject SET name_loc7='Hanging, Square, Large - Val' WHERE entry=181014; -- name: Hanging, Square, Large
 UPDATE locales_gameobject SET name_loc7='Standing, Large - Val' WHERE entry=181015; -- name: Standing, Large
@@ -8389,21 +8394,21 @@ UPDATE locales_gameobject SET name_loc7='Vaccuum - Combat Gate' WHERE entry=1811
 UPDATE locales_gameobject SET name_loc7='Ciudad Necrópolis' WHERE entry=181172; -- name: Necropolis City
 UPDATE locales_gameobject SET name_loc7='Fuego de no-muertos' WHERE entry=181173; -- name: Undead Fire
 UPDATE locales_gameobject SET name_loc7='Aura de fuego de no-muertos' WHERE entry=181174; -- name: Undead Fire Aura
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181175; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181176; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181177; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181178; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181179; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181180; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181181; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181182; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181183; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181184; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181185; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181186; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181187; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181188; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181189; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181175; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181176; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181177; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181178; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181179; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181180; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181181; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181182; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181183; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181184; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181185; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181186; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181187; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181188; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181189; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Skullpile 01' WHERE entry=181191; -- name: Skullpile 01
 UPDATE locales_gameobject SET name_loc7='Skullpile 02' WHERE entry=181192; -- name: Skullpile 02
 UPDATE locales_gameobject SET name_loc7='Skullpile 03' WHERE entry=181193; -- name: Skullpile 03
@@ -8423,9 +8428,9 @@ UPDATE locales_gameobject SET name_loc7='Plague Wing Eye Portal Ramp' WHERE entr
 UPDATE locales_gameobject SET name_loc7='Spider Wing Eye Portal Ramp' WHERE entry=181212; -- name: Spider Wing Eye Portal Ramp
 UPDATE locales_gameobject SET name_loc7='Abom Wing Eye Portal Ramp' WHERE entry=181213; -- name: Abom Wing Eye Portal Ramp
 UPDATE locales_gameobject SET name_loc7='Necropolis (scale 2.5)' WHERE entry=181215; -- name: Necropolis (scale 2.5)
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181217; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181218; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=181219; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181217; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181218; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=181219; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Estufa redonda' WHERE entry=181220; -- name: Potbelly Stove
 UPDATE locales_gameobject SET name_loc7='Necropolis (scale 3.5)' WHERE entry=181223; -- name: Necropolis (scale 3.5)
 UPDATE locales_gameobject SET name_loc7='Frostwyrm Waterfall Door' WHERE entry=181225; -- name: Frostwyrm Waterfall Door
@@ -8862,46 +8867,46 @@ UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=182378; -- name: C
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=182400; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=182401; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=182402; -- name: Campfire
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182413; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182414; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182415; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182416; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182417; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182418; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182419; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182420; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182421; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182422; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182423; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182424; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182425; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182426; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182427; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182428; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182429; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182430; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182431; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182432; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182433; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182434; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182435; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182436; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182437; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182438; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182439; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182440; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182441; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182442; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182443; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182444; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182445; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182446; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182447; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182448; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182449; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182450; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182451; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182452; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182413; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182414; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182415; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182416; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182417; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182418; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182419; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182420; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182421; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182422; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182423; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182424; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182425; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182426; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182427; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182428; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182429; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182430; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182431; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182432; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182433; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182434; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182435; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182436; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182437; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182438; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182439; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182440; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182441; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182442; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182443; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182444; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182445; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182446; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182447; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182448; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182449; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182450; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182451; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182452; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Haz de luz del santuario de Uther' WHERE entry=182483; -- name: Uther Shrine Lightbeam
 UPDATE locales_gameobject SET name_loc7='Cargamento robado' WHERE entry=182485; -- name: Stolen Cargo
 UPDATE locales_gameobject SET name_loc7='Ojo de Velo Skith' WHERE entry=182506; -- name: Eye of Veil Skith
@@ -8954,69 +8959,69 @@ UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=182863; -- name: An
 UPDATE locales_gameobject SET name_loc7='Fuego' WHERE entry=182864; -- name: Fire
 UPDATE locales_gameobject SET name_loc7='Fuego' WHERE entry=182865; -- name: Fire
 UPDATE locales_gameobject SET name_loc7='Fuego' WHERE entry=182866; -- name: Fire
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182867; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182868; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182869; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182870; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182871; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182872; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182873; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182874; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182875; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182876; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182877; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182878; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182879; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182880; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182881; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182882; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182883; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182884; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182885; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182886; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182887; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182888; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182889; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182890; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182891; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182892; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182893; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182894; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182895; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182896; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182897; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182898; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182899; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182900; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182901; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182902; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182903; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182904; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182905; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182906; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182907; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182908; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182909; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182910; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182911; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182912; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182913; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182914; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182915; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182916; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182917; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182918; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182919; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182920; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182921; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182922; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182923; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182924; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182925; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182926; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182927; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182928; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182929; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182867; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182868; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182869; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182870; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182871; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182872; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182873; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182874; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182875; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182876; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182877; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182878; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182879; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182880; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182881; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182882; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182883; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182884; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182885; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182886; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182887; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182888; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182889; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182890; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182891; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182892; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182893; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182894; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182895; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182896; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182897; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182898; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182899; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182900; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182901; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182902; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182903; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182904; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182905; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182906; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182907; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182908; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182909; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182910; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182911; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182912; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182913; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182914; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182915; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182916; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182917; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182918; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182919; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182920; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182921; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182922; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182923; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182924; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182925; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182926; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182927; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182928; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182929; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Buzón' WHERE entry=182939; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc7='Jaula' WHERE entry=182942; -- name: Cage
 UPDATE locales_gameobject SET name_loc7='Base de la jaula' WHERE entry=182943; -- name: Cage Base
@@ -9031,13 +9036,13 @@ UPDATE locales_gameobject SET name_loc7='Banco de dardos' WHERE entry=182956; --
 UPDATE locales_gameobject SET name_loc7='Banco mixto de las Tierras Altas' WHERE entry=182957; -- name: Highland Mixed School
 UPDATE locales_gameobject SET name_loc7='Banco de pezfangos' WHERE entry=182958; -- name: Mudfish School
 UPDATE locales_gameobject SET name_loc7='Banco de pezazules' WHERE entry=182959; -- name: Bluefish School
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182960; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182961; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182962; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182963; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182964; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182965; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=182966; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182960; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182961; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182962; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182963; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182964; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182965; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=182966; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=182967; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=182968; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=182969; -- name: Anvil
@@ -9052,20 +9057,20 @@ UPDATE locales_gameobject SET name_loc7='Fuego' WHERE entry=183007; -- name: Fir
 UPDATE locales_gameobject SET name_loc7='Fuego' WHERE entry=183008; -- name: Fire
 UPDATE locales_gameobject SET name_loc7='Fuego' WHERE entry=183009; -- name: Fire
 UPDATE locales_gameobject SET name_loc7='Fuego' WHERE entry=183010; -- name: Fire
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183022; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183023; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183024; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183025; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183026; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183027; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183028; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183029; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183030; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183022; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183023; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183024; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183025; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183026; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183027; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183028; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183029; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183030; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=183031; -- name: Anvil
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183032; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183033; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183032; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183033; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=183034; -- name: Anvil
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183035; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183035; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Buzón' WHERE entry=183039; -- name: Mailbox
 UPDATE locales_gameobject SET name_loc7='Carolina' WHERE entry=183046; -- name: Blindweed
 UPDATE locales_gameobject SET name_loc7='La saga de Terokk' WHERE entry=183050; -- name: The Saga of Terokk
@@ -9210,212 +9215,212 @@ UPDATE locales_gameobject SET name_loc7='Lumbre' WHERE entry=183502; -- name: Co
 UPDATE locales_gameobject SET name_loc7='Aura' WHERE entry=183516; -- name: Aura
 UPDATE locales_gameobject SET name_loc7='Palanca' WHERE entry=183517; -- name: Lever
 UPDATE locales_gameobject SET name_loc7='Palanca' WHERE entry=183518; -- name: Lever
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183519; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183520; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183521; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183522; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183523; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183524; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183525; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183526; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183527; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183528; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183529; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183530; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183531; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183532; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183533; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183534; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183535; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183536; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183537; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183538; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183539; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183540; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183541; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183542; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183543; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183544; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183545; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183546; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183547; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183548; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183549; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183550; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183551; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183552; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183553; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183554; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183555; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183556; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183557; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183558; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183559; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183560; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183561; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183562; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183563; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183564; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183565; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183566; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183567; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183568; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183569; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183570; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183571; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183572; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183573; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183574; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183575; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183576; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183577; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183578; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183579; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183580; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183581; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183582; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183583; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183584; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183585; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183586; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183587; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183588; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183589; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183590; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183591; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183592; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183593; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183594; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183595; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183596; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183597; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183598; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183599; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183600; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183601; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183602; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183603; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183604; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183605; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183606; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183607; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183608; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183609; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183610; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183611; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183612; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183613; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183614; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183615; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183616; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183617; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183618; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183619; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183620; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183621; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183622; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183623; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183624; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183625; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183626; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183627; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183628; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183629; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183630; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183631; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183632; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183633; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183634; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183635; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183636; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183637; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183638; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183639; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183640; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183641; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183642; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183643; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183644; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183645; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183646; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183647; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183648; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183649; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183650; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183651; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183652; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183653; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183654; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183655; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183656; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183657; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183658; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183659; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183660; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183661; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183662; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183663; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183664; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183665; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183666; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183667; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183668; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183669; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183670; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183671; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183672; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183673; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183674; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183675; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183676; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183677; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183678; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183679; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183680; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183681; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183682; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183683; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183684; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183685; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183686; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183687; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183688; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183689; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183690; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183691; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183692; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183693; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183694; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183703; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183712; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183713; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183714; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183740; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183741; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183742; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183743; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183744; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183745; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183746; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183747; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183748; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183749; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183750; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183751; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183752; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183754; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183755; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183519; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183520; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183521; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183522; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183523; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183524; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183525; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183526; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183527; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183528; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183529; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183530; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183531; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183532; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183533; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183534; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183535; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183536; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183537; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183538; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183539; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183540; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183541; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183542; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183543; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183544; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183545; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183546; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183547; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183548; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183549; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183550; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183551; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183552; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183553; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183554; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183555; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183556; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183557; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183558; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183559; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183560; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183561; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183562; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183563; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183564; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183565; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183566; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183567; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183568; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183569; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183570; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183571; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183572; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183573; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183574; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183575; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183576; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183577; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183578; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183579; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183580; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183581; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183582; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183583; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183584; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183585; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183586; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183587; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183588; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183589; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183590; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183591; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183592; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183593; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183594; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183595; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183596; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183597; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183598; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183599; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183600; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183601; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183602; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183603; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183604; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183605; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183606; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183607; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183608; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183609; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183610; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183611; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183612; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183613; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183614; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183615; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183616; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183617; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183618; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183619; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183620; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183621; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183622; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183623; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183624; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183625; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183626; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183627; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183628; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183629; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183630; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183631; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183632; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183633; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183634; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183635; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183636; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183637; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183638; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183639; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183640; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183641; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183642; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183643; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183644; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183645; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183646; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183647; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183648; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183649; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183650; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183651; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183652; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183653; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183654; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183655; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183656; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183657; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183658; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183659; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183660; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183661; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183662; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183663; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183664; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183665; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183666; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183667; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183668; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183669; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183670; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183671; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183672; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183673; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183674; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183675; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183676; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183677; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183678; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183679; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183680; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183681; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183682; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183683; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183684; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183685; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183686; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183687; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183688; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183689; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183690; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183691; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183692; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183693; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183694; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183703; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183712; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183713; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183714; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183740; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183741; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183742; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183743; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183744; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183745; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183746; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183747; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183748; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183749; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183750; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183751; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183752; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183754; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183755; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=183761; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Cristal de la matriz de eterlitio' WHERE entry=183768; -- name: Etherlithium Matrix Crystal
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183773; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183774; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183775; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183776; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183777; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183778; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183779; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183780; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=183781; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183773; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183774; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183775; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183776; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183777; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183778; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183779; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183780; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=183781; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Poder de la Horda' WHERE entry=183791; -- name: Might of the Horde
 UPDATE locales_gameobject SET name_loc7='Fuego' WHERE entry=183796; -- name: Fire
 UPDATE locales_gameobject SET name_loc7='Humo' WHERE entry=183797; -- name: Smoke
@@ -9617,9 +9622,9 @@ UPDATE locales_gameobject SET name_loc7='Talega de peregrino rota' WHERE entry=1
 UPDATE locales_gameobject SET name_loc7='Fogata' WHERE entry=184494; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=184495; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Barril de cerveza Machacasangre' WHERE entry=184504; -- name: Bloodmaul Brew Keg
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=184530; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=184531; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=184532; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=184530; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=184531; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=184532; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Metal de magma' WHERE entry=184554; -- name: Molten metal
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=184558; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=184559; -- name: Anvil
@@ -9657,10 +9662,10 @@ UPDATE locales_gameobject SET name_loc7='Jaula' WHERE entry=184702; -- name: Cag
 UPDATE locales_gameobject SET name_loc7='Bola y cadena' WHERE entry=184714; -- name: Ball and Chain
 UPDATE locales_gameobject SET name_loc7='Humo de la caldera' WHERE entry=184717; -- name: Cauldron Smoke
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=184724; -- name: Campfire
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=184732; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla con respaldo alto' WHERE entry=184733; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=184734; -- name: Chair
-UPDATE locales_gameobject SET name_loc7='Silla' WHERE entry=184735; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=184732; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=184733; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=184734; -- name: Chair
+UPDATE locales_gameobject SET name_loc7='silla' WHERE entry=184735; -- name: Chair
 UPDATE locales_gameobject SET name_loc7='Tablilla del clan Señor del Trueno' WHERE entry=184736; -- name: Thunderlord Clan Tablet
 UPDATE locales_gameobject SET name_loc7='La Punta de Trueno' WHERE entry=184737; -- name: The Thunderspike
 UPDATE locales_gameobject SET name_loc7='Tumba de T\'chali' WHERE entry=184742; -- name: T\'chali\'s Grave
@@ -9818,7 +9823,7 @@ UPDATE locales_gameobject SET name_loc7='Huevo maldito' WHERE entry=185210; -- n
 UPDATE locales_gameobject SET name_loc7='Huevo maldito' WHERE entry=185211; -- name: Cursed Egg
 UPDATE locales_gameobject SET name_loc7='Señal de fuego violeta' WHERE entry=185218; -- name: Violet Signal Fire
 UPDATE locales_gameobject SET name_loc7='Bosque de Terokkar - Caravana abandonada - Misión - Cofre abierto' WHERE entry=185221; -- name: Terokkar Forest - Derelict Caravan - Quest - Chest Opened
-UPDATE locales_gameobject SET name_loc7='Desafío de la Horda' WHERE entry=185222; -- name: Challenge From the Horde
+UPDATE locales_gameobject SET name_loc7='Desafío de la Horda' WHERE entry=185222; -- name: Challenge from the Horde
 UPDATE locales_gameobject SET name_loc7='Cofre conciliábulo' WHERE entry=185224; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc7='Cofre conciliábulo' WHERE entry=185225; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc7='Cofre conciliábulo' WHERE entry=185226; -- name: Cabal Chest

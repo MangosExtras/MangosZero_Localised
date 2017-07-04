@@ -17,14 +17,9 @@ UPDATE locales_gameobject SET name_loc9='Stand up Torch' WHERE entry=18059; -- n
 UPDATE locales_gameobject SET name_loc9='Stand up Torch' WHERE entry=18060; -- name: Stand up Torch
 UPDATE locales_gameobject SET name_loc9='Stand up Torch' WHERE entry=18061; -- name: Stand up Torch
 UPDATE locales_gameobject SET name_loc9='Stand up Torch' WHERE entry=18062; -- name: Stand up Torch
-UPDATE locales_gameobject SET name_loc9='mine' WHERE entry=20811; -- name: mine
 UPDATE locales_gameobject SET name_loc9='Fire on ground' WHERE entry=56809; -- name: Fire on ground
-UPDATE locales_gameobject SET name_loc9='blacksmith' WHERE entry=58617; -- name: blacksmith
 UPDATE locales_gameobject SET name_loc9='Fire With Boiling Water' WHERE entry=103773; -- name: Fire With Boiling Water
 UPDATE locales_gameobject SET name_loc9='Bed' WHERE entry=174849; -- name: Bed
-UPDATE locales_gameobject SET name_loc9='Doodad_Drake_Rider_portcullis' WHERE entry=175185; -- name: Doodad_Drake_Rider_portcullis
-UPDATE locales_gameobject SET name_loc9='Doodad_Portcullis_TOBOSSROOMS' WHERE entry=175186; -- name: Doodad_Portcullis_TOBOSSROOMS
-UPDATE locales_gameobject SET name_loc9='Doodad_SmallPortcullis11' WHERE entry=175359; -- name: Doodad_SmallPortcullis11
 UPDATE locales_gameobject SET name_loc9='Locked Cage' WHERE entry=175786; -- name: Locked Cage
 UPDATE locales_gameobject SET name_loc9='Bowel with Boobles' WHERE entry=176157; -- name: Bowel with Boobles
 UPDATE locales_gameobject SET name_loc9='Pull rope Bell' WHERE entry=177271; -- name: Pull rope Bell
@@ -35,8 +30,6 @@ UPDATE locales_gameobject SET name_loc9='SmallBrazier03' WHERE entry=179876; -- 
 UPDATE locales_gameobject SET name_loc9='SmallBrazier04' WHERE entry=179877; -- name: SmallBrazier04
 UPDATE locales_gameobject SET name_loc9='SmallBrazier01' WHERE entry=179878; -- name: SmallBrazier01
 UPDATE locales_gameobject SET name_loc9='Wickerman Guardian Ember' WHERE entry=180574; -- name: Wickerman Guardian Ember
-UPDATE locales_gameobject SET name_loc9='Doodad_nox_tesla05' WHERE entry=181477; -- name: Doodad_nox_tesla05
-UPDATE locales_gameobject SET name_loc9='Doodad_nox_tesla06' WHERE entry=181478; -- name: Doodad_nox_tesla06
 UPDATE locales_gameobject SET name_loc9='Logs on fire' WHERE entry=184507; -- name: Logs on fire
 UPDATE locales_gameobject SET name_loc9='Logs on fire' WHERE entry=184508; -- name: Logs on fire
 UPDATE locales_gameobject SET name_loc9='Logs on fire' WHERE entry=184509; -- name: Logs on fire

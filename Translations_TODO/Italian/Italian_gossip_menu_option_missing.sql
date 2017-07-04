@@ -17,48 +17,12 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='You\'ve got something I 
 UPDATE locales_gossip_menu_option SET option_text_loc9='You\'re Astor Hadren, right?' WHERE menu_id=126 AND id=0; -- option_text: You\'re Astor Hadren, right?
 UPDATE locales_gossip_menu_option SET option_text_loc9='[PH] Get Thieves\' Tools' WHERE menu_id=161 AND id=1; -- option_text: [PH] Get Thieves\' Tools
 UPDATE locales_gossip_menu_option SET option_text_loc9='Please port me to Darnassus.' WHERE menu_id=321 AND id=0; -- option_text: Please port me to Darnassus.
-UPDATE locales_gossip_menu_option SET option_text_loc9='Druid' WHERE menu_id=401 AND id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hunter' WHERE menu_id=401 AND id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mage' WHERE menu_id=401 AND id=2; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc9='Paladin' WHERE menu_id=401 AND id=3; -- option_text: Paladin
-UPDATE locales_gossip_menu_option SET option_text_loc9='Priest' WHERE menu_id=401 AND id=4; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc9='Rogue' WHERE menu_id=401 AND id=5; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warlock' WHERE menu_id=401 AND id=7; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=401 AND id=8; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Blacksmithing' WHERE menu_id=421 AND id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=421 AND id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=421 AND id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=421 AND id=11; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc9='Auction House' WHERE menu_id=435 AND id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc9='Deeprun Tram' WHERE menu_id=435 AND id=2; -- option_text: Deeprun Tram
-UPDATE locales_gossip_menu_option SET option_text_loc9='Gryphon Master' WHERE menu_id=435 AND id=4; -- option_text: Gryphon Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=435 AND id=5; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=435 AND id=6; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemaster' WHERE menu_id=435 AND id=9; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=435 AND id=11; -- option_text: Profession Trainer
 UPDATE locales_gossip_menu_option SET option_text_loc9='[PH] Get E.C.A.C.' WHERE menu_id=524 AND id=0; -- option_text: [PH] Get E.C.A.C.
 UPDATE locales_gossip_menu_option SET option_text_loc9='[PH] Get Thieves\' Tools' WHERE menu_id=524 AND id=1; -- option_text: [PH] Get Thieves\' Tools
 UPDATE locales_gossip_menu_option SET option_text_loc9='Can you give me directions?' WHERE menu_id=590 AND id=0; -- option_text: Can you give me directions?
 UPDATE locales_gossip_menu_option SET option_text_loc9='Tell me more about Forging Armor.' WHERE menu_id=593 AND id=1; -- option_text: Tell me more about Forging Armor.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Tell me more about Forging Weapons.' WHERE menu_id=593 AND id=2; -- option_text: Tell me more about Forging Weapons.
 UPDATE locales_gossip_menu_option SET option_text_loc9='I wish to unlearn Armorsmithing!' WHERE menu_id=597 AND id=1; -- option_text: I wish to unlearn Armorsmithing!
-UPDATE locales_gossip_menu_option SET option_text_loc9='Auction House' WHERE menu_id=721 AND id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=721 AND id=3; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=721 AND id=5; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Weapon Master' WHERE menu_id=721 AND id=6; -- option_text: Weapon Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Wind Rider Master' WHERE menu_id=721 AND id=7; -- option_text: Wind Rider Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemaster' WHERE menu_id=721 AND id=8; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=721 AND id=10; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc9='Druid' WHERE menu_id=740 AND id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hunter' WHERE menu_id=740 AND id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mage' WHERE menu_id=740 AND id=2; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc9='Priest' WHERE menu_id=740 AND id=3; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc9='Shaman' WHERE menu_id=740 AND id=4; -- option_text: Shaman
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=740 AND id=5; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Blacksmithing' WHERE menu_id=751 AND id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=751 AND id=5; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=751 AND id=6; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=751 AND id=9; -- option_text: Skinning
 UPDATE locales_gossip_menu_option SET option_text_loc9='Please continue, Hero...' WHERE menu_id=840 AND id=1; -- option_text: Please continue, Hero...
 UPDATE locales_gossip_menu_option SET option_text_loc9='What could be worse than death?' WHERE menu_id=880 AND id=0; -- option_text: What could be worse than death?
 UPDATE locales_gossip_menu_option SET option_text_loc9='I shall.' WHERE menu_id=881 AND id=0; -- option_text: I shall.
@@ -98,26 +62,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Continue...' WHERE menu_
 UPDATE locales_gossip_menu_option SET option_text_loc9='Not enough, you need to tell me more.' WHERE menu_id=1829 AND id=0; -- option_text: Not enough, you need to tell me more.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Gor\'shak is my friend, you can trust me.' WHERE menu_id=1830 AND id=0; -- option_text: Gor\'shak is my friend, you can trust me.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Where is Warlord Krom\'zar?' WHERE menu_id=1882 AND id=0; -- option_text: Where is Warlord Krom\'zar?
-UPDATE locales_gossip_menu_option SET option_text_loc9='Blacksmithing' WHERE menu_id=1942 AND id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=1942 AND id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=1942 AND id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=1942 AND id=10; -- option_text: Skinning
 UPDATE locales_gossip_menu_option SET option_text_loc9='Gloom\'rel, tell me your secrets!' WHERE menu_id=1945 AND id=0; -- option_text: Gloom\'rel, tell me your secrets!
 UPDATE locales_gossip_menu_option SET option_text_loc9='I have paid your price, Gloom\'rel. Now teach me your secrets!' WHERE menu_id=1945 AND id=1; -- option_text: I have paid your price, Gloom\'rel. Now teach me your secrets!
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hunter' WHERE menu_id=1949 AND id=0; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mage' WHERE menu_id=1949 AND id=1; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc9='Priest' WHERE menu_id=1949 AND id=2; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc9='Shaman' WHERE menu_id=1949 AND id=3; -- option_text: Shaman
-UPDATE locales_gossip_menu_option SET option_text_loc9='Rogue' WHERE menu_id=1949 AND id=4; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warlock' WHERE menu_id=1949 AND id=5; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=1949 AND id=6; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Auction House' WHERE menu_id=1951 AND id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=1951 AND id=3; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=1951 AND id=5; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Weapon Master' WHERE menu_id=1951 AND id=6; -- option_text: Weapon Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Wind Rider Master' WHERE menu_id=1951 AND id=7; -- option_text: Wind Rider Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemaster' WHERE menu_id=1951 AND id=9; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=1951 AND id=11; -- option_text: Profession Trainer
 UPDATE locales_gossip_menu_option SET option_text_loc9='You\'re good for nothing, Ribbly.  It\'s time to pay for your wickedness!' WHERE menu_id=1970 AND id=1; -- option_text: You\'re good for nothing, Ribbly.  It\'s time to pay for your wickedness!
 UPDATE locales_gossip_menu_option SET option_text_loc9='I\'d like to train in cooking.' WHERE menu_id=2021 AND id=0; -- option_text: I\'d like to train in cooking.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Thanks, Ragged John. Your story was very uplifting and informative.' WHERE menu_id=2050 AND id=0; -- option_text: Thanks, Ragged John. Your story was very uplifting and informative.
@@ -133,24 +79,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Start making sense, dwar
 UPDATE locales_gossip_menu_option SET option_text_loc9='So what did you do?' WHERE menu_id=2060 AND id=0; -- option_text: So what did you do?
 UPDATE locales_gossip_menu_option SET option_text_loc9='Official business, John. I need some information about Marshal Windsor. Tell me about the last time you saw him' WHERE menu_id=2061 AND id=0; -- option_text: Official business, John. I need some information about Marshal Windsor. Tell me about the last time you saw him
 UPDATE locales_gossip_menu_option SET option_text_loc9='Why don\'t you and Rocknot go find somewhere private...' WHERE menu_id=2076 AND id=0; -- option_text: Why don\'t you and Rocknot go find somewhere private...
-UPDATE locales_gossip_menu_option SET option_text_loc9='Auction House' WHERE menu_id=2121 AND id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc9='Deeprun Tram' WHERE menu_id=2121 AND id=2; -- option_text: Deeprun Tram
-UPDATE locales_gossip_menu_option SET option_text_loc9='Gryphon Master' WHERE menu_id=2121 AND id=3; -- option_text: Gryphon Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=2121 AND id=4; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=2121 AND id=7; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemaster' WHERE menu_id=2121 AND id=9; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=2121 AND id=11; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hunter' WHERE menu_id=2144 AND id=0; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mage' WHERE menu_id=2144 AND id=1; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc9='Paladin' WHERE menu_id=2144 AND id=2; -- option_text: Paladin
-UPDATE locales_gossip_menu_option SET option_text_loc9='Priest' WHERE menu_id=2144 AND id=3; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc9='Rogue' WHERE menu_id=2144 AND id=4; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warlock' WHERE menu_id=2144 AND id=5; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=2144 AND id=6; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Blacksmithing' WHERE menu_id=2168 AND id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=2168 AND id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=2168 AND id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=2168 AND id=10; -- option_text: Skinning
 UPDATE locales_gossip_menu_option SET option_text_loc9='I want to examine this pylon.' WHERE menu_id=2177 AND id=0; -- option_text: I want to examine this pylon.
 UPDATE locales_gossip_menu_option SET option_text_loc9='I want to examine this pylon.' WHERE menu_id=2178 AND id=0; -- option_text: I want to examine this pylon.
 UPDATE locales_gossip_menu_option SET option_text_loc9='I want to examine this pylon.' WHERE menu_id=2179 AND id=0; -- option_text: I want to examine this pylon.
@@ -159,14 +87,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Tell me more about the N
 UPDATE locales_gossip_menu_option SET option_text_loc9='Tell me more about the Western Crystal Pylon.' WHERE menu_id=2184 AND id=2; -- option_text: Tell me more about the Western Crystal Pylon.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Transcript the Tablet' WHERE menu_id=2187 AND id=0; -- option_text: Transcript the Tablet
 UPDATE locales_gossip_menu_option SET option_text_loc9='What plants are in Felwood that might be corrupted?' WHERE menu_id=2208 AND id=1; -- option_text: What plants are in Felwood that might be corrupted?
-UPDATE locales_gossip_menu_option SET option_text_loc9='Druid' WHERE menu_id=2343 AND id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hunter' WHERE menu_id=2343 AND id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc9='Priest' WHERE menu_id=2343 AND id=2; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc9='Rogue' WHERE menu_id=2343 AND id=3; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=2343 AND id=4; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=2351 AND id=4; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=2351 AND id=5; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=2351 AND id=7; -- option_text: Skinning
 UPDATE locales_gossip_menu_option SET option_text_loc9='Um... sorry to bother you, but could I see Goodsteel\'s ledger again... if you\'re not using it.' WHERE menu_id=2387 AND id=0; -- option_text: Um... sorry to bother you, but could I see Goodsteel\'s ledger again... if you\'re not using it.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Is there a difference between ooze and slime?' WHERE menu_id=2405 AND id=0; -- option_text: Is there a difference between ooze and slime?
 UPDATE locales_gossip_menu_option SET option_text_loc9='What do you mean by "pure?"' WHERE menu_id=2405 AND id=1; -- option_text: What do you mean by "pure?"
@@ -174,22 +94,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Are there any areas you 
 UPDATE locales_gossip_menu_option SET option_text_loc9='How do I use the Cache of Mau\'ari?' WHERE menu_id=2703 AND id=0; -- option_text: How do I use the Cache of Mau\'ari?
 UPDATE locales_gossip_menu_option SET option_text_loc9='What is E\'ko?' WHERE menu_id=2703 AND id=1; -- option_text: What is E\'ko?
 UPDATE locales_gossip_menu_option SET option_text_loc9='Do it... Do it now.' WHERE menu_id=2802 AND id=0; -- option_text: Do it... Do it now.
-UPDATE locales_gossip_menu_option SET option_text_loc9='Blacksmithing' WHERE menu_id=2847 AND id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=2847 AND id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=2847 AND id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=2847 AND id=10; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mage' WHERE menu_id=2848 AND id=0; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc9='Priest' WHERE menu_id=2848 AND id=2; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc9='Rogue' WHERE menu_id=2848 AND id=3; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warlock' WHERE menu_id=2848 AND id=4; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=2848 AND id=5; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Auction House' WHERE menu_id=2849 AND id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=2849 AND id=4; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=2849 AND id=6; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Weapon Master' WHERE menu_id=2849 AND id=7; -- option_text: Weapon Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Zeppelin Master' WHERE menu_id=2849 AND id=8; -- option_text: Zeppelin Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemaster' WHERE menu_id=2849 AND id=9; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=2849 AND id=11; -- option_text: Profession Trainer
 UPDATE locales_gossip_menu_option SET option_text_loc9='Hello, Eitrigg. I bring news from Blackrock Spire.' WHERE menu_id=2901 AND id=0; -- option_text: Hello, Eitrigg. I bring news from Blackrock Spire.
 UPDATE locales_gossip_menu_option SET option_text_loc9='There is only one Warchief, Eitrigg!' WHERE menu_id=2902 AND id=0; -- option_text: There is only one Warchief, Eitrigg!
 UPDATE locales_gossip_menu_option SET option_text_loc9='Hearthglen? But...' WHERE menu_id=2904 AND id=0; -- option_text: Hearthglen? But...
@@ -206,42 +110,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='I lost the Flute of the 
 UPDATE locales_gossip_menu_option SET option_text_loc9='I wish to become an armorsmith.' WHERE menu_id=3182 AND id=0; -- option_text: I wish to become an armorsmith.
 UPDATE locales_gossip_menu_option SET option_text_loc9='I wish to become a weaponsmith.' WHERE menu_id=3182 AND id=1; -- option_text: I wish to become a weaponsmith.
 UPDATE locales_gossip_menu_option SET option_text_loc9='How are we doing in the battle to subvert the cauldrons?' WHERE menu_id=3184 AND id=0; -- option_text: How are we doing in the battle to subvert the cauldrons?
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hunter' WHERE menu_id=3283 AND id=0; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mage' WHERE menu_id=3283 AND id=1; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc9='Priest' WHERE menu_id=3283 AND id=2; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc9='Rogue' WHERE menu_id=3283 AND id=3; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc9='Shaman' WHERE menu_id=3283 AND id=4; -- option_text: Shaman
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warlock' WHERE menu_id=3283 AND id=5; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=3283 AND id=6; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Blacksmithing' WHERE menu_id=3284 AND id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=3284 AND id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=3284 AND id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=3284 AND id=10; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc9='Wind Rider Master' WHERE menu_id=3285 AND id=1; -- option_text: Wind Rider Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=3285 AND id=3; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=3285 AND id=5; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc9='Druid' WHERE menu_id=3329 AND id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hunter' WHERE menu_id=3329 AND id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc9='Shaman' WHERE menu_id=3329 AND id=2; -- option_text: Shaman
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=3329 AND id=3; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Blacksmithing' WHERE menu_id=3330 AND id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=3330 AND id=5; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=3330 AND id=6; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=3330 AND id=9; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc9='Wind Rider Master' WHERE menu_id=3331 AND id=1; -- option_text: Wind Rider Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=3331 AND id=3; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=3331 AND id=5; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mage' WHERE menu_id=3354 AND id=0; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc9='Priest' WHERE menu_id=3354 AND id=1; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc9='Rogue' WHERE menu_id=3354 AND id=2; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warlock' WHERE menu_id=3354 AND id=3; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=3354 AND id=4; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Blacksmithing' WHERE menu_id=3355 AND id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=3355 AND id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=3355 AND id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=3355 AND id=10; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=3356 AND id=3; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=3356 AND id=5; -- option_text: Profession Trainer
 UPDATE locales_gossip_menu_option SET option_text_loc9='Yes I am.' WHERE menu_id=3364 AND id=0; -- option_text: Yes I am.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Yes I do.' WHERE menu_id=3365 AND id=0; -- option_text: Yes I do.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Ras Frostwhat? Who is that?' WHERE menu_id=3367 AND id=0; -- option_text: Ras Frostwhat? Who is that?
@@ -252,49 +120,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Impossible.' WHERE menu_
 UPDATE locales_gossip_menu_option SET option_text_loc9='Tell me about the Cult of the Damned.' WHERE menu_id=3372 AND id=0; -- option_text: Tell me about the Cult of the Damned.
 UPDATE locales_gossip_menu_option SET option_text_loc9='The land of Azshara.' WHERE menu_id=3481 AND id=0; -- option_text: The land of Azshara.
 UPDATE locales_gossip_menu_option SET option_text_loc9='I am ready to hear your tale, Tirion.' WHERE menu_id=3502 AND id=0; -- option_text: I am ready to hear your tale, Tirion.
-UPDATE locales_gossip_menu_option SET option_text_loc9='Gryphon Master' WHERE menu_id=3506 AND id=1; -- option_text: Gryphon Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=3506 AND id=2; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=3506 AND id=4; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=3506 AND id=6; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc9='Druid' WHERE menu_id=3519 AND id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hunter' WHERE menu_id=3519 AND id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mage' WHERE menu_id=3519 AND id=2; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc9='Paladin' WHERE menu_id=3519 AND id=3; -- option_text: Paladin
-UPDATE locales_gossip_menu_option SET option_text_loc9='Priest' WHERE menu_id=3519 AND id=4; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc9='Rogue' WHERE menu_id=3519 AND id=5; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc9='Shaman' WHERE menu_id=3519 AND id=6; -- option_text: Shaman
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warlock' WHERE menu_id=3519 AND id=7; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=3519 AND id=8; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Blacksmithing' WHERE menu_id=3532 AND id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=3532 AND id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=3532 AND id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=3532 AND id=11; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc9='Gryphon Master' WHERE menu_id=3533 AND id=1; -- option_text: Gryphon Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=3533 AND id=2; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=3533 AND id=4; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=3533 AND id=6; -- option_text: Profession Trainer
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hunter' WHERE menu_id=3545 AND id=0; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mage' WHERE menu_id=3545 AND id=1; -- option_text: Mage
-UPDATE locales_gossip_menu_option SET option_text_loc9='Paladin' WHERE menu_id=3545 AND id=2; -- option_text: Paladin
-UPDATE locales_gossip_menu_option SET option_text_loc9='Priest' WHERE menu_id=3545 AND id=3; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc9='Rogue' WHERE menu_id=3545 AND id=4; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warlock' WHERE menu_id=3545 AND id=5; -- option_text: Warlock
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=3545 AND id=6; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Blacksmithing' WHERE menu_id=3558 AND id=1; -- option_text: Blacksmithing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=3558 AND id=6; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=3558 AND id=7; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=3558 AND id=10; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc9='Druid' WHERE menu_id=3564 AND id=0; -- option_text: Druid
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hunter' WHERE menu_id=3564 AND id=1; -- option_text: Hunter
-UPDATE locales_gossip_menu_option SET option_text_loc9='Priest' WHERE menu_id=3564 AND id=2; -- option_text: Priest
-UPDATE locales_gossip_menu_option SET option_text_loc9='Rogue' WHERE menu_id=3564 AND id=3; -- option_text: Rogue
-UPDATE locales_gossip_menu_option SET option_text_loc9='Warrior' WHERE menu_id=3564 AND id=4; -- option_text: Warrior
-UPDATE locales_gossip_menu_option SET option_text_loc9='Fishing' WHERE menu_id=3572 AND id=4; -- option_text: Fishing
-UPDATE locales_gossip_menu_option SET option_text_loc9='Herbalism' WHERE menu_id=3572 AND id=5; -- option_text: Herbalism
-UPDATE locales_gossip_menu_option SET option_text_loc9='Skinning' WHERE menu_id=3572 AND id=7; -- option_text: Skinning
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=3580 AND id=3; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=3580 AND id=4; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=3580 AND id=6; -- option_text: Profession Trainer
 UPDATE locales_gossip_menu_option SET option_text_loc9='I will, Tirion.' WHERE menu_id=3681 AND id=0; -- option_text: I will, Tirion.
 UPDATE locales_gossip_menu_option SET option_text_loc9='That is terrible.' WHERE menu_id=3682 AND id=0; -- option_text: That is terrible.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Thank you, Tirion. What of your identity?' WHERE menu_id=3683 AND id=0; -- option_text: Thank you, Tirion. What of your identity?
@@ -326,18 +151,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='I desire this eternal qu
 UPDATE locales_gossip_menu_option SET option_text_loc9='How many more supplies are needed for the next upgrade?' WHERE menu_id=5124 AND id=3; -- option_text: How many more supplies are needed for the next upgrade?
 UPDATE locales_gossip_menu_option SET option_text_loc9='I got your back, Ichman. GO GO GO!' WHERE menu_id=5146 AND id=0; -- option_text: I got your back, Ichman. GO GO GO!
 UPDATE locales_gossip_menu_option SET option_text_loc9='I got your back, Slidore, but to be honest, you do stink. Take a shower, man.' WHERE menu_id=5148 AND id=0; -- option_text: I got your back, Slidore, but to be honest, you do stink. Take a shower, man.
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mace' WHERE menu_id=5222 AND id=2; -- option_text: Mace
 UPDATE locales_gossip_menu_option SET option_text_loc9='How many more supplies are needed to send ground assaults?' WHERE menu_id=5241 AND id=0; -- option_text: How many more supplies are needed to send ground assaults?
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mace' WHERE menu_id=5262 AND id=4; -- option_text: Mace
-UPDATE locales_gossip_menu_option SET option_text_loc9='Axe' WHERE menu_id=5265 AND id=0; -- option_text: Axe
-UPDATE locales_gossip_menu_option SET option_text_loc9='Axe' WHERE menu_id=5268 AND id=0; -- option_text: Axe
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mace' WHERE menu_id=5268 AND id=4; -- option_text: Mace
-UPDATE locales_gossip_menu_option SET option_text_loc9='Axe' WHERE menu_id=5270 AND id=0; -- option_text: Axe
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mace' WHERE menu_id=5270 AND id=4; -- option_text: Mace
-UPDATE locales_gossip_menu_option SET option_text_loc9='Axe' WHERE menu_id=5272 AND id=0; -- option_text: Axe
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mace' WHERE menu_id=5272 AND id=3; -- option_text: Mace
-UPDATE locales_gossip_menu_option SET option_text_loc9='Axe' WHERE menu_id=5276 AND id=0; -- option_text: Axe
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mace' WHERE menu_id=5276 AND id=4; -- option_text: Mace
 UPDATE locales_gossip_menu_option SET option_text_loc9='Teach me how to create and apply a Heavy Mageweave Bandage, Doctor.' WHERE menu_id=5382 AND id=0; -- option_text: Teach me how to create and apply a Heavy Mageweave Bandage, Doctor.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Teach me how to create and apply a Runecloth Bandage, Doctor.' WHERE menu_id=5382 AND id=1; -- option_text: Teach me how to create and apply a Runecloth Bandage, Doctor.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Teach me how to create and apply a Heavy Runecloth Bandage, Doctor.' WHERE menu_id=5382 AND id=2; -- option_text: Teach me how to create and apply a Heavy Runecloth Bandage, Doctor.
@@ -392,7 +206,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='How many bandages have t
 UPDATE locales_gossip_menu_option SET option_text_loc9='How many cooked goods have the Alliance collected so far?' WHERE menu_id=6772 AND id=5; -- option_text: How many cooked goods have the Alliance collected so far?
 UPDATE locales_gossip_menu_option SET option_text_loc9='Decipher the pattern and learn its content.' WHERE menu_id=6799 AND id=0; -- option_text: Decipher the pattern and learn its content.
 UPDATE locales_gossip_menu_option SET option_text_loc9='How can I summon Omen?' WHERE menu_id=6917 AND id=0; -- option_text: How can I summon Omen?
-UPDATE locales_gossip_menu_option SET option_text_loc9='Good luck.' WHERE menu_id=6924 AND id=1; -- option_text: Good luck.
 UPDATE locales_gossip_menu_option SET option_text_loc9='I have lost my Band of Unending Life. Are you able to replace it for me?' WHERE menu_id=6928 AND id=0; -- option_text: I have lost my Band of Unending Life. Are you able to replace it for me?
 UPDATE locales_gossip_menu_option SET option_text_loc9='I have lost my Band of Vaulted Secrets. Are you able to replace it for me?' WHERE menu_id=6928 AND id=1; -- option_text: I have lost my Band of Vaulted Secrets. Are you able to replace it for me?
 UPDATE locales_gossip_menu_option SET option_text_loc9='I have lost my Band of Veiled Shadows. Are you able to replace it for me?' WHERE menu_id=6928 AND id=2; -- option_text: I have lost my Band of Veiled Shadows. Are you able to replace it for me?
@@ -404,23 +217,9 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='I have lost my Signet of
 UPDATE locales_gossip_menu_option SET option_text_loc9='I have lost my Signet of Unyielding Strength. Are you able to replace it for me?' WHERE menu_id=6928 AND id=8; -- option_text: I have lost my Signet of Unyielding Strength. Are you able to replace it for me?
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=6954 AND id=1; -- option_text: Here, I\'d like to give you this token of my love.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=6957 AND id=0; -- option_text: Here, I\'d like to give you this token of my love.
-UPDATE locales_gossip_menu_option SET option_text_loc9='Auction House' WHERE menu_id=6957 AND id=1; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc9='Deeprun Tram' WHERE menu_id=6957 AND id=3; -- option_text: Deeprun Tram
-UPDATE locales_gossip_menu_option SET option_text_loc9='Gryphon Master' WHERE menu_id=6957 AND id=5; -- option_text: Gryphon Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=6957 AND id=6; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=6957 AND id=8; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemaster' WHERE menu_id=6957 AND id=11; -- option_text: Battlemaster
 UPDATE locales_gossip_menu_option SET option_text_loc9='Lexicon of Power' WHERE menu_id=6957 AND id=13; -- option_text: Lexicon of Power
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=6957 AND id=15; -- option_text: Profession Trainer
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=6958 AND id=0; -- option_text: Here, I\'d like to give you this token of my love.
-UPDATE locales_gossip_menu_option SET option_text_loc9='Auction House' WHERE menu_id=6958 AND id=1; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc9='Deeprun Tram' WHERE menu_id=6958 AND id=3; -- option_text: Deeprun Tram
-UPDATE locales_gossip_menu_option SET option_text_loc9='Gryphon Master' WHERE menu_id=6958 AND id=5; -- option_text: Gryphon Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=6958 AND id=6; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=6958 AND id=8; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemaster' WHERE menu_id=6958 AND id=11; -- option_text: Battlemaster
 UPDATE locales_gossip_menu_option SET option_text_loc9='Lexicon of Power' WHERE menu_id=6958 AND id=13; -- option_text: Lexicon of Power
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=6958 AND id=15; -- option_text: Profession Trainer
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=6959 AND id=0; -- option_text: Here, I\'d like to give you this token of my love.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=6976 AND id=0; -- option_text: Here, I\'d like to give you this token of my love.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=6981 AND id=0; -- option_text: Here, I\'d like to give you this token of my love.
@@ -430,24 +229,11 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give 
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=6994 AND id=1; -- option_text: Here, I\'d like to give you this token of my love.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=6997 AND id=2; -- option_text: Here, I\'d like to give you this token of my love.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=6999 AND id=0; -- option_text: Here, I\'d like to give you this token of my love.
-UPDATE locales_gossip_menu_option SET option_text_loc9='Auction House' WHERE menu_id=6999 AND id=1; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hippogryph Master' WHERE menu_id=6999 AND id=3; -- option_text: Hippogryph Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=6999 AND id=4; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=6999 AND id=7; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemaster' WHERE menu_id=6999 AND id=9; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=6999 AND id=11; -- option_text: Profession Trainer
 UPDATE locales_gossip_menu_option SET option_text_loc9='Lexicon of Power' WHERE menu_id=6999 AND id=12; -- option_text: Lexicon of Power
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=7000 AND id=0; -- option_text: Here, I\'d like to give you this token of my love.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=7002 AND id=0; -- option_text: Here, I\'d like to give you this token of my love.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=7003 AND id=2; -- option_text: Here, I\'d like to give you this token of my love.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Here, I\'d like to give you this token of my love.' WHERE menu_id=7035 AND id=0; -- option_text: Here, I\'d like to give you this token of my love.
-UPDATE locales_gossip_menu_option SET option_text_loc9='Auction House' WHERE menu_id=7035 AND id=1; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc9='Deeprun Tram' WHERE menu_id=7035 AND id=3; -- option_text: Deeprun Tram
-UPDATE locales_gossip_menu_option SET option_text_loc9='Gryphon Master' WHERE menu_id=7035 AND id=4; -- option_text: Gryphon Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=7035 AND id=5; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=7035 AND id=8; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemaster' WHERE menu_id=7035 AND id=10; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=7035 AND id=13; -- option_text: Profession Trainer
 UPDATE locales_gossip_menu_option SET option_text_loc9='Lexicon of Power' WHERE menu_id=7035 AND id=14; -- option_text: Lexicon of Power
 UPDATE locales_gossip_menu_option SET option_text_loc9='Let\'s see what you have.' WHERE menu_id=7047 AND id=0; -- option_text: Let\'s see what you have.
 UPDATE locales_gossip_menu_option SET option_text_loc9='You\'re selling cologne and perfume?' WHERE menu_id=7049 AND id=0; -- option_text: You\'re selling cologne and perfume?
@@ -534,12 +320,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Let\'s finish this!' WHE
 UPDATE locales_gossip_menu_option SET option_text_loc9='Lord-Commander, would you repeat what you said before?' WHERE menu_id=9811 AND id=1; -- option_text: Lord-Commander, would you repeat what you said before?
 UPDATE locales_gossip_menu_option SET option_text_loc9='That\'s quite a tale, lord-commander.' WHERE menu_id=9812 AND id=0; -- option_text: That\'s quite a tale, lord-commander.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Lord-Commander, would you repeat what you said before?' WHERE menu_id=9812 AND id=1; -- option_text: Lord-Commander, would you repeat what you said before?
-UPDATE locales_gossip_menu_option SET option_text_loc9='Auction House' WHERE menu_id=10265 AND id=0; -- option_text: Auction House
-UPDATE locales_gossip_menu_option SET option_text_loc9='Hippogryph Master' WHERE menu_id=10265 AND id=2; -- option_text: Hippogryph Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Guild Master' WHERE menu_id=10265 AND id=3; -- option_text: Guild Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Stable Master' WHERE menu_id=10265 AND id=6; -- option_text: Stable Master
-UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemaster' WHERE menu_id=10265 AND id=8; -- option_text: Battlemaster
-UPDATE locales_gossip_menu_option SET option_text_loc9='Profession Trainer' WHERE menu_id=10265 AND id=10; -- option_text: Profession Trainer
 UPDATE locales_gossip_menu_option SET option_text_loc9='The Eye led me here, Eris.' WHERE menu_id=14000 AND id=1; -- option_text: The Eye led me here, Eris.
 UPDATE locales_gossip_menu_option SET option_text_loc9='And I was suited to see this?' WHERE menu_id=14001 AND id=1; -- option_text: And I was suited to see this?
 UPDATE locales_gossip_menu_option SET option_text_loc9='I really did not know what to expect, Eris. I will use my powers to assist you if that is what is asked of me.' WHERE menu_id=14002 AND id=1; -- option_text: I really did not know what to expect, Eris. I will use my powers to assist you if that is what is asked of me.

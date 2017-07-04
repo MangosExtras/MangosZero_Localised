@@ -613,7 +613,7 @@ UPDATE locales_gameobject SET name_loc5='貿易區' WHERE entry=2191; -- name: T
 UPDATE locales_gameobject SET name_loc5='破損的救生艇' WHERE entry=2289; -- name: Ruined Lifeboat
 UPDATE locales_gameobject SET name_loc5='燒烤禿鷲翅膀' WHERE entry=2332; -- name: Barbequed Buzzard Wings
 UPDATE locales_gameobject SET name_loc5='荊棘谷葡萄酒' WHERE entry=2333; -- name: Stranglevine Wine
-UPDATE locales_gameobject SET name_loc5='篝火' WHERE entry=2334; -- name: campfire
+UPDATE locales_gameobject SET name_loc5='篝火' WHERE entry=2334; -- name: Campfire
 UPDATE locales_gameobject SET name_loc5='營火' WHERE entry=2335; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc5='篝火' WHERE entry=2336; -- name: Campfire
 UPDATE locales_gameobject SET name_loc5='獵頭者之顱' WHERE entry=2371; -- name: Headhunter Skull
@@ -1532,7 +1532,7 @@ UPDATE locales_gameobject SET name_loc5='石槌' WHERE entry=21084; -- name: Sto
 UPDATE locales_gameobject SET name_loc5='貧瘠之地' WHERE entry=21085; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc5='蕨牆村' WHERE entry=21086; -- name: Brackenwall Village
 UPDATE locales_gameobject SET name_loc5='石槌' WHERE entry=21087; -- name: Stonemaul
-UPDATE locales_gameobject SET name_loc5='當心!' WHERE entry=21088; -- name: BEWARE!
+UPDATE locales_gameobject SET name_loc5='當心!' WHERE entry=21088; -- name: Beware!
 UPDATE locales_gameobject SET name_loc5='前方就是黑龍谷' WHERE entry=21089; -- name: You are entering the Dragonmurk
 UPDATE locales_gameobject SET name_loc5='結界' WHERE entry=21099; -- name: ward
 UPDATE locales_gameobject SET name_loc5='到阿庫麥爾的傳送門' WHERE entry=21117; -- name: Portal of Aku\'Mai
@@ -1542,7 +1542,7 @@ UPDATE locales_gameobject SET name_loc5='阿庫麥爾之火' WHERE entry=21120; 
 UPDATE locales_gameobject SET name_loc5='阿庫麥爾之火' WHERE entry=21121; -- name: Fire of Aku\'mai
 UPDATE locales_gameobject SET name_loc5='篝火' WHERE entry=21127; -- name: Campfire
 UPDATE locales_gameobject SET name_loc5='獸人間諜報告' WHERE entry=21128; -- name: Orc Spy Report
-UPDATE locales_gameobject SET name_loc5='開孔的木箱' WHERE entry=21277; -- name: Crate with Holes
+UPDATE locales_gameobject SET name_loc5='開孔的木箱' WHERE entry=21277; -- name: Crate With Holes
 UPDATE locales_gameobject SET name_loc5='篝火' WHERE entry=21282; -- name: Campfire
 UPDATE locales_gameobject SET name_loc5='篝火' WHERE entry=21308; -- name: Campfire
 UPDATE locales_gameobject SET name_loc5='篝火' WHERE entry=21327; -- name: Campfire
@@ -2992,7 +2992,7 @@ UPDATE locales_gameobject SET name_loc5='鍊金師' WHERE entry=58613; -- name: 
 UPDATE locales_gameobject SET name_loc5='附魔' WHERE entry=58614; -- name: Enchantment
 UPDATE locales_gameobject SET name_loc5='草藥師' WHERE entry=58615; -- name: Herbalist
 UPDATE locales_gameobject SET name_loc5='武器商人' WHERE entry=58616; -- name: Weapons Merchants
-UPDATE locales_gameobject SET name_loc5='鐵匠舖' WHERE entry=58617; -- name: Blacksmith
+UPDATE locales_gameobject SET name_loc5='鐵匠舖' WHERE entry=58617; -- name: blacksmith
 UPDATE locales_gameobject SET name_loc5='弓箭商人' WHERE entry=58618; -- name: Bow Merchant
 UPDATE locales_gameobject SET name_loc5='槍械商' WHERE entry=58619; -- name: Gunsmith
 UPDATE locales_gameobject SET name_loc5='採礦和珠寶設計' WHERE entry=58620; -- name: Mining
@@ -3962,7 +3962,6 @@ UPDATE locales_gameobject SET name_loc5='傳送器' WHERE entry=142175; -- name:
 UPDATE locales_gameobject SET name_loc5='傳送器' WHERE entry=142176; -- name: Transpolyporter
 UPDATE locales_gameobject SET name_loc5='索蘭薩爾瞭望台' WHERE entry=142179; -- name: Solarsal Gazebo
 UPDATE locales_gameobject SET name_loc5='被偷走的貨物' WHERE entry=142181; -- name: Stolen Cargo
-UPDATE locales_gameobject SET name_loc5='船長的箱子' WHERE entry=142184; -- name: Captain\'s Chest
 UPDATE locales_gameobject SET name_loc5='拜爾坦之焰' WHERE entry=142185; -- name: Flame of Byltan
 UPDATE locales_gameobject SET name_loc5='萊哈薩之焰' WHERE entry=142186; -- name: Flame of Lahassa
 UPDATE locales_gameobject SET name_loc5='伊姆貝爾之焰' WHERE entry=142187; -- name: Flame of Imbel
@@ -4863,7 +4862,7 @@ UPDATE locales_gameobject SET name_loc5='東部水晶塔' WHERE entry=164957; --
 UPDATE locales_gameobject SET name_loc5='血瓣花苗' WHERE entry=164958; -- name: Bloodpetal Sprout
 UPDATE locales_gameobject SET name_loc5='少女之愛號 - 駛往藏寶海灣的往返航班' WHERE entry=165549; -- name: Maiden\'s Fancy - Round trips to Booty Bay
 UPDATE locales_gameobject SET name_loc5='山脈之心' WHERE entry=165554; -- name: Heart of the Mountain
-UPDATE locales_gameobject SET name_loc5='飛艇降落點' WHERE entry=165558; -- name: Zeppelin Landing 
+UPDATE locales_gameobject SET name_loc5='飛艇降落點' WHERE entry=165558; -- name: Zeppelin Landing
 UPDATE locales_gameobject SET name_loc5='莫爾金' WHERE entry=165559; -- name: Muigin\'s Sprout
 UPDATE locales_gameobject SET name_loc5='黑鐵麥芽酒陷阱' WHERE entry=165578; -- name: Dark Iron Ale TRAP
 UPDATE locales_gameobject SET name_loc5='火焰' WHERE entry=165587; -- name: Fire
@@ -6864,7 +6863,7 @@ UPDATE locales_gameobject SET name_loc5='石砧' WHERE entry=176894; -- name: St
 UPDATE locales_gameobject SET name_loc5='熔爐' WHERE entry=176895; -- name: Forge
 UPDATE locales_gameobject SET name_loc5='營火' WHERE entry=176896; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc5='烹飪用火' WHERE entry=176897; -- name: Cooking Fire
-UPDATE locales_gameobject SET name_loc5='火坑' WHERE entry=176898; -- name: Fire pit
+UPDATE locales_gameobject SET name_loc5='火坑' WHERE entry=176898; -- name: Fire Pit
 UPDATE locales_gameobject SET name_loc5='大鍋' WHERE entry=176899; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc5='Doodad_PortcullisActive02' WHERE entry=176901; -- name: Doodad_PortcullisActive02
 UPDATE locales_gameobject SET name_loc5='篝火' WHERE entry=176904; -- name: Campfire
@@ -8030,7 +8029,7 @@ UPDATE locales_gameobject SET name_loc5='火盆' WHERE entry=180477; -- name: Br
 UPDATE locales_gameobject SET name_loc5='火盆' WHERE entry=180478; -- name: Brazier
 UPDATE locales_gameobject SET name_loc5='火盆' WHERE entry=180479; -- name: Brazier
 UPDATE locales_gameobject SET name_loc5='火盆' WHERE entry=180480; -- name: Brazier
-UPDATE locales_gameobject SET name_loc5='力場' WHERE entry=180497; -- name: Forcefield
+UPDATE locales_gameobject SET name_loc5='力場' WHERE entry=180497; -- name: forcefield
 UPDATE locales_gameobject SET name_loc5='暮光石碑碎片' WHERE entry=180501; -- name: Twilight Tablet Fragment
 UPDATE locales_gameobject SET name_loc5='風石' WHERE entry=180502; -- name: Wind Stone
 UPDATE locales_gameobject SET name_loc5='滿布沙塵的烹飪書' WHERE entry=180503; -- name: Sandy Cookbook
@@ -9818,7 +9817,7 @@ UPDATE locales_gameobject SET name_loc5='受詛咒的蛋' WHERE entry=185210; --
 UPDATE locales_gameobject SET name_loc5='受詛咒的蛋' WHERE entry=185211; -- name: Cursed Egg
 UPDATE locales_gameobject SET name_loc5='紫色火源信號' WHERE entry=185218; -- name: Violet Signal Fire
 UPDATE locales_gameobject SET name_loc5='泰洛卡森林 - 被遺棄的商隊 - 任務 - 開啟的箱子' WHERE entry=185221; -- name: Terokkar Forest - Derelict Caravan - Quest - Chest Opened
-UPDATE locales_gameobject SET name_loc5='來自部落的挑戰' WHERE entry=185222; -- name: Challenge From the Horde
+UPDATE locales_gameobject SET name_loc5='來自部落的挑戰' WHERE entry=185222; -- name: Challenge from the Horde
 UPDATE locales_gameobject SET name_loc5='卡巴寶箱' WHERE entry=185224; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc5='卡巴寶箱' WHERE entry=185225; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc5='卡巴寶箱' WHERE entry=185226; -- name: Cabal Chest

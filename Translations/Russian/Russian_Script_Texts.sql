@@ -4,6 +4,7 @@ UPDATE script_texts SET content_loc8='%s впадает в исступлени�
 UPDATE script_texts SET content_loc8='% становится злым!' WHERE entry=-1000003; -- content: %s becomes enraged!
 UPDATE script_texts SET content_loc8='%s впадает в исступление!' WHERE entry=-1000005; -- content: %s goes into a frenzy!
 UPDATE script_texts SET content_loc8='% становится злым!' WHERE entry=-1000006; -- content: %s becomes enraged!
+UPDATE script_texts SET content_loc8='НА ПОМОЩЬ!' WHERE entry=-1000105; -- content: Help!
 UPDATE script_texts SET content_loc8='Пойдем' WHERE entry=-1000140; -- content: Let\'s go.
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1000156; -- content: REUSE ME
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1000207; -- content: REUSE ME
@@ -15,8 +16,10 @@ UPDATE script_texts SET content_loc8='Молчать, слуга! Я отомщ�
 UPDATE script_texts SET content_loc8='Ощути мощь Дворфов Темного Железа!' WHERE entry=-1000572; -- content: Feel the power of the Dark Iron Dwarves!
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1000579; -- content: REUSE ME
 UPDATE script_texts SET content_loc8='Фу, гадость!' WHERE entry=-1000593; -- content: Gross!
+UPDATE script_texts SET content_loc8='Счастливо.' WHERE entry=-1000735; -- content: Farewell.
 UPDATE script_texts SET content_loc8='%s смеется.' WHERE entry=-1000854; -- content: %s laughs.
 UPDATE script_texts SET content_loc8='%s смеется.' WHERE entry=-1000881; -- content: %s laughs.
+UPDATE script_texts SET content_loc8='За Орду!' WHERE entry=-1000895; -- content: For the Horde!
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1000898; -- content: REUSE ME
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1000899; -- content: REUSE ME
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1000900; -- content: REUSE ME
@@ -24,7 +27,10 @@ UPDATE script_texts SET content_loc8='Используй меня повторн
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1000902; -- content: REUSE ME
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1000903; -- content: REUSE ME
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1000904; -- content: REUSE ME
+UPDATE script_texts SET content_loc8='НА ПОМОЩЬ!' WHERE entry=-1043018; -- content: Help!
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1070000; -- content: REUSE ME
+UPDATE script_texts SET content_loc8='Огонь в скважине!' WHERE entry=-1090012; -- content: FIRE IN THE HOLE!
+UPDATE script_texts SET content_loc8='Огонь в скважине!' WHERE entry=-1090021; -- content: FIRE IN THE HOLE!
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1129000; -- content: REUSE ME
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1129001; -- content: REUSE ME
 UPDATE script_texts SET content_loc8='Используй меня повторно' WHERE entry=-1129002; -- content: REUSE ME

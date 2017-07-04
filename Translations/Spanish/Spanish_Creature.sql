@@ -3426,7 +3426,6 @@ UPDATE locales_creature SET name_loc6='[Deprecated for 4.x]Daisy',subname_loc6='
 UPDATE locales_creature SET name_loc6='Willix el Importador' WHERE entry=4508; -- name: Willix the Importer
 UPDATE locales_creature SET name_loc6='Sargath' WHERE entry=4509; -- name: Sargath
 UPDATE locales_creature SET name_loc6='Heralath Arroyobarbecho' WHERE entry=4510; -- name: Heralath Fallowbrook
-UPDATE locales_creature SET name_loc6='Agam\'ar' WHERE entry=4511; -- name: Agam'ar
 UPDATE locales_creature SET name_loc6='Agam\'ar en podredumbre' WHERE entry=4512; -- name: Rotting Agam\'ar
 UPDATE locales_creature SET name_loc6='Agam\'ar enfurecido' WHERE entry=4514; -- name: Raging Agam\'ar
 UPDATE locales_creature SET name_loc6='Acólito Caramuerte' WHERE entry=4515; -- name: Death\'s Head Acolyte
@@ -4453,11 +4452,11 @@ UPDATE locales_creature SET name_loc6='Can manáfago' WHERE entry=6010; -- name:
 UPDATE locales_creature SET name_loc6='Avizor guardia vil' WHERE entry=6011; -- name: Felguard Sentry
 UPDATE locales_creature SET name_loc6='zzOLDTótem Lengua de Fuego II' WHERE entry=6012; -- name: Flametongue Totem II
 UPDATE locales_creature SET name_loc6='Águila ratonera Guardapaso' WHERE entry=6013; -- name: Wayward Buzzard
-UPDATE locales_creature SET name_loc6='X\'yera',subname_loc6='Instructor de sacerdotes' WHERE entry=6014; -- name: X'yera -- subname: Priest Trainer
+UPDATE locales_creature SET name_loc6='X\'yera',subname_loc6='Instructor de sacerdotes' WHERE entry=6014; -- name: X\'yera -- subname: Priest Trainer
 UPDATE locales_creature SET name_loc6='Thorta' WHERE entry=6015; -- name: Torta
 UPDATE locales_creature SET name_loc6='Tótem de protección elemental' WHERE entry=6016; -- name: Elemental Protection Totem
 UPDATE locales_creature SET name_loc6='Tótem emanador de lava' WHERE entry=6017; -- name: Lava Spout Totem
-UPDATE locales_creature SET name_loc6='Ur\'kyo',subname_loc6='Instructor de sacerdotes' WHERE entry=6018; -- name: Ur'kyo -- subname: Priest Trainer
+UPDATE locales_creature SET name_loc6='Ur\'kyo',subname_loc6='Instructor de sacerdotes' WHERE entry=6018; -- name: Ur\'kyo -- subname: Priest Trainer
 UPDATE locales_creature SET name_loc6='Hornizz Zumbala' WHERE entry=6019; -- name: Hornizz Brimbuzzle
 UPDATE locales_creature SET name_loc6='Valvababosa makrura' WHERE entry=6020; -- name: Slimeshell Makrura
 UPDATE locales_creature SET name_loc6='Espíritu de jabalí' WHERE entry=6021; -- name: Boar Spirit
@@ -4729,7 +4728,7 @@ UPDATE locales_creature SET name_loc6='Gnoarn' WHERE entry=6569; -- name: Gnoarn
 UPDATE locales_creature SET name_loc6='Fenwick Thatros' WHERE entry=6570; -- name: Fenwick Thatros
 UPDATE locales_creature SET name_loc6='Forma felina (elfo de la noche druida)' WHERE entry=6571; -- name: Cat Form -- subname: Night Elf Druid
 UPDATE locales_creature SET name_loc6='Forma felina (tauren druida)' WHERE entry=6572; -- name: Cat Form -- subname: Tauren Druid
-UPDATE locales_creature SET name_loc6='Forma de viaje (Druida)' WHERE entry=6573; -- name: Travel Form -- subname: Druid
+UPDATE locales_creature SET name_loc6='Forma de viaje (Druida)',subname_loc6='Druida' WHERE entry=6573; -- name: Travel Form -- subname: Druid
 UPDATE locales_creature SET name_loc6='Jun\'ha',subname_loc6='Suministros de sastrería' WHERE entry=6574; -- name: Jun\'ha -- subname: Tailoring Supplies
 UPDATE locales_creature SET name_loc6='Practicante Escarlata' WHERE entry=6575; -- name: Scarlet Trainee
 UPDATE locales_creature SET name_loc6='[Deprecated for 4.x]Brienna Brillastrella',subname_loc6='Suministros de sastrería' WHERE entry=6576; -- name: Brienna Starglow -- subname: Tailoring Supplies
@@ -6294,7 +6293,7 @@ UPDATE locales_creature SET name_loc6='[Deprecated for 4.x]Kanati Nube Gris' WHE
 UPDATE locales_creature SET name_loc6='Rorgish Jowl' WHERE entry=10639; -- name: Rorgish Jowl
 UPDATE locales_creature SET name_loc6='Pataroble' WHERE entry=10640; -- name: Oakpaw
 UPDATE locales_creature SET name_loc6='Quebrarramas' WHERE entry=10641; -- name: Branch Snapper
-UPDATE locales_creature SET name_loc6='Eck\'alom' WHERE entry=10642; -- name: Eck'alom
+UPDATE locales_creature SET name_loc6='Eck\'alom' WHERE entry=10642; -- name: Eck\'alom
 UPDATE locales_creature SET name_loc6='Aletereje' WHERE entry=10643; -- name: Mugglefin
 UPDATE locales_creature SET name_loc6='Aullanieblas' WHERE entry=10644; -- name: Mist Howler
 UPDATE locales_creature SET name_loc6='[Deprecated for 4.x]Thalia Ocultaámbar' WHERE entry=10645; -- name: Thalia Amberhide
@@ -6351,7 +6350,7 @@ UPDATE locales_creature SET name_loc6='Ardilla infectada' WHERE entry=10779; -- 
 UPDATE locales_creature SET name_loc6='Ciervo infectado' WHERE entry=10780; -- name: Infected Deer
 UPDATE locales_creature SET name_loc6='Sobrestante real Bauhaus',subname_loc6='Censo de Entrañas' WHERE entry=10781; -- name: Royal Overseer Bauhaus -- subname: Undercity Census
 UPDATE locales_creature SET name_loc6='Agente Real Bathrilor',subname_loc6='Censo de Ventormenta' WHERE entry=10782; -- name: Royal Factor Bathrilor -- subname: Stormwind Census
-UPDATE locales_creature SET name_loc6='Orbe de engaño (orco, hombre)' WHERE entry=10783; -- name: Orb of Deception -- subname: Orc Male
+UPDATE locales_creature SET name_loc6='Orbe de engaño',subname_loc6='orco, hombre' WHERE entry=10783; -- name: Orb of Deception -- subname: Orc Male
 UPDATE locales_creature SET name_loc6='Orbe de engaño (orco, mujer)' WHERE entry=10784; -- name: Orb of Deception -- subname: Orc Female
 UPDATE locales_creature SET name_loc6='Orbe de engaño (tauren, hombre)' WHERE entry=10785; -- name: Orb of Deception -- subname: Tauren Male
 UPDATE locales_creature SET name_loc6='Orbe de engaño (tauren, mujer)' WHERE entry=10786; -- name: Orb of Deception -- subname: Tauren Female
@@ -8774,7 +8773,6 @@ UPDATE locales_creature SET name_loc6='Loatheb' WHERE entry=16011; -- name: Loat
 UPDATE locales_creature SET name_loc6='Mokvar' WHERE entry=16012; -- name: Mokvar
 UPDATE locales_creature SET name_loc6='Deliana' WHERE entry=16013; -- name: Deliana
 UPDATE locales_creature SET name_loc6='Mux Cazamaná' WHERE entry=16014; -- name: Mux Manascrambler
-UPDATE locales_creature SET name_loc6='Vi\'el',subname_loc6='Mercader de componentes exóticos' WHERE entry=16015; -- name: Vi'el -- subname: Exotic Reagent Merchant
 UPDATE locales_creature SET name_loc6='Anthion Harmon' WHERE entry=16016; -- name: Anthion Harmon
 UPDATE locales_creature SET name_loc6='Gólem de retazos' WHERE entry=16017; -- name: Patchwork Golem
 UPDATE locales_creature SET name_loc6='Arcadano bílico' WHERE entry=16018; -- name: Bile Retcher

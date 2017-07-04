@@ -5417,7 +5417,7 @@ UPDATE locales_item SET name_loc2='Or de Cuergo' WHERE entry=9360; -- name: Cuer
 UPDATE locales_item SET name_loc2='Or de Cuergo avec un ver' WHERE entry=9361; -- name: Cuergo\'s Gold with Worm
 UPDATE locales_item SET name_loc2='Anneau d\'or brillant' WHERE entry=9362; -- name: Brilliant Gold Ring
 UPDATE locales_item SET name_loc2='Paquet-cadeau du Brille-o-Matic' WHERE entry=9363; -- name: Sparklematic-Wrapped Box
-UPDATE locales_item SET name_loc2='Flasque plombée lourde' WHERE entry=9364; -- name: Heavy Leaden Collection Phial -- description: Handle With Care
+UPDATE locales_item SET name_loc2='Flasque plombée lourde',description_loc2='À manipuler avec soin' WHERE entry=9364; -- name: Heavy Leaden Collection Phial -- description: Handle With Care
 UPDATE locales_item SET name_loc2='Matière radioactive à haut potentiel' WHERE entry=9365; -- name: High Potency Radioactive Fallout -- description: DANGER! DO NOT INGEST!
 UPDATE locales_item SET name_loc2='Gantelets en écailles dorées' WHERE entry=9366; -- name: Golden Scale Gauntlets
 UPDATE locales_item SET name_loc2='Plans : Gantelets en écailles dorées' WHERE entry=9367; -- name: Plans: Golden Scale Gauntlets -- description: Teaches you how to make Golden Scale Gauntlets.
@@ -10878,12 +10878,12 @@ UPDATE locales_item SET name_loc2='Insigne Foudrepique grade 2' WHERE entry=1790
 UPDATE locales_item SET name_loc2='Insigne Foudrepique grade 3' WHERE entry=17901; -- name: Stormpike Insignia Rank 3
 UPDATE locales_item SET name_loc2='Insigne Foudrepique grade 4' WHERE entry=17902; -- name: Stormpike Insignia Rank 4
 UPDATE locales_item SET name_loc2='Insigne Foudrepique grade 5' WHERE entry=17903; -- name: Stormpike Insignia Rank 5
-UPDATE locales_item SET name_loc2='Insigne Foudrepique grade 6' WHERE entry=17904; -- name: Stormpike Insignia Rank 6 -- description: The Eye of Command
+UPDATE locales_item SET name_loc2='Insigne Foudrepique grade 6',description_loc2='L\'Œil du commandement' WHERE entry=17904; -- name: Stormpike Insignia Rank 6 -- description: The Eye of Command
 UPDATE locales_item SET name_loc2='Insigne Loup-de-givre grade 2' WHERE entry=17905; -- name: Frostwolf Insignia Rank 2
 UPDATE locales_item SET name_loc2='Insigne Loup-de-givre grade 3' WHERE entry=17906; -- name: Frostwolf Insignia Rank 3
 UPDATE locales_item SET name_loc2='Insigne Loup-de-givre grade 4' WHERE entry=17907; -- name: Frostwolf Insignia Rank 4
 UPDATE locales_item SET name_loc2='Insigne Loup-de-givre grade 5' WHERE entry=17908; -- name: Frostwolf Insignia Rank 5
-UPDATE locales_item SET name_loc2='Insigne Loup-de-givre grade 6' WHERE entry=17909; -- name: Frostwolf Insignia Rank 6 -- description: The Eye of Command
+UPDATE locales_item SET name_loc2='Insigne Loup-de-givre grade 6',description_loc2='L\'Œil du commandement' WHERE entry=17909; -- name: Frostwolf Insignia Rank 6 -- description: The Eye of Command
 UPDATE locales_item SET name_loc2='Armure en fourrure de lion' WHERE entry=17922; -- name: Lionfur Armor
 UPDATE locales_item SET name_loc2='Poing de pierre' WHERE entry=17943; -- name: Fist of Stone
 UPDATE locales_item SET name_loc2='Sac de gemmes bleu' WHERE entry=17962; -- name: Blue Sack of Gems
@@ -12930,10 +12930,10 @@ UPDATE locales_item SET name_loc2='Sagerelle crue' WHERE entry=21071; -- name: R
 UPDATE locales_item SET name_loc2='Sagerelle fumée' WHERE entry=21072; -- name: Smoked Sagefish
 UPDATE locales_item SET name_loc2='Recette : Sagerelle fumée' WHERE entry=21099; -- name: Recipe: Smoked Sagefish -- description: Teaches you how to cook Smoked Sagefish.
 UPDATE locales_item SET name_loc2='Pièce des ancêtres' WHERE entry=21100; -- name: Coin of Ancestry -- description: A symbol of honor and respect for one\'s ancestry.
-UPDATE locales_item SET name_loc2='Le draconique pour les nuls' WHERE entry=21103; -- name: Draconic for Dummies -- description: Chapter I
-UPDATE locales_item SET name_loc2='Le draconique pour les nuls' WHERE entry=21104; -- name: Draconic for Dummies -- description: Chapter II
-UPDATE locales_item SET name_loc2='Le draconique pour les nuls' WHERE entry=21105; -- name: Draconic for Dummies -- description: Chapter III
-UPDATE locales_item SET name_loc2='Le draconique pour les nuls' WHERE entry=21106; -- name: Draconic for Dummies -- description: Chapter IV
+UPDATE locales_item SET name_loc2='Le draconique pour les nuls',description_loc2='Chapitre I' WHERE entry=21103; -- name: Draconic for Dummies -- description: Chapter I
+UPDATE locales_item SET name_loc2='Le draconique pour les nuls',description_loc2='Chapitre II' WHERE entry=21104; -- name: Draconic for Dummies -- description: Chapter II
+UPDATE locales_item SET name_loc2='Le draconique pour les nuls',description_loc2='Chapitre III' WHERE entry=21105; -- name: Draconic for Dummies -- description: Chapter III
+UPDATE locales_item SET name_loc2='Le draconique pour les nuls',description_loc2='Chapitre IV' WHERE entry=21106; -- name: Draconic for Dummies -- description: Chapter IV
 UPDATE locales_item SET name_loc2='Le draconique pour les nuls' WHERE entry=21107; -- name: Draconic for Dummies -- description: Chapter V
 UPDATE locales_item SET name_loc2='Le draconique pour les nuls' WHERE entry=21108; -- name: Draconic for Dummies -- description: Chapter VI
 UPDATE locales_item SET name_loc2='Le draconique pour les nuls' WHERE entry=21109; -- name: Draconic for Dummies -- description: Chapter VII
@@ -13002,21 +13002,21 @@ UPDATE locales_item SET name_loc2='Poing de Cénarius' WHERE entry=21188; -- nam
 UPDATE locales_item SET name_loc2='Puissance de Cénarius' WHERE entry=21189; -- name: Might of Cenarius
 UPDATE locales_item SET name_loc2='Courroux de Cénarius' WHERE entry=21190; -- name: Wrath of Cenarius
 UPDATE locales_item SET name_loc2='Cadeau soigneusement emballé' WHERE entry=21191; -- name: Carefully Wrapped Present
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21196; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Protector
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21197; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Protector
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21198; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Protector
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21199; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Protector
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21200; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Protector
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21201; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Conqueror
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21202; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Conqueror
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21203; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Conqueror
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21204; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Conqueror
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21205; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Conqueror
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21206; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Invoker
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21207; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Invoker
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21208; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Invoker
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21209; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Invoker
-UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze' WHERE entry=21210; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Invoker
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie du Protecteur' WHERE entry=21196; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Protector
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie du Protecteur' WHERE entry=21197; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Protector
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie du Protecteur' WHERE entry=21198; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Protector
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie du Protecteur' WHERE entry=21199; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Protector
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie du Protecteur' WHERE entry=21200; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Protector
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie du conquérant' WHERE entry=21201; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Conqueror
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie du conquérant' WHERE entry=21202; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Conqueror
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie du conquérant' WHERE entry=21203; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Conqueror
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie du conquérant' WHERE entry=21204; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Conqueror
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie du conquérant' WHERE entry=21205; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Conqueror
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie de l\'Invocateur' WHERE entry=21206; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Invoker
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie de l\'Invocateur' WHERE entry=21207; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Invoker
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie de l\'Invocateur' WHERE entry=21208; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Invoker
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie de l\'Invocateur' WHERE entry=21209; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Invoker
+UPDATE locales_item SET name_loc2='Chevalière du Vol de bronze',description_loc2='La voie de l\'Invocateur' WHERE entry=21210; -- name: Signet Ring of the Bronze Dragonflight -- description: The Path of the Invoker
 UPDATE locales_item SET name_loc2='Bourse de poudre de renne' WHERE entry=21211; -- name: Pouch of Reindeer Dust -- description: This strange dust should allow Metzen to be freed when sprinkled on him.
 UPDATE locales_item SET name_loc2='Houx frais' WHERE entry=21212; -- name: Fresh Holly
 UPDATE locales_item SET name_loc2='Houx préservé' WHERE entry=21213; -- name: Preserved Holly

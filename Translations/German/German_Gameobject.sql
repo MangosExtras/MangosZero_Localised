@@ -12,7 +12,7 @@ UPDATE locales_gameobject SET name_loc3='Gurubashis Untergang' WHERE entry=52; -
 UPDATE locales_gameobject SET name_loc3='Das Grabmal des Imperators' WHERE entry=54; -- name: The Emperor\'s Tomb
 UPDATE locales_gameobject SET name_loc3='Ein halb aufgefressener Körper' WHERE entry=55; -- name: A half-eaten body
 UPDATE locales_gameobject SET name_loc3='Rolfs Leichnam' WHERE entry=56; -- name: Rolf\'s corpse
-UPDATE locales_gameobject SET name_loc3='Schrifttafel der Blutskalpe' WHERE entry=57; -- name: Moon Over the Vale
+UPDATE locales_gameobject SET name_loc3='Schrifttafel der Blutskalpe' WHERE entry=57; -- name: Moon over the Vale
 UPDATE locales_gameobject SET name_loc3='Gri\'lek der Wanderer' WHERE entry=58; -- name: Gri\'lek the Wanderer
 UPDATE locales_gameobject SET name_loc3='GESUCHT: Gath\'Ilzogg' WHERE entry=60; -- name: Wanted: Gath\'Ilzogg
 UPDATE locales_gameobject SET name_loc3='Ein verwittertes Grab' WHERE entry=61; -- name: A Weathered Grave
@@ -65,6 +65,7 @@ UPDATE locales_gameobject SET name_loc3='Mondbruch' WHERE entry=124; -- name: Mo
 UPDATE locales_gameobject SET name_loc3='Calvinius\' Kiste' WHERE entry=167; -- name: Abercrombie\'s Crate
 UPDATE locales_gameobject SET name_loc3='Kiste mit Lebensmitteln' WHERE entry=249; -- name: Crate of Foodstuffs
 UPDATE locales_gameobject SET name_loc3='Forscherausrüstung' WHERE entry=251; -- name: Research Equipment
+UPDATE locales_gameobject SET name_loc3='GESUCHT: Chok\'sul' WHERE entry=254; -- name: Wanted: Chok\'Sul
 UPDATE locales_gameobject SET name_loc3='GESUCHT' WHERE entry=256; -- name: WANTED
 UPDATE locales_gameobject SET name_loc3='Verdächtiges Fass' WHERE entry=257; -- name: Suspicious Barrel
 UPDATE locales_gameobject SET name_loc3='Halb vergrabenes Fass' WHERE entry=259; -- name: Half-buried Barrel
@@ -485,6 +486,7 @@ UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=2003; -- name: 
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=2005; -- name: Campfire
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=2006; -- name: Campfire
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=2007; -- name: Campfire
+UPDATE locales_gameobject SET name_loc3='Gefährlich!' WHERE entry=2008; -- name: Dangerous!
 UPDATE locales_gameobject SET name_loc3='Amboss' WHERE entry=2010; -- name: Anvil
 UPDATE locales_gameobject SET name_loc3='Amboss' WHERE entry=2014; -- name: Anvil
 UPDATE locales_gameobject SET name_loc3='Schmiede' WHERE entry=2015; -- name: Forge
@@ -613,13 +615,13 @@ UPDATE locales_gameobject SET name_loc3='Der Handelsdistrikt' WHERE entry=2191; 
 UPDATE locales_gameobject SET name_loc3='Unbrauchbares Rettungsboot' WHERE entry=2289; -- name: Ruined Lifeboat
 UPDATE locales_gameobject SET name_loc3='Gegrillte Bussardflügel' WHERE entry=2332; -- name: Barbequed Buzzard Wings
 UPDATE locales_gameobject SET name_loc3='Würgerebenwein' WHERE entry=2333; -- name: Stranglevine Wine
-UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=2334; -- name: campfire
+UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=2334; -- name: Campfire
 UPDATE locales_gameobject SET name_loc3='Freudenfeuer' WHERE entry=2335; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=2336; -- name: Campfire
 UPDATE locales_gameobject SET name_loc3='Kopfjägerschädel' WHERE entry=2371; -- name: Headhunter Skull
 UPDATE locales_gameobject SET name_loc3='Holzstuhl' WHERE entry=2413; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc3='Herd' WHERE entry=2414; -- name: Need Name
-UPDATE locales_gameobject SET name_loc3='Hoher Lehnstuhl' WHERE entry=2489; -- name: Chair
+UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=2489; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Gekochter Schädel' WHERE entry=2551; -- name: Boiled Skull
 UPDATE locales_gameobject SET name_loc3='Kesseldampf' WHERE entry=2552; -- name: Cauldron Steam
 UPDATE locales_gameobject SET name_loc3='Eine glitschige Rolle' WHERE entry=2553; -- name: A Soggy Scroll
@@ -731,6 +733,7 @@ UPDATE locales_gameobject SET name_loc3='Brunnen der Sturmbullen' WHERE entry=29
 UPDATE locales_gameobject SET name_loc3='Bernsteinkorn' WHERE entry=2912; -- name: Ambercorn
 UPDATE locales_gameobject SET name_loc3='Brunnen der Winterhufe' WHERE entry=2913; -- name: Winterhoof Water Well
 UPDATE locales_gameobject SET name_loc3='Stammesfeuer' WHERE entry=2914; -- name: Tribal Fire
+UPDATE locales_gameobject SET name_loc3='Siegel der Erde' WHERE entry=2933; -- name: Seal of the Earth
 UPDATE locales_gameobject SET name_loc3='Dorf der Bluthufe' WHERE entry=2968; -- name: Bloodhoof Village
 UPDATE locales_gameobject SET name_loc3='Donnerfels' WHERE entry=2969; -- name: Thunder Bluff
 UPDATE locales_gameobject SET name_loc3='Dorf der Bluthufe' WHERE entry=2970; -- name: Bloodhoof Village
@@ -1191,7 +1194,9 @@ UPDATE locales_gameobject SET name_loc3='Türhebel' WHERE entry=17156; -- name: 
 UPDATE locales_gameobject SET name_loc3='Türhebel' WHERE entry=17157; -- name: Door Lever
 UPDATE locales_gameobject SET name_loc3='Dröhnkiste 827' WHERE entry=17182; -- name: Buzzbox 827
 UPDATE locales_gameobject SET name_loc3='Dröhnkiste 411' WHERE entry=17183; -- name: Buzzbox 411
+UPDATE locales_gameobject SET name_loc3='Dröhnkiste 323' WHERE entry=17184; -- name: Buzzbox 323
 UPDATE locales_gameobject SET name_loc3='Dröhnkiste 525' WHERE entry=17185; -- name: Buzzbox 525
+UPDATE locales_gameobject SET name_loc3='Der Untergang von Ameth\'Aran' WHERE entry=17189; -- name: The Fall of Ameth\'Aran
 UPDATE locales_gameobject SET name_loc3='Schmiede' WHERE entry=17190; -- name: Forge
 UPDATE locales_gameobject SET name_loc3='Amboss' WHERE entry=17191; -- name: Anvil
 UPDATE locales_gameobject SET name_loc3='Holzstuhl' WHERE entry=17249; -- name: Wooden Chair
@@ -1335,7 +1340,7 @@ UPDATE locales_gameobject SET name_loc3='Desolace' WHERE entry=19566; -- name: D
 UPDATE locales_gameobject SET name_loc3='Der Steinkrallengipfel' WHERE entry=19567; -- name: Stonetalon Peak
 UPDATE locales_gameobject SET name_loc3='Das Brachland' WHERE entry=19568; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc3='Ende der Ländereien der Venture Co.' WHERE entry=19569; -- name: End of Venture Co. Lands
-UPDATE locales_gameobject SET name_loc3='GEFAHR!' WHERE entry=19570; -- name: DANGER!
+UPDATE locales_gameobject SET name_loc3='Gefahr!' WHERE entry=19570; -- name: DANGER!
 UPDATE locales_gameobject SET name_loc3='ZUTRITT VERBOTEN!' WHERE entry=19571; -- name: KEEP OUT!
 UPDATE locales_gameobject SET name_loc3='Desolace' WHERE entry=19572; -- name: Desolace
 UPDATE locales_gameobject SET name_loc3='Der Steinkrallengipfel' WHERE entry=19573; -- name: Stonetalon Peak
@@ -1402,7 +1407,7 @@ UPDATE locales_gameobject SET name_loc3='Fass mit Fools Starkbier' WHERE entry=1
 UPDATE locales_gameobject SET name_loc3='Schmiede' WHERE entry=19902; -- name: Forge
 UPDATE locales_gameobject SET name_loc3='Induriummineralader' WHERE entry=19903; -- name: Indurium Mineral Vein
 UPDATE locales_gameobject SET name_loc3='Mok\'Morokks Schnupftabak' WHERE entry=19904; -- name: Mok\'Morokk\'s Snuff
-UPDATE locales_gameobject SET name_loc3='Mok\'Morokks Grog' WHERE entry=19905; -- name: Mok'Morokk\'s Grog
+UPDATE locales_gameobject SET name_loc3='Mok\'Morokks Grog' WHERE entry=19905; -- name: Mok\'Morokk\'s Grog
 UPDATE locales_gameobject SET name_loc3='Mok\'Morokks Geldkassette' WHERE entry=19906; -- name: Mok\'Morokk\'s Strongbox
 UPDATE locales_gameobject SET name_loc3='Blauer Seelenedelstein' WHERE entry=20351; -- name: Blue Soulgem
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=20356; -- name: Campfire
@@ -1532,7 +1537,7 @@ UPDATE locales_gameobject SET name_loc3='Ruinen der Steinbrecher' WHERE entry=21
 UPDATE locales_gameobject SET name_loc3='Das Brachland' WHERE entry=21085; -- name: The Barrens
 UPDATE locales_gameobject SET name_loc3='Brackenwall' WHERE entry=21086; -- name: Brackenwall Village
 UPDATE locales_gameobject SET name_loc3='Ruinen der Steinbrecher' WHERE entry=21087; -- name: Stonemaul
-UPDATE locales_gameobject SET name_loc3='HÜTET EUCH!' WHERE entry=21088; -- name: BEWARE!
+UPDATE locales_gameobject SET name_loc3='HÜTET EUCH!' WHERE entry=21088; -- name: Beware!
 UPDATE locales_gameobject SET name_loc3='Ihr betretet das Drachendüster' WHERE entry=21089; -- name: You are entering the Dragonmurk
 UPDATE locales_gameobject SET name_loc3='Zauberschutz' WHERE entry=21099; -- name: ward
 UPDATE locales_gameobject SET name_loc3='Portal von Aku\'mai' WHERE entry=21117; -- name: Portal of Aku\'Mai
@@ -1542,7 +1547,7 @@ UPDATE locales_gameobject SET name_loc3='Feuer von Aku\'mai' WHERE entry=21120; 
 UPDATE locales_gameobject SET name_loc3='Feuer von Aku\'mai' WHERE entry=21121; -- name: Fire of Aku\'mai
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=21127; -- name: Campfire
 UPDATE locales_gameobject SET name_loc3='Orcspionagebericht' WHERE entry=21128; -- name: Orc Spy Report
-UPDATE locales_gameobject SET name_loc3='Kiste mit Löchern' WHERE entry=21277; -- name: Crate with Holes
+UPDATE locales_gameobject SET name_loc3='Kiste mit Löchern' WHERE entry=21277; -- name: Crate With Holes
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=21282; -- name: Campfire
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=21308; -- name: Campfire
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=21327; -- name: Campfire
@@ -2994,7 +2999,7 @@ UPDATE locales_gameobject SET name_loc3='Alchemist' WHERE entry=58613; -- name: 
 UPDATE locales_gameobject SET name_loc3='Verzauberung' WHERE entry=58614; -- name: Enchantment
 UPDATE locales_gameobject SET name_loc3='Kräuterkundiger' WHERE entry=58615; -- name: Herbalist
 UPDATE locales_gameobject SET name_loc3='Waffenhändler' WHERE entry=58616; -- name: Weapons Merchants
-UPDATE locales_gameobject SET name_loc3='Schmied' WHERE entry=58617; -- name: Blacksmith
+UPDATE locales_gameobject SET name_loc3='Schmied' WHERE entry=58617; -- name: blacksmith
 UPDATE locales_gameobject SET name_loc3='Bogenhändler' WHERE entry=58618; -- name: Bow Merchant
 UPDATE locales_gameobject SET name_loc3='Büchsenmacher' WHERE entry=58619; -- name: Gunsmith
 UPDATE locales_gameobject SET name_loc3='Bergbau & Juwelierskunst' WHERE entry=58620; -- name: Mining
@@ -3621,7 +3626,7 @@ UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=112201; -- name: Cha
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=112202; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=112204; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=112205; -- name: Chair
-UPDATE locales_gameobject SET name_loc3='Hoher Lehnstuhl' WHERE entry=112214; -- name: Chair
+UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=112214; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=112215; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=112216; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=112217; -- name: Chair
@@ -3964,7 +3969,6 @@ UPDATE locales_gameobject SET name_loc3='Transpolyporter' WHERE entry=142175; --
 UPDATE locales_gameobject SET name_loc3='Transpolyporter' WHERE entry=142176; -- name: Transpolyporter
 UPDATE locales_gameobject SET name_loc3='Pavillon von Solarsal' WHERE entry=142179; -- name: Solarsal Gazebo
 UPDATE locales_gameobject SET name_loc3='Gestohlene Fracht' WHERE entry=142181; -- name: Stolen Cargo
-UPDATE locales_gameobject SET name_loc3='Truhe des Kapitäns' WHERE entry=142184; -- name: Captain\'s Chest
 UPDATE locales_gameobject SET name_loc3='Flamme von Byltan' WHERE entry=142185; -- name: Flame of Byltan
 UPDATE locales_gameobject SET name_loc3='Flamme von Lahassa' WHERE entry=142186; -- name: Flame of Lahassa
 UPDATE locales_gameobject SET name_loc3='Flamme von Imbel' WHERE entry=142187; -- name: Flame of Imbel
@@ -4866,7 +4870,7 @@ UPDATE locales_gameobject SET name_loc3='Östlicher Kristallpylon' WHERE entry=1
 UPDATE locales_gameobject SET name_loc3='Blutblütensprössling' WHERE entry=164958; -- name: Bloodpetal Sprout
 UPDATE locales_gameobject SET name_loc3='Launische Minna - Rundreisen nach Beutebucht' WHERE entry=165549; -- name: Maiden\'s Fancy - Round trips to Booty Bay
 UPDATE locales_gameobject SET name_loc3='Herz des Berges' WHERE entry=165554; -- name: Heart of the Mountain
-UPDATE locales_gameobject SET name_loc3='Zeppelinlandeplatz' WHERE entry=165558; -- name: Zeppelin Landing 
+UPDATE locales_gameobject SET name_loc3='Zeppelinlandeplatz' WHERE entry=165558; -- name: Zeppelin Landing
 UPDATE locales_gameobject SET name_loc3='Muigins Schössling' WHERE entry=165559; -- name: Muigin\'s Sprout
 UPDATE locales_gameobject SET name_loc3='Dunkeleisenbier FALLE' WHERE entry=165578; -- name: Dark Iron Ale TRAP
 UPDATE locales_gameobject SET name_loc3='Feuer' WHERE entry=165587; -- name: Fire
@@ -5960,7 +5964,7 @@ UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=174942; -- name: Cha
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=174943; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=174944; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=174945; -- name: Chair
-UPDATE locales_gameobject SET name_loc3='Hoher Lehnstuhl' WHERE entry=174946; -- name: Chair
+UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=174946; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Brennende Glutspäne' WHERE entry=174953; -- name: Burning Embers
 UPDATE locales_gameobject SET name_loc3='Holzstuhl' WHERE entry=174954; -- name: Wooden Chair
 UPDATE locales_gameobject SET name_loc3='Holzstuhl' WHERE entry=174955; -- name: Wooden Chair
@@ -6107,6 +6111,7 @@ UPDATE locales_gameobject SET name_loc3='Mächtige Lohe' WHERE entry=175316; -- 
 UPDATE locales_gameobject SET name_loc3='Mächtige Lohe' WHERE entry=175317; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc3='Mächtige Lohe' WHERE entry=175318; -- name: Mighty Blaze
 UPDATE locales_gameobject SET name_loc3='Dunkelfeuerenklave' WHERE entry=175319; -- name: Darkfire Enclave
+UPDATE locales_gameobject SET name_loc3='GESUCHT: Gurgelbacke!' WHERE entry=175320; -- name: WANTED: Murkdeep!
 UPDATE locales_gameobject SET name_loc3='Ungeschmiedetes Siegel des Aufstiegs' WHERE entry=175321; -- name: Unforged Seal of Ascension
 UPDATE locales_gameobject SET name_loc3='Geschmiedetes Siegel des Aufstiegs' WHERE entry=175322; -- name: Forged Seal of Ascension
 UPDATE locales_gameobject SET name_loc3='Frosthagelsplitter' WHERE entry=175324; -- name: Frostmaul Shards
@@ -6203,7 +6208,7 @@ UPDATE locales_gameobject SET name_loc3='Doodad_DarkIronBrazier04' WHERE entry=1
 UPDATE locales_gameobject SET name_loc3='Doodad_DarkIronBrazier05' WHERE entry=175532; -- name: Doodad_DarkIronBrazier05
 UPDATE locales_gameobject SET name_loc3='Doodad_DarkIronBrazier06' WHERE entry=175533; -- name: Doodad_DarkIronBrazier06
 UPDATE locales_gameobject SET name_loc3='Ozzie unten' WHERE entry=175539; -- name: Ozzie Down
-UPDATE locales_gameobject SET name_loc3='Kugel und Kette' WHERE entry=175544; -- name: Ball and chain
+UPDATE locales_gameobject SET name_loc3='Kugel und Kette' WHERE entry=175544; -- name: Ball and Chain
 UPDATE locales_gameobject SET name_loc3='Fleischräucherofen' WHERE entry=175545; -- name: Meat Smoker
 UPDATE locales_gameobject SET name_loc3='Kohlenpfanne des Herolds' WHERE entry=175564; -- name: Brazier of the Herald
 UPDATE locales_gameobject SET name_loc3='Fremdartiges Ei' WHERE entry=175565; -- name: Alien Egg
@@ -6867,7 +6872,7 @@ UPDATE locales_gameobject SET name_loc3='Steinamboss' WHERE entry=176894; -- nam
 UPDATE locales_gameobject SET name_loc3='Schmiede' WHERE entry=176895; -- name: Forge
 UPDATE locales_gameobject SET name_loc3='Freudenfeuer' WHERE entry=176896; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc3='Kochstelle' WHERE entry=176897; -- name: Cooking Fire
-UPDATE locales_gameobject SET name_loc3='Feuergrube' WHERE entry=176898; -- name: Fire pit
+UPDATE locales_gameobject SET name_loc3='Feuergrube' WHERE entry=176898; -- name: Fire Pit
 UPDATE locales_gameobject SET name_loc3='Kessel' WHERE entry=176899; -- name: Cauldron
 UPDATE locales_gameobject SET name_loc3='Doodad_PortcullisActive02' WHERE entry=176901; -- name: Doodad_PortcullisActive02
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=176904; -- name: Campfire
@@ -7117,7 +7122,7 @@ UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=177324; -- name
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=177325; -- name: Campfire
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=177326; -- name: Campfire
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=177327; -- name: Campfire
-UPDATE locales_gameobject SET name_loc3='Hoher Lehnstuhl' WHERE entry=177364; -- name: Chair
+UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=177364; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Dämonenportal' WHERE entry=177365; -- name: Demon Portal
 UPDATE locales_gameobject SET name_loc3='Dämonenportal' WHERE entry=177366; -- name: Demon Portal
 UPDATE locales_gameobject SET name_loc3='Dämonenportal' WHERE entry=177367; -- name: Demon Portal
@@ -8033,7 +8038,7 @@ UPDATE locales_gameobject SET name_loc3='Kohlenpfanne' WHERE entry=180477; -- na
 UPDATE locales_gameobject SET name_loc3='Kohlenpfanne' WHERE entry=180478; -- name: Brazier
 UPDATE locales_gameobject SET name_loc3='Kohlenpfanne' WHERE entry=180479; -- name: Brazier
 UPDATE locales_gameobject SET name_loc3='Kohlenpfanne' WHERE entry=180480; -- name: Brazier
-UPDATE locales_gameobject SET name_loc3='Kraftfeld' WHERE entry=180497; -- name: Forcefield
+UPDATE locales_gameobject SET name_loc3='Kraftfeld' WHERE entry=180497; -- name: forcefield
 UPDATE locales_gameobject SET name_loc3='Zwielichtschrifttafelfragment' WHERE entry=180501; -- name: Twilight Tablet Fragment
 UPDATE locales_gameobject SET name_loc3='Kultistenfalle' WHERE entry=180502; -- name: Wind Stone
 UPDATE locales_gameobject SET name_loc3='Sandiges Kochbuch' WHERE entry=180503; -- name: Sandy Cookbook
@@ -9661,7 +9666,7 @@ UPDATE locales_gameobject SET name_loc3='Kugel und Kette' WHERE entry=184714; --
 UPDATE locales_gameobject SET name_loc3='Kesselrauch' WHERE entry=184717; -- name: Cauldron Smoke
 UPDATE locales_gameobject SET name_loc3='Lagerfeuer' WHERE entry=184724; -- name: Campfire
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=184732; -- name: Chair
-UPDATE locales_gameobject SET name_loc3='Hoher Lehnstuhl' WHERE entry=184733; -- name: Chair
+UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=184733; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=184734; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Stuhl' WHERE entry=184735; -- name: Chair
 UPDATE locales_gameobject SET name_loc3='Schrifttafel der Donnerfürsten' WHERE entry=184736; -- name: Thunderlord Clan Tablet
@@ -9821,7 +9826,7 @@ UPDATE locales_gameobject SET name_loc3='Verfluchtes Ei' WHERE entry=185210; -- 
 UPDATE locales_gameobject SET name_loc3='Verfluchtes Ei' WHERE entry=185211; -- name: Cursed Egg
 UPDATE locales_gameobject SET name_loc3='Amethystfeuer' WHERE entry=185218; -- name: Violet Signal Fire
 UPDATE locales_gameobject SET name_loc3='Terokkar Forest - Derelict Caravan - Quest - Chest Opened' WHERE entry=185221; -- name: Terokkar Forest - Derelict Caravan - Quest - Chest Opened
-UPDATE locales_gameobject SET name_loc3='Herausforderung der Horde' WHERE entry=185222; -- name: Challenge From the Horde
+UPDATE locales_gameobject SET name_loc3='Herausforderung der Horde' WHERE entry=185222; -- name: Challenge from the Horde
 UPDATE locales_gameobject SET name_loc3='Truhe der Kabale' WHERE entry=185224; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc3='Truhe der Kabale' WHERE entry=185225; -- name: Cabal Chest
 UPDATE locales_gameobject SET name_loc3='Truhe der Kabale' WHERE entry=185226; -- name: Cabal Chest

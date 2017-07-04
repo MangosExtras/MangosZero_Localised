@@ -6,13 +6,11 @@ UPDATE locales_creature SET subname_loc2='Night Elf Druid' WHERE entry=4253; -- 
 UPDATE locales_creature SET subname_loc2='Tauren Druid' WHERE entry=4261; -- subname: Tauren Druid
 UPDATE locales_creature SET subname_loc2='Night Elf Druid' WHERE entry=4408; -- subname: Night Elf Druid
 UPDATE locales_creature SET subname_loc2='Tauren Druid' WHERE entry=4410; -- subname: Tauren Druid
-UPDATE locales_creature SET name_loc2='Agamaggan\'s Silent Tear' WHERE entry=4511; -- name: Agamaggan\'s Silent Tear
 UPDATE locales_creature SET subname_loc2='Night Elf Druid' WHERE entry=6571; -- subname: Night Elf Druid
 UPDATE locales_creature SET subname_loc2='Tauren Druid' WHERE entry=6572; -- subname: Tauren Druid
 UPDATE locales_creature SET subname_loc2='Male' WHERE entry=7503; -- subname: Male
 UPDATE locales_creature SET subname_loc2='Female' WHERE entry=7504; -- subname: Female
 UPDATE locales_creature SET subname_loc2='Spell Visual' WHERE entry=10579; -- subname: Spell Visual
-UPDATE locales_creature SET subname_loc2='Orc Male' WHERE entry=10783; -- subname: Orc Male
 UPDATE locales_creature SET subname_loc2='Orc Female' WHERE entry=10784; -- subname: Orc Female
 UPDATE locales_creature SET subname_loc2='Tauren Male' WHERE entry=10785; -- subname: Tauren Male
 UPDATE locales_creature SET subname_loc2='Tauren Female' WHERE entry=10786; -- subname: Tauren Female
