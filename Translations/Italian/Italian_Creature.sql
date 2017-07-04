@@ -111,22 +111,22 @@ UPDATE locales_creature SET name_loc9='Roberto Pupellyverbos',subname_loc9='Espe
 UPDATE locales_creature SET name_loc9='Sara Timberlain' WHERE entry=278; -- name: Sara Timberlain
 UPDATE locales_creature SET name_loc9='Morgan Pestle' WHERE entry=279; -- name: Morgan Pestle
 UPDATE locales_creature SET name_loc9='Cavallo Marrone' WHERE entry=284; -- name: Brown Horse
-UPDATE locales_creature SET name_loc9='Murloc' WHERE entry=285; -- name: Murloc - Keep original name
-UPDATE locales_creature SET name_loc9='Jitters' WHERE entry=288; -- name: Jitters - Keep original name
+UPDATE locales_creature SET name_loc9='Murloc' WHERE entry=285; -- name: Murloc
+UPDATE locales_creature SET name_loc9='Jitters' WHERE entry=288; -- name: Jitters
 UPDATE locales_creature SET name_loc9='Abercrombie',subname_loc9='L\'eremita' WHERE entry=289; -- name: Abercrombie -- subname: The Hermit
 UPDATE locales_creature SET name_loc9='Maresciallo Haggard' WHERE entry=294; -- name: Marshal Haggard
 UPDATE locales_creature SET name_loc9='Locandiere Farley',subname_loc9='Locandiere' WHERE entry=295; -- name: Innkeeper Farley -- subname: Innkeeper
 UPDATE locales_creature SET name_loc9='Caretaker Folsom' WHERE entry=297; -- name: Caretaker Folsom
 UPDATE locales_creature SET name_loc9='Cucciolo di Lupo' WHERE entry=299; -- name: Young Wolf
-UPDATE locales_creature SET name_loc9='Zzarc\' Vul' WHERE entry=300; -- name: Zzarc' Vul - Keep original name
-UPDATE locales_creature SET name_loc9='Blind Mary' WHERE entry=302; -- name: Blind Mary - Keep original name
-UPDATE locales_creature SET name_loc9='Felsteed' WHERE entry=304; -- name: Felsteed - Keep original name
+UPDATE locales_creature SET name_loc9='Zzarc\' Vul' WHERE entry=300; -- name: Zzarc\' Vul
+UPDATE locales_creature SET name_loc9='Blind Mary' WHERE entry=302; -- name: Blind Mary
+UPDATE locales_creature SET name_loc9='Felsteed' WHERE entry=304; -- name: Felsteed
 UPDATE locales_creature SET name_loc9='Cavalcare (Stallone Bianco)' WHERE entry=305; -- name: Riding Horse (White Stallion)
 UPDATE locales_creature SET name_loc9='Cavalcare (Palomino)' WHERE entry=306; -- name: Riding Horse (Palomino)
-UPDATE locales_creature SET name_loc9='Pinto' WHERE entry=307; -- name: Pinto - Keep original name
+UPDATE locales_creature SET name_loc9='Pinto' WHERE entry=307; -- name: Pinto
 UPDATE locales_creature SET name_loc9='Stallone Nero' WHERE entry=308; -- name: Black Stallion
-UPDATE locales_creature SET name_loc9='Sven Yorgen' WHERE entry=311; -- name: Sven Yorgen - Keep original name
-UPDATE locales_creature SET name_loc9='Theocritus',subname_loc9='Mago della Torre di Azora' WHERE entry=313; -- name: Theocritus -- subname: Mage of Tower Azora - Keep original name
+UPDATE locales_creature SET name_loc9='Sven Yorgen' WHERE entry=311; -- name: Sven Yorgen
+UPDATE locales_creature SET name_loc9='Theocritus',subname_loc9='Mago della Torre di Azora' WHERE entry=313; -- name: Theocritus -- subname: Mage of Tower Azora
 UPDATE locales_creature SET name_loc9='Eliza',subname_loc9='Sposa dell\'Imbalsamatore' WHERE entry=314; -- name: Eliza -- subname: Bride of the Embalmer
 UPDATE locales_creature SET name_loc9='Stalvan Mistmantle' WHERE entry=315; -- name: Stalvan Mistmantle
 UPDATE locales_creature SET name_loc9='Hogan Ference' WHERE entry=325; -- name: Hogan Ference
@@ -136,17 +136,18 @@ UPDATE locales_creature SET name_loc9='Elementale di Terra' WHERE entry=329; -- 
 UPDATE locales_creature SET name_loc9='Principessa' WHERE entry=330; -- name: Princess
 UPDATE locales_creature SET name_loc9='Maginor Dumas',subname_loc9='Maestro Mago' WHERE entry=331; -- name: Maginor Dumas -- subname: Master Mage
 UPDATE locales_creature SET name_loc9='Maestro Mathias Shaw',subname_loc9='Capo del SI:7' WHERE entry=332; -- name: Master Mathias Shaw -- subname: Leader of SI:7
-UPDATE locales_creature SET name_loc9='Gath\'Ilzogg',subname_loc9='Signore della Guerra del Blackrock Clan' WHERE entry=334; -- name: Gath'Ilzogg -- subname: Warlord of the Blackrock Clan - Keep original name
-UPDATE locales_creature SET name_loc9='Singe' WHERE entry=335; -- name: Singe - Keep original name
+UPDATE locales_creature SET name_loc9='Gath\'Ilzogg',subname_loc9='Signore della Guerra del Blackrock Clan' WHERE entry=334; -- name: Gath\'Ilzogg -- subname: Warlord of the Blackrock Clan
+UPDATE locales_creature SET name_loc9='Singe' WHERE entry=335; -- name: Singe
 UPDATE locales_creature SET name_loc9='Mazen Mac\'Nadir',subname_loc9='Academy of Arcane Arts and Sciences' WHERE entry=338; -- name: Mazen Mac\'Nadir -- subname: Academy of Arcane Arts and Sciences
-UPDATE locales_creature SET name_loc9='Kendor Kabonka',subname_loc9='Master of Cooking Recipes' WHERE entry=340; -- name: Kendor Kabonka -- subname: Master of Cooking Recipes - Keep original name
+UPDATE locales_creature SET name_loc9='Kendor Kabonka',subname_loc9='Master of Cooking Recipes' WHERE entry=340; -- name: Kendor Kabonka -- subname: Master of Cooking Recipes
 UPDATE locales_creature SET name_loc9='Caposquadra Oslow' WHERE entry=341; -- name: Foreman Oslow
-UPDATE locales_creature SET name_loc9='Martie Jainrose' WHERE entry=342; -- name: Martie Jainrose- Keep original name
-UPDATE locales_creature SET name_loc9='Chef Breanna' WHERE entry=343; -- name: Chef Breanna- Keep original name
+UPDATE locales_creature SET name_loc9='Martie Jainrose' WHERE entry=342; -- name: Martie Jainrose
+UPDATE locales_creature SET name_loc9='Chef Breanna' WHERE entry=343; -- name: Chef Breanna
 UPDATE locales_creature SET name_loc9='Magistrato Solomon' WHERE entry=344; -- name: Magistrate Solomon
-UPDATE locales_creature SET name_loc9='Bellygrub' WHERE entry=345; -- name: Bellygrub - Keep original name
-UPDATE locales_creature SET name_loc9='Barkeep Daniels' WHERE entry=346; -- name: Barkeep Daniels - Keep original name
+UPDATE locales_creature SET name_loc9='Bellygrub' WHERE entry=345; -- name: Bellygrub
+UPDATE locales_creature SET name_loc9='Barkeep Daniels' WHERE entry=346; -- name: Barkeep Daniels
 UPDATE locales_creature SET name_loc9='Lupo della Foresta' WHERE entry=358; -- name: Timber Wolf
+UPDATE locales_creature SET name_loc9='Briarthorn' WHERE entry=5172; -- name: Briarthorn -- subname: Warlock Trainer
 UPDATE locales_creature SET name_loc9='Stallone Nero' WHERE entry=5404; -- name: Black Stallion
 UPDATE locales_creature SET name_loc9='Pinto' WHERE entry=5405; -- name: Pinto
 UPDATE locales_creature SET name_loc9='Banco di Pesci' WHERE entry=6145; -- name: School of Fish
@@ -159,4 +160,5 @@ UPDATE locales_creature SET name_loc9='Risveglio di Merithra' WHERE entry=15427;
 UPDATE locales_creature SET name_loc9='Mucchio di Terra' WHERE entry=15712; -- name: Dirt Mound
 UPDATE locales_creature SET name_loc9='Necropoli' WHERE entry=16401; -- name: Necropolis
 UPDATE locales_creature SET name_loc9='Cristallo Necrotico Rotto' WHERE entry=16431; -- name: Cracked Necrotic Crystal
+
 SET NAMES 'latin1';

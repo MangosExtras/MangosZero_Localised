@@ -626,7 +626,7 @@ UPDATE locales_gameobject SET name_loc4='贸易区' WHERE entry=2191; -- name: T
 UPDATE locales_gameobject SET name_loc4='破损的救生艇' WHERE entry=2289; -- name: Ruined Lifeboat
 UPDATE locales_gameobject SET name_loc4='烧烤秃鹰翅膀' WHERE entry=2332; -- name: Barbequed Buzzard Wings
 UPDATE locales_gameobject SET name_loc4='荆棘谷葡萄酒' WHERE entry=2333; -- name: Stranglevine Wine
-UPDATE locales_gameobject SET name_loc4='营火' WHERE entry=2334; -- name: campfire
+UPDATE locales_gameobject SET name_loc4='营火' WHERE entry=2334; -- name: Campfire
 UPDATE locales_gameobject SET name_loc4='篝火' WHERE entry=2335; -- name: Bonfire
 UPDATE locales_gameobject SET name_loc4='营火' WHERE entry=2336; -- name: Campfire
 UPDATE locales_gameobject SET name_loc4='猎头者之颅' WHERE entry=2371; -- name: Headhunter Skull

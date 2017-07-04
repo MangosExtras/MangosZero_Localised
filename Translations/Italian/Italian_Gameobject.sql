@@ -3095,7 +3095,7 @@ UPDATE locales_gameobject SET name_loc9='Mercanti d\'Armi' WHERE entry=58616; --
 UPDATE locales_gameobject SET name_loc9='Fabbro' WHERE entry=58617; -- name: blacksmith
 UPDATE locales_gameobject SET name_loc9='Mercante d\'Archi' WHERE entry=58618; -- name: Bow Merchant
 UPDATE locales_gameobject SET name_loc9='Armaiolo' WHERE entry=58619; -- name: Gunsmith
-UPDATE locales_gameobject SET name_loc9='Mining' WHERE entry=58620; -- name: Mining
+UPDATE locales_gameobject SET name_loc9='Minatore' WHERE entry=58620; -- name: Mining
 UPDATE locales_gameobject SET name_loc9='Pugnali' WHERE entry=58621; -- name: Daggers
 UPDATE locales_gameobject SET name_loc9='Conciatore' WHERE entry=58622; -- name: Leather Work
 UPDATE locales_gameobject SET name_loc9='Primo Soccorso' WHERE entry=58623; -- name: First Aid
@@ -8280,9 +8280,9 @@ UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=180477; -- name: 
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=180478; -- name: Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=180479; -- name: Brazier
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=180480; -- name: Brazier
-UPDATE locales_gameobject SET name_loc9='Campo di Forza' WHERE entry=180497; -- name: Forcefield
+UPDATE locales_gameobject SET name_loc9='campo di forza' WHERE entry=180497; -- name: forcefield
 UPDATE locales_gameobject SET name_loc9='Frammento di Tavoletta Twilight' WHERE entry=180501; -- name: Twilight Tablet Fragment
-UPDATE locales_gameobject SET name_loc9='Pietra del vento' WHERE entry=180502; -- name: Wind Stone
+UPDATE locales_gameobject SET name_loc9='Pietra del Vento' WHERE entry=180502; -- name: Wind Stone
 UPDATE locales_gameobject SET name_loc9='Libro di Ricetta Insabbiato' WHERE entry=180503; -- name: Sandy Cookbook
 UPDATE locales_gameobject SET name_loc9='Pergamena Magica del Flagello' WHERE entry=180511; -- name: Scroll of Scourge Magic
 UPDATE locales_gameobject SET name_loc9='Prisma del Cristallo Glifico' WHERE entry=180514; -- name: Glyphed Crystal Prism

@@ -3962,7 +3962,6 @@ UPDATE locales_gameobject SET name_loc1='순간이동기' WHERE entry=142175; --
 UPDATE locales_gameobject SET name_loc1='순간이동기' WHERE entry=142176; -- name: Transpolyporter
 UPDATE locales_gameobject SET name_loc1='솔라살 전망대' WHERE entry=142179; -- name: Solarsal Gazebo
 UPDATE locales_gameobject SET name_loc1='도난당한 화물' WHERE entry=142181; -- name: Stolen Cargo
-UPDATE locales_gameobject SET name_loc1='선장의 상자' WHERE entry=142184; -- name: Captain\'s Chest
 UPDATE locales_gameobject SET name_loc1='빌탄의 불꽃' WHERE entry=142185; -- name: Flame of Byltan
 UPDATE locales_gameobject SET name_loc1='라하사의 불꽃' WHERE entry=142186; -- name: Flame of Lahassa
 UPDATE locales_gameobject SET name_loc1='임벨의 불꽃' WHERE entry=142187; -- name: Flame of Imbel

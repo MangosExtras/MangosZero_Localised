@@ -3428,7 +3428,6 @@ UPDATE locales_creature SET name_loc4='黛西',subname_loc4='赛车女郎' WHERE
 UPDATE locales_creature SET name_loc4='进口商威利克斯' WHERE entry=4508; -- name: Willix the Importer
 UPDATE locales_creature SET name_loc4='萨迦斯' WHERE entry=4509; -- name: Sargath
 UPDATE locales_creature SET name_loc4='赫尔拉斯·静水' WHERE entry=4510; -- name: Heralath Fallowbrook
-UPDATE locales_creature SET name_loc4='阿迦玛' WHERE entry=4511; -- name: Agam'ar
 UPDATE locales_creature SET name_loc4='腐烂的阿迦玛' WHERE entry=4512; -- name: Rotting Agam\'ar
 UPDATE locales_creature SET name_loc4='暴怒的阿迦玛' WHERE entry=4514; -- name: Raging Agam\'ar
 UPDATE locales_creature SET name_loc4='亡首侍僧' WHERE entry=4515; -- name: Death\'s Head Acolyte
@@ -8200,7 +8199,7 @@ UPDATE locales_creature SET name_loc4='弗兰卡·石桥' WHERE entry=15171; -- 
 UPDATE locales_creature SET name_loc4='格里布',subname_loc4='布莱恩·铜须的宠物猴' WHERE entry=15172; -- name: Glibb -- subname: Brann Bronzebeard\'s Pet Monkey
 UPDATE locales_creature SET name_loc4='卡兰德拉斯',subname_loc4='旅店老板' WHERE entry=15174; -- name: Calandrath -- subname: Innkeeper
 UPDATE locales_creature SET name_loc4='库尔·锐角',subname_loc4='材料商' WHERE entry=15175; -- name: Khur Hornstriker -- subname: Reagents
-UPDATE locales_creature SET name_loc4='瓦古斯',subname_loc4='铁匠' WHERE entry=15176; -- name: Vargus -- subname: Blacksmith
+UPDATE locales_creature SET name_loc4='瓦古斯',subname_loc4='铁匠' WHERE entry=15176; -- name: Vargus -- subname: blacksmith
 UPDATE locales_creature SET name_loc4='克劳德·天舞者',subname_loc4='角鹰兽管理员' WHERE entry=15177; -- name: Cloud Skydancer -- subname: Hippogryph Master
 UPDATE locales_creature SET name_loc4='鲁克·驯风者',subname_loc4='双足飞龙管理员' WHERE entry=15178; -- name: Runk Windtamer -- subname: Wind Rider Master
 UPDATE locales_creature SET name_loc4='米什塔',subname_loc4='商人' WHERE entry=15179; -- name: Mishta -- subname: Trade Supplies
@@ -8780,7 +8779,6 @@ UPDATE locales_creature SET name_loc4='洛欧塞布' WHERE entry=16011; -- name:
 UPDATE locales_creature SET name_loc4='莫克瓦尔' WHERE entry=16012; -- name: Mokvar
 UPDATE locales_creature SET name_loc4='德莉亚娜' WHERE entry=16013; -- name: Deliana
 UPDATE locales_creature SET name_loc4='穆克斯·玛纳斯卡波' WHERE entry=16014; -- name: Mux Manascrambler
-UPDATE locales_creature SET name_loc4='维尔',subname_loc4='特殊材料商人' WHERE entry=16015; -- name: Vi'el -- subname: Exotic Reagent Merchant
 UPDATE locales_creature SET name_loc4='安泰恩·哈尔蒙' WHERE entry=16016; -- name: Anthion Harmon
 UPDATE locales_creature SET name_loc4='缝补傀儡' WHERE entry=16017; -- name: Patchwork Golem
 UPDATE locales_creature SET name_loc4='胆汁呕吐者' WHERE entry=16018; -- name: Bile Retcher
@@ -9030,7 +9028,7 @@ UPDATE locales_creature SET name_loc4='仲夏之魂' WHERE entry=16701; -- name:
 UPDATE locales_creature SET name_loc4='莫格莱尼之魂',subname_loc4='灰烬使者' WHERE entry=16775; -- name: Spirit of Mograine -- subname: The Ashbringer
 UPDATE locales_creature SET name_loc4='布劳缪克丝之魂' WHERE entry=16776; -- name: Spirit of Blaumeux
 UPDATE locales_creature SET name_loc4='瑟里耶克之魂' WHERE entry=16777; -- name: Spirit of Zeliek
-UPDATE locales_creature SET name_loc4='库尔塔兹之魂' WHERE entry=16778; -- name: Spirit of Korth'azz
+UPDATE locales_creature SET name_loc4='库尔塔兹之魂' WHERE entry=16778; -- name: Spirit of Korth\'azz
 UPDATE locales_creature SET name_loc4='奶牛' WHERE entry=16779; -- name: Cow
 UPDATE locales_creature SET name_loc4='仲夏司仪' WHERE entry=16781; -- name: Midsummer Celebrant
 UPDATE locales_creature SET name_loc4='天灾软泥（蓝）' WHERE entry=16783; -- name: Plague Slime (Blue)

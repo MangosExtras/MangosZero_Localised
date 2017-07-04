@@ -4001,7 +4001,6 @@ UPDATE locales_gameobject SET name_loc8='Транстелепорт' WHERE entry
 UPDATE locales_gameobject SET name_loc8='Транстелепорт' WHERE entry=142176; -- name: Transpolyporter
 UPDATE locales_gameobject SET name_loc8='Соларсальская Беседка' WHERE entry=142179; -- name: Solarsal Gazebo
 UPDATE locales_gameobject SET name_loc8='Краденый груз' WHERE entry=142181; -- name: Stolen Cargo
-UPDATE locales_gameobject SET name_loc8='Сундук капитана' WHERE entry=142184; -- name: Captain\'s Chest
 UPDATE locales_gameobject SET name_loc8='Пламя Бильтана' WHERE entry=142185; -- name: Flame of Byltan
 UPDATE locales_gameobject SET name_loc8='Пламя Лахассы' WHERE entry=142186; -- name: Flame of Lahassa
 UPDATE locales_gameobject SET name_loc8='Пламя Имбела' WHERE entry=142187; -- name: Flame of Imbel

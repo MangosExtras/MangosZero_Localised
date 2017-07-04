@@ -486,7 +486,7 @@ UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=2003; -- name: Cam
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=2005; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=2006; -- name: Campfire
 UPDATE locales_gameobject SET name_loc7='Hoguera' WHERE entry=2007; -- name: Campfire
-UPDATE locales_gameobject SET name_loc7='[DEPRECATED]¡Peligrosos!' WHERE entry=2008; -- name: Dangerous!
+UPDATE locales_gameobject SET name_loc7='¡Peligrosos!' WHERE entry=2008; -- name: Dangerous!
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=2010; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Yunque' WHERE entry=2014; -- name: Anvil
 UPDATE locales_gameobject SET name_loc7='Forja' WHERE entry=2015; -- name: Forge

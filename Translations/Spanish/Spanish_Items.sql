@@ -1319,7 +1319,7 @@ UPDATE locales_item SET name_loc6='Coraza de bronce bañada en plata' WHERE entr
 UPDATE locales_item SET name_loc6='Coraza de plata resplandeciente' WHERE entry=2870; -- name: Shining Silver Breastplate
 UPDATE locales_item SET name_loc6='Piedra de afilar pesada' WHERE entry=2871; -- name: Heavy Sharpening Stone
 UPDATE locales_item SET name_loc6='Veneno de araña nocturácnida sañosa' WHERE entry=2872; -- name: Vicious Night Web Spider Venom
-UPDATE locales_item SET name_loc6='[DEPRECATED] Una carta sin enviar',description_loc6='Una carta que llevaba Edwin VanCleef encima.' WHERE entry=2874; -- name: An Unsent Letter -- description: A letter found on Edwin VanCleef\'s person.
+UPDATE locales_item SET name_loc6='Una carta sin enviar',description_loc6='Una carta que llevaba Edwin VanCleef encima.' WHERE entry=2874; -- name: An Unsent Letter -- description: A letter found on Edwin VanCleef\'s person.
 UPDATE locales_item SET name_loc6='Anillo con la insignia Escarlata' WHERE entry=2875; -- name: Scarlet Insignia Ring
 UPDATE locales_item SET name_loc6='Pelambre de Murciumbrío' WHERE entry=2876; -- name: Duskbat Pelt
 UPDATE locales_item SET name_loc6='Mandoble de combatiente' WHERE entry=2877; -- name: Combatant Claymore

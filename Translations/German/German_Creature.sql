@@ -584,7 +584,7 @@ UPDATE locales_creature SET name_loc3='Ogromm',subname_loc3='Jägerlehrer' WHERE
 UPDATE locales_creature SET name_loc3='Kartosh',subname_loc3='Hexenmeisterlehrer' WHERE entry=988; -- name: Kartosh -- subname: Warlock Trainer
 UPDATE locales_creature SET name_loc3='Banalash',subname_loc3='Handwerkswaren' WHERE entry=989; -- name: Banalash -- subname: Trade Supplies
 UPDATE locales_creature SET name_loc3='Behüterin Royce',subname_loc3='Die Nachtwache' WHERE entry=999; -- name: Watcher Royce -- subname: The Night Watch
-UPDATE locales_creature SET name_loc3='Unkillable Test Dummy',subname_loc3='Die Nachtwache' WHERE entry=1000; -- name: Watcher Blomberg -- subname: The Night Watch
+UPDATE locales_creature SET name_loc3='Wächter Blomberg',subname_loc3='Die Nachtwache' WHERE entry=1000; -- name: Watcher Blomberg -- subname: The Night Watch
 UPDATE locales_creature SET name_loc3='Behüter Hutchins',subname_loc3='Die Nachtwache' WHERE entry=1001; -- name: Watcher Hutchins -- subname: The Night Watch
 UPDATE locales_creature SET name_loc3='Gnoll der Moosfelle' WHERE entry=1007; -- name: Mosshide Gnoll
 UPDATE locales_creature SET name_loc3='Bastard der Moosfelle' WHERE entry=1008; -- name: Mosshide Mongrel
@@ -2571,7 +2571,7 @@ UPDATE locales_creature SET name_loc3='Kuz' WHERE entry=3436; -- name: Kuz
 UPDATE locales_creature SET name_loc3='Kreenig Grantelschnauze' WHERE entry=3438; -- name: Kreenig Snarlsnout
 UPDATE locales_creature SET name_loc3='Kurbelwizz\' Schredder' WHERE entry=3439; -- name: Wizzlecrank\'s Shredder
 UPDATE locales_creature SET name_loc3='Melor Steinhuf' WHERE entry=3441; -- name: Melor Stonehoof
-UPDATE locales_creature SET name_loc3='Stotterspritter',subname_loc3='Unabhängiger Vertragspartner' WHERE entry=3442; -- name: Sputtervalve -- subname: Tinkers' Union
+UPDATE locales_creature SET name_loc3='Stotterspritter',subname_loc3='Unabhängiger Vertragspartner' WHERE entry=3442; -- name: Sputtervalve -- subname: Tinkers\' Union
 UPDATE locales_creature SET name_loc3='Grub' WHERE entry=3443; -- name: Grub
 UPDATE locales_creature SET name_loc3='Grubenratte' WHERE entry=3444; -- name: Dig Rat
 UPDATE locales_creature SET name_loc3='Vorsteher Lugwizz' WHERE entry=3445; -- name: Supervisor Lugwizzle
@@ -3426,7 +3426,6 @@ UPDATE locales_creature SET name_loc3='Daisy',subname_loc3='Rennstartermädchen'
 UPDATE locales_creature SET name_loc3='Willix der Importeur' WHERE entry=4508; -- name: Willix the Importer
 UPDATE locales_creature SET name_loc3='Sargath' WHERE entry=4509; -- name: Sargath
 UPDATE locales_creature SET name_loc3='Heralath Bachquell' WHERE entry=4510; -- name: Heralath Fallowbrook
-UPDATE locales_creature SET name_loc3='Agam\'ar' WHERE entry=4511; -- name: Agam'ar
 UPDATE locales_creature SET name_loc3='Faulender Agam\'ar' WHERE entry=4512; -- name: Rotting Agam\'ar
 UPDATE locales_creature SET name_loc3='Tobender Agam\'ar' WHERE entry=4514; -- name: Raging Agam\'ar
 UPDATE locales_creature SET name_loc3='Akolyth der Totenköpfe' WHERE entry=4515; -- name: Death\'s Head Acolyte
@@ -5910,7 +5909,7 @@ UPDATE locales_creature SET name_loc3='Starn',subname_loc3='Bogen- & Büchsenmac
 UPDATE locales_creature SET name_loc3='Zanara',subname_loc3='Bogenmacherin' WHERE entry=9552; -- name: Zanara -- subname: Bowyer
 UPDATE locales_creature SET name_loc3='Nadia Vernon',subname_loc3='Bogenmacherin' WHERE entry=9553; -- name: Nadia Vernon -- subname: Bowyer
 UPDATE locales_creature SET name_loc3='Betrunkener Gast' WHERE entry=9554; -- name: Hammered Patron
-UPDATE locales_creature SET name_loc3='Mu\'uta',subname_loc3='Bogenmacher' WHERE entry=9555; -- name: Mu'uta -- subname: Bowyer
+UPDATE locales_creature SET name_loc3='Mu\'uta',subname_loc3='Bogenmacher' WHERE entry=9555; -- name: Mu\'uta -- subname: Bowyer
 UPDATE locales_creature SET name_loc3='Teufelshunddiener' WHERE entry=9556; -- name: Felhound Minion
 UPDATE locales_creature SET name_loc3='Grimbel',subname_loc3='Schiffsmeister' WHERE entry=9558; -- name: Grimble -- subname: Shipmaster
 UPDATE locales_creature SET name_loc3='Grizzsteg',subname_loc3='Schiffsmeister' WHERE entry=9559; -- name: Grizzlowe -- subname: Shipmaster
@@ -6060,7 +6059,7 @@ UPDATE locales_creature SET name_loc3='Zerillis' WHERE entry=10082; -- name: Zer
 UPDATE locales_creature SET name_loc3='Flammenschuppe der Zornkrallen' WHERE entry=10083; -- name: Rage Talon Flamescale
 UPDATE locales_creature SET name_loc3='Jaelysia',subname_loc3='Stallmeisterin' WHERE entry=10085; -- name: Jaelysia -- subname: Stable Master
 UPDATE locales_creature SET name_loc3='Hesuwa Donnerhorn',subname_loc3='Tierausbilder' WHERE entry=10086; -- name: Hesuwa Thunderhorn -- subname: Pet Trainer
-UPDATE locales_creature SET name_loc3='Xao\'tsu',subname_loc3='Tierausbilder' WHERE entry=10088; -- name: Xao'tsu -- subname: Pet Trainer
+UPDATE locales_creature SET name_loc3='Xao\'tsu',subname_loc3='Tierausbilder' WHERE entry=10088; -- name: Xao\'tsu -- subname: Pet Trainer
 UPDATE locales_creature SET name_loc3='Silvaria',subname_loc3='Tierausbilderin' WHERE entry=10089; -- name: Silvaria -- subname: Pet Trainer
 UPDATE locales_creature SET name_loc3='Belia Donnerstein',subname_loc3='Tierausbilderin' WHERE entry=10090; -- name: Belia Thundergranite -- subname: Pet Trainer
 UPDATE locales_creature SET name_loc3='Oberrichter Grimmstein' WHERE entry=10096; -- name: High Justice Grimstone
@@ -6096,7 +6095,7 @@ UPDATE locales_creature SET name_loc3='Misha' WHERE entry=10204; -- name: Misha
 UPDATE locales_creature SET name_loc3='Gubber Blump' WHERE entry=10216; -- name: Gubber Blump
 UPDATE locales_creature SET name_loc3='Totem des Flammenpuffers' WHERE entry=10217; -- name: Flame Buffet Totem
 UPDATE locales_creature SET name_loc3='Überragender Heilungszauberschutz' WHERE entry=10218; -- name: Superior Healing Ward
-UPDATE locales_creature SET name_loc3='Gwennyth Bly\'Leggonde' WHERE entry=10219; -- name: Gwennyth Bly'Leggonde
+UPDATE locales_creature SET name_loc3='Gwennyth Bly\'Leggonde' WHERE entry=10219; -- name: Gwennyth Bly\'Leggonde
 UPDATE locales_creature SET name_loc3='Halycon' WHERE entry=10220; -- name: Halycon
 UPDATE locales_creature SET name_loc3='Worgwelpe der Blutäxte' WHERE entry=10221; -- name: Bloodaxe Worg Pup
 UPDATE locales_creature SET name_loc3='Bijou' WHERE entry=10257; -- name: Bijou
@@ -6107,7 +6106,7 @@ UPDATE locales_creature SET name_loc3='Brennender Teufelshund' WHERE entry=10261
 UPDATE locales_creature SET name_loc3='Opus' WHERE entry=10262; -- name: Opus
 UPDATE locales_creature SET name_loc3='Brennende Teufelswache' WHERE entry=10263; -- name: Burning Felguard
 UPDATE locales_creature SET name_loc3='Solakar Feuerkrone' WHERE entry=10264; -- name: Solakar Flamewreath
-UPDATE locales_creature SET name_loc3='Ug\'thok',subname_loc3='Schmiedekunstlehrling' WHERE entry=10266; -- name: Ug'thok -- subname: Journeyman Blacksmith
+UPDATE locales_creature SET name_loc3='Ug\'thok',subname_loc3='Schmiedekunstlehrling' WHERE entry=10266; -- name: Ug\'thok -- subname: Journeyman Blacksmith
 UPDATE locales_creature SET name_loc3='Tinkee Kesseldampf' WHERE entry=10267; -- name: Tinkee Steamboil
 UPDATE locales_creature SET name_loc3='Gizrul der Geifernde' WHERE entry=10268; -- name: Gizrul the Slavener
 UPDATE locales_creature SET name_loc3='Rotgath Steinbart',subname_loc3='Schmiedekunstlehrling' WHERE entry=10276; -- name: Rotgath Stonebeard -- subname: Expert Blacksmith
@@ -7775,7 +7774,7 @@ UPDATE locales_creature SET name_loc3='Dämmerpirscher' WHERE entry=14430; -- na
 UPDATE locales_creature SET name_loc3='Furie Shelda' WHERE entry=14431; -- name: Fury Shelda
 UPDATE locales_creature SET name_loc3='Threggil' WHERE entry=14432; -- name: Threggil
 UPDATE locales_creature SET name_loc3='Schlicker' WHERE entry=14433; -- name: Sludginn
-UPDATE locales_creature SET name_loc3='Alarm-o-Bot' WHERE entry=14434; -- name: Alarm-o-Bot
+UPDATE locales_creature SET name_loc3='Alarm-o-Bot' WHERE entry=14434; -- name: Alarm-O-Bot
 UPDATE locales_creature SET name_loc3='Prinz Donneraan',subname_loc3='Der Windsucher' WHERE entry=14435; -- name: Prince Thunderaan -- subname: The Wind Seeker
 UPDATE locales_creature SET name_loc3='Mor\'zul Blutbringer' WHERE entry=14436; -- name: Mor\'zul Bloodbringer
 UPDATE locales_creature SET name_loc3='Gorzeeki Wildaug' WHERE entry=14437; -- name: Gorzeeki Wildeyes
@@ -8537,7 +8536,7 @@ UPDATE locales_creature SET name_loc3='Kriegsherr Gorchuk',subname_loc3='Kommand
 UPDATE locales_creature SET name_loc3='Feldmarschall Schneefall',subname_loc3='Kommandant der Kriegsanstrengungen' WHERE entry=15701; -- name: Field Marshal Snowfall -- subname: War Effort Commander
 UPDATE locales_creature SET name_loc3='Schlachtruferin Taiga',subname_loc3='Rekrutierungsoffizier' WHERE entry=15702; -- name: Senior Sergeant Taiga -- subname: War Effort Recruiter
 UPDATE locales_creature SET name_loc3='Schlachtrufer Grimmwald',subname_loc3='Rekrutierungsoffizier' WHERE entry=15703; -- name: Senior Sergeant Grimsford -- subname: War Effort Recruiter
-UPDATE locales_creature SET name_loc3='Schlachtruferin Kai\'jin',subname_loc3='Rekrutierungsoffizier' WHERE entry=15704; -- name: Senior Sergeant Kai'jin -- subname: War Effort Recruiter
+UPDATE locales_creature SET name_loc3='Schlachtruferin Kai\'jin',subname_loc3='Rekrutierungsoffizier' WHERE entry=15704; -- name: Senior Sergeant Kai\'jin -- subname: War Effort Recruiter
 UPDATE locales_creature SET name_loc3='Vater Winters kleiner Helfer' WHERE entry=15705; -- name: Winter\'s Little Helper
 UPDATE locales_creature SET name_loc3='Winterrentier' WHERE entry=15706; -- name: Winter Reindeer
 UPDATE locales_creature SET name_loc3='Hauptfeldwebel Zischelbolz',subname_loc3='Rekrutierungsoffizier' WHERE entry=15707; -- name: Master Sergeant Fizzlebolt -- subname: War Effort Recruiter
@@ -8774,7 +8773,6 @@ UPDATE locales_creature SET name_loc3='Loatheb' WHERE entry=16011; -- name: Loat
 UPDATE locales_creature SET name_loc3='Mokvar' WHERE entry=16012; -- name: Mokvar
 UPDATE locales_creature SET name_loc3='Deliana' WHERE entry=16013; -- name: Deliana
 UPDATE locales_creature SET name_loc3='Mux Manamix' WHERE entry=16014; -- name: Mux Manascrambler
-UPDATE locales_creature SET name_loc3='Vi\'el',subname_loc3='Händler für exotische Reagenzien' WHERE entry=16015; -- name: Vi'el -- subname: Exotic Reagent Merchant
 UPDATE locales_creature SET name_loc3='Anthion Harmon' WHERE entry=16016; -- name: Anthion Harmon
 UPDATE locales_creature SET name_loc3='Flickwerkgolem' WHERE entry=16017; -- name: Patchwork Golem
 UPDATE locales_creature SET name_loc3='Gallwürger' WHERE entry=16018; -- name: Bile Retcher

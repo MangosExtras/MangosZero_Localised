@@ -3426,7 +3426,6 @@ UPDATE locales_creature SET name_loc1='[4.x 미사용]데이지',subname_loc1='�
 UPDATE locales_creature SET name_loc1='수입업자 윌릭스' WHERE entry=4508; -- name: Willix the Importer
 UPDATE locales_creature SET name_loc1='사르가스' WHERE entry=4509; -- name: Sargath
 UPDATE locales_creature SET name_loc1='헤랄라스 팰로우브룩' WHERE entry=4510; -- name: Heralath Fallowbrook
-UPDATE locales_creature SET name_loc1='아가마르' WHERE entry=4511; -- name: Agam'ar
 UPDATE locales_creature SET name_loc1='썩어가는 아가마르' WHERE entry=4512; -- name: Rotting Agam\'ar
 UPDATE locales_creature SET name_loc1='흉포한 아가마르' WHERE entry=4514; -- name: Raging Agam\'ar
 UPDATE locales_creature SET name_loc1='죽음의 머리교 수행사제' WHERE entry=4515; -- name: Death\'s Head Acolyte
@@ -7775,7 +7774,7 @@ UPDATE locales_creature SET name_loc1='그늘표범' WHERE entry=14430; -- name:
 UPDATE locales_creature SET name_loc1='복수의 여신 쉘다' WHERE entry=14431; -- name: Fury Shelda
 UPDATE locales_creature SET name_loc1='트레길' WHERE entry=14432; -- name: Threggil
 UPDATE locales_creature SET name_loc1='곤죽이' WHERE entry=14433; -- name: Sludginn
-UPDATE locales_creature SET name_loc1='노움 자동경보기' WHERE entry=14434; -- name: Alarm-o-Bot
+UPDATE locales_creature SET name_loc1='노움 자동경보기' WHERE entry=14434; -- name: Alarm-O-Bot
 UPDATE locales_creature SET name_loc1='왕자 썬더란',subname_loc1='바람추적자' WHERE entry=14435; -- name: Prince Thunderaan -- subname: The Wind Seeker
 UPDATE locales_creature SET name_loc1='모르줄 블러드브링어' WHERE entry=14436; -- name: Mor\'zul Bloodbringer
 UPDATE locales_creature SET name_loc1='고르지키 와일드아이즈' WHERE entry=14437; -- name: Gorzeeki Wildeyes
@@ -8194,7 +8193,7 @@ UPDATE locales_creature SET name_loc1='프랭칼 스톤브리지' WHERE entry=15
 UPDATE locales_creature SET name_loc1='글리브',subname_loc1='브란 브론즈비어드의 애완동물' WHERE entry=15172; -- name: Glibb -- subname: Brann Bronzebeard\'s Pet Monkey
 UPDATE locales_creature SET name_loc1='캘랜드라스',subname_loc1='여관주인' WHERE entry=15174; -- name: Calandrath -- subname: Innkeeper
 UPDATE locales_creature SET name_loc1='쿠르 혼스트라이커',subname_loc1='마법 재료 상인' WHERE entry=15175; -- name: Khur Hornstriker -- subname: Reagents
-UPDATE locales_creature SET name_loc1='바르구스',subname_loc1='대장장이' WHERE entry=15176; -- name: Vargus -- subname: Blacksmith
+UPDATE locales_creature SET name_loc1='바르구스',subname_loc1='대장장이' WHERE entry=15176; -- name: Vargus -- subname: blacksmith
 UPDATE locales_creature SET name_loc1='클라우드 스카이댄서',subname_loc1='히포그리프 조련사' WHERE entry=15177; -- name: Cloud Skydancer -- subname: Hippogryph Master
 UPDATE locales_creature SET name_loc1='룬크 윈드테이머',subname_loc1='와이번 조련사' WHERE entry=15178; -- name: Runk Windtamer -- subname: Wind Rider Master
 UPDATE locales_creature SET name_loc1='미쉬타',subname_loc1='직업용품 상인' WHERE entry=15179; -- name: Mishta -- subname: Trade Supplies
@@ -8774,7 +8773,6 @@ UPDATE locales_creature SET name_loc1='로데브' WHERE entry=16011; -- name: Lo
 UPDATE locales_creature SET name_loc1='모크바르' WHERE entry=16012; -- name: Mokvar
 UPDATE locales_creature SET name_loc1='델리아나' WHERE entry=16013; -- name: Deliana
 UPDATE locales_creature SET name_loc1='먹스 마나스크램블러' WHERE entry=16014; -- name: Mux Manascrambler
-UPDATE locales_creature SET name_loc1='비엘',subname_loc1='진귀한 마법 재료 상인' WHERE entry=16015; -- name: Vi'el -- subname: Exotic Reagent Merchant
 UPDATE locales_creature SET name_loc1='안시온 하몬' WHERE entry=16016; -- name: Anthion Harmon
 UPDATE locales_creature SET name_loc1='기워 붙인 누더기골렘' WHERE entry=16017; -- name: Patchwork Golem
 UPDATE locales_creature SET name_loc1='부패의 역병골렘' WHERE entry=16018; -- name: Bile Retcher

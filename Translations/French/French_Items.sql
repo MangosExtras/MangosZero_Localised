@@ -1322,7 +1322,7 @@ UPDATE locales_item SET name_loc2='Cuirasse en bronze argenté' WHERE entry=2869
 UPDATE locales_item SET name_loc2='Cuirasse rayonnante en argent' WHERE entry=2870; -- name: Shining Silver Breastplate
 UPDATE locales_item SET name_loc2='Pierre à aiguiser lourde' WHERE entry=2871; -- name: Heavy Sharpening Stone
 UPDATE locales_item SET name_loc2='Venin de Tisse-nuit vicieuse' WHERE entry=2872; -- name: Vicious Night Web Spider Venom
-UPDATE locales_item SET name_loc2='[PÉRIMÉ] Une lettre qui n\'a pas été envoyée.',description_loc2='Une lettre trouvée sur Edwin VanCleef.' WHERE entry=2874; -- name: An Unsent Letter -- description: A letter found on Edwin VanCleef\'s person.
+UPDATE locales_item SET name_loc2='Une lettre qui n\'a pas été envoyée.',description_loc2='Une lettre trouvée sur Edwin VanCleef.' WHERE entry=2874; -- name: An Unsent Letter -- description: A letter found on Edwin VanCleef\'s person.
 UPDATE locales_item SET name_loc2='Anneau de la Croisade écarlate' WHERE entry=2875; -- name: Scarlet Insignia Ring
 UPDATE locales_item SET name_loc2='Peau de chauve-souris de la pénombre' WHERE entry=2876; -- name: Duskbat Pelt
 UPDATE locales_item SET name_loc2='Claymore de combattant' WHERE entry=2877; -- name: Combatant Claymore
@@ -12502,7 +12502,7 @@ UPDATE locales_item SET name_loc2='Bottes de garde-paix' WHERE entry=20265; -- n
 UPDATE locales_item SET name_loc2='Jambières de garde-paix' WHERE entry=20266; -- name: Peacekeeper Leggings
 UPDATE locales_item SET name_loc2='Jambières en écailles de dragon bleu' WHERE entry=20295; -- name: Blue Dragonscale Leggings
 UPDATE locales_item SET name_loc2='Gantelets en écailles de dragon vert' WHERE entry=20296; -- name: Green Dragonscale Gauntlets
-UPDATE locales_item SET name_loc2='[PÉRIMÉ] Peau de démon écorché' WHERE entry=20310; -- name: Flayed Demon Skin
+UPDATE locales_item SET name_loc2='Peau de démon écorché' WHERE entry=20310; -- name: Flayed Demon Skin
 UPDATE locales_item SET name_loc2='Poings d\'azurite' WHERE entry=20369; -- name: Azurite Fists
 UPDATE locales_item SET name_loc2='Oeuf de murloc bleu',description_loc2='Vous apprend à invoquer cette mascotte.' WHERE entry=20371; -- name: Blue Murloc Egg -- description: Teaches you how to summon this companion.
 UPDATE locales_item SET name_loc2='Dard de scorpide cinglepierre' WHERE entry=20373; -- name: Stonelash Scorpid Stinger

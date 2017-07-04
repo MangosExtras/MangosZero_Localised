@@ -3428,7 +3428,6 @@ UPDATE locales_creature SET name_loc2='[DEPRECATED 4.x]Daisy',subname_loc2='Fill
 UPDATE locales_creature SET name_loc2='Willix l\'Importateur' WHERE entry=4508; -- name: Willix the Importer
 UPDATE locales_creature SET name_loc2='Sargath' WHERE entry=4509; -- name: Sargath
 UPDATE locales_creature SET name_loc2='Heralath Ruissefriche' WHERE entry=4510; -- name: Heralath Fallowbrook
-UPDATE locales_creature SET name_loc2='Agam\'ar' WHERE entry=4511; -- name: Agam\'ar
 UPDATE locales_creature SET name_loc2='Agam\'ar décrépi' WHERE entry=4512; -- name: Rotting Agam\'ar
 UPDATE locales_creature SET name_loc2='Agam\'ar déchaîné' WHERE entry=4514; -- name: Raging Agam\'ar
 UPDATE locales_creature SET name_loc2='Acolyte de la Tête de Mort' WHERE entry=4515; -- name: Death\'s Head Acolyte
@@ -8780,7 +8779,6 @@ UPDATE locales_creature SET name_loc2='Horreb' WHERE entry=16011; -- name: Loath
 UPDATE locales_creature SET name_loc2='Mokvar' WHERE entry=16012; -- name: Mokvar
 UPDATE locales_creature SET name_loc2='Deliana' WHERE entry=16013; -- name: Deliana
 UPDATE locales_creature SET name_loc2='Mux Brouillemana' WHERE entry=16014; -- name: Mux Manascrambler
-UPDATE locales_creature SET name_loc2='Vi\'el',subname_loc2='Marchand de réactifs exotiques' WHERE entry=16015; -- name: Vi'el -- subname: Exotic Reagent Merchant
 UPDATE locales_creature SET name_loc2='Anthion Harmon' WHERE entry=16016; -- name: Anthion Harmon
 UPDATE locales_creature SET name_loc2='Golem recousu' WHERE entry=16017; -- name: Patchwork Golem
 UPDATE locales_creature SET name_loc2='Vomisseur de bile' WHERE entry=16018; -- name: Bile Retcher

@@ -166,7 +166,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Primo Soccorso' WHERE me
 UPDATE locales_gossip_menu_option SET option_text_loc9='Pescatore' WHERE menu_id=751 AND id=5; -- option_text: Fishing
 UPDATE locales_gossip_menu_option SET option_text_loc9='Erbalista' WHERE menu_id=751 AND id=6; -- option_text: Herbalism
 UPDATE locales_gossip_menu_option SET option_text_loc9='Conciatore' WHERE menu_id=751 AND id=7; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mining' WHERE menu_id=751 AND id=8; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc9='Minatore' WHERE menu_id=751 AND id=8; -- option_text: Mining
 UPDATE locales_gossip_menu_option SET option_text_loc9='Spellatore' WHERE menu_id=751 AND id=9; -- option_text: Skinning
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sarto' WHERE menu_id=751 AND id=10; -- option_text: Tailoring
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei acquistare da te.' WHERE menu_id=900 AND id=0; -- option_text: I would like to buy from you.
@@ -222,7 +222,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Conosci qualcuno... o me
 UPDATE locales_gossip_menu_option SET option_text_loc9='Penserò a quello che mi hai detto.' WHERE menu_id=1364 AND id=0; -- option_text: I will consider what you have told me.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Possiedo una parte dell\'Essenza di Eranikus. Questa vuoi da essa... o da me?' WHERE menu_id=1365 AND id=0; -- option_text: I possess part of Eranikus\' essence. What do you want with it... or with me?
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cosa gli è successo? Quando... l\'ho incontrato, era abbastanza perfido.' WHERE menu_id=1366 AND id=0; -- option_text: What happened to him in the first place? When I... encountered him, he was rather malicious.
-UPDATE locales_gossip_menu_option SET option_text_loc9='I am here for training.' WHERE menu_id=1403 AND id=0; -- option_text: I am here for training.
+UPDATE locales_gossip_menu_option SET option_text_loc9='Sono qui per imparare.' WHERE menu_id=1403 AND id=0; -- option_text: I am here for training.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei comprare altri semi Tharlendris.' WHERE menu_id=1403 AND id=1; -- option_text: I\'d like to purchase more Tharlendris seeds.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Desidero dimenticare i miei talenti.' WHERE menu_id=1403 AND id=2; -- option_text: I wish to unlearn my talents.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sai cucinare? Anche io! C\'è una ricetta che puoi insegnarmi?' WHERE menu_id=1443 AND id=0; -- option_text: You can cook? So can I! Is there a recipe you can teach me?
@@ -261,7 +261,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Primo Soccorso' WHERE me
 UPDATE locales_gossip_menu_option SET option_text_loc9='Pescatore' WHERE menu_id=1942 AND id=6; -- option_text: Fishing
 UPDATE locales_gossip_menu_option SET option_text_loc9='Erbalista' WHERE menu_id=1942 AND id=7; -- option_text: Herbalism
 UPDATE locales_gossip_menu_option SET option_text_loc9='Conciatore' WHERE menu_id=1942 AND id=8; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mining' WHERE menu_id=1942 AND id=9; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc9='Minatore' WHERE menu_id=1942 AND id=9; -- option_text: Mining
 UPDATE locales_gossip_menu_option SET option_text_loc9='Spellatore' WHERE menu_id=1942 AND id=10; -- option_text: Skinning
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sarto' WHERE menu_id=1942 AND id=11; -- option_text: Tailoring
 UPDATE locales_gossip_menu_option SET option_text_loc9='La tua servitù finirà, Doom\'rel.  Ti sfido!' WHERE menu_id=1947 AND id=0; -- option_text: Your bondage is at an end, Doom\'rel.  I challenge you!
@@ -546,7 +546,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Pescatore' WHERE menu_id
 UPDATE locales_gossip_menu_option SET option_text_loc9='Erbalista' WHERE menu_id=3532 AND id=7; -- option_text: Herbalism
 UPDATE locales_gossip_menu_option SET option_text_loc9='Conciatore' WHERE menu_id=3532 AND id=8; -- option_text: Leatherworking
 UPDATE locales_gossip_menu_option SET option_text_loc9='Conciatore' WHERE menu_id=3532 AND id=9; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mining' WHERE menu_id=3532 AND id=10; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc9='Minatore' WHERE menu_id=3532 AND id=10; -- option_text: Mining
 UPDATE locales_gossip_menu_option SET option_text_loc9='Spellatore' WHERE menu_id=3532 AND id=11; -- option_text: Skinning
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sarto' WHERE menu_id=3532 AND id=12; -- option_text: Tailoring
 UPDATE locales_gossip_menu_option SET option_text_loc9='Banca' WHERE menu_id=3533 AND id=0; -- option_text: Bank
@@ -572,7 +572,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Primo Soccorso' WHERE me
 UPDATE locales_gossip_menu_option SET option_text_loc9='Pescatore' WHERE menu_id=3558 AND id=6; -- option_text: Fishing
 UPDATE locales_gossip_menu_option SET option_text_loc9='Erbalista' WHERE menu_id=3558 AND id=7; -- option_text: Herbalism
 UPDATE locales_gossip_menu_option SET option_text_loc9='Conciatore' WHERE menu_id=3558 AND id=8; -- option_text: Leatherworking
-UPDATE locales_gossip_menu_option SET option_text_loc9='Mining' WHERE menu_id=3558 AND id=9; -- option_text: Mining
+UPDATE locales_gossip_menu_option SET option_text_loc9='Minatore' WHERE menu_id=3558 AND id=9; -- option_text: Mining
 UPDATE locales_gossip_menu_option SET option_text_loc9='Spellatore' WHERE menu_id=3558 AND id=10; -- option_text: Skinning
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sarto' WHERE menu_id=3558 AND id=11; -- option_text: Tailoring
 UPDATE locales_gossip_menu_option SET option_text_loc9='Druido' WHERE menu_id=3564 AND id=0; -- option_text: Druid
