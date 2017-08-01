@@ -450,16 +450,12 @@ UPDATE mangos_string SET content_loc9='Selected object:|cffffffff|Hgameobject:%d
 UPDATE mangos_string SET content_loc9='>> Add Game Object \'%i\' (%s) (GUID: %i) added at \'%f %f %f\'.' WHERE entry=525; /* content: >> Add Game Object \'%i\' (%s) (GUID: %i) added at \'%f %f %f\'. */
 UPDATE mangos_string SET content_loc9='%s (lowguid: %u) movement generators stack:' WHERE entry=526; /* content: %s (lowguid: %u) movement generators stack: */
 UPDATE mangos_string SET content_loc9='   Idle' WHERE entry=527; /* content: Idle */
-UPDATE mangos_string SET content_loc9='   Random' WHERE entry=528; /* content: Random */
-UPDATE mangos_string SET content_loc9='   Waypoint' WHERE entry=529; /* content: Waypoint */
 UPDATE mangos_string SET content_loc9='   Animal random' WHERE entry=530; /* content: Animal random */
-UPDATE mangos_string SET content_loc9='   Confused' WHERE entry=531; /* content: Confused */
 UPDATE mangos_string SET content_loc9='   Targeted to player %s (lowguid %u)' WHERE entry=532; /* content: Targeted to player %s (lowguid %u) */
 UPDATE mangos_string SET content_loc9='   Targeted to creature %s (lowguid %u)' WHERE entry=533; /* content: Targeted to creature %s (lowguid %u) */
 UPDATE mangos_string SET content_loc9='   Targeted to <NULL>' WHERE entry=534; /* content: Targeted to <NULL> */
 UPDATE mangos_string SET content_loc9='   Home movement to (X:%f Y:%f Z:%f)' WHERE entry=535; /* content: Home movement to (X:%f Y:%f Z:%f) */
 UPDATE mangos_string SET content_loc9='   Home movement used for player?!?' WHERE entry=536; /* content: Home movement used for player?!? */
-UPDATE mangos_string SET content_loc9='   Taxi flight' WHERE entry=537; /* content: Taxi flight */
 UPDATE mangos_string SET content_loc9='   Unknown movement generator (%u)' WHERE entry=538; /* content: Unknown movement generator (%u) */
 UPDATE mangos_string SET content_loc9='Player selected: %s.
 Faction: %u.

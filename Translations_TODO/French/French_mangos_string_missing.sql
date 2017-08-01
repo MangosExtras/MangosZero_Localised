@@ -107,15 +107,10 @@ UPDATE mangos_string SET content_loc2='%s has no more access to all taxi nodes n
 UPDATE mangos_string SET content_loc2='%s has given you access to all taxi nodes (until logout).' WHERE entry=135; /* content: %s has given you access to all taxi nodes (until logout). */
 UPDATE mangos_string SET content_loc2='%s has removed access to all taxi nodes (only visited still accessible).' WHERE entry=136; /* content: %s has removed access to all taxi nodes (only visited still accessible). */
 UPDATE mangos_string SET content_loc2='You set all speeds to %2.2f from normal of %s.' WHERE entry=137; /* content: You set all speeds to %2.2f from normal of %s. */
-UPDATE mangos_string SET content_loc2='%s set all your speeds to %2.2f from normal.' WHERE entry=138; /* content: %s set all your speeds to %2.2f from normal. */
 UPDATE mangos_string SET content_loc2='You set the speed to %2.2f from normal of %s.' WHERE entry=139; /* content: You set the speed to %2.2f from normal of %s. */
-UPDATE mangos_string SET content_loc2='%s set your speed to %2.2f from normal.' WHERE entry=140; /* content: %s set your speed to %2.2f from normal. */
 UPDATE mangos_string SET content_loc2='You set the swim speed to %2.2f from normal of %s.' WHERE entry=141; /* content: You set the swim speed to %2.2f from normal of %s. */
-UPDATE mangos_string SET content_loc2='%s set your swim speed to %2.2f from normal.' WHERE entry=142; /* content: %s set your swim speed to %2.2f from normal. */
 UPDATE mangos_string SET content_loc2='You set the backwards run speed to %2.2f from normal of %s.' WHERE entry=143; /* content: You set the backwards run speed to %2.2f from normal of %s. */
-UPDATE mangos_string SET content_loc2='%s set your backwards run speed to %2.2f from normal.' WHERE entry=144; /* content: %s set your backwards run speed to %2.2f from normal. */
 UPDATE mangos_string SET content_loc2='You set the size %2.2f of %s.' WHERE entry=147; /* content: You set the size %2.2f of %s. */
-UPDATE mangos_string SET content_loc2='%s set your size to %2.2f.' WHERE entry=148; /* content: %s set your size to %2.2f. */
 UPDATE mangos_string SET content_loc2='There is no such mount.' WHERE entry=149; /* content: There is no such mount. */
 UPDATE mangos_string SET content_loc2='You give a mount to %s.' WHERE entry=150; /* content: You give a mount to %s. */
 UPDATE mangos_string SET content_loc2='%s gave you a mount.' WHERE entry=151; /* content: %s gave you a mount. */
@@ -123,7 +118,6 @@ UPDATE mangos_string SET content_loc2='USER1: %i, ADD: %i, DIF: %i' WHERE entry=
 UPDATE mangos_string SET content_loc2='You take all copper of %s.' WHERE entry=153; /* content: You take all copper of %s. */
 UPDATE mangos_string SET content_loc2='%s took you all of your copper.' WHERE entry=154; /* content: %s took you all of your copper. */
 UPDATE mangos_string SET content_loc2='You take %i copper from %s.' WHERE entry=155; /* content: You take %i copper from %s. */
-UPDATE mangos_string SET content_loc2='%s took %i copper from you.' WHERE entry=156; /* content: %s took %i copper from you. */
 UPDATE mangos_string SET content_loc2='You give %i copper to %s.' WHERE entry=157; /* content: You give %i copper to %s. */
 UPDATE mangos_string SET content_loc2='%s gave you %i copper.' WHERE entry=158; /* content: %s gave you %i copper. */
 UPDATE mangos_string SET content_loc2='You hear sound %u.' WHERE entry=159; /* content: You hear sound %u. */
@@ -285,7 +279,6 @@ UPDATE mangos_string SET content_loc2='%s[Trigger target %u] Map %u X:%f Y:%f Z:
 UPDATE mangos_string SET content_loc2='|cffffffff|Hareatrigger:%u|h[Trigger %u]|h|r Map %u X:%f Y:%f Z:%f%s%s%s' WHERE entry=361; /* content: |cffffffff|Hareatrigger:%u|h[Trigger %u]|h|r Map %u X:%f Y:%f Z:%f%s%s%s */
 UPDATE mangos_string SET content_loc2='[Trigger %u] Map %u X:%f Y:%f Z:%f%s%s' WHERE entry=362; /* content: [Trigger %u] Map %u X:%f Y:%f Z:%f%s%s */
 UPDATE mangos_string SET content_loc2=' (Dist %f)' WHERE entry=363; /* content: (Dist %f) */
-UPDATE mangos_string SET content_loc2=' [Tavern]' WHERE entry=364; /* content: [Tavern] */
 UPDATE mangos_string SET content_loc2=' [Quest]' WHERE entry=365; /* content: [Quest] */
 UPDATE mangos_string SET content_loc2='Explore quest:' WHERE entry=366; /* content: Explore quest: */
 UPDATE mangos_string SET content_loc2='Condition %u' WHERE entry=367; /* content: Condition %u */
@@ -328,7 +321,6 @@ UPDATE mangos_string SET content_loc2='Weather system disabled at server.' WHERE
 UPDATE mangos_string SET content_loc2='%s is banned for %s. Reason: %s.' WHERE entry=408; /* content: %s is banned for %s. Reason: %s. */
 UPDATE mangos_string SET content_loc2='%s is banned permanently for %s.' WHERE entry=409; /* content: %s is banned permanently for %s. */
 UPDATE mangos_string SET content_loc2='%s %s not found' WHERE entry=410; /* content: %s %s not found */
-UPDATE mangos_string SET content_loc2='%s unbanned.' WHERE entry=411; /* content: %s unbanned. */
 UPDATE mangos_string SET content_loc2='There was an error removing the ban on %s.' WHERE entry=412; /* content: There was an error removing the ban on %s. */
 UPDATE mangos_string SET content_loc2='Account not exist: %s' WHERE entry=413; /* content: Account not exist: %s */
 UPDATE mangos_string SET content_loc2='There is no such character.' WHERE entry=414; /* content: There is no such character. */
