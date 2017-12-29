@@ -3808,6 +3808,7 @@ UPDATE locales_item SET name_loc6='Pececito luminoso crudo' WHERE entry=6291; /*
 UPDATE locales_item SET name_loc6='Pargo de lodo de 5 kilos' WHERE entry=6292; /* name: 10 Pound Mud Snapper */
 UPDATE locales_item SET name_loc6='Sangre de murciélago seca' WHERE entry=6293; /* name: Dried Bat Blood */
 UPDATE locales_item SET name_loc6='Pargo de lodo de 6 kilos' WHERE entry=6294; /* name: 12 Pound Mud Snapper */
+UPDATE locales_item SET name_loc6='Pargo de lodo de 7 kilos' WHERE entry=6295; /* name: 15 Pound Mud Snapper */
 UPDATE locales_item SET name_loc6='Parche de crin de murciélago' WHERE entry=6296; /* name: Patch of Bat Hair */
 UPDATE locales_item SET name_loc6='Calavera vieja' WHERE entry=6297; /* name: Old Skull */
 UPDATE locales_item SET name_loc6='Colmillo de murciélago sangriento' WHERE entry=6298; /* name: Bloody Bat Fang */
