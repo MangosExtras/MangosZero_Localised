@@ -154,7 +154,6 @@ UPDATE creature_ai_texts SET content_loc9='Seems like a hundred times a day I wa
 UPDATE creature_ai_texts SET content_loc9='Where\'s the water Emma? Get the water Emma? If\'n it weren\'t fer me that lot wouldn\'t know what water looks like.' WHERE entry=-426; /* content: Where\'s the water Emma? Get the water Emma? If\'n it weren\'t fer me that lot wouldn\'t know what water looks like. */
 UPDATE creature_ai_texts SET content_loc9='As if I don\'t have better things to do in my old age than carry buckets of water.' WHERE entry=-427; /* content: As if I don\'t have better things to do in my old age than carry buckets of water. */
 UPDATE creature_ai_texts SET content_loc9='O\'ourse I\'m talking to myself. Only way to get a decent conversation in this city.' WHERE entry=-428; /* content: O\'ourse I\'m talking to myself. Only way to get a decent conversation in this city. */
-UPDATE creature_ai_texts SET content_loc9='Are we there yet?' WHERE entry=-429; /* content: Are we there yet? */
 UPDATE creature_ai_texts SET content_loc9='My feet hurt.' WHERE entry=-430; /* content: My feet hurt. */
 UPDATE creature_ai_texts SET content_loc9='Is it true? Are there crocolisks in the canal?' WHERE entry=-431; /* content: Is it true? Are there crocolisks in the canal? */
 UPDATE creature_ai_texts SET content_loc9='Why do we always go the same way?' WHERE entry=-432; /* content: Why do we always go the same way? */
@@ -206,7 +205,6 @@ UPDATE creature_ai_texts SET content_loc9='Scanning life forms....target not fou
 UPDATE creature_ai_texts SET content_loc9='Target lost....resuming search patterns Delta' WHERE entry=-546; /* content: Target lost....resuming search patterns Delta */
 UPDATE creature_ai_texts SET content_loc9='Unknown life forms detected....assessing...' WHERE entry=-547; /* content: Unknown life forms detected....assessing... */
 UPDATE creature_ai_texts SET content_loc9='Arrrhhh...Guards!' WHERE entry=-548; /* content: Arrrhhh...Guards! */
-UPDATE creature_ai_texts SET content_loc9='Guards!' WHERE entry=-549; /* content: Guards! */
 UPDATE creature_ai_texts SET content_loc9='%s goes into a rage after seeing a friend fall in battle!' WHERE entry=-550; /* content: %s goes into a rage after seeing a friend fall in battle! */
 UPDATE creature_ai_texts SET content_loc9='%s calls for help!' WHERE entry=-551; /* content: %s calls for help! */
 UPDATE creature_ai_texts SET content_loc9='Greetings citizen.' WHERE entry=-552; /* content: Greetings citizen. */

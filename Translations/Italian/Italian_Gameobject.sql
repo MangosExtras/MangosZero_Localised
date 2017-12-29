@@ -7912,6 +7912,7 @@ UPDATE locales_gameobject SET name_loc9='Ruota della Marcia Nera' WHERE entry=17
 UPDATE locales_gameobject SET name_loc9='Candela del Giorno del Giudizio' WHERE entry=179673; /* name: Doomsday Candle */
 UPDATE locales_gameobject SET name_loc9='Campana di Dethmoora' WHERE entry=179674; /* name: Bell of Dethmoora */
 UPDATE locales_gameobject SET name_loc9='Fuoco Vile' WHERE entry=179676; /* name: Fel Fire */
+UPDATE locales_gameobject SET name_loc9='Resti di Kroshius' WHERE entry=179677; /* name: Kroshius\' Remains */
 UPDATE locales_gameobject SET name_loc9='Portale Dreadsteed' WHERE entry=179681; /* name: Dreadsteed Portal */
 UPDATE locales_gameobject SET name_loc9='Braciere' WHERE entry=179682; /* name: Brazier */
 UPDATE locales_gameobject SET name_loc9='Trappola Luce Paesante' WHERE entry=179693; /* name: Peasant Light Trap */

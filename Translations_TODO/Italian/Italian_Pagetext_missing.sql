@@ -2548,16 +2548,6 @@ UPDATE locales_page_text SET text_loc9='<HTML>
 <IMG src="Interface\Pictures\11733_ungoro_256"/>
 </BODY>
 </HTML> */
-UPDATE locales_page_text SET text_loc9='<HTML> <BODY> <IMG src="Interface\Pictures\11733_blackrock_256"/> </BODY> </HTML>' WHERE entry=1642; /* text: <HTML> <BODY> <IMG src="Interface\Pictures\11733_blackrock_256"/> </BODY> </HTML> */
-UPDATE locales_page_text SET text_loc9='<HTML> <BODY> <IMG src="Interface\Pictures\11733_blasted_256"/> </BODY> </HTML>' WHERE entry=1643; /* text: <HTML> <BODY> <IMG src="Interface\Pictures\11733_blasted_256"/> </BODY> </HTML> */
-UPDATE locales_page_text SET text_loc9='<HTML> <BODY> <IMG src="Interface\Pictures\11733_ungoro_256"/> </BODY> </HTML>' WHERE entry=1644; /* text: <HTML> <BODY> <IMG src="Interface\Pictures\11733_ungoro_256"/> </BODY> </HTML> */
-UPDATE locales_page_text SET text_loc9='<HTML> <BODY> <IMG src="Interface\Pictures\11733_blackrock_256"/> </BODY> </HTML>' WHERE entry=1645; /* text: <HTML> <BODY> <IMG src="Interface\Pictures\11733_blackrock_256"/> </BODY> </HTML> */
-UPDATE locales_page_text SET text_loc9='<HTML> <BODY> <IMG src="Interface\Pictures\11733_bldbank_256"/> </BODY> </HTML>' WHERE entry=1646; /* text: <HTML> <BODY> <IMG src="Interface\Pictures\11733_bldbank_256"/> </BODY> </HTML> */
-UPDATE locales_page_text SET text_loc9='<HTML> <BODY> <IMG src="Interface\Pictures\11733_blasted_256"/> </BODY> </HTML>' WHERE entry=1647; /* text: <HTML> <BODY> <IMG src="Interface\Pictures\11733_blasted_256"/> </BODY> </HTML> */
-UPDATE locales_page_text SET text_loc9='<HTML> <BODY> <IMG src="Interface\Pictures\11733_ungoro_256"/> </BODY> </HTML>' WHERE entry=1648; /* text: <HTML> <BODY> <IMG src="Interface\Pictures\11733_ungoro_256"/> </BODY> </HTML> */
-UPDATE locales_page_text SET text_loc9='<HTML> <BODY> <IMG src="Interface\Pictures\11733_blackrock_256"/> </BODY> </HTML> ' WHERE entry=1649; /* text: <HTML> <BODY> <IMG src="Interface\Pictures\11733_blackrock_256"/> </BODY> </HTML> */
-UPDATE locales_page_text SET text_loc9='<HTML> <BODY> <IMG src="Interface\Pictures\11733_bldbank_256"/> </BODY> </HTML> ' WHERE entry=1650; /* text: <HTML> <BODY> <IMG src="Interface\Pictures\11733_bldbank_256"/> </BODY> </HTML> */
-UPDATE locales_page_text SET text_loc9='<HTML> <BODY> <IMG src="Interface\Pictures\11733_whipper_256"/> </BODY> </HTML> ' WHERE entry=1651; /* text: <HTML> <BODY> <IMG src="Interface\Pictures\11733_whipper_256"/> </BODY> </HTML> */
 UPDATE locales_page_text SET text_loc9='<HTML>
 <BODY>
 <IMG src="Interface\Pictures\11733_ungoro_256"/>
@@ -2567,7 +2557,6 @@ UPDATE locales_page_text SET text_loc9='<HTML>
 <IMG src="Interface\Pictures\11733_ungoro_256"/>
 </BODY>
 </HTML> */
-UPDATE locales_page_text SET text_loc9='<HTML> <BODY> <IMG src="Interface\Pictures\11733_ungoro_256"/> </BODY> </HTML> ' WHERE entry=1690; /* text: <HTML> <BODY> <IMG src="Interface\Pictures\11733_ungoro_256"/> </BODY> </HTML> */
 UPDATE locales_page_text SET text_loc9='Hi Felnok!
 
 My studies in the Burning Steppes are proceeding splendidly.  And I owe $N a lot for all $ghis:her; help!  Here\'s what I need to continue:

@@ -86,67 +86,200 @@ UPDATE locales_item SET name_loc9='Sacco di Mais' WHERE entry=739; /* name: Sack
 UPDATE locales_item SET name_loc9='Sacco di Segale' WHERE entry=740; /* name: Sack of Rye */
 UPDATE locales_item SET name_loc9='Silverleaf' WHERE entry=765; /* name: Silverleaf */
 UPDATE locales_item SET name_loc9='Mageroyal' WHERE entry=785; /* name: Mageroyal */
+UPDATE locales_item SET name_loc9='Sgombro Squamalesta' WHERE entry=787; /* name: Slitherskin Mackerel */
 UPDATE locales_item SET name_loc9='Mazza' WHERE entry=852; /* name: Mace */
+UPDATE locales_item SET name_loc9='Pozione Inferiore di Cura' WHERE entry=858; /* name: Lesser Healing Potion */
+UPDATE locales_item SET name_loc9='Zampata' WHERE entry=924; /* name: Maul */
+UPDATE locales_item SET name_loc9='Pozione di Cura' WHERE entry=929; /* name: Healing Potion */
+UPDATE locales_item SET name_loc9='Erba Medicinale' WHERE entry=961; /* name: Healing Herb */
+UPDATE locales_item SET name_loc9='Kebab Speziato di Lupo' WHERE entry=1017; /* name: Seasoned Wolf Kabob */
+UPDATE locales_item SET name_loc9='Gulasch alla Crestarossa' WHERE entry=1082; /* name: Redridge Goulash */
+UPDATE locales_item SET name_loc9='Pane Evocato' WHERE entry=1113; /* name: Conjured Bread */
+UPDATE locales_item SET name_loc9='Pane di Segale Evocato' WHERE entry=1114; /* name: Conjured Rye */
+UPDATE locales_item SET name_loc9='Latte Ghiacciato' WHERE entry=1179; /* name: Ice Cold Milk */
+UPDATE locales_item SET name_loc9='Succo di Melone' WHERE entry=1205; /* name: Melon Juice */
+UPDATE locales_item SET name_loc9='Benda di Lino' WHERE entry=1251; /* name: Linen Bandage */
+UPDATE locales_item SET name_loc9='Barile di Birra dei Birratuono' WHERE entry=1262; /* name: Keg of Thunderbrew Lager */
+UPDATE locales_item SET name_loc9='Olio di Fegato di Pesce' WHERE entry=1322; /* name: Fishliver Oil */
+UPDATE locales_item SET name_loc9='Pesce Mola Gratinato' WHERE entry=1326; /* name: Sauteed Sunfish */
 UPDATE locales_item SET name_loc9='Cassa di Abercrombie' WHERE entry=1349; /* name: Abercrombie\'s Crate */ /* description: This large crate is sealed tight, but it reeks of dead things. */
+UPDATE locales_item SET name_loc9='Shadowfang' WHERE entry=1482; /* name: Shadowfang */
+UPDATE locales_item SET name_loc9='Pane Integrale Evocato' WHERE entry=1487; /* name: Conjured Pumpernickel */
+UPDATE locales_item SET name_loc9='Succo di Baccaluna' WHERE entry=1645; /* name: Moonberry Juice */
+UPDATE locales_item SET name_loc9='Brie di Roccavento' WHERE entry=1707; /* name: Stormwind Brie */
+UPDATE locales_item SET name_loc9='Nettare Dolce' WHERE entry=1708; /* name: Sweet Nectar */
+UPDATE locales_item SET name_loc9='Pozione Superiore di Cura' WHERE entry=1710; /* name: Greater Healing Potion */
+UPDATE locales_item SET name_loc9='Groviera di Darnassus' WHERE entry=2070; /* name: Darnassian Bleu */
+UPDATE locales_item SET name_loc9='Mazzata' WHERE entry=2130; /* name: Club */
+UPDATE locales_item SET name_loc9='Acqua Purificata Evocata' WHERE entry=2136; /* name: Conjured Purified Water */
+UPDATE locales_item SET name_loc9='Artiglionero' WHERE entry=2236; /* name: Blackfang */
+UPDATE locales_item SET name_loc9='Cosciotto di Carne' WHERE entry=2287; /* name: Haunch of Meat */
+UPDATE locales_item SET name_loc9='Acqua Fresca Evocata' WHERE entry=2288; /* name: Conjured Fresh Water */
 UPDATE locales_item SET name_loc9='Peacebloom' WHERE entry=2447; /* name: Peacebloom */
 UPDATE locales_item SET name_loc9='Earthroot' WHERE entry=2449; /* name: Earthroot */
 UPDATE locales_item SET name_loc9='Briarthorn' WHERE entry=2450; /* name: Briarthorn */
 UPDATE locales_item SET name_loc9='Bruiseweed' WHERE entry=2453; /* name: Bruiseweed */
+UPDATE locales_item SET name_loc9='Elisir della Forza del Leone' WHERE entry=2454; /* name: Elixir of Lion\'s Strength */
+UPDATE locales_item SET name_loc9='Pozione Minore di Mana' WHERE entry=2455; /* name: Minor Mana Potion */
+UPDATE locales_item SET name_loc9='Pozione Minore del Rinvigorimento' WHERE entry=2456; /* name: Minor Rejuvenation Potion */
+UPDATE locales_item SET name_loc9='Elisir dell\'Agilità Minore' WHERE entry=2457; /* name: Elixir of Minor Agility */
+UPDATE locales_item SET name_loc9='Elisir della Fermezza Minore' WHERE entry=2458; /* name: Elixir of Minor Fortitude */
+UPDATE locales_item SET name_loc9='Benda Pesante di Lino' WHERE entry=2581; /* name: Heavy Linen Bandage */
+UPDATE locales_item SET name_loc9='Birra Scura Nanica' WHERE entry=2596; /* name: Skin of Dwarven Stout */
+UPDATE locales_item SET name_loc9='Carne di Lupo in Crosta' WHERE entry=2679; /* name: Charred Wolf Meat */
+UPDATE locales_item SET name_loc9='Carne di Lupo Speziata' WHERE entry=2680; /* name: Spiced Wolf Meat */
+UPDATE locales_item SET name_loc9='Cinghiale Arrosto' WHERE entry=2681; /* name: Roasted Boar Meat */
+UPDATE locales_item SET name_loc9='Chela Cotta di Crostaceo' WHERE entry=2682; /* name: Cooked Crab Claw */
+UPDATE locales_item SET name_loc9='Torta di Granchio' WHERE entry=2683; /* name: Crab Cake */
+UPDATE locales_item SET name_loc9='Bistecca di Coyote' WHERE entry=2684; /* name: Coyote Steak */
+UPDATE locales_item SET name_loc9='Costolette di Cinghiale Succulente' WHERE entry=2685; /* name: Succulent Pork Ribs */
 UPDATE locales_item SET name_loc9='Thunder Ale' WHERE entry=2686; /* name: Thunder Ale */
+UPDATE locales_item SET name_loc9='Costolette di Cinghiale Glassate' WHERE entry=2687; /* name: Dry Pork Ribs */
 UPDATE locales_item SET name_loc9='Lacrima di Tilloa' WHERE entry=2779; /* name: Tear of Tilloa */
 UPDATE locales_item SET name_loc9='Radice Musquash' WHERE entry=2784; /* name: Musquash Root */
+UPDATE locales_item SET name_loc9='Uragano' WHERE entry=2824; /* name: Hurricane */
 UPDATE locales_item SET name_loc9='Zucca di Tirisfal' WHERE entry=2846; /* name: Tirisfal Pumpkin */
+UPDATE locales_item SET name_loc9='Costolette di Cinghiale alla Birra' WHERE entry=2888; /* name: Beer Basted Boar Ribs */
+UPDATE locales_item SET name_loc9='Veleno Mortale' WHERE entry=2892; /* name: Deadly Poison */
+UPDATE locales_item SET name_loc9='Birra Rapsodia' WHERE entry=2894; /* name: Rhapsody Malt */
+UPDATE locales_item SET name_loc9='Piccone da Estrattore' WHERE entry=2901; /* name: Mining Pick */ /* description: Miners need a mining pick for digging. */
 UPDATE locales_item SET name_loc9='Candela del Richiamo' WHERE entry=3080; /* name: Candle of Beckoning */
+UPDATE locales_item SET name_loc9='Sanguinaccio d\'Orso' WHERE entry=3220; /* name: Blood Sausage */
 UPDATE locales_item SET name_loc9='Wild Steelbloom' WHERE entry=3355; /* name: Wild Steelbloom */
 UPDATE locales_item SET name_loc9='Kingsblood' WHERE entry=3356; /* name: Kingsblood */
 UPDATE locales_item SET name_loc9='Liferoot' WHERE entry=3357; /* name: Liferoot */
 UPDATE locales_item SET name_loc9='Khadgar\'s Whisker' WHERE entry=3358; /* name: Khadgar\'s Whisker */
 UPDATE locales_item SET name_loc9='Muschio di Tomba' WHERE entry=3369; /* name: Grave Moss */
+UPDATE locales_item SET name_loc9='Elisir della Saggezza' WHERE entry=3383; /* name: Elixir of Wisdom */
+UPDATE locales_item SET name_loc9='Pozione Inferiore di Mana' WHERE entry=3385; /* name: Lesser Mana Potion */
+UPDATE locales_item SET name_loc9='Elisir della Difesa' WHERE entry=3389; /* name: Elixir of Defense */
+UPDATE locales_item SET name_loc9='Elisir dell\'Agilità Inferiore' WHERE entry=3390; /* name: Elixir of Lesser Agility */
+UPDATE locales_item SET name_loc9='Elisir della Forza degli Ogre' WHERE entry=3391; /* name: Elixir of Ogre\'s Strength */
 UPDATE locales_item SET name_loc9='Pigna Maledetta' WHERE entry=3418; /* name: Fel Cone */
+UPDATE locales_item SET name_loc9='Spaccaossa' WHERE entry=3440; /* name: Bonecracker */
+UPDATE locales_item SET name_loc9='Radice di Rumseng' WHERE entry=3448; /* name: Senggin Root */
+UPDATE locales_item SET name_loc9='Tiro Esplosivo' WHERE entry=3465; /* name: Exploding Shot */
 UPDATE locales_item SET name_loc9='Barilotto di Shindigger Stout' WHERE entry=3517; /* name: Keg of Shindigger Stout */
 UPDATE locales_item SET name_loc9='Barilotto Contaminato' WHERE entry=3520; /* name: Tainted Keg */
+UPDATE locales_item SET name_loc9='Benda di Lana' WHERE entry=3530; /* name: Wool Bandage */
+UPDATE locales_item SET name_loc9='Benda Pesante di Lana' WHERE entry=3531; /* name: Heavy Wool Bandage */
 UPDATE locales_item SET name_loc9='Carico di Ferro' WHERE entry=3564; /* name: Shipment of Iron */
+UPDATE locales_item SET name_loc9='Occhio della Mente' WHERE entry=3616; /* name: Mind\'s Eye */
 UPDATE locales_item SET name_loc9='Registro Cittadino di Hillsbrad' WHERE entry=3657; /* name: Hillsbrad Town Registry */
+UPDATE locales_item SET name_loc9='Bistecca di Crocolisco' WHERE entry=3662; /* name: Crocolisk Steak */
+UPDATE locales_item SET name_loc9='Zuppa di Pinne di Murloc' WHERE entry=3663; /* name: Murloc Fin Soup */
+UPDATE locales_item SET name_loc9='Gumbo di Crocolisco' WHERE entry=3664; /* name: Crocolisk Gumbo */
+UPDATE locales_item SET name_loc9='Omelette Stranamente Saporita' WHERE entry=3665; /* name: Curiously Tasty Omelet */
+UPDATE locales_item SET name_loc9='Torta Viscosa di Ragno' WHERE entry=3666; /* name: Gooey Spider Cake */
+UPDATE locales_item SET name_loc9='Birra Scura di Riva del Sud' WHERE entry=3703; /* name: Southshore Stout */
+UPDATE locales_item SET name_loc9='Bistecca d\'Orso Adulto' WHERE entry=3726; /* name: Big Bear Steak */
+UPDATE locales_item SET name_loc9='Bocconcini Piccanti di Leone' WHERE entry=3727; /* name: Hot Lion Chops */
+UPDATE locales_item SET name_loc9='Bistecca Saporita di Leone' WHERE entry=3728; /* name: Tasty Lion Steak */
+UPDATE locales_item SET name_loc9='Zuppa Cremosa di Tartaruga' WHERE entry=3729; /* name: Soothing Turtle Bisque */
+UPDATE locales_item SET name_loc9='Braciola di Montone' WHERE entry=3770; /* name: Mutton Chop */
+UPDATE locales_item SET name_loc9='Stinco di Facocero' WHERE entry=3771; /* name: Wild Hog Shank */
+UPDATE locales_item SET name_loc9='Acqua Sorgiva Evocata' WHERE entry=3772; /* name: Conjured Spring Water */
+UPDATE locales_item SET name_loc9='Veleno Paralizzante' WHERE entry=3775; /* name: Crippling Poison */
 UPDATE locales_item SET name_loc9='Fadeleaf' WHERE entry=3818; /* name: Fadeleaf */
 UPDATE locales_item SET name_loc9='Wintersbite' WHERE entry=3819; /* name: Wintersbite */
 UPDATE locales_item SET name_loc9='Stranglekelp' WHERE entry=3820; /* name: Stranglekelp */
 UPDATE locales_item SET name_loc9='Goldthorn' WHERE entry=3821; /* name: Goldthorn */
+UPDATE locales_item SET name_loc9='Olio d\'Ombra' WHERE entry=3824; /* name: Shadow Oil */
+UPDATE locales_item SET name_loc9='Elisir della Fermezza' WHERE entry=3825; /* name: Elixir of Fortitude */
+UPDATE locales_item SET name_loc9='Pozione di Mana' WHERE entry=3827; /* name: Mana Potion */
+UPDATE locales_item SET name_loc9='Elisir Individua Invisibilità Inferiore' WHERE entry=3828; /* name: Elixir of Detect Lesser Invisibility */
+UPDATE locales_item SET name_loc9='Olio del Freddo' WHERE entry=3829; /* name: Frost Oil */
 UPDATE locales_item SET name_loc9='Pupellyverbos Port' WHERE entry=3900; /* name: Pupellyverbos Port */
+UPDATE locales_item SET name_loc9='Sniffo' WHERE entry=3910; /* name: Snuff */
 UPDATE locales_item SET name_loc9='Carte Nautiche Bloodsail' WHERE entry=3920; /* name: Bloodsail Charts */
 UPDATE locales_item SET name_loc9='Ordini Bloodsail' WHERE entry=3921; /* name: Bloodsail Orders */
+UPDATE locales_item SET name_loc9='Provola Stagionata' WHERE entry=3927; /* name: Fine Aged Cheddar */
+UPDATE locales_item SET name_loc9='Pozione Pregevole di Cura' WHERE entry=3928; /* name: Superior Healing Potion */
 UPDATE locales_item SET name_loc9='Indovinello di Cortello' WHERE entry=4056; /* name: Cortello\'s Riddle */
+UPDATE locales_item SET name_loc9='Pietra Focaia ed Esca' WHERE entry=4471; /* name: Flint and Tinder */
 UPDATE locales_item SET name_loc9='Mappe della Maiden\'s Folly' WHERE entry=4487; /* name: Maiden\'s Folly Charts */
 UPDATE locales_item SET name_loc9='Mappe della Spirit of Silverpine' WHERE entry=4488; /* name: Spirit of Silverpine Charts */
 UPDATE locales_item SET name_loc9='Diario della Maiden\'s Folly' WHERE entry=4489; /* name: Maiden\'s Folly Log */
 UPDATE locales_item SET name_loc9='Diario della Spirit of Silverpine' WHERE entry=4490; /* name: Spirit of Silverpine Log */
 UPDATE locales_item SET name_loc9='Granite di Alterac' WHERE entry=4521; /* name: Alterac Granite */
+UPDATE locales_item SET name_loc9='Mela Rossa Lucida' WHERE entry=4536; /* name: Shiny Red Apple */
+UPDATE locales_item SET name_loc9='Anguria Vignardente' WHERE entry=4538; /* name: Snapvine Watermelon */
+UPDATE locales_item SET name_loc9='Mela Annurca' WHERE entry=4539; /* name: Goldenbark Apple */
+UPDATE locales_item SET name_loc9='Tozzo di Pane Raffermo' WHERE entry=4540; /* name: Tough Hunk of Bread */
+UPDATE locales_item SET name_loc9='Pane Appena Sfornato' WHERE entry=4541; /* name: Freshly Baked Bread */
+UPDATE locales_item SET name_loc9='Pane di Mais' WHERE entry=4542; /* name: Moist Cornbread */
+UPDATE locales_item SET name_loc9='Pan Speziato di Mulgore' WHERE entry=4544; /* name: Mulgore Spice Bread */
+UPDATE locales_item SET name_loc9='Barracuda di Palude' WHERE entry=4592; /* name: Longjaw Mud Snapper */
+UPDATE locales_item SET name_loc9='Pescegatto Irsuto' WHERE entry=4593; /* name: Bristle Whisker Catfish */
+UPDATE locales_item SET name_loc9='Merluzzo Squamadura' WHERE entry=4594; /* name: Rockscale Cod */
+UPDATE locales_item SET name_loc9='Vino di Liana' WHERE entry=4595; /* name: Junglevine Wine */
+UPDATE locales_item SET name_loc9='Pozione Scolorita di Cura' WHERE entry=4596; /* name: Discolored Healing Potion */
+UPDATE locales_item SET name_loc9='Bresaola Affumicata' WHERE entry=4599; /* name: Cured Ham Steak */
+UPDATE locales_item SET name_loc9='Grog alla Ciliegia' WHERE entry=4600; /* name: Cherry Grog */
+UPDATE locales_item SET name_loc9='Pane Morbido di Banana' WHERE entry=4601; /* name: Soft Banana Bread */
+UPDATE locales_item SET name_loc9='Zucca del Raccolto Lunare' WHERE entry=4602; /* name: Moon Harvest Pumpkin */
+UPDATE locales_item SET name_loc9='Pinnagialla Maculato' WHERE entry=4603; /* name: Raw Spotted Yellowtail */
+UPDATE locales_item SET name_loc9='Russola Boschiva' WHERE entry=4604; /* name: Forest Mushroom Cap */
+UPDATE locales_item SET name_loc9='Amanita Muscaria' WHERE entry=4605; /* name: Red-speckled Mushroom */
+UPDATE locales_item SET name_loc9='Fungo Spugnoso' WHERE entry=4606; /* name: Spongy Morel */
+UPDATE locales_item SET name_loc9='Deliziosa Radice di Caverna' WHERE entry=4607; /* name: Delicious Cave Mold */
+UPDATE locales_item SET name_loc9='Tartufo Nero' WHERE entry=4608; /* name: Raw Black Truffle */
 UPDATE locales_item SET name_loc9='Urna Intagliata di Pietra' WHERE entry=4610; /* name: Carved Stone Urn */
 UPDATE locales_item SET name_loc9='Firebloom' WHERE entry=4625; /* name: Firebloom */
 UPDATE locales_item SET name_loc9='Cassa di Provviste' WHERE entry=4629; /* name: Supply Crate */
 UPDATE locales_item SET name_loc9='Alga di Mare Incantata' WHERE entry=4639; /* name: Enchanted Sea Kelp */
+UPDATE locales_item SET name_loc9='Piccola Zucca' WHERE entry=4656; /* name: Small Pumpkin */
 UPDATE locales_item SET name_loc9='Brocca dell\'Acqua' WHERE entry=4755; /* name: Water Pitcher */
+UPDATE locales_item SET name_loc9='Acqua Incantata' WHERE entry=4791; /* name: Enchanted Water */
 UPDATE locales_item SET name_loc9='Pietra del Pozzo' WHERE entry=4808; /* name: Well Stone */
 UPDATE locales_item SET name_loc9='Ambercorn' WHERE entry=4809; /* name: Ambercorn */
 UPDATE locales_item SET name_loc9='Documenti Venture Co.' WHERE entry=4834; /* name: Venture Co. Documents */
 UPDATE locales_item SET name_loc9='Mappa Macchiata di Terra' WHERE entry=4851; /* name: Dirt-stained Map */
+UPDATE locales_item SET name_loc9='Bomba Sfollabestie' WHERE entry=4852; /* name: Flash Bomb */
 UPDATE locales_item SET name_loc9='Barilotto Vuoto di Chen' WHERE entry=4926; /* name: Chen\'s Empty Keg */
+UPDATE locales_item SET name_loc9='Birra Triplo Malto' WHERE entry=4952; /* name: Stormstout */
+UPDATE locales_item SET name_loc9='Birra dei Trogg' WHERE entry=4953; /* name: Trogg Ale */
 UPDATE locales_item SET name_loc9='Pietra del Potere Imperfetta' WHERE entry=4986; /* name: Flawed Power Stone */
+UPDATE locales_item SET name_loc9='Spore Fungine' WHERE entry=5012; /* name: Fungal Spores */
 UPDATE locales_item SET name_loc9='Samophlange' WHERE entry=5054; /* name: Samophlange */
+UPDATE locales_item SET name_loc9='Anguria Matura' WHERE entry=5057; /* name: Ripe Watermelon */
 UPDATE locales_item SET name_loc9='Argento Rubato' WHERE entry=5061; /* name: Stolen Silver */
 UPDATE locales_item SET name_loc9='Pianta della Crepa' WHERE entry=5066; /* name: Fissure Plant */
+UPDATE locales_item SET name_loc9='Alborella Iridata' WHERE entry=5095; /* name: Rainbow Fin Albacore */
 UPDATE locales_item SET name_loc9='Germoglio di Timberling' WHERE entry=5169; /* name: Timberling Sprout */
+UPDATE locales_item SET name_loc9='Totem della Terra' WHERE entry=5175; /* name: Earth Totem */
 UPDATE locales_item SET name_loc9='Totem del Fuoco' WHERE entry=5176; /* name: Fire Totem */
+UPDATE locales_item SET name_loc9='Totem dell\'Acqua' WHERE entry=5177; /* name: Water Totem */
+UPDATE locales_item SET name_loc9='Totem dell\'Aria' WHERE entry=5178; /* name: Air Totem */
 UPDATE locales_item SET name_loc9='Foglia Germogliata' WHERE entry=5205; /* name: Sprouted Frond */
 UPDATE locales_item SET name_loc9='Fossile di Flagongut' WHERE entry=5234; /* name: Flagongut\'s Fossil */
+UPDATE locales_item SET name_loc9='Veleno Stordente' WHERE entry=5237; /* name: Mind-numbing Poison */
 UPDATE locales_item SET name_loc9='Amanita Falloide' WHERE entry=5270; /* name: Death Cap */
 UPDATE locales_item SET name_loc9='Leccino' WHERE entry=5271; /* name: Scaber Stalk */
 UPDATE locales_item SET name_loc9='Mathystra Relic' WHERE entry=5273; /* name: Mathystra Relic */
 UPDATE locales_item SET name_loc9='Statuetta Felina' WHERE entry=5329; /* name: Cat Figurine */
 UPDATE locales_item SET name_loc9='Serpentbloom' WHERE entry=5339; /* name: Serpentbloom */
+UPDATE locales_item SET name_loc9='Punch del Raptor' WHERE entry=5342; /* name: Raptor Punch */
+UPDATE locales_item SET name_loc9='Muffin Evocato' WHERE entry=5349; /* name: Conjured Muffin */
+UPDATE locales_item SET name_loc9='Acqua Evocata' WHERE entry=5350; /* name: Conjured Water */
 UPDATE locales_item SET name_loc9='Polvere da Sparo Defias' WHERE entry=5397; /* name: Defias Gunpowder */
 UPDATE locales_item SET name_loc9='Statuetta Antica' WHERE entry=5424; /* name: Ancient Statuette */ /* description: In remarkably good condition all things considered. */
 UPDATE locales_item SET name_loc9='Bottiglia del Morbo' WHERE entry=5440; /* name: Bottle of Disease */
+UPDATE locales_item SET name_loc9='Spiedino di Ragno alla Kaldorei' WHERE entry=5472; /* name: Kaldorei Spider Kabob */
+UPDATE locales_item SET name_loc9='Sformato di Scorpide' WHERE entry=5473; /* name: Scorpid Surprise */
+UPDATE locales_item SET name_loc9='Carne di Kodo Arrosto' WHERE entry=5474; /* name: Roasted Kodo Meat */
+UPDATE locales_item SET name_loc9='Filetto di Piranha' WHERE entry=5476; /* name: Fillet of Frenzy */
+UPDATE locales_item SET name_loc9='Stufato di Zampalunga' WHERE entry=5477; /* name: Strider Stew */
+UPDATE locales_item SET name_loc9='Stufato di Ratto di Fossa' WHERE entry=5478; /* name: Dig Rat Stew */
+UPDATE locales_item SET name_loc9='Coda Croccante di Sauro' WHERE entry=5479; /* name: Crispy Lizard Tail */
+UPDATE locales_item SET name_loc9='Tagliata di Cervo' WHERE entry=5480; /* name: Lean Venison */
 UPDATE locales_item SET name_loc9='Lacrima di Elune' WHERE entry=5493; /* name: Elune\'s Tear */ /* description: Something doesn\'t seem quite right about the soot-covered stone. */
+UPDATE locales_item SET name_loc9='Pietra della Salute' WHERE entry=5509; /* name: Healthstone */
+UPDATE locales_item SET name_loc9='Pietra della Magia' WHERE entry=5522; /* name: Spellstone */
+UPDATE locales_item SET name_loc9='Bivalve Bollito' WHERE entry=5525; /* name: Boiled Clams */
+UPDATE locales_item SET name_loc9='Guazzetto di Bivalve' WHERE entry=5526; /* name: Clam Chowder */
+UPDATE locales_item SET name_loc9='Bivalve Piccante alla Goblin' WHERE entry=5527; /* name: Goblin Deviled Clams */
+UPDATE locales_item SET name_loc9='Polvere Accecante' WHERE entry=5530; /* name: Blinding Powder */ /* description: Once favored by rogues as a blinding agent, it was abandoned for more readily available resources... like dirt. */
 UPDATE locales_item SET name_loc9='Compendio dei Caduti' WHERE entry=5535; /* name: Compendium of the Fallen */
 UPDATE locales_item SET name_loc9='Mitologia dei Titani' WHERE entry=5536; /* name: Mythology of the Titans */
 UPDATE locales_item SET name_loc9='Esplosivi NG-5 (Rosso)' WHERE entry=5694; /* name: NG-5 Explosives (Red) */
@@ -162,6 +295,12 @@ UPDATE locales_item SET name_loc9='Gli Inizi della Minaccia dei Nonmorti' WHERE 
 UPDATE locales_item SET name_loc9='Tubero Blueleaf' WHERE entry=5876; /* name: Blueleaf Tuber */
 UPDATE locales_item SET name_loc9='Cassa Bucherellata' WHERE entry=5880; /* name: Crate With Holes */
 UPDATE locales_item SET name_loc9='Manuale del Proprietario di Snufflenose' WHERE entry=5897; /* name: Snufflenose Owner\'s Manual */
+UPDATE locales_item SET name_loc9='Martello da Fabbro' WHERE entry=5956; /* name: Blacksmith Hammer */
+UPDATE locales_item SET name_loc9='Insegna di Gilda' WHERE entry=5976; /* name: Guild Tabard */
+UPDATE locales_item SET name_loc9='Elisir del Respiro Acquatico' WHERE entry=5996; /* name: Elixir of Water Breathing */
+UPDATE locales_item SET name_loc9='Elisir della Difesa Minore' WHERE entry=5997; /* name: Elixir of Minor Defense */
+UPDATE locales_item SET name_loc9='Capesante Piccanti' WHERE entry=6038; /* name: Giant Clam Scorcho */
+UPDATE locales_item SET name_loc9='Catena per Arma d\'Acciaio' WHERE entry=6041; /* name: Steel Weapon Chain */
 UPDATE locales_item SET name_loc9='Tunica da Apprendista' WHERE entry=6116; /* name: Apprentice\'s Robe */
 UPDATE locales_item SET name_loc9='Camicia da Scudiero' WHERE entry=6117; /* name: Squire\'s Shirt */
 UPDATE locales_item SET name_loc9='Pantaloni da Scudiero' WHERE entry=6118; /* name: Squire\'s Pants */
@@ -175,54 +314,161 @@ UPDATE locales_item SET name_loc9='Pantaloni da Malvivente' WHERE entry=6137; /*
 UPDATE locales_item SET name_loc9='Stivali da Malvivente' WHERE entry=6138; /* name: Thug Boots */
 UPDATE locales_item SET name_loc9='Tunica da Apprendista' WHERE entry=6140; /* name: Apprentice\'s Robe */
 UPDATE locales_item SET name_loc9='Legno Bruciato dal Sole' WHERE entry=6146; /* name: Sundried Driftwood */
+UPDATE locales_item SET name_loc9='Pozione Superiore di Mana' WHERE entry=6149; /* name: Greater Mana Potion */
 UPDATE locales_item SET name_loc9='Artefatto Atal\'ai' WHERE entry=6175; /* name: Atal\'ai Artifact */
+UPDATE locales_item SET name_loc9='Verga Runica di Rame' WHERE entry=6218; /* name: Runed Copper Rod */
+UPDATE locales_item SET name_loc9='Chiave ad Arco' WHERE entry=6219; /* name: Arclight Spanner */
+UPDATE locales_item SET name_loc9='Canna da pesca' WHERE entry=6256; /* name: Fishing Pole */
 UPDATE locales_item SET name_loc9='Il Libro di Ur' WHERE entry=6283; /* name: The Book of Ur */
 UPDATE locales_item SET name_loc9='Tavoletta degli Atal\'ai' WHERE entry=6288; /* name: Atal\'ai Tablet */
+UPDATE locales_item SET name_loc9='Barracuda di Palude' WHERE entry=6289; /* name: Raw Longjaw Mud Snapper */
+UPDATE locales_item SET name_loc9='Pesciolino Brillante' WHERE entry=6290; /* name: Brilliant Smallfish */
+UPDATE locales_item SET name_loc9='Pesciolino Brillante' WHERE entry=6291; /* name: Raw Brilliant Smallfish */
+UPDATE locales_item SET name_loc9='Barracuda di Palude da 7 kg' WHERE entry=6295; /* name: 15 Pound Mud Snapper */
+UPDATE locales_item SET name_loc9='Pesce Disgustoso' WHERE entry=6299; /* name: Sickly Looking Fish */
+UPDATE locales_item SET name_loc9='Sgombro Squamalesta' WHERE entry=6303; /* name: Raw Slitherskin Mackerel */
+UPDATE locales_item SET name_loc9='Pescegatto Irsuto' WHERE entry=6308; /* name: Raw Bristle Whisker Catfish */
+UPDATE locales_item SET name_loc9='Zuppa di Piranha del Loch' WHERE entry=6316; /* name: Loch Frenzy Delight */
+UPDATE locales_item SET name_loc9='Piranha del Loch' WHERE entry=6317; /* name: Raw Loch Frenzy */
 UPDATE locales_item SET name_loc9='Forziere Malconcio' WHERE entry=6356; /* name: Battered Chest */
 UPDATE locales_item SET name_loc9='Cassa Sigillata' WHERE entry=6357; /* name: Sealed Crate */ /* description: Venture Company Supplies */
+UPDATE locales_item SET name_loc9='Boccanera Oleoso' WHERE entry=6358; /* name: Oily Blackmouth */
+UPDATE locales_item SET name_loc9='Barracuda Arcobaleno' WHERE entry=6359; /* name: Firefin Snapper */
+UPDATE locales_item SET name_loc9='Pesce Clava Scagliacciaio' WHERE entry=6360; /* name: Steelscale Crushfish */
+UPDATE locales_item SET name_loc9='Merluzzo Squamadura' WHERE entry=6362; /* name: Raw Rockscale Cod */
+UPDATE locales_item SET name_loc9='Pescegatto da 14 kg' WHERE entry=6364; /* name: 32 Pound Catfish */
+UPDATE locales_item SET name_loc9='Elisir della Potenza del Fuoco' WHERE entry=6373; /* name: Elixir of Firepower */
+UPDATE locales_item SET name_loc9='Benda di Seta' WHERE entry=6450; /* name: Silk Bandage */
+UPDATE locales_item SET name_loc9='Benda Pesante di Seta' WHERE entry=6451; /* name: Heavy Silk Bandage */
+UPDATE locales_item SET name_loc9='Pesce Oleoso' WHERE entry=6458; /* name: Oil Covered Fish */
+UPDATE locales_item SET name_loc9='Pesce Mutante' WHERE entry=6522; /* name: Deviate Fish */
+UPDATE locales_item SET name_loc9='Pesce Mutante all\'Acquapazza' WHERE entry=6657; /* name: Savory Deviate Delight */
+UPDATE locales_item SET name_loc9='Elisir della Crescita Gigante' WHERE entry=6662; /* name: Elixir of Giant Growth */
+UPDATE locales_item SET name_loc9='Stufato di zampe di rana' WHERE entry=6807; /* name: Frog Leg Stew */
+UPDATE locales_item SET name_loc9='Camicia Bianca da Smoking' WHERE entry=6833; /* name: White Tuxedo Shirt */
+UPDATE locales_item SET name_loc9='Pantaloni Neri da Smoking' WHERE entry=6835; /* name: Black Tuxedo Pants */
+UPDATE locales_item SET name_loc9='Sangue Bruciante' WHERE entry=6844; /* name: Burning Blood */
 UPDATE locales_item SET name_loc9='Conchiglia Bruciata dal Sole' WHERE entry=6849; /* name: Sunscorched Shell */
+UPDATE locales_item SET name_loc9='Pinnagialla Maculato' WHERE entry=6887; /* name: Spotted Yellowtail */
+UPDATE locales_item SET name_loc9='Uovo Strapazzato alle Erbe' WHERE entry=6888; /* name: Herb Baked Egg */
+UPDATE locales_item SET name_loc9='Carne d\'Orso Affumicata' WHERE entry=6890; /* name: Smoked Bear Meat */
 UPDATE locales_item SET name_loc9='Heartswood' WHERE entry=6912; /* name: Heartswood */
+UPDATE locales_item SET name_loc9='Veleno Istantaneo' WHERE entry=6947; /* name: Instant Poison */
+UPDATE locales_item SET name_loc9='Pietra del Ritorno' WHERE entry=6948; /* name: Hearthstone */
 UPDATE locales_item SET name_loc9='Pugno di Verigan' WHERE entry=6953; /* name: Verigan\'s Fist */
 UPDATE locales_item SET name_loc9='Tomo della Cabala' WHERE entry=6999; /* name: Tome of the Cabal */
+UPDATE locales_item SET name_loc9='Coltello da Scuoiatore' WHERE entry=7005; /* name: Skinning Knife */
+UPDATE locales_item SET name_loc9='Coscia' WHERE entry=7097; /* name: Leg Meat */
 UPDATE locales_item SET name_loc9='Bocche di Leone di Balnir' WHERE entry=7227; /* name: Balnir Snapdragons */
+UPDATE locales_item SET name_loc9='Gelato alla Fragola di Tigule e Foror' WHERE entry=7228; /* name: Tigule and Foror\'s Strawberry Ice Cream */
 UPDATE locales_item SET name_loc9='Forziere per Scrigni di Contenimento' WHERE entry=7247; /* name: Chest of Containment Coffers */
 UPDATE locales_item SET name_loc9='Trattato di Ur sulla Magia Oscura' WHERE entry=7266; /* name: Ur\'s Treatise on Shadow Magic */
 UPDATE locales_item SET name_loc9='Rovo Caricato di Fulmine' WHERE entry=7272; /* name: Bolt Charged Bramble */
 UPDATE locales_item SET name_loc9='Rituali del Potere' WHERE entry=7274; /* name: Rituals of Power */ /* description: By Magus Tirth */
 UPDATE locales_item SET name_loc9='Scrigno di Contenimento Riempito' WHERE entry=7292; /* name: Filled Containment Coffer */
 UPDATE locales_item SET name_loc9='Cantico di Manifestazione' WHERE entry=7308; /* name: Cantation of Manifestation */ /* description: Use near a mana rift disturbance */
+UPDATE locales_item SET name_loc9='Tè di Sboccialesto' WHERE entry=7676; /* name: Thistle Tea */
+UPDATE locales_item SET name_loc9='Devastatore' WHERE entry=7717; /* name: Ravager */
+UPDATE locales_item SET name_loc9='Leccalecca' WHERE entry=7806; /* name: Lollipop */
+UPDATE locales_item SET name_loc9='Barretta Candita' WHERE entry=7807; /* name: Candy Bar */
+UPDATE locales_item SET name_loc9='Barretta di Cioccolato' WHERE entry=7808; /* name: Chocolate Square */
+UPDATE locales_item SET name_loc9='Pietra Solida' WHERE entry=7912; /* name: Solid Stone */
+UPDATE locales_item SET name_loc9='Morbo' WHERE entry=7959; /* name: Blight */
+UPDATE locales_item SET name_loc9='Bivalve Gigante' WHERE entry=7973; /* name: Big-mouth Clam */
+UPDATE locales_item SET name_loc9='Sfilatino Evocato' WHERE entry=8075; /* name: Conjured Sourdough */
+UPDATE locales_item SET name_loc9='Pagnotta Evocata' WHERE entry=8076; /* name: Conjured Sweet Roll */
+UPDATE locales_item SET name_loc9='Acqua Minerale Evocata' WHERE entry=8077; /* name: Conjured Mineral Water */
+UPDATE locales_item SET name_loc9='Acqua Frizzante Evocata' WHERE entry=8078; /* name: Conjured Sparkling Water */
+UPDATE locales_item SET name_loc9='Acqua Cristallina Evocata' WHERE entry=8079; /* name: Conjured Crystal Water */
+UPDATE locales_item SET name_loc9='Trota Iridea' WHERE entry=8364; /* name: Mithril Head Trout */
+UPDATE locales_item SET name_loc9='Trota Iridea' WHERE entry=8365; /* name: Raw Mithril Head Trout */
+UPDATE locales_item SET name_loc9='R.O.I.D.I.' WHERE entry=8410; /* name: R.O.I.D.S. */ /* description: Robust Operational Imbue Derived From Snickerfang */
+UPDATE locales_item SET name_loc9='Cocktail di Succo di Polmoni' WHERE entry=8411; /* name: Lung Juice Cocktail */ /* description: 100% Grade A Lung Juice - Freshly Squeezed */
+UPDATE locales_item SET name_loc9='Assaggio di Scorpok di Terra' WHERE entry=8412; /* name: Ground Scorpok Assay */
+UPDATE locales_item SET name_loc9='Composto di Corteccia Cerebrale' WHERE entry=8423; /* name: Cerebral Cortex Compound */ /* description: Best Served Chilled */
+UPDATE locales_item SET name_loc9='Cicca alla Trippa' WHERE entry=8424; /* name: Gizzard Gum */ /* description: Strawberry Flavor */
 UPDATE locales_item SET name_loc9='Rocchetto di Luce e Filo di Seta Chartreuse' WHERE entry=8431; /* name: Spool of Light Chartreuse Silk Thread */
+UPDATE locales_item SET name_loc9='Gufo Cornuto Grande' WHERE entry=8500; /* name: Great Horned Owl */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Gufo Reale' WHERE entry=8501; /* name: Hawk Owl */ /* description: Teaches you how to summon this companion. */
 UPDATE locales_item SET name_loc9='Tragan Violetto' WHERE entry=8526; /* name: Violet Tragan */
+UPDATE locales_item SET name_loc9='Elisir di Granstrippo' WHERE entry=8529; /* name: Noggenfogger Elixir */
+UPDATE locales_item SET name_loc9='Benda di Telamagica' WHERE entry=8544; /* name: Mageweave Bandage */
+UPDATE locales_item SET name_loc9='Benda Pesante di Telamagica' WHERE entry=8545; /* name: Heavy Mageweave Bandage */
 UPDATE locales_item SET name_loc9='Uovo di Ippogrifo' WHERE entry=8564; /* name: Hippogryph Egg */ /* description: It\'s huge! */
 UPDATE locales_item SET name_loc9='Equipaggiamento per Ispezioni di Scrimshank' WHERE entry=8593; /* name: Scrimshank\'s Surveying Gear */
 UPDATE locales_item SET name_loc9='Segreto di Rin\'ji' WHERE entry=8724; /* name: Rin\'ji\'s Secret */
+UPDATE locales_item SET name_loc9='Rugiada della Gloria' WHERE entry=8766; /* name: Morning Glory Dew */
+UPDATE locales_item SET name_loc9='Elisir del Cammino Acquatico' WHERE entry=8827; /* name: Elixir of Water Walking */
 UPDATE locales_item SET name_loc9='Loto Viola' WHERE entry=8831; /* name: Purple Lotus */
 UPDATE locales_item SET name_loc9='Lacrima di Arthas' WHERE entry=8836; /* name: Arthas\' Tears */
 UPDATE locales_item SET name_loc9='Sungrass' WHERE entry=8838; /* name: Sungrass */
 UPDATE locales_item SET name_loc9='Blindweed' WHERE entry=8839; /* name: Blindweed */
 UPDATE locales_item SET name_loc9='Fungo Fantasma' WHERE entry=8845; /* name: Ghost Mushroom */
 UPDATE locales_item SET name_loc9='Gromsblood' WHERE entry=8846; /* name: Gromsblood */
+UPDATE locales_item SET name_loc9='Emmental d\'Alterac' WHERE entry=8932; /* name: Alterac Swiss */
+UPDATE locales_item SET name_loc9='Porcino Reale Essiccato' WHERE entry=8948; /* name: Dried King Bolete */
+UPDATE locales_item SET name_loc9='Elisir dell\'Agilità' WHERE entry=8949; /* name: Elixir of Agility */
+UPDATE locales_item SET name_loc9='Torta alle Ciliegie Casalinga' WHERE entry=8950; /* name: Homemade Cherry Pie */
+UPDATE locales_item SET name_loc9='Elisir della Difesa Superiore' WHERE entry=8951; /* name: Elixir of Greater Defense */
+UPDATE locales_item SET name_loc9='Quaglia Arrosto' WHERE entry=8952; /* name: Roasted Quail */
+UPDATE locales_item SET name_loc9='Banane Fritte' WHERE entry=8953; /* name: Deep Fried Plantains */
+UPDATE locales_item SET name_loc9='Ippoglosso Pennaspina Marinato' WHERE entry=8957; /* name: Spinefin Halibut */
+UPDATE locales_item SET name_loc9='Ippoglosso Pennaspina' WHERE entry=8959; /* name: Raw Spinefin Halibut */
+UPDATE locales_item SET name_loc9='Dono di Arthas' WHERE entry=9088; /* name: Gift of Arthas */
+UPDATE locales_item SET name_loc9='Pozione della Vite Selvaggia' WHERE entry=9144; /* name: Wildvine Potion */
+UPDATE locales_item SET name_loc9='Pietra Filosofale' WHERE entry=9149; /* name: Philosopher\'s Stone */ /* description: Required for Alchemical Transmutation. */
+UPDATE locales_item SET name_loc9='Elisir Rivela Non Morti' WHERE entry=9154; /* name: Elixir of Detect Undead */
+UPDATE locales_item SET name_loc9='Elisir Arcano' WHERE entry=9155; /* name: Arcane Elixir */
+UPDATE locales_item SET name_loc9='Elisir dell\'Intelletto Superiore' WHERE entry=9179; /* name: Elixir of Greater Intellect */
+UPDATE locales_item SET name_loc9='Elisir dell\'Agilità Superiore' WHERE entry=9187; /* name: Elixir of Greater Agility */
+UPDATE locales_item SET name_loc9='Elisir della Visione Onirica' WHERE entry=9197; /* name: Elixir of Dream Vision */
+UPDATE locales_item SET name_loc9='Elisir dei Giganti' WHERE entry=9206; /* name: Elixir of Giants */
+UPDATE locales_item SET name_loc9='Elisir del Cacciatore di Demoni' WHERE entry=9224; /* name: Elixir of Demonslaying */
+UPDATE locales_item SET name_loc9='Elisir Rivela Demoni' WHERE entry=9233; /* name: Elixir of Detect Demon */
+UPDATE locales_item SET name_loc9='Rum Imprevedibile' WHERE entry=9260; /* name: Volatile Rum */
+UPDATE locales_item SET name_loc9='Elisir del Potere dell\'Ombra' WHERE entry=9264; /* name: Elixir of Shadow Power */
 UPDATE locales_item SET name_loc9='Bottiglia di Veleno' WHERE entry=9321; /* name: Venom Bottle */
 UPDATE locales_item SET name_loc9='Feralas: Una Storia' WHERE entry=9331; /* name: Feralas: A History */
+UPDATE locales_item SET name_loc9='Giosuè Corvo' WHERE entry=9360; /* name: Cuergo\'s Gold */
+UPDATE locales_item SET name_loc9='Giosuè Corvo col Verme' WHERE entry=9361; /* name: Cuergo\'s Gold with Worm */
 UPDATE locales_item SET name_loc9='Pergamena Gordunni' WHERE entry=9370; /* name: Gordunni Scroll */
+UPDATE locales_item SET name_loc9='Lanterna della Speranza' WHERE entry=9393; /* name: Beacon of Hope */
+UPDATE locales_item SET name_loc9='Acqua Effervescente' WHERE entry=9451; /* name: Bubbling Water */
+UPDATE locales_item SET name_loc9='Strappaocchi' WHERE entry=9480; /* name: Eyegouger */
 UPDATE locales_item SET name_loc9='Appunto Inciso' WHERE entry=9565; /* name: Etched Note */
+UPDATE locales_item SET name_loc9='Zampe di Gran Crostaceo' WHERE entry=9681; /* name: Grilled King Crawler Legs */
+UPDATE locales_item SET name_loc9='Armatura Virtuosa' WHERE entry=10070; /* name: Righteous Armor */
+UPDATE locales_item SET name_loc9='Cuore Selvaggio' WHERE entry=10286; /* name: Heart of the Wild */
 UPDATE locales_item SET name_loc9='Carcassa Fresca di Zebra' WHERE entry=10338; /* name: Fresh Zhevra Carcass */
+UPDATE locales_item SET name_loc9='Re Serpente Nero' WHERE entry=10360; /* name: Black Kingsnake */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Serpente Bruno' WHERE entry=10361; /* name: Brown Snake */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Serpente Cremisi' WHERE entry=10392; /* name: Crimson Snake */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Scarafaggio' WHERE entry=10393; /* name: Cockroach */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Gallina Meccanica' WHERE entry=10398; /* name: Mechanical Chicken */ /* description: Teaches you how to summon this companion. */
 UPDATE locales_item SET name_loc9='Scatola di Felix' WHERE entry=10438; /* name: Felix\'s Box */
 UPDATE locales_item SET name_loc9='Lettera Bruciacchiata' WHERE entry=10443; /* name: Singed Letter */
+UPDATE locales_item SET name_loc9='Microavvitatore Giromatico' WHERE entry=10498; /* name: Gyromatic Micro-Adjustor */
 UPDATE locales_item SET name_loc9='Torcia del Castigo' WHERE entry=10515; /* name: Torch of Retribution */ /* description: The flame never falters */
 UPDATE locales_item SET name_loc9='Tavoletta di Beth\'Amara' WHERE entry=10538; /* name: Tablet of Beth\'Amara */
 UPDATE locales_item SET name_loc9='Tavoletta di Jin\'yael' WHERE entry=10539; /* name: Tablet of Jin\'yael */
 UPDATE locales_item SET name_loc9='Tavoletta di Markri' WHERE entry=10540; /* name: Tablet of Markri */
 UPDATE locales_item SET name_loc9='Tavoletta di Sael\'hai' WHERE entry=10541; /* name: Tablet of Sael\'hai */
 UPDATE locales_item SET name_loc9='Tesoro dell\' Aspetto Nero' WHERE entry=10569; /* name: Hoard of the Black Dragonflight */ /* description: Bears the mark of Kalaran the Deceiver */
+UPDATE locales_item SET name_loc9='Elisir dell\'Occhio Felino' WHERE entry=10592; /* name: Catseye Elixir */
 UPDATE locales_item SET name_loc9='Bandiera di Kadrak' WHERE entry=10622; /* name: Kadrak\'s Flag */
 UPDATE locales_item SET name_loc9='Fungo Hyacinth' WHERE entry=10639; /* name: Hyacinth Mushroom */
 UPDATE locales_item SET name_loc9='Giglio Moonpetal' WHERE entry=10641; /* name: Moonpetal Lily */
+UPDATE locales_item SET name_loc9='Archibugio del Drago dei Goblin' WHERE entry=10727; /* name: Goblin Dragon Gun */
 UPDATE locales_item SET name_loc9='Piuma di Wildkin' WHERE entry=10819; /* name: Wildkin Feather */
+UPDATE locales_item SET name_loc9='Draghetto Oscuro' WHERE entry=10822; /* name: Dark Whelpling */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Tè di Orospino' WHERE entry=10841; /* name: Goldthorn Tea */
+UPDATE locales_item SET name_loc9='Veleno Tossico' WHERE entry=10918; /* name: Wound Poison */
 UPDATE locales_item SET name_loc9='Ironfel' WHERE entry=10999; /* name: Ironfel */ /* description: Etched into the face of the hammer are the letters: F.F.F. */
+UPDATE locales_item SET name_loc9='Pollo Ancona' WHERE entry=11023; /* name: Ancona Chicken */ /* description: Teaches you how to summon this companion. */
 UPDATE locales_item SET name_loc9='Testa Mozzata di Gor\'tesh' WHERE entry=11079; /* name: Gor\'tesh\'s Lopped Off Head */ /* description: Gor\'tesh\'s severed head, propped up on a pike. */
 UPDATE locales_item SET name_loc9='Testa Mozzata di Gor\'tesh' WHERE entry=11080; /* name: Gor\'tesh\'s Lopped Off Head */ /* description: Squishy, Smelly, Slimy */
 UPDATE locales_item SET name_loc9='Un Piccolo Borsello' WHERE entry=11107; /* name: A Small Pack */
+UPDATE locales_item SET name_loc9='Mangime Speciale per Polli' WHERE entry=11109; /* name: Special Chicken Feed */
 UPDATE locales_item SET name_loc9='Equipaggiamento di Ricerca' WHERE entry=11112; /* name: Research Equipment */ /* description: Property of Marshal Expeditions. */
 UPDATE locales_item SET name_loc9='Cassa di Cibarie' WHERE entry=11113; /* name: Crate of Foodstuffs */ /* description: Property of Marshal Expeditions. */
 UPDATE locales_item SET name_loc9='Osso di Dinosauro' WHERE entry=11114; /* name: Dinosaur Bone */
@@ -232,18 +478,48 @@ UPDATE locales_item SET name_loc9='Cristallo del Potere Verde' WHERE entry=11185
 UPDATE locales_item SET name_loc9='Cristallo del Potere Rosso' WHERE entry=11186; /* name: Red Power Crystal */
 UPDATE locales_item SET name_loc9='Cristallo del Potere Giallo' WHERE entry=11188; /* name: Yellow Power Crystal */
 UPDATE locales_item SET name_loc9='Evoroot' WHERE entry=11242; /* name: Evoroot */
+UPDATE locales_item SET name_loc9='Elisir Videre' WHERE entry=11243; /* name: Videre Elixir */
 UPDATE locales_item SET name_loc9='Germoglio Bloodpetal' WHERE entry=11315; /* name: Bloodpetal Sprout */
 UPDATE locales_item SET name_loc9='Boccale di Birra Dark Iron' WHERE entry=11325; /* name: Dark Iron Ale Mug */
+UPDATE locales_item SET name_loc9='Insegna di Roccavento' WHERE entry=11364; /* name: Tabard of Stormwind */
+UPDATE locales_item SET name_loc9='Bacche Miste' WHERE entry=11415; /* name: Mixed Berries */
 UPDATE locales_item SET name_loc9='Cinghiale del Grim Guzzler' WHERE entry=11444; /* name: Grim Guzzler Boar */
+UPDATE locales_item SET name_loc9='Forza del cristallo' WHERE entry=11563; /* name: Crystal Force */
+UPDATE locales_item SET name_loc9='Cristallo Guardia' WHERE entry=11564; /* name: Crystal Ward */
 UPDATE locales_item SET name_loc9='Mela di Cactus' WHERE entry=11583; /* name: Cactus Apple */
+UPDATE locales_item SET name_loc9='Sformato di Mele di Cactus' WHERE entry=11584; /* name: Cactus Apple Surprise */
+UPDATE locales_item SET name_loc9='Ferroavverso' WHERE entry=11684; /* name: Ironfoe */
 UPDATE locales_item SET name_loc9='Libro Mastro di Goodsteel' WHERE entry=11727; /* name: Goodsteel Ledger */
+UPDATE locales_item SET name_loc9='Circolo delle Fiamme' WHERE entry=11808; /* name: Circle of Flame */
+UPDATE locales_item SET name_loc9='Forza di Volontà' WHERE entry=11810; /* name: Force of Will */
+UPDATE locales_item SET name_loc9='Pugni Fusi' WHERE entry=11814; /* name: Molten Fists */
+UPDATE locales_item SET name_loc9='Robobomba da Compagnia' WHERE entry=11825; /* name: Pet Bombling */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Fumetto Furbetto' WHERE entry=11826; /* name: Lil\' Smoky */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Mistura Speciale di Bigbang' WHERE entry=11846; /* name: Wizbang\'s Special Brew */
+UPDATE locales_item SET name_loc9='Bacche di Sbocciavento' WHERE entry=11950; /* name: Windblossom Berries */
+UPDATE locales_item SET name_loc9='Tubero Sferzarapa' WHERE entry=11951; /* name: Whipper Root Tuber */
+UPDATE locales_item SET name_loc9='Mentina all\'Alito di Drago' WHERE entry=11952; /* name: Night Dragon\'s Breath */
+UPDATE locales_item SET name_loc9='Birra Scura dei Nani' WHERE entry=12003; /* name: Dark Dwarven Lager */
 UPDATE locales_item SET name_loc9='Carne Misteriosa' WHERE entry=12037; /* name: Mystery Meat */
+UPDATE locales_item SET name_loc9='Pozione del Sonno Senza Sogni' WHERE entry=12190; /* name: Dreamless Sleep Potion */
 UPDATE locales_item SET name_loc9='Scrigno di Silver Dawning' WHERE entry=12191; /* name: Silver Dawning\'s Lockbox */
 UPDATE locales_item SET name_loc9='Scrigno di Mist Veil' WHERE entry=12192; /* name: Mist Veil\'s Lockbox */
+UPDATE locales_item SET name_loc9='Controfiletto di Lupo' WHERE entry=12209; /* name: Lean Wolf Steak */
+UPDATE locales_item SET name_loc9='Raptor Arrosto' WHERE entry=12210; /* name: Roast Raptor */
+UPDATE locales_item SET name_loc9='Stufato della Giungla' WHERE entry=12212; /* name: Jungle Stew */
+UPDATE locales_item SET name_loc9='Salame di Carogna' WHERE entry=12213; /* name: Carrion Surprise */
+UPDATE locales_item SET name_loc9='Stufato Misterioso' WHERE entry=12214; /* name: Mystery Stew */
+UPDATE locales_item SET name_loc9='Stufato Denso di Kodo' WHERE entry=12215; /* name: Heavy Kodo Stew */
+UPDATE locales_item SET name_loc9='Granchio Piccante al Chili' WHERE entry=12216; /* name: Spiced Chili Crab */
+UPDATE locales_item SET name_loc9='Chili alla Ruttafuoco' WHERE entry=12217; /* name: Dragonbreath Chili */
+UPDATE locales_item SET name_loc9='Omelette Mostruosa' WHERE entry=12218; /* name: Monster Omelet */
+UPDATE locales_item SET name_loc9='Ala Croccante di Pipistrello' WHERE entry=12224; /* name: Crispy Bat Wing */
+UPDATE locales_item SET name_loc9='Cernia di Rivafosca' WHERE entry=12238; /* name: Darkshore Grouper */
 UPDATE locales_item SET name_loc9='Essenza di Broodling' WHERE entry=12283; /* name: Broodling Essence */
 UPDATE locales_item SET name_loc9='Sigillo dell\'Ascensione non Forgiato' WHERE entry=12323; /* name: Unforged Seal of Ascension */
 UPDATE locales_item SET name_loc9='Sigillo dell\'Ascensione Forgiato' WHERE entry=12324; /* name: Forged Seal of Ascension */
 UPDATE locales_item SET name_loc9='Frammenti Frostmaul' WHERE entry=12334; /* name: Frostmaul Shards */
+UPDATE locales_item SET name_loc9='Sigillo dell\'Ascesa' WHERE entry=12344; /* name: Seal of Ascension */ /* description: Draconic runes appear and disappear along the inner band. */
 UPDATE locales_item SET name_loc9='Effetti di Bijou' WHERE entry=12345; /* name: Bijou\'s Belongings */
 UPDATE locales_item SET name_loc9='Uovo di Viverna di Highperch' WHERE entry=12356; /* name: Highperch Wyvern Egg */
 UPDATE locales_item SET name_loc9='Tavoletta Darkstone' WHERE entry=12358; /* name: Darkstone Tablet */
@@ -252,10 +528,15 @@ UPDATE locales_item SET name_loc9='Piuma Moontouched' WHERE entry=12383; /* name
 UPDATE locales_item SET name_loc9='Uovo Antico' WHERE entry=12402; /* name: Ancient Egg */
 UPDATE locales_item SET name_loc9='Terza Tavoletta Mosh\'aru' WHERE entry=12411; /* name: Third Mosh\'aru Tablet */
 UPDATE locales_item SET name_loc9='Quarta Tavoletta Mosh\'aru' WHERE entry=12412; /* name: Fourth Mosh\'aru Tablet */
+UPDATE locales_item SET name_loc9='Tizzone di Juju' WHERE entry=12455; /* name: Juju Ember */
+UPDATE locales_item SET name_loc9='Ghiacciolo di Juju' WHERE entry=12457; /* name: Juju Chill */
+UPDATE locales_item SET name_loc9='Olio di Juju' WHERE entry=12459; /* name: Juju Escape */
+UPDATE locales_item SET name_loc9='Vigore di Juju' WHERE entry=12460; /* name: Juju Might */
 UPDATE locales_item SET name_loc9='Uovo Alieno' WHERE entry=12467; /* name: Alien Egg */ /* description: Something seems to shake from within */
 UPDATE locales_item SET name_loc9='Scorte di Jaron' WHERE entry=12525; /* name: Jaron\'s Supplies */
 UPDATE locales_item SET name_loc9='Uovo di Ragno Spire' WHERE entry=12530; /* name: Spire Spider Egg */
 UPDATE locales_item SET name_loc9='Picca Ferrata' WHERE entry=12533; /* name: Roughshod Pike */
+UPDATE locales_item SET name_loc9='Comando del Signore della Guerra' WHERE entry=12563; /* name: Warlord Goretooth\'s Command */ /* description: Bears the seal of the K.E.F. */
 UPDATE locales_item SET name_loc9='Cassa di Provviste di Crossroads' WHERE entry=12708; /* name: Crossroads\' Supply Crates */
 UPDATE locales_item SET name_loc9='Pacchetto di Janice' WHERE entry=12724; /* name: Janice\'s Parcel */
 UPDATE locales_item SET name_loc9='Incendia Agave' WHERE entry=12732; /* name: Incendia Agave */
@@ -265,9 +546,12 @@ UPDATE locales_item SET name_loc9='Erba Oscura' WHERE entry=12737; /* name: Gloo
 UPDATE locales_item SET name_loc9='Quinta Tavoletta Mosh\'aru' WHERE entry=12740; /* name: Fifth Mosh\'aru Tablet */
 UPDATE locales_item SET name_loc9='Sesta Tavoletta Mosh\'aru' WHERE entry=12741; /* name: Sixth Mosh\'aru Tablet */
 UPDATE locales_item SET name_loc9='Pelle d\'Ombra' WHERE entry=12753; /* name: Skin of Shadow */
+UPDATE locales_item SET name_loc9='Comando del Generale Drakkisath' WHERE entry=12780; /* name: General Drakkisath\'s Command */
+UPDATE locales_item SET name_loc9='Tentacoli della Corruzione' WHERE entry=12782; /* name: Corruption */
 UPDATE locales_item SET name_loc9='Stendardo del Flagello' WHERE entry=12807; /* name: Scourge Banner */
 UPDATE locales_item SET name_loc9='Guanti a Piastre non Infuocati' WHERE entry=12812; /* name: Unfired Plate Gauntlets */
 UPDATE locales_item SET name_loc9='Torcia Faro' WHERE entry=12815; /* name: Beacon Torch */
+UPDATE locales_item SET name_loc9='Corroborante dei Freddinverno' WHERE entry=12820; /* name: Winterfall Firewater */
 UPDATE locales_item SET name_loc9='Bambola di Pamela' WHERE entry=12885; /* name: Pamela\'s Doll */
 UPDATE locales_item SET name_loc9='Testa della Bambola di Pamela' WHERE entry=12886; /* name: Pamela\'s Doll\'s Head */
 UPDATE locales_item SET name_loc9='Parte Sinistra della Bambola di Pamela' WHERE entry=12887; /* name: Pamela\'s Doll\'s Left Side */
@@ -277,12 +561,26 @@ UPDATE locales_item SET name_loc9='Sangue degli Eroi' WHERE entry=12938; /* name
 UPDATE locales_item SET name_loc9='Libram di Davil' WHERE entry=12954; /* name: Davil\'s Libram */
 UPDATE locales_item SET name_loc9='Scudo di Redpath' WHERE entry=12955; /* name: Redpath\'s Shield */
 UPDATE locales_item SET name_loc9='Spada Spezzata di Marduk' WHERE entry=12957; /* name: Shattered Sword of Marduk */
+UPDATE locales_item SET name_loc9='Cavaliere Nero' WHERE entry=12974; /* name: The Black Knight */
 UPDATE locales_item SET name_loc9='Dati del Flagello' WHERE entry=13176; /* name: Scourge Data */
 UPDATE locales_item SET name_loc9='Scritti Sacri degli Highborne' WHERE entry=13313; /* name: Sacred Highborne Writings */ /* description: The pages are tattered and worn... */
+UPDATE locales_item SET name_loc9='Tecnostruzzo Blu Ghiaccio Mod A' WHERE entry=13327; /* name: Icy Blue Mechanostrider Mod A */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Montone Nero' WHERE entry=13328; /* name: Black Ram */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Montone del Gelo' WHERE entry=13329; /* name: Frost Ram */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Redini del Nerodestriero' WHERE entry=13335; /* name: Deathcharger\'s Reins */ /* description: Teaches you how to summon Baron Rivendare\'s steed.  This is a very fast mount. */
 UPDATE locales_item SET name_loc9='Father Flame' WHERE entry=13371; /* name: Father Flame */
+UPDATE locales_item SET name_loc9='Anguilla Squamapietra' WHERE entry=13422; /* name: Stonescale Eel */
+UPDATE locales_item SET name_loc9='Pozione Pregevole di Mana' WHERE entry=13443; /* name: Superior Mana Potion */
+UPDATE locales_item SET name_loc9='Pozione Maggiore di Mana' WHERE entry=13444; /* name: Major Mana Potion */
+UPDATE locales_item SET name_loc9='Elisir della Difesa Pregevole' WHERE entry=13445; /* name: Elixir of Superior Defense */
+UPDATE locales_item SET name_loc9='Pozione Maggiore di Cura' WHERE entry=13446; /* name: Major Healing Potion */
+UPDATE locales_item SET name_loc9='Elisir dei Saggi' WHERE entry=13447; /* name: Elixir of the Sages */
 UPDATE locales_item SET name_loc9='L\'Atto di Caer Darrow' WHERE entry=13448; /* name: The Deed to Caer Darrow */ /* description: Carries the Seal of Barov. */
 UPDATE locales_item SET name_loc9='L\'Atto di Southshore' WHERE entry=13450; /* name: The Deed to Southshore */ /* description: Carries the Seal of Barov. */
 UPDATE locales_item SET name_loc9='L\'Atto di Tarren Mill' WHERE entry=13451; /* name: The Deed to Tarren Mill */ /* description: Carries the Seal of Barov. */
+UPDATE locales_item SET name_loc9='Elisir della Mangusta' WHERE entry=13452; /* name: Elixir of the Mongoose */
+UPDATE locales_item SET name_loc9='Elisir della Forza Bruta' WHERE entry=13453; /* name: Elixir of Brute Force */
+UPDATE locales_item SET name_loc9='Elisir Arcano Superiore' WHERE entry=13454; /* name: Greater Arcane Elixir */
 UPDATE locales_item SET name_loc9='Dreamfoil' WHERE entry=13463; /* name: Dreamfoil */
 UPDATE locales_item SET name_loc9='Golden Sansam' WHERE entry=13464; /* name: Golden Sansam */
 UPDATE locales_item SET name_loc9='Mountain Silversage' WHERE entry=13465; /* name: Mountain Silversage */
@@ -290,57 +588,326 @@ UPDATE locales_item SET name_loc9='Plaguebloom' WHERE entry=13466; /* name: Plag
 UPDATE locales_item SET name_loc9='Icecap' WHERE entry=13467; /* name: Icecap */
 UPDATE locales_item SET name_loc9='Loto Nero' WHERE entry=13468; /* name: Black Lotus */
 UPDATE locales_item SET name_loc9='L\'Atto di Brill' WHERE entry=13471; /* name: The Deed to Brill */ /* description: Carries the Seal of Barov. */
+UPDATE locales_item SET name_loc9='Tonico della Pietrificazione' WHERE entry=13506; /* name: Flask of Petrification */
+UPDATE locales_item SET name_loc9='Tonico dei Titani' WHERE entry=13510; /* name: Flask of the Titans */
+UPDATE locales_item SET name_loc9='Tonico della Saggezza Distillata' WHERE entry=13511; /* name: Flask of Distilled Wisdom */
+UPDATE locales_item SET name_loc9='Tonico della Potenza Suprema' WHERE entry=13512; /* name: Flask of Supreme Power */
+UPDATE locales_item SET name_loc9='Pesce Ventrerosso' WHERE entry=13546; /* name: Bloodbelly Fish */
+UPDATE locales_item SET name_loc9='Guinzaglio di Zergling' WHERE entry=13582; /* name: Zergling Leash */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Collare per Panda' WHERE entry=13583; /* name: Panda Collar */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Pietra di Diablo' WHERE entry=13584; /* name: Diablo Stone */ /* description: Teaches you how to summon this companion. */
 UPDATE locales_item SET name_loc9='Pegno della Memoria' WHERE entry=13585; /* name: Keepsake of Remembrance */ /* description: All of the pages are torn out. */
+UPDATE locales_item SET name_loc9='Pietra della Magia Superiore' WHERE entry=13602; /* name: Greater Spellstone */
+UPDATE locales_item SET name_loc9='Pietra della Magia Maggiore' WHERE entry=13603; /* name: Major Spellstone */
+UPDATE locales_item SET name_loc9='Pietra del Fuoco' WHERE entry=13699; /* name: Firestone */
+UPDATE locales_item SET name_loc9='Pietra del Fuoco Superiore' WHERE entry=13700; /* name: Greater Firestone */
+UPDATE locales_item SET name_loc9='Pietra del Fuoco Maggiore' WHERE entry=13701; /* name: Major Firestone */
 UPDATE locales_item SET name_loc9='Erba del Destino' WHERE entry=13702; /* name: Doom Weed */ /* description: Not to be confused with gloom weed, womb weed, or broom weed.  Or doom seed. */
+UPDATE locales_item SET name_loc9='Biscotto Ricostituente Arricchito' WHERE entry=13724; /* name: Enriched Manna Biscuit */
+UPDATE locales_item SET name_loc9='Pescetoro Lucente' WHERE entry=13754; /* name: Raw Glossy Mightfish */
+UPDATE locales_item SET name_loc9='Calamaro Invernale' WHERE entry=13755; /* name: Winter Squid */
+UPDATE locales_item SET name_loc9='Branzino Estivo' WHERE entry=13756; /* name: Raw Summer Bass */
+UPDATE locales_item SET name_loc9='Branchiarossa' WHERE entry=13758; /* name: Raw Redgill */
+UPDATE locales_item SET name_loc9='Barracuda Pinnanera' WHERE entry=13759; /* name: Raw Nightfin Snapper */
+UPDATE locales_item SET name_loc9='Salmone Scagliagialla' WHERE entry=13760; /* name: Raw Sunscale Salmon */
+UPDATE locales_item SET name_loc9='Fruttasole Benedetta' WHERE entry=13810; /* name: Blessed Sunfruit */
+UPDATE locales_item SET name_loc9='Spremuta di Fruttasole Benedetta' WHERE entry=13813; /* name: Blessed Sunfruit Juice */
+UPDATE locales_item SET name_loc9='Costolette di Lupo Piccanti' WHERE entry=13851; /* name: Hot Wolf Ribs */
 UPDATE locales_item SET name_loc9='Bundle of Wood' WHERE entry=13872; /* name: Bundle of Wood */
+UPDATE locales_item SET name_loc9='Cernia da 30 kg' WHERE entry=13880; /* name: 68 Pound Grouper */
+UPDATE locales_item SET name_loc9='Branchiarossa da 23 kg' WHERE entry=13887; /* name: 52 Pound Redgill */
+UPDATE locales_item SET name_loc9='Aragosta Chelascura' WHERE entry=13888; /* name: Darkclaw Lobster */
+UPDATE locales_item SET name_loc9='Salmone Scagliabianca' WHERE entry=13889; /* name: Raw Whitescale Salmon */
+UPDATE locales_item SET name_loc9='Pescetoro Gigante' WHERE entry=13893; /* name: Large Raw Mightfish */
+UPDATE locales_item SET name_loc9='Salmone da 13 kg' WHERE entry=13905; /* name: 29 Pound Salmon */
+UPDATE locales_item SET name_loc9='Aragosta da 11 kg' WHERE entry=13913; /* name: 22 Pound Lobster */
+UPDATE locales_item SET name_loc9='Pescetoro da 45 kg' WHERE entry=13917; /* name: 103 Pound Mightfish */
+UPDATE locales_item SET name_loc9='Pescetoro Lucente Lessato' WHERE entry=13927; /* name: Cooked Glossy Mightfish */
+UPDATE locales_item SET name_loc9='Calamaro alla Griglia' WHERE entry=13928; /* name: Grilled Squid */
+UPDATE locales_item SET name_loc9='Branzino Piccante Affumicato' WHERE entry=13929; /* name: Hot Smoked Bass */
+UPDATE locales_item SET name_loc9='Filetto di Branchiarossa' WHERE entry=13930; /* name: Filet of Redgill */
+UPDATE locales_item SET name_loc9='Zuppa di Pinnanera' WHERE entry=13931; /* name: Nightfin Soup */
+UPDATE locales_item SET name_loc9='Salmone Scagliagialla al Cartoccio' WHERE entry=13932; /* name: Poached Sunscale Salmon */
+UPDATE locales_item SET name_loc9='Stufato d\'Aragosta' WHERE entry=13933; /* name: Lobster Stew */
+UPDATE locales_item SET name_loc9='Trancio di Pescetoro' WHERE entry=13934; /* name: Mightfish Steak */
+UPDATE locales_item SET name_loc9='Salmone Impanato' WHERE entry=13935; /* name: Baked Salmon */
+UPDATE locales_item SET name_loc9='Benda di Telarunica' WHERE entry=14529; /* name: Runecloth Bandage */
+UPDATE locales_item SET name_loc9='Benda Pesante di Telarunica' WHERE entry=14530; /* name: Heavy Runecloth Bandage */
 UPDATE locales_item SET name_loc9='Simbolo dell\'Onore Perduto' WHERE entry=14625; /* name: Symbol of Lost Honor */ /* description: Order of the Silver Hand */
+UPDATE locales_item SET name_loc9='Radice di Giglio' WHERE entry=14894; /* name: Lily Root */
 UPDATE locales_item SET name_loc9='Picca di Nimboya' WHERE entry=15002; /* name: Nimboya\'s Pike */
+UPDATE locales_item SET name_loc9='Armatura del Manto Tempestoso' WHERE entry=15056; /* name: Stormshroud Armor */
+UPDATE locales_item SET name_loc9='Insegna del Soldato' WHERE entry=15196; /* name: Private\'s Tabard */
+UPDATE locales_item SET name_loc9='Insegna della Sentinella' WHERE entry=15197; /* name: Scout\'s Tabard */
+UPDATE locales_item SET name_loc9='Colori del Cavaliere' WHERE entry=15198; /* name: Knight\'s Colors */
+UPDATE locales_item SET name_loc9='Insegna della Guardia di Pietra' WHERE entry=15199; /* name: Stone Guard\'s Herald */
 UPDATE locales_item SET name_loc9='Fascio di Reliquie' WHERE entry=15209; /* name: Relic Bundle */
+UPDATE locales_item SET name_loc9='Kodo Verde' WHERE entry=15292; /* name: Green Kodo */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Kodo Verdeacqua' WHERE entry=15293; /* name: Teal Kodo */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Tè Zuccherato' WHERE entry=15723; /* name: Tea with Sugar */
 UPDATE locales_item SET name_loc9='Composto Speciale di Smokey' WHERE entry=15736; /* name: Smokey\'s Special Compound */ /* description: Keep away from fire. */
 UPDATE locales_item SET name_loc9='Registro di Quel\'Thalas' WHERE entry=15847; /* name: Quel\'Thalas Registry */ /* description: This book emits a faint glow. */
 UPDATE locales_item SET name_loc9='Blocchetto delle Ricevute di Augustus' WHERE entry=15884; /* name: Augustus\' Receipt Book */
+UPDATE locales_item SET name_loc9='Bomba Arcana' WHERE entry=16040; /* name: Arcane Bomb */
+UPDATE locales_item SET name_loc9='Zuppa di Fagioli' WHERE entry=16166; /* name: Bean Soup */
+UPDATE locales_item SET name_loc9='Dolcetto Variegato' WHERE entry=16167; /* name: Versicolor Treat */
+UPDATE locales_item SET name_loc9='Pesca Paradisiaca' WHERE entry=16168; /* name: Heaven Peach */
+UPDATE locales_item SET name_loc9='Torta di Riso Selvatico' WHERE entry=16169; /* name: Wild Ricecake */
+UPDATE locales_item SET name_loc9='Mandu al Vapore' WHERE entry=16170; /* name: Steamed Mandu */
+UPDATE locales_item SET name_loc9='Cacciucco' WHERE entry=16171; /* name: Shinsollo */
 UPDATE locales_item SET name_loc9='Seme di Gaea' WHERE entry=16205; /* name: Gaea Seed */
+UPDATE locales_item SET name_loc9='Amuleto Fuocodraco' WHERE entry=16309; /* name: Drakefire Amulet */ /* description: The Blood of Drakkisath Flows Within... */
 UPDATE locales_item SET name_loc9='Forziere di Felix' WHERE entry=16313; /* name: Felix\'s Chest */
 UPDATE locales_item SET name_loc9='Secchiello di Viti di Felix' WHERE entry=16314; /* name: Felix\'s Bucket of Bolts */
 UPDATE locales_item SET name_loc9='Piccone di Thazz\'ril' WHERE entry=16332; /* name: Thazz\'ril\'s Pick */
 UPDATE locales_item SET name_loc9='Cristallo Risonante' WHERE entry=16581; /* name: Resonite Crystal */ /* description: Magic stirs deep inside. */
+UPDATE locales_item SET name_loc9='Sangue del Campione dei Draghi Neri' WHERE entry=16663; /* name: Blood of the Black Dragon Champion */
 UPDATE locales_item SET name_loc9='Olio Warsong' WHERE entry=16744; /* name: Warsong Oil */
 UPDATE locales_item SET name_loc9='Carico d\'Asce Warsong' WHERE entry=16745; /* name: Warsong Axe Shipment */
+UPDATE locales_item SET name_loc9='Guazzetto di Bivalve Piccante' WHERE entry=16766; /* name: Undermine Clam Chowder */
 UPDATE locales_item SET name_loc9='Zaffiro di Aku\'Mai' WHERE entry=16784; /* name: Sapphire of Aku\'Mai */
+UPDATE locales_item SET name_loc9='Ruota del Timone del Capitano' WHERE entry=16788; /* name: Captain Rackmore\'s Wheel */
+UPDATE locales_item SET name_loc9='Pietra dell\'Anima' WHERE entry=16893; /* name: Soulstone */
+UPDATE locales_item SET name_loc9='Corazza Foderata di Grantempesta' WHERE entry=16897; /* name: Stormrage Chestguard */
+UPDATE locales_item SET name_loc9='Gambali Foderati di Grantempesta' WHERE entry=16901; /* name: Stormrage Legguards */
+UPDATE locales_item SET name_loc9='Corazza degli Zannacremisi' WHERE entry=16905; /* name: Bloodfang Chestpiece */
+UPDATE locales_item SET name_loc9='Pantaloni degli Zannacremisi' WHERE entry=16909; /* name: Bloodfang Pants */
+UPDATE locales_item SET name_loc9='Pantaloni di Ariafatua' WHERE entry=16915; /* name: Netherwind Pants */
+UPDATE locales_item SET name_loc9='Vesti di Ariafatua' WHERE entry=16916; /* name: Netherwind Robes */
+UPDATE locales_item SET name_loc9='Gambiere della Trascendenza' WHERE entry=16922; /* name: Leggings of Transcendence */
+UPDATE locales_item SET name_loc9='Vesti della Trascendenza' WHERE entry=16923; /* name: Robes of Transcendence */
+UPDATE locales_item SET name_loc9='Gambiere della Nemesi' WHERE entry=16930; /* name: Nemesis Leggings */
+UPDATE locales_item SET name_loc9='Vesti della Nemesi' WHERE entry=16931; /* name: Nemesis Robes */
+UPDATE locales_item SET name_loc9='Gambali Foderati del Predatore di Draghi' WHERE entry=16938; /* name: Dragonstalker\'s Legguards */
+UPDATE locales_item SET name_loc9='Pettorale Corazzato del Predatore di Draghi' WHERE entry=16942; /* name: Dragonstalker\'s Breastplate */
+UPDATE locales_item SET name_loc9='Gambali Corazzati delle Dieci Tempeste' WHERE entry=16946; /* name: Legplates of Ten Storms */
+UPDATE locales_item SET name_loc9='Pettorale Corazzato delle Dieci Tempeste' WHERE entry=16950; /* name: Breastplate of Ten Storms */
+UPDATE locales_item SET name_loc9='Kilt Corazzato del Giudizio' WHERE entry=16954; /* name: Judgement Legplates */
+UPDATE locales_item SET name_loc9='Pettorale Corazzato del Giudizio' WHERE entry=16958; /* name: Judgement Breastplate */
+UPDATE locales_item SET name_loc9='Gambali Corazzati dell\'Ira' WHERE entry=16962; /* name: Legplates of Wrath */
+UPDATE locales_item SET name_loc9='Pettorale Corazzato dell\'Ira' WHERE entry=16966; /* name: Breastplate of Wrath */
+UPDATE locales_item SET name_loc9='Bivalve a sorpresa' WHERE entry=16971; /* name: Clamlette Surprise */
 UPDATE locales_item SET name_loc9='Stendardo di Karang' WHERE entry=16972; /* name: Karang\'s Banner */
+UPDATE locales_item SET name_loc9='Benda da Triage' WHERE entry=16991; /* name: Triage Bandage */
+UPDATE locales_item SET name_loc9='Rum di Rumsey' WHERE entry=17048; /* name: Rumsey Rum */
+UPDATE locales_item SET name_loc9='Vera della Meticolosità' WHERE entry=17063; /* name: Band of Accuria */
+UPDATE locales_item SET name_loc9='Frammento dell\'Equilibrio' WHERE entry=17064; /* name: Shard of the Scale */
+UPDATE locales_item SET name_loc9='Grimorio di Pietradura Antico' WHERE entry=17067; /* name: Ancient Cornerstone Grimoire */
+UPDATE locales_item SET name_loc9='Araldo della Morte' WHERE entry=17068; /* name: Deathbringer */
+UPDATE locales_item SET name_loc9='Earthshaker' WHERE entry=17073; /* name: Earthshaker */
+UPDATE locales_item SET name_loc9='Vis\'kag, la Spargisangue' WHERE entry=17075; /* name: Vis\'kag the Bloodletter */
+UPDATE locales_item SET name_loc9='Spadone del Mietiossa' WHERE entry=17076; /* name: Bonereaver\'s Edge */
+UPDATE locales_item SET name_loc9='Drappo di Zaffirion' WHERE entry=17078; /* name: Sapphiron Drape */
+UPDATE locales_item SET name_loc9='Frammento della Fiamma' WHERE entry=17082; /* name: Shard of the Flame */
+UPDATE locales_item SET name_loc9='Mantello delle Nebbie Ammantate' WHERE entry=17102; /* name: Cloak of the Shrouded Mists */
+UPDATE locales_item SET name_loc9='Mietitore Spinale' WHERE entry=17104; /* name: Spinal Reaper */
+UPDATE locales_item SET name_loc9='Difensore di Malistar' WHERE entry=17106; /* name: Malistar\'s Defender */
+UPDATE locales_item SET name_loc9='Cappa del Sangue di Drago' WHERE entry=17107; /* name: Dragon\'s Blood Cape */
+UPDATE locales_item SET name_loc9='Kebab di Ratto degli Abissi' WHERE entry=17119; /* name: Deeprun Rat Kabob */
+UPDATE locales_item SET name_loc9='Sulfuras, Pugno di Ragnaros' WHERE entry=17182; /* name: Sulfuras, Hand of Ragnaros */
+UPDATE locales_item SET name_loc9='Spirito Festivo' WHERE entry=17196; /* name: Holiday Spirits */
+UPDATE locales_item SET name_loc9='Pan di Zenzero' WHERE entry=17197; /* name: Gingerbread Cookie */
+UPDATE locales_item SET name_loc9='Palla di Neve' WHERE entry=17202; /* name: Snowball */
+UPDATE locales_item SET name_loc9='Salsicce di Ragno' WHERE entry=17222; /* name: Spider Sausage */
 UPDATE locales_item SET name_loc9='Segnale Luminoso di Guse' WHERE entry=17324; /* name: Guse\'s Beacon */
+UPDATE locales_item SET name_loc9='Bastoncino Zuccherato' WHERE entry=17344; /* name: Candy Cane */
+UPDATE locales_item SET name_loc9='Fiasca Maggiore di Cura' WHERE entry=17348; /* name: Major Healing Draught */
+UPDATE locales_item SET name_loc9='Fiasca Pregevole di Cura' WHERE entry=17349; /* name: Superior Healing Draught */
+UPDATE locales_item SET name_loc9='Fiasca Maggiore di Mana' WHERE entry=17351; /* name: Major Mana Draught */
+UPDATE locales_item SET name_loc9='Fiasca Pregevole di Mana' WHERE entry=17352; /* name: Superior Mana Draught */
 UPDATE locales_item SET name_loc9='Segnale Luminoso di Ryson' WHERE entry=17362; /* name: Ryson\'s Beacon */
 UPDATE locales_item SET name_loc9='Segnale Luminoso di Ryson' WHERE entry=17363; /* name: Ryson\'s Beacon */
+UPDATE locales_item SET name_loc9='Birra Stagionale di Babbo Inverno' WHERE entry=17402; /* name: Greatfather\'s Winter Ale */
+UPDATE locales_item SET name_loc9='Liquori Effervescenti di Spargifumo' WHERE entry=17403; /* name: Steamwheedle Fizzy Spirits */
+UPDATE locales_item SET name_loc9='Caffè di Chicchi Misti' WHERE entry=17404; /* name: Blended Bean Brew */
+UPDATE locales_item SET name_loc9='Scamorza Festiva' WHERE entry=17406; /* name: Holiday Cheesewheel */
+UPDATE locales_item SET name_loc9='Pasticcio di Carne Casalingo di Graccu' WHERE entry=17407; /* name: Graccu\'s Homemade Meat Pie */
+UPDATE locales_item SET name_loc9='Salame Piccante' WHERE entry=17408; /* name: Spicy Beefstick */
 UPDATE locales_item SET name_loc9='Sega a Vapore' WHERE entry=17411; /* name: Steamsaw */
 UPDATE locales_item SET name_loc9='Segnale Luminoso di Ichman' WHERE entry=17505; /* name: Ichman\'s Beacon */
 UPDATE locales_item SET name_loc9='Segnale Luminoso di Vipore' WHERE entry=17506; /* name: Vipore\'s Beacon */
 UPDATE locales_item SET name_loc9='Segnale Luminoso di Slidore' WHERE entry=17507; /* name: Slidore\'s Beacon */
 UPDATE locales_item SET name_loc9='Provviste Irondeep' WHERE entry=17522; /* name: Irondeep Supplies */
 UPDATE locales_item SET name_loc9='Provviste Coldtooth' WHERE entry=17542; /* name: Coldtooth Supplies */
+UPDATE locales_item SET name_loc9='Elisir del Potere del Freddo' WHERE entry=17708; /* name: Elixir of Frost Power */
+UPDATE locales_item SET name_loc9='Travestimento di Grande Inverno' WHERE entry=17712; /* name: Winter Veil Disguise Kit */ /* description: For when the weather outside is frightful... */
 UPDATE locales_item SET name_loc9='Stendardo Stormpike' WHERE entry=17849; /* name: Stormpike Banner */
 UPDATE locales_item SET name_loc9='Stendardo Frostwolf' WHERE entry=17850; /* name: Frostwolf Banner */
+UPDATE locales_item SET name_loc9='Zaino di Pelle di Onyxia' WHERE entry=17966; /* name: Onyxia Hide Backpack */
 UPDATE locales_item SET name_loc9='Carne Essiccata' WHERE entry=18000; /* name: Tough Jerky */
+UPDATE locales_item SET name_loc9='Tozzo di Pane Raffermo' WHERE entry=18001; /* name: Tough Hunk of Bread */
 UPDATE locales_item SET name_loc9='Acqua Fresca Rinfrascante' WHERE entry=18005; /* name: Refreshing Spring Water */
+UPDATE locales_item SET name_loc9='Filetto di Lupo' WHERE entry=18045; /* name: Tender Wolf Steak */
+UPDATE locales_item SET name_loc9='Collare di Eskhandar' WHERE entry=18205; /* name: Eskhandar\'s Collar */
+UPDATE locales_item SET name_loc9='Foto Autografata di Foror & Tigule' WHERE entry=18228; /* name: Autographed Picture of Foror & Tigule */ /* description: The mystery remains unsolved. */
+UPDATE locales_item SET name_loc9='Calcaguerra Nero' WHERE entry=18243; /* name: Black Battlestrider */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Montone da Guerra Nero' WHERE entry=18244; /* name: Black War Ram */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Kodo da Guerra Nero' WHERE entry=18247; /* name: Black War Kodo */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Cavallo da Guerra Scheletrico Rosso' WHERE entry=18248; /* name: Red Skeletal Warhorse */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Pozione Maggiore del Rinvigorimento' WHERE entry=18253; /* name: Major Rejuvenation Potion */
+UPDATE locales_item SET name_loc9='Grog Verde di Gordok' WHERE entry=18269; /* name: Gordok Green Grog */
+UPDATE locales_item SET name_loc9='Mazzata Scura di Kreeg' WHERE entry=18284; /* name: Kreeg\'s Stout Beatdown */
+UPDATE locales_item SET name_loc9='Fumoscuro' WHERE entry=18287; /* name: Evermurky */ /* description: Tastes better going down than coming up! */
+UPDATE locales_item SET name_loc9='Acquavite di Melassa' WHERE entry=18288; /* name: Molasses Firewater */ /* description: Do not consume near open flames. */
+UPDATE locales_item SET name_loc9='Elisir del Respiro Acquatico Superiore' WHERE entry=18294; /* name: Elixir of Greater Water Breathing */
+UPDATE locales_item SET name_loc9='Nettare di Hyjal' WHERE entry=18300; /* name: Hyjal Nectar */
 UPDATE locales_item SET name_loc9='Frammento di Nucleo' WHERE entry=18412; /* name: Core Fragment */
 UPDATE locales_item SET name_loc9='Frammento Felvine' WHERE entry=18501; /* name: Felvine Shard */
+UPDATE locales_item SET name_loc9='Tifone' WHERE entry=18542; /* name: Typhoon */
+UPDATE locales_item SET name_loc9='Essenza del Signore del Fuoco' WHERE entry=18566; /* name: Essence of the Firelord */
+UPDATE locales_item SET name_loc9='Lame Gemelle di Azzinoth' WHERE entry=18582; /* name: The Twin Blades of Azzinoth */
 UPDATE locales_item SET name_loc9='Doomguard Imprigionata' WHERE entry=18605; /* name: Imprisoned Doomguard */
 UPDATE locales_item SET name_loc9='Fuoco Vile' WHERE entry=18626; /* name: Fel Fire */
+UPDATE locales_item SET name_loc9='Dolce Morbido di Rivoluna' WHERE entry=18632; /* name: Moonbrook Riot Taffy */
+UPDATE locales_item SET name_loc9='Leccalecca Frizzante di Styleen' WHERE entry=18633; /* name: Styleen\'s Sour Suckerpop */
+UPDATE locales_item SET name_loc9='Barretta di Bellara' WHERE entry=18635; /* name: Bellara\'s Nutterbar */
 UPDATE locales_item SET name_loc9='Un Trattato sui Ranghi Militari' WHERE entry=18664; /* name: A Treatise on Military Ranks */
 UPDATE locales_item SET name_loc9='Ranghi Militari dell\'Orda e dell\'Alleanza' WHERE entry=18675; /* name: Military Ranks of the Horde & Alliance */
 UPDATE locales_item SET name_loc9='Divinatore Cristallomante' WHERE entry=18746; /* name: Divination Scryer */
+UPDATE locales_item SET name_loc9='Raptor Blu Rapido' WHERE entry=18788; /* name: Swift Blue Raptor */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Raptor Oliva Rapido' WHERE entry=18789; /* name: Swift Olive Raptor */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Raptor Arancio Rapido' WHERE entry=18790; /* name: Swift Orange Raptor */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Anello del Vincolo' WHERE entry=18813; /* name: Ring of Binding */
+UPDATE locales_item SET name_loc9='Girocollo del Signore del Fuoco' WHERE entry=18814; /* name: Choker of the Fire Lord */
+UPDATE locales_item SET name_loc9='Essenza della Fiamma Pura' WHERE entry=18815; /* name: Essence of the Pure Flame */
+UPDATE locales_item SET name_loc9='Lama della Perdizione' WHERE entry=18816; /* name: Perdition\'s Blade */
+UPDATE locales_item SET name_loc9='Corona della Distruzione' WHERE entry=18817; /* name: Crown of Destruction */
+UPDATE locales_item SET name_loc9='Difesa del Gran Maresciallo' WHERE entry=18825; /* name: Grand Marshal\'s Aegis */
+UPDATE locales_item SET name_loc9='Fregio dell\'Orda' WHERE entry=18834; /* name: Insignia of the Horde */
+UPDATE locales_item SET name_loc9='Pozione di Cura da Combattimento' WHERE entry=18839; /* name: Combat Healing Potion */
+UPDATE locales_item SET name_loc9='Pozione di Mana da Combattimento' WHERE entry=18841; /* name: Combat Mana Potion */
+UPDATE locales_item SET name_loc9='Fregio dell\'Orda' WHERE entry=18845; /* name: Insignia of the Horde */
+UPDATE locales_item SET name_loc9='Fregio dell\'Orda' WHERE entry=18846; /* name: Insignia of the Horde */
+UPDATE locales_item SET name_loc9='Fregio dell\'Orda' WHERE entry=18849; /* name: Insignia of the Horde */
+UPDATE locales_item SET name_loc9='Fregio dell\'Orda' WHERE entry=18850; /* name: Insignia of the Horde */
+UPDATE locales_item SET name_loc9='Fregio dell\'Orda' WHERE entry=18851; /* name: Insignia of the Horde */
+UPDATE locales_item SET name_loc9='Fregio dell\'Orda' WHERE entry=18852; /* name: Insignia of the Horde */
+UPDATE locales_item SET name_loc9='Fregio dell\'Orda' WHERE entry=18853; /* name: Insignia of the Horde */
+UPDATE locales_item SET name_loc9='Fregio dell\'Alleanza' WHERE entry=18854; /* name: Insignia of the Alliance */
+UPDATE locales_item SET name_loc9='Fregio dell\'Alleanza' WHERE entry=18856; /* name: Insignia of the Alliance */
+UPDATE locales_item SET name_loc9='Fregio dell\'Alleanza' WHERE entry=18857; /* name: Insignia of the Alliance */
+UPDATE locales_item SET name_loc9='Fregio dell\'Alleanza' WHERE entry=18858; /* name: Insignia of the Alliance */
+UPDATE locales_item SET name_loc9='Fregio dell\'Alleanza' WHERE entry=18859; /* name: Insignia of the Alliance */
+UPDATE locales_item SET name_loc9='Fregio dell\'Alleanza' WHERE entry=18862; /* name: Insignia of the Alliance */
+UPDATE locales_item SET name_loc9='Fregio dell\'Alleanza' WHERE entry=18863; /* name: Insignia of the Alliance */
+UPDATE locales_item SET name_loc9='Fregio dell\'Alleanza' WHERE entry=18864; /* name: Insignia of the Alliance */
 UPDATE locales_item SET name_loc9='Piani Segreti: Flusso Ardente' WHERE entry=18922; /* name: Secret Plans: Fiery Flux */ /* description: Keep away from Thorium Brotherhood. */
 UPDATE locales_item SET name_loc9='Cuscino Dark Iron' WHERE entry=18943; /* name: Dark Iron Pillow */
+UPDATE locales_item SET name_loc9='Pietra della Salute' WHERE entry=19008; /* name: Healthstone */
+UPDATE locales_item SET name_loc9='Pietra della Salute' WHERE entry=19009; /* name: Healthstone */
+UPDATE locales_item SET name_loc9='Essenza del Signore del Fuoco' WHERE entry=19017; /* name: Essence of the Firelord */
+UPDATE locales_item SET name_loc9='Furiatonante, Lama Benedetta del Vento Eterno' WHERE entry=19019; /* name: Thunderfury, Blessed Blade of the Windseeker */
+UPDATE locales_item SET name_loc9='Vestito Elegante' WHERE entry=19028; /* name: Elegant Dress */
+UPDATE locales_item SET name_loc9='Gran Destriero da Guerra dei Piccatonante' WHERE entry=19030; /* name: Stormpike Battle Charger */ /* description: Teaches you how to summon this mount.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Insegna da Battaglia dei Lupi Bianchi' WHERE entry=19031; /* name: Frostwolf Battle Tabard */
+UPDATE locales_item SET name_loc9='Insegna da Battaglia dei Piccatonante' WHERE entry=19032; /* name: Stormpike Battle Tabard */
 UPDATE locales_item SET name_loc9='Attrezzi Perduti di Slagtree' WHERE entry=19033; /* name: Slagtree\'s Lost Tools */
+UPDATE locales_item SET name_loc9='Razione Arricchita della Forra dei Cantaguerra' WHERE entry=19060; /* name: Warsong Gulch Enriched Ration */
+UPDATE locales_item SET name_loc9='Razione Ferrea della Forra dei Cantaguerra' WHERE entry=19061; /* name: Warsong Gulch Iron Ration */
+UPDATE locales_item SET name_loc9='Razione da Campo della Forra dei Cantaguerra' WHERE entry=19062; /* name: Warsong Gulch Field Ration */
+UPDATE locales_item SET name_loc9='Benda di Telarunica della Forra dei Cantaguerra' WHERE entry=19066; /* name: Warsong Gulch Runecloth Bandage */
+UPDATE locales_item SET name_loc9='Benda di Telamagica della Forra dei Cantaguerra' WHERE entry=19067; /* name: Warsong Gulch Mageweave Bandage */
+UPDATE locales_item SET name_loc9='Benda di Seta della Forra dei Cantaguerra' WHERE entry=19068; /* name: Warsong Gulch Silk Bandage */
 UPDATE locales_item SET name_loc9='Vaso di Sangue Contaminato' WHERE entry=19071; /* name: Vessel of Tainted Blood */
+UPDATE locales_item SET name_loc9='Morsa Gelida' WHERE entry=19103; /* name: Frostbite */
+UPDATE locales_item SET name_loc9='Cinturone della Furia' WHERE entry=19137; /* name: Onslaught Girdle */
+UPDATE locales_item SET name_loc9='Vera di Sulfuras' WHERE entry=19138; /* name: Band of Sulfuras */
+UPDATE locales_item SET name_loc9='Insegna del Vincitore del Concorso' WHERE entry=19160; /* name: Contest Winner\'s Tabard */
+UPDATE locales_item SET name_loc9='Guardia Nera' WHERE entry=19168; /* name: Blackguard */
+UPDATE locales_item SET name_loc9='Riserva Speciale di Lunacupa' WHERE entry=19221; /* name: Darkmoon Special Reserve */
+UPDATE locales_item SET name_loc9='Birra in Offerta' WHERE entry=19222; /* name: Cheap Beer */
+UPDATE locales_item SET name_loc9='Salsicciotto di Lunacupa' WHERE entry=19223; /* name: Darkmoon Dog */
+UPDATE locales_item SET name_loc9='Alette Piccanti' WHERE entry=19224; /* name: Red Hot Wings */
+UPDATE locales_item SET name_loc9='Barretta Candita Fritta' WHERE entry=19225; /* name: Deep Fried Candybar */
+UPDATE locales_item SET name_loc9='Bevanda Frizzante della Fiera' WHERE entry=19299; /* name: Fizzy Faire Drink */
+UPDATE locales_item SET name_loc9='Bottiglia d\'Acqua di Lungoinverno' WHERE entry=19300; /* name: Bottled Winterspring Water */
+UPDATE locales_item SET name_loc9='Biscotto Ricostituente d\'Alterac' WHERE entry=19301; /* name: Alterac Manna Biscuit */
+UPDATE locales_item SET name_loc9='Manzo Speziato Essiccato' WHERE entry=19304; /* name: Spiced Beef Jerky */
+UPDATE locales_item SET name_loc9='Zampa di Kodo in Salamoia' WHERE entry=19305; /* name: Pickled Kodo Foot */
+UPDATE locales_item SET name_loc9='Rana Croccante' WHERE entry=19306; /* name: Crunchy Frog */
+UPDATE locales_item SET name_loc9='Bottiglia d\'Acqua Sorgiva d\'Alterac' WHERE entry=19318; /* name: Bottled Alterac Spring Water */ /* description: From the mountain springs of Alterac! */
+UPDATE locales_item SET name_loc9='Bastone della Fiamma dell\'Ombra' WHERE entry=19356; /* name: Staff of the Shadow Flame */
+UPDATE locales_item SET name_loc9='Lok\'amir il Romathis' WHERE entry=19360; /* name: Lok\'amir il Romathis */ /* description: The Hand of Nefarius */
+UPDATE locales_item SET name_loc9='Crul\'shorukh, Lama del Caos' WHERE entry=19363; /* name: Crul\'shorukh, Edge of Chaos */
+UPDATE locales_item SET name_loc9='Ashkandi, Granspada della Fratellanza' WHERE entry=19364; /* name: Ashkandi, Greatsword of the Brotherhood */ /* description: The initials A.L. are etched on the hilt. */
+UPDATE locales_item SET name_loc9='Mish\'undare, Mitra dello Scorticatore di Menti' WHERE entry=19375; /* name: Mish\'undare, Circlet of the Mind Flayer */
+UPDATE locales_item SET name_loc9='Anello del Regolamento di Conti di Archimtiros' WHERE entry=19376; /* name: Archimtiros\' Ring of Reckoning */
+UPDATE locales_item SET name_loc9='Talismano della Connivenza di Prestor' WHERE entry=19377; /* name: Prestor\'s Talisman of Connivery */
+UPDATE locales_item SET name_loc9='Mantello del Signore della Stirpe' WHERE entry=19378; /* name: Cloak of the Brood Lord */ /* description: The threading is unlike anything you have ever seen. It appears metallic in origin. */
+UPDATE locales_item SET name_loc9='Lacrima di Neltharion' WHERE entry=19379; /* name: Neltharion\'s Tear */ /* description: A silver liquid flows within the impenetrable ebony shell. The item feels pure. It radiates an essence of extreme power. */
+UPDATE locales_item SET name_loc9='Cintura di Therazane' WHERE entry=19380; /* name: Therazane\'s Link */ /* description: The metal is warm to the touch. The links connecting the belt together appear to be fashioned out of Elementium. */
+UPDATE locales_item SET name_loc9='Stivali della Fiamma dell\'Ombra' WHERE entry=19381; /* name: Boots of the Shadow Flame */
+UPDATE locales_item SET name_loc9='Vera d\'Elementio Puro' WHERE entry=19382; /* name: Pure Elementium Band */ /* description: Flawless. Indestructible. You cannot comprehend the craftsmanship involved with the creation of this ring. */
+UPDATE locales_item SET name_loc9='Insegna da Battaglia dei Cantaguerra' WHERE entry=19505; /* name: Warsong Battle Tabard */
+UPDATE locales_item SET name_loc9='Insegna degli Alargentea' WHERE entry=19506; /* name: Silverwing Battle Tabard */
+UPDATE locales_item SET name_loc9='Pane del Raccolto' WHERE entry=19696; /* name: Harvest Bread */
+UPDATE locales_item SET name_loc9='Pesceforte Scagliadura' WHERE entry=19808; /* name: Rockhide Strongfish */
+UPDATE locales_item SET name_loc9='Zin\'rokh, Distruttrice di Mondi' WHERE entry=19854; /* name: Zin\'rokh, Destroyer of Worlds */
+UPDATE locales_item SET name_loc9='Raptor Razzashi' WHERE entry=19872; /* name: Swift Razzashi Raptor */ /* description: Teaches you how to summon Bloodlord Mandokir\'s raptor.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Tigre Zuliana' WHERE entry=19902; /* name: Swift Zulian Tiger */ /* description: Teaches you how to summon High Preist Thekal\'s tiger.  This is a very fast mount. */
+UPDATE locales_item SET name_loc9='Canna da Pesca d\'Arcanite' WHERE entry=19970; /* name: Arcanite Fishing Pole */ /* description: It looks like Nat Pagle himself used this. */
 UPDATE locales_item SET name_loc9='Esca Mudskunk' WHERE entry=19974; /* name: Mudskunk Lure */
+UPDATE locales_item SET name_loc9='Amo del Maestro Pescatore' WHERE entry=19979; /* name: Hook of the Master Angler */
+UPDATE locales_item SET name_loc9='Dente di Gigantosauro' WHERE entry=19992; /* name: Devilsaur Tooth */
 UPDATE locales_item SET name_loc9='Frutta Raccola' WHERE entry=19994; /* name: Harvest Fruit */
 UPDATE locales_item SET name_loc9='Cinghiale Raccolto' WHERE entry=19995; /* name: Harvest Boar */
 UPDATE locales_item SET name_loc9='Pesce Raccolto' WHERE entry=19996; /* name: Harvest Fish */
 UPDATE locales_item SET name_loc9='Nettare Raccolto' WHERE entry=19997; /* name: Harvest Nectar */
+UPDATE locales_item SET name_loc9='Pozione Superiore del Sonno Senza Sogni' WHERE entry=20002; /* name: Greater Dreamless Sleep Potion */
+UPDATE locales_item SET name_loc9='Essenza di Mango' WHERE entry=20031; /* name: Essence Mango */
+UPDATE locales_item SET name_loc9='Razione Arricchita del Bacino d\'Arathi' WHERE entry=20062; /* name: Arathi Basin Enriched Ration */
+UPDATE locales_item SET name_loc9='Razione da Campo del Bacino d\'Arathi' WHERE entry=20063; /* name: Arathi Basin Field Ration */
+UPDATE locales_item SET name_loc9='Razione Ferrea del Bacino d\'Arathi' WHERE entry=20064; /* name: Arathi Basin Iron Ration */
+UPDATE locales_item SET name_loc9='Benda di Telamagica del Bacino d\'Arathi' WHERE entry=20065; /* name: Arathi Basin Mageweave Bandage */
+UPDATE locales_item SET name_loc9='Benda di Telarunica del Bacino d\'Arathi' WHERE entry=20066; /* name: Arathi Basin Runecloth Bandage */
+UPDATE locales_item SET name_loc9='Benda di Seta del Bacino d\'Arathi' WHERE entry=20067; /* name: Arathi Basin Silk Bandage */
+UPDATE locales_item SET name_loc9='Stufato Denso di Crocolisco' WHERE entry=20074; /* name: Heavy Crocolisk Stew */
+UPDATE locales_item SET name_loc9='Spirito di Zanza' WHERE entry=20079; /* name: Spirit of Zanza */ /* description: Blessed with the mojo of Zanza! */
+UPDATE locales_item SET name_loc9='Bagliore di Zanza' WHERE entry=20080; /* name: Sheen of Zanza */ /* description: Blessed with the mojo of Zanza! */
+UPDATE locales_item SET name_loc9='Rapidità di Zanza' WHERE entry=20081; /* name: Swiftness of Zanza */ /* description: Blessed with the mojo of Zanza! */
+UPDATE locales_item SET name_loc9='Insegna da Battaglia dei Profanatori' WHERE entry=20131; /* name: Battle Tabard of the Defilers */
+UPDATE locales_item SET name_loc9='Insegna da Battaglia degli Arathor' WHERE entry=20132; /* name: Arathor Battle Tabard */
+UPDATE locales_item SET name_loc9='Razione Arricchita dei Profanatori' WHERE entry=20222; /* name: Defiler\'s Enriched Ration */
+UPDATE locales_item SET name_loc9='Razione da Campo dei Profanatori' WHERE entry=20223; /* name: Defiler\'s Field Ration */
+UPDATE locales_item SET name_loc9='Razione Ferrea dei Profanatori' WHERE entry=20224; /* name: Defiler\'s Iron Ration */
+UPDATE locales_item SET name_loc9='Razione Arricchita degli Altopiani' WHERE entry=20225; /* name: Highlander\'s Enriched Ration */
+UPDATE locales_item SET name_loc9='Razione da Campo degli Altopiani' WHERE entry=20226; /* name: Highlander\'s Field Ration */
+UPDATE locales_item SET name_loc9='Razione Ferrea degli Altopiani' WHERE entry=20227; /* name: Highlander\'s Iron Ration */
+UPDATE locales_item SET name_loc9='Benda di Telamagica dei Profanatori' WHERE entry=20232; /* name: Defiler\'s Mageweave Bandage */
+UPDATE locales_item SET name_loc9='Benda di Telarunica dei Profanatori' WHERE entry=20234; /* name: Defiler\'s Runecloth Bandage */
+UPDATE locales_item SET name_loc9='Benda di Seta dei Profanatori' WHERE entry=20235; /* name: Defiler\'s Silk Bandage */
+UPDATE locales_item SET name_loc9='Benda di Telamagica degli Altopiani' WHERE entry=20237; /* name: Highlander\'s Mageweave Bandage */
+UPDATE locales_item SET name_loc9='Benda di Telarunica degli Altopiani' WHERE entry=20243; /* name: Highlander\'s Runecloth Bandage */
+UPDATE locales_item SET name_loc9='Benda di Seta degli Altopiani' WHERE entry=20244; /* name: Highlander\'s Silk Bandage */
+UPDATE locales_item SET name_loc9='Uovo di Murloc Blu' WHERE entry=20371; /* name: Blue Murloc Egg */ /* description: Teaches you how to summon this companion. */
 UPDATE locales_item SET name_loc9='Frammento di Tavoletta Twilight' WHERE entry=20378; /* name: Twilight Tablet Fragment */
 UPDATE locales_item SET name_loc9='Borsello di Noggle' WHERE entry=20379; /* name: Noggle\'s Satchel */
+UPDATE locales_item SET name_loc9='Leccalecca' WHERE entry=20388; /* name: Lollipop */
+UPDATE locales_item SET name_loc9='Grano Caramellato' WHERE entry=20389; /* name: Candy Corn */
+UPDATE locales_item SET name_loc9='Barretta Candita' WHERE entry=20390; /* name: Candy Bar */
+UPDATE locales_item SET name_loc9='Gnocchi di Verme Affumicati' WHERE entry=20452; /* name: Smoked Desert Dumplings */
 UPDATE locales_item SET name_loc9='Prisma del Cristallo Glifico' WHERE entry=20463; /* name: Glyphed Crystal Prism */
 UPDATE locales_item SET name_loc9='Pergamena Magica del Flagello' WHERE entry=20471; /* name: Scroll of Scourge Magic */
+UPDATE locales_item SET name_loc9='Mela Galleggiante' WHERE entry=20516; /* name: Bobbing Apple */ /* description: Crisp, delicious and hopefully worm-free */
+UPDATE locales_item SET name_loc9='Contrassegno d\'Onore della Forra dei Cantaguerra' WHERE entry=20558; /* name: Warsong Gulch Mark of Honor */ /* description: Medal awarded for fighting in Warsong Gulch */
+UPDATE locales_item SET name_loc9='Contrassegno d\'Onore del Bacino d\'Arathi' WHERE entry=20559; /* name: Arathi Basin Mark of Honor */ /* description: Medal awarded for fighting in Arathi Basin */
+UPDATE locales_item SET name_loc9='Contrassegno d\'Onore della Valle d\'Alterac' WHERE entry=20560; /* name: Alterac Valley Mark of Honor */ /* description: Medal awarded for fighting in Alterac Valley */
+UPDATE locales_item SET name_loc9='Rum Chiaro di Rumsey' WHERE entry=20709; /* name: Rumsey Rum Light */
+UPDATE locales_item SET name_loc9='Olio Magico Minore' WHERE entry=20744; /* name: Minor Wizard Oil */
+UPDATE locales_item SET name_loc9='Olio di Mana Minore' WHERE entry=20745; /* name: Minor Mana Oil */
+UPDATE locales_item SET name_loc9='Olio Magico Inferiore' WHERE entry=20746; /* name: Lesser Wizard Oil */
+UPDATE locales_item SET name_loc9='Olio di Mana Inferiore' WHERE entry=20747; /* name: Lesser Mana Oil */
+UPDATE locales_item SET name_loc9='Olio di Mana Brillante' WHERE entry=20748; /* name: Brilliant Mana Oil */
+UPDATE locales_item SET name_loc9='Olio Magico Brillante' WHERE entry=20749; /* name: Brilliant Wizard Oil */
+UPDATE locales_item SET name_loc9='Olio Magico' WHERE entry=20750; /* name: Wizard Oil */
+UPDATE locales_item SET name_loc9='Melmina Disgustosa' WHERE entry=20769; /* name: Disgusting Oozeling */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Guscio del Dio Antico' WHERE entry=20933; /* name: Husk of the Old God */
+UPDATE locales_item SET name_loc9='Braciole Caustiche alla Dirge' WHERE entry=21023; /* name: Dirge\'s Kickin\' Chimaerok Chops */
+UPDATE locales_item SET name_loc9='Pasticcio Dolce di Darnassus' WHERE entry=21030; /* name: Darnassus Kimchi Pie */
+UPDATE locales_item SET name_loc9='Zuppa di Cavolo' WHERE entry=21031; /* name: Cabbage Kimchi */
+UPDATE locales_item SET name_loc9='Zuppa di Rapanelli' WHERE entry=21033; /* name: Radish Kimchi */
+UPDATE locales_item SET name_loc9='Pescesalvia' WHERE entry=21071; /* name: Raw Sagefish */
+UPDATE locales_item SET name_loc9='Pescesalvia Affumicato' WHERE entry=21072; /* name: Smoked Sagefish */
 UPDATE locales_item SET name_loc9='Draconico per Principianti' WHERE entry=21103; /* name: Draconic for Dummies */ /* description: Chapter I */
 UPDATE locales_item SET name_loc9='Draconico per Principianti' WHERE entry=21104; /* name: Draconic for Dummies */ /* description: Chapter II */
 UPDATE locales_item SET name_loc9='Draconico per Principianti' WHERE entry=21105; /* name: Draconic for Dummies */ /* description: Chapter III */
@@ -349,17 +916,55 @@ UPDATE locales_item SET name_loc9='Draconico per Principianti' WHERE entry=21107
 UPDATE locales_item SET name_loc9='Draconico per Principianti' WHERE entry=21108; /* name: Draconic for Dummies */ /* description: Chapter VI */
 UPDATE locales_item SET name_loc9='Draconico per Principianti' WHERE entry=21109; /* name: Draconic for Dummies */ /* description: Chapter VII */
 UPDATE locales_item SET name_loc9='Draconico per Principianti' WHERE entry=21110; /* name: Draconic for Dummies */ /* description: Chapter VIII */
+UPDATE locales_item SET name_loc9='Rum Scuro di Rumsey' WHERE entry=21114; /* name: Rumsey Rum Dark */
+UPDATE locales_item SET name_loc9='Aculeo della Morte' WHERE entry=21126; /* name: Death\'s Sting */
+UPDATE locales_item SET name_loc9='Lama Oscura della Follia' WHERE entry=21134; /* name: Dark Edge of Insanity */
+UPDATE locales_item SET name_loc9='Rum di Rumsey Etichetta Nera' WHERE entry=21151; /* name: Rumsey Rum Black Label */
+UPDATE locales_item SET name_loc9='Gran Pescesalvia' WHERE entry=21153; /* name: Raw Greater Sagefish */
+UPDATE locales_item SET name_loc9='Vestito Verde Celebrativo' WHERE entry=21157; /* name: Festive Green Dress */
 UPDATE locales_item SET name_loc9='Regalo Attentamente Incartato' WHERE entry=21191; /* name: Carefully Wrapped Present */
+UPDATE locales_item SET name_loc9='Pasticcio Agrodolce di Graccu' WHERE entry=21215; /* name: Graccu\'s Mince Meat Fruitcake */ /* description: Preserved with Graccu\'s special spices!  It\'ll be a very long time before these turn bad... */
+UPDATE locales_item SET name_loc9='Pescesalvia all\'Isolana' WHERE entry=21217; /* name: Sagefish Delight */
+UPDATE locales_item SET name_loc9='Arrosto di Grande Inverno' WHERE entry=21235; /* name: Winter Veil Roast */
+UPDATE locales_item SET name_loc9='Zabaione del Grande Inverno' WHERE entry=21241; /* name: Winter Veil Eggnog */
+UPDATE locales_item SET name_loc9='Biscotto di Grande Inverno' WHERE entry=21254; /* name: Winter Veil Cookie */ /* description: Fresh from the oven */
 UPDATE locales_item SET name_loc9='Calice da Brindisi' WHERE entry=21267; /* name: Toasting Goblet */
 UPDATE locales_item SET name_loc9='Regalo Lievemento Agitato' WHERE entry=21270; /* name: Gently Shaken Gift */
 UPDATE locales_item SET name_loc9='Regalo Lievemento Agitato' WHERE entry=21271; /* name: Gently Shaken Gift */
+UPDATE locales_item SET name_loc9='Yeti Meccanico Pacifico' WHERE entry=21277; /* name: Tranquil Mechanical Yeti */ /* description: Teaches you how to summon this companion. */
 UPDATE locales_item SET name_loc9='Regalo Gioiosamente Incartato' WHERE entry=21310; /* name: Gaily Wrapped Present */
+UPDATE locales_item SET name_loc9='Cristallo Echeggiante Qiraji Rosso' WHERE entry=21321; /* name: Red Qiraji Resonating Crystal */ /* description: Teaches you how to summon this mount.  This mount may only be summoned in the Temple of Ahn\'Qiraj. */
 UPDATE locales_item SET name_loc9='Regalo Tichettante' WHERE entry=21327; /* name: Ticking Present */
+UPDATE locales_item SET name_loc9='Vesti della Sventura' WHERE entry=21334; /* name: Doomcaller\'s Robes */
+UPDATE locales_item SET name_loc9='Vesti dell\'Enigma' WHERE entry=21343; /* name: Enigma Robes */
+UPDATE locales_item SET name_loc9='Paramento Oracolare' WHERE entry=21351; /* name: Vestments of the Oracle */
+UPDATE locales_item SET name_loc9='Veste della Genesi' WHERE entry=21357; /* name: Genesis Vest */
 UPDATE locales_item SET name_loc9='Regalo Festivo' WHERE entry=21363; /* name: Festive Gift */
+UPDATE locales_item SET name_loc9='Veste del Venditore di Morte' WHERE entry=21364; /* name: Deathdealer\'s Vest */
+UPDATE locales_item SET name_loc9='Usbergo dell\'Assalitore' WHERE entry=21370; /* name: Striker\'s Hauberk */
+UPDATE locales_item SET name_loc9='Usbergo dell\'Invocatore delle Tempeste' WHERE entry=21374; /* name: Stormcaller\'s Hauberk */
+UPDATE locales_item SET name_loc9='Pettorale Corazzato della Vendetta' WHERE entry=21389; /* name: Avenger\'s Breastplate */
 UPDATE locales_item SET name_loc9='Vischio' WHERE entry=21519; /* name: Mistletoe */
+UPDATE locales_item SET name_loc9='I Ravioli della Celebrazione della Luna' WHERE entry=21537; /* name: Festival Dumplings */
+UPDATE locales_item SET name_loc9='Vestito Rosa Celebrativo' WHERE entry=21538; /* name: Festive Pink Dress */
+UPDATE locales_item SET name_loc9='Vestito Viola Celebrativo' WHERE entry=21539; /* name: Festive Purple Dress */
+UPDATE locales_item SET name_loc9='Completo Nero Celebrativo' WHERE entry=21541; /* name: Festive Black Pant Suit */
+UPDATE locales_item SET name_loc9='Completo Verdeacqua Celebrativo' WHERE entry=21543; /* name: Festive Teal Pant Suit */
+UPDATE locales_item SET name_loc9='Completo Blu Celebrativo' WHERE entry=21544; /* name: Festive Blue Pant Suit */
+UPDATE locales_item SET name_loc9='Elisir della Potenza del Fuoco Superiore' WHERE entry=21546; /* name: Elixir of Greater Firepower */
+UPDATE locales_item SET name_loc9='Pinnagialla Striato' WHERE entry=21552; /* name: Striped Yellowtail */
 UPDATE locales_item SET name_loc9='Lanciatore Fuochi d\'Artificio' WHERE entry=21569; /* name: Firework Launcher */
 UPDATE locales_item SET name_loc9='Lanciagrappoli' WHERE entry=21570; /* name: Cluster Launcher */
+UPDATE locales_item SET name_loc9='Tentacolo Dominato di C\'Thun' WHERE entry=21579; /* name: Vanquished Tentacle of C\'Thun */
+UPDATE locales_item SET name_loc9='Guanti Lunghi dell\'Annientamento' WHERE entry=21581; /* name: Gauntlets of Annihilation */
+UPDATE locales_item SET name_loc9='Fascia del Dio Antico' WHERE entry=21582; /* name: Grasp of the Old God */
+UPDATE locales_item SET name_loc9='Mantello della Lucidità' WHERE entry=21583; /* name: Cloak of Clarity */
+UPDATE locales_item SET name_loc9='Guanti Lunghi della Tempesta Oscura' WHERE entry=21585; /* name: Dark Storm Gauntlets */
+UPDATE locales_item SET name_loc9='Cintura dell\'Agonia Imperitura' WHERE entry=21586; /* name: Belt of Never-ending Agony */
+UPDATE locales_item SET name_loc9='Anello del Deicida' WHERE entry=21596; /* name: Ring of the Godslayer */
+UPDATE locales_item SET name_loc9='Bagliore Lunare' WHERE entry=21721; /* name: Moonglow */
 UPDATE locales_item SET name_loc9='Involucro Fortunato Rosso' WHERE entry=21746; /* name: Lucky Red Envelope */
+UPDATE locales_item SET name_loc9='Scettro del Falso Profeta' WHERE entry=21839; /* name: Scepter of the False Prophet */
 UPDATE locales_item SET name_loc9='Distillatore Ectoplasmatico' WHERE entry=21946; /* name: Ectoplasmic Distiller */
 UPDATE locales_item SET name_loc9='Stendardo di Provocazione' WHERE entry=21986; /* name: Banner of Provocation */
 UPDATE locales_item SET name_loc9='Bracierre del Richiamo' WHERE entry=22049; /* name: Brazier of Beckoning */
@@ -368,14 +973,46 @@ UPDATE locales_item SET name_loc9='Bracierre del Richiamo' WHERE entry=22051; /*
 UPDATE locales_item SET name_loc9='Bracierre del Richiamo' WHERE entry=22052; /* name: Brazier of Beckoning */
 UPDATE locales_item SET name_loc9='Bracierre del Richiamo' WHERE entry=22056; /* name: Brazier of Beckoning */
 UPDATE locales_item SET name_loc9='Braciere dell\'Invocazione' WHERE entry=22057; /* name: Brazier of Invocation */
+UPDATE locales_item SET name_loc9='Elisir d\'Algasangue della Schivata' WHERE entry=22192; /* name: Bloodkelp Elixir of Dodging */
+UPDATE locales_item SET name_loc9='Elisir d\'Algasangue della Resistenza' WHERE entry=22193; /* name: Bloodkelp Elixir of Resistance */
+UPDATE locales_item SET name_loc9='Bouquet di Rose Rosse' WHERE entry=22206; /* name: Bouquet of Red Roses */
+UPDATE locales_item SET name_loc9='Freccia Verargentata' WHERE entry=22235; /* name: Truesilver Shafted Arrow */ /* description: Teaches you how to summon Peddlefeet. */
+UPDATE locales_item SET name_loc9='Dolcetto Glassato' WHERE entry=22236; /* name: Buttermilk Delight */
+UPDATE locales_item SET name_loc9='Estasi Fondente' WHERE entry=22237; /* name: Dark Desire */
+UPDATE locales_item SET name_loc9='Crema ai Mirtilli' WHERE entry=22238; /* name: Very Berry Cream */
+UPDATE locales_item SET name_loc9='Dolce Sorpresa' WHERE entry=22239; /* name: Sweet Surprise */
+UPDATE locales_item SET name_loc9='Vestito Amoroso Nero' WHERE entry=22279; /* name: Lovely Black Dress */
+UPDATE locales_item SET name_loc9='Zuppa Invernale' WHERE entry=22324; /* name: Winter Kimchi */
 UPDATE locales_item SET name_loc9='Cenere Vulcanica' WHERE entry=22338; /* name: Volcanic Ash */
+UPDATE locales_item SET name_loc9='Redenzione' WHERE entry=22406; /* name: Redemption */
+UPDATE locales_item SET name_loc9='Atiesh, Granbastone del Guardiano' WHERE entry=22589; /* name: Atiesh, Greatstaff of the Guardian */
+UPDATE locales_item SET name_loc9='Atiesh, Granbastone del Guardiano' WHERE entry=22630; /* name: Atiesh, Greatstaff of the Guardian */
+UPDATE locales_item SET name_loc9='Atiesh, Granbastone del Guardiano' WHERE entry=22631; /* name: Atiesh, Greatstaff of the Guardian */
+UPDATE locales_item SET name_loc9='Atiesh, Granbastone del Guardiano' WHERE entry=22632; /* name: Atiesh, Greatstaff of the Guardian */
 UPDATE locales_item SET name_loc9='Runa Congelata' WHERE entry=22682; /* name: Frozen Rune */
+UPDATE locales_item SET name_loc9='Fascione dell\'Occhio Risolutore' WHERE entry=22730; /* name: Eyestalk Waist Cord */
+UPDATE locales_item SET name_loc9='Mantello del Divorato' WHERE entry=22731; /* name: Cloak of the Devoured */
+UPDATE locales_item SET name_loc9='Marchio di C\'Thun' WHERE entry=22732; /* name: Mark of C\'Thun */
+UPDATE locales_item SET name_loc9='Atiesh, Granbastone del Guardiano',description_loc9='0' WHERE entry=22737; /* name: Atiesh, Greatstaff of the Guardian */ /* description: 0 */
+UPDATE locales_item SET name_loc9='Girella alla Cannella Evocato' WHERE entry=22895; /* name: Conjured Cinnamon Roll */
 UPDATE locales_item SET name_loc9='Cristallo Necrotico Rotto' WHERE entry=22949; /* name: Cracked Necrotic Crystal */
+UPDATE locales_item SET name_loc9='Insegna dell\'Alba d\'Argento' WHERE entry=22999; /* name: Tabard of the Argent Dawn */
+UPDATE locales_item SET name_loc9='Collare di Pancetta' WHERE entry=23007; /* name: Piglet\'s Collar */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Trappola per Ratti' WHERE entry=23015; /* name: Rat Cage */ /* description: Teaches you how to summon this companion. */
+UPDATE locales_item SET name_loc9='Araldo della Rovina' WHERE entry=23044; /* name: Harbinger of Doom */
+UPDATE locales_item SET name_loc9='Pane dell\'Amicizia' WHERE entry=23160; /* name: Friendship Bread */
+UPDATE locales_item SET name_loc9='Limonata Appena Spremuta' WHERE entry=23161; /* name: Freshly-Squeezed Lemonade */
 UPDATE locales_item SET name_loc9='Fiamma di Orgrimmar' WHERE entry=23179; /* name: Flame of Orgrimmar */
 UPDATE locales_item SET name_loc9='Fiamma di Thunder Bluff' WHERE entry=23180; /* name: Flame of Thunder Bluff */
 UPDATE locales_item SET name_loc9='Fiamma di Undercity' WHERE entry=23181; /* name: Flame of the Undercity */
 UPDATE locales_item SET name_loc9='Fiamma di Stormwind' WHERE entry=23182; /* name: Flame of Stormwind */
 UPDATE locales_item SET name_loc9='Fiamma di Ironforge' WHERE entry=23183; /* name: Flame of Ironforge */
 UPDATE locales_item SET name_loc9='Fiamma di Darnassus' WHERE entry=23184; /* name: Flame of Darnassus */
+UPDATE locales_item SET name_loc9='Insegna della Crociata Scarlatta' WHERE entry=23192; /* name: Tabard of the Scarlet Crusade */
+UPDATE locales_item SET name_loc9='Toffolette Tostate' WHERE entry=23211; /* name: Toasted Smorc */ /* description: Gooey, melty, good. */
+UPDATE locales_item SET name_loc9='Vinbrulé di Mezza Estate' WHERE entry=23246; /* name: Fiery Festival Brew */
+UPDATE locales_item SET name_loc9='Salsicciotto di Mezza Estate' WHERE entry=23326; /* name: Midsummer Sausage */
+UPDATE locales_item SET name_loc9='Panino Arrostito' WHERE entry=23327; /* name: Fire-toasted Bun */
+UPDATE locales_item SET name_loc9='Torta di Vecchiebacche' WHERE entry=23435; /* name: Elderberry Pie */
 
 SET NAMES 'latin1';

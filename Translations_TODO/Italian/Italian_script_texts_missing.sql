@@ -174,7 +174,6 @@ UPDATE script_texts SET content_loc9='Doctor Draxlegauge will give you further i
 UPDATE script_texts SET content_loc9='Time to teach you a lesson in manners, little $Gboy:girl;!' WHERE entry=-1000274; /* content: Time to teach you a lesson in manners, little $Gboy:girl;! */
 UPDATE script_texts SET content_loc9='Now I\'m gonna give you to the count of \'3\' to get out of here before I sick the dogs on you.' WHERE entry=-1000275; /* content: Now I\'m gonna give you to the count of \'3\' to get out of here before I sick the dogs on you. */
 UPDATE script_texts SET content_loc9='1...' WHERE entry=-1000276; /* content: 1... */
-UPDATE script_texts SET content_loc9='2...' WHERE entry=-1000277; /* content: 2... */
 UPDATE script_texts SET content_loc9='Time to meet your maker!' WHERE entry=-1000278; /* content: Time to meet your maker! */
 UPDATE script_texts SET content_loc9='Alright, we give up! Don\'t hurt us!' WHERE entry=-1000279; /* content: Alright, we give up! Don\'t hurt us! */
 UPDATE script_texts SET content_loc9='A shadowy, sinister presence has invaded the Emerald Dream. Its power is poised to spill over into our world, $N. We must oppose it! That\'s why I cannot accompany you in person.' WHERE entry=-1000280; /* content: A shadowy, sinister presence has invaded the Emerald Dream. Its power is poised to spill over into our world, $N. We must oppose it! That\'s why I cannot accompany you in person. */
@@ -370,8 +369,6 @@ UPDATE script_texts SET content_loc9='Still with us, Reethe?' WHERE entry=-10004
 UPDATE script_texts SET content_loc9='Must be your lucky day. Alright, I\'ll talk. Just leave me alone. Look, you\'re not going to believe me, but it wa... oh, Light, looks like the girl could shoot...' WHERE entry=-1000470; /* content: Must be your lucky day. Alright, I\'ll talk. Just leave me alone. Look, you\'re not going to believe me, but it wa... oh, Light, looks like the girl could shoot... */
 UPDATE script_texts SET content_loc9='By the way, thanks for watching my back.' WHERE entry=-1000471; /* content: By the way, thanks for watching my back. */
 UPDATE script_texts SET content_loc9='1...' WHERE entry=-1000472; /* content: 1... */
-UPDATE script_texts SET content_loc9='2...' WHERE entry=-1000473; /* content: 2... */
-UPDATE script_texts SET content_loc9='3...' WHERE entry=-1000474; /* content: 3... */
 UPDATE script_texts SET content_loc9='4...' WHERE entry=-1000475; /* content: 4... */
 UPDATE script_texts SET content_loc9='5...' WHERE entry=-1000476; /* content: 5... */
 UPDATE script_texts SET content_loc9='Let us leave this place. I\'ve had enough of these madmen!' WHERE entry=-1000477; /* content: Let us leave this place. I\'ve had enough of these madmen! */
@@ -735,7 +732,6 @@ UPDATE script_texts SET content_loc9='Beware $N! Look to the west!' WHERE entry=
 UPDATE script_texts SET content_loc9='A defender has fallen!' WHERE entry=-1000892; /* content: A defender has fallen! */
 UPDATE script_texts SET content_loc9='Kolkar invaders are retreating!' WHERE entry=-1000893; /* content: Kolkar invaders are retreating! */
 UPDATE script_texts SET content_loc9='Kolkar are the strongest!' WHERE entry=-1000894; /* content: Kolkar are the strongest! */
-UPDATE script_texts SET content_loc9='For the Horde!' WHERE entry=-1000895; /* content: For the Horde! */
 UPDATE script_texts SET content_loc9='Defend the bunkers!' WHERE entry=-1000896; /* content: Defend the bunkers! */
 UPDATE script_texts SET content_loc9='Our foes will fall!' WHERE entry=-1000897; /* content: Our foes will fall! */
 UPDATE script_texts SET content_loc9='REUSE ME' WHERE entry=-1000898; /* content: REUSE ME */
@@ -855,7 +851,6 @@ UPDATE script_texts SET content_loc9='I don\'t think one charge is going to cut 
 UPDATE script_texts SET content_loc9='The charges are set. Get back before they blow!' WHERE entry=-1090009; /* content: The charges are set. Get back before they blow! */
 UPDATE script_texts SET content_loc9='Incoming blast in 10 seconds!' WHERE entry=-1090010; /* content: Incoming blast in 10 seconds! */
 UPDATE script_texts SET content_loc9='Incoming blast in 5 seconds. Clear the tunnel! Stay back!' WHERE entry=-1090011; /* content: Incoming blast in 5 seconds. Clear the tunnel! Stay back! */
-UPDATE script_texts SET content_loc9='FIRE IN THE HOLE!' WHERE entry=-1090012; /* content: FIRE IN THE HOLE! */
 UPDATE script_texts SET content_loc9='Well done! Without your help I would have never been able to thwart that wave of troggs.' WHERE entry=-1090013; /* content: Well done! Without your help I would have never been able to thwart that wave of troggs. */
 UPDATE script_texts SET content_loc9='Did you hear something?' WHERE entry=-1090014; /* content: Did you hear something? */
 UPDATE script_texts SET content_loc9='I heard something over there.' WHERE entry=-1090015; /* content: I heard something over there. */
@@ -864,7 +859,6 @@ UPDATE script_texts SET content_loc9='The final charge is set. Stand back!' WHER
 UPDATE script_texts SET content_loc9='10 seconds to blast! Stand back!!!' WHERE entry=-1090018; /* content: 10 seconds to blast! Stand back!!! */
 UPDATE script_texts SET content_loc9='5 seconds until detonation!!!!!' WHERE entry=-1090019; /* content: 5 seconds until detonation!!!!! */
 UPDATE script_texts SET content_loc9='Nice work! I\'ll set off the charges to prevent any more troggs from making it to the surface.' WHERE entry=-1090020; /* content: Nice work! I\'ll set off the charges to prevent any more troggs from making it to the surface. */
-UPDATE script_texts SET content_loc9='FIRE IN THE HOLE!' WHERE entry=-1090021; /* content: FIRE IN THE HOLE! */
 UPDATE script_texts SET content_loc9='Superb! Because of your help, my people stand a chance of re-taking our beloved city. Three cheers to you!' WHERE entry=-1090022; /* content: Superb! Because of your help, my people stand a chance of re-taking our beloved city. Three cheers to you! */
 UPDATE script_texts SET content_loc9='We come from below! You can never stop us!' WHERE entry=-1090023; /* content: We come from below! You can never stop us! */
 UPDATE script_texts SET content_loc9='Usurpers! Gnomeregan is mine!' WHERE entry=-1090024; /* content: Usurpers! Gnomeregan is mine! */
@@ -980,7 +974,6 @@ UPDATE script_texts SET content_loc9='Thank you! I will run for safety immediate
 UPDATE script_texts SET content_loc9='Finally!! I can leave this dump.' WHERE entry=-1230033; /* content: Finally!! I can leave this dump. */
 UPDATE script_texts SET content_loc9='I want more ale! Give me more ale!' WHERE entry=-1230036; /* content: I want more ale! Give me more ale! */
 UPDATE script_texts SET content_loc9='You\'ll pay for that!' WHERE entry=-1230037; /* content: You\'ll pay for that! */
-UPDATE script_texts SET content_loc9='No!' WHERE entry=-1230038; /* content: No! */
 UPDATE script_texts SET content_loc9='Oh! Now I\'m pissed!' WHERE entry=-1230039; /* content: Oh! Now I\'m pissed! */
 UPDATE script_texts SET content_loc9='Violence! Property damage! None shall pass!!' WHERE entry=-1230040; /* content: Violence! Property damage! None shall pass!! */
 UPDATE script_texts SET content_loc9='Get away from those kegs!' WHERE entry=-1230041; /* content: Get away from those kegs! */
@@ -1065,7 +1058,7 @@ UPDATE script_texts SET content_loc9='You did it... you\'ve slain Baron Rivendar
 UPDATE script_texts SET content_loc9='Today you have unmade what took me years to create! For this you shall all die by my hand!' WHERE entry=-1329016; /* content: Today you have unmade what took me years to create! For this you shall all die by my hand! */
 UPDATE script_texts SET content_loc9='You fools think you can defeat me so easily? Face the true might of the Nathrezim!' WHERE entry=-1329017; /* content: You fools think you can defeat me so easily? Face the true might of the Nathrezim! */
 UPDATE script_texts SET content_loc9='Damn you mortals! All my plans of revenge, all my hate... all burned to ash...' WHERE entry=-1329018; /* content: Damn you mortals! All my plans of revenge, all my hate... all burned to ash... */
-UPDATE script_texts SET content_loc9='Don\\'t worry about me!  Slay this dreadful beast and cleanse this world of his foul taint!' WHERE entry=-1329019; /* content: Don\\'t worry about me!  Slay this dreadful beast and cleanse this world of his foul taint! */
+UPDATE script_texts SET content_loc9='Don\'t worry about me!  Slay this dreadful beast and cleanse this world of his foul taint!' WHERE entry=-1329019; /* content: Don\'t worry about me!  Slay this dreadful beast and cleanse this world of his foul taint! */
 UPDATE script_texts SET content_loc9='My death means nothing.... light... will... prevail!' WHERE entry=-1329020; /* content: My death means nothing.... light... will... prevail! */
 UPDATE script_texts SET content_loc9='%s performs one last service for Ragnaros.' WHERE entry=-1409000; /* content: %s performs one last service for Ragnaros. */
 UPDATE script_texts SET content_loc9='REUSE ME' WHERE entry=-1409001; /* content: REUSE ME */

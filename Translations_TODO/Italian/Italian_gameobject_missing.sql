@@ -23,7 +23,6 @@ UPDATE locales_gameobject SET name_loc9='Bed' WHERE entry=174849; /* name: Bed *
 UPDATE locales_gameobject SET name_loc9='Locked Cage' WHERE entry=175786; /* name: Locked Cage */
 UPDATE locales_gameobject SET name_loc9='Bowel with Boobles' WHERE entry=176157; /* name: Bowel with Boobles */
 UPDATE locales_gameobject SET name_loc9='Pull rope Bell' WHERE entry=177271; /* name: Pull rope Bell */
-UPDATE locales_gameobject SET name_loc9='Kroshius\' Remains' WHERE entry=179677; /* name: Kroshius\' Remains */
 UPDATE locales_gameobject SET name_loc9='SmallBrazier31' WHERE entry=179874; /* name: SmallBrazier31 */
 UPDATE locales_gameobject SET name_loc9='SmallBrazier19' WHERE entry=179875; /* name: SmallBrazier19 */
 UPDATE locales_gameobject SET name_loc9='SmallBrazier03' WHERE entry=179876; /* name: SmallBrazier03 */

@@ -41,8 +41,6 @@ UPDATE mangos_string SET content_loc9='on' WHERE entry=38; /* content: on */
 UPDATE mangos_string SET content_loc9='off' WHERE entry=39; /* content: off */
 UPDATE mangos_string SET content_loc9='You are: %s' WHERE entry=40; /* content: You are: %s */
 UPDATE mangos_string SET content_loc9='visible' WHERE entry=41; /* content: visible */
-UPDATE mangos_string SET content_loc9='invisible' WHERE entry=42; /* content: invisible */
-UPDATE mangos_string SET content_loc9='done' WHERE entry=43; /* content: done */
 UPDATE mangos_string SET content_loc9='You' WHERE entry=44; /* content: You */
 UPDATE mangos_string SET content_loc9=' <unknown> ' WHERE entry=45; /* content: <unknown> */
 UPDATE mangos_string SET content_loc9='<error>' WHERE entry=46; /* content: <error> */
@@ -175,23 +173,17 @@ UPDATE mangos_string SET content_loc9='No GUID provided.' WHERE entry=231; /* co
 UPDATE mangos_string SET content_loc9='No waypoint number provided.' WHERE entry=232; /* content: No waypoint number provided. */
 UPDATE mangos_string SET content_loc9='Argument required for \'%s\'.' WHERE entry=233; /* content: Argument required for \'%s\'. */
 UPDATE mangos_string SET content_loc9='Added Waypoint %u to %s (PathId %i, path stored by %s)' WHERE entry=234; /* content: Added Waypoint %u to %s (PathId %i, path stored by %s) */
-UPDATE mangos_string SET content_loc9='UNUSED' WHERE entry=235; /* content: UNUSED */
 UPDATE mangos_string SET content_loc9='Waypoint changed.' WHERE entry=236; /* content: Waypoint changed. */
 UPDATE mangos_string SET content_loc9='Waypoint %s modified.' WHERE entry=237; /* content: Waypoint %s modified. */
 UPDATE mangos_string SET content_loc9='WP export successfull.' WHERE entry=238; /* content: WP export successfull. */
 UPDATE mangos_string SET content_loc9='No waypoints found inside the database.' WHERE entry=239; /* content: No waypoints found inside the database. */
 UPDATE mangos_string SET content_loc9='File imported.' WHERE entry=240; /* content: File imported. */
 UPDATE mangos_string SET content_loc9='Waypoint removed.' WHERE entry=241; /* content: Waypoint removed. */
-UPDATE mangos_string SET content_loc9='UNUSED' WHERE entry=242; /* content: UNUSED */
-UPDATE mangos_string SET content_loc9='UNUSED' WHERE entry=243; /* content: UNUSED */
-UPDATE mangos_string SET content_loc9='UNUSED' WHERE entry=244; /* content: UNUSED */
-UPDATE mangos_string SET content_loc9='UNUSED' WHERE entry=245; /* content: UNUSED */
 UPDATE mangos_string SET content_loc9='Waypoint %u for %s (from pathId %i, stored by %s)' WHERE entry=246; /* content: Waypoint %u for %s (from pathId %i, stored by %s) */
 UPDATE mangos_string SET content_loc9=' Waittime: %d' WHERE entry=247; /* content: Waittime: %d */
 UPDATE mangos_string SET content_loc9=' Orientation: %f' WHERE entry=248; /* content: Orientation: %f */
 UPDATE mangos_string SET content_loc9=' ScriptId: %u' WHERE entry=249; /* content: ScriptId: %u */
 UPDATE mangos_string SET content_loc9='ScriptID set to non-existing id %u, add it to DBScriptsEngine and reload the table.' WHERE entry=250; /* content: ScriptID set to non-existing id %u, add it to DBScriptsEngine and reload the table. */
-UPDATE mangos_string SET content_loc9='UNUSED' WHERE entry=251; /* content: UNUSED */
 UPDATE mangos_string SET content_loc9='AIScriptName: %s' WHERE entry=252; /* content: AIScriptName: %s */
 UPDATE mangos_string SET content_loc9='Forced rename for player %s will be requested at next login.' WHERE entry=253; /* content: Forced rename for player %s will be requested at next login. */
 UPDATE mangos_string SET content_loc9='Forced rename for player %s (GUID #%u) will be requested at next login.' WHERE entry=254; /* content: Forced rename for player %s (GUID #%u) will be requested at next login. */
@@ -258,15 +250,12 @@ UPDATE mangos_string SET content_loc9=' [inactive]' WHERE entry=317; /* content:
 UPDATE mangos_string SET content_loc9='Hated' WHERE entry=318; /* content: Hated */
 UPDATE mangos_string SET content_loc9='Hostile' WHERE entry=319; /* content: Hostile */
 UPDATE mangos_string SET content_loc9='Unfriendly' WHERE entry=320; /* content: Unfriendly */
-UPDATE mangos_string SET content_loc9='Neutral' WHERE entry=321; /* content: Neutral */
-UPDATE mangos_string SET content_loc9='Friendly' WHERE entry=322; /* content: Friendly */
 UPDATE mangos_string SET content_loc9='Honored' WHERE entry=323; /* content: Honored */
 UPDATE mangos_string SET content_loc9='Revered' WHERE entry=324; /* content: Revered */
 UPDATE mangos_string SET content_loc9='Exalted' WHERE entry=325; /* content: Exalted */
 UPDATE mangos_string SET content_loc9='Faction %s (%u) can\'not have reputation.' WHERE entry=326; /* content: Faction %s (%u) can\'not have reputation. */
 UPDATE mangos_string SET content_loc9=' [no reputation]' WHERE entry=327; /* content: [no reputation] */
 UPDATE mangos_string SET content_loc9='Characters at account %s (Id: %u)' WHERE entry=328; /* content: Characters at account %s (Id: %u) */
-UPDATE mangos_string SET content_loc9='  %s (GUID %u)' WHERE entry=329; /* content: %s (GUID %u) */
 UPDATE mangos_string SET content_loc9='No players found!' WHERE entry=330; /* content: No players found! */
 UPDATE mangos_string SET content_loc9='Extended item cost %u not exist' WHERE entry=331; /* content: Extended item cost %u not exist */
 UPDATE mangos_string SET content_loc9='GM mode is ON' WHERE entry=332; /* content: GM mode is ON */
@@ -344,8 +333,6 @@ UPDATE mangos_string SET content_loc9='Ban history for account %s:' WHERE entry=
 UPDATE mangos_string SET content_loc9='Ban Date: %s Bantime: %s Still active: %s  Reason: %s Set by: %s' WHERE entry=418; /* content: Ban Date: %s Bantime: %s Still active: %s  Reason: %s Set by: %s */
 UPDATE mangos_string SET content_loc9='Inf.' WHERE entry=419; /* content: Inf. */
 UPDATE mangos_string SET content_loc9='Never' WHERE entry=420; /* content: Never */
-UPDATE mangos_string SET content_loc9='Yes' WHERE entry=421; /* content: Yes */
-UPDATE mangos_string SET content_loc9='No' WHERE entry=422; /* content: No */
 UPDATE mangos_string SET content_loc9='IP: %sBan Date: %sUnban Date: %sRemaining: %sReason: %sSet by: %s' WHERE entry=423; /* content: IP: %sBan Date: %sUnban Date: %sRemaining: %sReason: %sSet by: %s */
 UPDATE mangos_string SET content_loc9='There is no matching IPban.' WHERE entry=424; /* content: There is no matching IPban. */
 UPDATE mangos_string SET content_loc9='There is no matching account.' WHERE entry=425; /* content: There is no matching account. */
@@ -379,8 +366,6 @@ UPDATE mangos_string SET content_loc9='Graveyard #%u can\'t be linked to subzone
 UPDATE mangos_string SET content_loc9='No faction in Graveyard with id= #%u , fix your DB' WHERE entry=454; /* content: No faction in Graveyard with id= #%u , fix your DB */
 UPDATE mangos_string SET content_loc9='invalid team, please fix database' WHERE entry=455; /* content: invalid team, please fix database */
 UPDATE mangos_string SET content_loc9='any' WHERE entry=456; /* content: any */
-UPDATE mangos_string SET content_loc9='alliance' WHERE entry=457; /* content: alliance */
-UPDATE mangos_string SET content_loc9='horde' WHERE entry=458; /* content: horde */
 UPDATE mangos_string SET content_loc9='Graveyard #%u (faction: %s) is nearest from linked to zone #%u.' WHERE entry=459; /* content: Graveyard #%u (faction: %s) is nearest from linked to zone #%u. */
 UPDATE mangos_string SET content_loc9='Zone #%u doesn\'t have linked graveyards.' WHERE entry=460; /* content: Zone #%u doesn\'t have linked graveyards. */
 UPDATE mangos_string SET content_loc9='Zone #%u doesn\'t have linked graveyards for faction: %s.' WHERE entry=461; /* content: Zone #%u doesn\'t have linked graveyards for faction: %s. */
@@ -449,14 +434,9 @@ UPDATE mangos_string SET content_loc9='>> Game Object %s (GUID: %u) at %f %f %f.
 UPDATE mangos_string SET content_loc9='Selected object:|cffffffff|Hgameobject:%d|h[%s]|h|r GUID: %u ID: %uX: %f Y: %f Z: %f MapId: %uOrientation: %f' WHERE entry=524; /* content: Selected object:|cffffffff|Hgameobject:%d|h[%s]|h|r GUID: %u ID: %uX: %f Y: %f Z: %f MapId: %uOrientation: %f */
 UPDATE mangos_string SET content_loc9='>> Add Game Object \'%i\' (%s) (GUID: %i) added at \'%f %f %f\'.' WHERE entry=525; /* content: >> Add Game Object \'%i\' (%s) (GUID: %i) added at \'%f %f %f\'. */
 UPDATE mangos_string SET content_loc9='%s (lowguid: %u) movement generators stack:' WHERE entry=526; /* content: %s (lowguid: %u) movement generators stack: */
-UPDATE mangos_string SET content_loc9='   Idle' WHERE entry=527; /* content: Idle */
 UPDATE mangos_string SET content_loc9='   Animal random' WHERE entry=530; /* content: Animal random */
-UPDATE mangos_string SET content_loc9='   Targeted to player %s (lowguid %u)' WHERE entry=532; /* content: Targeted to player %s (lowguid %u) */
-UPDATE mangos_string SET content_loc9='   Targeted to creature %s (lowguid %u)' WHERE entry=533; /* content: Targeted to creature %s (lowguid %u) */
-UPDATE mangos_string SET content_loc9='   Targeted to <NULL>' WHERE entry=534; /* content: Targeted to <NULL> */
 UPDATE mangos_string SET content_loc9='   Home movement to (X:%f Y:%f Z:%f)' WHERE entry=535; /* content: Home movement to (X:%f Y:%f Z:%f) */
 UPDATE mangos_string SET content_loc9='   Home movement used for player?!?' WHERE entry=536; /* content: Home movement used for player?!? */
-UPDATE mangos_string SET content_loc9='   Unknown movement generator (%u)' WHERE entry=538; /* content: Unknown movement generator (%u) */
 UPDATE mangos_string SET content_loc9='Player selected: %s.
 Faction: %u.
 npcFlags: %u.
@@ -475,8 +455,6 @@ Dynamic Flags: %u.
 Faction Template: %u. */
 UPDATE mangos_string SET content_loc9='Loot: %u Pickpocket: %u Skinning: %u' WHERE entry=543; /* content: Loot: %u Pickpocket: %u Skinning: %u */
 UPDATE mangos_string SET content_loc9='Position: %f %f %f.' WHERE entry=544; /* content: Position: %f %f %f. */
-UPDATE mangos_string SET content_loc9='*** Is a vendor!' WHERE entry=545; /* content: *** Is a vendor! */
-UPDATE mangos_string SET content_loc9='*** Is a trainer!' WHERE entry=546; /* content: *** Is a trainer! */
 UPDATE mangos_string SET content_loc9='InstanceID: %u' WHERE entry=547; /* content: InstanceID: %u */
 UPDATE mangos_string SET content_loc9='Player%s %s (guid: %u) Account: %s (id: %u) GMLevel: %u E-mail: %s Last IP: %s Last login: %s Latency: %ums' WHERE entry=548; /* content: Player%s %s (guid: %u) Account: %s (id: %u) GMLevel: %u E-mail: %s Last IP: %s Last login: %s Latency: %ums */
 UPDATE mangos_string SET content_loc9='Played time: %s Level: %u Money: %ug%us%uc' WHERE entry=549; /* content: Played time: %s Level: %u Money: %ug%us%uc */
@@ -542,11 +520,6 @@ UPDATE mangos_string SET content_loc9='The Alliance Flag was picked up by $n!' W
 UPDATE mangos_string SET content_loc9='The flags are now placed at their bases.' WHERE entry=613; /* content: The flags are now placed at their bases. */
 UPDATE mangos_string SET content_loc9='The Alliance flag is now placed at its base.' WHERE entry=614; /* content: The Alliance flag is now placed at its base. */
 UPDATE mangos_string SET content_loc9='The Horde flag is now placed at its base.' WHERE entry=615; /* content: The Horde flag is now placed at its base. */
-UPDATE mangos_string SET content_loc9='alliance' WHERE entry=650; /* content: alliance */
-UPDATE mangos_string SET content_loc9='horde' WHERE entry=651; /* content: horde */
-UPDATE mangos_string SET content_loc9='stables' WHERE entry=652; /* content: stables */
-UPDATE mangos_string SET content_loc9='farm' WHERE entry=654; /* content: farm */
-UPDATE mangos_string SET content_loc9='lumber mill' WHERE entry=655; /* content: lumber mill */
 UPDATE mangos_string SET content_loc9='The %s has taken the %s' WHERE entry=657; /* content: The %s has taken the %s */
 UPDATE mangos_string SET content_loc9='$n has defended the %s' WHERE entry=658; /* content: $n has defended the %s */
 UPDATE mangos_string SET content_loc9='$n has assaulted the %s' WHERE entry=659; /* content: $n has assaulted the %s */
@@ -593,23 +566,6 @@ UPDATE mangos_string SET content_loc9='The %s was taken by the %s!' WHERE entry=
 UPDATE mangos_string SET content_loc9='The %s was taken by the %s!' WHERE entry=763; /* content: The %s was taken by the %s! */
 UPDATE mangos_string SET content_loc9='The %s is under attack! If left unchecked, the %s will capture it!' WHERE entry=764; /* content: The %s is under attack! If left unchecked, the %s will capture it! */
 UPDATE mangos_string SET content_loc9='The %s has taken the %s! Its supplies will now be used for reinforcements!' WHERE entry=765; /* content: The %s has taken the %s! Its supplies will now be used for reinforcements! */
-UPDATE mangos_string SET content_loc9='Irondeep Mine' WHERE entry=766; /* content: Irondeep Mine */
-UPDATE mangos_string SET content_loc9='Coldtooth Mine' WHERE entry=767; /* content: Coldtooth Mine */
-UPDATE mangos_string SET content_loc9='Stormpike Aid Station' WHERE entry=768; /* content: Stormpike Aid Station */
-UPDATE mangos_string SET content_loc9='Dun Baldar South Bunker' WHERE entry=769; /* content: Dun Baldar South Bunker */
-UPDATE mangos_string SET content_loc9='Dun Baldar North Bunker' WHERE entry=770; /* content: Dun Baldar North Bunker */
-UPDATE mangos_string SET content_loc9='Stormpike Graveyard' WHERE entry=771; /* content: Stormpike Graveyard */
-UPDATE mangos_string SET content_loc9='Icewing Bunker' WHERE entry=772; /* content: Icewing Bunker */
-UPDATE mangos_string SET content_loc9='Stonehearth Graveyard' WHERE entry=773; /* content: Stonehearth Graveyard */
-UPDATE mangos_string SET content_loc9='Stonehearth Bunker' WHERE entry=774; /* content: Stonehearth Bunker */
-UPDATE mangos_string SET content_loc9='Snowfall Graveyard' WHERE entry=775; /* content: Snowfall Graveyard */
-UPDATE mangos_string SET content_loc9='Iceblood Tower' WHERE entry=776; /* content: Iceblood Tower */
-UPDATE mangos_string SET content_loc9='Iceblood Graveyard' WHERE entry=777; /* content: Iceblood Graveyard */
-UPDATE mangos_string SET content_loc9='Tower Point' WHERE entry=778; /* content: Tower Point */
-UPDATE mangos_string SET content_loc9='Frostwolf Graveyard' WHERE entry=779; /* content: Frostwolf Graveyard */
-UPDATE mangos_string SET content_loc9='East Frostwolf Tower' WHERE entry=780; /* content: East Frostwolf Tower */
-UPDATE mangos_string SET content_loc9='West Frostwolf Tower' WHERE entry=781; /* content: West Frostwolf Tower */
-UPDATE mangos_string SET content_loc9='Frostwolf Relief Hut' WHERE entry=782; /* content: Frostwolf Relief Hut */
 UPDATE mangos_string SET content_loc9='1 minute until the battle for Alterac Valley begins.' WHERE entry=784; /* content: 1 minute until the battle for Alterac Valley begins. */
 UPDATE mangos_string SET content_loc9='30 seconds until the battle for Alterac Valley begins. Prepare yourselves!' WHERE entry=785; /* content: 30 seconds until the battle for Alterac Valley begins. Prepare yourselves! */
 UPDATE mangos_string SET content_loc9='The battle for Alterac Valley has begun!' WHERE entry=786; /* content: The battle for Alterac Valley has begun! */
@@ -686,8 +642,6 @@ UPDATE mangos_string SET content_loc9='%d - |cffffffff|Htaxinode:%u|h[%s %s]|h|r
 UPDATE mangos_string SET content_loc9='%d - %s %s (Map:%u X:%f Y:%f Z:%f)' WHERE entry=1129; /* content: %d - %s %s (Map:%u X:%f Y:%f Z:%f) */
 UPDATE mangos_string SET content_loc9='event started %u "%s"' WHERE entry=1130; /* content: event started %u "%s" */
 UPDATE mangos_string SET content_loc9='event stopped %u "%s"' WHERE entry=1131; /* content: event stopped %u "%s" */
-UPDATE mangos_string SET content_loc9='   Follow player %s (lowguid %u)' WHERE entry=1132; /* content: Follow player %s (lowguid %u) */
-UPDATE mangos_string SET content_loc9='   Follow creature %s (lowguid %u)' WHERE entry=1133; /* content: Follow creature %s (lowguid %u) */
 UPDATE mangos_string SET content_loc9='   Follow <NULL>' WHERE entry=1134; /* content: Follow <NULL> */
 UPDATE mangos_string SET content_loc9='List known talents:' WHERE entry=1135; /* content: List known talents: */
 UPDATE mangos_string SET content_loc9='   (Found talents: %u used talent points: %u)' WHERE entry=1136; /* content: (Found talents: %u used talent points: %u) */
@@ -734,11 +688,6 @@ UPDATE mangos_string SET content_loc9='|            | Alliance |   Horde  | Neut
 UPDATE mangos_string SET content_loc9='          Alliance/Horde/Neutral/Amount' WHERE entry=1182; /* content: Alliance/Horde/Neutral/Amount */
 UPDATE mangos_string SET content_loc9='Grey' WHERE entry=1183; /* content: Grey */
 UPDATE mangos_string SET content_loc9='White' WHERE entry=1184; /* content: White */
-UPDATE mangos_string SET content_loc9='Green' WHERE entry=1185; /* content: Green */
-UPDATE mangos_string SET content_loc9='Blue' WHERE entry=1186; /* content: Blue */
-UPDATE mangos_string SET content_loc9='Purple' WHERE entry=1187; /* content: Purple */
-UPDATE mangos_string SET content_loc9='Orange' WHERE entry=1188; /* content: Orange */
-UPDATE mangos_string SET content_loc9='Yellow' WHERE entry=1189; /* content: Yellow */
 UPDATE mangos_string SET content_loc9='Amount of %s items is set to %u.' WHERE entry=1190; /* content: Amount of %s items is set to %u. */
 UPDATE mangos_string SET content_loc9='Items ratio for %s is set to %u.' WHERE entry=1191; /* content: Items ratio for %s is set to %u. */
 UPDATE mangos_string SET content_loc9='Effect movement' WHERE entry=1192; /* content: Effect movement */

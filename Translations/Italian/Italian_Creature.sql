@@ -147,18 +147,616 @@ UPDATE locales_creature SET name_loc9='Magistrato Solomon' WHERE entry=344; /* n
 UPDATE locales_creature SET name_loc9='Bellygrub' WHERE entry=345; /* name: Bellygrub */
 UPDATE locales_creature SET name_loc9='Barkeep Daniels' WHERE entry=346; /* name: Barkeep Daniels */
 UPDATE locales_creature SET name_loc9='Lupo della Foresta' WHERE entry=358; /* name: Timber Wolf */
+UPDATE locales_creature SET name_loc9='Imp' WHERE entry=416; /* name: Imp */
+UPDATE locales_creature SET name_loc9='Vilsegugio' WHERE entry=417; /* name: Felhunter */
+UPDATE locales_creature SET name_loc9='Boccalarga' WHERE entry=448; /* name: Hogger */
+UPDATE locales_creature SET name_loc9='Elementale d\'Acqua' WHERE entry=510; /* name: Water Elemental */
+UPDATE locales_creature SET name_loc9='Smith Argus' WHERE entry=514; /* name: Smith Argus */ /* subname: Journeyman Blacksmith */
+UPDATE locales_creature SET name_loc9='Elementale del Fuoco' WHERE entry=575; /* name: Fire Elemental */
+UPDATE locales_creature SET name_loc9='Gallina' WHERE entry=620; /* name: Chicken */
+UPDATE locales_creature SET name_loc9='Edwin VanCleef' WHERE entry=639; /* name: Edwin VanCleef */ /* subname: Defias Kingpin */
+UPDATE locales_creature SET name_loc9='Hemet Nesingwary' WHERE entry=715; /* name: Hemet Nesingwary */
+UPDATE locales_creature SET name_loc9='Coniglio' WHERE entry=721; /* name: Rabbit */
+UPDATE locales_creature SET name_loc9='Capriolo' WHERE entry=883; /* name: Deer */
+UPDATE locales_creature SET name_loc9='Cerbiatto' WHERE entry=890; /* name: Fawn */
+UPDATE locales_creature SET name_loc9='Fratello Wilhelm' WHERE entry=927; /* name: Brother Wilhelm */ /* subname: Paladin Trainer */
+UPDATE locales_creature SET name_loc9='Haromm' WHERE entry=986; /* name: Haromm */ /* subname: Shaman Trainer */
+UPDATE locales_creature SET name_loc9='Cacciatore di Teste Mantogelido' WHERE entry=1123; /* name: Frostmane Headhunter */
+UPDATE locales_creature SET name_loc9='Piranha del Loch' WHERE entry=1193; /* name: Loch Frenzy */
+UPDATE locales_creature SET name_loc9='Masticor' WHERE entry=1206; /* name: Gnasher */
+UPDATE locales_creature SET name_loc9='Alchimista Mallory' WHERE entry=1215; /* name: Alchemist Mallory */ /* subname: Journeyman Alchemist */
+UPDATE locales_creature SET name_loc9='Crostaceo delle Rive' WHERE entry=1216; /* name: Shore Crawler */
+UPDATE locales_creature SET name_loc9='Azar Stronghammer' WHERE entry=1232; /* name: Azar Stronghammer */ /* subname: Paladin Trainer */
+UPDATE locales_creature SET name_loc9='Tognus Flintfire' WHERE entry=1241; /* name: Tognus Flintfire */ /* subname: Journeyman Blacksmith */
+UPDATE locales_creature SET name_loc9='Arcivescovo Benedictus' WHERE entry=1284; /* name: Archbishop Benedictus */
+UPDATE locales_creature SET name_loc9='Scoiattolo' WHERE entry=1412; /* name: Squirrel */
+UPDATE locales_creature SET name_loc9='Rospo' WHERE entry=1420; /* name: Toad */
+UPDATE locales_creature SET name_loc9='Tomas' WHERE entry=1430; /* name: Tomas */ /* subname: Cook */
+UPDATE locales_creature SET name_loc9='Adele Fielder',subname_loc9='Leatherworker Specializzato' WHERE entry=1632; /* name: Adele Fielder */ /* subname: Journeyman Leatherworker */
+UPDATE locales_creature SET name_loc9='Paxton Ganter' WHERE entry=1700; /* name: Paxton Ganter */ /* subname: Fishing Trainer */
+UPDATE locales_creature SET name_loc9='Anduin Wrynn',subname_loc9='Re di Roccavento' WHERE entry=1747; /* name: Anduin Wrynn */ /* subname: King of Stormwind */
+UPDATE locales_creature SET name_loc9='Maestro Oscuro Gandling' WHERE entry=1853; /* name: Darkmaster Gandling */
+UPDATE locales_creature SET name_loc9='Ombra del Vuoto' WHERE entry=1860; /* name: Voidwalker */
+UPDATE locales_creature SET name_loc9='Succube' WHERE entry=1863; /* name: Succubus */
+UPDATE locales_creature SET name_loc9='Pecora' WHERE entry=1933; /* name: Sheep */
+UPDATE locales_creature SET name_loc9='Treant' WHERE entry=1964; /* name: Treant */
+UPDATE locales_creature SET name_loc9='Grell' WHERE entry=1988; /* name: Grell */
+UPDATE locales_creature SET name_loc9='Protettore Antico' WHERE entry=2041; /* name: Ancient Protector */
+UPDATE locales_creature SET name_loc9='Fiera della Notte' WHERE entry=2042; /* name: Nightsaber */
+UPDATE locales_creature SET name_loc9='Spirito Infausto' WHERE entry=2044; /* name: Forlorn Spirit */
+UPDATE locales_creature SET name_loc9='Braccaluna' WHERE entry=2069; /* name: Moonstalker */
+UPDATE locales_creature SET name_loc9='Montone' WHERE entry=2098; /* name: Ram */
+UPDATE locales_creature SET name_loc9='Grunt delle Fauci di Drago' WHERE entry=2102; /* name: Dragonmaw Grunt */
+UPDATE locales_creature SET name_loc9='Ratto Nero' WHERE entry=2110; /* name: Black Rat */
+UPDATE locales_creature SET name_loc9='Rupert Boch' WHERE entry=2127; /* name: Rupert Boch */ /* subname: Warlock Trainer */
+UPDATE locales_creature SET name_loc9='Cain Firesong',subname_loc9='Addestratore di Maghi' WHERE entry=2128; /* name: Cain Firesong */ /* subname: Mage Trainer */
+UPDATE locales_creature SET name_loc9='Austil de Mon' WHERE entry=2131; /* name: Austil de Mon */ /* subname: Warrior Trainer */
+UPDATE locales_creature SET name_loc9='Carolai Anise' WHERE entry=2132; /* name: Carolai Anise */ /* subname: Journeyman Alchemist */
+UPDATE locales_creature SET name_loc9='Mucca' WHERE entry=2442; /* name: Cow */
+UPDATE locales_creature SET name_loc9='Cane della Prateria' WHERE entry=2620; /* name: Prairie Dog */
+UPDATE locales_creature SET name_loc9='Totem del Vincolo Terrestre' WHERE entry=2630; /* name: Earthbind Totem */
+UPDATE locales_creature SET name_loc9='Scoiattolo Meccanico' WHERE entry=2671; /* name: Mechanical Squirrel */
+UPDATE locales_creature SET name_loc9='Archaedas',subname_loc9='Guardiano della Pietra Antico' WHERE entry=2748; /* name: Archaedas */ /* subname: Ancient Stone Watcher */
+UPDATE locales_creature SET name_loc9='Serpente' WHERE entry=2914; /* name: Snake */
+UPDATE locales_creature SET name_loc9='Baine Zoccolo Sanguinario' WHERE entry=2993; /* name: Baine Bloodhoof */
+UPDATE locales_creature SET name_loc9='Spirito Ancestrale' WHERE entry=2994; /* name: Ancestral Spirit */
+UPDATE locales_creature SET name_loc9='Yaw Sharpmane' WHERE entry=3065; /* name: Yaw Sharpmane */ /* subname: Hunter Trainer */
+UPDATE locales_creature SET name_loc9='Chaw Stronghide',subname_loc9='Leatherworker Specializzato' WHERE entry=3069; /* name: Chaw Stronghide */ /* subname: Journeyman Leatherworker */
+UPDATE locales_creature SET name_loc9='Thotar' WHERE entry=3171; /* name: Thotar */ /* subname: Hunter Trainer */
+UPDATE locales_creature SET name_loc9='Sorvegliante di Sen\'jin' WHERE entry=3297; /* name: Sen\'jin Watcher */
+UPDATE locales_creature SET name_loc9='Biscia' WHERE entry=3300; /* name: Adder */
+UPDATE locales_creature SET name_loc9='Mankrik' WHERE entry=3432; /* name: Mankrik */
+UPDATE locales_creature SET name_loc9='Bowen Brisboise' WHERE entry=3523; /* name: Bowen Brisboise */ /* subname: Journeyman Tailor */
+UPDATE locales_creature SET name_loc9='Lupo Spirituale' WHERE entry=3524; /* name: Spirit Wolf */
+UPDATE locales_creature SET name_loc9='Shelene Rhobart',subname_loc9='Leatherworker Specializzato' WHERE entry=3549; /* name: Shelene Rhobart */ /* subname: Journeyman Leatherworker */
+UPDATE locales_creature SET name_loc9='Guardia Curativa' WHERE entry=3560; /* name: Healing Ward */
+UPDATE locales_creature SET name_loc9='Nebbia' WHERE entry=3568; /* name: Mist */
+UPDATE locales_creature SET name_loc9='Cyndra Kindwhisper' WHERE entry=3603; /* name: Cyndra Kindwhisper */ /* subname: Journeyman Alchemist */
+UPDATE locales_creature SET name_loc9='Alanna Raveneye' WHERE entry=3606; /* name: Alanna Raveneye */ /* subname: Journeyman Enchanter */
+UPDATE locales_creature SET name_loc9='Kresh' WHERE entry=3653; /* name: Kresh */
+UPDATE locales_creature SET name_loc9='Mutanus il Divoratore' WHERE entry=3654; /* name: Mutanus the Devourer */
+UPDATE locales_creature SET name_loc9='Ser Cobrahn' WHERE entry=3669; /* name: Lord Cobrahn */ /* subname: Fanglord */
+UPDATE locales_creature SET name_loc9='Ser Pythas' WHERE entry=3670; /* name: Lord Pythas */ /* subname: Fanglord */
+UPDATE locales_creature SET name_loc9='Dama Anacondra' WHERE entry=3671; /* name: Lady Anacondra */ /* subname: Fanglord */
+UPDATE locales_creature SET name_loc9='Ser Serpentis' WHERE entry=3673; /* name: Lord Serpentis */ /* subname: Fanglord */
+UPDATE locales_creature SET name_loc9='Skum' WHERE entry=3674; /* name: Skum */
+UPDATE locales_creature SET name_loc9='Tai\'jin' WHERE entry=3706; /* name: Tai\'jin */ /* subname: Priest Trainer */
+UPDATE locales_creature SET name_loc9='Rana della Bile' WHERE entry=3835; /* name: Biletoad */
+UPDATE locales_creature SET name_loc9='Ufficiale Tormentato' WHERE entry=3873; /* name: Tormented Officer */
+UPDATE locales_creature SET name_loc9='Armigero Lamentoso' WHERE entry=3877; /* name: Wailing Guardsman */
+UPDATE locales_creature SET name_loc9='Unghiaguzza il Macellaio' WHERE entry=3886; /* name: Razorclaw the Butcher */
+UPDATE locales_creature SET name_loc9='Barone Argenius' WHERE entry=3887; /* name: Baron Silverlaine */
+UPDATE locales_creature SET name_loc9='Sanguenero' WHERE entry=3914; /* name: Rethilgore */ /* subname: The Cell Keeper */
+UPDATE locales_creature SET name_loc9='Nandos il Signore dei Lupi' WHERE entry=3927; /* name: Wolf Master Nandos */
+UPDATE locales_creature SET name_loc9='Loksey il Maestro dei Segugi' WHERE entry=3974; /* name: Houndmaster Loksey */
+UPDATE locales_creature SET name_loc9='Herod' WHERE entry=3975; /* name: Herod */ /* subname: The Scarlet Champion */
+UPDATE locales_creature SET name_loc9='Comandante Scarlatto Mograine' WHERE entry=3976; /* name: Scarlet Commander Mograine */
+UPDATE locales_creature SET name_loc9='Grande Inquisitrice Biancachioma' WHERE entry=3977; /* name: High Inquisitor Whitemane */
+UPDATE locales_creature SET name_loc9='Vishas l\'Interrogatore' WHERE entry=3983; /* name: Interrogator Vishas */
+UPDATE locales_creature SET name_loc9='Basilisco Affumicato' WHERE entry=4044; /* name: Blackened Basilisk */
+UPDATE locales_creature SET name_loc9='Ratto' WHERE entry=4075; /* name: Rat */
+UPDATE locales_creature SET name_loc9='Blatta' WHERE entry=4076; /* name: Roach */
+UPDATE locales_creature SET name_loc9='Serpe delle Nubi' WHERE entry=4117; /* name: Cloud Serpent */
+UPDATE locales_creature SET name_loc9='Inseguitrice delle Rupi' WHERE entry=4126; /* name: Crag Stalker */
+UPDATE locales_creature SET name_loc9='Gazzella' WHERE entry=4166; /* name: Gazelle */
+UPDATE locales_creature SET name_loc9='Ombra' WHERE entry=4244; /* name: Shadow */ /* subname: Dorion\'s Pet */
+UPDATE locales_creature SET name_loc9='Forma d\'Orso',subname_loc9='Druido Elfo della Notte' WHERE entry=4253; /* name: Bear Form */ /* subname: Night Elf Druid */
+UPDATE locales_creature SET name_loc9='Forma d\'Orso',subname_loc9='Druido Tauren' WHERE entry=4261; /* name: Bear Form */ /* subname: Tauren Druid */
+UPDATE locales_creature SET name_loc9='Arcimago Arugal' WHERE entry=4275; /* name: Archmage Arugal */
+UPDATE locales_creature SET name_loc9='Comandante Primavalle' WHERE entry=4278; /* name: Commander Springvale */
+UPDATE locales_creature SET name_loc9='Odo l\'Osservatore Cieco' WHERE entry=4279; /* name: Odo the Blindwatcher */
+UPDATE locales_creature SET name_loc9='Difensore Scarlatto' WHERE entry=4298; /* name: Scarlet Defender */
+UPDATE locales_creature SET name_loc9='Forma Acquatica',subname_loc9='Druido Elfo della Notte' WHERE entry=4408; /* name: Aquatic Form */ /* subname: Night Elf Druid */
+UPDATE locales_creature SET name_loc9='Forma Acquatica',subname_loc9='Druido Tauren' WHERE entry=4410; /* name: Aquatic Form */ /* subname: Tauren Druid */
+UPDATE locales_creature SET name_loc9='Supremo Zannaspina' WHERE entry=4420; /* name: Overlord Ramtusk */
+UPDATE locales_creature SET name_loc9='Charlga Fiancospino' WHERE entry=4421; /* name: Charlga Razorflank */ /* subname: The Crone */
+UPDATE locales_creature SET name_loc9='Agathelos il Rabbioso' WHERE entry=4422; /* name: Agathelos the Raging */
+UPDATE locales_creature SET name_loc9='Aggem Malaspina' WHERE entry=4424; /* name: Aggem Thorncurse */ /* subname: Death\'s Head Prophet */
+UPDATE locales_creature SET name_loc9='Oratore della Morte Jargba' WHERE entry=4428; /* name: Death Speaker Jargba */ /* subname: Death\'s Head Captain */
+UPDATE locales_creature SET name_loc9='Celalance Lamaspina' WHERE entry=4438; /* name: Razorfen Spearhide */
+UPDATE locales_creature SET name_loc9='Faucifredde' WHERE entry=4504; /* name: Frostmaw */
+UPDATE locales_creature SET name_loc9='Gran Inquisitore Fierasponda' WHERE entry=4542; /* name: High Inquisitor Fairbanks */
+UPDATE locales_creature SET name_loc9='Montone del Gelo' WHERE entry=4778; /* name: Frost Ram */
+UPDATE locales_creature SET name_loc9='Montone Nero' WHERE entry=4780; /* name: Black Ram */
+UPDATE locales_creature SET name_loc9='Force of Nature' WHERE entry=4795; /* name: Force of Nature */
+UPDATE locales_creature SET name_loc9='Aku\'mai' WHERE entry=4829; /* name: Aku\'mai */
+UPDATE locales_creature SET name_loc9='Vecchio Serra\'kis' WHERE entry=4830; /* name: Old Serra\'kis */
+UPDATE locales_creature SET name_loc9='Dama Sarevess' WHERE entry=4831; /* name: Lady Sarevess */
+UPDATE locales_creature SET name_loc9='Kelris il Signore del Crepuscolo' WHERE entry=4832; /* name: Twilight Lord Kelris */
+UPDATE locales_creature SET name_loc9='Tetrok' WHERE entry=4854; /* name: Grimlok */ /* subname: Stonevault Chieftain */
+UPDATE locales_creature SET name_loc9='Basilisco Giadaspina' WHERE entry=4863; /* name: Jadespine Basilisk */
+UPDATE locales_creature SET name_loc9='Ghamoo-ra' WHERE entry=4887; /* name: Ghamoo-ra */
+UPDATE locales_creature SET name_loc9='Thrall',subname_loc9='Capoguerra' WHERE entry=4949; /* name: Thrall */ /* subname: Warchief */
+UPDATE locales_creature SET name_loc9='Mocassino Acquatico' WHERE entry=4953; /* name: Moccasin */
+UPDATE locales_creature SET name_loc9='Dama Jaina Marefiero' WHERE entry=4968; /* name: Lady Jaina Proudmoore */ /* subname: Ruler of Theramore */
+UPDATE locales_creature SET name_loc9='Ogron' WHERE entry=4983; /* name: Ogron */
+UPDATE locales_creature SET name_loc9='Disertore di Theramore' WHERE entry=5057; /* name: Theramore Deserter */
 UPDATE locales_creature SET name_loc9='Briarthorn' WHERE entry=5172; /* name: Briarthorn */ /* subname: Warlock Trainer */
+UPDATE locales_creature SET name_loc9='Yarr Hammerstone' WHERE entry=5392; /* name: Yarr Hammerstone */ /* subname: Mining Trainer */
 UPDATE locales_creature SET name_loc9='Stallone Nero' WHERE entry=5404; /* name: Black Stallion */
 UPDATE locales_creature SET name_loc9='Pinto' WHERE entry=5405; /* name: Pinto */
+UPDATE locales_creature SET name_loc9='Palomino' WHERE entry=5406; /* name: Palomino */
+UPDATE locales_creature SET name_loc9='Nightmare' WHERE entry=5407; /* name: Nightmare */
+UPDATE locales_creature SET name_loc9='Arnold Leland' WHERE entry=5493; /* name: Arnold Leland */ /* subname: Fishing Trainer */
+UPDATE locales_creature SET name_loc9='Therum Deepforge' WHERE entry=5511; /* name: Therum Deepforge */ /* subname: Expert Blacksmith */
+UPDATE locales_creature SET name_loc9='Guardia di Forgiardente' WHERE entry=5595; /* name: Ironforge Guard */
+UPDATE locales_creature SET name_loc9='Falstad Granmartello' WHERE entry=5635; /* name: Falstad Wildhammer */ /* subname: High Thane */
+UPDATE locales_creature SET name_loc9='Clyde Kellen' WHERE entry=5690; /* name: Clyde Kellen */ /* subname: Fishing Trainer */
+UPDATE locales_creature SET name_loc9='Vance Undergloom' WHERE entry=5695; /* name: Vance Undergloom */ /* subname: Journeyman Enchanter */
+UPDATE locales_creature SET name_loc9='Ombra di Eranikus' WHERE entry=5709; /* name: Shade of Eranikus */
+UPDATE locales_creature SET name_loc9='Jammal\'an il Profeta' WHERE entry=5710; /* name: Jammal\'an the Prophet */
+UPDATE locales_creature SET name_loc9='Ogom il Miserabile' WHERE entry=5711; /* name: Ogom the Wretched */
+UPDATE locales_creature SET name_loc9='Morphaz' WHERE entry=5719; /* name: Morphaz */
+UPDATE locales_creature SET name_loc9='Tessitus' WHERE entry=5720; /* name: Weaver */
+UPDATE locales_creature SET name_loc9='Falciasogni' WHERE entry=5721; /* name: Dreamscythe */
+UPDATE locales_creature SET name_loc9='Hazzas' WHERE entry=5722; /* name: Hazzas */
+UPDATE locales_creature SET name_loc9='Arcidruido Hamuul Totem Runico' WHERE entry=5769; /* name: Arch Druid Hamuul Runetotem */
+UPDATE locales_creature SET name_loc9='Verdan il Sempreverde' WHERE entry=5775; /* name: Verdan the Everliving */
+UPDATE locales_creature SET name_loc9='Forma di Serpe' WHERE entry=5872; /* name: Serpent Form */
+UPDATE locales_creature SET name_loc9='Totem dell\'Esplosione di Fuoco' WHERE entry=5879; /* name: Fire Nova Totem */
+UPDATE locales_creature SET name_loc9='Un\'Thuwa',subname_loc9='Addestratore di Maghi' WHERE entry=5880; /* name: Un\'Thuwa */ /* subname: Mage Trainer */
+UPDATE locales_creature SET name_loc9='Vira Younghoof' WHERE entry=5939; /* name: Vira Younghoof */ /* subname: First Aid Trainer */
+UPDATE locales_creature SET name_loc9='Rawrk' WHERE entry=5943; /* name: Rawrk */ /* subname: First Aid Trainer */
+UPDATE locales_creature SET name_loc9='Lepre' WHERE entry=5951; /* name: Hare */
+UPDATE locales_creature SET name_loc9='Vilsegugio' WHERE entry=6010; /* name: Felhound */
+UPDATE locales_creature SET name_loc9='Cinghiale Spiritico' WHERE entry=6021; /* name: Boar Spirit */
+UPDATE locales_creature SET name_loc9='Totem della Presa della Terra' WHERE entry=6066; /* name: Earthgrab Totem */
+UPDATE locales_creature SET name_loc9='Byancie' WHERE entry=6094; /* name: Byancie */ /* subname: First Aid Trainer */
+UPDATE locales_creature SET name_loc9='Totem della Furia del Vento' WHERE entry=6112; /* name: Windfury Totem */
 UPDATE locales_creature SET name_loc9='Banco di Pesci' WHERE entry=6145; /* name: School of Fish */
+UPDATE locales_creature SET name_loc9='Roogug' WHERE entry=6168; /* name: Roogug */
+UPDATE locales_creature SET name_loc9='Mastics' WHERE entry=6215; /* name: Chomper */
+UPDATE locales_creature SET name_loc9='Pungolatore 9-60' WHERE entry=6229; /* name: Crowd Pummeler 9-60 */
+UPDATE locales_creature SET name_loc9='Elettrocuz 6000' WHERE entry=6235; /* name: Electrocutioner 6000 */
+UPDATE locales_creature SET name_loc9='Gelihast' WHERE entry=6243; /* name: Gelihast */
+UPDATE locales_creature SET name_loc9='Topo' WHERE entry=6271; /* name: Mouse */
+UPDATE locales_creature SET name_loc9='Zarrin' WHERE entry=6286; /* name: Zarrin */ /* subname: Cook */
+UPDATE locales_creature SET name_loc9='Rand Rhobart' WHERE entry=6289; /* name: Rand Rhobart */ /* subname: Skinning Trainer */
+UPDATE locales_creature SET name_loc9='Yonn Deepcut' WHERE entry=6290; /* name: Yonn Deepcut */ /* subname: Skinning Trainer */
+UPDATE locales_creature SET name_loc9='Gatto' WHERE entry=6368; /* name: Cat */
+UPDATE locales_creature SET name_loc9='Skeleton' WHERE entry=6412; /* name: Skeleton */
+UPDATE locales_creature SET name_loc9='Arcanista Doan' WHERE entry=6487; /* name: Arcanist Doan */
+UPDATE locales_creature SET name_loc9='Gigantosauro' WHERE entry=6498; /* name: Devilsaur */
+UPDATE locales_creature SET name_loc9='Devasauro Malapelle' WHERE entry=6508; /* name: Venomhide Ravasaur */
+UPDATE locales_creature SET name_loc9='Eruzione di Mana' WHERE entry=6550; /* name: Mana Surge */
+UPDATE locales_creature SET name_loc9='Forma Felina',subname_loc9='Druido Elfo della Notte' WHERE entry=6571; /* name: Cat Form */ /* subname: Night Elf Druid */
+UPDATE locales_creature SET name_loc9='Forma Felina',subname_loc9='Druido Tauren' WHERE entry=6572; /* name: Cat Form */ /* subname: Tauren Druid */
+UPDATE locales_creature SET name_loc9='Forma di Cervo',subname_loc9='Druido' WHERE entry=6573; /* name: Travel Form */ /* subname: Druid */
+UPDATE locales_creature SET name_loc9='Rospo Gigante' WHERE entry=6653; /* name: Huge Toad */
+UPDATE locales_creature SET name_loc9='Baelog' WHERE entry=6906; /* name: Baelog */
+UPDATE locales_creature SET name_loc9='Eric "il Rapido"' WHERE entry=6907; /* name: Eric "The Swift" */
+UPDATE locales_creature SET name_loc9='Olaf' WHERE entry=6908; /* name: Olaf */
+UPDATE locales_creature SET name_loc9='Revelosh' WHERE entry=6910; /* name: Revelosh */
+UPDATE locales_creature SET name_loc9='Sentinella di Ossidiana' WHERE entry=7023; /* name: Obsidian Sentinel */
+UPDATE locales_creature SET name_loc9='Geologo di Forgiascura' WHERE entry=7030; /* name: Shadowforge Geologist */
+UPDATE locales_creature SET name_loc9='Guardiano Terrigeno' WHERE entry=7076; /* name: Earthen Guardian */
+UPDATE locales_creature SET name_loc9='Scoria Viscosa' WHERE entry=7079; /* name: Viscous Fallout */
+UPDATE locales_creature SET name_loc9='Polly' WHERE entry=7167; /* name: Polly */
+UPDATE locales_creature SET name_loc9='Polly' WHERE entry=7168; /* name: Polly */
+UPDATE locales_creature SET name_loc9='Protettore Antico della Pietra' WHERE entry=7206; /* name: Ancient Stone Keeper */
+UPDATE locales_creature SET name_loc9='Frammento d\'Ossidiana' WHERE entry=7209; /* name: Obsidian Shard */
+UPDATE locales_creature SET name_loc9='Ferreya' WHERE entry=7228; /* name: Ironaya */
+UPDATE locales_creature SET name_loc9='Coordinatore Fizzule' WHERE entry=7233; /* name: Taskmaster Fizzule */
+UPDATE locales_creature SET name_loc9='Capo Ukorz Scalporude' WHERE entry=7267; /* name: Chief Ukorz Sandscalp */
+UPDATE locales_creature SET name_loc9='Zum\'rah il Taumaturgo' WHERE entry=7271; /* name: Witch Doctor Zum\'rah */
+UPDATE locales_creature SET name_loc9='Theka il Martire' WHERE entry=7272; /* name: Theka the Martyr */
+UPDATE locales_creature SET name_loc9='Ghaz\'rilla' WHERE entry=7273; /* name: Gahz\'rilla */
+UPDATE locales_creature SET name_loc9='Sezz\'ziz il Sacerdote dell\'Ombra' WHERE entry=7275; /* name: Shadowpriest Sezz\'ziz */
+UPDATE locales_creature SET name_loc9='Zombi di Zul\'Farrak' WHERE entry=7286; /* name: Zul\'Farrak Zombie */
+UPDATE locales_creature SET name_loc9='Galgann Ardimartello' WHERE entry=7291; /* name: Galgann Firehammer */
+UPDATE locales_creature SET name_loc9='Custode Terrigeno' WHERE entry=7309; /* name: Earthen Custodian */
+UPDATE locales_creature SET name_loc9='Tuten\'kash' WHERE entry=7355; /* name: Tuten\'kash */
+UPDATE locales_creature SET name_loc9='Mordresh Occhio di Fuoco' WHERE entry=7357; /* name: Mordresh Fire Eye */
+UPDATE locales_creature SET name_loc9='Amnennar l\'Araldo del Freddo' WHERE entry=7358; /* name: Amnennar the Coldbringer */
+UPDATE locales_creature SET name_loc9='Grubbis' WHERE entry=7361; /* name: Grubbis */
+UPDATE locales_creature SET name_loc9='Gatto Siamese' WHERE entry=7380; /* name: Siamese Cat */
+UPDATE locales_creature SET name_loc9='Gatto Soriano Grigio' WHERE entry=7381; /* name: Silver Tabby Cat */
+UPDATE locales_creature SET name_loc9='Gatto Soriano Arancione' WHERE entry=7382; /* name: Orange Tabby Cat */
+UPDATE locales_creature SET name_loc9='Gatto Soriano Nero' WHERE entry=7383; /* name: Black Tabby Cat */
+UPDATE locales_creature SET name_loc9='Gatto Rosso' WHERE entry=7384; /* name: Cornish Rex Cat */
+UPDATE locales_creature SET name_loc9='Gatto Nero' WHERE entry=7385; /* name: Bombay Cat */
+UPDATE locales_creature SET name_loc9='Micio Bianco' WHERE entry=7386; /* name: White Kitten */
+UPDATE locales_creature SET name_loc9='Macao Ala Verde' WHERE entry=7387; /* name: Green Wing Macaw */
+UPDATE locales_creature SET name_loc9='Senegal' WHERE entry=7389; /* name: Senegal */
+UPDATE locales_creature SET name_loc9='Calopsite' WHERE entry=7390; /* name: Cockatiel */
+UPDATE locales_creature SET name_loc9='Macao Giacinto' WHERE entry=7391; /* name: Hyacinth Macaw */
+UPDATE locales_creature SET name_loc9='Gallina delle Praterie' WHERE entry=7392; /* name: Prairie Chicken */
+UPDATE locales_creature SET name_loc9='Pollo Ancona' WHERE entry=7394; /* name: Ancona Chicken */
+UPDATE locales_creature SET name_loc9='Scarafaggio' WHERE entry=7395; /* name: Cockroach */
+UPDATE locales_creature SET name_loc9='Fiera Glaciale' WHERE entry=7431; /* name: Frostsaber */
+UPDATE locales_creature SET name_loc9='Chimera Ventofreddo' WHERE entry=7448; /* name: Chillwind Chimaera */
+UPDATE locales_creature SET name_loc9='Yeti Cardighiaccio' WHERE entry=7458; /* name: Ice Thistle Yeti */
+UPDATE locales_creature SET name_loc9='Draghetto Oscuro' WHERE entry=7543; /* name: Dark Whelpling */
+UPDATE locales_creature SET name_loc9='Draghetto Cremisi' WHERE entry=7544; /* name: Crimson Whelpling */
+UPDATE locales_creature SET name_loc9='Draghetto di Smeraldo' WHERE entry=7545; /* name: Emerald Whelpling */
+UPDATE locales_creature SET name_loc9='Draghetto Bronzeo' WHERE entry=7546; /* name: Bronze Whelpling */
+UPDATE locales_creature SET name_loc9='Draghetto di Zaffiro' WHERE entry=7547; /* name: Azure Whelpling */
+UPDATE locales_creature SET name_loc9='Fatatino' WHERE entry=7548; /* name: Faeling */
+UPDATE locales_creature SET name_loc9='Rana degli Alberi' WHERE entry=7549; /* name: Tree Frog */
+UPDATE locales_creature SET name_loc9='Rana del Legno' WHERE entry=7550; /* name: Wood Frog */
+UPDATE locales_creature SET name_loc9='Rana Velenosa' WHERE entry=7551; /* name: Dart Frog */
+UPDATE locales_creature SET name_loc9='Rana Insulare' WHERE entry=7552; /* name: Island Frog */
+UPDATE locales_creature SET name_loc9='Gufo Cornuto Grande' WHERE entry=7553; /* name: Great Horned Owl */
+UPDATE locales_creature SET name_loc9='Gufo Nevoso' WHERE entry=7554; /* name: Snowy Owl */
+UPDATE locales_creature SET name_loc9='Gufo Reale' WHERE entry=7555; /* name: Hawk Owl */
+UPDATE locales_creature SET name_loc9='Gufo Reale' WHERE entry=7556; /* name: Eagle Owl */
+UPDATE locales_creature SET name_loc9='Coniglio delle Nevi' WHERE entry=7560; /* name: Snowshoe Rabbit */
+UPDATE locales_creature SET name_loc9='Serpente Albino' WHERE entry=7561; /* name: Albino Snake */
+UPDATE locales_creature SET name_loc9='Serpente Bruno' WHERE entry=7562; /* name: Brown Snake */
+UPDATE locales_creature SET name_loc9='Re Serpente Nero' WHERE entry=7565; /* name: Black Kingsnake */
+UPDATE locales_creature SET name_loc9='Serpente Scarlatto' WHERE entry=7566; /* name: Scarlet Snake */
+UPDATE locales_creature SET name_loc9='Serpente Cremisi' WHERE entry=7567; /* name: Crimson Snake */
+UPDATE locales_creature SET name_loc9='Serpente Aliante' WHERE entry=7568; /* name: Ribbon Snake */
+UPDATE locales_creature SET name_loc9='Serpente d\'Acqua Verde' WHERE entry=7569; /* name: Green Water Snake */
+UPDATE locales_creature SET name_loc9='Fuoco Fatuo Elfico' WHERE entry=7570; /* name: Elven Wisp */
+UPDATE locales_creature SET name_loc9='Roccia Dura' WHERE entry=7765; /* name: Rockbiter */
+UPDATE locales_creature SET name_loc9='Guardiano di Zum\'rah' WHERE entry=7785; /* name: Ward of Zum\'rah */
+UPDATE locales_creature SET name_loc9='Scheletro di Zum\'rah' WHERE entry=7786; /* name: Skeleton of Zum\'rah */
+UPDATE locales_creature SET name_loc9='Idromante Velratha' WHERE entry=7795; /* name: Hydromancer Velratha */
+UPDATE locales_creature SET name_loc9='Nekrum Mangiabudella' WHERE entry=7796; /* name: Nekrum Gutchewer */
+UPDATE locales_creature SET name_loc9='Mekgeniere Termospin' WHERE entry=7800; /* name: Mekgineer Thermaplugg */
+UPDATE locales_creature SET name_loc9='Bomba Vagante' WHERE entry=7915; /* name: Walking Bomb */
+UPDATE locales_creature SET name_loc9='Gran Meccanista Meccatork',subname_loc9='Re degli Gnomi' WHERE entry=7937; /* name: High Tinker Mekkatorque */ /* subname: King of Gnomes */
+UPDATE locales_creature SET name_loc9='Mastro Meccanista Granfavilla' WHERE entry=7944; /* name: Tinkmaster Overspark */ /* subname: Gnomish Engineering Trainer */
+UPDATE locales_creature SET name_loc9='Zjolnir',subname_loc9='Addestratore di Raptor' WHERE entry=7952; /* name: Zjolnir */ /* subname: Raptor Handler */
+UPDATE locales_creature SET name_loc9='Tyrande Soffiabrezza',subname_loc9='Gran Sacerdotessa di Elune' WHERE entry=7999; /* name: Tyrande Whisperwind */ /* subname: High Priestess of Elune */
+UPDATE locales_creature SET name_loc9='Guardiano di Sen\'jin' WHERE entry=8017; /* name: Sen\'jin Guardian */
+UPDATE locales_creature SET name_loc9='Antu\'sul' WHERE entry=8127; /* name: Antu\'sul */ /* subname: Overseer of Sul */
+UPDATE locales_creature SET name_loc9='Devastazione' WHERE entry=8300; /* name: Ravage */
+UPDATE locales_creature SET name_loc9='Gallina Meccanica' WHERE entry=8376; /* name: Mechanical Chicken */
+UPDATE locales_creature SET name_loc9='Obsidion' WHERE entry=8400; /* name: Obsidion */
+UPDATE locales_creature SET name_loc9='Bracconiere Ombroseta' WHERE entry=8442; /* name: Shadowsilk Poacher */ /* subname: The Undermarket */
+UPDATE locales_creature SET name_loc9='Avatar di Hakkar' WHERE entry=8443; /* name: Avatar of Hakkar */
+UPDATE locales_creature SET name_loc9='Maleficio di Jammal\'an' WHERE entry=8505; /* name: Hex of Jammal\'an */
+UPDATE locales_creature SET name_loc9='Necromancer' WHERE entry=8553; /* name: Necromancer */ /* subname: Cult of the Damned */
+UPDATE locales_creature SET name_loc9='Ghiotton' WHERE entry=8567; /* name: Glutton */
+UPDATE locales_creature SET name_loc9='Linken' WHERE entry=8737; /* name: Linken */
+UPDATE locales_creature SET name_loc9='Medico Forgiafuria' WHERE entry=8894; /* name: Anvilrage Medic */
+UPDATE locales_creature SET name_loc9='Riservista Forgiafuria' WHERE entry=8901; /* name: Anvilrage Reservist */
+UPDATE locales_creature SET name_loc9='Verme del Profondo' WHERE entry=8925; /* name: Dredge Worm */
+UPDATE locales_creature SET name_loc9='Aculeo del Profondo' WHERE entry=8926; /* name: Deep Stinger */
+UPDATE locales_creature SET name_loc9='Stridente Oscuro' WHERE entry=8927; /* name: Dark Screecher */
+UPDATE locales_creature SET name_loc9='Grugnotonante Scavaterra' WHERE entry=8928; /* name: Burrowing Thundersnout */
+UPDATE locales_creature SET name_loc9='Principessa Moira Barbabronzea' WHERE entry=8929; /* name: Princess Moira Bronzebeard */ /* subname: Princess of Ironforge */
+UPDATE locales_creature SET name_loc9='Scarabeo Trivellatore' WHERE entry=8932; /* name: Borer Beetle */
+UPDATE locales_creature SET name_loc9='Ragno delle Caverne' WHERE entry=8933; /* name: Cave Creeper */
+UPDATE locales_creature SET name_loc9='Argelmach il Signore dei Golem' WHERE entry=8983; /* name: Golem Lord Argelmach */
+UPDATE locales_creature SET name_loc9='Bael\'gar' WHERE entry=9016; /* name: Bael\'Gar */
+UPDATE locales_creature SET name_loc9='Sire Incendius' WHERE entry=9017; /* name: Lord Incendius */
+UPDATE locales_creature SET name_loc9='Gerstahn la Grande Accusatrice' WHERE entry=9018; /* name: High Interrogator Gerstahn */ /* subname: Twilight\'s Hammer Interrogator */
+UPDATE locales_creature SET name_loc9='Imperatore Dagran Thaurissan' WHERE entry=9019; /* name: Emperor Dagran Thaurissan */
+UPDATE locales_creature SET name_loc9='Piromante Granlor' WHERE entry=9024; /* name: Pyromancer Loregrain */
+UPDATE locales_creature SET name_loc9='Sire Roccor' WHERE entry=9025; /* name: Lord Roccor */
+UPDATE locales_creature SET name_loc9='Gorosh il Derviscio' WHERE entry=9027; /* name: Gorosh the Dervish */
+UPDATE locales_creature SET name_loc9='Grizzle' WHERE entry=9028; /* name: Grizzle */
+UPDATE locales_creature SET name_loc9='Svisceratore' WHERE entry=9029; /* name: Eviscerator */
+UPDATE locales_creature SET name_loc9='Ok\'thor il Demolitore' WHERE entry=9030; /* name: Ok\'thor the Breaker */
+UPDATE locales_creature SET name_loc9='Anub\'shiah' WHERE entry=9031; /* name: Anub\'shiah */
+UPDATE locales_creature SET name_loc9='Hedrum lo Strisciatore' WHERE entry=9032; /* name: Hedrum the Creeper */
+UPDATE locales_creature SET name_loc9='Generale Forgiarabbia' WHERE entry=9033; /* name: General Angerforge */
+UPDATE locales_creature SET name_loc9='Odien\'rel' WHERE entry=9034; /* name: Hate\'rel */
+UPDATE locales_creature SET name_loc9='Rabbien\'rel' WHERE entry=9035; /* name: Anger\'rel */
+UPDATE locales_creature SET name_loc9='Vilen\'rel' WHERE entry=9036; /* name: Vile\'rel */
+UPDATE locales_creature SET name_loc9='Furien\'rel' WHERE entry=9037; /* name: Gloom\'rel */
+UPDATE locales_creature SET name_loc9='Gelen\'rel' WHERE entry=9038; /* name: Seeth\'rel */
+UPDATE locales_creature SET name_loc9='Teneb\'rel' WHERE entry=9039; /* name: Doom\'rel */
+UPDATE locales_creature SET name_loc9='Celen\'rel' WHERE entry=9040; /* name: Dope\'rel */
+UPDATE locales_creature SET name_loc9='Custode Stilgiss' WHERE entry=9041; /* name: Warder Stilgiss */
+UPDATE locales_creature SET name_loc9='Verek' WHERE entry=9042; /* name: Verek */
+UPDATE locales_creature SET name_loc9='Fineous Forgiascura' WHERE entry=9056; /* name: Fineous Darkvire */ /* subname: Chief Architect */
+UPDATE locales_creature SET name_loc9='Ambasciatore Sferzardente' WHERE entry=9156; /* name: Ambassador Flamelash */
+UPDATE locales_creature SET name_loc9='Spirito Ardente' WHERE entry=9178; /* name: Burning Spirit */
+UPDATE locales_creature SET name_loc9='Gran Signore Omokk' WHERE entry=9196; /* name: Highlord Omokk */
+UPDATE locales_creature SET name_loc9='Signore della Guerra Spiraroccia' WHERE entry=9216; /* name: Spirestone Warlord */
+UPDATE locales_creature SET name_loc9='Vosh\'gajin il Cacciatore dell\'Ombra' WHERE entry=9236; /* name: Shadow Hunter Vosh\'gajin */
+UPDATE locales_creature SET name_loc9='Voone il Maestro di Guerra' WHERE entry=9237; /* name: War Master Voone */
+UPDATE locales_creature SET name_loc9='Berserker Bruciaspina' WHERE entry=9268; /* name: Smolderthorn Berserker */
+UPDATE locales_creature SET name_loc9='Grebmar il Maestro dei Segugi' WHERE entry=9319; /* name: Houndmaster Grebmar */
+UPDATE locales_creature SET name_loc9='Melma di Bael\'gar' WHERE entry=9436; /* name: Spawn of Bael\'Gar */
+UPDATE locales_creature SET name_loc9='Miblon Ringhiadenti' WHERE entry=9467; /* name: Miblon Snarltooth */
+UPDATE locales_creature SET name_loc9='Spiny Spazzanello' WHERE entry=9499; /* name: Plugger Spazzring */
+UPDATE locales_creature SET name_loc9='Falange' WHERE entry=9502; /* name: Phalanx */
+UPDATE locales_creature SET name_loc9='Hurley Fiatonero' WHERE entry=9537; /* name: Hurley Blackbreath */
+UPDATE locales_creature SET name_loc9='Ribbly Giravite' WHERE entry=9543; /* name: Ribbly Screwspigot */
+UPDATE locales_creature SET name_loc9='Supremo Dragthalak' WHERE entry=9568; /* name: Overlord Wyrmthalak */
+UPDATE locales_creature SET name_loc9='Veterano della Scure Rossa' WHERE entry=9583; /* name: Bloodaxe Veteran */ /* subname: Bloodaxe Legion */
+UPDATE locales_creature SET name_loc9='Pappagallo' WHERE entry=9600; /* name: Parrot */
+UPDATE locales_creature SET name_loc9='Totem Incandescente' WHERE entry=9637; /* name: Scorching Totem */
+UPDATE locales_creature SET name_loc9='Robobomba da Compagnia' WHERE entry=9656; /* name: Pet Bombling */
+UPDATE locales_creature SET name_loc9='Fumetto Furbetto' WHERE entry=9657; /* name: Lil\' Smoky */
+UPDATE locales_creature SET name_loc9='Cucciolo di Drago Fatato' WHERE entry=9662; /* name: Sprite Darter Hatchling */
+UPDATE locales_creature SET name_loc9='Scarabeo del Fuoco' WHERE entry=9699; /* name: Fire Beetle */
+UPDATE locales_creature SET name_loc9='Granchio della Lava' WHERE entry=9700; /* name: Lava Crab */
+UPDATE locales_creature SET name_loc9='Quartiermastro Zigris' WHERE entry=9736; /* name: Quartermaster Zigris */ /* subname: Bloodaxe Legion */
+UPDATE locales_creature SET name_loc9='Piroguardia Mirabraci' WHERE entry=9816; /* name: Pyroguard Emberseer */
+UPDATE locales_creature SET name_loc9='Micio Corrotto' WHERE entry=9936; /* name: Corrupted Kitten */
+UPDATE locales_creature SET name_loc9='Magmus' WHERE entry=9938; /* name: Magmus */
+UPDATE locales_creature SET name_loc9='Shelby Stoneflint',subname_loc9='Stalliere' WHERE entry=9980; /* name: Shelby Stoneflint */ /* subname: Stable Master */
+UPDATE locales_creature SET name_loc9='Ulbrek Firehand',subname_loc9='Stalliere' WHERE entry=9984; /* name: Ulbrek Firehand */ /* subname: Stable Master */
+UPDATE locales_creature SET name_loc9='Shoja\'my',subname_loc9='Stalliere' WHERE entry=9987; /* name: Shoja\'my */ /* subname: Stable Master */
+UPDATE locales_creature SET name_loc9='Xon\'cha',subname_loc9='Stalliere' WHERE entry=9988; /* name: Xon\'cha */ /* subname: Stable Master */
+UPDATE locales_creature SET name_loc9='Ratto Corrotto' WHERE entry=10016; /* name: Tainted Rat */
+UPDATE locales_creature SET name_loc9='Scarafaggio Corrotto' WHERE entry=10017; /* name: Tainted Cockroach */
+UPDATE locales_creature SET name_loc9='Seikwa',subname_loc9='Stalliere' WHERE entry=10050; /* name: Seikwa */ /* subname: Stable Master */
+UPDATE locales_creature SET name_loc9='Seriadne',subname_loc9='Stalliere' WHERE entry=10051; /* name: Seriadne */ /* subname: Stable Master */
+UPDATE locales_creature SET name_loc9='Anya Maulray',subname_loc9='Stalliere' WHERE entry=10053; /* name: Anya Maulray */ /* subname: Stable Master */
+UPDATE locales_creature SET name_loc9='Bulrug',subname_loc9='Stalliere' WHERE entry=10054; /* name: Bulrug */ /* subname: Stable Master */
+UPDATE locales_creature SET name_loc9='Alassin',subname_loc9='Stalliere' WHERE entry=10056; /* name: Alassin */ /* subname: Stable Master */
+UPDATE locales_creature SET name_loc9='Gran Giudice Tetrapietra' WHERE entry=10096; /* name: High Justice Grimstone */
+UPDATE locales_creature SET name_loc9='Custode della Volta' WHERE entry=10120; /* name: Vault Warder */
+UPDATE locales_creature SET name_loc9='Victor Nefarius' WHERE entry=10162; /* name: Lord Victor Nefarius */ /* subname: Lord of Blackrock */
+UPDATE locales_creature SET name_loc9='Dama Sylvanas Ventolesto',subname_loc9='Regina Banshee' WHERE entry=10181; /* name: Lady Sylvanas Windrunner */ /* subname: Banshee Queen */
+UPDATE locales_creature SET name_loc9='Onyxia' WHERE entry=10184; /* name: Onyxia */
+UPDATE locales_creature SET name_loc9='Halycon' WHERE entry=10220; /* name: Halycon */
+UPDATE locales_creature SET name_loc9='Cucciolo di Worg' WHERE entry=10259; /* name: Worg Pup */
+UPDATE locales_creature SET name_loc9='Solakar Aurardente' WHERE entry=10264; /* name: Solakar Flamewreath */
+UPDATE locales_creature SET name_loc9='Gizrul il Capobranco' WHERE entry=10268; /* name: Gizrul the Slavener */
+UPDATE locales_creature SET name_loc9='Aguzzino Manonera' WHERE entry=10316; /* name: Blackhand Incarcerator */ /* subname: Blackhand Legion */
+UPDATE locales_creature SET name_loc9='Gyth' WHERE entry=10339; /* name: Gyth */ /* subname: Rend Blackhand\'s Mount */
+UPDATE locales_creature SET name_loc9='Generale Drakkisath' WHERE entry=10363; /* name: General Drakkisath */
+UPDATE locales_creature SET name_loc9='Ragnetto della Spira' WHERE entry=10375; /* name: Spire Spiderling */
+UPDATE locales_creature SET name_loc9='Fantasma Vendicativo' WHERE entry=10387; /* name: Vengeful Phantom */
+UPDATE locales_creature SET name_loc9='Capoguerra Rend Manonera' WHERE entry=10429; /* name: Warchief Rend Blackhand */
+UPDATE locales_creature SET name_loc9='La Bestia' WHERE entry=10430; /* name: The Beast */
+UPDATE locales_creature SET name_loc9='Vectus' WHERE entry=10432; /* name: Vectus */
+UPDATE locales_creature SET name_loc9='Marduk Pozzanera' WHERE entry=10433; /* name: Marduk Blackpool */
+UPDATE locales_creature SET name_loc9='Magistrato Barthilas' WHERE entry=10435; /* name: Magistrate Barthilas */
+UPDATE locales_creature SET name_loc9='Baronessa Anastari' WHERE entry=10436; /* name: Baroness Anastari */
+UPDATE locales_creature SET name_loc9='Nerub\'enkan' WHERE entry=10437; /* name: Nerub\'enkan */
+UPDATE locales_creature SET name_loc9='Maleki il Pallido' WHERE entry=10438; /* name: Maleki the Pallid */
+UPDATE locales_creature SET name_loc9='Ramstein il Bramacarne' WHERE entry=10439; /* name: Ramstein the Gorger */
+UPDATE locales_creature SET name_loc9='Barone Fieramorte' WHERE entry=10440; /* name: Baron Rivendare */
+UPDATE locales_creature SET name_loc9='Dama Illucia Barov' WHERE entry=10502; /* name: Lady Illucia Barov */
+UPDATE locales_creature SET name_loc9='Jandice Barov' WHERE entry=10503; /* name: Jandice Barov */
+UPDATE locales_creature SET name_loc9='Ser Alexei Barov' WHERE entry=10504; /* name: Lord Alexei Barov */
+UPDATE locales_creature SET name_loc9='Istruttrice Malicia' WHERE entry=10505; /* name: Instructor Malicia */
+UPDATE locales_creature SET name_loc9='Kirtonos l\'Araldo' WHERE entry=10506; /* name: Kirtonos the Herald */
+UPDATE locales_creature SET name_loc9='Raveniano' WHERE entry=10507; /* name: The Ravenian */
+UPDATE locales_creature SET name_loc9='Ras Soffiogelo' WHERE entry=10508; /* name: Ras Frostwhisper */
+UPDATE locales_creature SET name_loc9='L\'Implacabile' WHERE entry=10516; /* name: The Unforgiven */
+UPDATE locales_creature SET name_loc9='Vol\'jin' WHERE entry=10540; /* name: Vol\'jin */
+UPDATE locales_creature SET name_loc9='Forresten il Cantastorie' WHERE entry=10558; /* name: Hearthsinger Forresten */
+UPDATE locales_creature SET name_loc9='Bom\'bay',subname_loc9='Taumaturgo Principiante' WHERE entry=10578; /* name: Bom\'bay */ /* subname: Witch Doctor in Training */
+UPDATE locales_creature SET name_loc9='Kirtonos l\'Araldo' WHERE entry=10579; /* name: Kirtonos the Herald */ /* subname: Spell Visual */
+UPDATE locales_creature SET name_loc9='Cane' WHERE entry=10582; /* name: Dog */ /* subname: Sire */
+UPDATE locales_creature SET name_loc9='Urok Urlonero' WHERE entry=10584; /* name: Urok Doomhowl */
+UPDATE locales_creature SET name_loc9='Madre Bruciatela' WHERE entry=10596; /* name: Mother Smolderweb */
+UPDATE locales_creature SET name_loc9='Ragnetto Bruciatela' WHERE entry=10598; /* name: Smolderweb Hatchling */
+UPDATE locales_creature SET name_loc9='Cromie' WHERE entry=10667; /* name: Chromie */
+UPDATE locales_creature SET name_loc9='Suino' WHERE entry=10685; /* name: Swine */
+UPDATE locales_creature SET name_loc9='Finkle Cascorotto' WHERE entry=10776; /* name: Finkle Einhorn */
+UPDATE locales_creature SET name_loc9='Scoiattolo Infetto' WHERE entry=10779; /* name: Infected Squirrel */
+UPDATE locales_creature SET name_loc9='Timmy il Crudele' WHERE entry=10808; /* name: Timmy the Cruel */
+UPDATE locales_creature SET name_loc9='Balnazzar' WHERE entry=10813; /* name: Balnazzar */
+UPDATE locales_creature SET name_loc9='Guardia Elite Cromatica' WHERE entry=10814; /* name: Chromatic Elite Guard */
+UPDATE locales_creature SET name_loc9='Scarabeo Non Morto' WHERE entry=10876; /* name: Undead Scarab */
+UPDATE locales_creature SET name_loc9='Storico Polkelt' WHERE entry=10901; /* name: Lorekeeper Polkelt */
+UPDATE locales_creature SET name_loc9='Pamela Tracciarossa' WHERE entry=10926; /* name: Pamela Redpath */
+UPDATE locales_creature SET name_loc9='Fiera Glaciale di Fontefredda' WHERE entry=11021; /* name: Winterspring Frostsaber */
+UPDATE locales_creature SET name_loc9='Scheletro Decerebrato' WHERE entry=11197; /* name: Mindless Skeleton */
+UPDATE locales_creature SET name_loc9='Pappagallo di Sangue' WHERE entry=11236; /* name: Blood Parrot */
+UPDATE locales_creature SET name_loc9='Dottor Theolen Krastinov' WHERE entry=11261; /* name: Doctor Theolen Krastinov */ /* subname: The Butcher */
+UPDATE locales_creature SET name_loc9='Elementale Fuso' WHERE entry=11321; /* name: Molten Elemental */
+UPDATE locales_creature SET name_loc9='Cucciolo di Panda' WHERE entry=11325; /* name: Panda Cub */
+UPDATE locales_creature SET name_loc9='Mini Diablo',subname_loc9='Signore del Terrore' WHERE entry=11326; /* name: Mini Diablo */ /* subname: Lord of Terror */
+UPDATE locales_creature SET name_loc9='Zergling' WHERE entry=11327; /* name: Zergling */
+UPDATE locales_creature SET name_loc9='Cacciatore di Teste Gurubashi' WHERE entry=11351; /* name: Gurubashi Headhunter */
+UPDATE locales_creature SET name_loc9='Jin\'do il Malefico' WHERE entry=11380; /* name: Jin\'do the Hexxer */
+UPDATE locales_creature SET name_loc9='Signore del Sangue Mandokir' WHERE entry=11382; /* name: Bloodlord Mandokir */
+UPDATE locales_creature SET name_loc9='Razziatore Gordok' WHERE entry=11450; /* name: Gordok Reaver */
+UPDATE locales_creature SET name_loc9='Protettore Legnoferreo' WHERE entry=11459; /* name: Ironbark Protector */
+UPDATE locales_creature SET name_loc9='Servitore di Alzzin' WHERE entry=11460; /* name: Alzzin\'s Minion */
+UPDATE locales_creature SET name_loc9='Principe Tortheldrin' WHERE entry=11486; /* name: Prince Tortheldrin */
+UPDATE locales_creature SET name_loc9='Magistro Kalendris' WHERE entry=11487; /* name: Magister Kalendris */
+UPDATE locales_creature SET name_loc9='Illyanna Quercianera' WHERE entry=11488; /* name: Illyanna Ravenoak */
+UPDATE locales_creature SET name_loc9='Tendris Legnotorto' WHERE entry=11489; /* name: Tendris Warpwood */
+UPDATE locales_creature SET name_loc9='Zevrim Zamparossa' WHERE entry=11490; /* name: Zevrim Thornhoof */
+UPDATE locales_creature SET name_loc9='Alzzin il Selvatico' WHERE entry=11492; /* name: Alzzin the Wildshaper */
+UPDATE locales_creature SET name_loc9='Immol\'thar' WHERE entry=11496; /* name: Immol\'thar */
+UPDATE locales_creature SET name_loc9='Re Gordok' WHERE entry=11501; /* name: King Gordok */
 UPDATE locales_creature SET name_loc9='Ragnaros' WHERE entry=11502; /* name: Ragnaros */
+UPDATE locales_creature SET name_loc9='Nefarian' WHERE entry=11583; /* name: Nefarian */ /* subname: The Head of The Black Flight */
+UPDATE locales_creature SET name_loc9='Scuotiossa' WHERE entry=11622; /* name: Rattlegore */
+UPDATE locales_creature SET name_loc9='Segugio del Nucleo' WHERE entry=11671; /* name: Core Hound */
+UPDATE locales_creature SET name_loc9='Frammento di Theradrim' WHERE entry=11783; /* name: Theradrim Shardling */
+UPDATE locales_creature SET name_loc9='Trivellatore di Roccia' WHERE entry=11787; /* name: Rock Borer */
+UPDATE locales_creature SET name_loc9='Demone Guardiano' WHERE entry=11859; /* name: Doomguard */
+UPDATE locales_creature SET name_loc9='Woo Ping',subname_loc9='Maestro d\'Armi' WHERE entry=11867; /* name: Woo Ping */ /* subname: Weapon Master */
+UPDATE locales_creature SET name_loc9='Ansekhwa',subname_loc9='Maestro d\'Armi' WHERE entry=11869; /* name: Ansekhwa */ /* subname: Weapon Master */
+UPDATE locales_creature SET name_loc9='Archibald',subname_loc9='Maestro d\'Armi' WHERE entry=11870; /* name: Archibald */ /* subname: Weapon Master */
+UPDATE locales_creature SET name_loc9='Ardigon' WHERE entry=11981; /* name: Flamegor */
+UPDATE locales_creature SET name_loc9='Magmadar' WHERE entry=11982; /* name: Magmadar */
+UPDATE locales_creature SET name_loc9='Piragon' WHERE entry=11983; /* name: Firemaw */
+UPDATE locales_creature SET name_loc9='Golemagg il Crematore' WHERE entry=11988; /* name: Golemagg the Incinerator */
+UPDATE locales_creature SET name_loc9='Fustigor il Signore della Progenie' WHERE entry=12017; /* name: Broodlord Lashlayer */
+UPDATE locales_creature SET name_loc9='Maggiordomo Executus' WHERE entry=12018; /* name: Majordomo Executus */
+UPDATE locales_creature SET name_loc9='Barone Geddon' WHERE entry=12056; /* name: Baron Geddon */
+UPDATE locales_creature SET name_loc9='Garr' WHERE entry=12057; /* name: Garr */
+UPDATE locales_creature SET name_loc9='Sulfuron l\'Araldo' WHERE entry=12098; /* name: Sulfuron Harbinger */
+UPDATE locales_creature SET name_loc9='Lucifron' WHERE entry=12118; /* name: Lucifron */
+UPDATE locales_creature SET name_loc9='Figlio delle Fiamme' WHERE entry=12143; /* name: Son of Flame */
+UPDATE locales_creature SET name_loc9='Principessa Theradras' WHERE entry=12201; /* name: Princess Theradras */
 UPDATE locales_creature SET name_loc9='Teschio Umano' WHERE entry=12202; /* name: Human Skull */
+UPDATE locales_creature SET name_loc9='Valangus' WHERE entry=12203; /* name: Landslide */
+UPDATE locales_creature SET name_loc9='Celebras il Dannato' WHERE entry=12225; /* name: Celebras the Cursed */
+UPDATE locales_creature SET name_loc9='Sire Linguatroce' WHERE entry=12236; /* name: Lord Vyletongue */
+UPDATE locales_creature SET name_loc9='Ramospino' WHERE entry=12258; /* name: Razorlash */
+UPDATE locales_creature SET name_loc9='Gehennas' WHERE entry=12259; /* name: Gehennas */
+UPDATE locales_creature SET name_loc9='Shazzrah' WHERE entry=12264; /* name: Shazzrah */
+UPDATE locales_creature SET name_loc9='Raptor d\'Avorio' WHERE entry=12348; /* name: Ivory Raptor */
+UPDATE locales_creature SET name_loc9='Raptor Cavalcabile Violaceo' WHERE entry=12350; /* name: Violet Riding Raptor */
+UPDATE locales_creature SET name_loc9='Tecnostruzzo Blu Ghiaccio Mod A' WHERE entry=12364; /* name: Icy Blue Mechanostrider Mod A */
+UPDATE locales_creature SET name_loc9='Montone Nero' WHERE entry=12370; /* name: Black Ram */
+UPDATE locales_creature SET name_loc9='Montone del Gelo' WHERE entry=12371; /* name: Frost Ram */
 UPDATE locales_creature SET name_loc9='Cavallo Marrone' WHERE entry=12376; /* name: Brown Horse */
+UPDATE locales_creature SET name_loc9='Rospo Meccanico' WHERE entry=12419; /* name: Lifelike Toad */
+UPDATE locales_creature SET name_loc9='Alafurion l\'Indomabile' WHERE entry=12435; /* name: Razorgore the Untamed */
+UPDATE locales_creature SET name_loc9='Predone Cantaguerra' WHERE entry=12864; /* name: Warsong Outrider */
+UPDATE locales_creature SET name_loc9='Sentinella Alargentea' WHERE entry=12896; /* name: Silverwing Sentinel */
+UPDATE locales_creature SET name_loc9='Lorgus Jett' WHERE entry=12902; /* name: Lorgus Jett */
+UPDATE locales_creature SET name_loc9='Spirito di Redenzione' WHERE entry=12904; /* name: Spirit Of Redemption */
+UPDATE locales_creature SET name_loc9='Nat Pagle' WHERE entry=12919; /* name: Nat Pagle */
+UPDATE locales_creature SET name_loc9='Vaelastrasz il Corrotto' WHERE entry=13020; /* name: Vaelastrasz the Corrupt */
+UPDATE locales_creature SET name_loc9='Idrogenio' WHERE entry=13280; /* name: Hydrospawn */
+UPDATE locales_creature SET name_loc9='Noxxion' WHERE entry=13282; /* name: Noxxion */
+UPDATE locales_creature SET name_loc9='Rana' WHERE entry=13321; /* name: Frog */
+UPDATE locales_creature SET name_loc9='Morsodrillo' WHERE entry=13596; /* name: Rotgrip */
+UPDATE locales_creature SET name_loc9='Meccanista Tagliafizz' WHERE entry=13601; /* name: Tinkerer Gizlock */
+UPDATE locales_creature SET name_loc9='Manichino di Tagliafizz' WHERE entry=13619; /* name: Gizlock\'s Dummy */
+UPDATE locales_creature SET name_loc9='Tagliafizz' WHERE entry=13620; /* name: Gizlock */
+UPDATE locales_creature SET name_loc9='Salicino',subname_loc9='Martello del Crepuscolo' WHERE entry=13656; /* name: Willow */ /* subname: Twilight\'s Hammer */
+UPDATE locales_creature SET name_loc9='Forza Corrotta della Natura' WHERE entry=13743; /* name: Corrupt Force of Nature */
+UPDATE locales_creature SET name_loc9='Corvolesto' WHERE entry=13936; /* name: Ravenholdt */
+UPDATE locales_creature SET name_loc9='Cromaggus' WHERE entry=14020; /* name: Chromaggus */
 UPDATE locales_creature SET name_loc9='Portale Demoniaco' WHERE entry=14081; /* name: Demon Portal */
+UPDATE locales_creature SET name_loc9='Guizzo' WHERE entry=14232; /* name: Dart */
+UPDATE locales_creature SET name_loc9='Elite Kor\'kron' WHERE entry=14304; /* name: Kor\'kron Elite */
+UPDATE locales_creature SET name_loc9='Orfano Umano' WHERE entry=14305; /* name: Human Orphan */
+UPDATE locales_creature SET name_loc9='Ferra' WHERE entry=14308; /* name: Ferra */
+UPDATE locales_creature SET name_loc9='Guardia Fengus' WHERE entry=14321; /* name: Guard Fengus */
+UPDATE locales_creature SET name_loc9='Kreeg il Pestatore' WHERE entry=14322; /* name: Stomper Kreeg */ /* subname: The Drunk */
+UPDATE locales_creature SET name_loc9='Guardia Slip\'kik' WHERE entry=14323; /* name: Guard Slip\'kik */
+UPDATE locales_creature SET name_loc9='Cho\'rush l\'Osservatore' WHERE entry=14324; /* name: Cho\'Rush the Observer */
+UPDATE locales_creature SET name_loc9='Capitano Kromcrus' WHERE entry=14325; /* name: Captain Kromcrush */
+UPDATE locales_creature SET name_loc9='Guardia Mol\'dar' WHERE entry=14326; /* name: Guard Mol\'dar */
+UPDATE locales_creature SET name_loc9='Lethtendris' WHERE entry=14327; /* name: Lethtendris */
+UPDATE locales_creature SET name_loc9='Lupo da Guerra Nero' WHERE entry=14329; /* name: Black War Wolf */
+UPDATE locales_creature SET name_loc9='Raptor da Guerra Nero' WHERE entry=14330; /* name: Black War Raptor */
+UPDATE locales_creature SET name_loc9='Cavallo da Guerra Scheletrico Rosso' WHERE entry=14331; /* name: Red Skeletal Warhorse */
+UPDATE locales_creature SET name_loc9='Destriero da Guerra Nero' WHERE entry=14332; /* name: Black War Steed */
+UPDATE locales_creature SET name_loc9='Kodo da Guerra Nero' WHERE entry=14333; /* name: Black War Kodo */
+UPDATE locales_creature SET name_loc9='Calcaguerra Nero' WHERE entry=14334; /* name: Black Battlestrider */
+UPDATE locales_creature SET name_loc9='Montone da Guerra Nero' WHERE entry=14335; /* name: Black War Ram */
+UPDATE locales_creature SET name_loc9='Tigre da Guerra Nera' WHERE entry=14336; /* name: Black War Tiger */
+UPDATE locales_creature SET name_loc9='Pimgib' WHERE entry=14349; /* name: Pimgib */
+UPDATE locales_creature SET name_loc9='Idrolicus' WHERE entry=14350; /* name: Hydroling */
+UPDATE locales_creature SET name_loc9='Occhio di Immol\'thar' WHERE entry=14396; /* name: Eye of Immol\'thar */
+UPDATE locales_creature SET name_loc9='Torrente Arcano' WHERE entry=14399; /* name: Arcane Torrent */
+UPDATE locales_creature SET name_loc9='Cane della Prateria Bruno' WHERE entry=14421; /* name: Brown Prairie Dog */
+UPDATE locales_creature SET name_loc9='Orfano Orco' WHERE entry=14444; /* name: Orcish Orphan */
 UPDATE locales_creature SET name_loc9='Globo della Dominazione' WHERE entry=14453; /* name: Orb of Domination */
+UPDATE locales_creature SET name_loc9='Maldestriero' WHERE entry=14505; /* name: Dreadsteed */
+UPDATE locales_creature SET name_loc9='Gran Sacerdote Venoxis' WHERE entry=14507; /* name: High Priest Venoxis */
+UPDATE locales_creature SET name_loc9='Gran Sacerdote Thekal' WHERE entry=14509; /* name: High Priest Thekal */
+UPDATE locales_creature SET name_loc9='Gran Sacerdotessa Mar\'li' WHERE entry=14510; /* name: High Priestess Mar\'li */
+UPDATE locales_creature SET name_loc9='Gran Sacerdotessa Arlokk' WHERE entry=14515; /* name: High Priestess Arlokk */
+UPDATE locales_creature SET name_loc9='Gran Sacerdotessa Jeklik' WHERE entry=14517; /* name: High Priestess Jeklik */
+UPDATE locales_creature SET name_loc9='Lupo Grigio Rapido' WHERE entry=14541; /* name: Swift Gray Wolf */
+UPDATE locales_creature SET name_loc9='Raptor Oliva Rapido' WHERE entry=14543; /* name: Swift Olive Raptor */
+UPDATE locales_creature SET name_loc9='Raptor Arancio Rapido' WHERE entry=14544; /* name: Swift Orange Raptor */
+UPDATE locales_creature SET name_loc9='Raptor Blu Rapido' WHERE entry=14545; /* name: Swift Blue Raptor */
+UPDATE locales_creature SET name_loc9='Destriero' WHERE entry=14565; /* name: Charger */
+UPDATE locales_creature SET name_loc9='Ebagon' WHERE entry=14601; /* name: Ebonroc */
+UPDATE locales_creature SET name_loc9='Tartarabbia Marina' WHERE entry=14629; /* name: Loggerhead Snapjaw */
+UPDATE locales_creature SET name_loc9='Tartarabbia dal Guscio Molle' WHERE entry=14630; /* name: Leatherback Snapjaw */
+UPDATE locales_creature SET name_loc9='Tartarabbia Oliva' WHERE entry=14631; /* name: Olive Snapjaw */
+UPDATE locales_creature SET name_loc9='Tartarabbia Embricata' WHERE entry=14632; /* name: Hawksbill Snapjaw */
+UPDATE locales_creature SET name_loc9='Tartarabbia Albina' WHERE entry=14633; /* name: Albino Snapjaw */
+UPDATE locales_creature SET name_loc9='Gran Supremo Faucisaure' WHERE entry=14720; /* name: High Overlord Saurfang */
+UPDATE locales_creature SET name_loc9='Belva dei Lupi Bianchi' WHERE entry=14744; /* name: Frostwolf Howler */
+UPDATE locales_creature SET name_loc9='Gran Destriero da Guerra dei Piccatonante' WHERE entry=14745; /* name: Stormpike Battle Charger */
+UPDATE locales_creature SET name_loc9='Piccola Serpe Verde' WHERE entry=14755; /* name: Tiny Green Dragon */
+UPDATE locales_creature SET name_loc9='Piccola Serpe Rossa' WHERE entry=14756; /* name: Tiny Red Dragon */
+UPDATE locales_creature SET name_loc9='Hakkar' WHERE entry=14834; /* name: Hakkar */
+UPDATE locales_creature SET name_loc9='Molthor' WHERE entry=14875; /* name: Molthor */ /* subname: Hand of Rastakhan */
+UPDATE locales_creature SET name_loc9='Gran Sacerdote Venoxis' WHERE entry=14877; /* name: High Priest Venoxis */ /* subname: Transformation Visual */
+UPDATE locales_creature SET name_loc9='Pincopallina' WHERE entry=14878; /* name: Jubling */
+UPDATE locales_creature SET name_loc9='Ragno' WHERE entry=14881; /* name: Spider */
+UPDATE locales_creature SET name_loc9='Jin\'rokh il Demolitore' WHERE entry=14902; /* name: Jin\'rokh the Breaker */
+UPDATE locales_creature SET name_loc9='Al\'tabim l\'Onnisciente' WHERE entry=14903; /* name: Al\'tabim the All-Seeing */
+UPDATE locales_creature SET name_loc9='Gran Sacerdotessa Jeklik' WHERE entry=14941; /* name: High Priestess Jeklik */ /* subname: Transformation Visual */
+UPDATE locales_creature SET name_loc9='Gran Sacerdote Thekal' WHERE entry=14966; /* name: High Priest Thekal */ /* subname: Transformation Visual */
+UPDATE locales_creature SET name_loc9='Gran Sacerdotessa Mar\'li' WHERE entry=14967; /* name: High Priestess Mar\'li */ /* subname: Transformation Visual */
+UPDATE locales_creature SET name_loc9='Gran Sacerdotessa Arlokk' WHERE entry=14968; /* name: High Priestess Arlokk */ /* subname: Transformation Visual */
+UPDATE locales_creature SET name_loc9='Ohgan' WHERE entry=14988; /* name: Ohgan */
+UPDATE locales_creature SET name_loc9='Spino' WHERE entry=15072; /* name: Spike */
+UPDATE locales_creature SET name_loc9='Gri\'lek' WHERE entry=15082; /* name: Gri\'lek */
+UPDATE locales_creature SET name_loc9='Hazza\'rah' WHERE entry=15083; /* name: Hazza\'rah */
+UPDATE locales_creature SET name_loc9='Renataki' WHERE entry=15084; /* name: Renataki */
+UPDATE locales_creature SET name_loc9='Wushoolay' WHERE entry=15085; /* name: Wushoolay */
+UPDATE locales_creature SET name_loc9='Raptor Razzashi' WHERE entry=15090; /* name: Swift Razzashi Raptor */
+UPDATE locales_creature SET name_loc9='Tigre Zuliana' WHERE entry=15104; /* name: Swift Zulian Tiger */
+UPDATE locales_creature SET name_loc9='Benedizione Primordiale' WHERE entry=15109; /* name: Primal Blessing */ /* subname: Transformation Visual */
+UPDATE locales_creature SET name_loc9='Gahz\'ranka' WHERE entry=15114; /* name: Gahz\'ranka */
+UPDATE locales_creature SET name_loc9='Spirito Incatenato' WHERE entry=15117; /* name: Chained Spirit */
+UPDATE locales_creature SET name_loc9='Illusione dell\'Incubo' WHERE entry=15163; /* name: Nightmare Illusion */
+UPDATE locales_creature SET name_loc9='Stirpe di Nozdormu' WHERE entry=15185; /* name: Brood of Nozdormu */
+UPDATE locales_creature SET name_loc9='Fosky' WHERE entry=15186; /* name: Murky */
+UPDATE locales_creature SET name_loc9='Profeta Skeram' WHERE entry=15263; /* name: The Prophet Skeram */
+UPDATE locales_creature SET name_loc9='Viscidus' WHERE entry=15299; /* name: Viscidus */
+UPDATE locales_creature SET name_loc9='Ossirian l\'Indomito' WHERE entry=15339; /* name: Ossirian the Unscarred */
+UPDATE locales_creature SET name_loc9='Moam' WHERE entry=15340; /* name: Moam */
+UPDATE locales_creature SET name_loc9='Generale Rajaxx' WHERE entry=15341; /* name: General Rajaxx */
+UPDATE locales_creature SET name_loc9='Kurinnaxx' WHERE entry=15348; /* name: Kurinnaxx */
+UPDATE locales_creature SET name_loc9='Malfurion Grantempesta' WHERE entry=15362; /* name: Malfurion Stormrage */
+UPDATE locales_creature SET name_loc9='Totem dello Spirito' WHERE entry=15363; /* name: Spirit Totem */
+UPDATE locales_creature SET name_loc9='Ayamiss il Cacciatore' WHERE entry=15369; /* name: Ayamiss the Hunter */
+UPDATE locales_creature SET name_loc9='Buru il Bramacarne' WHERE entry=15370; /* name: Buru the Gorger */
+UPDATE locales_creature SET name_loc9='Eroe dell\'Orda' WHERE entry=15394; /* name: Hero of the Horde */
 UPDATE locales_creature SET name_loc9='Risveglio di Merithra' WHERE entry=15427; /* name: Merithra\'s Wake */
+UPDATE locales_creature SET name_loc9='Vortice delle Sabbie' WHERE entry=15428; /* name: Sand Vortex */
+UPDATE locales_creature SET name_loc9='Melmina Disgustosa' WHERE entry=15429; /* name: Disgusting Oozeling */
+UPDATE locales_creature SET name_loc9='Scarabeo' WHERE entry=15475; /* name: Beetle */
+UPDATE locales_creature SET name_loc9='Scorpione' WHERE entry=15476; /* name: Scorpion */
+UPDATE locales_creature SET name_loc9='Buru il Bramacarne' WHERE entry=15507; /* name: Buru the Gorger */ /* subname: Transformation Visual */
+UPDATE locales_creature SET name_loc9='Principessa Huhuran' WHERE entry=15509; /* name: Princess Huhuran */
+UPDATE locales_creature SET name_loc9='Fankriss l\'Inflessibile' WHERE entry=15510; /* name: Fankriss the Unyielding */
+UPDATE locales_creature SET name_loc9='Guardiana Sartura' WHERE entry=15516; /* name: Battleguard Sartura */
+UPDATE locales_creature SET name_loc9='Ouro' WHERE entry=15517; /* name: Ouro */
+UPDATE locales_creature SET name_loc9='Tyrande',subname_loc9='Gran Sacerdotessa di Elune' WHERE entry=15633; /* name: Tyrande */ /* subname: High Priestess of Elune */
+UPDATE locales_creature SET name_loc9='Aiutante di Babbo Inverno' WHERE entry=15698; /* name: Father Winter\'s Helper */
+UPDATE locales_creature SET name_loc9='Yeti Meccanico Pacifico' WHERE entry=15699; /* name: Tranquil Mechanical Yeti */
+UPDATE locales_creature SET name_loc9='Sen\'jin' WHERE entry=15704; /* name: Senior Sergeant Kai\'jin */ /* subname: War Effort Recruiter */
+UPDATE locales_creature SET name_loc9='Piccola Aiutante di Babbo Inverno' WHERE entry=15705; /* name: Winter\'s Little Helper */
+UPDATE locales_creature SET name_loc9='Renna Invernale' WHERE entry=15706; /* name: Winter Reindeer */
+UPDATE locales_creature SET name_loc9='Pupazzo di Neve Piccino' WHERE entry=15710; /* name: Tiny Snowman */
 UPDATE locales_creature SET name_loc9='Mucchio di Terra' WHERE entry=15712; /* name: Dirt Mound */
+UPDATE locales_creature SET name_loc9='C\'Thun' WHERE entry=15727; /* name: C\'Thun */
+UPDATE locales_creature SET name_loc9='Cristallo Echeggiante' WHERE entry=15769; /* name: Resonating Crystal */
+UPDATE locales_creature SET name_loc9='C\'Thun' WHERE entry=15809; /* name: C\'Thun */ /* subname: Transformation Visual */
+UPDATE locales_creature SET name_loc9='Thaddius' WHERE entry=15928; /* name: Thaddius */
+UPDATE locales_creature SET name_loc9='Grobbulus' WHERE entry=15931; /* name: Grobbulus */
+UPDATE locales_creature SET name_loc9='Gluth' WHERE entry=15932; /* name: Gluth */
+UPDATE locales_creature SET name_loc9='Nube di Veleno' WHERE entry=15933; /* name: Poison Cloud */
+UPDATE locales_creature SET name_loc9='Heigan l\'Impuro' WHERE entry=15936; /* name: Heigan the Unclean */
+UPDATE locales_creature SET name_loc9='Maexxna' WHERE entry=15952; /* name: Maexxna */
+UPDATE locales_creature SET name_loc9='Faerlina la Vedova Nera' WHERE entry=15953; /* name: Grand Widow Faerlina */
+UPDATE locales_creature SET name_loc9='Noth l\'Araldo della Piaga' WHERE entry=15954; /* name: Noth the Plaguebringer */
+UPDATE locales_creature SET name_loc9='Anub\'rekhan' WHERE entry=15956; /* name: Anub\'Rekhan */
+UPDATE locales_creature SET name_loc9='Zaffirion' WHERE entry=15989; /* name: Sapphiron */
+UPDATE locales_creature SET name_loc9='Kel\'Thuzad' WHERE entry=15990; /* name: Kel\'Thuzad */
+UPDATE locales_creature SET name_loc9='Loatheb' WHERE entry=16011; /* name: Loatheb */
+UPDATE locales_creature SET name_loc9='Scienziato Pazzo' WHERE entry=16020; /* name: Mad Scientist */
+UPDATE locales_creature SET name_loc9='Veleno Vivente' WHERE entry=16027; /* name: Living Poison */
+UPDATE locales_creature SET name_loc9='Pezzacarne' WHERE entry=16028; /* name: Patchwerk */
+UPDATE locales_creature SET name_loc9='Camola' WHERE entry=16030; /* name: Maggot */
+UPDATE locales_creature SET name_loc9='Gothik il Falciatore' WHERE entry=16060; /* name: Gothik the Harvester */
+UPDATE locales_creature SET name_loc9='Istruttore Razuvious' WHERE entry=16061; /* name: Instructor Razuvious */
+UPDATE locales_creature SET name_loc9='Ser Zeliek' WHERE entry=16063; /* name: Sir Zeliek */
+UPDATE locales_creature SET name_loc9='Thane Korth\'azz' WHERE entry=16064; /* name: Thane Korth\'azz */
+UPDATE locales_creature SET name_loc9='Larva' WHERE entry=16068; /* name: Larva */
+UPDATE locales_creature SET name_loc9='Gurky' WHERE entry=16069; /* name: Gurky */
+UPDATE locales_creature SET name_loc9='Stupìdo' WHERE entry=16085; /* name: Peddlefeet */
+UPDATE locales_creature SET name_loc9='Rimblat Spacca Terra',subname_loc9='Circolo della Terra' WHERE entry=16134; /* name: Rimblat Earthshatter */ /* subname: The Earthen Ring */
+UPDATE locales_creature SET name_loc9='DEATHKNIGHT' WHERE entry=16146; /* name: Deathknight */
+UPDATE locales_creature SET name_loc9='Spora' WHERE entry=16286; /* name: Spore */
+UPDATE locales_creature SET name_loc9='Pecora' WHERE entry=16372; /* name: Sheep */
+UPDATE locales_creature SET name_loc9='Tartaruga' WHERE entry=16377; /* name: Turtle */
+UPDATE locales_creature SET name_loc9='Totem del Fulmine' WHERE entry=16385; /* name: Lightning Totem */
 UPDATE locales_creature SET name_loc9='Necropoli' WHERE entry=16401; /* name: Necropolis */
 UPDATE locales_creature SET name_loc9='Cristallo Necrotico Rotto' WHERE entry=16431; /* name: Cracked Necrotic Crystal */
+UPDATE locales_creature SET name_loc9='Gran Inquisitore Fierasponda' WHERE entry=16439; /* name: High Inquisitor Fairbanks */ /* subname: Transformation Visual */
+UPDATE locales_creature SET name_loc9='Tempesta di Neve' WHERE entry=16474; /* name: Blizzard */
+UPDATE locales_creature SET name_loc9='Ragnatela Avvolgente' WHERE entry=16486; /* name: Web Wrap */
+UPDATE locales_creature SET name_loc9='Cavallo da Guerra d\'Argento' WHERE entry=16509; /* name: Argent Warhorse */
+UPDATE locales_creature SET name_loc9='Rapidino' WHERE entry=16547; /* name: Speedy */
+UPDATE locales_creature SET name_loc9='Ser Pancetta' WHERE entry=16548; /* name: Mr. Wiggles */
+UPDATE locales_creature SET name_loc9='Baffo il Ratto' WHERE entry=16549; /* name: Whiskers the Rat */
+UPDATE locales_creature SET name_loc9='Zona del Vuoto' WHERE entry=16697; /* name: Void Zone */
+UPDATE locales_creature SET name_loc9='Spirito dell\'Estate' WHERE entry=16701; /* name: Spirit of Summer */
+UPDATE locales_creature SET name_loc9='Mucca' WHERE entry=16779; /* name: Cow */
+UPDATE locales_creature SET name_loc9='Re dei Lich' WHERE entry=16980; /* name: The Lich King */
+UPDATE locales_creature SET name_loc9='Signor Bigolo' WHERE entry=16998; /* name: Mr. Bigglesworth */
+UPDATE locales_creature SET name_loc9='Vilguardia' WHERE entry=17252; /* name: Felguard */
 
 SET NAMES 'latin1';

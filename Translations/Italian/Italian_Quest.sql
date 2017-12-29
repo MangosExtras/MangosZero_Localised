@@ -4,37 +4,77 @@ UPDATE locales_quest SET title_loc9='Milizia Popolare' WHERE entry=12; /* title:
 UPDATE locales_quest SET title_loc9='Milizia Popolare' WHERE entry=13; /* title: The People\'s Militia */
 UPDATE locales_quest SET title_loc9='Milizia Popolare' WHERE entry=14; /* title: The People\'s Militia */
 UPDATE locales_quest SET title_loc9='Torta di Fegato di Goretusk' WHERE entry=22; /* title: Goretusk Liver Pie */
+UPDATE locales_quest SET title_loc9='Forma Acquatica' WHERE entry=31; /* title: Aquatic Form */
 UPDATE locales_quest SET title_loc9='Sufato di Westfall' WHERE entry=36; /* title: Westfall Stew */
 UPDATE locales_quest SET title_loc9='Sufato di Westfall' WHERE entry=38; /* title: Westfall Stew */
 UPDATE locales_quest SET title_loc9='Goldtooth' WHERE entry=87; /* title: Goldtooth */
+UPDATE locales_quest SET title_loc9='Gulasch alla Crestarossa' WHERE entry=92; /* title: Redridge Goulash */
 UPDATE locales_quest SET title_loc9='Raven Hill' WHERE entry=163; /* title: Raven Hill */
 UPDATE locales_quest SET title_loc9='L\'eremita' WHERE entry=165; /* title: The Hermit */
 UPDATE locales_quest SET title_loc9='Ricercato: Gath\'Ilzogg' WHERE entry=169; /* title: Wanted: Gath\'Ilzogg */
+UPDATE locales_quest SET title_loc9='Settimana dei Bambini' WHERE entry=172; /* title: Children\'s Week */
 UPDATE locales_quest SET title_loc9='Ricercato: Tenente Fangore' WHERE entry=180; /* title: Wanted: Lieutenant Fangore */
+UPDATE locales_quest SET title_loc9='Caccia grossa' WHERE entry=208; /* title: Big Game Hunter */
 UPDATE locales_quest SET title_loc9='Sposa dell\'Imbalsamatore' WHERE entry=253; /* title: Bride of the Embalmer */
 UPDATE locales_quest SET title_loc9='Ricercato: Chok\'Sul' WHERE entry=256; /* title: Wanted: Chok\'Sul */
+UPDATE locales_quest SET title_loc9='Covo dei Mantogelido' WHERE entry=287; /* title: Frostmane Hold */
+UPDATE locales_quest SET title_loc9='Tana Selvaggia' WHERE entry=313; /* title: The Grizzled Den */
 UPDATE locales_quest SET title_loc9='Le Colline Verdi di Stranglethorn' WHERE entry=338; /* title: The Green Hills of Stranglethorn */
+UPDATE locales_quest SET RequestItemsText_loc9='Si?' WHERE entry=361; /* RequestItemsText: Yes? */
+UPDATE locales_quest SET title_loc9='Prove di morte' WHERE entry=374; /* title: Proof of Demise */
+UPDATE locales_quest SET title_loc9='Valle Telanera' WHERE entry=380; /* title: Night Web\'s Hollow */
+UPDATE locales_quest SET title_loc9='Costolette di Cinghiale alla Birra' WHERE entry=384; /* title: Beer Basted Boar Ribs */
+UPDATE locales_quest SET RequestItemsText_loc9='Si?' WHERE entry=398; /* RequestItemsText: Yes? */
 UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=493; /* RequestItemsText: You have something for me? */
+UPDATE locales_quest SET title_loc9='Grotta di Beren' WHERE entry=516; /* title: Beren\'s Peril */
+UPDATE locales_quest SET title_loc9='Infiltrazione' WHERE entry=533; /* title: Infiltration */
 UPDATE locales_quest SET title_loc9='Southshore' WHERE entry=538; /* title: Southshore */
+UPDATE locales_quest SET title_loc9='Zuppa Cremosa di Tartaruga' WHERE entry=555; /* title: Soothing Turtle Bisque */
 UPDATE locales_quest SET title_loc9='Pericoloso!' WHERE entry=567; /* title: Dangerous! */
+UPDATE locales_quest SET RequestItemsText_loc9='Si?' WHERE entry=567; /* RequestItemsText: Yes? */
+UPDATE locales_quest SET title_loc9='Occhio della Mente' WHERE entry=591; /* title: The Mind\'s Eye */
 UPDATE locales_quest SET title_loc9='Indovinello di Cortello' WHERE entry=624; /* title: Cortello\'s Riddle */
 UPDATE locales_quest SET title_loc9='Indovinello di Cortello' WHERE entry=625; /* title: Cortello\'s Riddle */
 UPDATE locales_quest SET title_loc9='Indovinello di Cortello' WHERE entry=626; /* title: Cortello\'s Riddle */
+UPDATE locales_quest SET title_loc9='Scogliera Infame' WHERE entry=629; /* title: The Vile Reef */
 UPDATE locales_quest SET title_loc9='Leggende della Terra' WHERE entry=636; /* title: Legends of the Earth */
 UPDATE locales_quest SET title_loc9='Hammerfall' WHERE entry=655; /* title: Hammerfall */
+UPDATE locales_quest SET title_loc9='Terra!' WHERE entry=663; /* title: Land Ho! */
+UPDATE locales_quest SET title_loc9='Tesoro Sommerso' WHERE entry=665; /* title: Sunken Treasure */
+UPDATE locales_quest SET title_loc9='Tesoro Sommerso' WHERE entry=666; /* title: Sunken Treasure */
+UPDATE locales_quest SET title_loc9='Tesoro Sommerso' WHERE entry=668; /* title: Sunken Treasure */
+UPDATE locales_quest SET title_loc9='Tesoro Sommerso' WHERE entry=669; /* title: Sunken Treasure */
+UPDATE locales_quest SET title_loc9='Tesoro Sommerso' WHERE entry=670; /* title: Sunken Treasure */
+UPDATE locales_quest SET title_loc9='Maniero dei Norten' WHERE entry=681; /* title: Northfold Manor */
+UPDATE locales_quest SET title_loc9='Ala di Condor alla Griglia' WHERE entry=703; /* title: Barbecued Buzzard Wings */
 UPDATE locales_quest SET title_loc9='Sigillo della Terra' WHERE entry=779; /* title: Seal of the Earth */
 UPDATE locales_quest SET title_loc9='La Nuova Orda' WHERE entry=787; /* title: The New Horde */
 UPDATE locales_quest SET title_loc9='Sigillo della Terra' WHERE entry=795; /* title: Seal of the Earth */
 UPDATE locales_quest SET title_loc9='Barilotto Vuoto di Chen' WHERE entry=819; /* title: Chen\'s Empty Keg */
+UPDATE locales_quest SET RequestItemsText_loc9='Si?' WHERE entry=819; /* RequestItemsText: Yes? */
 UPDATE locales_quest SET title_loc9='Barilotto Vuoto di Chen' WHERE entry=821; /* title: Chen\'s Empty Keg */
 UPDATE locales_quest SET title_loc9='Barilotto Vuoto di Chen' WHERE entry=822; /* title: Chen\'s Empty Keg */
+UPDATE locales_quest SET title_loc9='Roccia del Teschio' WHERE entry=827; /* title: Skull Rock */
+UPDATE locales_quest SET title_loc9='Scholomance' WHERE entry=838; /* title: Scholomance */
+UPDATE locales_quest SET title_loc9='Spore Fungine' WHERE entry=848; /* title: Fungal Spores */
+UPDATE locales_quest SET title_loc9='Accensione' WHERE entry=858; /* title: Ignition */
+UPDATE locales_quest SET title_loc9='Stufato di Ratto di Fossa' WHERE entry=862; /* title: Dig Rat Stew */
+UPDATE locales_quest SET RequestItemsText_loc9='Posso aiutarti?' WHERE entry=863; /* RequestItemsText: Can I help you? */
+UPDATE locales_quest SET title_loc9='Sorgenti Dimenticate' WHERE entry=870; /* title: The Forgotten Pools */
+UPDATE locales_quest SET title_loc9='Oasi Stagnante' WHERE entry=877; /* title: The Stagnant Oasis */
+UPDATE locales_quest SET title_loc9='Filibustieri dei Mari del Sud' WHERE entry=887; /* title: Southsea Freebooters */
 UPDATE locales_quest SET title_loc9='Samophlange' WHERE entry=894; /* title: Samophlange */
+UPDATE locales_quest SET RequestItemsText_loc9='Si?' WHERE entry=898; /* RequestItemsText: Yes? */
 UPDATE locales_quest SET title_loc9='Samophlange' WHERE entry=900; /* title: Samophlange */
 UPDATE locales_quest SET title_loc9='Samophlange' WHERE entry=901; /* title: Samophlange */
 UPDATE locales_quest SET title_loc9='Samophlange' WHERE entry=902; /* title: Samophlange */
+UPDATE locales_quest SET RequestItemsText_loc9='Siamo ancora qui?' WHERE entry=910; /* RequestItemsText: Are we there yet? */
 UPDATE locales_quest SET title_loc9='Il Seme Demonico' WHERE entry=924; /* title: The Demon Seed */
 UPDATE locales_quest SET title_loc9='Pietra del Potere Imperfetta' WHERE entry=926; /* title: Flawed Power Stone */
 UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=931; /* RequestItemsText: You have something for me? */
+UPDATE locales_quest SET title_loc9='Nebbia' WHERE entry=938; /* title: Mist */
+UPDATE locales_quest SET title_loc9='Teldrassil' WHERE entry=940; /* title: Teldrassil */
+UPDATE locales_quest SET title_loc9='Gladio del Maestro' WHERE entry=944; /* title: The Master\'s Glaive */
 UPDATE locales_quest SET title_loc9='Grove of the Ancients' WHERE entry=952; /* title: Grove of the Ancients */
 UPDATE locales_quest SET title_loc9='La Caduta di Ameth\'Aran' WHERE entry=953; /* title: The Fall of Ameth\'Aran */
 UPDATE locales_quest SET title_loc9='Bashal\'Aran' WHERE entry=954; /* title: Bashal\'Aran */
@@ -49,39 +89,88 @@ UPDATE locales_quest SET title_loc9='Windblossom Corrotto' WHERE entry=998; /* t
 UPDATE locales_quest SET title_loc9='Buzzbox 411' WHERE entry=1001; /* title: Buzzbox 411 */
 UPDATE locales_quest SET title_loc9='Buzzbox 323' WHERE entry=1002; /* title: Buzzbox 323 */
 UPDATE locales_quest SET title_loc9='Buzzbox 525' WHERE entry=1003; /* title: Buzzbox 525 */
+UPDATE locales_quest SET title_loc9='Spiaggia di Zoram' WHERE entry=1008; /* title: The Zoram Strand */
 UPDATE locales_quest SET title_loc9='Il Libro di Ur' WHERE entry=1013; /* title: The Book of Ur */
+UPDATE locales_quest SET title_loc9='Valle Ululante' WHERE entry=1022; /* title: The Howling Vale */
 UPDATE locales_quest SET title_loc9='Lacrima di Elune' WHERE entry=1033; /* title: Elune\'s Tear */
+UPDATE locales_quest SET title_loc9='Rovine della Polvere Stellare' WHERE entry=1034; /* title: The Ruins of Stardust */
+UPDATE locales_quest SET title_loc9='Lago Cielinfranto' WHERE entry=1035; /* title: Fallen Sky Lake */
 UPDATE locales_quest SET title_loc9='Compendio dei Caduti' WHERE entry=1049; /* title: Compendium of the Fallen */
 UPDATE locales_quest SET title_loc9='Mitologia dei Titani' WHERE entry=1050; /* title: Mythology of the Titans */
 UPDATE locales_quest SET title_loc9='The Den' WHERE entry=1089; /* title: The Den */
+UPDATE locales_quest SET title_loc9='La strega della galleria' WHERE entry=1101; /* title: The Crone of the Kraul */
+UPDATE locales_quest SET title_loc9='Un fato vendicativo' WHERE entry=1102; /* title: A Vengeful Fate */
+UPDATE locales_quest SET title_loc9='Faucifredde' WHERE entry=1136; /* title: Frostmaw */
 UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=1220; /* RequestItemsText: You have something for me? */
 UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=1238; /* RequestItemsText: You have something for me? */
+UPDATE locales_quest SET title_loc9='I Disertori' WHERE entry=1286; /* title: The Deserters */
+UPDATE locales_quest SET title_loc9='I Disertori' WHERE entry=1287; /* title: The Deserters */
 UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=1359; /* RequestItemsText: You have something for me? */
 UPDATE locales_quest SET title_loc9='Cristalli Draenethyst' WHERE entry=1389; /* title: Draenethyst Crystals */
 UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=1423; /* RequestItemsText: You have something for me? */
+UPDATE locales_quest SET title_loc9='Bacino delle Lacrime' WHERE entry=1424; /* title: Pool of Tears */
+UPDATE locales_quest SET title_loc9='Tempio di Atal\'Hakkar' WHERE entry=1445; /* title: The Temple of Atal\'Hakkar */
+UPDATE locales_quest SET title_loc9='Jammal\'an il Profeta' WHERE entry=1446; /* title: Jammal\'an the Prophet */
+UPDATE locales_quest SET title_loc9='Settimana dei Bambini' WHERE entry=1468; /* title: Children\'s Week */
+UPDATE locales_quest SET title_loc9='Divoratore di Anime' WHERE entry=1472; /* title: Devourer of Souls */
+UPDATE locales_quest SET RequestItemsText_loc9='Siamo ancora qui?' WHERE entry=1479; /* RequestItemsText: Are we there yet? */
+UPDATE locales_quest SET title_loc9='Divoratore di Anime' WHERE entry=1507; /* title: Devourer of Souls */
 UPDATE locales_quest SET title_loc9='Windblossom Corrotto' WHERE entry=1514; /* title: Corrupted Windblossom */
 UPDATE locales_quest SET title_loc9='Maresciallo Haggard' WHERE entry=1666; /* title: Marshal Haggard */
+UPDATE locales_quest SET title_loc9='Presidio di Ferrocollo' WHERE entry=1681; /* title: Ironband\'s Compound */
+UPDATE locales_quest SET title_loc9='Sangue Bruciante' WHERE entry=1705; /* title: Burning Blood */
 UPDATE locales_quest SET title_loc9='Corallo di Ferro' WHERE entry=1708; /* title: Iron Coral */
 UPDATE locales_quest SET title_loc9='L\'Agnello Macellato' WHERE entry=1715; /* title: The Slaughtered Lamb */
+UPDATE locales_quest SET title_loc9='Divoratore di Anime' WHERE entry=1716; /* title: Devourer of Souls */
 UPDATE locales_quest SET title_loc9='Heartswood' WHERE entry=1738; /* title: Heartswood */
 UPDATE locales_quest SET title_loc9='Tomo della Cabala' WHERE entry=1758; /* title: Tome of the Cabal */
+UPDATE locales_quest SET RequestItemsText_loc9='Siamo ancora qui?' WHERE entry=1800; /* RequestItemsText: Are we there yet? */
 UPDATE locales_quest SET title_loc9='Tomo della Cabala' WHERE entry=1801; /* title: Tome of the Cabal */
 UPDATE locales_quest SET title_loc9='Tomo della Cabala' WHERE entry=1802; /* title: Tome of the Cabal */
 UPDATE locales_quest SET title_loc9='Tomo della Cabala' WHERE entry=1803; /* title: Tome of the Cabal */
 UPDATE locales_quest SET title_loc9='Tomo della Cabala' WHERE entry=1804; /* title: Tome of the Cabal */
 UPDATE locales_quest SET title_loc9='Tomo della Cabala' WHERE entry=1805; /* title: Tome of the Cabal */
+UPDATE locales_quest SET title_loc9='Lago Riflesso' WHERE entry=1861; /* title: Mirror Lake */
 UPDATE locales_quest SET title_loc9='Trattato di Ur sulla Magia Oscura' WHERE entry=1938; /* title: Ur\'s Treatise on Shadow Magic */
 UPDATE locales_quest SET title_loc9='Rituali del Potere' WHERE entry=1951; /* title: Rituals of Power */
+UPDATE locales_quest SET RequestItemsText_loc9='Si?' WHERE entry=1978; /* RequestItemsText: Yes? */
+UPDATE locales_quest SET title_loc9='Ricostruire la collana' WHERE entry=2204; /* title: Restoring the Necklace */
+UPDATE locales_quest SET title_loc9='I dischi di platino' WHERE entry=2278; /* title: The Platinum Discs */
+UPDATE locales_quest SET title_loc9='I dischi di platino' WHERE entry=2279; /* title: The Platinum Discs */
+UPDATE locales_quest SET title_loc9='I dischi di platino' WHERE entry=2280; /* title: The Platinum Discs */
+UPDATE locales_quest SET title_loc9='Segheria di Alther' WHERE entry=2282; /* title: Alther\'s Mill */
 UPDATE locales_quest SET title_loc9='SI:7' WHERE entry=2300; /* title: SI:7 */
+UPDATE locales_quest SET title_loc9='Trova le gemme e la fonte del potere' WHERE entry=2339; /* title: Find the Gems and Power Source */
+UPDATE locales_quest SET title_loc9='Ricostruire la collana' WHERE entry=2361; /* title: Restoring the Necklace */
+UPDATE locales_quest SET title_loc9='Nani Perduti' WHERE entry=2398; /* title: The Lost Dwarves */
+UPDATE locales_quest SET title_loc9='I dischi di platino' WHERE entry=2439; /* title: The Platinum Discs */
+UPDATE locales_quest SET title_loc9='I dischi di platino' WHERE entry=2440; /* title: The Platinum Discs */
 UPDATE locales_quest SET title_loc9='Songflower Corrotto' WHERE entry=2523; /* title: Corrupted Songflower */
+UPDATE locales_quest SET title_loc9='Elisir di Granstrippo' WHERE entry=2662; /* title: Noggenfogger Elixir */
+UPDATE locales_quest SET title_loc9='Ghaz\'rilla' WHERE entry=2770; /* title: Gahz\'rilla */
 UPDATE locales_quest SET title_loc9='Segreto di Rin\'ji' WHERE entry=2782; /* title: Rin\'ji\'s Secret */
+UPDATE locales_quest SET title_loc9='Guerre di trivellazione' WHERE entry=2841; /* title: Rig Wars */
+UPDATE locales_quest SET title_loc9='Assalto Alfa' WHERE entry=2863; /* title: Alpha Strike */
 UPDATE locales_quest SET title_loc9='Songflower Corrotto' WHERE entry=2878; /* title: Corrupted Songflower */
+UPDATE locales_quest SET title_loc9='Giosuè Corvo' WHERE entry=2882; /* title: Cuergo\'s Gold */
+UPDATE locales_quest SET title_loc9='Mastro Meccanista Granfavilla' WHERE entry=2923; /* title: Tinkmaster Overspark */
+UPDATE locales_quest SET title_loc9='Il grande tradimento' WHERE entry=2929; /* title: The Grand Betrayal */
 UPDATE locales_quest SET title_loc9='Feralas: Una Storia' WHERE entry=2940; /* title: Feralas: A History */
+UPDATE locales_quest SET title_loc9='Altare di Zul' WHERE entry=2989; /* title: The Altar of Zul */
 UPDATE locales_quest SET title_loc9='Appunto Inciso' WHERE entry=3092; /* title: Etched Note */
+UPDATE locales_quest SET RequestItemsText_loc9='Si?' WHERE entry=3121; /* RequestItemsText: Yes? */
 UPDATE locales_quest SET title_loc9='Gahz\'ridian' WHERE entry=3161; /* title: Gahz\'ridian */
 UPDATE locales_quest SET title_loc9='Argento Rubato' WHERE entry=3281; /* title: Stolen Silver */
+UPDATE locales_quest SET title_loc9='Porta la fine' WHERE entry=3341; /* title: Bring the End */
+UPDATE locales_quest SET title_loc9='Valle dei Cardosecco' WHERE entry=3362; /* title: Thistleshrub Valley */
 UPDATE locales_quest SET title_loc9='Songflower Corrotto' WHERE entry=3363; /* title: Corrupted Songflower */
+UPDATE locales_quest SET title_loc9='L\'essenza di Eranikus' WHERE entry=3373; /* title: The Essence of Eranikus */
+UPDATE locales_quest SET title_loc9='L\'essenza di Eranikus' WHERE entry=3374; /* title: The Essence of Eranikus */
+UPDATE locales_quest SET title_loc9='Negli abissi' WHERE entry=3446; /* title: Into the Depths */
+UPDATE locales_quest SET title_loc9='Porta la Luce' WHERE entry=3636; /* title: Bring the Light */
+UPDATE locales_quest SET title_loc9='Masso dei Maglioinfame' WHERE entry=3821; /* title: Dreadmaul Rock */
 UPDATE locales_quest SET title_loc9='Raccolto di Milly' WHERE entry=3904; /* title: Milly\'s Harvest */
+UPDATE locales_quest SET title_loc9='Salvataggio reale' WHERE entry=4003; /* title: The Royal Rescue */
 UPDATE locales_quest SET title_loc9='Songflower Corrotto' WHERE entry=4113; /* title: Corrupted Songflower */
 UPDATE locales_quest SET title_loc9='Songflower Corrotto' WHERE entry=4114; /* title: Corrupted Songflower */
 UPDATE locales_quest SET title_loc9='Windblossom Corrotto' WHERE entry=4115; /* title: Corrupted Windblossom */
@@ -89,10 +178,18 @@ UPDATE locales_quest SET title_loc9='Songflower Corrotto' WHERE entry=4116; /* t
 UPDATE locales_quest SET title_loc9='Whipper Root Corrotto' WHERE entry=4117; /* title: Corrupted Whipper Root */
 UPDATE locales_quest SET title_loc9='Songflower Corrotto' WHERE entry=4118; /* title: Corrupted Songflower */
 UPDATE locales_quest SET title_loc9='Night Dragon Corrotto' WHERE entry=4119; /* title: Corrupted Night Dragon */
+UPDATE locales_quest SET title_loc9='Hurley Fiatonero' WHERE entry=4126; /* title: Hurley Blackbreath */
+UPDATE locales_quest SET title_loc9='Fossa Fremente' WHERE entry=4135; /* title: The Writhing Deep */
+UPDATE locales_quest SET title_loc9='Ribbly Giravite' WHERE entry=4136; /* title: Ribbly Screwspigot */
 UPDATE locales_quest SET title_loc9='Windblossom Corrotto' WHERE entry=4221; /* title: Corrupted Windblossom */
 UPDATE locales_quest SET title_loc9='Windblossom Corrotto' WHERE entry=4222; /* title: Corrupted Windblossom */
+UPDATE locales_quest SET title_loc9='Il benvenuto di un eroe' WHERE entry=4266; /* title: A Hero\'s Welcome */
+UPDATE locales_quest SET title_loc9='Solo il Meglio' WHERE entry=4286; /* title: The Good Stuff */
 UPDATE locales_quest SET title_loc9='Tavoletta dei Sette' WHERE entry=4296; /* title: Tablet of the Seven */
 UPDATE locales_quest SET title_loc9='Windblossom Corrotto' WHERE entry=4343; /* title: Corrupted Windblossom */
+UPDATE locales_quest SET title_loc9='Il destino del regno' WHERE entry=4362; /* title: The Fate of the Kingdom */
+UPDATE locales_quest SET title_loc9='Forza del cristallo' WHERE entry=4382; /* title: Crystal Force */
+UPDATE locales_quest SET title_loc9='Cristallo Guardia' WHERE entry=4383; /* title: Crystal Ward */
 UPDATE locales_quest SET title_loc9='Songflower Corrotto' WHERE entry=4401; /* title: Corrupted Songflower */
 UPDATE locales_quest SET title_loc9='Windblossom Corrotto' WHERE entry=4403; /* title: Corrupted Windblossom */
 UPDATE locales_quest SET title_loc9='Whipper Root Corrotto' WHERE entry=4443; /* title: Corrupted Whipper Root */
@@ -108,6 +205,8 @@ UPDATE locales_quest SET title_loc9='Songflower Corrotto' WHERE entry=4465; /* t
 UPDATE locales_quest SET title_loc9='Windblossom Corrotto' WHERE entry=4466; /* title: Corrupted Windblossom */
 UPDATE locales_quest SET title_loc9='Windblossom Corrotto' WHERE entry=4467; /* title: Corrupted Windblossom */
 UPDATE locales_quest SET title_loc9='Attenzione agli Pterrordax' WHERE entry=4501; /* title: Beware of Pterrordax */
+UPDATE locales_quest SET title_loc9='Pozzo della Corruzione' WHERE entry=4505; /* title: Well of Corruption */
+UPDATE locales_quest SET title_loc9='Avanti tutta, Ammiraglio!' WHERE entry=4621; /* title: Avast Ye, Admiral! */
 UPDATE locales_quest SET title_loc9='Tartaruga di Mare Spiaggiata' WHERE entry=4722; /* title: Beached Sea Turtle */
 UPDATE locales_quest SET title_loc9='Creatura di Mare Spiaggiata' WHERE entry=4723; /* title: Beached Sea Creature */
 UPDATE locales_quest SET title_loc9='Tartaruga di Mare Spiaggiata' WHERE entry=4725; /* title: Beached Sea Turtle */
@@ -119,45 +218,155 @@ UPDATE locales_quest SET title_loc9='Tartaruga di Mare Spiaggiata' WHERE entry=4
 UPDATE locales_quest SET title_loc9='Tartaruga di Mare Spiaggiata' WHERE entry=4732; /* title: Beached Sea Turtle */
 UPDATE locales_quest SET title_loc9='Creatura di Mare Spiaggiata' WHERE entry=4733; /* title: Beached Sea Creature */
 UPDATE locales_quest SET title_loc9='RICERCATO: Murkdeep!' WHERE entry=4740; /* title: WANTED: Murkdeep! */
+UPDATE locales_quest SET title_loc9='Sigillo dell\'Ascesa' WHERE entry=4742; /* title: Seal of Ascension */
+UPDATE locales_quest SET title_loc9='Sigillo dell\'Ascesa' WHERE entry=4743; /* title: Seal of Ascension */
 UPDATE locales_quest SET title_loc9='Dawn\'s Gambit' WHERE entry=4771; /* title: Dawn\'s Gambit */
 UPDATE locales_quest SET title_loc9='Uovo Alieno' WHERE entry=4821; /* title: Alien Egg */
+UPDATE locales_quest SET title_loc9='Latte Materno' WHERE entry=4866; /* title: Mother\'s Milk */
+UPDATE locales_quest SET title_loc9='Urok Urlonero' WHERE entry=4867; /* title: Urok Doomhowl */
+UPDATE locales_quest SET title_loc9='Comando del Signore della Guerra' WHERE entry=4903; /* title: Warlord Goretooth\'s Command */
+UPDATE locales_quest SET title_loc9='Per l\'Orda!' WHERE entry=4974; /* title: For the Horde! */
 UPDATE locales_quest SET title_loc9='Effetti di Bijou' WHERE entry=4982; /* title: Bijou\'s Belongings */
 UPDATE locales_quest SET title_loc9='Effetti di Bijou' WHERE entry=5001; /* title: Bijou\'s Belongings */
 UPDATE locales_quest SET title_loc9='Diario di Mrs. Dalson' WHERE entry=5058; /* title: Mrs. Dalson\'s Diary */
+UPDATE locales_quest SET title_loc9='Forma Acquatica' WHERE entry=5061; /* title: Aquatic Form */
+UPDATE locales_quest SET title_loc9='La missione di Maxwell' WHERE entry=5081; /* title: Maxwell\'s Mission */
+UPDATE locales_quest SET title_loc9='Corroborante dei Freddinverno' WHERE entry=5083; /* title: Winterfall Firewater */
+UPDATE locales_quest SET title_loc9='Comando del Generale Drakkisath' WHERE entry=5089; /* title: General Drakkisath\'s Command */
+UPDATE locales_quest SET title_loc9='Disfatta del Generale Drakkisath' WHERE entry=5102; /* title: General Drakkisath\'s Demise */
 UPDATE locales_quest SET title_loc9='Bambola di Pamela' WHERE entry=5149; /* title: Pamela\'s Doll */
 UPDATE locales_quest SET title_loc9='Catalogo del Ribelle' WHERE entry=5164; /* title: Catalogue of the Wayward */
+UPDATE locales_quest SET title_loc9='Storico di Kalimdor',details_loc9='Storico di Kalimdor' WHERE entry=5209; /* title: Loremaster of Kalimdor */ /* details: Loremaster of Kalimdor */
 UPDATE locales_quest SET RequestItemsText_loc9='Панель доступа к котлу по-прежнему надежно закреплена. Без ключа ее не открыть.' WHERE entry=5216; /* RequestItemsText: An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key. */
 UPDATE locales_quest SET RequestItemsText_loc9='Панель доступа к котлу по-прежнему надежно закреплена. Без ключа ее не открыть.' WHERE entry=5225; /* RequestItemsText: An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key. */
 UPDATE locales_quest SET RequestItemsText_loc9='Панель доступа к котлу по-прежнему надежно закреплена. Без ключа ее не открыть.' WHERE entry=5229; /* RequestItemsText: An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key. */
 UPDATE locales_quest SET RequestItemsText_loc9='Панель доступа к котлу по-прежнему надежно закреплена. Без ключа ее не открыть.' WHERE entry=5233; /* RequestItemsText: An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key. */
+UPDATE locales_quest SET title_loc9='Rovine di Kel\'Theril' WHERE entry=5244; /* title: The Ruins of Kel\'Theril */
+UPDATE locales_quest SET title_loc9='Pioggia di Stelle' WHERE entry=5250; /* title: Starfall */
 UPDATE locales_quest SET title_loc9='Eagan Peltskinner' WHERE entry=5261; /* title: Eagan Peltskinner */
 UPDATE locales_quest SET title_loc9='La Stiva Argent' WHERE entry=5265; /* title: The Argent Hold */
+UPDATE locales_quest SET title_loc9='Tentacoli della Corruzione' WHERE entry=5307; /* title: Corruption */
+UPDATE locales_quest SET title_loc9='Kirtonos l\'Araldo' WHERE entry=5384; /* title: Kirtonos the Herald */
 UPDATE locales_quest SET title_loc9='Dono di Menethil' WHERE entry=5463; /* title: Menethil\'s Gift */
 UPDATE locales_quest SET title_loc9='Dono di Menethil' WHERE entry=5464; /* title: Menethil\'s Gift */
 UPDATE locales_quest SET title_loc9='Erba del Destino' WHERE entry=5482; /* title: Doom Weed */
+UPDATE locales_quest SET title_loc9='Scholomance' WHERE entry=5533; /* title: Scholomance */
+UPDATE locales_quest SET title_loc9='Preghiera Disperata' WHERE entry=5634; /* title: Desperate Prayer */
+UPDATE locales_quest SET title_loc9='Preghiera Disperata' WHERE entry=5635; /* title: Desperate Prayer */
+UPDATE locales_quest SET title_loc9='Preghiera Disperata' WHERE entry=5636; /* title: Desperate Prayer */
+UPDATE locales_quest SET title_loc9='Preghiera Disperata' WHERE entry=5637; /* title: Desperate Prayer */
+UPDATE locales_quest SET title_loc9='Preghiera Disperata' WHERE entry=5638; /* title: Desperate Prayer */
+UPDATE locales_quest SET title_loc9='Preghiera Disperata' WHERE entry=5639; /* title: Desperate Prayer */
+UPDATE locales_quest SET title_loc9='Piaga Divoratrice' WHERE entry=5644; /* title: Devouring Plague */
+UPDATE locales_quest SET title_loc9='Piaga Divoratrice' WHERE entry=5646; /* title: Devouring Plague */
+UPDATE locales_quest SET title_loc9='Piaga Divoratrice' WHERE entry=5679; /* title: Devouring Plague */
+UPDATE locales_quest SET title_loc9='Redenzione' WHERE entry=5742; /* title: Redemption */
+UPDATE locales_quest SET title_loc9='Hemet Nesingwary' WHERE entry=5762; /* title: Hemet Nesingwary */
 UPDATE locales_quest SET title_loc9='Provviste Irondeep' WHERE entry=5892; /* title: Irondeep Supplies */
 UPDATE locales_quest SET title_loc9='Provviste Coldtooth' WHERE entry=5893; /* title: Coldtooth Supplies */
 UPDATE locales_quest SET title_loc9='Moonglade' WHERE entry=5921; /* title: Moonglade */
 UPDATE locales_quest SET title_loc9='Moonglade' WHERE entry=5922; /* title: Moonglade */
 UPDATE locales_quest SET title_loc9='Blocchetto delle Ricevute di Augustus' WHERE entry=6164; /* title: Augustus\' Receipt Book */
+UPDATE locales_quest SET title_loc9='Aracnofobia' WHERE entry=6284; /* title: Arachnophobia */
 UPDATE locales_quest SET title_loc9='Piccone di Thazz\'ril' WHERE entry=6394; /* title: Thazz\'ril\'s Pick */
+UPDATE locales_quest SET title_loc9='Gola dei Franamassi' WHERE entry=6421; /* title: Boulderslide Ravine */
+UPDATE locales_quest SET title_loc9='Amuleto Fuocodraco' WHERE entry=6502; /* title: Drakefire Amulet */
+UPDATE locales_quest SET title_loc9='Un\'alleanza empia' WHERE entry=6521; /* title: An Unholy Alliance */
+UPDATE locales_quest SET title_loc9='Un\'alleanza empia' WHERE entry=6522; /* title: An Unholy Alliance */
+UPDATE locales_quest SET title_loc9='Sangue del Campione dei Draghi Neri' WHERE entry=6602; /* title: Blood of the Black Dragon Champion */
+UPDATE locales_quest SET title_loc9='Bivalve a sorpresa' WHERE entry=6610; /* title: Clamlette Surprise */
+UPDATE locales_quest SET title_loc9='Nucleo Ardente' WHERE entry=6822; /* title: The Molten Core */
+UPDATE locales_quest SET title_loc9='Scheggia Brillante' WHERE entry=6981; /* title: The Glowing Shard */
 UPDATE locales_quest SET title_loc9='Provviste Coldtooth' WHERE entry=6982; /* title: Coldtooth Supplies */
+UPDATE locales_quest SET title_loc9='Un grazie dalla Masseria Buongusto' WHERE entry=6984; /* title: A Smokywood Pastures Thank You! */
 UPDATE locales_quest SET title_loc9='Provviste Irondeep' WHERE entry=6985; /* title: Irondeep Supplies */
+UPDATE locales_quest SET title_loc9='Un grazie dalla Masseria Buongusto' WHERE entry=7045; /* title: A Smokywood Pastures Thank You! */
+UPDATE locales_quest SET title_loc9='Corruzione della terra e dei semi' WHERE entry=7064; /* title: Corruption of Earth and Seed */
+UPDATE locales_quest SET title_loc9='Corruzione della terra e dei semi' WHERE entry=7065; /* title: Corruption of Earth and Seed */
+UPDATE locales_quest SET title_loc9='Arena d\'Addestramento' WHERE entry=7161; /* title: Proving Grounds */
+UPDATE locales_quest SET title_loc9='Arena d\'Addestramento' WHERE entry=7162; /* title: Proving Grounds */
+UPDATE locales_quest SET title_loc9='Zuppa Cremosa di Tartaruga' WHERE entry=7321; /* title: Soothing Turtle Bisque */
 UPDATE locales_quest SET title_loc9='Ricercati: NANI!' WHERE entry=7401; /* title: Wanted: DWARVES! */
 UPDATE locales_quest SET title_loc9='Ricercati: ORCHI!' WHERE entry=7402; /* title: Wanted: ORCS! */
+UPDATE locales_quest SET title_loc9='Vittoria per l\'Orda' WHERE entry=7490; /* title: Victory for the Horde */
 UPDATE locales_quest SET title_loc9='Camp Mojache' WHERE entry=7492; /* title: Camp Mojache */
 UPDATE locales_quest SET title_loc9='Feathermoon Stronghold' WHERE entry=7494; /* title: Feathermoon Stronghold */
+UPDATE locales_quest SET title_loc9='Vittoria per l\'Alleanza' WHERE entry=7495; /* title: Victory for the Alliance */
+UPDATE locales_quest SET title_loc9='La forgiatura di Quel\'Serrar' WHERE entry=7508; /* title: The Forging of Quel\'Serrar */
+UPDATE locales_quest SET title_loc9='La forgiatura di Quel\'Serrar' WHERE entry=7509; /* title: The Forging of Quel\'Serrar */
+UPDATE locales_quest SET title_loc9='Soppressione' WHERE entry=7583; /* title: Suppression */
 UPDATE locales_quest SET title_loc9='Campana di Dethmoora' WHERE entry=7626; /* title: Bell of Dethmoora */
 UPDATE locales_quest SET title_loc9='Ruota della Marcia Nera' WHERE entry=7627; /* title: Wheel of the Black March */
 UPDATE locales_quest SET title_loc9='Candela del Giorno del Giudizio' WHERE entry=7628; /* title: Doomsday Candle */
+UPDATE locales_quest SET title_loc9='Maldestriero Xorotiano' WHERE entry=7631; /* title: Dreadsteed of Xoroth */
+UPDATE locales_quest SET title_loc9='Una corda appropriata' WHERE entry=7635; /* title: A Proper String */
+UPDATE locales_quest SET title_loc9='Punizione e Redenzione' WHERE entry=7647; /* title: Judgment and Redemption */
+UPDATE locales_quest SET title_loc9='Il Signore di Roccianera' WHERE entry=7781; /* title: The Lord of Blackrock */
+UPDATE locales_quest SET title_loc9='Il Signore di Roccianera' WHERE entry=7782; /* title: The Lord of Blackrock */
+UPDATE locales_quest SET title_loc9='Il Signore di Roccianera' WHERE entry=7783; /* title: The Lord of Blackrock */
+UPDATE locales_quest SET title_loc9='Il Signore di Roccianera' WHERE entry=7784; /* title: The Lord of Blackrock */
 UPDATE locales_quest SET title_loc9='Messaggio ai Wildhammer' WHERE entry=7841; /* title: Message to the Wildhammer */
+UPDATE locales_quest SET title_loc9='Potenziamenti d\'Armatura' WHERE entry=7885; /* title: Armor Kits */
 UPDATE locales_quest SET RequestItemsText_loc9='Natalia?' WHERE entry=8306; /* RequestItemsText: Natalia? */
+UPDATE locales_quest SET title_loc9='Totem dello Spirito' WHERE entry=8412; /* title: Spirit Totem */
+UPDATE locales_quest SET title_loc9='Gola di Ventofreddo' WHERE entry=8415; /* title: Chillwind Point */
+UPDATE locales_quest SET title_loc9='Tenuta Feroce del Campione' WHERE entry=8573; /* title: Champion\'s Battlegear */
+UPDATE locales_quest SET title_loc9='Braciole Caustiche alla Dirge' WHERE entry=8586; /* title: Dirge\'s Kickin\' Chimaerok Chops */
 UPDATE locales_quest SET title_loc9='Draconico per Principianti' WHERE entry=8597; /* title: Draconic for Dummies */
+UPDATE locales_quest SET title_loc9='Paramento Oracolare' WHERE entry=8603; /* title: Vestments of the Oracle */
+UPDATE locales_quest SET title_loc9='L\'unica prescrizione' WHERE entry=8620; /* title: The Only Prescription */
+UPDATE locales_quest SET title_loc9='Usbergo dell\'Invocatore delle Tempeste' WHERE entry=8622; /* title: Stormcaller\'s Hauberk */
+UPDATE locales_quest SET title_loc9='Pettorale Corazzato della Vendetta' WHERE entry=8627; /* title: Avenger\'s Breastplate */
+UPDATE locales_quest SET title_loc9='Vesti dell\'Enigma' WHERE entry=8633; /* title: Enigma Robes */
+UPDATE locales_quest SET title_loc9='Veste del Venditore di Morte' WHERE entry=8638; /* title: Deathdealer\'s Vest */
+UPDATE locales_quest SET title_loc9='Usbergo dell\'Assalitore' WHERE entry=8656; /* title: Striker\'s Hauberk */
+UPDATE locales_quest SET title_loc9='Vesti della Sventura' WHERE entry=8661; /* title: Doomcaller\'s Robes */
+UPDATE locales_quest SET title_loc9='Veste della Genesi' WHERE entry=8666; /* title: Genesis Vest */
+UPDATE locales_quest SET title_loc9='La corruzione di Nefarius' WHERE entry=8730; /* title: Nefarius\'s Corruption */
+UPDATE locales_quest SET title_loc9='Regalo Incartato con Cura' WHERE entry=8744; /* title: A Carefully Wrapped Present */
+UPDATE locales_quest SET title_loc9='Dono Dolcemente Scosso' WHERE entry=8767; /* title: A Gently Shaken Gift */
+UPDATE locales_quest SET title_loc9='Regalo Incartato Gioiosamente' WHERE entry=8768; /* title: A Gaily Wrapped Present */
+UPDATE locales_quest SET title_loc9='Regalo Ticchettante' WHERE entry=8769; /* title: A Ticking Present */
+UPDATE locales_quest SET title_loc9='Dono Dolcemente Scosso' WHERE entry=8788; /* title: A Gently Shaken Gift */
+UPDATE locales_quest SET title_loc9='Caduta di Ossirian' WHERE entry=8791; /* title: The Fall of Ossirian */
+UPDATE locales_quest SET title_loc9='Il retaggio di C\'Thun' WHERE entry=8801; /* title: C\'Thun\'s Legacy */
+UPDATE locales_quest SET title_loc9='Dono Festivo' WHERE entry=8803; /* title: A Festive Gift */
+UPDATE locales_quest SET title_loc9='I Ravioli della Celebrazione della Luna' WHERE entry=8863; /* title: Festival Dumplings */
+UPDATE locales_quest SET title_loc9='Benedizione di Elune' WHERE entry=8868; /* title: Elune\'s Blessing */
 UPDATE locales_quest SET title_loc9='Lanciatore Fuochi d\'Artificio' WHERE entry=8877; /* title: Firework Launcher */
 UPDATE locales_quest SET title_loc9='Lanciagrappoli' WHERE entry=8882; /* title: Cluster Launcher */
+UPDATE locales_quest SET title_loc9='Le relazioni pericolose' WHERE entry=8903; /* title: Dangerous Love */
+UPDATE locales_quest SET title_loc9='Le relazioni pericolose' WHERE entry=8904; /* title: Dangerous Love */
 UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=8922; /* RequestItemsText: You have something for me? */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=8999; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9000; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9001; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9002; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9003; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9004; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9005; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9006; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9007; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9008; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9009; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9010; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9011; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9012; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9013; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Tenere il meglio per ultimo' WHERE entry=9014; /* title: Saving the Best for Last */
+UPDATE locales_quest SET title_loc9='Cappella della Luce' WHERE entry=9154; /* title: Light\'s Hope Chapel */
+UPDATE locales_quest SET title_loc9='Atiesh, l\'infame Granbastone' WHERE entry=9251; /* title: Atiesh, the Befouled Greatstaff */
+UPDATE locales_quest SET title_loc9='Atiesh, Granbastone del Guardiano' WHERE entry=9257; /* title: Atiesh, Greatstaff of the Guardian */
+UPDATE locales_quest SET title_loc9='Atiesh, Granbastone del Guardiano' WHERE entry=9269; /* title: Atiesh, Greatstaff of the Guardian */
+UPDATE locales_quest SET title_loc9='Atiesh, Granbastone del Guardiano' WHERE entry=9270; /* title: Atiesh, Greatstaff of the Guardian */
+UPDATE locales_quest SET title_loc9='Atiesh, Granbastone del Guardiano' WHERE entry=9271; /* title: Atiesh, Greatstaff of the Guardian */
 UPDATE locales_quest SET title_loc9='Cristallo Necrotico Rotto' WHERE entry=9292; /* title: Cracked Necrotic Crystal */
 UPDATE locales_quest SET ObjectiveText3_loc9='Fiamma di Stratholme',ObjectiveText4_loc9='Fiamma di Scholomance' WHERE entry=9319; /* ObjectiveText3: Flame of Stratholme */ /* ObjectiveText4: Flame of the Scholomance */
+UPDATE locales_quest SET title_loc9='Pozione Maggiore di Mana' WHERE entry=9320; /* title: Major Mana Potion */
+UPDATE locales_quest SET title_loc9='Pozione Maggiore di Cura' WHERE entry=9336; /* title: Major Healing Potion */
+UPDATE locales_quest SET title_loc9='Pozione Maggiore di Mana' WHERE entry=9337; /* title: Major Mana Potion */
+UPDATE locales_quest SET title_loc9='Insegna dell\'Alba d\'Argento' WHERE entry=9341; /* title: Tabard of the Argent Dawn */
+UPDATE locales_quest SET title_loc9='Insegna dell\'Alba d\'Argento' WHERE entry=9343; /* title: Tabard of the Argent Dawn */
 UPDATE locales_quest SET ObjectiveText3_loc9='Fiamma di Stratholme',ObjectiveText4_loc9='Fiamma di Scholomance' WHERE entry=9386; /* ObjectiveText3: Flame of Stratholme */ /* ObjectiveText4: Flame of the Scholomance */
 
 SET NAMES 'latin1';
