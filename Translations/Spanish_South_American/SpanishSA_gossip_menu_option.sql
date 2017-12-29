@@ -284,7 +284,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc7='Minería y joyería' WHE
 UPDATE locales_gossip_menu_option SET option_text_loc7='Desuello' WHERE menu_id=1942 AND id=10; /* option_text: Skinning */
 UPDATE locales_gossip_menu_option SET option_text_loc7='Sastrería' WHERE menu_id=1942 AND id=11; /* option_text: Tailoring */
 UPDATE locales_gossip_menu_option SET option_text_loc7='¡Gloom\'rel, cuéntame tus secretos!' WHERE menu_id=1945 AND id=0; /* option_text: Gloom\'rel, tell me your secrets! */
-UPDATE locales_gossip_menu_option SET option_text_loc7='Tu cautiverio ha llegado a su fin, Condena’rel. ¡Te desafío!' WHERE menu_id=1947 AND id=0; /* option_text: Your bondage is at an end, Doom\'rel.  I challenge you! */
+UPDATE locales_gossip_menu_option SET option_text_loc7='Tu cautiverio ha llegado a su fin, Condena\'rel. ¡Te desafío!' WHERE menu_id=1947 AND id=0; /* option_text: Your bondage is at an end, Doom\'rel.  I challenge you! */
 UPDATE locales_gossip_menu_option SET option_text_loc7='Cazadora' WHERE menu_id=1949 AND id=0; /* option_text: Hunter */
 UPDATE locales_gossip_menu_option SET option_text_loc7='Maga' WHERE menu_id=1949 AND id=1; /* option_text: Mage */
 UPDATE locales_gossip_menu_option SET option_text_loc7='Sacerdotisa' WHERE menu_id=1949 AND id=2; /* option_text: Priest */

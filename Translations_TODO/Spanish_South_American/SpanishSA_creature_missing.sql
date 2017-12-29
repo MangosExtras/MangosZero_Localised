@@ -2,12 +2,6 @@
 SET NAMES 'utf8';
 UPDATE locales_creature SET subname_loc7='Enraged Form' WHERE entry=2454; /* subname: Enraged Form */
 UPDATE locales_creature SET subname_loc7='Crocilisk Trainer' WHERE entry=2876; /* subname: Crocilisk Trainer */
-UPDATE locales_creature SET subname_loc7='Night Elf Druid' WHERE entry=4253; /* subname: Night Elf Druid */
-UPDATE locales_creature SET subname_loc7='Tauren Druid' WHERE entry=4261; /* subname: Tauren Druid */
-UPDATE locales_creature SET subname_loc7='Night Elf Druid' WHERE entry=4408; /* subname: Night Elf Druid */
-UPDATE locales_creature SET subname_loc7='Tauren Druid' WHERE entry=4410; /* subname: Tauren Druid */
-UPDATE locales_creature SET subname_loc7='Night Elf Druid' WHERE entry=6571; /* subname: Night Elf Druid */
-UPDATE locales_creature SET subname_loc7='Tauren Druid' WHERE entry=6572; /* subname: Tauren Druid */
 UPDATE locales_creature SET subname_loc7='Male' WHERE entry=7503; /* subname: Male */
 UPDATE locales_creature SET subname_loc7='Female' WHERE entry=7504; /* subname: Female */
 UPDATE locales_creature SET subname_loc7='Spell Visual' WHERE entry=10579; /* subname: Spell Visual */
@@ -30,8 +24,6 @@ UPDATE locales_creature SET subname_loc7='The Head of The Black Flight' WHERE en
 UPDATE locales_creature SET subname_loc7='Ghost Visual' WHERE entry=12861; /* subname: Ghost Visual */
 UPDATE locales_creature SET subname_loc7='DO NOT DELETE' WHERE entry=12999; /* subname: DO NOT DELETE */
 UPDATE locales_creature SET subname_loc7='DO NOT DELETE' WHERE entry=14501; /* subname: DO NOT DELETE */
-UPDATE locales_creature SET subname_loc7='Night Elf Druid' WHERE entry=15313; /* subname: Night Elf Druid */
-UPDATE locales_creature SET subname_loc7='Tauren Druid' WHERE entry=15314; /* subname: Tauren Druid */
 UPDATE locales_creature SET subname_loc7='DO NOT DELETE' WHERE entry=15384; /* subname: DO NOT DELETE */
 UPDATE locales_creature SET subname_loc7='Mount Visual' WHERE entry=15778; /* subname: Mount Visual */
 UPDATE locales_creature SET name_loc7='Vicious Gladiator\'s Gavel',subname_loc7='Exotic Reagent Merchant' WHERE entry=16015; /* name: Vicious Gladiator\'s Gavel */ .* subname: Exotic Reagent Merchant */
