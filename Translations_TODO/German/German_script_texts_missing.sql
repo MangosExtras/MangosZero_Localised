@@ -100,7 +100,7 @@ UPDATE script_texts SET content_loc3='Your efforts are utterly pointless, fools!
 UPDATE script_texts SET content_loc3='Prepare to meet your doom at the hands of Ragnaros\' most powerful servant!' WHERE entry=-1230065; /* content: Prepare to meet your doom at the hands of Ragnaros\' most powerful servant! */
 UPDATE script_texts SET content_loc3='Who you gonna call?' WHERE entry=-1329002; /* content: Who you gonna call? */
 UPDATE script_texts SET content_loc3='Don\'t cross those beams!' WHERE entry=-1329003; /* content: Don\'t cross those beams! */
-UPDATE script_texts SET content_loc3='Don\\'t worry about me!  Slay this dreadful beast and cleanse this world of his foul taint!' WHERE entry=-1329019; /* content: Don\\'t worry about me!  Slay this dreadful beast and cleanse this world of his foul taint! */
+UPDATE script_texts SET content_loc3='Don\'t worry about me!  Slay this dreadful beast and cleanse this world of his foul taint!' WHERE entry=-1329019; /* content: Don\'t worry about me!  Slay this dreadful beast and cleanse this world of his foul taint! */
 UPDATE script_texts SET content_loc3='Get up, little red wyrm...and destroy them!' WHERE entry=-1469032; /* content: Get up, little red wyrm...and destroy them! */
 UPDATE script_texts SET content_loc3='Run! They are coming.' WHERE entry=-1469034; /* content: Run! They are coming. */
 UPDATE script_texts SET content_loc3='Orb of Domination loses power and shuts off!' WHERE entry=-1469035; /* content: Orb of Domination loses power and shuts off! */

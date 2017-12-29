@@ -975,7 +975,6 @@ UPDATE locales_item SET description_loc3='This is one big pillow.' WHERE entry=1
 UPDATE locales_item SET description_loc3='A letter of command from Rend Blackhand.' WHERE entry=18987; /* description: A letter of command from Rend Blackhand. */
 UPDATE locales_item SET description_loc3='The head of Nefarian: Brood of Deathwing.' WHERE entry=19002; /* description: The head of Nefarian: Brood of Deathwing. */
 UPDATE locales_item SET description_loc3='The head of Nefarian: Brood of Deathwing.' WHERE entry=19003; /* description: The head of Nefarian: Brood of Deathwing. */
-UPDATE locales_item SET description_loc3='Limited Edition' WHERE entry=19022; /* description: Limited Edition */
 UPDATE locales_item SET description_loc3='Teaches you how to make a Snake Burst Firework.' WHERE entry=19027; /* description: Teaches you how to make a Snake Burst Firework. */
 UPDATE locales_item SET description_loc3='Teaches you how to make a Heavy Timbermaw Belt.' WHERE entry=19202; /* description: Teaches you how to make a Heavy Timbermaw Belt. */
 UPDATE locales_item SET description_loc3='Teaches you how to make a Girdle of the Dawn.' WHERE entry=19203; /* description: Teaches you how to make a Girdle of the Dawn. */
@@ -1229,7 +1228,6 @@ UPDATE locales_item SET description_loc3='Chapter VIII' WHERE entry=21110; /* de
 UPDATE locales_item SET description_loc3='A shamanistic device fashioned by the Timbermaw to summon forth corrupting demons.' WHERE entry=21144; /* description: A shamanistic device fashioned by the Timbermaw to summon forth corrupting demons. */
 UPDATE locales_item SET description_loc3='-Hinterlands' WHERE entry=21146; /* description: -Hinterlands */
 UPDATE locales_item SET description_loc3='-Ashenvale' WHERE entry=21147; /* description: -Ashenvale */
-UPDATE locales_item SET description_loc3='-Feralas' WHERE entry=21148; /* description: -Feralas */
 UPDATE locales_item SET description_loc3='-Duskwood' WHERE entry=21149; /* description: -Duskwood */
 UPDATE locales_item SET description_loc3='This truesilver-wrought item is a furbolg symbol of peace.  A sealed message is attached to it.' WHERE entry=21155; /* description: This truesilver-wrought item is a furbolg symbol of peace.  A sealed message is attached to it. */
 UPDATE locales_item SET description_loc3='This strange dust should allow Metzen to be freed when sprinkled on him.' WHERE entry=21211; /* description: This strange dust should allow Metzen to be freed when sprinkled on him. */
@@ -1284,12 +1282,6 @@ UPDATE locales_item SET description_loc3='Teaches you how to make a Large Red Ro
 UPDATE locales_item SET description_loc3='Teaches you how to make a Firework Cluster Launcher.' WHERE entry=21737; /* description: Teaches you how to make a Firework Cluster Launcher. */
 UPDATE locales_item SET description_loc3='Teaches you how to make a Firework Launcher.' WHERE entry=21738; /* description: Teaches you how to make a Firework Launcher. */
 UPDATE locales_item SET description_loc3='A small message of affection...' WHERE entry=21815; /* description: A small message of affection... */
-UPDATE locales_item SET description_loc3='Be mine!' WHERE entry=21816; /* description: Be mine! */
-UPDATE locales_item SET description_loc3='I LOVE YOU' WHERE entry=21817; /* description: I LOVE YOU */
-UPDATE locales_item SET description_loc3='I\'ll follow you all around Azeroth.' WHERE entry=21818; /* description: I\'ll follow you all around Azeroth. */
-UPDATE locales_item SET description_loc3='All yours.' WHERE entry=21819; /* description: All yours. */
-UPDATE locales_item SET description_loc3='I\'m all yours!' WHERE entry=21821; /* description: I\'m all yours! */
-UPDATE locales_item SET description_loc3='Hot lips.' WHERE entry=21823; /* description: Hot lips. */
 UPDATE locales_item SET description_loc3='This one is missing...' WHERE entry=21830; /* description: This one is missing... */
 UPDATE locales_item SET description_loc3='Fel and Elemental, two great tastes...' WHERE entry=21939; /* description: Fel and Elemental, two great tastes... */
 UPDATE locales_item SET description_loc3='The evil trapped within this fragment seems to be growing stronger...' WHERE entry=21984; /* description: The evil trapped within this fragment seems to be growing stronger... */
