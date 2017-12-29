@@ -42,25 +42,20 @@ UPDATE locales_gameobject SET name_loc2='Stand up Torch' WHERE entry=18060; /* n
 UPDATE locales_gameobject SET name_loc2='Stand up Torch' WHERE entry=18061; /* name: Stand up Torch */
 UPDATE locales_gameobject SET name_loc2='Stand up Torch' WHERE entry=18062; /* name: Stand up Torch */
 UPDATE locales_gameobject SET name_loc2='Goblin Shredder Suit' WHERE entry=19582; /* name: Goblin Shredder Suit */
-UPDATE locales_gameobject SET name_loc2='Tanaris' WHERE entry=19850; /* name: Tanaris */
-UPDATE locales_gameobject SET name_loc2='Tanaris' WHERE entry=19855; /* name: Tanaris */
 UPDATE locales_gameobject SET name_loc2='Circle of Imprisonment' WHERE entry=19901; /* name: Circle of Imprisonment */
 UPDATE locales_gameobject SET name_loc2='Circle of Imprisonment' WHERE entry=20352; /* name: Circle of Imprisonment */
-UPDATE locales_gameobject SET name_loc2='mine' WHERE entry=20811; /* name: mine */
 UPDATE locales_gameobject SET name_loc2='Orc Tower' WHERE entry=20812; /* name: Orc Tower */
 UPDATE locales_gameobject SET name_loc2='Guard Tower' WHERE entry=20816; /* name: Guard Tower */
 UPDATE locales_gameobject SET name_loc2='Night Elf Moon Well' WHERE entry=20818; /* name: Night Elf Moon Well */
 UPDATE locales_gameobject SET name_loc2='Moon Well 2' WHERE entry=20819; /* name: Moon Well 2 */
 UPDATE locales_gameobject SET name_loc2='Giant Sea Turtle' WHERE entry=20820; /* name: Giant Sea Turtle */
 UPDATE locales_gameobject SET name_loc2='Giant Turtle' WHERE entry=20821; /* name: Giant Turtle */
-UPDATE locales_gameobject SET name_loc2='Landing Pad' WHERE entry=20822; /* name: Landing Pad */
 UPDATE locales_gameobject SET name_loc2='Player Housing' WHERE entry=20823; /* name: Player Housing */
 UPDATE locales_gameobject SET name_loc2='Orc Tower' WHERE entry=20824; /* name: Orc Tower */
 UPDATE locales_gameobject SET name_loc2='Flickering Campfire' WHERE entry=20881; /* name: Flickering Campfire */
 UPDATE locales_gameobject SET name_loc2='Flickering Campfire' WHERE entry=20926; /* name: Flickering Campfire */
 UPDATE locales_gameobject SET name_loc2='Hoofprints' WHERE entry=21015; /* name: Hoofprints */
 UPDATE locales_gameobject SET name_loc2='Hoofprints' WHERE entry=21016; /* name: Hoofprints */
-UPDATE locales_gameobject SET name_loc2='Lashh\'an Spell Circle' WHERE entry=21511; /* name: Lashh\'an Spell Circle */
 UPDATE locales_gameobject SET name_loc2='unk' WHERE entry=21653; /* name: unk */
 UPDATE locales_gameobject SET name_loc2='unk' WHERE entry=21654; /* name: unk */
 UPDATE locales_gameobject SET name_loc2='unk' WHERE entry=21655; /* name: unk */
@@ -74,11 +69,7 @@ UPDATE locales_gameobject SET name_loc2='Stonebranch Herbalist' WHERE entry=2649
 UPDATE locales_gameobject SET name_loc2='IronForge Elevator' WHERE entry=32056; /* name: IronForge Elevator */
 UPDATE locales_gameobject SET name_loc2='IronForge Elevator' WHERE entry=32057; /* name: IronForge Elevator */
 UPDATE locales_gameobject SET name_loc2='Flinthammer\'s Armorer and Clothier' WHERE entry=32348; /* name: Flinthammer\'s Armorer and Clothier */
-UPDATE locales_gameobject SET name_loc2='Vault of Ironforge' WHERE entry=32377; /* name: Vault of Ironforge */
-UPDATE locales_gameobject SET name_loc2='Vault of Ironforge' WHERE entry=32380; /* name: Vault of Ironforge */
 UPDATE locales_gameobject SET name_loc2='The Forlorn Caverns' WHERE entry=32381; /* name: The Forlorn Caverns */
-UPDATE locales_gameobject SET name_loc2='Hall of Mysteries' WHERE entry=32386; /* name: Hall of Mysteries */
-UPDATE locales_gameobject SET name_loc2='Hall of Arms' WHERE entry=32390; /* name: Hall of Arms */
 UPDATE locales_gameobject SET name_loc2='Gnomes' WHERE entry=32419; /* name: Gnomes */
 UPDATE locales_gameobject SET name_loc2='BerryFizz Potions and Mixed Drinks' WHERE entry=34357; /* name: BerryFizz Potions and Mixed Drinks */
 UPDATE locales_gameobject SET name_loc2='Fire on ground' WHERE entry=56809; /* name: Fire on ground */
@@ -92,7 +83,6 @@ UPDATE locales_gameobject SET name_loc2='Rin\'ji\'s Cage' WHERE entry=142036; /*
 UPDATE locales_gameobject SET name_loc2='Egg-O-Matic' WHERE entry=142071; /* name: Egg-O-Matic */
 UPDATE locales_gameobject SET name_loc2='Captain Sanders Chest' WHERE entry=142184; /* name: Captain Sanders Chest */
 UPDATE locales_gameobject SET name_loc2='Flinthammer\'s Armorer and Clothier' WHERE entry=143332; /* name: Flinthammer\'s Armorer and Clothier */
-UPDATE locales_gameobject SET name_loc2='Circle of Aquementas' WHERE entry=148507; /* name: Circle of Aquementas */
 UPDATE locales_gameobject SET name_loc2='Ani' WHERE entry=149420; /* name: Ani */
 UPDATE locales_gameobject SET name_loc2='Rune of Jin\'yael' WHERE entry=149480; /* name: Rune of Jin\'yael */
 UPDATE locales_gameobject SET name_loc2='Rune of Beth\'Amara' WHERE entry=149481; /* name: Rune of Beth\'Amara */
@@ -101,9 +91,7 @@ UPDATE locales_gameobject SET name_loc2='Rune of Sael\'hai' WHERE entry=149483; 
 UPDATE locales_gameobject SET name_loc2='Kaldorei Tome of Summoning' WHERE entry=151286; /* name: Kaldorei Tome of Summoning */
 UPDATE locales_gameobject SET name_loc2='auctionhouse' WHERE entry=151992; /* name: auctionhouse */
 UPDATE locales_gameobject SET name_loc2='Magus Rimtori\'s Journal' WHERE entry=152098; /* name: Magus Rimtori\'s Journal */
-UPDATE locales_gameobject SET name_loc2='Darnassus Auction House' WHERE entry=153113; /* name: Darnassus Auction House */
 UPDATE locales_gameobject SET name_loc2='Zeppelin Landing Tower' WHERE entry=165557; /* name: Zeppelin Landing Tower */
-UPDATE locales_gameobject SET name_loc2='Xavian Waterfall' WHERE entry=174797; /* name: Xavian Waterfall */
 UPDATE locales_gameobject SET name_loc2='Bed' WHERE entry=174849; /* name: Bed */
 UPDATE locales_gameobject SET name_loc2='Blackwood Nut Stores' WHERE entry=175329; /* name: Blackwood Nut Stores */
 UPDATE locales_gameobject SET name_loc2='Blackwood Fruit Stores' WHERE entry=175330; /* name: Blackwood Fruit Stores */
@@ -130,7 +118,6 @@ UPDATE locales_gameobject SET name_loc2='Ahn\'Qiraj Gong' WHERE entry=177223; /*
 UPDATE locales_gameobject SET name_loc2='Vault Door' WHERE entry=177237; /* name: Vault Door */
 UPDATE locales_gameobject SET name_loc2='Vault Door' WHERE entry=177238; /* name: Vault Door */
 UPDATE locales_gameobject SET name_loc2='Pull rope Bell' WHERE entry=177271; /* name: Pull rope Bell */
-UPDATE locales_gameobject SET name_loc2='Maraudon Portal' WHERE entry=178400; /* name: Maraudon Portal */
 UPDATE locales_gameobject SET name_loc2='CavernDoor01' WHERE entry=179588; /* name: CavernDoor01 */
 UPDATE locales_gameobject SET name_loc2='Meetingstone01' WHERE entry=179597; /* name: Meetingstone01 */
 UPDATE locales_gameobject SET name_loc2='SmallBrazier31' WHERE entry=179874; /* name: SmallBrazier31 */
@@ -142,12 +129,10 @@ UPDATE locales_gameobject SET name_loc2='OUT OF ORDER! Use Postman instead - you
 UPDATE locales_gameobject SET name_loc2='Mysterious Wailing Caverns Chest' WHERE entry=180055; /* name: Mysterious Wailing Caverns Chest */
 UPDATE locales_gameobject SET name_loc2='Doodad_SmallBrazierNoOmni20' WHERE entry=180245; /* name: Doodad_SmallBrazierNoOmni20 */
 UPDATE locales_gameobject SET name_loc2='Gates of Zul\'Gurub' WHERE entry=180323; /* name: Gates of Zul\'Gurub */
-UPDATE locales_gameobject SET name_loc2='Altar of Zanza' WHERE entry=180367; /* name: Altar of Zanza */
 UPDATE locales_gameobject SET name_loc2='Gong of Bethekk' WHERE entry=180526; /* name: Gong of Bethekk */
 UPDATE locales_gameobject SET name_loc2='Wickerman Guardian Ember' WHERE entry=180574; /* name: Wickerman Guardian Ember */
 UPDATE locales_gameobject SET name_loc2='Arena Spoils' WHERE entry=181074; /* name: Arena Spoils */
 UPDATE locales_gameobject SET name_loc2='Grand Widow Faerlina Door' WHERE entry=181167; /* name: Grand Widow Faerlina Door */
-UPDATE locales_gameobject SET name_loc2='Portal' WHERE entry=181229; /* name: Portal */
 UPDATE locales_gameobject SET name_loc2='Doodad_BlackRockCellDoor01' WHERE entry=184247; /* name: Doodad_BlackRockCellDoor01 */
 UPDATE locales_gameobject SET name_loc2='Logs on fire' WHERE entry=184507; /* name: Logs on fire */
 UPDATE locales_gameobject SET name_loc2='Logs on fire' WHERE entry=184508; /* name: Logs on fire */
@@ -198,7 +183,6 @@ UPDATE locales_gameobject SET name_loc2='Eye of Asheron' WHERE entry=211021; /* 
 UPDATE locales_gameobject SET name_loc2='Commander\'s Tent' WHERE entry=211022; /* name: Commander\'s Tent */
 UPDATE locales_gameobject SET name_loc2='Black Portal' WHERE entry=211023; /* name: Black Portal */
 UPDATE locales_gameobject SET name_loc2='Black Portal' WHERE entry=211024; /* name: Black Portal */
-UPDATE locales_gameobject SET name_loc2='Gold Mine' WHERE entry=211032; /* name: Gold Mine */
 UPDATE locales_gameobject SET name_loc2='Lair Exit' WHERE entry=211035; /* name: Lair Exit */
 UPDATE locales_gameobject SET name_loc2='Teleport-Stone to Hyjal' WHERE entry=211050; /* name: Teleport-Stone to Hyjal */
 UPDATE locales_gameobject SET name_loc2='Tree Stump' WHERE entry=211052; /* name: Tree Stump */
@@ -210,7 +194,6 @@ UPDATE locales_gameobject SET name_loc2='Grave' WHERE entry=211065; /* name: Gra
 UPDATE locales_gameobject SET name_loc2='Sarcophag' WHERE entry=211067; /* name: Sarcophag */
 UPDATE locales_gameobject SET name_loc2='Mephistroph\'s HellFire' WHERE entry=211084; /* name: Mephistroph\'s HellFire */
 UPDATE locales_gameobject SET name_loc2='TEMP Machine Shop' WHERE entry=300010; /* name: TEMP Machine Shop */
-UPDATE locales_gameobject SET name_loc2='Nearby Tubers' WHERE entry=300011; /* name: Nearby Tubers */
 UPDATE locales_gameobject SET name_loc2='TEMP Stone of Outer Binding' WHERE entry=300012; /* name: TEMP Stone of Outer Binding */
 UPDATE locales_gameobject SET name_loc2='TEMP Mana Rift Disturbance' WHERE entry=300013; /* name: TEMP Mana Rift Disturbance */
 UPDATE locales_gameobject SET name_loc2='TEMP Water Purity - Silverpine' WHERE entry=300014; /* name: TEMP Water Purity - Silverpine */

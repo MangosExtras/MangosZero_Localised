@@ -11553,7 +11553,7 @@ UPDATE locales_item SET name_loc2='Essence du seigneur du Feu' WHERE entry=19017
 UPDATE locales_item SET name_loc2='Lame du baiser du vent dormante' WHERE entry=19018; /* name: Dormant Wind Kissed Blade */
 UPDATE locales_item SET name_loc2='Lame-tonnerre, épée bénie du Cherchevent' WHERE entry=19019; /* name: Thunderfury, Blessed Blade of the Windseeker */
 UPDATE locales_item SET name_loc2='Rapport sur les Zukk\'ash du camp Mojache' WHERE entry=19020; /* name: Camp Mojache Zukk\'ash Report */
-UPDATE locales_item SET name_loc2='FC-5000 de Nat Pagle, pêcheur de l\'extrême' WHERE entry=19022; /* name: Nat Pagle\'s Extreme Angler FC-5000 */ /* description: Limited Edition */
+UPDATE locales_item SET name_loc2='FC-5000 de Nat Pagle, pêcheur de l\'extrême',description_loc2='Édition limitée' WHERE entry=19022; /* name: Nat Pagle\'s Extreme Angler FC-5000 */ /* description: Limited Edition */
 UPDATE locales_item SET name_loc2='Le meilleur appât de Katoom' WHERE entry=19023; /* name: Katoom\'s Best Lure */
 UPDATE locales_item SET name_loc2='Grand maître de l\'arène' WHERE entry=19024; /* name: Arena Grand Master */
 UPDATE locales_item SET name_loc2='Plume de seigneur du ciel' WHERE entry=19025; /* name: Skylord Plume */
@@ -12966,7 +12966,7 @@ UPDATE locales_item SET name_loc2='Torche d\'invocation de démon' WHERE entry=2
 UPDATE locales_item SET name_loc2='Essence de Xandivious' WHERE entry=21145; /* name: Essence of Xandivious */
 UPDATE locales_item SET name_loc2='Fragment de la corruption du Cauchemar' WHERE entry=21146; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Hinterlands */
 UPDATE locales_item SET name_loc2='Fragment de la corruption du Cauchemar' WHERE entry=21147; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Ashenvale */
-UPDATE locales_item SET name_loc2='Fragment de la corruption du Cauchemar' WHERE entry=21148; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Feralas */
+UPDATE locales_item SET name_loc2='Fragment de la corruption du Cauchemar',description_loc2='\%s' WHERE entry=21148; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Feralas */
 UPDATE locales_item SET name_loc2='Fragment de la corruption du Cauchemar' WHERE entry=21149; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Duskwood */
 UPDATE locales_item SET name_loc2='Malle cerclée de fer' WHERE entry=21150; /* name: Iron Bound Trunk */
 UPDATE locales_item SET name_loc2='Rhum de Rumsey label noir' WHERE entry=21151; /* name: Rumsey Rum Black Label */
@@ -13470,14 +13470,14 @@ UPDATE locales_item SET name_loc2='Boîte de chocolats' WHERE entry=21812; /* na
 UPDATE locales_item SET name_loc2='Sachet de bonbons en forme de cœur' WHERE entry=21813; /* name: Bag of Candies */
 UPDATE locales_item SET name_loc2='Cuirasse d\'annihilation' WHERE entry=21814; /* name: Breastplate of Annihilation */
 UPDATE locales_item SET name_loc2='Gage d\'amour' WHERE entry=21815; /* name: Love Token */ /* description: A small message of affection... */
-UPDATE locales_item SET name_loc2='Cœur en sucre' WHERE entry=21816; /* name: Heart Candy */ /* description: Be mine! */
-UPDATE locales_item SET name_loc2='Cœur en sucre' WHERE entry=21817; /* name: Heart Candy */ /* description: I LOVE YOU */
-UPDATE locales_item SET name_loc2='Cœur en sucre' WHERE entry=21818; /* name: Heart Candy */ /* description: I\'ll follow you all around Azeroth. */
-UPDATE locales_item SET name_loc2='Cœur en sucre' WHERE entry=21819; /* name: Heart Candy */ /* description: All yours. */
+UPDATE locales_item SET name_loc2='Cœur en sucre',description_loc2='Sois à moi !' WHERE entry=21816; /* name: Heart Candy */ /* description: Be mine! */
+UPDATE locales_item SET name_loc2='Cœur en sucre',description_loc2='JE VOUS AIME' WHERE entry=21817; /* name: Heart Candy */ /* description: I LOVE YOU */
+UPDATE locales_item SET name_loc2='Cœur en sucre',description_loc2='Je te suivrais dans tout Azeroth.' WHERE entry=21818; /* name: Heart Candy */ /* description: I\'ll follow you all around Azeroth. */
+UPDATE locales_item SET name_loc2='Cœur en sucre',description_loc2='Tout à toi.' WHERE entry=21819; /* name: Heart Candy */ /* description: All yours. */
 UPDATE locales_item SET name_loc2='Cœur en sucre',description_loc2='Vous êtes top !' WHERE entry=21820; /* name: Heart Candy */ /* description: You\'re the best! */
-UPDATE locales_item SET name_loc2='Cœur en sucre' WHERE entry=21821; /* name: Heart Candy */ /* description: I\'m all yours! */
+UPDATE locales_item SET name_loc2='Cœur en sucre',description_loc2='Je suis tout à toi !' WHERE entry=21821; /* name: Heart Candy */ /* description: I\'m all yours! */
 UPDATE locales_item SET name_loc2='Cœur en sucre',description_loc2='Vous êtes à MOI !' WHERE entry=21822; /* name: Heart Candy */ /* description: You are mine! */
-UPDATE locales_item SET name_loc2='Cœur en sucre' WHERE entry=21823; /* name: Heart Candy */ /* description: Hot lips. */
+UPDATE locales_item SET name_loc2='Cœur en sucre',description_loc2='Lèvres brûlantes.' WHERE entry=21823; /* name: Heart Candy */ /* description: Hot lips. */
 UPDATE locales_item SET name_loc2='Flacon de parfum' WHERE entry=21829; /* name: Perfume Bottle */
 UPDATE locales_item SET name_loc2='Papier d\'emballage vide' WHERE entry=21830; /* name: Empty Wrapper */ /* description: This one is missing... */
 UPDATE locales_item SET name_loc2='Cadeau enveloppé' WHERE entry=21831; /* name: Wrappered Gift */

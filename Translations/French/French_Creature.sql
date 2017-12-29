@@ -3225,7 +3225,7 @@ UPDATE locales_creature SET name_loc2='Grogneuse Pestepoil' WHERE entry=4249; /*
 UPDATE locales_creature SET name_loc2='Chien de meute galak' WHERE entry=4250; /* name: Galak Packhound */
 UPDATE locales_creature SET name_loc2='Bolide gobelin' WHERE entry=4251; /* name: Goblin Racer */
 UPDATE locales_creature SET name_loc2='Bolide gnome' WHERE entry=4252; /* name: Gnome Racer */
-UPDATE locales_creature SET name_loc2='Forme d\'ours (druide elfe de la nuit)' WHERE entry=4253; /* name: Bear Form */ /* subname: Night Elf Druid */
+UPDATE locales_creature SET name_loc2='Forme d\'ours (druide elfe de la nuit)',subname_loc2='Druide elfe de la nuit' WHERE entry=4253; /* name: Bear Form */ /* subname: Night Elf Druid */
 UPDATE locales_creature SET name_loc2='Geofram Rochorteil',subname_loc2='Maître des mineurs' WHERE entry=4254; /* name: Geofram Bouldertoe */ /* subname: Mining Trainer */
 UPDATE locales_creature SET name_loc2='Brogus Tonnebière',subname_loc2='Nourriture & boissons' WHERE entry=4255; /* name: Brogus Thunderbrew */ /* subname: Food and Drink */
 UPDATE locales_creature SET name_loc2='Golnir Rochorteil',subname_loc2='Fournitures minières' WHERE entry=4256; /* name: Golnir Bouldertoe */ /* subname: Mining Supplies */
@@ -3233,7 +3233,7 @@ UPDATE locales_creature SET name_loc2='Lana Tonnebière',subname_loc2='Fournitur
 UPDATE locales_creature SET name_loc2='Bengus Forge-Profonde',subname_loc2='Maître des forgerons' WHERE entry=4258; /* name: Bengus Deepforge */ /* subname: Artisan Blacksmith */
 UPDATE locales_creature SET name_loc2='Thurgrum Forge-profonde',subname_loc2='Fournitures de forgeron' WHERE entry=4259; /* name: Thurgrum Deepforge */ /* subname: Blacksmithing Supplies */
 UPDATE locales_creature SET name_loc2='Déchiqueteur de la KapitalRisk' WHERE entry=4260; /* name: Venture Co. Shredder */
-UPDATE locales_creature SET name_loc2='Forme d\'ours (druide elfe de la nuit)' WHERE entry=4261; /* name: Bear Form */ /* subname: Tauren Druid */
+UPDATE locales_creature SET name_loc2='Forme d\'ours (druide elfe de la nuit)',subname_loc2='Druide tauren' WHERE entry=4261; /* name: Bear Form */ /* subname: Tauren Druid */
 UPDATE locales_creature SET name_loc2='Sentinelle de Darnassus' WHERE entry=4262; /* name: Darnassus Sentinel */
 UPDATE locales_creature SET name_loc2='Jeune mousse-profonde' WHERE entry=4263; /* name: Deepmoss Hatchling */
 UPDATE locales_creature SET name_loc2='Matriarche mousse-profonde' WHERE entry=4264; /* name: Deepmoss Matriarch */
@@ -3350,9 +3350,9 @@ UPDATE locales_creature SET name_loc2='Pinceur Bourbecoque' WHERE entry=4403; /*
 UPDATE locales_creature SET name_loc2='Fouilleur Bourbecoque' WHERE entry=4404; /* name: Muckshell Scrabbler */
 UPDATE locales_creature SET name_loc2='Pince-tranchante Bourbecoque' WHERE entry=4405; /* name: Muckshell Razorclaw */
 UPDATE locales_creature SET name_loc2='Teloren',subname_loc2='Maître des hippogriffes' WHERE entry=4407; /* name: Teloren */ /* subname: Hippogryph Master */
-UPDATE locales_creature SET name_loc2='Forme aquatique (druide elfe de la nuit)' WHERE entry=4408; /* name: Aquatic Form */ /* subname: Night Elf Druid */
+UPDATE locales_creature SET name_loc2='Forme aquatique (druide elfe de la nuit)',subname_loc2='Druide elfe de la nuit' WHERE entry=4408; /* name: Aquatic Form */ /* subname: Night Elf Druid */
 UPDATE locales_creature SET name_loc2='Gardien de la porte Kordurus' WHERE entry=4409; /* name: Gatekeeper Kordurus */
-UPDATE locales_creature SET name_loc2='Forme aquatique (druide elfe de la nuit)' WHERE entry=4410; /* name: Aquatic Form */ /* subname: Tauren Druid */
+UPDATE locales_creature SET name_loc2='Forme aquatique (druide elfe de la nuit)',subname_loc2='Druide tauren' WHERE entry=4410; /* name: Aquatic Form */ /* subname: Tauren Druid */
 UPDATE locales_creature SET name_loc2='Rôdeuse Sombrecroc' WHERE entry=4411; /* name: Darkfang Lurker */
 UPDATE locales_creature SET name_loc2='Rampant Sombrecroc' WHERE entry=4412; /* name: Darkfang Creeper */
 UPDATE locales_creature SET name_loc2='Araignée Sombrecroc' WHERE entry=4413; /* name: Darkfang Spider */
@@ -4728,8 +4728,8 @@ UPDATE locales_creature SET name_loc2='Ghok\'kah',subname_loc2='Fournitures de t
 UPDATE locales_creature SET name_loc2='Vizzklick',subname_loc2='Fournitures de tailleur' WHERE entry=6568; /* name: Vizzklick */ /* subname: Tailoring Supplies */
 UPDATE locales_creature SET name_loc2='Gnoarn' WHERE entry=6569; /* name: Gnoarn */
 UPDATE locales_creature SET name_loc2='Fenwick Thatros' WHERE entry=6570; /* name: Fenwick Thatros */
-UPDATE locales_creature SET name_loc2='Forme de félin (druide elfe de la nuit)' WHERE entry=6571; /* name: Cat Form */ /* subname: Night Elf Druid */
-UPDATE locales_creature SET name_loc2='Forme de félin (druide elfe de la nuit)' WHERE entry=6572; /* name: Cat Form */ /* subname: Tauren Druid */
+UPDATE locales_creature SET name_loc2='Forme de félin (druide elfe de la nuit)',subname_loc2='Druide elfe de la nuit' WHERE entry=6571; /* name: Cat Form */ /* subname: Night Elf Druid */
+UPDATE locales_creature SET name_loc2='Forme de félin (druide elfe de la nuit)',subname_loc2='Druide tauren' WHERE entry=6572; /* name: Cat Form */ /* subname: Tauren Druid */
 UPDATE locales_creature SET name_loc2='Forme de voyage (Druide)',subname_loc2='Druide' WHERE entry=6573; /* name: Travel Form */ /* subname: Druid */
 UPDATE locales_creature SET name_loc2='Jun\'ha',subname_loc2='Fournitures de tailleur' WHERE entry=6574; /* name: Jun\'ha */ /* subname: Tailoring Supplies */
 UPDATE locales_creature SET name_loc2='Jeune recrue écarlate' WHERE entry=6575; /* name: Scarlet Trainee */
@@ -8282,8 +8282,8 @@ UPDATE locales_creature SET name_loc2='Spoops' WHERE entry=15309; /* name: Spoop
 UPDATE locales_creature SET name_loc2='Jesper' WHERE entry=15310; /* name: Jesper */
 UPDATE locales_creature SET name_loc2='Garde Anubisath' WHERE entry=15311; /* name: Anubisath Warder */
 UPDATE locales_creature SET name_loc2='Annulateur d\'obsidienne' WHERE entry=15312; /* name: Obsidian Nullifier */
-UPDATE locales_creature SET name_loc2='Sélénien' WHERE entry=15313; /* name: Moonkin */ /* subname: Night Elf Druid */
-UPDATE locales_creature SET name_loc2='Sélénien' WHERE entry=15314; /* name: Moonkin */ /* subname: Tauren Druid */
+UPDATE locales_creature SET name_loc2='Sélénien',subname_loc2='Druide elfe de la nuit' WHERE entry=15313; /* name: Moonkin */ /* subname: Night Elf Druid */
+UPDATE locales_creature SET name_loc2='Sélénien',subname_loc2='Druide tauren' WHERE entry=15314; /* name: Moonkin */ /* subname: Tauren Druid */
 UPDATE locales_creature SET name_loc2='Mylini Givrelune',subname_loc2='Marchand d\'armes' WHERE entry=15315; /* name: Mylini Frostmoon */ /* subname: Weapon Merchant */
 UPDATE locales_creature SET name_loc2='Scarabée qiraji' WHERE entry=15316; /* name: Qiraji Scarab */
 UPDATE locales_creature SET name_loc2='Scorpion qiraji' WHERE entry=15317; /* name: Qiraji Scorpion */

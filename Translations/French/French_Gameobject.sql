@@ -1380,10 +1380,12 @@ UPDATE locales_gameobject SET name_loc2='Les Salines' WHERE entry=19846; /* name
 UPDATE locales_gameobject SET name_loc2='Thalanaar' WHERE entry=19847; /* name: Thalanaar */
 UPDATE locales_gameobject SET name_loc2='Poste de Librevent' WHERE entry=19848; /* name: Freewind Post */
 UPDATE locales_gameobject SET name_loc2='Les Salines' WHERE entry=19849; /* name: The Shimmering Flats */
+UPDATE locales_gameobject SET name_loc2='Tanaris' WHERE entry=19850; /* name: Tanaris */
 UPDATE locales_gameobject SET name_loc2='La Grande élévation' WHERE entry=19851; /* name: The Great Lift */
 UPDATE locales_gameobject SET name_loc2='Les Tarides' WHERE entry=19852; /* name: The Barrens */
 UPDATE locales_gameobject SET name_loc2='Poste de Librevent' WHERE entry=19853; /* name: Freewind Post */
 UPDATE locales_gameobject SET name_loc2='Les Tarides' WHERE entry=19854; /* name: The Barrens */
+UPDATE locales_gameobject SET name_loc2='Tanaris' WHERE entry=19855; /* name: Tanaris */
 UPDATE locales_gameobject SET name_loc2='Les Tarides' WHERE entry=19856; /* name: The Barrens */
 UPDATE locales_gameobject SET name_loc2='Les Salines' WHERE entry=19857; /* name: The Shimmering Flats */
 UPDATE locales_gameobject SET name_loc2='Thalanaar' WHERE entry=19858; /* name: Thalanaar */
@@ -1440,7 +1442,9 @@ UPDATE locales_gameobject SET name_loc2='Puits de lune d\'Orneval' WHERE entry=2
 UPDATE locales_gameobject SET name_loc2='Brasero antique' WHERE entry=20807; /* name: Ancient Brazier */
 UPDATE locales_gameobject SET name_loc2='Le Caprice de la vierge' WHERE entry=20808; /* name: Booty Bay Ship */
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20810; /* name: Campfire */
+UPDATE locales_gameobject SET name_loc2='Elle est à moi !' WHERE entry=20811; /* name: mine */
 UPDATE locales_gameobject SET name_loc2='Enclos' WHERE entry=20817; /* name: Holding Pen */
+UPDATE locales_gameobject SET name_loc2='Piste d\'envol' WHERE entry=20822; /* name: Landing Pad */
 UPDATE locales_gameobject SET name_loc2='Hurlevent' WHERE entry=20827; /* name: Stormwind City */
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20829; /* name: Campfire */
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=20830; /* name: Campfire */
@@ -1553,6 +1557,7 @@ UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=21308; /* name
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=21327; /* name: Campfire */
 UPDATE locales_gameobject SET name_loc2='Feu de camp' WHERE entry=21459; /* name: Campfire */
 UPDATE locales_gameobject SET name_loc2='Auberge du Repos ombragé' WHERE entry=21509; /* name: The Shady Rest Inn */
+UPDATE locales_gameobject SET name_loc2='Cercle magique lashh\'an' WHERE entry=21511; /* name: Lashh\'an Spell Circle */
 UPDATE locales_gameobject SET name_loc2='Manuel d\'utilisateur de Sniffetarin' WHERE entry=21530; /* name: Snufflenose Owner\'s Manual */
 UPDATE locales_gameobject SET name_loc2='Au lendemain de la Deuxième guerre' WHERE entry=21581; /* name: Aftermath of the Second War */
 UPDATE locales_gameobject SET name_loc2='Au-delà de la Porte des ténèbres' WHERE entry=21582; /* name: Beyond the Dark Portal */
@@ -2370,13 +2375,17 @@ UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32373; /* 
 UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32374; /* name: The Great Forge */
 UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32375; /* name: The Great Forge */
 UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32376; /* name: Market Walk */
+UPDATE locales_gameobject SET name_loc2='Chambre forte de Forgefer' WHERE entry=32377; /* name: Vault of Ironforge */
 UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32378; /* name: The Great Forge */
 UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32379; /* name: The Great Forge */
+UPDATE locales_gameobject SET name_loc2='Chambre forte de Forgefer' WHERE entry=32380; /* name: Vault of Ironforge */
 UPDATE locales_gameobject SET name_loc2='La caverne lugubre' WHERE entry=32383; /* name: The Forlorn Cavern */
 UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32384; /* name: Market Walk */
 UPDATE locales_gameobject SET name_loc2='La Garde militaire' WHERE entry=32385; /* name: The Military Ward */
+UPDATE locales_gameobject SET name_loc2='Hall des mystères' WHERE entry=32386; /* name: Hall of Mysteries */
 UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32388; /* name: Market Walk */
 UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=32389; /* name: Dwarven Brazier */
+UPDATE locales_gameobject SET name_loc2='Salle d\'armes' WHERE entry=32390; /* name: Hall of Arms */
 UPDATE locales_gameobject SET name_loc2='Brasero nain' WHERE entry=32391; /* name: Dwarven Brazier */
 UPDATE locales_gameobject SET name_loc2='La grande forge' WHERE entry=32392; /* name: The Great Forge */
 UPDATE locales_gameobject SET name_loc2='Place de marché' WHERE entry=32393; /* name: Market Walk */
@@ -4308,6 +4317,7 @@ UPDATE locales_gameobject SET name_loc2='Boîte de Felix' WHERE entry=148499; /*
 UPDATE locales_gameobject SET name_loc2='Point chaud de la crête de la Fournaise' WHERE entry=148503; /* name: Fire Plume Ridge Hot Spot */
 UPDATE locales_gameobject SET name_loc2='Une tombe ostentatoire' WHERE entry=148504; /* name: A Conspicuous Gravestone */
 UPDATE locales_gameobject SET name_loc2='Artéfact du Crépuscule' WHERE entry=148506; /* name: Twilight Artifact */
+UPDATE locales_gameobject SET name_loc2='Cercle d\'Aquementas' WHERE entry=148507; /* name: Circle of Aquementas */
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=148511; /* name: Cauldron */
 UPDATE locales_gameobject SET name_loc2='Réceptacle d\'essence' WHERE entry=148512; /* name: Essence Font */
 UPDATE locales_gameobject SET name_loc2='Tablette de Jin\'yael' WHERE entry=148513; /* name: Tablet of Jin\'yael */
@@ -4640,6 +4650,7 @@ UPDATE locales_gameobject SET name_loc2='Formation d\'azsharite' WHERE entry=152
 UPDATE locales_gameobject SET name_loc2='Formation d\'azsharite' WHERE entry=152621; /* name: Azsharite Formation */
 UPDATE locales_gameobject SET name_loc2='Formation d\'azsharite' WHERE entry=152622; /* name: Azsharite Formation */
 UPDATE locales_gameobject SET name_loc2='Formation d\'azsharite' WHERE entry=152631; /* name: Azsharite Formation */
+UPDATE locales_gameobject SET name_loc2='Hôtel des ventes de Darnassus' WHERE entry=153113; /* name: Darnassus Auction House */
 UPDATE locales_gameobject SET name_loc2='Equipement de Kim\'jael' WHERE entry=153123; /* name: Kim\'jael\'s Equipment */
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=153124; /* name: Cauldron */
 UPDATE locales_gameobject SET name_loc2='Chaudron' WHERE entry=153125; /* name: Cauldron */
@@ -5932,6 +5943,7 @@ UPDATE locales_gameobject SET name_loc2='Poste de garde de Nid-de-l\'Aigle' WHER
 UPDATE locales_gameobject SET name_loc2='Poste de garde d\'Austrivage' WHERE entry=174794; /* name: Mirror Lake Waterwall */
 UPDATE locales_gameobject SET name_loc2='Poste de garde de Pennelune' WHERE entry=174795; /* name: Auberdine Moonwell */
 UPDATE locales_gameobject SET name_loc2='Poste de garde de Theramore' WHERE entry=174796; /* name: Sandsorrow Watch Water Hole */
+UPDATE locales_gameobject SET name_loc2='Cascade de Xavian' WHERE entry=174797; /* name: Xavian Waterfall */
 UPDATE locales_gameobject SET name_loc2='Brasier ardent' WHERE entry=174846; /* name: Fierce Blaze */
 UPDATE locales_gameobject SET name_loc2='Feu puissant' WHERE entry=174847; /* name: Mighty Blaze */
 UPDATE locales_gameobject SET name_loc2='Equipement de test' WHERE entry=174848; /* name: Testing Equipment */
@@ -7505,6 +7517,7 @@ UPDATE locales_gameobject SET name_loc2='Bannière de la Horde' WHERE entry=1783
 UPDATE locales_gameobject SET name_loc2='Bannière de l\'Alliance' WHERE entry=178389; /* name: Alliance Banner */
 UPDATE locales_gameobject SET name_loc2='Bannière de la Horde' WHERE entry=178393; /* name: Horde Banner */
 UPDATE locales_gameobject SET name_loc2='Bannière de l\'Alliance' WHERE entry=178394; /* name: Alliance Banner */
+UPDATE locales_gameobject SET name_loc2='Portail de Maraudon' WHERE entry=178400; /* name: Maraudon Portal */
 UPDATE locales_gameobject SET name_loc2='Portail vers l\'intérieur de Maraudon' WHERE entry=178404; /* name: Portal to Inner Maraudon */
 UPDATE locales_gameobject SET name_loc2='Arbre de Noël (Grand)' WHERE entry=178425; /* name: Christmas Tree (Large) */
 UPDATE locales_gameobject SET name_loc2='Arbre de Noël' WHERE entry=178426; /* name: XMasTreeLargeHorde01 */
@@ -8076,6 +8089,7 @@ UPDATE locales_gameobject SET name_loc2='Amélioration nourriture' WHERE entry=1
 UPDATE locales_gameobject SET name_loc2='Hazza\'rah Tisse-rêves' WHERE entry=180364; /* name: Hazza\'rah, the Dreamweaver */
 UPDATE locales_gameobject SET name_loc2='Renataki des Mille lames' WHERE entry=180365; /* name: Renataki, of the Thousand Blades */
 UPDATE locales_gameobject SET name_loc2='Boîte d\'appâts abîmée' WHERE entry=180366; /* name: Battered Tackle Box */
+UPDATE locales_gameobject SET name_loc2='Autel de Zanza' WHERE entry=180367; /* name: Altar of Zanza */
 UPDATE locales_gameobject SET name_loc2='Tablette de la folie' WHERE entry=180368; /* name: Tablet of Madness */
 UPDATE locales_gameobject SET name_loc2='Eaux troubles et agitées' WHERE entry=180369; /* name: Muddy Churning Waters */
 UPDATE locales_gameobject SET name_loc2='Fruit de la moisson' WHERE entry=180370; /* name: Harvest Fruit */
@@ -8567,6 +8581,7 @@ UPDATE locales_gameobject SET name_loc2='Nécropole (échelle 3,5)' WHERE entry=
 UPDATE locales_gameobject SET name_loc2='Porte cascade du wyrm de givre' WHERE entry=181225; /* name: Frostwyrm Waterfall Door */
 UPDATE locales_gameobject SET name_loc2='Cercle' WHERE entry=181227; /* name: Circle */
 UPDATE locales_gameobject SET name_loc2='Porte de KelThuzad' WHERE entry=181228; /* name: KelThuzad Door */
+UPDATE locales_gameobject SET name_loc2='Portail' WHERE entry=181229; /* name: Portal */
 UPDATE locales_gameobject SET name_loc2='Boss Portail Œil Aile Chevalier de la mort' WHERE entry=181230; /* name: Deathknight Wing Eye Portal Boss */
 UPDATE locales_gameobject SET name_loc2='Boss Portail Œil Aile Peste' WHERE entry=181231; /* name: Plague Wing Eye Portal Boss */
 UPDATE locales_gameobject SET name_loc2='Boss Portail Œil Aile Abomination' WHERE entry=181232; /* name: Abom Wing Eye Portal Boss */
@@ -10212,11 +10227,13 @@ UPDATE locales_gameobject SET name_loc2='Cristal de silithide Gorishi' WHERE ent
 UPDATE locales_gameobject SET name_loc2='Anvil' WHERE entry=211016; /* name: Anvil */
 UPDATE locales_gameobject SET name_loc2='Cercle d\'invocation' WHERE entry=211020; /* name: Summoning Circle */
 UPDATE locales_gameobject SET name_loc2='Bannière' WHERE entry=211029; /* name: Banner */
+UPDATE locales_gameobject SET name_loc2='Mine d\'or' WHERE entry=211032; /* name: Gold Mine */
 UPDATE locales_gameobject SET name_loc2='Aura' WHERE entry=211033; /* name: Aura */
 UPDATE locales_gameobject SET name_loc2='Aura' WHERE entry=211034; /* name: Aura */
 UPDATE locales_gameobject SET name_loc2='Totem de feu' WHERE entry=211036; /* name: Fire Totem */
 UPDATE locales_gameobject SET name_loc2='Souche mystérieuse' WHERE entry=211051; /* name: Mysterious Tree Stump */
 UPDATE locales_gameobject SET name_loc2='Fissure de lave' WHERE entry=211054; /* name: Lava Crack */
 UPDATE locales_gameobject SET name_loc2='Totem de feu' WHERE entry=211068; /* name: Fire Totem */
+UPDATE locales_gameobject SET name_loc2='Réseaux souterrains proches' WHERE entry=300011; /* name: Nearby Tubers */
 
 SET NAMES 'latin1';
