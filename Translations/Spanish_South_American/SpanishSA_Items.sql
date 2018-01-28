@@ -7162,6 +7162,7 @@ UPDATE locales_item SET name_loc7='Manteo nacido del Sol' WHERE entry=12113; /* 
 UPDATE locales_item SET name_loc7='Guantes Ocaso' WHERE entry=12114; /* name: Nightfall Gloves */
 UPDATE locales_item SET name_loc7='Agarre de adepto' WHERE entry=12115; /* name: Stalwart Clutch */
 UPDATE locales_item SET name_loc7='Basura de Kum\'isha',description_loc7='Un cofre lleno de "porquería"' WHERE entry=12122; /* name: Kum\'isha\'s Junk */ /* description: A chest full of "junk" */
+UPDATE locales_item SET name_loc7='Eggscilloscope' WHERE entry=12144; /* name: Eggscilloscope */
 UPDATE locales_item SET name_loc7='Diseño: espada corta de hierro endurecido',description_loc7='Te enseña a hacer una espada corta de hierro endurecido.' WHERE entry=12162; /* name: Plans: Hardened Iron Shortsword */ /* description: Teaches you how to make a Hardened Iron Shortsword. */
 UPDATE locales_item SET name_loc7='Diseño: espada ancha de acero lunar',description_loc7='Te enseña a hacer una espada ancha de acero lunar.' WHERE entry=12163; /* name: Plans: Moonsteel Broadsword */ /* description: Teaches you how to make a Moonsteel Broadsword. */
 UPDATE locales_item SET name_loc7='Diseño: hacha de hierro macizo',description_loc7='Te enseña a hacer un hacha de hierro macizo.' WHERE entry=12164; /* name: Plans: Massive Iron Axe */ /* description: Teaches you how to make a Massive Iron Axe. */
