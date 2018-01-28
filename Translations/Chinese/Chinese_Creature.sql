@@ -56,7 +56,7 @@ UPDATE locales_creature SET name_loc4='伊根·派特斯金纳' WHERE entry=196;
 UPDATE locales_creature SET name_loc4='治安官玛克布莱德' WHERE entry=197; /* name: Marshal McBride */
 UPDATE locales_creature SET name_loc4='凯尔登·布雷门',subname_loc4='法师训练师' WHERE entry=198; /* name: Khelden Bremen */ /* subname: Mage Trainer */
 UPDATE locales_creature SET name_loc4='小碎尸鸟' WHERE entry=199; /* name: Young Fleshripper */
-UPDATE locales_creature SET name_loc4=' horror skeleton ' WHERE entry=202; /* name: Skeletal Horror */
+UPDATE locales_creature SET name_loc4='腐烂恐魔' WHERE entry=202; /* name: Skeletal Horror */
 UPDATE locales_creature SET name_loc4='骷髅法师' WHERE entry=203; /* name: Skeletal Mage */
 UPDATE locales_creature SET name_loc4='夜行黑暗狼人' WHERE entry=205; /* name: Nightbane Dark Runner */
 UPDATE locales_creature SET name_loc4='夜行邪齿狼人' WHERE entry=206; /* name: Nightbane Vile Fang */
@@ -3865,7 +3865,7 @@ UPDATE locales_creature SET name_loc4='芬斯维克',subname_loc4='盗贼训练�
 UPDATE locales_creature SET name_loc4='泰努斯·毒芽',subname_loc4='毒药商' WHERE entry=5169; /* name: Tynnus Venomsprout */ /* subname: Shady Dealer */
 UPDATE locales_creature SET name_loc4='霍迪尔·石刃',subname_loc4='铸剑商' WHERE entry=5170; /* name: Hjoldir Stoneblade */ /* subname: Blade Merchant */
 UPDATE locales_creature SET name_loc4='瑟斯哈特',subname_loc4='术士训练师' WHERE entry=5171; /* name: Thistleheart */ /* subname: Warlock Trainer */
-UPDATE locales_creature SET name_loc4='石南草',subname_loc4='术士训练师' WHERE entry=5172; /* name: Briarthorn */ /* subname: Warlock Trainer */
+UPDATE locales_creature SET name_loc4='布瑞尔索恩',subname_loc4='术士训练师' WHERE entry=5172; /* name: Briarthorn */ /* subname: Warlock Trainer */
 UPDATE locales_creature SET name_loc4='亚历山大·考德尔',subname_loc4='术士训练师' WHERE entry=5173; /* name: Alexander Calder */ /* subname: Warlock Trainer */
 UPDATE locales_creature SET name_loc4='宾斯匹德',subname_loc4='工程学训练师' WHERE entry=5174; /* name: Springspindle Fizzlegear */ /* subname: Artisan Engineer */
 UPDATE locales_creature SET name_loc4='考格斯宾',subname_loc4='工程学供应商' WHERE entry=5175; /* name: Gearcutter Cogspinner */ /* subname: Engineering Supplies */
