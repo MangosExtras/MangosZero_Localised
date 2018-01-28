@@ -3281,7 +3281,7 @@ UPDATE locales_npc_text SET Text0_0_loc8='Welcome to Thorium Point. As Overseer,
 UPDATE locales_npc_text SET Text0_1_loc8='' WHERE entry=17511;
 UPDATE locales_npc_text SET Text0_1_loc8='' WHERE entry=17586;
 UPDATE locales_npc_text SET Text0_1_loc8='' WHERE entry=17772;
-UPDATE locales_npc_text SET Text0_0_loc8='What!' WHERE entry=17805; /* Text0_0: What! */
+UPDATE locales_npc_text SET Text0_1_loc8='' WHERE entry=17805;
 UPDATE locales_npc_text SET Text0_0_loc8='Weary of one of your demonic charges? Hoping for one with a more pleasing name?$B$B$B$BFor a price, I can assist you in the obliteration of a current minion so that you may summon an entirely new one...',Text0_1_loc8='Weary of one of your demonic charges? Hoping for one with a more pleasing name?$B$B$B$BFor a price, I can assist you in the obliteration of a current minion so that you may summon an entirely new one...' WHERE entry=17816; /* Text0_0: Weary of one of your demonic charges? Hoping for one with a more pleasing name?$B$B$B$BFor a price, I can assist you in the obliteration of a current minion so that you may summon an entirely new one... */ /* Text0_1: Weary of one of your demonic charges? Hoping for one with a more pleasing name?$B$B$B$BFor a price, I can assist you in the obliteration of a current minion so that you may summon an entirely new one... */
 UPDATE locales_npc_text SET Text0_1_loc8='' WHERE entry=17838;
 UPDATE locales_npc_text SET Text0_1_loc8='' WHERE entry=17861;

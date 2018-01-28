@@ -5206,6 +5206,7 @@ UPDATE locales_npc_text SET Text0_0_loc8='Дерек Приход Тьмы к в
 UPDATE locales_npc_text SET Text0_0_loc8='Добро пожаловать в деревню Звездопада, $gпутешественник:путешественница;. Ты $gпришел:пришла; нам помочь?' WHERE entry=17586; /* Text0_0: Welcome to Starfall Village, traveler. Have you come to assist us? */
 UPDATE locales_npc_text SET Text0_0_loc8='Мы рады твоей помощи.' WHERE entry=17772; /* Text0_0: We\'re glad to have your help. */
 UPDATE locales_npc_text SET Text0_0_loc8='Что?',Text0_1_loc8='Что?' WHERE entry=17804; /* Text0_0: What? */ /* Text0_1: What? */
+UPDATE locales_npc_text SET Text0_0_loc8='Что!' WHERE entry=17805; /* Text0_0: What! */
 UPDATE locales_npc_text SET Text0_0_loc8='Только самые отважные и благородные члены племени могут заслужить почесть быть похороненными в Красных скалах.' WHERE entry=17838; /* Text0_0: Only the most valiant and honorable amongst the tribe can earn the honor of being laid to rest at Red Rocks. */
 UPDATE locales_npc_text SET Text0_0_loc8='Жизнь охотника за сокровищами полна опасностей. Не обманывай себя.' WHERE entry=17861; /* Text0_0: A treasure hunter\'s life is a treacherous one. Don\'t be foolin\' yerself. */
 UPDATE locales_npc_text SET Text0_0_loc8='Приветствую $N' WHERE entry=17880; /* Text0_0: Greetings $N */
