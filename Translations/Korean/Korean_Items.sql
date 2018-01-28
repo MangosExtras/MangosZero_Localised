@@ -10643,6 +10643,7 @@ UPDATE locales_item SET name_loc1='라빈의 편지' WHERE entry=17355; /* name:
 UPDATE locales_item SET name_loc1='라이슨의 봉화' WHERE entry=17362; /* name: Ryson\'s Beacon */
 UPDATE locales_item SET name_loc1='라이슨의 봉화' WHERE entry=17363; /* name: Ryson\'s Beacon */
 UPDATE locales_item SET name_loc1='관측용 망원경' WHERE entry=17364; /* name: Scrying Scope */
+UPDATE locales_item SET name_loc1='진피즐렉스의 휴대용 벌목기 장치' WHERE entry=17384; /* name: Zinfizzlex\'s Portable Shredder Unit */
 UPDATE locales_item SET name_loc1='겨울 할아버지 꽁꽁주' WHERE entry=17402; /* name: Greatfather\'s Winter Ale */
 UPDATE locales_item SET name_loc1='스팀휘들 탄산주' WHERE entry=17403; /* name: Steamwheedle Fizzy Spirits */
 UPDATE locales_item SET name_loc1='갈아만든 두유' WHERE entry=17404; /* name: Blended Bean Brew */
@@ -10650,6 +10651,7 @@ UPDATE locales_item SET name_loc1='정원 녹차' WHERE entry=17405; /* name: Gr
 UPDATE locales_item SET name_loc1='축제일 치즈케이크' WHERE entry=17406; /* name: Holiday Cheesewheel */
 UPDATE locales_item SET name_loc1='그라추의 엄마손 고기 파이' WHERE entry=17407; /* name: Graccu\'s Homemade Meat Pie */
 UPDATE locales_item SET name_loc1='매콤한 산적' WHERE entry=17408; /* name: Spicy Beefstick */
+UPDATE locales_item SET name_loc1='진피즐렉스의 휴대용 벌목기 장치' WHERE entry=17410; /* name: Zinfizzlex\'s Portable Shredder Unit */
 UPDATE locales_item SET name_loc1='증기톱' WHERE entry=17411; /* name: Steamsaw */
 UPDATE locales_item SET name_loc1='법전: 인내의 기원',description_loc1='풍파에 손상된 듯합니다. 내용을 읽을 수 없습니다.' WHERE entry=17413; /* name: Codex: Prayer of Fortitude */ /* description: Teaches Prayer of Fortitude (Rank 1). */
 UPDATE locales_item SET name_loc1='법전: 인내의 기원',description_loc1='풍파에 손상된 듯합니다. 내용을 읽을 수 없습니다.' WHERE entry=17414; /* name: Codex: Prayer of Fortitude II */ /* description: Teaches Prayer of Fortitude (Rank 2). */
