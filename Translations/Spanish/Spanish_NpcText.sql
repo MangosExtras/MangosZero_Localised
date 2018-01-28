@@ -4789,6 +4789,7 @@ UPDATE locales_npc_text SET Text0_0_loc6='¡Derak Ocaso, a tu servicio!' WHERE e
 UPDATE locales_npc_text SET Text0_0_loc6='Te doy la bienvenida a Aldea Estrella Fugaz, $gviajero:viajera;. ¿Has venido a ayudarnos?' WHERE entry=17586; /* Text0_0: Welcome to Starfall Village, traveler. Have you come to assist us? */
 UPDATE locales_npc_text SET Text0_0_loc6='Nos alegramos de contar con tu ayuda.' WHERE entry=17772; /* Text0_0: We\'re glad to have your help. */
 UPDATE locales_npc_text SET Text0_0_loc6='¿Qué?',Text0_1_loc6='¿Qué?' WHERE entry=17804; /* Text0_0: What? */ /* Text0_1: What? */
+UPDATE locales_npc_text SET Text0_0_loc6='What!' WHERE entry=17805; /* Text0_0: What! */
 UPDATE locales_npc_text SET Text0_0_loc6='Solo los más valientes y más honorables de la tribu tienen el honor de ser enterrados en la Roca Roja.' WHERE entry=17838; /* Text0_0: Only the most valiant and honorable amongst the tribe can earn the honor of being laid to rest at Red Rocks. */
 UPDATE locales_npc_text SET Text0_0_loc6='La vida de un cazador de tesoros es traicionera. No te engañes.' WHERE entry=17861; /* Text0_0: A treasure hunter\'s life is a treacherous one. Don\'t be foolin\' yerself. */
 UPDATE locales_npc_text SET Text0_0_loc6='Tened cuidado, amigos. El Traidor medita en el patio de ahí al lado',Text0_1_loc6='Tened cuidado, amigos. El Traidor medita en el patio de ahí al lado' WHERE entry=22990; /* Text0_0: Be wary, friends. The Betrayer meditates in the court just beyond. */ /* Text0_1: Be wary, friends. The Betrayer meditates in the court just beyond. */
