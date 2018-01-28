@@ -2,8 +2,6 @@
 SET NAMES 'utf8';
 UPDATE locales_creature SET subname_loc2='Enraged Form' WHERE entry=2454; /* subname: Enraged Form */
 UPDATE locales_creature SET subname_loc2='Crocilisk Trainer' WHERE entry=2876; /* subname: Crocilisk Trainer */
-UPDATE locales_creature SET subname_loc2='Male' WHERE entry=7503; /* subname: Male */
-UPDATE locales_creature SET subname_loc2='Female' WHERE entry=7504; /* subname: Female */
 UPDATE locales_creature SET subname_loc2='Spell Visual' WHERE entry=10579; /* subname: Spell Visual */
 UPDATE locales_creature SET subname_loc2='Orc Female' WHERE entry=10784; /* subname: Orc Female */
 UPDATE locales_creature SET subname_loc2='Tauren Male' WHERE entry=10785; /* subname: Tauren Male */
@@ -30,7 +28,6 @@ UPDATE locales_creature SET name_loc2='Vicious Gladiator\'s Gavel',subname_loc2=
 UPDATE locales_creature SET subname_loc2='Ghost/Ghoul spawner' WHERE entry=16306; /* subname: Ghost/Ghoul spawner */
 UPDATE locales_creature SET subname_loc2='Ghost/Skeleton spawner' WHERE entry=16336; /* subname: Ghost/Skeleton spawner */
 UPDATE locales_creature SET subname_loc2='Ghoul/Skeleton spawner' WHERE entry=16338; /* subname: Ghoul/Skeleton spawner */
-UPDATE locales_creature SET subname_loc2='finder' WHERE entry=16356; /* subname: finder */
 UPDATE locales_creature SET subname_loc2='Ammunition Vendor' WHERE entry=17598; /* subname: Ammunition Vendor */
 
 SET NAMES 'latin1';

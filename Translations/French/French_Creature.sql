@@ -5108,8 +5108,8 @@ UPDATE locales_creature SET name_loc2='Nargatt',subname_loc2='Nourriture & boiss
 UPDATE locales_creature SET name_loc2='[VIEUX]Grace of Air Totem' WHERE entry=7486; /* name: Grace of Air Totem */
 UPDATE locales_creature SET name_loc2='[VIEUX]Grace of Air Totem II' WHERE entry=7487; /* name: Grace of Air Totem II */
 UPDATE locales_creature SET name_loc2='Nécrogarde des Pins-Argentés' WHERE entry=7489; /* name: Silverpine Deathguard */
-UPDATE locales_creature SET name_loc2='Malédiction de l\'Oeil (homme)' WHERE entry=7503; /* name: Curse of the Eye */ /* subname: Male */
-UPDATE locales_creature SET name_loc2='Malédiction de l\'Oeil (homme)' WHERE entry=7504; /* name: Curse of the Eye */ /* subname: Female */
+UPDATE locales_creature SET name_loc2='Malédiction de l\'Oeil (homme)',subname_loc2='Mâle' WHERE entry=7503; /* name: Curse of the Eye */ /* subname: Male */
+UPDATE locales_creature SET name_loc2='Malédiction de l\'Oeil (homme)',subname_loc2='Femme' WHERE entry=7504; /* name: Curse of the Eye */ /* subname: Female */
 UPDATE locales_creature SET name_loc2='Mage de sang Drazial' WHERE entry=7505; /* name: Bloodmage Drazial */
 UPDATE locales_creature SET name_loc2='Mage de sang Lynnore' WHERE entry=7506; /* name: Bloodmage Lynnore */
 UPDATE locales_creature SET name_loc2='Bien-né souffrant' WHERE entry=7523; /* name: Suffering Highborne */
@@ -8932,7 +8932,7 @@ UPDATE locales_creature SET name_loc2='Troupier squelettique de choc' WHERE entr
 UPDATE locales_creature SET name_loc2='Générateur séide invasion du Fléau, fantôme/goule' WHERE entry=16306; /* name: Scourge Invasion Minion */ /* subname: Ghost/Ghoul spawner */
 UPDATE locales_creature SET name_loc2='Générateur séide invasion du Fléau, fantôme/goule' WHERE entry=16336; /* name: Scourge Invasion Minion */ /* subname: Ghost/Skeleton spawner */
 UPDATE locales_creature SET name_loc2='Générateur séide invasion du Fléau, fantôme/goule' WHERE entry=16338; /* name: Scourge Invasion Minion */ /* subname: Ghoul/Skeleton spawner */
-UPDATE locales_creature SET name_loc2='Générateur séide invasion du Fléau, fantôme/goule' WHERE entry=16356; /* name: Scourge Invasion Minion */ /* subname: finder */
+UPDATE locales_creature SET name_loc2='Générateur séide invasion du Fléau, fantôme/goule',subname_loc2='finder' WHERE entry=16356; /* name: Scourge Invasion Minion */ /* subname: finder */
 UPDATE locales_creature SET name_loc2='Messager de l\'Aube d\'argent',subname_loc2='L\'Aube d\'argent' WHERE entry=16359; /* name: Argent Messenger */ /* subname: The Argent Dawn */
 UPDATE locales_creature SET name_loc2='Croq\'zombie' WHERE entry=16360; /* name: Zombie Chow */
 UPDATE locales_creature SET name_loc2='Commandant Thomas Helleran',subname_loc2='L\'Aube d\'argent' WHERE entry=16361; /* name: Commander Thomas Helleran */ /* subname: The Argent Dawn */
