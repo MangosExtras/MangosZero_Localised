@@ -4789,6 +4789,7 @@ UPDATE locales_npc_text SET Text0_0_loc3='Derak Nachtlauer, zu Diensten!' WHERE 
 UPDATE locales_npc_text SET Text0_0_loc3='Willkommen in Sternfall. Seid Ihr gekommen, uns zu helfen?' WHERE entry=17586; /* Text0_0: Welcome to Starfall Village, traveler. Have you come to assist us? */
 UPDATE locales_npc_text SET Text0_0_loc3='Wir sind froh über Eure Hilfe.' WHERE entry=17772; /* Text0_0: We\'re glad to have your help. */
 UPDATE locales_npc_text SET Text0_0_loc3='Was?' WHERE entry=17804; /* Text0_0: What? */
+UPDATE locales_npc_text SET Text0_0_loc3='What!' WHERE entry=17805; /* Text0_0: What! */
 UPDATE locales_npc_text SET Text0_0_loc3='Nur die tapfersten und ehrenhaftesten Stammesmitglieder können sich die Ehre verdienen, ihre letzte Ruhe in den Teufelsfelsen zu finden.' WHERE entry=17838; /* Text0_0: Only the most valiant and honorable amongst the tribe can earn the honor of being laid to rest at Red Rocks. */
 UPDATE locales_npc_text SET Text0_0_loc3='Das Leben eines Schatzsuchers ist gefährlich. Macht Euch da lieber nichts vor.' WHERE entry=17861; /* Text0_0: A treasure hunter\'s life is a treacherous one. Don\'t be foolin\' yerself. */
 UPDATE locales_npc_text SET Text0_0_loc3='Seid vorsichtig, Freunde. Der Verräter verweilt im Hof direkt vor uns.' WHERE entry=22990; /* Text0_0: Be wary, friends. The Betrayer meditates in the court just beyond. */

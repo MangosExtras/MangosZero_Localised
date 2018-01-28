@@ -290,7 +290,6 @@ UPDATE locales_item SET description_loc3='Teaches you how to make a Gnomish Univ
 UPDATE locales_item SET description_loc3='Teaches you how to make Goblin Jumper Cables.' WHERE entry=7561; /* description: Teaches you how to make Goblin Jumper Cables. */
 UPDATE locales_item SET description_loc3='Teaches you how to craft Green Leather Armor.' WHERE entry=7613; /* description: Teaches you how to craft Green Leather Armor. */
 UPDATE locales_item SET description_loc3='A sealed letter' WHERE entry=7628; /* description: A sealed letter */
-UPDATE locales_item SET description_loc3='Sealed' WHERE entry=7674; /* description: Sealed */
 UPDATE locales_item SET description_loc3='Teaches you how to brew a Thistle Tea.' WHERE entry=7678; /* description: Teaches you how to brew a Thistle Tea. */
 UPDATE locales_item SET description_loc3='Written in a language you cannot decipher.' WHERE entry=7737; /* description: Written in a language you cannot decipher. */
 UPDATE locales_item SET description_loc3='Teaches you how to make a Gnomish Cloaking Device.' WHERE entry=7742; /* description: Teaches you how to make a Gnomish Cloaking Device. */
@@ -493,7 +492,6 @@ UPDATE locales_item SET description_loc3='The fiery essence of Bael\'Gar wrapped
 UPDATE locales_item SET description_loc3='A dull and gray patch of black dragon skin' WHERE entry=11231; /* description: A dull and gray patch of black dragon skin */
 UPDATE locales_item SET description_loc3='The dark, pale skin feels like clay.' WHERE entry=11268; /* description: The dark, pale skin feels like clay. */
 UPDATE locales_item SET description_loc3='Unbreakable bindings.' WHERE entry=11286; /* description: Unbreakable bindings. */
-UPDATE locales_item SET description_loc3='Sealed' WHERE entry=11366; /* description: Sealed */
 UPDATE locales_item SET description_loc3='-General Angerforge' WHERE entry=11464; /* description: -General Angerforge */
 UPDATE locales_item SET description_loc3='-Golem Lord Argelmach' WHERE entry=11465; /* description: -Golem Lord Argelmach */
 UPDATE locales_item SET description_loc3='This device helps identify corrupted elements of nature.' WHERE entry=11511; /* description: This device helps identify corrupted elements of nature. */
@@ -851,7 +849,6 @@ UPDATE locales_item SET description_loc3='Handle With Care.' WHERE entry=17118; 
 UPDATE locales_item SET description_loc3='Teaches you how to bake a Gingerbread Cookie.' WHERE entry=17200; /* description: Teaches you how to bake a Gingerbread Cookie. */
 UPDATE locales_item SET description_loc3='Teaches you how to make Egg Nog.' WHERE entry=17201; /* description: Teaches you how to make Egg Nog. */
 UPDATE locales_item SET description_loc3='Alliance: the other, other, OTHER, white meat.' WHERE entry=17326; /* description: Alliance: the other, other, OTHER, white meat. */
-UPDATE locales_item SET description_loc3='Ewww...' WHERE entry=17345; /* description: Ewww... */
 UPDATE locales_item SET description_loc3='Teaches Prayer of Fortitude (Rank 1).' WHERE entry=17413; /* description: Teaches Prayer of Fortitude (Rank 1). */
 UPDATE locales_item SET description_loc3='Return to your base blacksmith to help upgrade troops' WHERE entry=17422; /* description: Return to your base blacksmith to help upgrade troops */
 UPDATE locales_item SET description_loc3='Give to Warmaster Garrick in the Field of Strife' WHERE entry=17442; /* description: Give to Warmaster Garrick in the Field of Strife */
@@ -1226,9 +1223,6 @@ UPDATE locales_item SET description_loc3='Chapter VI' WHERE entry=21108; /* desc
 UPDATE locales_item SET description_loc3='Chapter VII' WHERE entry=21109; /* description: Chapter VII */
 UPDATE locales_item SET description_loc3='Chapter VIII' WHERE entry=21110; /* description: Chapter VIII */
 UPDATE locales_item SET description_loc3='A shamanistic device fashioned by the Timbermaw to summon forth corrupting demons.' WHERE entry=21144; /* description: A shamanistic device fashioned by the Timbermaw to summon forth corrupting demons. */
-UPDATE locales_item SET description_loc3='-Hinterlands' WHERE entry=21146; /* description: -Hinterlands */
-UPDATE locales_item SET description_loc3='-Ashenvale' WHERE entry=21147; /* description: -Ashenvale */
-UPDATE locales_item SET description_loc3='-Duskwood' WHERE entry=21149; /* description: -Duskwood */
 UPDATE locales_item SET description_loc3='This truesilver-wrought item is a furbolg symbol of peace.  A sealed message is attached to it.' WHERE entry=21155; /* description: This truesilver-wrought item is a furbolg symbol of peace.  A sealed message is attached to it. */
 UPDATE locales_item SET description_loc3='This strange dust should allow Metzen to be freed when sprinkled on him.' WHERE entry=21211; /* description: This strange dust should allow Metzen to be freed when sprinkled on him. */
 UPDATE locales_item SET description_loc3='Preserved with Graccu\'s special spices!  It\'ll be a very long time before these turn bad...' WHERE entry=21215; /* description: Preserved with Graccu\'s special spices!  It\'ll be a very long time before these turn bad... */
@@ -1255,7 +1249,6 @@ UPDATE locales_item SET description_loc3='These may be gathered for the Timberma
 UPDATE locales_item SET description_loc3='These may be gathered for the Timbermaw furbolgs to earn their trust.' WHERE entry=21383; /* description: These may be gathered for the Timbermaw furbolgs to earn their trust. */
 UPDATE locales_item SET description_loc3='Seek out an Alliance Commendation Officer to exchange signets for recognition.' WHERE entry=21436; /* description: Seek out an Alliance Commendation Officer to exchange signets for recognition. */
 UPDATE locales_item SET description_loc3='Seek out an Horde Commendation Officer to exchange signets for recognition.' WHERE entry=21438; /* description: Seek out an Horde Commendation Officer to exchange signets for recognition. */
-UPDATE locales_item SET description_loc3='Ouch' WHERE entry=21488; /* description: Ouch */
 UPDATE locales_item SET description_loc3='Still dripping with blood' WHERE entry=21498; /* description: Still dripping with blood */
 UPDATE locales_item SET description_loc3='A tiny fragment of a very large insect.' WHERE entry=21533; /* description: A tiny fragment of a very large insect. */
 UPDATE locales_item SET description_loc3='A tiny fragment of a very large insect.' WHERE entry=21534; /* description: A tiny fragment of a very large insect. */

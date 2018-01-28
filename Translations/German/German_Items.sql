@@ -4710,7 +4710,7 @@ UPDATE locales_item SET name_loc3='Saphir der zerrissenen Halskette' WHERE entry
 UPDATE locales_item SET name_loc3='Topas der zerrissenen Halskette' WHERE entry=7671; /* name: Shattered Necklace Topaz */
 UPDATE locales_item SET name_loc3='Kraftquelle der zerrissenen Halskette' WHERE entry=7672; /* name: Shattered Necklace Power Source */
 UPDATE locales_item SET name_loc3='Talvashs verstärkende Halskette' WHERE entry=7673; /* name: Talvash\'s Enhancing Necklace */
-UPDATE locales_item SET name_loc3='Lieferung für Mathias' WHERE entry=7674; /* name: Delivery to Mathias */ /* description: Sealed */
+UPDATE locales_item SET name_loc3='Lieferung für Mathias',description_loc3='versiegelt' WHERE entry=7674; /* name: Delivery to Mathias */ /* description: Sealed */
 UPDATE locales_item SET name_loc3='Lieferzeitplan' WHERE entry=7675; /* name: Defias Shipping Schedule */
 UPDATE locales_item SET name_loc3='Disteltee' WHERE entry=7676; /* name: Thistle Tea */
 UPDATE locales_item SET name_loc3='Rezept: Disteltee' WHERE entry=7678; /* name: Recipe: Thistle Tea */ /* description: Teaches you how to brew a Thistle Tea. */
@@ -6733,7 +6733,7 @@ UPDATE locales_item SET name_loc3='Dunkeleisenbierbecher' WHERE entry=11325; /* 
 UPDATE locales_item SET name_loc3='Mittlerer Köcher' WHERE entry=11362; /* name: Medium Quiver */
 UPDATE locales_item SET name_loc3='Mittlerer Geschossbeutel' WHERE entry=11363; /* name: Medium Shot Pouch */
 UPDATE locales_item SET name_loc3='Wams von Sturmwind' WHERE entry=11364; /* name: Tabard of Stormwind */
-UPDATE locales_item SET name_loc3='Helendis Flusshorns Brief' WHERE entry=11366; /* name: Helendis Riverhorn\'s Letter */ /* description: Sealed */
+UPDATE locales_item SET name_loc3='Helendis Flusshorns Brief',description_loc3='versiegelt' WHERE entry=11366; /* name: Helendis Riverhorn\'s Letter */ /* description: Sealed */
 UPDATE locales_item SET name_loc3='Solomons Hilfegesuch an König Wrynn' WHERE entry=11367; /* name: Solomon\'s Plea to Bolvar */
 UPDATE locales_item SET name_loc3='Wrynss Erlass',description_loc3='Trägt das Siegel von Sturmwind.' WHERE entry=11368; /* name: Bolvar\'s Decree */ /* description: Bears the Seal of Stormwind */
 UPDATE locales_item SET name_loc3='Dunkeleisenerz' WHERE entry=11370; /* name: Dark Iron Ore */
@@ -7162,6 +7162,7 @@ UPDATE locales_item SET name_loc3='Sonnentuchcape' WHERE entry=12113; /* name: S
 UPDATE locales_item SET name_loc3='Nachtlauerhandschuhe' WHERE entry=12114; /* name: Nightfall Gloves */
 UPDATE locales_item SET name_loc3='Tapfere Umklammerung' WHERE entry=12115; /* name: Stalwart Clutch */
 UPDATE locales_item SET name_loc3='Kum\'ishas Plunder' WHERE entry=12122; /* name: Kum\'isha\'s Junk */ /* description: A chest full of "junk" */
+UPDATE locales_item SET name_loc3='Eggscilloscope' WHERE entry=12144; /* name: Eggscilloscope */
 UPDATE locales_item SET name_loc3='Pläne: Gehärtetes Eisenkurzschwert' WHERE entry=12162; /* name: Plans: Hardened Iron Shortsword */ /* description: Teaches you how to make a Hardened Iron Shortsword. */
 UPDATE locales_item SET name_loc3='Pläne: Mondstahlbreitschwert' WHERE entry=12163; /* name: Plans: Moonsteel Broadsword */ /* description: Teaches you how to make a Moonsteel Broadsword. */
 UPDATE locales_item SET name_loc3='Pläne: Massive Eisenaxt' WHERE entry=12164; /* name: Plans: Massive Iron Axe */ /* description: Teaches you how to make a Massive Iron Axe. */
@@ -10632,7 +10633,7 @@ UPDATE locales_item SET name_loc3='Hand von Gehennas' WHERE entry=17331; /* name
 UPDATE locales_item SET name_loc3='Hand von Shazzrah' WHERE entry=17332; /* name: Hand of Shazzrah */
 UPDATE locales_item SET name_loc3='Wässrige Quintessenz' WHERE entry=17333; /* name: Aqual Quintessence */
 UPDATE locales_item SET name_loc3='Bonbonstange' WHERE entry=17344; /* name: Candy Cane */
-UPDATE locales_item SET name_loc3='Silithidenglibber' WHERE entry=17345; /* name: Silithid Goo */ /* description: Ewww... */
+UPDATE locales_item SET name_loc3='Silithidenglibber',description_loc3='Ewww ...' WHERE entry=17345; /* name: Silithid Goo */ /* description: Ewww... */
 UPDATE locales_item SET name_loc3='Verkrustetes Silithidenobjekt' WHERE entry=17346; /* name: Encrusted Silithid Object */
 UPDATE locales_item SET name_loc3='Erhebliches Heilgebräu' WHERE entry=17348; /* name: Major Healing Draught */
 UPDATE locales_item SET name_loc3='Überragendes Heilgebräu' WHERE entry=17349; /* name: Superior Healing Draught */
@@ -12900,10 +12901,10 @@ UPDATE locales_item SET name_loc3='Vom Schreibtisch des Lord Victor Nefarius' WH
 UPDATE locales_item SET name_loc3='Nicht unterzeichnete Felddienstpapiere' WHERE entry=21143; /* name: Unsigned Field Duty Papers */
 UPDATE locales_item SET name_loc3='Fackel zur Dämonenbeschwörung' WHERE entry=21144; /* name: Demon Summoning Torch */ /* description: A shamanistic device fashioned by the Timbermaw to summon forth corrupting demons. */
 UPDATE locales_item SET name_loc3='Essenz von Xandivious' WHERE entry=21145; /* name: Essence of Xandivious */
-UPDATE locales_item SET name_loc3='Verderbnisfragment des Alptraums' WHERE entry=21146; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Hinterlands */
-UPDATE locales_item SET name_loc3='Verderbnisfragment des Alptraums' WHERE entry=21147; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Ashenvale */
+UPDATE locales_item SET name_loc3='Verderbnisfragment des Alptraums',description_loc3='- Hinterland' WHERE entry=21146; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Hinterlands */
+UPDATE locales_item SET name_loc3='Verderbnisfragment des Alptraums',description_loc3='- Eschental' WHERE entry=21147; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Ashenvale */
 UPDATE locales_item SET name_loc3='Verderbnisfragment des Alptraums',description_loc3='\%s' WHERE entry=21148; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Feralas */
-UPDATE locales_item SET name_loc3='Verderbnisfragment des Alptraums' WHERE entry=21149; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Duskwood */
+UPDATE locales_item SET name_loc3='Verderbnisfragment des Alptraums',description_loc3='- Dämmerwald' WHERE entry=21149; /* name: Fragment of the Nightmare\'s Corruption */ /* description: -Duskwood */
 UPDATE locales_item SET name_loc3='Eisenbeschlagener Koffer' WHERE entry=21150; /* name: Iron Bound Trunk */
 UPDATE locales_item SET name_loc3='Schwarzer Rumsey Rum' WHERE entry=21151; /* name: Rumsey Rum Black Label */
 UPDATE locales_item SET name_loc3='Roher großer Weisenfisch' WHERE entry=21153; /* name: Raw Greater Sagefish */
@@ -13183,7 +13184,7 @@ UPDATE locales_item SET name_loc3='Helm des Nachwachsens' WHERE entry=21484; /* 
 UPDATE locales_item SET name_loc3='Burus Schädelfragment' WHERE entry=21485; /* name: Buru\'s Skull Fragment */
 UPDATE locales_item SET name_loc3='Handschuhe des Schwarms' WHERE entry=21486; /* name: Gloves of the Swarm */
 UPDATE locales_item SET name_loc3='Schleimige Schuppenstulpen' WHERE entry=21487; /* name: Slimy Scaled Gauntlets */
-UPDATE locales_item SET name_loc3='Chitinstachelfetisch' WHERE entry=21488; /* name: Fetish of Chitinous Spikes */ /* description: Ouch */
+UPDATE locales_item SET name_loc3='Chitinstachelfetisch',description_loc3='Autsch' WHERE entry=21488; /* name: Fetish of Chitinous Spikes */ /* description: Ouch */
 UPDATE locales_item SET name_loc3='Treibsandwandler' WHERE entry=21489; /* name: Quicksand Waders */
 UPDATE locales_item SET name_loc3='Schleimkicker' WHERE entry=21490; /* name: Slime Kickers */
 UPDATE locales_item SET name_loc3='Schuppenarmschienen des Verschlingers' WHERE entry=21491; /* name: Scaled Bracers of the Gorger */
