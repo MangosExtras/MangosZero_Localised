@@ -10518,7 +10518,7 @@ UPDATE locales_item SET name_loc4='萨瑟里斯虎鱼' WHERE entry=16968; /* nam
 UPDATE locales_item SET name_loc4='野人海岸蓝色叉牙鱼' WHERE entry=16969; /* name: Savage Coast Blue Sailfin */
 UPDATE locales_item SET name_loc4='芦苇海岸大马哈鱼' WHERE entry=16970; /* name: Misty Reed Mahi Mahi */
 UPDATE locales_item SET name_loc4='蚌肉大餐' WHERE entry=16971; /* name: Clamlette Surprise */
-UPDATE locales_item SET name_loc4='塞娜尼的旗子' WHERE entry=16972; /* name: Karang\'s Banner */
+UPDATE locales_item SET name_loc4='卡拉恩的旗子' WHERE entry=16972; /* name: Karang\'s Banner */
 UPDATE locales_item SET name_loc4='恐怖之水' WHERE entry=16973; /* name: Vial of Dire Water */
 UPDATE locales_item SET name_loc4='空的小水瓶' WHERE entry=16974; /* name: Empty Water Vial */
 UPDATE locales_item SET name_loc4='战歌腰带' WHERE entry=16975; /* name: Warsong Sash */
