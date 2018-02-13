@@ -22,7 +22,6 @@ UPDATE gossip_texts SET content_loc9='Non ho commesso errori.' WHERE entry=-3469
 UPDATE gossip_texts SET content_loc9='Hai perso la testa, Nefarius. Stai parlando ad indovinelli.' WHERE entry=-3469001;
 UPDATE gossip_texts SET content_loc9='Fallo perfavore.' WHERE entry=-3469002;
 UPDATE gossip_texts SET content_loc9='Non posso, Vaelastrasz! Si può fare sicuramente qualcosa per guarirti!' WHERE entry=-3469003;
-UPDATE gossip_texts SET content_loc9='Vaelastrasz, no!!!' WHERE entry=-3469004;
 UPDATE gossip_texts SET content_loc9='Scopriamolo.' WHERE entry=-3509000;
 UPDATE gossip_texts SET content_loc9='Vediamo che cosa hai.' WHERE entry=-3509001;
 
