@@ -4,6 +4,26 @@
             ADD COLUMN `subname_loc0` VARCHAR(100) NOT NULL DEFAULT '' AFTER `name_loc9`,
             ADD COLUMN `subname_loc9` VARCHAR(100) NOT NULL DEFAULT '' AFTER `subname_loc8`;
 
+        ALTER TABLE `creature_ai_texts`
+            ADD COLUMN `content_loc0` TEXT AFTER `content_default`,
+            ADD COLUMN `content_loc9` TEXT AFTER `content_loc8`;
+
+        ALTER TABLE `db_script_string`
+            ADD COLUMN `content_loc0` TEXT AFTER `content_default`,
+            ADD COLUMN `content_loc9` TEXT AFTER `content_loc8`;
+
+        ALTER TABLE `gossip_texts`
+            ADD COLUMN `content_loc0` TEXT AFTER `content_default`,
+            ADD COLUMN `content_loc9` TEXT AFTER `content_loc8`;
+
+        ALTER TABLE `mangos_string`
+            ADD COLUMN `content_loc0` TEXT AFTER `content_default`,
+            ADD COLUMN `content_loc9` TEXT AFTER `content_loc8`;
+
+        ALTER TABLE `script_texts`
+            ADD COLUMN `content_loc0` TEXT AFTER `content_default`,
+            ADD COLUMN `content_loc9` TEXT AFTER `content_loc8`;
+            
         ALTER TABLE `locales_item`
             ADD COLUMN `name_loc0` VARCHAR(100) NOT NULL DEFAULT '' AFTER `entry`,
             ADD COLUMN `name_loc9` VARCHAR(100) NOT NULL DEFAULT '' AFTER `name_loc8`,

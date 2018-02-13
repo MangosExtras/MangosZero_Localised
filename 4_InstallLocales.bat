@@ -263,214 +263,272 @@ goto done:
 
 :LoadFR
 echo  Loading French Locale into World Database %wdb%
-echo  .... Creatures
+echo  .... Creatures (1/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Creature.sql
-echo  .... Creature AI Texts
+echo  .... Creature AI Texts (2/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Creature_AI_Texts.sql
-echo  .... GameObjects
+echo  .... DB Script Strings (3/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_db_script_string.sql
+echo  .... GameObjects (4/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Gameobject.sql
-echo  .... Gossip_Menu_option
+echo  .... Gossip Texts (5/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Gossip_texts.sql
+echo  .... Gossip_Menu_option (6/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Gossip_Menu_option.sql
-echo  .... Items
+echo  .... Items (7/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Items.sql
-echo  .... Mangos String
+echo  .... Mangos String (8/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Mangos_String.sql
-echo  .... PageText
+echo  .... PageText (9/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_PageText.sql
-echo  .... Points of Interest
+echo  .... Points of Interest (10/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Points_of_interest.sql
-echo  .... Quests
+echo  .... Quests (11/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Quest.sql
-echo  .... Script Texts
+echo  .... Script Texts (12/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_Script_Texts.sql
+echo  .... NpcText (13/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\French\French_NpcText.sql
 goto WorldDB1:
 
 :LoadDE
 echo  Loading German Locale into World Database %wdb%
-echo  .... Creatures
+echo  .... Creatures (1/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Creature.sql
-echo  .... Creature AI Texts
+echo  .... Creature AI Texts (2/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Creature_ai_texts.sql
-echo  .... DB Script Strings
+echo  .... DB Script Strings (3/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_db_script_string.sql
-echo  .... GameObjects
+echo  .... GameObjects (4/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Gameobject.sql
-echo  .... Gossip Texts
+echo  .... Gossip Texts (5/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Gossip_texts.sql
-echo  .... Gossip_Menu_option
+echo  .... Gossip_Menu_option (6/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Gossip_Menu_option.sql
-echo  .... Items
+echo  .... Items (7/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Items.sql
-echo  .... Mangos String
+echo  .... Mangos String (8/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Mangos_String.sql
-echo  .... PageText
+echo  .... PageText (9/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_PageText.sql
-echo  .... Points of Interest
+echo  .... Points of Interest (10/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Points_of_interest.sql
-echo  .... Quests
+echo  .... Quests (11/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Quest.sql
-echo  .... Script Texts
+echo  .... Script Texts (12/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_Script_Texts.sql
+echo  .... NpcText (13/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\German\German_NpcText.sql
 goto WorldDB2:
 
 :LoadKO
 echo  Loading Korean Locale into World Database %wdb%
-echo  .... Creatures
+echo  .... Creatures (1/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Creature.sql
-echo  .... GameObjects
+echo  .... Creature AI Texts (2/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Creature_ai_texts.sql
+echo  .... DB Script Strings (3/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_db_script_string.sql
+echo  .... GameObjects (4/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Gameobject.sql
-echo  .... Gossip Menu Option
+echo  .... Gossip Texts (5/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Gossip_texts.sql
+echo  .... Gossip Menu Option (6/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Gossip_Menu_option.sql
-echo  .... Items
+echo  .... Items (7/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Items.sql
-echo  .... Mangos String
+echo  .... Mangos String (8/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Mangos_String.sql
-echo  .... PageText
+echo  .... PageText (9/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_PageText.sql
-echo  .... Points of Interest
+echo  .... Points of Interest (10/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Points_of_interest.sql
-echo  .... Script Texts
-%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Script_Texts.sql
-echo  .... Quests
+echo  .... Quests (11/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Quest.sql
+echo  .... Script Texts (12/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_Script_Texts.sql
+echo  .... NpcText (13/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Korean\Korean_NpcText.sql
 goto WorldDB3:
 
 :LoadCH
 echo  Loading Chinese Locale into World Database %wdb%
-echo  .... Creatures
+echo  .... Creatures (1/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Creature.sql
-echo  .... Creature AI Texts
-%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Creature_AI_Texts.sql
-echo  .... DB Script Strings
+echo  .... Creature AI Texts (2/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Creature_ai_texts.sql
+echo  .... DB Script Strings (3/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_db_script_string.sql
-echo  .... GameObjects
+echo  .... GameObjects (4/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Gameobject.sql
-echo  .... Gossip Menu Option
+echo  .... Gossip Texts (5/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Gossip_texts.sql
+echo  .... Gossip Menu Option (6/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Gossip_Menu_option.sql
-echo  .... Items
+echo  .... Items (7/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Items.sql
-echo  .... Mangos String
+echo  .... Mangos String (8/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Mangos_String.sql
-echo  .... NpcText
-%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_NpcText.sql
-echo  .... PageText
+echo  .... PageText (9/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_PageText.sql
-echo  .... Quests
+echo  .... Points of Interest (10/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Points_of_interest.sql
+echo  .... Quests (11/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Quest.sql
-echo  .... Script Texts
+echo  .... Script Texts (12/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_Script_Texts.sql
+echo  .... NpcText (13/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Chinese\Chinese_NpcText.sql
 goto WorldDB4:
 
 :LoadTW
 echo  Loading Taiwanese Locale into World Database %wdb%
-echo  .... Creatures
+echo  .... Creatures (1/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Creature.sql
-echo  .... GameObjects
+echo  .... Creature AI Texts (2/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Creature_ai_texts.sql
+echo  .... DB Script Strings (3/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_db_script_string.sql
+echo  .... GameObjects (4/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Gameobject.sql
-echo  .... Gossip Menu Option
+echo  .... Gossip Texts (5/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Gossip_texts.sql
+echo  .... Gossip Menu Option (6/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Gossip_Menu_option.sql
-echo  .... Items
+echo  .... Items (7/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Items.sql
-echo  .... Mangos String
+echo  .... Mangos String (8/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Mangos_String.sql
-echo  .... PageText
+echo  .... PageText (9/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_PageText.sql
-echo  .... Script Texts
-%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Script_Texts.sql
-echo  .... Quests
+echo  .... Points of Interest (10/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Points_of_interest.sql
+echo  .... Quests (11/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Quest.sql
+echo  .... Script Texts (12/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_Script_Texts.sql
+echo  .... NpcText (13/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Taiwanese\Taiwanese_NpcText.sql
 goto WorldDB5:
 
 :LoadES
 echo  Loading Spanish Locale into World Database %wdb%
-echo  .... Creatures
+echo  .... Creatures (1/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Creature.sql
-echo  .... GameObjects
+echo  .... Creature AI Texts (2/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Creature_ai_texts.sql
+echo  .... DB Script Strings (3/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_db_script_string.sql
+echo  .... GameObjects (4/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Gameobject.sql
-echo  .... Gossip Menu Option
+echo  .... Gossip Texts (5/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Gossip_texts.sql
+echo  .... Gossip Menu Option (6/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Gossip_Menu_Option.sql
-echo  .... Items
+echo  .... Items (7/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Items.sql
-echo  .... Mangos String
+echo  .... Mangos String (8/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Mangos_String.sql
-echo  .... PageText
+echo  .... PageText (9/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_PageText.sql
-echo  .... Points of Interest
+echo  .... Points of Interest (10/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Points_of_interest.sql
-echo  .... Quests
+echo  .... Quests (11/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Quest.sql
-echo  .... Script Texts
+echo  .... Script Texts (12/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_Script_Texts.sql
+echo  .... NpcText (13/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish\Spanish_NpcText.sql
 goto WorldDB6:
 
 :LoadMX
 echo  Loading Spanish (south American) Locale into World Database %wdb%
-echo  .... Creatures
+echo  .... Creatures (1/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Creature.sql
-echo  .... GameObjects
+echo  .... Creature AI Texts (2/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Creature_ai_texts.sql
+echo  .... DB Script Strings (3/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_db_script_string.sql
+echo  .... GameObjects (4/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Gameobject.sql
-echo  .... Gossip Menu Option
+echo  .... Gossip Texts (5/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Gossip_texts.sql
+echo  .... Gossip Menu Option (6/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Gossip_Menu_option.sql
-echo  .... Items
+echo  .... Items (7/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Items.sql
-echo  .... Mangos String
+echo  .... Mangos String (8/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Mangos_String.sql
-echo  .... PageText
+echo  .... PageText (9/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_PageText.sql
-echo  .... Points of Interest
+echo  .... Points of Interest (10/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Points_of_interest.sql
-echo  .... Quests
+echo  .... Quests (11/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Quest.sql
-echo  .... Script Texts
+echo  .... Script Texts (12/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_Script_Texts.sql
+echo  .... NpcText (13/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Spanish_South_American\SpanishSA_NpcText.sql
 goto WorldDB7:
 
 :LoadRU
 echo  Loading Russian Locale into World Database %wdb%
-echo  .... Creatures
+echo  .... Creatures (1/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Creature.sql
-echo  .... Creature AI Texts
+echo  .... Creature AI Texts (2/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Creature_AI_Texts.sql
-echo  .... DB Script Strings
+echo  .... DB Script Strings (3/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_db_script_string.sql
-echo  .... GameObjects
+echo  .... GameObjects (4/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Gameobject.sql
-echo  .... Gossip Menu Option
+echo  .... Gossip Texts (5/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Gossip_texts.sql
+echo  .... Gossip Menu Option (6/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Gossip_Menu_option.sql
-echo  .... Items
+echo  .... Items (7/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Items.sql
-echo  .... Mangos String
+echo  .... Mangos String (8/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Mangos_String.sql
-echo  .... PageText
+echo  .... PageText (9/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_PageText.sql
-echo  .... Points of Interest
+echo  .... Points of Interest (10/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Points_of_interest.sql
-echo  .... Quests
+echo  .... Quests (11/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Quest.sql
-echo  .... Script Texts
+echo  .... Script Texts (12/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_Script_Texts.sql
+echo  .... NpcText (13/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Russian\Russian_NpcText.sql
 goto WorldDB8:
 
 :LoadIT
 echo Loading Italian Locale into World Database %wdb%
-echo  .... Creatures
+echo  .... Creatures (1/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Creature.sql
-echo  .... GameObjects
+echo  .... Creature AI Texts (2/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Creature_AI_Texts.sql
+echo  .... DB Script Strings (3/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_db_script_string.sql
+echo  .... GameObjects (4/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Gameobject.sql
-echo  .... Gossip Menu Option
+echo  .... Gossip Texts (5/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Gossip_texts.sql
+echo  .... Gossip Menu Option (6/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Gossip_Menu_option.sql
-echo  .... Items
+echo  .... Items (7/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Items.sql
-echo  .... PageText
+echo  .... Mangos String (8/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Mangos_String.sql
+echo  .... PageText (9/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_PageText.sql
-echo  .... Points of Interest
+echo  .... Points of Interest (10/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Points_of_interest.sql
-REM echo  .... Script Texts
-REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Script_Texts.sql
-REM echo  .... Mangos String
-REM %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Mangos_String.sql
-echo  .... Quests
+echo  .... Quests (11/13)
 %mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Quest.sql
+echo  .... Script Texts (12/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_Script_Texts.sql
+echo  .... NpcText (13/13)
+%mysql%mysql -q -s -h %svr% --user=%user% --password=%pass% --port=%port% %wdb% < Translations\Italian\Italian_NpcText.sql
 goto done:
 
 :patherror
