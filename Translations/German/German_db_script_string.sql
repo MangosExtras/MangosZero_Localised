@@ -110,7 +110,6 @@ UPDATE db_script_string SET content_loc3='Ja, gnädige Frau, das Geschäft läuf
 UPDATE db_script_string SET content_loc3='Danke für den Käse!' WHERE entry=2000000157;
 UPDATE db_script_string SET content_loc3='Zeit, wieder zurück in den Laden zu gehen...' WHERE entry=2000000158;
 UPDATE db_script_string SET content_loc3='Ich bin zurück!' WHERE entry=2000000159;
-UPDATE db_script_string SET content_loc3='Ma reth bromo zoln kilagrin dra ma zoern tu ko fraht ka tadrom Ma krin drinor zaln dirnor Ma krin kan aasrugel korsul' WHERE entry=2000000160;
 UPDATE db_script_string SET content_loc3='Aaarrrrr!!' WHERE entry=2000000161;
 UPDATE db_script_string SET content_loc3='DUNKELHAIN... ICH HUNGER!!' WHERE entry=2000000162;
 UPDATE db_script_string SET content_loc3='Wildherzen Euch töten, wenn Ihr zurück kommt. Ihr hier nicht mehr willkommen!' WHERE entry=2000000163;
@@ -159,6 +158,7 @@ UPDATE db_script_string SET content_loc3='%s beschwört einen Boten...' WHERE en
 UPDATE db_script_string SET content_loc3='Geht mein Diener. Sendet die Worte der Steinkrallen zu Apothekerin Zamah.' WHERE entry=2000000213;
 UPDATE db_script_string SET content_loc3='%s übergibt Apothekerin Zamah eine Nachricht.' WHERE entry=2000000214;
 UPDATE db_script_string SET content_loc3='%s lächelt.' WHERE entry=2000000215;
+UPDATE db_script_string SET content_loc3='Nochmals danke, $N. Ich werde jetzt einfach hier warten, bis ich ungefährdet gehen kann.' WHERE entry=2000000237;
 UPDATE db_script_string SET content_loc3='Die Macht der Träne der Monde gehört jetzt mir! Mir ganz allein!' WHERE entry=2000000240;
 UPDATE db_script_string SET content_loc3='Macht! Glorreiche Macht!' WHERE entry=2000000242;
 UPDATE db_script_string SET content_loc3='Terenthis, Raene schickte mich, um Euch zu suchen. Die Schildwachen des Eschentals brauchen Hilfe.' WHERE entry=2000000260;
@@ -178,7 +178,11 @@ UPDATE db_script_string SET content_loc3='Eure Existenz wird zur Kenntnis genomm
 UPDATE db_script_string SET content_loc3='Verlasst diesen Ort. <Ein weiß glühender Flammenbogen geht von dem Relikt aus. Eine Erinnerung wurde erlangt: Ein einsamer Dunkeleisenzwerg kniet, von sieben Toten umgeben, vor einem Flammenmonolithen.>' WHERE entry=2000000358;
 UPDATE db_script_string SET content_loc3='Er kann nicht besiegt werden. <Das Relikt brennt nieder, bis nichts mehr übrig ist. Die Erinnerungen, die es enthielt, sind jetzt Eure eigenen. Diese Stadt wurde von einem Wesen zerstört, das nicht von dieser Welt ist.>' WHERE entry=2000000359;
 UPDATE db_script_string SET content_loc3='Besudelt diese Ruinen nicht, sterbliches Wesen. <Ihr werdet von einem grellen Lichtblitz eingehüllt. Eine Kreatur, die ganz aus Feuer besteht, ist der einzige Anblick, an den Ihr Euch erinnern könnt.>' WHERE entry=2000000360;
-UPDATE db_script_string SET content_loc3='Malfurion!' WHERE entry=2000000377;
+UPDATE db_script_string SET content_loc3='Bleibt in meiner Nähe, $N. Ich werde Euch beschützen, falls etwas schief geht.' WHERE entry=2000000376;
+UPDATE db_script_string SET content_loc3='Alles ist von schrecklichen Alpträumen durchzogen, Malfurion. Was geht im Smaragdgrünen Traum nur vor? Was könnte ihn derartig grausam verzerren?' WHERE entry=2000000379;
+UPDATE db_script_string SET content_loc3='Ich habe es auch gespürt, Malfurion. Dunkle Zeiten werfen ihre Schatten voraus.' WHERE entry=2000000381;
+UPDATE db_script_string SET content_loc3='Lebt wohl, alter Freund... Lebt wohl...' WHERE entry=2000000386;
+UPDATE db_script_string SET content_loc3='Lasst uns zum Hain zurückkehren, Sterblicher.' WHERE entry=2000000387;
 UPDATE db_script_string SET content_loc3='Hallo, Selarin. Ich kann Euch momentan leider nicht helfen, aber vielleicht können es einige der Abenteurer hier in Auberdine...' WHERE entry=2000000395;
 UPDATE db_script_string SET content_loc3='Habt Dank, Terenthis. Ich werde hier bleiben, solange ich kann.' WHERE entry=2000000396;
 UPDATE db_script_string SET content_loc3='Hoffentlich kann ich eine würdige Unterstützung schicken, um dem Eschental und den Schildwachen zu helfen.' WHERE entry=2000000397;
@@ -200,7 +204,7 @@ UPDATE db_script_string SET content_loc3='Oh ja, die abgestreifte Drachenhaut: v
 UPDATE db_script_string SET content_loc3='Die Schwarzfelslegion naht, ihr Winzlinge! Die Erde wird brennen und der Himmel in Flammen stehen. Niemand wird überleben!' WHERE entry=2000000536;
 UPDATE db_script_string SET content_loc3='Mal sehen... Wenn ich Recht habe, dann... Hmmm...' WHERE entry=2000000540;
 UPDATE db_script_string SET content_loc3='Blau plus rot... Ich würde mal sagen...' WHERE entry=2000000541;
-UPDATE db_script_string SET content_loc3='$n, das ist es! Endlich weiß ich Bescheid!' WHERE entry=2000000542;
+UPDATE db_script_string SET content_loc3='$N, das ist es! Endlich weiß ich Bescheid!' WHERE entry=2000000542;
 UPDATE db_script_string SET content_loc3='Boah! So hatten wir nicht gewettet. Nee, nee, jetzt seid Ihr auf Euch allein gestellt, Slim!' WHERE entry=2000000602;
 UPDATE db_script_string SET content_loc3='%s löst ihre Umklammerung des Tagebuchs.' WHERE entry=2000000612;
 UPDATE db_script_string SET content_loc3='Auf die Plätze. Fertig. LOS!' WHERE entry=2000000613;
@@ -372,7 +376,7 @@ UPDATE db_script_string SET content_loc3='Ich kann diese Steuern nicht annehmen!
 UPDATE db_script_string SET content_loc3='KEINER WIRD AN MIR VORBEIKOMMEN' WHERE entry=2000005235;
 UPDATE db_script_string SET content_loc3='ICH SPÜRE DEN TOT KOMMEN' WHERE entry=2000005236;
 UPDATE db_script_string SET content_loc3='Seid Zeugen der unleugbaren Macht eures Kriegshäuptlings! Lasst den Siegesschrei der Drachentöter eure Herzen höher schlagen!' WHERE entry=2000005237;
-UPDATE db_script_string SET content_loc3='Bürger und Verbündete Sturmwinds, am heutigen Tage ist Geschichte geschrieben worden. $n hat dem ein Ende gemacht, was beinahe die Herrschaft des Königreichs untergraben hätte! Versammelt Euch und ehrt gemeinsam mit mir unseren Helden.' WHERE entry=2000005238;
+UPDATE db_script_string SET content_loc3='Bürger und Verbündete Sturmwinds, am heutigen Tage ist Geschichte geschrieben worden. $N hat dem ein Ende gemacht, was beinahe die Herrschaft des Königreichs untergraben hätte! Versammelt Euch und ehrt gemeinsam mit mir unseren Helden.' WHERE entry=2000005238;
 UPDATE db_script_string SET content_loc3='Seht die Macht der Allianz! Die schreckliche Lady Onyxia baumelt leblos von den Torbögen! Lasst den Siegesschrei des Drachentöters eure Herzen höher schlagen!' WHERE entry=2000005239;
 UPDATE db_script_string SET content_loc3='Die Anzahl meiner Gefährten schwindet, Göttin, und meine eigene Macht wird bald nicht mehr ausreichen, die Dämonen des Teufelswaldes zurückzuhalten.' WHERE entry=2000005240;
 UPDATE db_script_string SET content_loc3='Göttin, gewähre mir die Stärke, meine Feinde zu besiegen! Hör mich bitte an, ich bin verzweifelt in meiner Not und meine Sache ist gerecht!' WHERE entry=2000005241;
@@ -430,7 +434,7 @@ UPDATE db_script_string SET content_loc3='Verfolgt mich, wenn Ihr wollt! Rennt, 
 UPDATE db_script_string SET content_loc3='Warum würdet Ihr mir je schaden wollen? Komm! Freunde könnten wir sein!' WHERE entry=2000005462;
 UPDATE db_script_string SET content_loc3='STIRB! Du bringst Pusillin zum Weinen!' WHERE entry=2000005463;
 UPDATE db_script_string SET content_loc3='Sagt \'Hallo!\' zu meinen kleinen Freunden!' WHERE entry=2000005464;
-UPDATE db_script_string SET content_loc3='Bitte werft einen Blick auf diese Schlangenstrunkranke, die ich in der Höhle gepflückt habe, damit Ihr wisst, wonach Ihr suchen müsst, $n...' WHERE entry=2000005465;
+UPDATE db_script_string SET content_loc3='Bitte werft einen Blick auf diese Schlangenstrunkranke, die ich in der Höhle gepflückt habe, damit Ihr wisst, wonach Ihr suchen müsst, $N...' WHERE entry=2000005465;
 UPDATE db_script_string SET content_loc3='Gut, ich bin so weit!' WHERE entry=2000005548;
 UPDATE db_script_string SET content_loc3='Gehen wir weiter!' WHERE entry=2000005553;
 UPDATE db_script_string SET content_loc3='Niemand stiehlt die Geheimnisse der Schöpfer!' WHERE entry=2000005555;
@@ -444,11 +448,10 @@ UPDATE db_script_string SET content_loc3='Alle Mann auf Kampfposition! Naga im A
 UPDATE db_script_string SET content_loc3='Wenn wir sie jetzt festhalten können, dann haben wir es fast geschafft.' WHERE entry=2000005633;
 UPDATE db_script_string SET content_loc3='Ihr möchtet etwas über den Stein erfahren? Folgt mir.' WHERE entry=2000005646;
 UPDATE db_script_string SET content_loc3='Viel zu lange musste ich in verfluchter Form umherwandeln. Ihr habt mich befreit... Eure harte Arbeit soll Euch vergolten werden.' WHERE entry=2000005647;
-UPDATE db_script_string SET content_loc3='Bitte richtet Euch nach meinen Anweisungen, $n.' WHERE entry=2000005648;
+UPDATE db_script_string SET content_loc3='Bitte richtet Euch nach meinen Anweisungen, $N.' WHERE entry=2000005648;
 UPDATE db_script_string SET content_loc3='Lest diesen Folianten, den ich Euch hingelegt habe, und sprecht die Worte laut vor Euch hin.' WHERE entry=2000005649;
 UPDATE db_script_string SET content_loc3='%s beginnt, seine Energie zu kanalisieren und auf den Stein zu konzentrieren.' WHERE entry=2000005650;
 UPDATE db_script_string SET content_loc3='Zusammengefügt werden die Teile bald wieder ein Ganzes sein.' WHERE entry=2000005651;
-UPDATE db_script_string SET content_loc3='Shal myrinan ishnu daldorah...' WHERE entry=2000005652;
 UPDATE db_script_string SET content_loc3='Mein Szepter wird wieder heil sein!' WHERE entry=2000005653;
 UPDATE db_script_string SET content_loc3='%s wählt den Orc, das Ziel, aus...' WHERE entry=2000005730;
 UPDATE db_script_string SET content_loc3='%s verfehlt...' WHERE entry=2000005731;
@@ -476,6 +479,6 @@ UPDATE db_script_string SET content_loc3='Wir müssen uns beeilen.' WHERE entry=
 UPDATE db_script_string SET content_loc3='Geister des Waldes, kommt hervor und folgt dem Ruf der Natur!' WHERE entry=2000005781;
 UPDATE db_script_string SET content_loc3='Geister des Waldes, ihr werdet gebraucht! Eilt zum verbrannten Tal!' WHERE entry=2000005782;
 UPDATE db_script_string SET content_loc3='%s fällt in Trance...' WHERE entry=2000005800;
-UPDATE db_script_string SET content_loc3='Das Wasser der Seher steht für Euch zum Trinken bereit, $n.' WHERE entry=2000005803;
+UPDATE db_script_string SET content_loc3='Das Wasser der Seher steht für Euch zum Trinken bereit, $N.' WHERE entry=2000005803;
 
 SET NAMES 'latin1';

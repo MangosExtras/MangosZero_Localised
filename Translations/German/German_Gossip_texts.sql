@@ -6,7 +6,7 @@ UPDATE gossip_texts SET content_loc3='Wohin würdet Ihr gerne fliegen?' WHERE en
 UPDATE gossip_texts SET content_loc3='Ich bin bereit, ebenso wie meine Streitkräfte. Lasst uns diese Maskerade beenden!' WHERE entry=-3000107;
 UPDATE gossip_texts SET content_loc3='Habt Ihr einen Moment Zeit für mich, mein Herr?' WHERE entry=-3000108;
 UPDATE gossip_texts SET content_loc3='Ich bin bereit, Oronok. Lasst uns Cyrukh zerstören und die Elemente befreien!' WHERE entry=-3000109;
-UPDATE gossip_texts SET content_loc3='Warum ... ja, natürlich, ich habe dir etwas zu zeigen, Mr. Anvilward.' WHERE entry=-3000110;
+UPDATE gossip_texts SET content_loc3='Warum... ja, natürlich. Ich möchte Euch etwas zeigen, hier, in diesem Gebäude dort, Meister Ambossel.' WHERE entry=-3000110;
 UPDATE gossip_texts SET content_loc3='Dreht den Schlüssel, um die Maschine zu starten.' WHERE entry=-3000111;
 UPDATE gossip_texts SET content_loc3='Öffnet bitte die Tür zum Hof.' WHERE entry=-3033000;
 UPDATE gossip_texts SET content_loc3='Lasst das Ereignis beginnen!' WHERE entry=-3043000;

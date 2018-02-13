@@ -83,7 +83,6 @@ UPDATE creature_ai_texts SET content_loc3='Hättet Ihr \'ne Münze übrig?' WHER
 UPDATE creature_ai_texts SET content_loc3='Ich habe eine spezielle Nachricht für $N. Und diese besagt, das Ihr sterben müsst!' WHERE entry=-209;
 UPDATE creature_ai_texts SET content_loc3='Ich werde Ihn liefern, zum Leben nach dem Tode, schwacher $C!' WHERE entry=-210;
 UPDATE creature_ai_texts SET content_loc3='Stirb im Namen von Edwin Van Cleef!' WHERE entry=-211;
-UPDATE creature_ai_texts SET content_loc3='Aaaahhhhhh!' WHERE entry=-212;
 UPDATE creature_ai_texts SET content_loc3='Zermalmen!' WHERE entry=-213;
 UPDATE creature_ai_texts SET content_loc3='TÖTEN!' WHERE entry=-214;
 UPDATE creature_ai_texts SET content_loc3='Zerstören!' WHERE entry=-215;
@@ -116,7 +115,6 @@ UPDATE creature_ai_texts SET content_loc3='König Magni Bronzebart ist ein Narr 
 UPDATE creature_ai_texts SET content_loc3='Der Thandolübergang ist in die Hände von Ragnaros gefallen. So soll es auch mit dem Steinwerkdamm geschehen!' WHERE entry=-363;
 UPDATE creature_ai_texts SET content_loc3='Wahaha! Ich nehme Euch mit ins Verderben!' WHERE entry=-364;
 UPDATE creature_ai_texts SET content_loc3='Langsam habe ich diesen Unsinn satt! Gleich seid Ihr tot!' WHERE entry=-365;
-UPDATE creature_ai_texts SET content_loc3='ARRRRRRR!' WHERE entry=-366;
 UPDATE creature_ai_texts SET content_loc3='Huh? Was\'n das?' WHERE entry=-367;
 UPDATE creature_ai_texts SET content_loc3='Da $R sieht lecka aus!' WHERE entry=-368;
 UPDATE creature_ai_texts SET content_loc3='Verprügeln!' WHERE entry=-369;
@@ -268,7 +266,7 @@ UPDATE creature_ai_texts SET content_loc3='Ihr seid eine kleine Mücke für die 
 UPDATE creature_ai_texts SET content_loc3='Nein! Ihr könnt doch nicht stärker sein als die Fäulnisklauen! Nein!' WHERE entry=-827;
 UPDATE creature_ai_texts SET content_loc3='%s greift Karangs Banner an!' WHERE entry=-828;
 UPDATE creature_ai_texts SET content_loc3='%s attackiert!' WHERE entry=-829;
-UPDATE creature_ai_texts SET content_loc3='Für Euch gibt es keine Fluchtmöglichkeiten. Der Kreuzzug wird alle vernichten, die die Besudelung der Geißel tragen.' WHERE entry=-895;
+UPDATE creature_ai_texts SET content_loc3='Für Euch gibt es keine Fluchtmöglichkeit. Der Kreuzzug wird alle vernichten, die die Besudelung der Geißel tragen.' WHERE entry=-895;
 UPDATE creature_ai_texts SET content_loc3='Ihr tragt die Besudelung der Geißel. Macht Euch bereit, den Sog des Nethers zu betreten.' WHERE entry=-896;
 UPDATE creature_ai_texts SET content_loc3='Das Licht verdammt jeden, der Böses im Schilde führt. Ihr werdet jetzt sterben!' WHERE entry=-897;
 UPDATE creature_ai_texts SET content_loc3='Ich wette, dass das weitere Agenten des Syndikats sind! Ihr werdet Alterac niemals zurückbekommen... und Süderstade auch nicht!' WHERE entry=-924;
@@ -354,7 +352,6 @@ UPDATE creature_ai_texts SET content_loc3='Könnt ihr fliegen?' WHERE entry=-116
 UPDATE creature_ai_texts SET content_loc3='Eine angemessene Strafe!' WHERE entry=-1161;
 UPDATE creature_ai_texts SET content_loc3='Imperator Thaurissan möchte nicht gestört werden! Kehrt um oder seht Eurem Untergang ins Auge, sterbliche Wesen!' WHERE entry=-1194;
 UPDATE creature_ai_texts SET content_loc3='Gleich bekommt Ihr es mit Malown zu tun!' WHERE entry=-1195;
-UPDATE creature_ai_texts SET content_loc3='TIMMY!' WHERE entry=-1197;
 UPDATE creature_ai_texts SET content_loc3='Erzählt mir... erzählt mir alles!' WHERE entry=-1198;
 UPDATE creature_ai_texts SET content_loc3='Garstige Geheimnisse!' WHERE entry=-1199;
 UPDATE creature_ai_texts SET content_loc3='Ich entreiße Eure Geheimnisse Eurem Fleisch!' WHERE entry=-1200;
@@ -368,7 +365,7 @@ UPDATE creature_ai_texts SET content_loc3='Zu ... einfach!' WHERE entry=-1225;
 UPDATE creature_ai_texts SET content_loc3='Oh, jetzt habt Ihr mich wütend gemacht! Es ist an der Zeit, die wahre Macht des Steins der Gezeiten zu erkennen!' WHERE entry=-1226;
 UPDATE creature_ai_texts SET content_loc3='Die Macht des Lichts ist wahrhaftig bedeutend und barmherzig.' WHERE entry=-1296;
 UPDATE creature_ai_texts SET content_loc3='Wir werden bald wieder vereint sein, meine Liebe...' WHERE entry=-1297;
-UPDATE creature_ai_texts SET content_loc3='$g Fremder:Fremde;, findet den gefallenen Prinz Menethil und beendet seine Schreckensherrschaft.' WHERE entry=-1299;
+UPDATE creature_ai_texts SET content_loc3='$G Fremder:Fremde;, findet den gefallenen Prinz Menethil und beendet seine Schreckensherrschaft.' WHERE entry=-1299;
 UPDATE creature_ai_texts SET content_loc3='Sollte ich dies hier überleben, dann möge die Zerstörung Arthas mein einziges Bestreben sein...' WHERE entry=-1300;
 UPDATE creature_ai_texts SET content_loc3='Ich werde es nicht schaffen... geht... geht ohne mich weiter...' WHERE entry=-1301;
 UPDATE creature_ai_texts SET content_loc3='Der Tod überkommt mich! Ich kann nicht mehr weitermachen! Mir bleibt nichts mehr...' WHERE entry=-1302;
