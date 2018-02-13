@@ -6,7 +6,7 @@ UPDATE gossip_texts SET content_loc1='치안대장 윈저 님께 준비가 됐�
 UPDATE gossip_texts SET content_loc1='저와 제 동료 모두 준비가 됐습니다. 어서 이 가장무도회를 끝장내도록 하죠!' WHERE entry=-3000107;
 UPDATE gossip_texts SET content_loc1='잠시만 얘기를 나누고 싶어요.' WHERE entry=-3000108;
 UPDATE gossip_texts SET content_loc1='준비됐습니다, 오로노크. 사이루크를 해치우고 정령들을 풀어줍시다!' WHERE entry=-3000109;
-UPDATE gossip_texts SET content_loc1='왜 ... 그래, 당연하지.이 건물 안쪽에 너를 보여줄 게있어, Anvilward.' WHERE entry=-3000110;
+UPDATE gossip_texts SET content_loc1='그럼요. 물론이죠. 바로 이 건물 안에 당신에게 보여드릴 것이 있어요, 앤빌워드 씨.' WHERE entry=-3000110;
 UPDATE gossip_texts SET content_loc1='열쇠를 돌려 기계를 작동합니다.' WHERE entry=-3000111;
 UPDATE gossip_texts SET content_loc1='안마당 문을 열어주십시오.' WHERE entry=-3033000;
 UPDATE gossip_texts SET content_loc1='의식을 시작하겠소!' WHERE entry=-3043000;
