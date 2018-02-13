@@ -6,7 +6,7 @@ UPDATE gossip_texts SET content_loc6='Haz saber al mariscal Windsor que ya estoy
 UPDATE gossip_texts SET content_loc6='Estoy lista; y también lo están mis tropas. ¡Acabemos con esta farsa!' WHERE entry=-3000107;
 UPDATE gossip_texts SET content_loc6='Necesito un momento de su tiempo, señor.' WHERE entry=-3000108;
 UPDATE gossip_texts SET content_loc6='Estoy preparada, Oronok. ¡Destruyamos a Cyrukh y liberemos los elementos!' WHERE entry=-3000109;
-UPDATE gossip_texts SET content_loc6='Por qué ... sí, por supuesto. Tengo algo que mostrarle dentro de este edificio, Sr. Anvilward.' WHERE entry=-3000110;
+UPDATE gossip_texts SET content_loc6='Vaya... sí, por supuesto. Tengo algo que mostrarle dentro de ese edificio, Prospector Guardayunque.' WHERE entry=-3000110;
 UPDATE gossip_texts SET content_loc6='Gira la llave para poner en marcha la máquina.' WHERE entry=-3000111;
 UPDATE gossip_texts SET content_loc6='Por favor, abre la cerradura de la puerta del patio.' WHERE entry=-3033000;
 UPDATE gossip_texts SET content_loc6='¡Que empiece la sesión!' WHERE entry=-3043000;
