@@ -5,12 +5,14 @@ UPDATE gossip_texts SET content_loc4='请转告温德索尔元帅我已准备就
 UPDATE gossip_texts SET content_loc4='我准备好了，我的军队也整装待命。让我们结束这次假面舞会吧！' WHERE entry=-3000107;
 UPDATE gossip_texts SET content_loc4='我需要占用一点你的时间，先生。' WHERE entry=-3000108;
 UPDATE gossip_texts SET content_loc4='我准备好了，欧鲁诺克。让我们消灭森卢肯，解救这些元素吧！' WHERE entry=-3000109;
+UPDATE gossip_texts SET content_loc4='啊……是的，当然。不过首先我在这间房子里准备了一些东西要让你看看，安威瓦尔德先生。' WHERE entry=-3000110;
 UPDATE gossip_texts SET content_loc4='转动钥匙，启动了机器。' WHERE entry=-3000111;
 UPDATE gossip_texts SET content_loc4='请打开庭院的大门。' WHERE entry=-3033000;
 UPDATE gossip_texts SET content_loc4='活动开始了！' WHERE entry=-3043000;
 UPDATE gossip_texts SET content_loc4='我准备好了。' WHERE entry=-3090000;
 UPDATE gossip_texts SET content_loc4='你自由了，杜格哈尔！快出去！' WHERE entry=-3230000;
 UPDATE gossip_texts SET content_loc4='出去吧，图比亚斯，你自由了！' WHERE entry=-3230001;
+UPDATE gossip_texts SET content_loc4='你的束缚结束了，杜姆雷尔。我挑战你！' WHERE entry=-3230002;
 UPDATE gossip_texts SET content_loc4='为什么你跟罗克诺特不去找个二人天地呢……' WHERE entry=-3230003;
 UPDATE gossip_texts SET content_loc4='告诉我更多。' WHERE entry=-3409000;
 UPDATE gossip_texts SET content_loc4='你还想说什么？' WHERE entry=-3409001;
