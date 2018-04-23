@@ -3107,6 +3107,7 @@ UPDATE locales_creature SET name_loc2='Mousse de la Voile sanglante' WHERE entry
 UPDATE locales_creature SET name_loc2='[DEPRECATED 4.x]Daisy',subname_loc2='Fille au départ de la course' WHERE entry=4507;
 UPDATE locales_creature SET name_loc2='Willix l\'Importateur' WHERE entry=4508;
 UPDATE locales_creature SET name_loc2='Heralath Ruissefriche' WHERE entry=4510;
+UPDATE locales_creature SET name_loc2='Larme silencieuse d\'Agamaggan' WHERE entry=4511;
 UPDATE locales_creature SET name_loc2='Agam\'ar décrépi' WHERE entry=4512;
 UPDATE locales_creature SET name_loc2='Agam\'ar déchaîné' WHERE entry=4514;
 UPDATE locales_creature SET name_loc2='Acolyte de la Tête de Mort' WHERE entry=4515;
@@ -7913,7 +7914,7 @@ UPDATE locales_creature SET name_loc2='Temma des Puits' WHERE entry=16008;
 UPDATE locales_creature SET name_loc2='Tormek Rivepierre' WHERE entry=16009;
 UPDATE locales_creature SET name_loc2='Horreb' WHERE entry=16011;
 UPDATE locales_creature SET name_loc2='Mux Brouillemana' WHERE entry=16014;
-UPDATE locales_creature SET name_loc2='',subname_loc2='Marchand de réactifs exotiques' WHERE entry=16015;
+UPDATE locales_creature SET name_loc2='Martelet du gladiateur vicieux',subname_loc2='Marchand de réactifs exotiques' WHERE entry=16015;
 UPDATE locales_creature SET name_loc2='Golem recousu' WHERE entry=16017;
 UPDATE locales_creature SET name_loc2='Vomisseur de bile' WHERE entry=16018;
 UPDATE locales_creature SET name_loc2='Savant fou' WHERE entry=16020;

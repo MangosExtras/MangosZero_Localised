@@ -101,7 +101,6 @@ UPDATE trans_words SET content_loc2='ArenaGate02' WHERE word_id = 115143;
 UPDATE trans_words SET content_loc2='ArenaGate04' WHERE word_id = 115144;
 UPDATE trans_words SET content_loc2='ArenaGate03' WHERE word_id = 115145;
 UPDATE trans_words SET content_loc2='ArenaGate01' WHERE word_id = 115146;
-UPDATE trans_words SET content_loc2='Samophlange' WHERE word_id = 11947;
 UPDATE trans_words SET content_loc2='Doodad_PortcullisActive01' WHERE word_id = 115156;
 UPDATE trans_words SET content_loc2='Aura 1 - Linken' WHERE word_id = 115160;
 UPDATE trans_words SET content_loc2='Aura 2 - Linken' WHERE word_id = 115161;
