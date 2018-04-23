@@ -3424,6 +3424,7 @@ UPDATE locales_creature SET name_loc1='[4.x 미사용]데이지',subname_loc1='�
 UPDATE locales_creature SET name_loc1='수입업자 윌릭스' WHERE entry=4508;
 UPDATE locales_creature SET name_loc1='사르가스' WHERE entry=4509;
 UPDATE locales_creature SET name_loc1='헤랄라스 팰로우브룩' WHERE entry=4510;
+UPDATE locales_creature SET name_loc1='아감마간의 소리 없는 눈물' WHERE entry=4511;
 UPDATE locales_creature SET name_loc1='썩어가는 아가마르' WHERE entry=4512;
 UPDATE locales_creature SET name_loc1='흉포한 아가마르' WHERE entry=4514;
 UPDATE locales_creature SET name_loc1='죽음의 머리교 수행사제' WHERE entry=4515;
@@ -8771,7 +8772,7 @@ UPDATE locales_creature SET name_loc1='로데브' WHERE entry=16011;
 UPDATE locales_creature SET name_loc1='모크바르' WHERE entry=16012;
 UPDATE locales_creature SET name_loc1='델리아나' WHERE entry=16013;
 UPDATE locales_creature SET name_loc1='먹스 마나스크램블러' WHERE entry=16014;
-UPDATE locales_creature SET name_loc1='',subname_loc1='진귀한 마법 재료 상인' WHERE entry=16015;
+UPDATE locales_creature SET name_loc1='흉포한 검투사의 망치',subname_loc1='진귀한 마법 재료 상인' WHERE entry=16015;
 UPDATE locales_creature SET name_loc1='안시온 하몬' WHERE entry=16016;
 UPDATE locales_creature SET name_loc1='기워 붙인 누더기골렘' WHERE entry=16017;
 UPDATE locales_creature SET name_loc1='부패의 역병골렘' WHERE entry=16018;
