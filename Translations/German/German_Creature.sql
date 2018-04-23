@@ -3109,6 +3109,7 @@ UPDATE locales_creature SET name_loc3='Deckhelfer der Blutsegelbukaniere' WHERE 
 UPDATE locales_creature SET name_loc3='',subname_loc3='Rennstartermädchen' WHERE entry=4507;
 UPDATE locales_creature SET name_loc3='Willix der Importeur' WHERE entry=4508;
 UPDATE locales_creature SET name_loc3='Heralath Bachquell' WHERE entry=4510;
+UPDATE locales_creature SET name_loc3='Agamaggans stille Träne' WHERE entry=4511;
 UPDATE locales_creature SET name_loc3='Faulender Agam\'ar' WHERE entry=4512;
 UPDATE locales_creature SET name_loc3='Tobender Agam\'ar' WHERE entry=4514;
 UPDATE locales_creature SET name_loc3='Akolyth der Totenköpfe' WHERE entry=4515;
@@ -7907,7 +7908,7 @@ UPDATE locales_creature SET name_loc3='Orok Totenbann' WHERE entry=16007;
 UPDATE locales_creature SET name_loc3='Temma von den Quellen' WHERE entry=16008;
 UPDATE locales_creature SET name_loc3='Tormek Bergstrom' WHERE entry=16009;
 UPDATE locales_creature SET name_loc3='Mux Manamix' WHERE entry=16014;
-UPDATE locales_creature SET name_loc3='',subname_loc3='Händler für exotische Reagenzien' WHERE entry=16015;
+UPDATE locales_creature SET name_loc3='Hammer des boshaften Gladiators',subname_loc3='Händler für exotische Reagenzien' WHERE entry=16015;
 UPDATE locales_creature SET name_loc3='Flickwerkgolem' WHERE entry=16017;
 UPDATE locales_creature SET name_loc3='Gallwürger' WHERE entry=16018;
 UPDATE locales_creature SET name_loc3='Verrückter Wissenschaftler' WHERE entry=16020;
