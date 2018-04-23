@@ -26,7 +26,6 @@ UPDATE trans_words SET content_loc9='%s hugs her father.' WHERE word_id = 22;
 UPDATE trans_words SET content_loc9='Thank you for agreeing to help. Now, let\'s get out of here $N.' WHERE word_id = 23;
 UPDATE trans_words SET content_loc9='Over there! They\'re following us!' WHERE word_id = 24;
 UPDATE trans_words SET content_loc9='Allow me a moment to rest. The journey taxes what little strength I have.' WHERE word_id = 25;
-UPDATE trans_words SET content_loc9='Did you hear something?' WHERE word_id = 26;
 UPDATE trans_words SET content_loc9='Falcon Watch, at last! Now, where\'s my... Oh no! My pack, it\'s missing! Where has -' WHERE word_id = 27;
 UPDATE trans_words SET content_loc9='You won\'t keep me from getting to Falcon Watch!' WHERE word_id = 28;
 UPDATE trans_words SET content_loc9='Ready when you are, $C.' WHERE word_id = 29;
@@ -372,7 +371,6 @@ UPDATE trans_words SET content_loc9='Ride the lightning, filth!' WHERE word_id =
 UPDATE trans_words SET content_loc9='FROST SHOCK!!!' WHERE word_id = 379;
 UPDATE trans_words SET content_loc9='It is best that we split up now, in case they send more after us. Hopefully one of us will make it back to Garrosh. Farewell stranger.' WHERE word_id = 380;
 UPDATE trans_words SET content_loc9='Show our guest around Shattrath, will you? Keep an eye out for pickpockets in the lower city.' WHERE word_id = 381;
-UPDATE trans_words SET content_loc9='A newcomer to Shattrath! Make sure to drop by later. We can always use a hand with the injured.' WHERE word_id = 382;
 UPDATE trans_words SET content_loc9='Be mindful of what you say, this one\'s being shown around by Khadgar\'s pet.' WHERE word_id = 383;
 UPDATE trans_words SET content_loc9='Are you joking? I\'m a Scryer, I always watch what i say. More enemies than allies in this city, it seems.' WHERE word_id = 384;
 UPDATE trans_words SET content_loc9='Light be with you, $N. And welcome to Shattrath.' WHERE word_id = 385;
@@ -665,8 +663,6 @@ UPDATE trans_words SET content_loc9='Light be with you, sir.' WHERE word_id = 67
 UPDATE trans_words SET content_loc9='We are but dirt beneath your feet, sir.' WHERE word_id = 677;
 UPDATE trans_words SET content_loc9='...nerves of thorium.' WHERE word_id = 678;
 UPDATE trans_words SET content_loc9='Make way!' WHERE word_id = 679;
-UPDATE trans_words SET content_loc9='A living legend...' WHERE word_id = 680;
-UPDATE trans_words SET content_loc9='A moment I shall remember for always.' WHERE word_id = 681;
 UPDATE trans_words SET content_loc9='You are an inspiration to us all, sir.' WHERE word_id = 682;
 UPDATE trans_words SET content_loc9='Be brave, friends. The reptile will thrash wildly. It is an act of desperation. When you are ready, give me the word.' WHERE word_id = 683;
 UPDATE trans_words SET content_loc9='Majesty, run while you still can. She is not what you think her to be...' WHERE word_id = 685;
@@ -708,7 +704,6 @@ UPDATE trans_words SET content_loc9='You, soldier, report back to Kargath at onc
 UPDATE trans_words SET content_loc9='%s submits.' WHERE word_id = 722;
 UPDATE trans_words SET content_loc9='You have come to play? Then let us play!' WHERE word_id = 723;
 UPDATE trans_words SET content_loc9='Beware $N! Look to the west!' WHERE word_id = 724;
-UPDATE trans_words SET content_loc9='A defender has fallen!' WHERE word_id = 725;
 UPDATE trans_words SET content_loc9='Kolkar invaders are retreating!' WHERE word_id = 726;
 UPDATE trans_words SET content_loc9='Kolkar are the strongest!' WHERE word_id = 727;
 UPDATE trans_words SET content_loc9='Defend the bunkers!' WHERE word_id = 729;
@@ -822,7 +817,6 @@ UPDATE trans_words SET content_loc9='The charges are set. Get back before they b
 UPDATE trans_words SET content_loc9='Incoming blast in 10 seconds!' WHERE word_id = 822;
 UPDATE trans_words SET content_loc9='Incoming blast in 5 seconds. Clear the tunnel! Stay back!' WHERE word_id = 823;
 UPDATE trans_words SET content_loc9='Well done! Without your help I would have never been able to thwart that wave of troggs.' WHERE word_id = 825;
-UPDATE trans_words SET content_loc9='Did you hear something?' WHERE word_id = 26;
 UPDATE trans_words SET content_loc9='I heard something over there.' WHERE word_id = 826;
 UPDATE trans_words SET content_loc9='More troggs! Ward them off as I prepare the explosives!' WHERE word_id = 827;
 UPDATE trans_words SET content_loc9='The final charge is set. Stand back!' WHERE word_id = 828;
@@ -974,7 +968,6 @@ UPDATE trans_words SET content_loc9='Feast on $N, my pretties!' WHERE word_id = 
 UPDATE trans_words SET content_loc9='At last, I am free of the Soulflayer!' WHERE word_id = 949;
 UPDATE trans_words SET content_loc9='Welcome to da great show friends! Step right up to die!' WHERE word_id = 950;
 UPDATE trans_words SET content_loc9='I\'ll feed your souls to Hakkar himself!' WHERE word_id = 951;
-UPDATE trans_words SET content_loc9='DING!' WHERE word_id = 952;
 UPDATE trans_words SET content_loc9='GRATS!' WHERE word_id = 953;
 UPDATE trans_words SET content_loc9='$N! I\'m watching you!' WHERE word_id = 954;
 UPDATE trans_words SET content_loc9='Don\'t make me angry. You won\'t like it when I\'m angry.' WHERE word_id = 955;
@@ -1266,7 +1259,6 @@ UPDATE trans_words SET content_loc9='%s summons forth Skeletal Warriors!' WHERE 
 UPDATE trans_words SET content_loc9='%s raises more skeletons!' WHERE word_id = 1249;
 UPDATE trans_words SET content_loc9='%s teleports to the balcony above!' WHERE word_id = 1250;
 UPDATE trans_words SET content_loc9='%s teleports back into the battle!' WHERE word_id = 1251;
-UPDATE trans_words SET content_loc9='A Guardian of Icecrown enters the fight!' WHERE word_id = 1252;
 UPDATE trans_words SET content_loc9='%s strikes!' WHERE word_id = 1253;
 UPDATE trans_words SET content_loc9='%s teleports and begins to channel a spell!' WHERE word_id = 1254;
 UPDATE trans_words SET content_loc9='%s rushes to attack once more!' WHERE word_id = 1255;

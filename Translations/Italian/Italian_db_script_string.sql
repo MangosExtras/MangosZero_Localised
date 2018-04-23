@@ -11,5 +11,7 @@ UPDATE db_script_string SET content_loc9='Sì?' WHERE entry=2000000792;
 UPDATE db_script_string SET content_loc9='Davvero?' WHERE entry=2000005124;
 UPDATE db_script_string SET content_loc9='Davvero?' WHERE entry=2000005127;
 UPDATE db_script_string SET content_loc9='Davvero?' WHERE entry=2000005131;
+UPDATE db_script_string SET content_loc9='Scavare troppo in profondità nel tuo passato potrebbe portare una brusca fine al tuo futuro.' WHERE entry=2000005308;
+UPDATE db_script_string SET content_loc9='DIE ?! Fai piangere Pusillin!' WHERE entry=2000005463;
 
 SET NAMES 'latin1';

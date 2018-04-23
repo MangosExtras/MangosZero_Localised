@@ -60,7 +60,6 @@ UPDATE trans_words SET content_loc9='What? Oh no. I don\'t care what you have to
 UPDATE trans_words SET content_loc9='You will talk eventually. You might as well spill it now.' WHERE word_id = 5831;
 UPDATE trans_words SET content_loc9='Confess and we shall set you free.' WHERE word_id = 5830;
 UPDATE trans_words SET content_loc9='The living are here!' WHERE word_id = 5829;
-UPDATE trans_words SET content_loc9='A foul trogg if ever I saw one.  Die!' WHERE word_id = 5828;
 UPDATE trans_words SET content_loc9='This sickness clouds my vision, but I know you must be a trogg.  Die foul invader!' WHERE word_id = 5827;
 UPDATE trans_words SET content_loc9='No gnome will be left behind.' WHERE word_id = 5826;
 UPDATE trans_words SET content_loc9='The troggs...they never stop coming.  Die trogg!  Die!' WHERE word_id = 5825;
@@ -81,7 +80,6 @@ UPDATE trans_words SET content_loc9='Help a poor bloke out?' WHERE word_id = 581
 UPDATE trans_words SET content_loc9='Some coin?' WHERE word_id = 5810;
 UPDATE trans_words SET content_loc9='I have a special message for $N. And it says you must die!' WHERE word_id = 5809;
 UPDATE trans_words SET content_loc9='I\'ll deliver you, weak $C, to the afterlife!' WHERE word_id = 5808;
-UPDATE trans_words SET content_loc9='Die in the name of Edwin van Cleef!' WHERE word_id = 5807;
 UPDATE trans_words SET content_loc9='Aaaahhhhhh!' WHERE word_id = 5806;
 UPDATE trans_words SET content_loc9='Crush!' WHERE word_id = 5805;
 UPDATE trans_words SET content_loc9='I gonna make you into mojo!' WHERE word_id = 5803;
@@ -94,7 +92,6 @@ UPDATE trans_words SET content_loc9='%s looks weak enough to capture.' WHERE wor
 UPDATE trans_words SET content_loc9='This one is slightly better than the last. However, it still suffers from the same flimsy bone structure as the others. When you summon one of these, you are on the right path.' WHERE word_id = 5796;
 UPDATE trans_words SET content_loc9='Sands consume you!' WHERE word_id = 873;
 UPDATE trans_words SET content_loc9='Iman m t\'ief fu Fus\'obeah italaf' WHERE word_id = 5795;
-UPDATE trans_words SET content_loc9='Dim wha Siame cyaa fi so yudo' WHERE word_id = 5794;
 UPDATE trans_words SET content_loc9='So ju weh siame is fus nehjo skam worl Uptfeel' WHERE word_id = 5793;
 UPDATE trans_words SET content_loc9='Time to bash!' WHERE word_id = 5792;
 UPDATE trans_words SET content_loc9='%s jumps out of the shadows!' WHERE word_id = 5791;
@@ -122,7 +119,6 @@ UPDATE trans_words SET content_loc9='Bash it!' WHERE word_id = 5772;
 UPDATE trans_words SET content_loc9='A $C called $N? You\'ll make a fine breakfast!' WHERE word_id = 5771;
 UPDATE trans_words SET content_loc9='Die $R! These lands belong to the Stonesplinter Tribe!' WHERE word_id = 5770;
 UPDATE trans_words SET content_loc9='The Loch belongs to the Stonesplinter Tribe now, $N! Now die!' WHERE word_id = 5769;
-UPDATE trans_words SET content_loc9='Die in the name of Ragnaros!' WHERE word_id = 5768;
 UPDATE trans_words SET content_loc9='[Dwarvish] Dum mos' WHERE word_id = 5767;
 UPDATE trans_words SET content_loc9='%s\'s eyes glow red as he lights his dynamite and begins to cackle madly!' WHERE word_id = 5766;
 UPDATE trans_words SET content_loc9='[Orcish] Ogg kaz ko zugas kil mog Tov\'nokaz Kagg' WHERE word_id = 5765;
@@ -187,7 +183,6 @@ UPDATE trans_words SET content_loc9='%s begins to summon in a Blackhand Veteran!
 UPDATE trans_words SET content_loc9='%s summons a Blackhand Dreadweaver to his aid!' WHERE word_id = 5705;
 UPDATE trans_words SET content_loc9='%s summons a Blackhand Veteran to his aid!' WHERE word_id = 5704;
 UPDATE trans_words SET content_loc9='The Great One will smash you!' WHERE word_id = 5703;
-UPDATE trans_words SET content_loc9='Die!  You will not free Myzrael!' WHERE word_id = 5702;
 UPDATE trans_words SET content_loc9='Stand firm, brothers.  And don\'t worry!  Size is on our side!' WHERE word_id = 5701;
 UPDATE trans_words SET content_loc9='No!  Leave us!  We must not fail our task!' WHERE word_id = 5700;
 UPDATE trans_words SET content_loc9='Take that!  The Drywhiskers will prevail!' WHERE word_id = 5699;

@@ -12,10 +12,12 @@ UPDATE locales_npc_text SET Text6_0_loc9='Torta di ciliegie fresca in vendita, s
 UPDATE locales_npc_text SET Text0_0_loc9='Benvenuto al Grim Guzzler!',Text0_1_loc9='Benvenuto al Grim Guzzler!',Text1_0_loc9='Ricordati di provare il nostro Dark Iron Ale. Ho saputo che i nani che bazzicano qua non ne hanno mai abbastanza.' WHERE entry=2727;
 UPDATE locales_npc_text SET Text2_0_loc9='Mio maestro, PLugger Spazzring, è un buon capo. E fa un sacco di soldi. Le sue tasche stacco esplodendo!' WHERE entry=2727;
 UPDATE locales_npc_text SET Text2_0_loc9='Ricordati di provare il nostro Dark Iron Ale. Ho saputo che i nani che bazzicano qua non ne hanno mai abbastanza.',Text3_0_loc9='Mio maestro, PLugger Spazzring, è un buon capo. E fa un sacco di soldi. Le sue tasche stacco esplodendo!' WHERE entry=2729;
+UPDATE locales_npc_text SET Text0_0_loc9='Ti ha inviato Crest?' WHERE entry=2847;
 UPDATE locales_npc_text SET Text0_0_loc9='Mi fai perdere tempo, vai a parlare con il mio studente Basil.' WHERE entry=3479;
 UPDATE locales_npc_text SET Text0_0_loc9='Il Primo Soccorso non può compensare la guarigione di un prete, ma è utile in un pizzico. Ti consiglio di andare a parlare con Thamner nella Distilleria di Tuono e di imparare cosa puoi fare.',Text0_1_loc9='Il Primo Soccorso non può compensare la guarigione di un prete, ma è utile in un pizzico. Ti consiglio di andare a parlare con Thamner nella Distilleria di Tuono e di imparare cosa puoi fare.' WHERE entry=4306;
 UPDATE locales_npc_text SET Text0_0_loc9='Troverete numerosi istruttori in giro per Dolanaar con anni di esperienza con cui istruirvi. Quale vorresti che ti indicasse?',Text0_1_loc9='Troverete numerosi istruttori in giro per Dolanaar con anni di esperienza con cui istruirvi. Quale vorresti che ti indicasse?' WHERE entry=4322;
 UPDATE locales_npc_text SET Text0_0_loc9='Cosa?',Text0_1_loc9='Cosa?' WHERE entry=5001;
+UPDATE locales_npc_text SET Text0_0_loc9='La mia dolce ragazza Kali ti ha mandato da me? La pupilla dei miei occhi, lei lo è.' WHERE entry=5028;
 UPDATE locales_npc_text SET Text0_0_loc9='Vuoi il mio aiuto? Avete capito bene. Di che cosa hai bisogno?' WHERE entry=5053;
 UPDATE locales_npc_text SET Text0_0_loc9='La tua attitudine attuale supera le mie capacità didattiche. Dovresti chiedere ulteriori informazioni con il mio collega Gnome Trixie Quickswitch in Ironforge!' WHERE entry=5116;
 UPDATE locales_npc_text SET Text0_0_loc9='La tua fiducia è fondata, viaggiatore. Ora la tua vera educazione può iniziare!' WHERE entry=5211;
@@ -28,7 +30,9 @@ UPDATE locales_npc_text SET Text0_0_loc9='A cursory examination of the skeletal 
 UPDATE locales_npc_text SET Text0_0_loc9='<Non puoi comprendere nessuno dei mumbo jumbo tecnici su questo rotolo.>' WHERE entry=6929;
 UPDATE locales_npc_text SET Text0_0_loc9='<Sei esperto nella creazione e nella funzione di questo robot.>' WHERE entry=6932;
 UPDATE locales_npc_text SET Text0_0_loc9='Posso aiutarti?' WHERE entry=6948;
+UPDATE locales_npc_text SET Text0_0_loc9='Sei appena uscito da un dungeon? Mi hai preso qualcosa?' WHERE entry=6992;
 UPDATE locales_npc_text SET Text0_0_loc9='La tua armatura sembra spaventosa. Anche tu sei spaventoso?' WHERE entry=6993;
+UPDATE locales_npc_text SET Text0_0_loc9='Dirge Quikcleave di Gadgetzan è un maestro delle arti culinarie. Per migliorarti dovrai cercarlo.',Text0_1_loc9='Dirge Quikcleave di Gadgetzan è un maestro delle arti culinarie. Per migliorarti dovrai cercarlo.' WHERE entry=7017;
 UPDATE locales_npc_text SET Text0_0_loc9='Se riesci a completare un mazzo di carte Animali, verrai ricompensato con una carta Luna maggiore del Drago Blu. Questo è molto utile per ripristinare le energie magiche.' WHERE entry=7357;
 UPDATE locales_npc_text SET Text0_0_loc9='Se riesci a completare un mazzo di carte Portali, verrai ricompensato con una carta Darkmoon maggiore del Twisting Nether. Questa carta ogni tanto tira il tuo spirito nel tuo corpo dopo la morte e ti ripara.' WHERE entry=7358;
 UPDATE locales_npc_text SET Text0_0_loc9='Se riesci a completare un mazzo di carte Elementali, verrai ricompensato con una carta Darkmoon maggiore del Maelstrom. Questa carta a volte colpisce un nemico con cui stai combattendo per danni ingenti.' WHERE entry=7359;
@@ -37,11 +41,13 @@ UPDATE locales_npc_text SET Text0_0_loc9='Mi hai trovato proprio nel bel mezzo d
 UPDATE locales_npc_text SET Text0_0_loc9='Testo IT mancante' WHERE entry=8406;
 UPDATE locales_npc_text SET Text0_0_loc9='Testo IT mancante',Text0_1_loc9='Testo IT mancante' WHERE entry=8656;
 UPDATE locales_npc_text SET Text0_0_loc9='UDB Testo IT Mancante' WHERE entry=8676;
+UPDATE locales_npc_text SET Text0_0_loc9='Balandar Brightstar ti ha inviato per salvarmi?',Text0_1_loc9='Balandar Brightstar ti ha inviato per salvarmi?' WHERE entry=8808;
 UPDATE locales_npc_text SET Text2_0_loc9='Posso aiutarti?' WHERE entry=9172;
 UPDATE locales_npc_text SET Text0_0_loc9='La tua assistenza per combattere la Burning Legion sarebbe molto apprezzata. Lady Jaina Proudmoore potrebbe usare il tuo aiuto in prima linea.',Text0_1_loc9='La tua assistenza per combattere la Burning Legion sarebbe molto apprezzata. Lady Jaina Proudmoore potrebbe usare il tuo aiuto in prima linea.' WHERE entry=9408;
 UPDATE locales_npc_text SET Text0_0_loc9='Troverete una serie di formatori di sciamani nella Sala dei cristalli. Forse dovresti visitare il Farseer Nobundo lì, e mostrare ai Rotti un po\'di pietà. La luce sia con te.',Text0_1_loc9='Troverete una serie di formatori di sciamani nella Sala dei cristalli. Forse dovresti visitare il Farseer Nobundo lì, e mostrare ai Rotti un po\'di pietà. La luce sia con te.' WHERE entry=9556;
 UPDATE locales_npc_text SET Text0_0_loc9='Testo IT mancante' WHERE entry=10059;
 UPDATE locales_npc_text SET Text0_0_loc9='Testo IT mancante' WHERE entry=10061;
+UPDATE locales_npc_text SET Text0_0_loc9='I Scryer ti hanno mandato a contattarmi? Non assomigli affatto a un phon.' WHERE entry=10211;
 UPDATE locales_npc_text SET Text0_0_loc9='Lo troverai nel Caregiver Center nel Posto della Naaru. La luce sia con te.',Text0_1_loc9='Lo troverai nel Caregiver Center nel Posto della Naaru. La luce sia con te.' WHERE entry=10223;
 UPDATE locales_npc_text SET Text2_0_loc9='Testo IT mancante' WHERE entry=10373;
 UPDATE locales_npc_text SET Text0_0_loc9='Troverete le caselle di posta all\'interno o appena fuori le banche e le locande di Aldor e Scryers.' WHERE entry=10403;
@@ -82,6 +88,7 @@ UPDATE locales_npc_text SET Text0_0_loc9='Come posso esserti d\'aiuto?',Text0_1_
 UPDATE locales_npc_text SET Text0_0_loc9='Come posso esserti d\'aiuto?',Text0_1_loc9='Come posso esserti d\'aiuto?',Text1_0_loc9='Come posso esserti d\'aiuto?',Text1_1_loc9='Come posso esserti d\'aiuto?' WHERE entry=14128;
 UPDATE locales_npc_text SET Text2_0_loc9='Come posso esserti d\'aiuto?',Text2_1_loc9='Come posso esserti d\'aiuto?' WHERE entry=14128;
 UPDATE locales_npc_text SET Text0_0_loc9='UDB Testo IT Mancante',Text0_1_loc9='UDB Testo IT Mancante' WHERE entry=14170;
+UPDATE locales_npc_text SET Text0_0_loc9='Dig rats produce uno stufato sorprendentemente gustoso.' WHERE entry=14313;
 UPDATE locales_npc_text SET Text0_0_loc9='Testo IT mancante',Text0_1_loc9='Testo IT mancante' WHERE entry=14330;
 UPDATE locales_npc_text SET Text0_0_loc9='Testo IT mancante',Text0_1_loc9='Testo IT mancante' WHERE entry=14332;
 UPDATE locales_npc_text SET Text0_0_loc9='Testo IT mancante' WHERE entry=14625;

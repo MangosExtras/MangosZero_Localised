@@ -182,7 +182,9 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Ottiene una Carta di Acc
 UPDATE locales_gossip_menu_option SET option_text_loc9='Ottiene una Carta di Accesso di Livello Superiore' WHERE menu_id=1047 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Utilizza l\'ingegneria per accedere ai progetti nascosti!' WHERE menu_id=1047 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Ottiene una Carta di Accesso di Livello Superiore' WHERE menu_id=1049 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc9='Acquisisci la data-card di alto livello.' WHERE menu_id=1050 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Utilizza l\'ingegneria per accedere ai progetti nascosti!' WHERE menu_id=1050 AND id=1;
+UPDATE locales_gossip_menu_option SET option_text_loc9='Continua.' WHERE menu_id=1053 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sono pronto per iniziare.' WHERE menu_id=1080 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei acquistare da te.' WHERE menu_id=1120 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Dimmi di più sulla riduzione.' WHERE menu_id=1141 AND id=0;
@@ -254,6 +256,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Gradirei vedere cos\'hai
 UPDATE locales_gossip_menu_option SET option_text_loc9='Compri qualcosa, vero?' WHERE menu_id=1802 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Ho bisogno di sapere dov\'è la principessa, Kharan!' WHERE menu_id=1822 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Non tutto è perso, Kharan!' WHERE menu_id=1822 AND id=1;
+UPDATE locales_gossip_menu_option SET option_text_loc9='Continua...' WHERE menu_id=1827 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Quindi cos\'è successo?' WHERE menu_id=1828 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Alchimista' WHERE menu_id=1942 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fabbro' WHERE menu_id=1942 AND id=1;
@@ -291,6 +294,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le 
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei acquistare da te.' WHERE menu_id=1965 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Dove si trova lo zeppelin ora?' WHERE menu_id=1969 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Dove si trova lo zeppelin ora?' WHERE menu_id=1971 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc9='Ahh... Ironfoe.' WHERE menu_id=2051 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc9='300? Quindi i Dark Iron l\'hanno ucciso e trascinato nelle Depths?' WHERE menu_id=2052 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Perché tu e Rocknot non cercate un posto più appartato...' WHERE menu_id=2076 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Dove si trova lo zeppelin ora?' WHERE menu_id=2101 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Casa d\'Aste' WHERE menu_id=2121 AND id=0;
@@ -362,6 +367,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id
 UPDATE locales_gossip_menu_option SET option_text_loc9='GOSSIP_OPZIONE_QUESTGIVER' WHERE menu_id=2744 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=2781 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=2784 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc9='Fallo... Fallo ora.' WHERE menu_id=2802 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Alchimista' WHERE menu_id=2847 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fabbro' WHERE menu_id=2847 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cucina' WHERE menu_id=2847 AND id=2;
@@ -411,6 +417,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Mono-ciglio' WHERE menu_
 UPDATE locales_gossip_menu_option SET option_text_loc9='Colpo di frusta' WHERE menu_id=3062 AND id=5;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Non voglio tornare al lavoro' WHERE menu_id=3062 AND id=6;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sarai ok, Awbee. I tuoi assalitori sono stati chiusi.' WHERE menu_id=3063 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc9='Continua per favore...' WHERE menu_id=3064 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc9='Assolutamente.' WHERE menu_id=3066 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Gradirei allenarmi.' WHERE menu_id=3067 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare fra le tue merci' WHERE menu_id=3130 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei acquistare da te.' WHERE menu_id=3161 AND id=0;
@@ -1098,11 +1106,15 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Sto ascoltando, Demitria
 UPDATE locales_gossip_menu_option SET option_text_loc9='Preso alla sprovvista? Come?' WHERE menu_id=5701 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='<Annuisci>' WHERE menu_id=5702 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cosa ha poi fatto Ragnaros?' WHERE menu_id=5704 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc9='DIE!' WHERE menu_id=5709 AND id=3;
+UPDATE locales_gossip_menu_option SET option_text_loc9='DIE!' WHERE menu_id=5712 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc9='Un racconto molto triste. Grazie, spirito.' WHERE menu_id=5723 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Affascinante. Continua, per favore.' WHERE menu_id=5726 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Continua, per favore.' WHERE menu_id=5727 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cos\'è successo qui, spirito?' WHERE menu_id=5729 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Piangi la grande perdita.' WHERE menu_id=5743 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Piangi la grande perdita.' WHERE menu_id=5743 AND id=1;
+UPDATE locales_gossip_menu_option SET option_text_loc9='<Copia le schematiche nel tuo quaderno da ingegnere.>' WHERE menu_id=5749 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Trasportami al Molten Core, Lothos.' WHERE menu_id=5750 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=5853 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='GOSSIP_OPZIONE_QUESTGIVER' WHERE menu_id=5853 AND id=1;
@@ -1782,6 +1794,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le 
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sono tutt\'orecchi.' WHERE menu_id=15008 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='FINE! E come, oserei chiedere, dovrei acquistare una boa di arcanite?' WHERE menu_id=15011 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Ma...' WHERE menu_id=15012 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc9='Continua.' WHERE menu_id=15018 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc9='Continua.' WHERE menu_id=15022 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mi serve una luce di Cenarion.' WHERE menu_id=20022 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Devo andare. Il male si muove. Muori bene, Omarion.' WHERE menu_id=24401 AND id=5;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Devo andare. Il male si muove. Muori bene, Omarion.' WHERE menu_id=24402 AND id=4;

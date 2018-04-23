@@ -139,7 +139,6 @@ UPDATE trans_words SET content_loc9='The beast is slain! All is well in Darkshir
 UPDATE trans_words SET content_loc9='Quillboar scraps! These should do the trick. Fish love Quillboar.' WHERE word_id = 7283;
 UPDATE trans_words SET content_loc9='Caught one! I\'ll see if any of the guards are hungry. Come on Fang!' WHERE word_id = 7284;
 UPDATE trans_words SET content_loc9='I caught a fish if you are hungry...' WHERE word_id = 7285;
-UPDATE trans_words SET content_loc9='A nice catch it is at that! You bring honor to the Horde boy, We thank you!' WHERE word_id = 7286;
 UPDATE trans_words SET content_loc9='As you wish...' WHERE word_id = 7227;
 UPDATE trans_words SET content_loc9='I very much doubt that he will have anything to say, stranger...' WHERE word_id = 7324;
 UPDATE trans_words SET content_loc9='I personally didn\'t mind him. It was the Prince who took exception to a high elf in his domain. Alas, I am not one to question the Prince. In his defense, he did not incinerate Master Winthalus immediately.' WHERE word_id = 7325;
@@ -219,7 +218,6 @@ UPDATE trans_words SET content_loc9='The burning of the Wickerman will begin in 
 UPDATE trans_words SET content_loc9='The Wickerman Festival now begins! Power to the Forsaken!' WHERE word_id = 7420;
 UPDATE trans_words SET content_loc9='I will need to focus my energies onto this knife. By doing so, I should catch some of the stronger psychic impressions associated with it.' WHERE word_id = 7361;
 UPDATE trans_words SET content_loc9='I... I\'ve seen enough I think... so very draining...' WHERE word_id = 7362;
-UPDATE trans_words SET content_loc9='A History... Hmmmm... Let me examine this for a moment.' WHERE word_id = 7363;
 UPDATE trans_words SET content_loc9='%s skims the pages of the book.' WHERE word_id = 7364;
 UPDATE trans_words SET content_loc9='Amazing! I think I have found it, $N.' WHERE word_id = 7365;
 UPDATE trans_words SET content_loc9='Glorious, indeed, Maltrake. It looks as if my plan worked perfectly. Wouldn\'t you say so, mortal?' WHERE word_id = 7366;
@@ -423,7 +421,6 @@ UPDATE trans_words SET content_loc9='By the stars! A spirit has been summoned!' 
 UPDATE trans_words SET content_loc9='Who hath summoned forth Aman?' WHERE word_id = 7166;
 UPDATE trans_words SET content_loc9='Ah, I see you toil with relics of the past.' WHERE word_id = 7167;
 UPDATE trans_words SET content_loc9='Be warned that even your creators are fallible.' WHERE word_id = 7168;
-UPDATE trans_words SET content_loc9='Digging too deep into your past might bring an abrupt end to your future.' WHERE word_id = 7169;
 UPDATE trans_words SET content_loc9='dissipates before your eyes.' WHERE word_id = 7170;
 UPDATE trans_words SET content_loc9='It\'s a mystery of the past indeed! But a key to our future!' WHERE word_id = 7171;
 UPDATE trans_words SET content_loc9='My, that Black Claw stout packs quite a punch!' WHERE word_id = 7172;
@@ -473,7 +470,6 @@ UPDATE trans_words SET content_loc9='I can get back to the Stronghold on my own,
 UPDATE trans_words SET content_loc9='If you want the key, you\'ll have to catch me!' WHERE word_id = 7197;
 UPDATE trans_words SET content_loc9='Chase me if you dare! I run without a care!' WHERE word_id = 7198;
 UPDATE trans_words SET content_loc9='Why would you ever want to harm me!? Come. Friends we can be!' WHERE word_id = 7199;
-UPDATE trans_words SET content_loc9='DIE?! You make Pusillin cry!' WHERE word_id = 7200;
 UPDATE trans_words SET content_loc9='Say hello to my little friends!' WHERE word_id = 7201;
 UPDATE trans_words SET content_loc9='$N, please take a look at the sample of the Vylestem vine that I took from the caverns, so that you know what to look for...' WHERE word_id = 7202;
 UPDATE trans_words SET content_loc9='Oh no! Here they come!' WHERE word_id = 7207;
