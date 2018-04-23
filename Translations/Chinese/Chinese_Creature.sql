@@ -3426,6 +3426,7 @@ UPDATE locales_creature SET name_loc4='黛西',subname_loc4='赛车女郎' WHERE
 UPDATE locales_creature SET name_loc4='进口商威利克斯' WHERE entry=4508;
 UPDATE locales_creature SET name_loc4='萨迦斯' WHERE entry=4509;
 UPDATE locales_creature SET name_loc4='赫尔拉斯·静水' WHERE entry=4510;
+UPDATE locales_creature SET name_loc4='阿迦瑪甘沉默之淚' WHERE entry=4511;
 UPDATE locales_creature SET name_loc4='腐烂的阿迦玛' WHERE entry=4512;
 UPDATE locales_creature SET name_loc4='暴怒的阿迦玛' WHERE entry=4514;
 UPDATE locales_creature SET name_loc4='亡首侍僧' WHERE entry=4515;

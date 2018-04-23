@@ -2,7 +2,8 @@
 SET NAMES 'utf8';
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=197;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=401;
-Text0_0_loc4='Valley of Trials will temper even the weakest into a warrior worthy to join the Horde. Those who cannot rise to its tests will be left to bake in the scorching desert sun.' /* Text0_0: Valley of Trials will temper even the weakest into a warrior worthy to join the Horde. Those who cannot rise to its tests will be left to bake in the scorching desert sun. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=518;
+Text0_0_loc4='Valley of Trials will temper even the weakest into a warrior worthy to join the Horde. Those who cannot rise to its tests will be left to bake in the scorching desert sun.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=518;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=519;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=520;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=521;
@@ -74,7 +75,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=1158;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=1159;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=1160;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=1228;
-Text0_0_loc4='Well, if it isn\'t a young, bristling $C, no doubt drawn here by talk of my exploits in fields of battle!$B$BNo time for stories now, for there are great, important deeds that need doing!  So if you\'re looking for glory, then luck shines on you today...',Text0_1_loc4='Well, if it isn\'t a young, bristling $C, no doubt drawn here by talk of my exploits in fields of battle!$B$BNo time for stories now, for there are great, important deeds that need doing!  So if you\'re looking for glory, then luck shines on you today...' /* Text0_0: Well, if it isn\'t a young, bristling $C, no doubt drawn here by talk of my exploits in fields of battle!$B$BNo time for stories now, for there are great, important deeds that need doing!  So if you\'re looking for glory, then luck shines on you today... */ /* Text0_1: Well, if it isn\'t a young, bristling $C, no doubt drawn here by talk of my exploits in fields of battle!$B$BNo time for stories now, for there are great, important deeds that need doing!  So if you\'re looking for glory, then luck shines on you today... */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=1261;
+Text0_0_loc4='Well, if it isn\'t a young, bristling $C, no doubt drawn here by talk of my exploits in fields of battle!$B$BNo time for stories now, for there are great, important deeds that need doing!  So if you\'re looking for glory, then luck shines on you today...',Text0_1_loc4='Well, if it isn\'t a young, bristling $C, no doubt drawn here by talk of my exploits in fields of battle!$B$BNo time for stories now, for there are great, important deeds that need doing!  So if you\'re looking for glory, then luck shines on you today...'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=1261;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=1262;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=1302;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=1303;
@@ -254,12 +256,12 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=2604;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=2605;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=2606;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=2633;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Does my name sound familiar to you? Maybe we knew each other a long time ago...$B$BI think I\'m named after someone important...', WHERE entry=2634; /* Text1_0: Does my name sound familiar to you? Maybe we knew each other a long time ago...$B$BI think I\'m named after someone important... */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='When I was wandering the crater after I crashed here, I remembered something that I once was told... Go up, up the mountain ahead, said the voice in my head.$B$BListening to it is how I ended up here, $N!', WHERE entry=2634; /* Text3_0: When I was wandering the crater after I crashed here, I remembered something that I once was told... Go up, up the mountain ahead, said the voice in my head.$B$BListening to it is how I ended up here, $N! */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='It\'s a secret to everybody... including me!$B$BI\'m glad you found me -- it\'s a good thing I\'m not hiding in a bush or underneath a rock, isn\'t it?', WHERE entry=2634; /* Text5_0: It\'s a secret to everybody... including me!$B$BI\'m glad you found me -- it\'s a good thing I\'m not hiding in a bush or underneath a rock, isn\'t it? */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Does my name sound familiar to you? Maybe we knew each other a long time ago...$B$BI think I\'m named after someone important...', WHERE entry=2634;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='When I was wandering the crater after I crashed here, I remembered something that I once was told... Go up, up the mountain ahead, said the voice in my head.$B$BListening to it is how I ended up here, $N!', WHERE entry=2634;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='It\'s a secret to everybody... including me!$B$BI\'m glad you found me -- it\'s a good thing I\'m not hiding in a bush or underneath a rock, isn\'t it?', WHERE entry=2634;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=2635;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=2638;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I swear... if Quint tries to plant one more fishing grub on me, I\'m going to hack down his tree with my not-so-rusty sword.', WHERE entry=2639; /* Text1_0: I swear... if Quint tries to plant one more fishing grub on me, I\'m going to hack down his tree with my not-so-rusty sword. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I swear... if Quint tries to plant one more fishing grub on me, I\'m going to hack down his tree with my not-so-rusty sword.', WHERE entry=2639;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=2643;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=2676;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=2713;
@@ -332,7 +334,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3273;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3293;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3294;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3297;
- /* Text7_0: 0 */, Text7_0_loc4='0', WHERE entry=3297; /* Text7_0: 0 */
+
+, Text7_0_loc4='0', WHERE entry=3297;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3301;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3302;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3303;
@@ -380,7 +383,7 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3457;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3458;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3459;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3460;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Stay away from Sumi and Tumi. They are....spoken for.', WHERE entry=3466; /* Text1_0: Stay away from Sumi and Tumi. They are....spoken for. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Stay away from Sumi and Tumi. They are....spoken for.', WHERE entry=3466;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3467;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3468;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3470;
@@ -492,9 +495,9 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3984;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3985;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3998;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4117;
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='We\'re not really rude people, stranger, it\'s just that everyone is in a rush, trying to make sure that everything is perfect for Uther\'s arrival. It\'s not often that the Lightbringer comes to town.', WHERE entry=4118; /* Text3_0: We\'re not really rude people, stranger, it\'s just that everyone is in a rush, trying to make sure that everything is perfect for Uther\'s arrival. It\'s not often that the Lightbringer comes to town. */
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='We\'re not really rude people, stranger, it\'s just that everyone is in a rush, trying to make sure that everything is perfect for Uther\'s arrival. It\'s not often that the Lightbringer comes to town.', WHERE entry=4118;
 UPDATE locales_npc_text SET Text4_1_loc4='' WHERE entry=4118;
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Why, you look like a common street urchin!', WHERE entry=4119; /* Text3_0: Why, you look like a common street urchin! */
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Why, you look like a common street urchin!', WHERE entry=4119;
 UPDATE locales_npc_text SET Text4_1_loc4='' WHERE entry=4119;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4122;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4123;
@@ -505,8 +508,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4127;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4128;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4129;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4130;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='My job title is Waste Management Specialist.', WHERE entry=4133; /* Text1_0: My job title is Waste Management Specialist. */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Ah, my sweet Brandy, I miss her so!', WHERE entry=4133; /* Text3_0: Ah, my sweet Brandy, I miss her so! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='My job title is Waste Management Specialist.', WHERE entry=4133;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Ah, my sweet Brandy, I miss her so!', WHERE entry=4133;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4134;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4193;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4194;
@@ -525,10 +528,10 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4399;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4401;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4443;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4444;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Be silent!  Do you think our plagued dragons will hatch and train themselves?', WHERE entry=4446; /* Text1_0: Be silent!  Do you think our plagued dragons will hatch and train themselves? */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Be silent!  Do you think our plagued dragons will hatch and train themselves?', WHERE entry=4446;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=4446;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I sense a disturbance, lurking around you...', WHERE entry=4447; /* Text1_0: I sense a disturbance, lurking around you... */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='You don\'t look like a student...', WHERE entry=4447; /* Text3_0: You don\'t look like a student... */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I sense a disturbance, lurking around you...', WHERE entry=4447;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='You don\'t look like a student...', WHERE entry=4447;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4473;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4474;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=4475;
@@ -929,9 +932,9 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=5914;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=5917;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=5920;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=5921;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Ravenholdt Manor does not recognize you, $C.', WHERE entry=5933; /* Text1_0: Ravenholdt Manor does not recognize you, $C. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Ravenholdt Manor does not recognize you, $C.', WHERE entry=5933;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=5933;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Greetings, $C. Have you spoken with Fahrad yet?', WHERE entry=5934; /* Text1_0: Greetings, $C. Have you spoken with Fahrad yet? */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Greetings, $C. Have you spoken with Fahrad yet?', WHERE entry=5934;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=5934;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=5935;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=5940;
@@ -951,17 +954,18 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6109;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6153;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6154;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6155;
-Text0_0_loc4='Hey there, friend. My name\'s Remy. I\'m from Redridge to the east, and came here looking for business, looking for business. You got any...got any??',Text0_1_loc4='Hey there, friend. My name\'s Remy. I\'m from Redridge to the east, and came here looking for business, looking for business. You got any...got any??' /* Text0_0: Hey there, friend. My name\'s Remy. I\'m from Redridge to the east, and came here looking for business, looking for business. You got any...got any?? */ /* Text0_1: Hey there, friend. My name\'s Remy. I\'m from Redridge to the east, and came here looking for business, looking for business. You got any...got any?? */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6158;
+Text0_0_loc4='Hey there, friend. My name\'s Remy. I\'m from Redridge to the east, and came here looking for business, looking for business. You got any...got any??',Text0_1_loc4='Hey there, friend. My name\'s Remy. I\'m from Redridge to the east, and came here looking for business, looking for business. You got any...got any??'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6158;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6159;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6160;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='You have no business with me, little one.', WHERE entry=6161; /* Text1_0: You have no business with me, little one. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='You have no business with me, little one.', WHERE entry=6161;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=6161;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Tales of your exploits spread.  Your name is not unknown to us, $N.', WHERE entry=6162; /* Text1_0: Tales of your exploits spread.  Your name is not unknown to us, $N. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Tales of your exploits spread.  Your name is not unknown to us, $N.', WHERE entry=6162;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=6162;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Our lord Hydraxis speaks highly of you.  My water is your water, friend.', WHERE entry=6163; /* Text1_0: Our lord Hydraxis speaks highly of you.  My water is your water, friend. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Our lord Hydraxis speaks highly of you.  My water is your water, friend.', WHERE entry=6163;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=6163;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6167;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The Arch Druid believes that Ivus the Forest Lord will come once he is made aware of the destructive forces within this valley.', WHERE entry=6173; /* Text1_0: The Arch Druid believes that Ivus the Forest Lord will come once he is made aware of the destructive forces within this valley. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The Arch Druid believes that Ivus the Forest Lord will come once he is made aware of the destructive forces within this valley.', WHERE entry=6173;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=6173;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6178;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6179;
@@ -972,8 +976,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6219;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6222;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6223;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6235;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I have a pretty good idea what ol\' Greatfather Winter\'s gonna be doing when this shift is over.  I got a bottle of Winter Veil cheer right here in my bag, and I intend to get to the bottom of it.', WHERE entry=6250; /* Text1_0: I have a pretty good idea what ol\' Greatfather Winter\'s gonna be doing when this shift is over.  I got a bottle of Winter Veil cheer right here in my bag, and I intend to get to the bottom of it. */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Yeah, sure, go ahead and tell ol\' Great-father Winter what you\'d like for this Winter Veil.$B$BHo ho hurry up.', WHERE entry=6250; /* Text3_0: Yeah, sure, go ahead and tell ol\' Great-father Winter what you\'d like for this Winter Veil.$B$BHo ho hurry up. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I have a pretty good idea what ol\' Greatfather Winter\'s gonna be doing when this shift is over.  I got a bottle of Winter Veil cheer right here in my bag, and I intend to get to the bottom of it.', WHERE entry=6250;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Yeah, sure, go ahead and tell ol\' Great-father Winter what you\'d like for this Winter Veil.$B$BHo ho hurry up.', WHERE entry=6250;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6255;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6257;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6276;
@@ -1021,7 +1025,7 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6573;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6595;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6654;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6655;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The Syndicate have been reported to be nosing around in a cave on the eastern plateau. Find out what they\'re up to, soldier! Beware of Frostwolf activity!', WHERE entry=6657; /* Text1_0: The Syndicate have been reported to be nosing around in a cave on the eastern plateau. Find out what they\'re up to, soldier! Beware of Frostwolf activity! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The Syndicate have been reported to be nosing around in a cave on the eastern plateau. Find out what they\'re up to, soldier! Beware of Frostwolf activity!', WHERE entry=6657;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=6657;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6658;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6659;
@@ -1091,19 +1095,19 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6895;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6903;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6906;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6907;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='MISSING ENGLISH Text1:', WHERE entry=6908; /* Text1_0: MISSING ENGLISH Text1: */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='MISSING ENGLISH Text3:', WHERE entry=6908; /* Text3_0: MISSING ENGLISH Text3: */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='MISSING ENGLISH Text5:', WHERE entry=6908; /* Text5_0: MISSING ENGLISH Text5: */
-UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='MISSING ENGLISH Text7:', WHERE entry=6908; /* Text7_0: MISSING ENGLISH Text7: */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='MISSING ENGLISH Text1:', WHERE entry=6908;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='MISSING ENGLISH Text3:', WHERE entry=6908;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='MISSING ENGLISH Text5:', WHERE entry=6908;
+UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='MISSING ENGLISH Text7:', WHERE entry=6908;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6913;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6915;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6916;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6919;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6920;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='When I scowled at you before you became da new king... um... I was just joking.$B$BYeah!', WHERE entry=6922; /* Text1_0: When I scowled at you before you became da new king... um... I was just joking.$B$BYeah! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='We a lot cleaner than da ogres in Tanaris.  All over da desert as far as da eye can see - ogre poo.  Not here, no $G sir : ma\'am;!', WHERE entry=6922; /* Text3_0: We a lot cleaner than da ogres in Tanaris.  All over da desert as far as da eye can see - ogre poo.  Not here, no $G sir : ma\'am;! */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='I am so smart!  S-M-R-T!', WHERE entry=6922; /* Text5_0: I am so smart!  S-M-R-T! */
-UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='I cause you no trouble, boss.', WHERE entry=6922; /* Text7_0: I cause you no trouble, boss. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='When I scowled at you before you became da new king... um... I was just joking.$B$BYeah!', WHERE entry=6922;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='We a lot cleaner than da ogres in Tanaris.  All over da desert as far as da eye can see - ogre poo.  Not here, no $G sir : ma\'am;!', WHERE entry=6922;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='I am so smart!  S-M-R-T!', WHERE entry=6922;
+UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='I cause you no trouble, boss.', WHERE entry=6922;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6924;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6925;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6926;
@@ -1117,7 +1121,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6934;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6935;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6936;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6937;
-Text0_0_loc4='You honor us with your presence, my lord.' /* Text0_0: You honor us with your presence, my lord. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6939;
+Text0_0_loc4='You honor us with your presence, my lord.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6939;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6947;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6948;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6949;
@@ -1136,14 +1141,14 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6979;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6985;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6990;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6991;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='When I grow up, I wanna be the king of Stormwind!', WHERE entry=6992; /* Text1_0: When I grow up, I wanna be the king of Stormwind! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Mushrooms always grow in damp places and so they look like umbrellas.', WHERE entry=6992; /* Text3_0: Mushrooms always grow in damp places and so they look like umbrellas. */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='What happens if your snot freezes in your nose?', WHERE entry=6992; /* Text5_0: What happens if your snot freezes in your nose? */
-UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='If you try to fail and succeed, what did you just do?', WHERE entry=6992; /* Text7_0: If you try to fail and succeed, what did you just do? */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='If you\'re a real hero of the Horde, then I wanna see you fight a dragon!  Yeah!', WHERE entry=6993; /* Text1_0: If you\'re a real hero of the Horde, then I wanna see you fight a dragon!  Yeah! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Would a fly without wings be called a walk?', WHERE entry=6993; /* Text3_0: Would a fly without wings be called a walk? */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='If a turtle doesn\'t have a shell, is he homeless or naked?', WHERE entry=6993; /* Text5_0: If a turtle doesn\'t have a shell, is he homeless or naked? */
-UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='If your glove is too big, does it still fit like a glove?', WHERE entry=6993; /* Text7_0: If your glove is too big, does it still fit like a glove? */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='When I grow up, I wanna be the king of Stormwind!', WHERE entry=6992;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Mushrooms always grow in damp places and so they look like umbrellas.', WHERE entry=6992;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='What happens if your snot freezes in your nose?', WHERE entry=6992;
+UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='If you try to fail and succeed, what did you just do?', WHERE entry=6992;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='If you\'re a real hero of the Horde, then I wanna see you fight a dragon!  Yeah!', WHERE entry=6993;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Would a fly without wings be called a walk?', WHERE entry=6993;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='If a turtle doesn\'t have a shell, is he homeless or naked?', WHERE entry=6993;
+UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='If your glove is too big, does it still fit like a glove?', WHERE entry=6993;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6995;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6996;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=6997;
@@ -1175,8 +1180,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7154;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7155;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7156;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7174;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='You scared the fish away!  What do you want?', WHERE entry=7175; /* Text1_0: You scared the fish away!  What do you want? */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I\'m going to stay here until I catch a 68 Pound Grouper!  You on the other hand want to fly off somewhere, am I right?', WHERE entry=7175; /* Text3_0: I\'m going to stay here until I catch a 68 Pound Grouper!  You on the other hand want to fly off somewhere, am I right? */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='You scared the fish away!  What do you want?', WHERE entry=7175;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I\'m going to stay here until I catch a 68 Pound Grouper!  You on the other hand want to fly off somewhere, am I right?', WHERE entry=7175;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7176;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7179;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7181;
@@ -1201,7 +1206,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7243;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7247;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7248;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7249;
-Text0_0_loc4='The theory behind it is that we completely destroy you with a massive explosion wherever you are and send those particles through a dimensional rip and then re-implode you at the maschine here. Instant Transport! It might not work ALL the time, but what kind of goblin engineer are you! If survival was your first priority you could never be a real Goblin Engineer! Here is the recipe you will need to make the Dimensional Ripper and try it out!' /* Text0_0: The theory behind it is that we completely destroy you with a massive explosion wherever you are and send those particles through a dimensional rip and then re-implode you at the maschine here. Instant Transport! It might not work ALL the time, but what kind of goblin engineer are you! If survival was your first priority you could never be a real Goblin Engineer! Here is the recipe you will need to make the Dimensional Ripper and try it out! */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7251;
+Text0_0_loc4='The theory behind it is that we completely destroy you with a massive explosion wherever you are and send those particles through a dimensional rip and then re-implode you at the maschine here. Instant Transport! It might not work ALL the time, but what kind of goblin engineer are you! If survival was your first priority you could never be a real Goblin Engineer! Here is the recipe you will need to make the Dimensional Ripper and try it out!'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7251;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7252;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7253;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7256;
@@ -1209,15 +1215,15 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7257;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7274;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7294;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7314;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Though the Crossroads seems to be the center of activity in The Barrens, I prefer the quietude of Camp Taurajo.  Where shall I send you?', WHERE entry=7315; /* Text1_0: Though the Crossroads seems to be the center of activity in The Barrens, I prefer the quietude of Camp Taurajo.  Where shall I send you? */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Treat the wind rider well as it takes you to your destination.  May your ancestors watch over you $N.', WHERE entry=7315; /* Text3_0: Treat the wind rider well as it takes you to your destination.  May your ancestors watch over you $N. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Though the Crossroads seems to be the center of activity in The Barrens, I prefer the quietude of Camp Taurajo.  Where shall I send you?', WHERE entry=7315;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Treat the wind rider well as it takes you to your destination.  May your ancestors watch over you $N.', WHERE entry=7315;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7334;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7336;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7337;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='This ain\'t a ride, clem.  Beat it.', WHERE entry=7338; /* Text1_0: This ain\'t a ride, clem.  Beat it. */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='In case it wasn\'t obvious, I\'m not here for customer relations.', WHERE entry=7338; /* Text3_0: In case it wasn\'t obvious, I\'m not here for customer relations. */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='I need a second head like I need to lose my first one.', WHERE entry=7338; /* Text5_0: I need a second head like I need to lose my first one. */
-UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='Unlike most ogres, I do know what an outhouse is for - giving you a swirlie.  Now beat it.', WHERE entry=7338; /* Text7_0: Unlike most ogres, I do know what an outhouse is for - giving you a swirlie.  Now beat it. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='This ain\'t a ride, clem.  Beat it.', WHERE entry=7338;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='In case it wasn\'t obvious, I\'m not here for customer relations.', WHERE entry=7338;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='I need a second head like I need to lose my first one.', WHERE entry=7338;
+UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='Unlike most ogres, I do know what an outhouse is for - giving you a swirlie.  Now beat it.', WHERE entry=7338;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7339;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7340;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7341;
@@ -1232,24 +1238,24 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7362;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7363;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7364;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7365;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Be sure to catch all the amazing sights and wonders of the Darkmoon Faire when it comes to town!', WHERE entry=7366; /* Text1_0: Be sure to catch all the amazing sights and wonders of the Darkmoon Faire when it comes to town! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Step right up and hear about the most amazing spectacle in all of Azeroth - the Darkmoon Faire!  Huzzah!', WHERE entry=7366; /* Text3_0: Step right up and hear about the most amazing spectacle in all of Azeroth - the Darkmoon Faire!  Huzzah! */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The Darkmoon Faire has come to town!  Be sure to experience the most thrilling show you\'ll ever see!', WHERE entry=7374; /* Text1_0: The Darkmoon Faire has come to town!  Be sure to experience the most thrilling show you\'ll ever see! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Boys and girls - children of all ages - the Darkmoon Faire has arrived!  Huzzah!', WHERE entry=7374; /* Text3_0: Boys and girls - children of all ages - the Darkmoon Faire has arrived!  Huzzah! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Boys and girls - children of all ages - the Darkmoon Faire has arrived!  Huzzah!', WHERE entry=7375; /* Text3_0: Boys and girls - children of all ages - the Darkmoon Faire has arrived!  Huzzah! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Be sure to catch all the amazing sights and wonders of the Darkmoon Faire when it comes to town!', WHERE entry=7366;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Step right up and hear about the most amazing spectacle in all of Azeroth - the Darkmoon Faire!  Huzzah!', WHERE entry=7366;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The Darkmoon Faire has come to town!  Be sure to experience the most thrilling show you\'ll ever see!', WHERE entry=7374;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Boys and girls - children of all ages - the Darkmoon Faire has arrived!  Huzzah!', WHERE entry=7374;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Boys and girls - children of all ages - the Darkmoon Faire has arrived!  Huzzah!', WHERE entry=7375;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7376;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7377;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7378;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7379;
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='For a limited time only, Crunchy Frog available exclusively here at the Darkmoon Faire.', WHERE entry=7387; /* Text3_0: For a limited time only, Crunchy Frog available exclusively here at the Darkmoon Faire. */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='It\'s getting away!', WHERE entry=7390; /* Text1_0: It\'s getting away! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Frogs and leather balls for sale!', WHERE entry=7390; /* Text3_0: Frogs and leather balls for sale! */
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='For a limited time only, Crunchy Frog available exclusively here at the Darkmoon Faire.', WHERE entry=7387;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='It\'s getting away!', WHERE entry=7390;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Frogs and leather balls for sale!', WHERE entry=7390;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7393;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7395;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7397;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7402;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7403;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Kiss me.', WHERE entry=7406; /* Text1_0: Kiss me. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Kiss me.', WHERE entry=7406;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7415;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7416;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7435;
@@ -1263,24 +1269,25 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7454;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7455;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7456;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7479;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='How I yearn to join you in glorious battle, but instead I am stuck here on duty.  Go to the Hall of the Brave in Orgrimmar\'s Valley of Honor and speak to Kartra Bloodsnarl.  She will help you get to Alterac Valley.  Make us proud $N!', WHERE entry=7484; /* Text1_0: How I yearn to join you in glorious battle, but instead I am stuck here on duty.  Go to the Hall of the Brave in Orgrimmar\'s Valley of Honor and speak to Kartra Bloodsnarl.  She will help you get to Alterac Valley.  Make us proud $N! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='How I yearn to join you in glorious battle, but instead I am stuck here on duty.  Go to the Hall of the Brave in Orgrimmar\'s Valley of Honor and speak to Kartra Bloodsnarl.  She will help you get to Alterac Valley.  Make us proud $N!', WHERE entry=7484;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7497;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7499;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='And I wish I could join you $N.  Head over to Stormwind Keep.  You\'ll find Thelman Slatefist in the King\'s audience chamber.  He will aid you in getting to Alterac Valley.', WHERE entry=7500; /* Text1_0: And I wish I could join you $N.  Head over to Stormwind Keep.  You\'ll find Thelman Slatefist in the King\'s audience chamber.  He will aid you in getting to Alterac Valley. */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The Silverwing Sentinels can use all the help they can get in their fight against the Warsong Outriders.  $N, go to Stormwind Keep and speak with Elfarran if you wish to assist them.', WHERE entry=7501; /* Text1_0: The Silverwing Sentinels can use all the help they can get in their fight against the Warsong Outriders.  $N, go to Stormwind Keep and speak with Elfarran if you wish to assist them. */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The Silverwing Sentinels are hardly what I would call honorable opponents.  But if you are intent upon their slaughter $C, then seek out Brakgul Deathbringer in the Hall of the Brave.', WHERE entry=7502; /* Text1_0: The Silverwing Sentinels are hardly what I would call honorable opponents.  But if you are intent upon their slaughter $C, then seek out Brakgul Deathbringer in the Hall of the Brave. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='And I wish I could join you $N.  Head over to Stormwind Keep.  You\'ll find Thelman Slatefist in the King\'s audience chamber.  He will aid you in getting to Alterac Valley.', WHERE entry=7500;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The Silverwing Sentinels can use all the help they can get in their fight against the Warsong Outriders.  $N, go to Stormwind Keep and speak with Elfarran if you wish to assist them.', WHERE entry=7501;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The Silverwing Sentinels are hardly what I would call honorable opponents.  But if you are intent upon their slaughter $C, then seek out Brakgul Deathbringer in the Hall of the Brave.', WHERE entry=7502;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7503;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7504;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='There is one that I know of here in Thunder Bluff that can aid you in your journey to Alterac Valley.  On the Hunter Rise look for Taim Ragetotem.  May you find what you are looking for $N.', WHERE entry=7505; /* Text1_0: There is one that I know of here in Thunder Bluff that can aid you in your journey to Alterac Valley.  On the Hunter Rise look for Taim Ragetotem.  May you find what you are looking for $N. */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Such needless strife, but if the elves of Silverwing Hold will not speak to us in peace, then what alternative do they leave us?  Seek out the aid of Kergul Bloodaxe on the Hunter Rise to get to Warsong Gulch.', WHERE entry=7506; /* Text1_0: Such needless strife, but if the elves of Silverwing Hold will not speak to us in peace, then what alternative do they leave us?  Seek out the aid of Kergul Bloodaxe on the Hunter Rise to get to Warsong Gulch. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='There is one that I know of here in Thunder Bluff that can aid you in your journey to Alterac Valley.  On the Hunter Rise look for Taim Ragetotem.  May you find what you are looking for $N.', WHERE entry=7505;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Such needless strife, but if the elves of Silverwing Hold will not speak to us in peace, then what alternative do they leave us?  Seek out the aid of Kergul Bloodaxe on the Hunter Rise to get to Warsong Gulch.', WHERE entry=7506;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7507;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Him name is Grizzle Halfmane.  He in Royal Quarter with Banshee Queen and Dread Lord.', WHERE entry=7508; /* Text1_0: Him name is Grizzle Halfmane.  He in Royal Quarter with Banshee Queen and Dread Lord. */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Elves in Warsong Gulch make crunchy sound.  You crunch them good.  Talk to Kurden Bloodclaw in Royal Quarter.', WHERE entry=7509; /* Text1_0: Elves in Warsong Gulch make crunchy sound.  You crunch them good.  Talk to Kurden Bloodclaw in Royal Quarter. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Him name is Grizzle Halfmane.  He in Royal Quarter with Banshee Queen and Dread Lord.', WHERE entry=7508;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Elves in Warsong Gulch make crunchy sound.  You crunch them good.  Talk to Kurden Bloodclaw in Royal Quarter.', WHERE entry=7509;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7514;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7515;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7516;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7530;
- /* Text7_0: 0 */, Text7_0_loc4='0', WHERE entry=7530; /* Text7_0: 0 */
+
+, Text7_0_loc4='0', WHERE entry=7530;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7535;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7536;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7555;
@@ -1294,7 +1301,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7598;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7614;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7615;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7635;
- /* Text7_0: 0 */, Text7_0_loc4='0', WHERE entry=7635; /* Text7_0: 0 */
+
+, Text7_0_loc4='0', WHERE entry=7635;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7636;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7638;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7639;
@@ -1315,7 +1323,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7665;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7667;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7668;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7669;
- /* Text7_0: 0 */, Text7_0_loc4='0', WHERE entry=7669; /* Text7_0: 0 */
+
+, Text7_0_loc4='0', WHERE entry=7669;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7670;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7673;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7674;
@@ -1339,7 +1348,7 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7735;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7736;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7737;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7738;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='You like candy?  I like candy.', WHERE entry=7739; /* Text1_0: You like candy?  I like candy. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='You like candy?  I like candy.', WHERE entry=7739;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=7739;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7741;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7742;
@@ -1361,7 +1370,9 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7766;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7767;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7768;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7770;
-Text0_0_loc4='A thunderous voice bellows from the stone...$B$BGreetings, commander. What news of Silithus do you bring the Lords of the Council?',Text0_1_loc4='A thunderous voice bellows from the stone...$B$BGreetings, commander. What news of Silithus do you bring the Lords of the Council?' /* Text0_0: A thunderous voice bellows from the stone...$B$BGreetings, commander. What news of Silithus do you bring the Lords of the Council? */ /* Text0_1: A thunderous voice bellows from the stone...$B$BGreetings, commander. What news of Silithus do you bring the Lords of the Council? */Text0_0_loc4='Missing US text.',Text0_1_loc4='Missing US text.' /* Text0_0: Missing US text. */ /* Text0_1: Missing US text. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7779;
+Text0_0_loc4='A thunderous voice bellows from the stone...$B$BGreetings, commander. What news of Silithus do you bring the Lords of the Council?',Text0_1_loc4='A thunderous voice bellows from the stone...$B$BGreetings, commander. What news of Silithus do you bring the Lords of the Council?'
+Text0_0_loc4='Missing US text.',Text0_1_loc4='Missing US text.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7779;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7784;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7785;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7786;
@@ -1412,7 +1423,7 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7897;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7898;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7900;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7901;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Don\'t tell me! Shhh! You are here about the Ashbringer?!? Yes... Yes... No! My bad.$B$BWhat can I help you with, $R?$B$BIf you\'re here to try and relearn a tradeskill, use the book over there...$B$B<Narain points to "Soothsaying for Dummies.">', WHERE entry=7902; /* Text1_0: Don\'t tell me! Shhh! You are here about the Ashbringer?!? Yes... Yes... No! My bad.$B$BWhat can I help you with, $R?$B$BIf you\'re here to try and relearn a tradeskill, use the book over there...$B$B<Narain points to "Soothsaying for Dummies."> */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Don\'t tell me! Shhh! You are here about the Ashbringer?!? Yes... Yes... No! My bad.$B$BWhat can I help you with, $R?$B$BIf you\'re here to try and relearn a tradeskill, use the book over there...$B$B<Narain points to "Soothsaying for Dummies.">', WHERE entry=7902;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=7902;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7905;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=7914;
@@ -1450,7 +1461,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8049;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8052;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8059;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8061;
- /* Text7_0: 0 */, Text7_0_loc4='0', WHERE entry=8061; /* Text7_0: 0 */
+
+, Text7_0_loc4='0', WHERE entry=8061;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8063;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8064;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8065;
@@ -1486,12 +1498,19 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8112;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8114;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8115;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8116;
-Text0_0_loc4='The journal of Jandice Barov is filled with rantings and ravings about the undead. Towards the end of the book is what appears to be a tailoring pattern for the creation of a bag of some sort.' /* Text0_0: The journal of Jandice Barov is filled with rantings and ravings about the undead. Towards the end of the book is what appears to be a tailoring pattern for the creation of a bag of some sort. */Text0_0_loc4='UDB Missing text' /* Text0_0: UDB Missing text */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8123;
+Text0_0_loc4='The journal of Jandice Barov is filled with rantings and ravings about the undead. Towards the end of the book is what appears to be a tailoring pattern for the creation of a bag of some sort.'
+Text0_0_loc4='UDB Missing text'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8123;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8124;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8125;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8145;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8146;
-Text0_0_loc4='Elder Hammershout can be found within the walls of Stormwind.',Text0_1_loc4='Elder Hammershout can be found within the walls of Stormwind.' /* Text0_0: Elder Hammershout can be found within the walls of Stormwind. */ /* Text0_1: Elder Hammershout can be found within the walls of Stormwind. */Text0_0_loc4='Elder Starweave can be found at the coastal village of Auberdine in Darkshore.',Text0_1_loc4='Elder Starweave can be found at the coastal village of Auberdine in Darkshore.' /* Text0_0: Elder Starweave can be found at the coastal village of Auberdine in Darkshore. */ /* Text0_1: Elder Starweave can be found at the coastal village of Auberdine in Darkshore. */Text0_0_loc4='Elder High Mountain is at Camp Taurajo in the Barrens.',Text0_1_loc4='Elder High Mountain is at Camp Taurajo in the Barrens.' /* Text0_0: Elder High Mountain is at Camp Taurajo in the Barrens. */ /* Text0_1: Elder High Mountain is at Camp Taurajo in the Barrens. */Text0_0_loc4='Elder Moonwarden is observing the Crossroads in the Barrens.',Text0_1_loc4='Elder Moonwarden is observing the Crossroads in the Barrens.' /* Text0_0: Elder Moonwarden is observing the Crossroads in the Barrens. */ /* Text0_1: Elder Moonwarden is observing the Crossroads in the Barrens. */Text0_0_loc4='Elder Morningdew has taken to watching the commotion at the Mirage Raceway in Thousand Needles.',Text0_1_loc4='Elder Morningdew has taken to watching the commotion at the Mirage Raceway in Thousand Needles.' /* Text0_0: Elder Morningdew has taken to watching the commotion at the Mirage Raceway in Thousand Needles. */ /* Text0_1: Elder Morningdew has taken to watching the commotion at the Mirage Raceway in Thousand Needles. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8202;
+Text0_0_loc4='Elder Hammershout can be found within the walls of Stormwind.',Text0_1_loc4='Elder Hammershout can be found within the walls of Stormwind.'
+Text0_0_loc4='Elder Starweave can be found at the coastal village of Auberdine in Darkshore.',Text0_1_loc4='Elder Starweave can be found at the coastal village of Auberdine in Darkshore.'
+Text0_0_loc4='Elder High Mountain is at Camp Taurajo in the Barrens.',Text0_1_loc4='Elder High Mountain is at Camp Taurajo in the Barrens.'
+Text0_0_loc4='Elder Moonwarden is observing the Crossroads in the Barrens.',Text0_1_loc4='Elder Moonwarden is observing the Crossroads in the Barrens.'
+Text0_0_loc4='Elder Morningdew has taken to watching the commotion at the Mirage Raceway in Thousand Needles.',Text0_1_loc4='Elder Morningdew has taken to watching the commotion at the Mirage Raceway in Thousand Needles.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8202;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8209;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8212;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8214;
@@ -1515,8 +1534,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8280;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8284;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8290;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8291;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Very clever how you got in here like that, $N.$B$BWhat? Surprised that I know your name? I\'m a demon, that\'s what we do. I also know your true name, so you\'d better buy something expensive.', WHERE entry=8292; /* Text1_0: Very clever how you got in here like that, $N.$B$BWhat? Surprised that I know your name? I\'m a demon, that\'s what we do. I also know your true name, so you\'d better buy something expensive. */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='What? No, I don\'t do armor repairs. Everlook is about a mile to the north, $G brother : sister;.$B$BNow buy something, or move along before I summon my warlock to deal with you!', WHERE entry=8292; /* Text3_0: What? No, I don\'t do armor repairs. Everlook is about a mile to the north, $G brother : sister;.$B$BNow buy something, or move along before I summon my warlock to deal with you! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Very clever how you got in here like that, $N.$B$BWhat? Surprised that I know your name? I\'m a demon, that\'s what we do. I also know your true name, so you\'d better buy something expensive.', WHERE entry=8292;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='What? No, I don\'t do armor repairs. Everlook is about a mile to the north, $G brother : sister;.$B$BNow buy something, or move along before I summon my warlock to deal with you!', WHERE entry=8292;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8301;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8304;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8305;
@@ -1565,10 +1584,12 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8475;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8477;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8479;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8480;
- /* Text7_0: 0 */, Text7_0_loc4='0', WHERE entry=8480; /* Text7_0: 0 */
+
+, Text7_0_loc4='0', WHERE entry=8480;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8481;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8484;
- /* Text7_0: 0 */, Text7_0_loc4='0', WHERE entry=8484; /* Text7_0: 0 */
+
+, Text7_0_loc4='0', WHERE entry=8484;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8486;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8490;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8492;
@@ -1616,7 +1637,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8667;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8669;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8673;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8675;
-Text0_0_loc4='UDB Missing US text' /* Text0_0: UDB Missing US text */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8680;
+Text0_0_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8680;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8683;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8685;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8688;
@@ -1663,25 +1685,28 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8871;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8872;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8873;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8875;
-Text0_0_loc4='Can you feel the evil to the south?  By the Hand, it must be cleansed!' /* Text0_0: Can you feel the evil to the south?  By the Hand, it must be cleansed! */Text0_0_loc4='With you and your people as allies, we have decided to stay on this island and rebuild. Elune bless you, hero.$B$BWhile the sadness still comes and goes, I think we will survive.$B' /* Text0_0: With you and your people as allies, we have decided to stay on this island and rebuild. Elune bless you, hero.$B$BWhile the sadness still comes and goes, I think we will survive.$B */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8881;
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Truth be told, I never liked that gnome...', WHERE entry=8893; /* Text3_0: Truth be told, I never liked that gnome... */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='I wonder how many more of them live among us. I knew Spark for years - never could I have imagined that he was a traitor.', WHERE entry=8893; /* Text5_0: I wonder how many more of them live among us. I knew Spark for years - never could I have imagined that he was a traitor. */
+Text0_0_loc4='Can you feel the evil to the south?  By the Hand, it must be cleansed!'
+Text0_0_loc4='With you and your people as allies, we have decided to stay on this island and rebuild. Elune bless you, hero.$B$BWhile the sadness still comes and goes, I think we will survive.$B'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8881;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Truth be told, I never liked that gnome...', WHERE entry=8893;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='I wonder how many more of them live among us. I knew Spark for years - never could I have imagined that he was a traitor.', WHERE entry=8893;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8934;
- /* Text7_0: 0 */, Text7_0_loc4='0', WHERE entry=8934; /* Text7_0: 0 */
+
+, Text7_0_loc4='0', WHERE entry=8934;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8952;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8953;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8954;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='MISSING ENGLISH Text1:', WHERE entry=8961; /* Text1_0: MISSING ENGLISH Text1: */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='MISSING ENGLISH Text3:', WHERE entry=8961; /* Text3_0: MISSING ENGLISH Text3: */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='MISSING ENGLISH Text5:', WHERE entry=8961; /* Text5_0: MISSING ENGLISH Text5: */
-UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='MISSING ENGLISH Text7:', WHERE entry=8961; /* Text7_0: MISSING ENGLISH Text7: */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='If you have something to say, say it!', WHERE entry=8962; /* Text1_0: If you have something to say, say it! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I\'m busy, make it fast!', WHERE entry=8962; /* Text3_0: I\'m busy, make it fast! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='MISSING ENGLISH Text1:', WHERE entry=8961;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='MISSING ENGLISH Text3:', WHERE entry=8961;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='MISSING ENGLISH Text5:', WHERE entry=8961;
+UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='MISSING ENGLISH Text7:', WHERE entry=8961;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='If you have something to say, say it!', WHERE entry=8962;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I\'m busy, make it fast!', WHERE entry=8962;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8966;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8974;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8981;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='[Furbolg] Poorov\'tarkh!', WHERE entry=8983; /* Text1_0: [Furbolg] Poorov\'tarkh! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='[Furbolg] Boro gomsho!', WHERE entry=8983; /* Text3_0: [Furbolg] Boro gomsho! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='[Furbolg] Poorov\'tarkh!', WHERE entry=8983;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='[Furbolg] Boro gomsho!', WHERE entry=8983;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8990;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8991;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=8992;
@@ -1783,7 +1808,7 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9237;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9238;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9239;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9240;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Archmage Alvareux once wrote a treatise exploring a fascinating theory.  He proposed the existence of an exact copy of Karazhan in a world other than our own and that both somehow shared the same space.$B$BHe went mad soon after.  A real pity.', WHERE entry=9242; /* Text1_0: Archmage Alvareux once wrote a treatise exploring a fascinating theory.  He proposed the existence of an exact copy of Karazhan in a world other than our own and that both somehow shared the same space.$B$BHe went mad soon after.  A real pity. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Archmage Alvareux once wrote a treatise exploring a fascinating theory.  He proposed the existence of an exact copy of Karazhan in a world other than our own and that both somehow shared the same space.$B$BHe went mad soon after.  A real pity.', WHERE entry=9242;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9244;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9246;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9248;
@@ -1815,10 +1840,10 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9373;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9375;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9376;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9377;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Why did you do this to us?', WHERE entry=9383; /* Text1_0: Why did you do this to us? */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='My vicious teromoths will avenge me!', WHERE entry=9383; /* Text3_0: My vicious teromoths will avenge me! */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='Dinner guests should show more respect!', WHERE entry=9383; /* Text5_0: Dinner guests should show more respect! */
-UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='Anoint my head with a healing balm.  Do you like my crown of thorns?', WHERE entry=9383; /* Text7_0: Anoint my head with a healing balm.  Do you like my crown of thorns? */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Why did you do this to us?', WHERE entry=9383;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='My vicious teromoths will avenge me!', WHERE entry=9383;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='Dinner guests should show more respect!', WHERE entry=9383;
+UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='Anoint my head with a healing balm.  Do you like my crown of thorns?', WHERE entry=9383;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9391;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9392;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9395;
@@ -1828,7 +1853,7 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9403;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9405;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9406;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9407;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Rest your weary feet, we have all the time in the world...', WHERE entry=9414; /* Text1_0: Rest your weary feet, we have all the time in the world... */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Rest your weary feet, we have all the time in the world...', WHERE entry=9414;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=9414;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9419;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9425;
@@ -1877,7 +1902,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9644;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9649;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9650;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9654;
-Text0_0_loc4='The Lunar Festival celebration being held by the druids is taking place in Moonglade. If that\'s too far for you to travel, they are offering transportation from the moonwell at the Park.',Text0_1_loc4='The Lunar Festival celebration being held by the druids is taking place in Moonglade. If that\'s too far for you to travel, they are offering transportation from the moonwell at the Park.' /* Text0_0: The Lunar Festival celebration being held by the druids is taking place in Moonglade. If that\'s too far for you to travel, they are offering transportation from the moonwell at the Park. */ /* Text0_1: The Lunar Festival celebration being held by the druids is taking place in Moonglade. If that\'s too far for you to travel, they are offering transportation from the moonwell at the Park. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9713;
+Text0_0_loc4='The Lunar Festival celebration being held by the druids is taking place in Moonglade. If that\'s too far for you to travel, they are offering transportation from the moonwell at the Park.',Text0_1_loc4='The Lunar Festival celebration being held by the druids is taking place in Moonglade. If that\'s too far for you to travel, they are offering transportation from the moonwell at the Park.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9713;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9714;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9729;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9730;
@@ -1923,9 +1949,9 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9894;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9895;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9897;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9899;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The land is in worse shape than I could\'ve imagined. If the damage continues at this rate, Farahlon -- err, Netherstorm will be nothing but cosmic gravel very soon.$B$BWhere will it stop, I wonder? Perhaps the better question is, \'will it stop?\'', WHERE entry=9901; /* Text1_0: The land is in worse shape than I could\'ve imagined. If the damage continues at this rate, Farahlon -- err, Netherstorm will be nothing but cosmic gravel very soon.$B$BWhere will it stop, I wonder? Perhaps the better question is, \'will it stop?\' */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I will have my revenge on Kael\'thas for this outrage against the Kirin Tor! He once walked among us as a brother, but we are brothers no more.$B$BThere will be a reckoning.$B$B<The archmage nods grimly, not relishing the prospect.>$B$BKael\'thas is more than a mere rogue mage. Once I am free from my tower, Ravandwyr and I will assist anyone who opposes him.', WHERE entry=9901; /* Text3_0: I will have my revenge on Kael\'thas for this outrage against the Kirin Tor! He once walked among us as a brother, but we are brothers no more.$B$BThere will be a reckoning.$B$B<The archmage nods grimly, not relishing the prospect.>$B$BKael\'thas is more than a mere rogue mage. Once I am free from my tower, Ravandwyr and I will assist anyone who opposes him. */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='<Archmage Vargoth favors you with a wry smile.>$B$BPlenty of room at the cursed Violet Tower.$B$BAny time of year, you can find me here.', WHERE entry=9902; /* Text1_0: <Archmage Vargoth favors you with a wry smile.>$B$BPlenty of room at the cursed Violet Tower.$B$BAny time of year, you can find me here. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='The land is in worse shape than I could\'ve imagined. If the damage continues at this rate, Farahlon -- err, Netherstorm will be nothing but cosmic gravel very soon.$B$BWhere will it stop, I wonder? Perhaps the better question is, \'will it stop?\'', WHERE entry=9901;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I will have my revenge on Kael\'thas for this outrage against the Kirin Tor! He once walked among us as a brother, but we are brothers no more.$B$BThere will be a reckoning.$B$B<The archmage nods grimly, not relishing the prospect.>$B$BKael\'thas is more than a mere rogue mage. Once I am free from my tower, Ravandwyr and I will assist anyone who opposes him.', WHERE entry=9901;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='<Archmage Vargoth favors you with a wry smile.>$B$BPlenty of room at the cursed Violet Tower.$B$BAny time of year, you can find me here.', WHERE entry=9902;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=9902;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9903;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9914;
@@ -1950,7 +1976,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9955;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9956;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9958;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9959;
-Text0_0_loc4='Smokeywood Pastures has set up shop in Orgrimmar and Ironforge. I wonder what they\'ll dream up this year?',Text0_1_loc4='Smokeywood Pastures has set up shop in Orgrimmar and Ironforge. I wonder what they\'ll dream up this year?' /* Text0_0: Smokeywood Pastures has set up shop in Orgrimmar and Ironforge. I wonder what they\'ll dream up this year? */ /* Text0_1: Smokeywood Pastures has set up shop in Orgrimmar and Ironforge. I wonder what they\'ll dream up this year? */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9969;
+Text0_0_loc4='Smokeywood Pastures has set up shop in Orgrimmar and Ironforge. I wonder what they\'ll dream up this year?',Text0_1_loc4='Smokeywood Pastures has set up shop in Orgrimmar and Ironforge. I wonder what they\'ll dream up this year?'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9969;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9970;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9971;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=9977;
@@ -2039,7 +2066,7 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10350;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10352;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10356;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10363;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I should be able to get out here now. Thanks!', WHERE entry=10373; /* Text1_0: I should be able to get out here now. Thanks! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I should be able to get out here now. Thanks!', WHERE entry=10373;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=10373;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10378;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10401;
@@ -2137,14 +2164,28 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10718;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10720;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10721;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10730;
-Text2_0_loc4='UDB Missing US text',Text3_0_loc4='UDB Missing US text' /* Text2_0: UDB Missing US text */ /* Text3_0: UDB Missing US text */Text4_0_loc4='UDB Missing US text',Text5_0_loc4='UDB Missing US text' /* Text4_0: UDB Missing US text */ /* Text5_0: UDB Missing US text */Text6_0_loc4='UDB Missing US text',Text7_0_loc4='UDB Missing US text' /* Text6_0: UDB Missing US text */ /* Text7_0: UDB Missing US text */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10735;
+Text2_0_loc4='UDB Missing US text',Text3_0_loc4='UDB Missing US text'
+Text4_0_loc4='UDB Missing US text',Text5_0_loc4='UDB Missing US text'
+Text6_0_loc4='UDB Missing US text',Text7_0_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10735;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10741;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10745;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10746;
-Text0_0_loc4='Bixi Wobblebonk in this very shop can train ye in daggers. If ye\'re still looking abroad, anyone else - Woo Ping in Stormwind and Ilyenia Moonfire in Darnassus - can show ye a thing or two. Me, I was never one fer knife fights.' /* Text0_0: Bixi Wobblebonk in this very shop can train ye in daggers. If ye\'re still looking abroad, anyone else - Woo Ping in Stormwind and Ilyenia Moonfire in Darnassus - can show ye a thing or two. Me, I was never one fer knife fights. */ /* Text0_1: Bixi Wobblebonk in this very shop can train ye in daggers. If ye\'re still looking abroad, anyone else - Woo Ping in Stormwind, Handiir in the Exodar, and Ilyenia Moonfire in Darnassus - can show ye a thing or two. Me, I was never one fer knife fights. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10752;
-Text0_0_loc4='The gnome weapon master Bixi can train you in crossbows. She\'s found in the Timberline Arms in Ironforge.' /* Text0_0: The gnome weapon master Bixi can train you in crossbows. She\'s found in the Timberline Arms in Ironforge. */Text0_0_loc4='There is one master of the sword: Woo Ping. He can be found in Weller\'s Arsenal within Stormwind.' /* Text0_0: There is one master of the sword: Woo Ping. He can be found in Weller\'s Arsenal within Stormwind. */ /* Text0_1: There are two masters of the sword: Handiir and Woo Ping. The former can be found in the Trader\'s Tier of the Exodar, and the latter in Weller\'s Arsenal within Stormwind. */Text0_0_loc4='My plucky companion Bixi Wobblebonk here can train ye in crossbows. If ye\'re looking for other trainers, though, ye might want to try Woo Ping in Weller\'s Arsenal within Stormwind.' /* Text0_0: My plucky companion Bixi Wobblebonk here can train ye in crossbows. If ye\'re looking for other trainers, though, ye might want to try Woo Ping in Weller\'s Arsenal within Stormwind. */Text0_0_loc4='Buliwyf can teach you how to use axes! He\'s around this shop somewhere.' /* Text0_0: Buliwyf can teach you how to use axes! He\'s around this shop somewhere. */Text0_0_loc4='Buliwyf, in this very shop can train you in the use of fist weapons. If his training techniques aren\'t your style, I hear the night elf weapon master in Darnassus, Ilyenia Moonfire, knows her way around the weapon too! She\'s up on the Warrior\'s Terrace there.' /* Text0_0: Buliwyf, in this very shop can train you in the use of fist weapons. If his training techniques aren\'t your style, I hear the night elf weapon master in Darnassus, Ilyenia Moonfire, knows her way around the weapon too! She\'s up on the Warrior\'s Terrace there. */Text0_0_loc4='Guns are a specialty of Buliwyf\'s! He\'s around this shop somewhere.' /* Text0_0: Guns are a specialty of Buliwyf\'s! He\'s around this shop somewhere. */Text0_0_loc4='Maces are a specialty of Buliwyf\'s! He\'s around this shop somewhere, grousing.' /* Text0_0: Maces are a specialty of Buliwyf\'s! He\'s around this shop somewhere, grousing. */ /* Text0_1: Maces are a specialty of Buliwyf\'s! He\'s around this shop somewhere, grousing. If his training techniques aren\'t your style, I hear the draenei weapon master in the Exodar, Handiir, knows his way around the weapon too! He\'s up on the Trader\'s Tier there. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10767;
+Text0_0_loc4='Bixi Wobblebonk in this very shop can train ye in daggers. If ye\'re still looking abroad, anyone else - Woo Ping in Stormwind and Ilyenia Moonfire in Darnassus - can show ye a thing or two. Me, I was never one fer knife fights.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10752;
+Text0_0_loc4='The gnome weapon master Bixi can train you in crossbows. She\'s found in the Timberline Arms in Ironforge.'
+Text0_0_loc4='There is one master of the sword: Woo Ping. He can be found in Weller\'s Arsenal within Stormwind.'
+Text0_0_loc4='My plucky companion Bixi Wobblebonk here can train ye in crossbows. If ye\'re looking for other trainers, though, ye might want to try Woo Ping in Weller\'s Arsenal within Stormwind.'
+Text0_0_loc4='Buliwyf can teach you how to use axes! He\'s around this shop somewhere.'
+Text0_0_loc4='Buliwyf, in this very shop can train you in the use of fist weapons. If his training techniques aren\'t your style, I hear the night elf weapon master in Darnassus, Ilyenia Moonfire, knows her way around the weapon too! She\'s up on the Warrior\'s Terrace there.'
+Text0_0_loc4='Guns are a specialty of Buliwyf\'s! He\'s around this shop somewhere.'
+Text0_0_loc4='Maces are a specialty of Buliwyf\'s! He\'s around this shop somewhere, grousing.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10767;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10768;
-Text0_0_loc4='Sayoc, da ugly orc here, teach you daggers. You want teaching in other places, you talk to Archibald in the War Quarter of Undercity, hokay?' /* Text0_0: Sayoc, da ugly orc here, teach you daggers. You want teaching in other places, you talk to Archibald in the War Quarter of Undercity, hokay? */ /* Text0_1: Sayoc, da ugly orc here, teach you daggers. You want teaching in other places, you talk to Ileda in da Farstrider Square of Silvermoon or Archibald in the War Quarter of Undercity, hokay? */Text0_0_loc4='Da Forsaken weapon master Archibald know his way \'round da polearm. He train others in da War Quarter of da Undercity, mon.' /* Text0_0: Da Forsaken weapon master Archibald know his way \'round da polearm. He train others in da War Quarter of da Undercity, mon. */ /* Text0_1: Da Forsaken weapon master Archibald know his way \'round da polearm. He train others in da War Quarter of da Undercity. Ileda, da blood elf weapon master in Farstrider Square in Silvermoon, show you da right techniques too, mon. */Text0_0_loc4='Archibald, da Undercity\'s weapon master train you in both one and two-handed swords, mon. He in da War Quarter.' /* Text0_0: Archibald, da Undercity\'s weapon master train you in both one and two-handed swords, mon. He in da War Quarter. */ /* Text0_1: Ileda of da blood elves, in Farstrider Square of Silvermoon, train her students in both one and two-handed swords. Archibald, da Undercity\'s weapon master, also train you, mon. He in da War Quarter. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10788;
+Text0_0_loc4='Sayoc, da ugly orc here, teach you daggers. You want teaching in other places, you talk to Archibald in the War Quarter of Undercity, hokay?'
+Text0_0_loc4='Da Forsaken weapon master Archibald know his way \'round da polearm. He train others in da War Quarter of da Undercity, mon.'
+Text0_0_loc4='Archibald, da Undercity\'s weapon master train you in both one and two-handed swords, mon. He in da War Quarter.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10788;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10791;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10795;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10796;
@@ -2160,8 +2201,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10834;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10835;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10847;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10848;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='How do you compete with these pythons? Ooooooh yaaaaa, brother!', WHERE entry=10850; /* Text1_0: How do you compete with these pythons? Ooooooh yaaaaa, brother! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='What are you gonna do when Rulk-a-mania runs wild on you, brother????!', WHERE entry=10850; /* Text3_0: What are you gonna do when Rulk-a-mania runs wild on you, brother????! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='How do you compete with these pythons? Ooooooh yaaaaa, brother!', WHERE entry=10850;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='What are you gonna do when Rulk-a-mania runs wild on you, brother????!', WHERE entry=10850;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10851;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10854;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10855;
@@ -2170,7 +2211,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10862;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10863;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10864;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10866;
-Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text' /* Text0_0: UDB Missing US text */ /* Text0_1: UDB Missing US text */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10877;
+Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10877;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10879;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10887;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=10888;
@@ -2259,23 +2301,24 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11219;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11221;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11243;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11245;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Sumthin\' I can do fer ya, $C?$B', WHERE entry=11256; /* Text1_0: Sumthin\' I can do fer ya, $C?$B */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Sumthin\' I can do fer ya, $C?$B', WHERE entry=11256;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=11256;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11257;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Aye, ya never know who\'s gunna join next, or who be dyin\' next for that matter.$B$BMy advice? Don\'t be gettin\' too attached to anyone.', WHERE entry=11258; /* Text1_0: Aye, ya never know who\'s gunna join next, or who be dyin\' next for that matter.$B$BMy advice? Don\'t be gettin\' too attached to anyone. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Aye, ya never know who\'s gunna join next, or who be dyin\' next for that matter.$B$BMy advice? Don\'t be gettin\' too attached to anyone.', WHERE entry=11258;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=11258;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='<hic>Lissen here, $R. Spend a day or two wrestlin\' with wild trolls and then tell me how you smell!', WHERE entry=11259; /* Text1_0: <hic>Lissen here, $R. Spend a day or two wrestlin\' with wild trolls and then tell me how you smell! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='<hic>Lissen here, $R. Spend a day or two wrestlin\' with wild trolls and then tell me how you smell!', WHERE entry=11259;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=11259;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11264;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11279;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11283;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Do I know you?', WHERE entry=11287; /* Text1_0: Do I know you? */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Do I know you?', WHERE entry=11287;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=11287;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11289;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11295;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11299;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11302;
-Text0_0_loc4='UDB Missing US text' /* Text0_0: UDB Missing US text */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11309;
+Text0_0_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11309;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11311;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11313;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11314;
@@ -2288,14 +2331,19 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11328;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11330;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11338;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11352;
-Text0_0_loc4='UDB Missing US text' /* Text0_0: UDB Missing US text */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11365;
+Text0_0_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11365;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11370;
-Text0_0_loc4='UDB Missing US text' /* Text0_0: UDB Missing US text */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11376;
+Text0_0_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11376;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11384;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11424;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11432;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11457;
-Text0_0_loc4='Welcome to Theramore. Have you come to help the Alliance?',Text1_0_loc4='All I ever wanted to do was study.' /* Text0_0: Welcome to Theramore. Have you come to help the Alliance? */ /* Text1_0: All I ever wanted to do was study. */Text2_0_loc4='Shh, I\'m trying to think here!' /* Text2_0: Shh, I\'m trying to think here! */Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text' /* Text0_0: UDB Missing US text */ /* Text0_1: UDB Missing US text */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11469;
+Text0_0_loc4='Welcome to Theramore. Have you come to help the Alliance?',Text1_0_loc4='All I ever wanted to do was study.'
+Text2_0_loc4='Shh, I\'m trying to think here!'
+Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11469;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11496;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11502;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11551;
@@ -2304,18 +2352,22 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11564;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11567;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11578;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11580;
-Text0_0_loc4='Ohh, thank you soo much for getting me out of that cage because I was in there for soo long and it smelled like minced mutton that had been sitting out in the sun for a week and I don\'t like mutton to begin with because when I was little, well littler, I was actually turned into a sheep for a minute and so I know what it feels like to be a sheep and I don\'t want someone eating me, especially an overgrown troll dressed up like a kitty....$B$B<Ashli takes a deep breath.>$B$BHow\'s my hair?$B',Text0_1_loc4='Ohh, thank you soo much for getting me out of that cage because I was in there for soo long and it smelled like minced mutton that had been sitting out in the sun for a week and I don\'t like mutton to begin with because when I was little, well littler, I was actually turned into a sheep for a minute and so I know what it feels like to be a sheep and I don\'t want someone eating me, especially an overgrown troll dressed up like a kitty....$B$B<Ashli takes a deep breath.>$B$BHow\'s my hair?$B' /* Text0_0: Ohh, thank you soo much for getting me out of that cage because I was in there for soo long and it smelled like minced mutton that had been sitting out in the sun for a week and I don\'t like mutton to begin with because when I was little, well littler, I was actually turned into a sheep for a minute and so I know what it feels like to be a sheep and I don\'t want someone eating me, especially an overgrown troll dressed up like a kitty....$B$B<Ashli takes a deep breath.>$B$BHow\'s my hair?$B */ /* Text0_1: Ohh, thank you soo much for getting me out of that cage because I was in there for soo long and it smelled like minced mutton that had been sitting out in the sun for a week and I don\'t like mutton to begin with because when I was little, well littler, I was actually turned into a sheep for a minute and so I know what it feels like to be a sheep and I don\'t want someone eating me, especially an overgrown troll dressed up like a kitty....$B$B<Ashli takes a deep breath.>$B$BHow\'s my hair?$B */Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text' /* Text0_0: UDB Missing US text */ /* Text0_1: UDB Missing US text */UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=11586;
-Text0_0_loc4='UDB Missing US text' /* Text0_0: UDB Missing US text */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11602;
+Text0_0_loc4='Ohh, thank you soo much for getting me out of that cage because I was in there for soo long and it smelled like minced mutton that had been sitting out in the sun for a week and I don\'t like mutton to begin with because when I was little, well littler, I was actually turned into a sheep for a minute and so I know what it feels like to be a sheep and I don\'t want someone eating me, especially an overgrown troll dressed up like a kitty....$B$B<Ashli takes a deep breath.>$B$BHow\'s my hair?$B',Text0_1_loc4='Ohh, thank you soo much for getting me out of that cage because I was in there for soo long and it smelled like minced mutton that had been sitting out in the sun for a week and I don\'t like mutton to begin with because when I was little, well littler, I was actually turned into a sheep for a minute and so I know what it feels like to be a sheep and I don\'t want someone eating me, especially an overgrown troll dressed up like a kitty....$B$B<Ashli takes a deep breath.>$B$BHow\'s my hair?$B'
+Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=11586;
+Text0_0_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11602;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11604;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11614;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11622;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11625;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11645;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11662;
-Text0_0_loc4='Tread carefully, $R.$B$BThese corpses here are all that remain of my best men.' /* Text0_0: Tread carefully, $R.$B$BThese corpses here are all that remain of my best men. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11676;
+Text0_0_loc4='Tread carefully, $R.$B$BThese corpses here are all that remain of my best men.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11676;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11689;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11724;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Gorth is confused sometimes.  Gorth is good at killing people so Gorth is made sergeant.  But now Gorth never gets to kill nothing!', WHERE entry=11742; /* Text1_0: Gorth is confused sometimes.  Gorth is good at killing people so Gorth is made sergeant.  But now Gorth never gets to kill nothing! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Gorth is confused sometimes.  Gorth is good at killing people so Gorth is made sergeant.  But now Gorth never gets to kill nothing!', WHERE entry=11742;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=11742;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11746;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11796;
@@ -2324,7 +2376,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11799;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11827;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11851;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11898;
-Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text' /* Text0_0: UDB Missing US text */ /* Text0_1: UDB Missing US text */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11910;
+Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11910;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11912;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11943;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=11945;
@@ -2337,8 +2390,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12103;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12104;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12105;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12114;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Lookin\' mighty cris, me bucko!  Ye pillage a fat sutler?  Best ye spread da wealth... don\'t be a craven choke puppy, mon!', WHERE entry=12120; /* Text1_0: Lookin\' mighty cris, me bucko!  Ye pillage a fat sutler?  Best ye spread da wealth... don\'t be a craven choke puppy, mon! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Issa truut, matey!  Neh tougher salts anyweh but da northsea freebootahs yahso, mon!$B$BBest not brindle s\'mady, mon.  Scuppah dat!  \'Alf eediat swabs get feh kiss da gunnah\'s dawta, mate!', WHERE entry=12120; /* Text3_0: Issa truut, matey!  Neh tougher salts anyweh but da northsea freebootahs yahso, mon!$B$BBest not brindle s\'mady, mon.  Scuppah dat!  \'Alf eediat swabs get feh kiss da gunnah\'s dawta, mate! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Lookin\' mighty cris, me bucko!  Ye pillage a fat sutler?  Best ye spread da wealth... don\'t be a craven choke puppy, mon!', WHERE entry=12120;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Issa truut, matey!  Neh tougher salts anyweh but da northsea freebootahs yahso, mon!$B$BBest not brindle s\'mady, mon.  Scuppah dat!  \'Alf eediat swabs get feh kiss da gunnah\'s dawta, mate!', WHERE entry=12120;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12121;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12130;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12135;
@@ -2353,7 +2406,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12157;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12158;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12159;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12160;
-Text0_0_loc4='I would love to read it to you!$B$BDo not stand at my grave and weep,$BI am not there, I do not sleep.$B$BI am in a thousand winds that blow,$Bacross Northrend\'s bright and shining snow.$B$BI am the gentle showers of rain,$Bon Westfall\'s fields of golden grain.$B$BI am in the morning hush,$Bof Stranglethorn\'s jungle, green and lush.$B$BI am in the drums loud and grand,$Bthe thunderous hooves across Nagrand.$B$BI am the stars warmly gleaming,$Bover Darnassus softly dreaming.$B$BI am in the birds that sing,$BI am in each lovely thing.$B$BDo not stand at my grave and cry,$BI am not there. I do not die.$B',Text0_1_loc4='I would love to read it to you!$B$BDo not stand at my grave and weep,$BI am not there, I do not sleep.$B$BI am in a thousand winds that blow,$Bacross Northrend\'s bright and shining snow.$B$BI am the gentle showers of rain,$Bon Westfall\'s fields of golden grain.$B$BI am in the morning hush,$Bof Stranglethorn\'s jungle, green and lush.$B$BI am in the drums loud and grand,$Bthe thunderous hooves across Nagrand.$B$BI am the stars warmly gleaming,$Bover Darnassus softly dreaming.$B$BI am in the birds that sing,$BI am in each lovely thing.$B$BDo not stand at my grave and cry,$BI am not there. I do not die.$B' /* Text0_0: I would love to read it to you!$B$BDo not stand at my grave and weep,$BI am not there, I do not sleep.$B$BI am in a thousand winds that blow,$Bacross Northrend\'s bright and shining snow.$B$BI am the gentle showers of rain,$Bon Westfall\'s fields of golden grain.$B$BI am in the morning hush,$Bof Stranglethorn\'s jungle, green and lush.$B$BI am in the drums loud and grand,$Bthe thunderous hooves across Nagrand.$B$BI am the stars warmly gleaming,$Bover Darnassus softly dreaming.$B$BI am in the birds that sing,$BI am in each lovely thing.$B$BDo not stand at my grave and cry,$BI am not there. I do not die.$B */ /* Text0_1: I would love to read it to you!$B$BDo not stand at my grave and weep,$BI am not there, I do not sleep.$B$BI am in a thousand winds that blow,$Bacross Northrend\'s bright and shining snow.$B$BI am the gentle showers of rain,$Bon Westfall\'s fields of golden grain.$B$BI am in the morning hush,$Bof Stranglethorn\'s jungle, green and lush.$B$BI am in the drums loud and grand,$Bthe thunderous hooves across Nagrand.$B$BI am the stars warmly gleaming,$Bover Darnassus softly dreaming.$B$BI am in the birds that sing,$BI am in each lovely thing.$B$BDo not stand at my grave and cry,$BI am not there. I do not die.$B */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12165;
+Text0_0_loc4='I would love to read it to you!$B$BDo not stand at my grave and weep,$BI am not there, I do not sleep.$B$BI am in a thousand winds that blow,$Bacross Northrend\'s bright and shining snow.$B$BI am the gentle showers of rain,$Bon Westfall\'s fields of golden grain.$B$BI am in the morning hush,$Bof Stranglethorn\'s jungle, green and lush.$B$BI am in the drums loud and grand,$Bthe thunderous hooves across Nagrand.$B$BI am the stars warmly gleaming,$Bover Darnassus softly dreaming.$B$BI am in the birds that sing,$BI am in each lovely thing.$B$BDo not stand at my grave and cry,$BI am not there. I do not die.$B',Text0_1_loc4='I would love to read it to you!$B$BDo not stand at my grave and weep,$BI am not there, I do not sleep.$B$BI am in a thousand winds that blow,$Bacross Northrend\'s bright and shining snow.$B$BI am the gentle showers of rain,$Bon Westfall\'s fields of golden grain.$B$BI am in the morning hush,$Bof Stranglethorn\'s jungle, green and lush.$B$BI am in the drums loud and grand,$Bthe thunderous hooves across Nagrand.$B$BI am the stars warmly gleaming,$Bover Darnassus softly dreaming.$B$BI am in the birds that sing,$BI am in each lovely thing.$B$BDo not stand at my grave and cry,$BI am not there. I do not die.$B'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12165;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12168;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12170;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12173;
@@ -2366,8 +2420,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12193;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12195;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12196;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12198;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I swab the decks!', WHERE entry=12207; /* Text1_0: I swab the decks! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Swabbin\' decks cured my rickets!', WHERE entry=12207; /* Text3_0: Swabbin\' decks cured my rickets! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I swab the decks!', WHERE entry=12207;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Swabbin\' decks cured my rickets!', WHERE entry=12207;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12208;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12209;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12212;
@@ -2377,9 +2431,10 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12217;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12218;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12219;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12220;
-Text0_0_loc4='The dead rise and seek vengeance on any that dare pass through their domain. Turn back!$B$B' /* Text0_0: The dead rise and seek vengeance on any that dare pass through their domain. Turn back!$B$B */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12226;
+Text0_0_loc4='The dead rise and seek vengeance on any that dare pass through their domain. Turn back!$B$B'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12226;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12227;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='MISSING ENGLISH Text1:',, Text1_1_loc4='MISSING ENGLISH Text1:' WHERE entry=12245; /* Text1_0: MISSING ENGLISH Text1: */ /* Text1_1: MISSING ENGLISH Text1: */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='MISSING ENGLISH Text1:',, Text1_1_loc4='MISSING ENGLISH Text1:' WHERE entry=12245;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12252;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12255;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12256;
@@ -2387,7 +2442,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12259;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12260;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12262;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12263;
-Text0_0_loc4='We\'ve sworn to do our very best to protect the passengers of The Bravery. The sea lane between Auberdine to Stormwind Harbor must remain safe.',Text0_1_loc4='We\'ve sworn to do our very best to protect the passengers of The Bravery. The sea lane between Auberdine to Stormwind Harbor must remain safe.' /* Text0_0: We\'ve sworn to do our very best to protect the passengers of The Bravery. The sea lane between Auberdine to Stormwind Harbor must remain safe. */ /* Text0_1: We\'ve sworn to do our very best to protect the passengers of The Bravery. The sea lane between Auberdine to Stormwind Harbor must remain safe. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12273;
+Text0_0_loc4='We\'ve sworn to do our very best to protect the passengers of The Bravery. The sea lane between Auberdine to Stormwind Harbor must remain safe.',Text0_1_loc4='We\'ve sworn to do our very best to protect the passengers of The Bravery. The sea lane between Auberdine to Stormwind Harbor must remain safe.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12273;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12275;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12277;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12281;
@@ -2395,9 +2451,9 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12282;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12283;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12284;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12288;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='<Grumbles>  You\'d think it would be hard to crash a zeppelin into the ocean.  You\'d think it\'d be even harder to do it four separate times!', WHERE entry=12289; /* Text1_0: <Grumbles>  You\'d think it would be hard to crash a zeppelin into the ocean.  You\'d think it\'d be even harder to do it four separate times! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I am impressed that pine tree branches don\'t seem to damage our ship much.$B$BNot that it excuses the three times we\'ve crashed into some forest.', WHERE entry=12289; /* Text3_0: I am impressed that pine tree branches don\'t seem to damage our ship much.$B$BNot that it excuses the three times we\'ve crashed into some forest. */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='We\'ve managed to squeeze through Thunder Bluff twice now!', WHERE entry=12289; /* Text5_0: We\'ve managed to squeeze through Thunder Bluff twice now! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='<Grumbles>  You\'d think it would be hard to crash a zeppelin into the ocean.  You\'d think it\'d be even harder to do it four separate times!', WHERE entry=12289;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I am impressed that pine tree branches don\'t seem to damage our ship much.$B$BNot that it excuses the three times we\'ve crashed into some forest.', WHERE entry=12289;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='We\'ve managed to squeeze through Thunder Bluff twice now!', WHERE entry=12289;
 UPDATE locales_npc_text SET Text6_1_loc4='' WHERE entry=12289;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12291;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12292;
@@ -2428,14 +2484,14 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12349;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12352;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12360;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12361;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Mawurrgggl, gurgl lur!', WHERE entry=12362; /* Text1_0: Mawurrgggl, gurgl lur! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Brggl-brggl Mrgl-Mrgl! Gluk!', WHERE entry=12362; /* Text3_0: Brggl-brggl Mrgl-Mrgl! Gluk! */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='RAWGRLRLRLRRLGLRL!!!', WHERE entry=12362; /* Text5_0: RAWGRLRLRLRRLGLRL!!! */
-UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='Mrglmrgl Glrggl!', WHERE entry=12362; /* Text7_0: Mrglmrgl Glrggl! */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='You can understand me? I can understand you!', WHERE entry=12363; /* Text1_0: You can understand me? I can understand you! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='There are clams to be collected and orcas to be killed. Help or stay out of the way!', WHERE entry=12363; /* Text3_0: There are clams to be collected and orcas to be killed. Help or stay out of the way! */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='You figure out yet why our brothers and sisters over in the village have gone insane?', WHERE entry=12363; /* Text5_0: You figure out yet why our brothers and sisters over in the village have gone insane? */
-UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='There\'s something fishy about new King Mrgl-Mrgl, but I can\'t quite put my finger on it.', WHERE entry=12363; /* Text7_0: There\'s something fishy about new King Mrgl-Mrgl, but I can\'t quite put my finger on it. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Mawurrgggl, gurgl lur!', WHERE entry=12362;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Brggl-brggl Mrgl-Mrgl! Gluk!', WHERE entry=12362;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='RAWGRLRLRLRRLGLRL!!!', WHERE entry=12362;
+UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='Mrglmrgl Glrggl!', WHERE entry=12362;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='You can understand me? I can understand you!', WHERE entry=12363;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='There are clams to be collected and orcas to be killed. Help or stay out of the way!', WHERE entry=12363;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='You figure out yet why our brothers and sisters over in the village have gone insane?', WHERE entry=12363;
+UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='There\'s something fishy about new King Mrgl-Mrgl, but I can\'t quite put my finger on it.', WHERE entry=12363;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12370;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12371;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12377;
@@ -2451,7 +2507,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12424;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12426;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12433;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12435;
-Text0_0_loc4='Fine then, have a seat. This might take a while.$B$BWhen we first came to this frozen hell, General Arlos, down in Valiance Keep, gave my group of flying daredevils and I a special task: to establish a forward airbase for Alliance operations.$B$BThis airstrip is the result. Let me tell you, it wasn\'t easy, what with all the nasty beasts and the ground rock-hard from being frozen! But we managed, and we did it quickly too!' /* Text0_0: Fine then, have a seat. This might take a while.$B$BWhen we first came to this frozen hell, General Arlos, down in Valiance Keep, gave my group of flying daredevils and I a special task: to establish a forward airbase for Alliance operations.$B$BThis airstrip is the result. Let me tell you, it wasn\'t easy, what with all the nasty beasts and the ground rock-hard from being frozen! But we managed, and we did it quickly too! */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12457;
+Text0_0_loc4='Fine then, have a seat. This might take a while.$B$BWhen we first came to this frozen hell, General Arlos, down in Valiance Keep, gave my group of flying daredevils and I a special task: to establish a forward airbase for Alliance operations.$B$BThis airstrip is the result. Let me tell you, it wasn\'t easy, what with all the nasty beasts and the ground rock-hard from being frozen! But we managed, and we did it quickly too!'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12457;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12458;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12459;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12460;
@@ -2482,20 +2539,21 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12597;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12606;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12607;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12608;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='<Budd rocks back and forth on his haunches, muttering something that sounds like troll speech.>', WHERE entry=12617; /* Text1_0: <Budd rocks back and forth on his haunches, muttering something that sounds like troll speech.> */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='No time to be talkin\', mon. I be needin\' to rest now....', WHERE entry=12617; /* Text3_0: No time to be talkin\', mon. I be needin\' to rest now.... */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='What be wrong wit you, mon? Ain\'t ya never seen a troll before?', WHERE entry=12617; /* Text5_0: What be wrong wit you, mon? Ain\'t ya never seen a troll before? */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Time to play some troll tag, mon!', WHERE entry=12622; /* Text1_0: Time to play some troll tag, mon! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Hee hee hee! Dis gunna be some fun, mon!', WHERE entry=12622; /* Text3_0: Hee hee hee! Dis gunna be some fun, mon! */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='<sniff, sniff> I can smell \'em, mon.', WHERE entry=12622; /* Text5_0: <sniff, sniff> I can smell \'em, mon. */
-UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='Nuttin\' says luvin\' like a little tap on da noggin.', WHERE entry=12622; /* Text7_0: Nuttin\' says luvin\' like a little tap on da noggin. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='<Budd rocks back and forth on his haunches, muttering something that sounds like troll speech.>', WHERE entry=12617;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='No time to be talkin\', mon. I be needin\' to rest now....', WHERE entry=12617;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='What be wrong wit you, mon? Ain\'t ya never seen a troll before?', WHERE entry=12617;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Time to play some troll tag, mon!', WHERE entry=12622;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Hee hee hee! Dis gunna be some fun, mon!', WHERE entry=12622;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='<sniff, sniff> I can smell \'em, mon.', WHERE entry=12622;
+UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='Nuttin\' says luvin\' like a little tap on da noggin.', WHERE entry=12622;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12623;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12636;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12640;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12644;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12645;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12646;
-Text0_0_loc4='Northrend awaits, $R. The majestic Cloudkisser will take you straight across to the sea to Vengeance Landing in Howling Fjord.',Text0_1_loc4='Northrend awaits, $R. The majestic Cloudkisser will take you straight across to the sea to Vengeance Landing in Howling Fjord.' /* Text0_0: Northrend awaits, $R. The majestic Cloudkisser will take you straight across to the sea to Vengeance Landing in Howling Fjord. */ /* Text0_1: Northrend awaits, $R. The majestic Cloudkisser will take you straight across to the sea to Vengeance Landing in Howling Fjord. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12650;
+Text0_0_loc4='Northrend awaits, $R. The majestic Cloudkisser will take you straight across to the sea to Vengeance Landing in Howling Fjord.',Text0_1_loc4='Northrend awaits, $R. The majestic Cloudkisser will take you straight across to the sea to Vengeance Landing in Howling Fjord.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12650;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12657;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12659;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12663;
@@ -2505,8 +2563,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12669;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12670;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12694;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12698;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='If you ask me, and you DID, I think we should kill all of the apothecaries before it\'s too late!', WHERE entry=12699; /* Text1_0: If you ask me, and you DID, I think we should kill all of the apothecaries before it\'s too late! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I\'m keeping an eye on the forsaken idiots down there. You can never be too cautious around them!', WHERE entry=12699; /* Text3_0: I\'m keeping an eye on the forsaken idiots down there. You can never be too cautious around them! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='If you ask me, and you DID, I think we should kill all of the apothecaries before it\'s too late!', WHERE entry=12699;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I\'m keeping an eye on the forsaken idiots down there. You can never be too cautious around them!', WHERE entry=12699;
 UPDATE locales_npc_text SET Text4_1_loc4='' WHERE entry=12699;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12701;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12703;
@@ -2521,10 +2579,12 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12725;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12732;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12735;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12736;
-Text0_0_loc4='Through the valleys and peaks of Mount Hyjal, across the shifting sands of Silithus, against the Legion\'s dread armies - we have fought. We are the nameless, faceless, sons and daughters of the Alliance. By the Light and by the might of the Alliance, the first strike belongs to us and the last strike is all that our enemies see.$B$BWe are 7th Legion.$B' /* Text0_0: Through the valleys and peaks of Mount Hyjal, across the shifting sands of Silithus, against the Legion\'s dread armies - we have fought. We are the nameless, faceless, sons and daughters of the Alliance. By the Light and by the might of the Alliance, the first strike belongs to us and the last strike is all that our enemies see.$B$BWe are 7th Legion.$B */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12740;
+Text0_0_loc4='Through the valleys and peaks of Mount Hyjal, across the shifting sands of Silithus, against the Legion\'s dread armies - we have fought. We are the nameless, faceless, sons and daughters of the Alliance. By the Light and by the might of the Alliance, the first strike belongs to us and the last strike is all that our enemies see.$B$BWe are 7th Legion.$B'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12740;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12744;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12750;
-Text0_0_loc4='We will ravage the living... I mean the Scourge, of course.$B$B' /* Text0_0: We will ravage the living... I mean the Scourge, of course.$B$B */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12756;
+Text0_0_loc4='We will ravage the living... I mean the Scourge, of course.$B$B'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12756;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12759;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12775;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12777;
@@ -2539,7 +2599,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12806;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12808;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12811;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12812;
-Text0_0_loc4='We are quickly learning the price of death in this frigid wasteland, $N. The Lich King\'s power extends across every inch of Northrend, permeating into the earth itself! He turns our own fallen people against us.$B$BFrom the sky, risen gryphon riders rain down their vengeful stormhammers as the walking dead assail us on the ground.$B',Text0_1_loc4='We are quickly learning the price of death in this frigid wasteland, $N. The Lich King\'s power extends across every inch of Northrend, permeating into the earth itself! He turns our own fallen people against us.$B$BFrom the sky, risen gryphon riders rain down their vengeful stormhammers as the walking dead assail us on the ground.$B' /* Text0_0: We are quickly learning the price of death in this frigid wasteland, $N. The Lich King\'s power extends across every inch of Northrend, permeating into the earth itself! He turns our own fallen people against us.$B$BFrom the sky, risen gryphon riders rain down their vengeful stormhammers as the walking dead assail us on the ground.$B */ /* Text0_1: We are quickly learning the price of death in this frigid wasteland, $N. The Lich King\'s power extends across every inch of Northrend, permeating into the earth itself! He turns our own fallen people against us.$B$BFrom the sky, risen gryphon riders rain down their vengeful stormhammers as the walking dead assail us on the ground.$B */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12824;
+Text0_0_loc4='We are quickly learning the price of death in this frigid wasteland, $N. The Lich King\'s power extends across every inch of Northrend, permeating into the earth itself! He turns our own fallen people against us.$B$BFrom the sky, risen gryphon riders rain down their vengeful stormhammers as the walking dead assail us on the ground.$B',Text0_1_loc4='We are quickly learning the price of death in this frigid wasteland, $N. The Lich King\'s power extends across every inch of Northrend, permeating into the earth itself! He turns our own fallen people against us.$B$BFrom the sky, risen gryphon riders rain down their vengeful stormhammers as the walking dead assail us on the ground.$B'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12824;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12838;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12844;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12845;
@@ -2548,7 +2609,7 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12848;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12849;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12850;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12853;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='If it weren\'t for those damned beasts burning our ships, we\'d have been home by now. Now leave me alone so I can get back to work!', WHERE entry=12856; /* Text1_0: If it weren\'t for those damned beasts burning our ships, we\'d have been home by now. Now leave me alone so I can get back to work! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='If it weren\'t for those damned beasts burning our ships, we\'d have been home by now. Now leave me alone so I can get back to work!', WHERE entry=12856;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12873;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12882;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12883;
@@ -2561,21 +2622,28 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12900;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12905;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12912;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12913;
-Text0_0_loc4='Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BI can grant you the power to call upon a drake from the Green Fight.  Speak to Belgaristrasz or Eternos if you prefer to draw on the power of the Red or the Bronze.',Text0_1_loc4='Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BI can grant you the power to call upon a drake from the Green Fight.  Speak to Belgaristrasz or Eternos if you prefer to draw on the power of the Red or the Bronze.' /* Text0_0: Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BI can grant you the power to call upon a drake from the Green Fight.  Speak to Belgaristrasz or Eternos if you prefer to draw on the power of the Red or the Bronze. */ /* Text0_1: Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BI can grant you the power to call upon a drake from the Green Fight.  Speak to Belgaristrasz or Eternos if you prefer to draw on the power of the Red or the Bronze. */Text0_0_loc4='Varos Cloudstrider and his ring guardians protect the second ring.  Your drakes are more than a match for the Ring Guardians, but Varos stands behind an impenetrable shield created from the energy of the Oculus itself.  Ten Centrifuge Constructs power the shield from the ring and platforms above.  Destroy them and Varos will be vulnerable.$B$BI can grant you the power to call upon a drake from the Red Fight.  Speak to Eternos or Verdisa if you prefer to draw on the power of the Bronze or the Green.' /* Text0_0: Varos Cloudstrider and his ring guardians protect the second ring.  Your drakes are more than a match for the Ring Guardians, but Varos stands behind an impenetrable shield created from the energy of the Oculus itself.  Ten Centrifuge Constructs power the shield from the ring and platforms above.  Destroy them and Varos will be vulnerable.$B$BI can grant you the power to call upon a drake from the Red Fight.  Speak to Eternos or Verdisa if you prefer to draw on the power of the Bronze or the Green. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12926;
+Text0_0_loc4='Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BI can grant you the power to call upon a drake from the Green Fight.  Speak to Belgaristrasz or Eternos if you prefer to draw on the power of the Red or the Bronze.',Text0_1_loc4='Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BI can grant you the power to call upon a drake from the Green Fight.  Speak to Belgaristrasz or Eternos if you prefer to draw on the power of the Red or the Bronze.'
+Text0_0_loc4='Varos Cloudstrider and his ring guardians protect the second ring.  Your drakes are more than a match for the Ring Guardians, but Varos stands behind an impenetrable shield created from the energy of the Oculus itself.  Ten Centrifuge Constructs power the shield from the ring and platforms above.  Destroy them and Varos will be vulnerable.$B$BI can grant you the power to call upon a drake from the Red Fight.  Speak to Eternos or Verdisa if you prefer to draw on the power of the Bronze or the Green.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12926;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12927;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12938;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12943;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12944;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12945;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12946;
-Text0_0_loc4='The Infinite Dragonflight is attempting to alter the destiny of Prince Arthas Menethil. You know him now as the Lich King, but here and now he was still a Prince of Lordaeron trying to do what was best for his kingdom. Arthas makes a very fateful choice today, leading to something we Keepers of Time call an inflection point in the timeline.',Text0_1_loc4='The Infinite Dragonflight is attempting to alter the destiny of Prince Arthas Menethil. You know him now as the Lich King, but here and now he was still a Prince of Lordaeron trying to do what was best for his kingdom. Arthas makes a very fateful choice today, leading to something we Keepers of Time call an inflection point in the timeline.' /* Text0_0: The Infinite Dragonflight is attempting to alter the destiny of Prince Arthas Menethil. You know him now as the Lich King, but here and now he was still a Prince of Lordaeron trying to do what was best for his kingdom. Arthas makes a very fateful choice today, leading to something we Keepers of Time call an inflection point in the timeline. */ /* Text0_1: The Infinite Dragonflight is attempting to alter the destiny of Prince Arthas Menethil. You know him now as the Lich King, but here and now he was still a Prince of Lordaeron trying to do what was best for his kingdom. Arthas makes a very fateful choice today, leading to something we Keepers of Time call an inflection point in the timeline. */Text0_0_loc4='The Infinites are attempting something unusually subtle for them. They are trying to hide the evidence that will lead to Arthas deciding to cull Stratholme. Their agents have used illusionary magic on the plagued grain shipments in the nearby countryside to make them appear normal. I need you to find the hidden grain, and use this Arcane Disruptor on the shipments. Arthas\' men are looking for plagued grain, and should find it quickly with the illusion gone.',Text0_1_loc4='The Infinites are attempting something unusually subtle for them. They are trying to hide the evidence that will lead to Arthas deciding to cull Stratholme. Their agents have used illusionary magic on the plagued grain shipments in the nearby countryside to make them appear normal. I need you to find the hidden grain, and use this Arcane Disruptor on the shipments. Arthas\' men are looking for plagued grain, and should find it quickly with the illusion gone.' /* Text0_0: The Infinites are attempting something unusually subtle for them. They are trying to hide the evidence that will lead to Arthas deciding to cull Stratholme. Their agents have used illusionary magic on the plagued grain shipments in the nearby countryside to make them appear normal. I need you to find the hidden grain, and use this Arcane Disruptor on the shipments. Arthas\' men are looking for plagued grain, and should find it quickly with the illusion gone. */ /* Text0_1: The Infinites are attempting something unusually subtle for them. They are trying to hide the evidence that will lead to Arthas deciding to cull Stratholme. Their agents have used illusionary magic on the plagued grain shipments in the nearby countryside to make them appear normal. I need you to find the hidden grain, and use this Arcane Disruptor on the shipments. Arthas\' men are looking for plagued grain, and should find it quickly with the illusion gone. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12958;
+Text0_0_loc4='The Infinite Dragonflight is attempting to alter the destiny of Prince Arthas Menethil. You know him now as the Lich King, but here and now he was still a Prince of Lordaeron trying to do what was best for his kingdom. Arthas makes a very fateful choice today, leading to something we Keepers of Time call an inflection point in the timeline.',Text0_1_loc4='The Infinite Dragonflight is attempting to alter the destiny of Prince Arthas Menethil. You know him now as the Lich King, but here and now he was still a Prince of Lordaeron trying to do what was best for his kingdom. Arthas makes a very fateful choice today, leading to something we Keepers of Time call an inflection point in the timeline.'
+Text0_0_loc4='The Infinites are attempting something unusually subtle for them. They are trying to hide the evidence that will lead to Arthas deciding to cull Stratholme. Their agents have used illusionary magic on the plagued grain shipments in the nearby countryside to make them appear normal. I need you to find the hidden grain, and use this Arcane Disruptor on the shipments. Arthas\' men are looking for plagued grain, and should find it quickly with the illusion gone.',Text0_1_loc4='The Infinites are attempting something unusually subtle for them. They are trying to hide the evidence that will lead to Arthas deciding to cull Stratholme. Their agents have used illusionary magic on the plagued grain shipments in the nearby countryside to make them appear normal. I need you to find the hidden grain, and use this Arcane Disruptor on the shipments. Arthas\' men are looking for plagued grain, and should find it quickly with the illusion gone.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12958;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12960;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12961;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12966;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12982;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12990;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12991;
-Text0_0_loc4='Good work! Arthas now knows about the plagued grain in Stratholme, and is about to begin the culling. Something is still not quite right, though. I sense a foreign presence in this timeline besides us, and that must mean the Infinite Dragonflight are here somewhere.',Text0_1_loc4='Good work! Arthas now knows about the plagued grain in Stratholme, and is about to begin the culling. Something is still not quite right, though. I sense a foreign presence in this timeline besides us, and that must mean the Infinite Dragonflight are here somewhere.' /* Text0_0: Good work! Arthas now knows about the plagued grain in Stratholme, and is about to begin the culling. Something is still not quite right, though. I sense a foreign presence in this timeline besides us, and that must mean the Infinite Dragonflight are here somewhere. */ /* Text0_1: Good work! Arthas now knows about the plagued grain in Stratholme, and is about to begin the culling. Something is still not quite right, though. I sense a foreign presence in this timeline besides us, and that must mean the Infinite Dragonflight are here somewhere. */Text0_0_loc4='I don\'t know, and that worries me. I\'ll do everything I can to find the Infinites. What I need you to do now is stay close to Arthas by joining his army.',Text0_1_loc4='I don\'t know, and that worries me. I\'ll do everything I can to find the Infinites. What I need you to do now is stay close to Arthas by joining his army.' /* Text0_0: I don\'t know, and that worries me. I\'ll do everything I can to find the Infinites. What I need you to do now is stay close to Arthas by joining his army. */ /* Text0_1: I don\'t know, and that worries me. I\'ll do everything I can to find the Infinites. What I need you to do now is stay close to Arthas by joining his army. */Text0_0_loc4='Well, you\'re not going to sign recruitment papers or anything, but you are going to fight alongside him. You need to make sure Arthas culls Stratholme and defeats Mal\'Ganis. Without Uther and Jaina around, he\'ll need all the help he can get. If you talk to Arthas, he\'ll put you to work destroying the forces of Mal\'Ganis. Follow along until I can figure out what\'s going on with the Infinites. I\'ll contact you again when I know more.',Text0_1_loc4='Well, you\'re not going to sign recruitment papers or anything, but you are going to fight alongside him. You need to make sure Arthas culls Stratholme and defeats Mal\'Ganis. Without Uther and Jaina around, he\'ll need all the help he can get. If you talk to Arthas, he\'ll put you to work destroying the forces of Mal\'Ganis. Follow along until I can figure out what\'s going on with the Infinites. I\'ll contact you again when I know more.' /* Text0_0: Well, you\'re not going to sign recruitment papers or anything, but you are going to fight alongside him. You need to make sure Arthas culls Stratholme and defeats Mal\'Ganis. Without Uther and Jaina around, he\'ll need all the help he can get. If you talk to Arthas, he\'ll put you to work destroying the forces of Mal\'Ganis. Follow along until I can figure out what\'s going on with the Infinites. I\'ll contact you again when I know more. */ /* Text0_1: Well, you\'re not going to sign recruitment papers or anything, but you are going to fight alongside him. You need to make sure Arthas culls Stratholme and defeats Mal\'Ganis. Without Uther and Jaina around, he\'ll need all the help he can get. If you talk to Arthas, he\'ll put you to work destroying the forces of Mal\'Ganis. Follow along until I can figure out what\'s going on with the Infinites. I\'ll contact you again when I know more. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12998;
+Text0_0_loc4='Good work! Arthas now knows about the plagued grain in Stratholme, and is about to begin the culling. Something is still not quite right, though. I sense a foreign presence in this timeline besides us, and that must mean the Infinite Dragonflight are here somewhere.',Text0_1_loc4='Good work! Arthas now knows about the plagued grain in Stratholme, and is about to begin the culling. Something is still not quite right, though. I sense a foreign presence in this timeline besides us, and that must mean the Infinite Dragonflight are here somewhere.'
+Text0_0_loc4='I don\'t know, and that worries me. I\'ll do everything I can to find the Infinites. What I need you to do now is stay close to Arthas by joining his army.',Text0_1_loc4='I don\'t know, and that worries me. I\'ll do everything I can to find the Infinites. What I need you to do now is stay close to Arthas by joining his army.'
+Text0_0_loc4='Well, you\'re not going to sign recruitment papers or anything, but you are going to fight alongside him. You need to make sure Arthas culls Stratholme and defeats Mal\'Ganis. Without Uther and Jaina around, he\'ll need all the help he can get. If you talk to Arthas, he\'ll put you to work destroying the forces of Mal\'Ganis. Follow along until I can figure out what\'s going on with the Infinites. I\'ll contact you again when I know more.',Text0_1_loc4='Well, you\'re not going to sign recruitment papers or anything, but you are going to fight alongside him. You need to make sure Arthas culls Stratholme and defeats Mal\'Ganis. Without Uther and Jaina around, he\'ll need all the help he can get. If you talk to Arthas, he\'ll put you to work destroying the forces of Mal\'Ganis. Follow along until I can figure out what\'s going on with the Infinites. I\'ll contact you again when I know more.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12998;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=12999;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13001;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13011;
@@ -2591,10 +2659,10 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13057;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13060;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13061;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13062;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Yes $Gsir:ma\'am;, this is quite a drink!  Quite a drink indeed!', WHERE entry=13063; /* Text1_0: Yes $Gsir:ma\'am;, this is quite a drink!  Quite a drink indeed! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Now where was I?  I yeah...  So I said to her, "But I need you!  I need you!"... and she just laughed and slithered away!  It\'s the honest truth, $N.  Naga can be so cruel!', WHERE entry=13063; /* Text3_0: Now where was I?  I yeah...  So I said to her, "But I need you!  I need you!"... and she just laughed and slithered away!  It\'s the honest truth, $N.  Naga can be so cruel! */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Missing US text', WHERE entry=13064; /* Text1_0: Missing US text */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Missing US text', WHERE entry=13064; /* Text3_0: Missing US text */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Yes $Gsir:ma\'am;, this is quite a drink!  Quite a drink indeed!', WHERE entry=13063;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Now where was I?  I yeah...  So I said to her, "But I need you!  I need you!"... and she just laughed and slithered away!  It\'s the honest truth, $N.  Naga can be so cruel!', WHERE entry=13063;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Missing US text', WHERE entry=13064;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Missing US text', WHERE entry=13064;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13074;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13077;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13078;
@@ -2610,35 +2678,44 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13134;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13135;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13147;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13156;
-Text0_0_loc4='Thank you for freeing me, $R.$B$BI\'m still a bit woozy from the venom. I think I\'ll stay here until my strength returns.',Text0_1_loc4='Thank you for freeing me, $R.$B$BI\'m still a bit woozy from the venom. I think I\'ll stay here until my strength returns.' /* Text0_0: Thank you for freeing me, $R.$B$BI\'m still a bit woozy from the venom. I think I\'ll stay here until my strength returns. */ /* Text0_1: Thank you for freeing me, $R.$B$BI\'m still a bit woozy from the venom. I think I\'ll stay here until my strength returns. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13177;
-Text0_0_loc4='The trickster Mage-Lord Urom protects the third ring.  He will appear alone and defenseless, but do not be fooled by appearances!  Urom is a powerful conjurer who commands a menagerie of Phantasmal creatures.  Seek him out above.$B$BI can grant you the power to call upon a drake from the Red Fight.  Speak to Eternos or Verdisa if you prefer to draw on the power of the Bronze or the Green.' /* Text0_0: The trickster Mage-Lord Urom protects the third ring.  He will appear alone and defenseless, but do not be fooled by appearances!  Urom is a powerful conjurer who commands a menagerie of Phantasmal creatures.  Seek him out above.$B$BI can grant you the power to call upon a drake from the Red Fight.  Speak to Eternos or Verdisa if you prefer to draw on the power of the Bronze or the Green. */Text0_0_loc4='Your greatest challenge lies ahead.  Ley-Guardian Eregos is a Blue dragon of immense power. You will find him flying above the uppermost ring. $B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos!' /* Text0_0: Your greatest challenge lies ahead.  Ley-Guardian Eregos is a Blue dragon of immense power. You will find him flying above the uppermost ring. $B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos! */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13239;
+Text0_0_loc4='Thank you for freeing me, $R.$B$BI\'m still a bit woozy from the venom. I think I\'ll stay here until my strength returns.',Text0_1_loc4='Thank you for freeing me, $R.$B$BI\'m still a bit woozy from the venom. I think I\'ll stay here until my strength returns.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13177;
+Text0_0_loc4='The trickster Mage-Lord Urom protects the third ring.  He will appear alone and defenseless, but do not be fooled by appearances!  Urom is a powerful conjurer who commands a menagerie of Phantasmal creatures.  Seek him out above.$B$BI can grant you the power to call upon a drake from the Red Fight.  Speak to Eternos or Verdisa if you prefer to draw on the power of the Bronze or the Green.'
+Text0_0_loc4='Your greatest challenge lies ahead.  Ley-Guardian Eregos is a Blue dragon of immense power. You will find him flying above the uppermost ring. $B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos!'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13239;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13240;
-Text0_0_loc4='Ruby Drakes excel at mitigating damage and protecting their allies.$B$BUsing Searing Wrath, they can breathe streams of liquid fire that jump from target to target, dealing increasing damage with each jump.$B$BWhenever a Ruby drake is damaged by an enemy attack, it gains an Evasive charge.  These charges can be used to perform a series of evasive maneuvers, allowing the drake to dodge incoming attacks and spells for a time.' /* Text0_0: Ruby Drakes excel at mitigating damage and protecting their allies.$B$BUsing Searing Wrath, they can breathe streams of liquid fire that jump from target to target, dealing increasing damage with each jump.$B$BWhenever a Ruby drake is damaged by an enemy attack, it gains an Evasive charge.  These charges can be used to perform a series of evasive maneuvers, allowing the drake to dodge incoming attacks and spells for a time. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13255;
-Text0_0_loc4='Emerald Drakes excel at healing themselves while poisoning their enemies.$B$BUsing Leeching Poison, they can steal health from their enemies.  Repeated applications of this poison can increase the effect.$B$BWith Touch the Nightmare, Emerald Drakes can reach into the Dream, converting a portion of their life energy into a highly damaging attack that leaves the target weakened, reducing its damage for a short time.',Text0_1_loc4='Emerald Drakes excel at healing themselves while poisoning their enemies.$B$BUsing Leeching Poison, they can steal health from their enemies.  Repeated applications of this poison can increase the effect.$B$BWith Touch the Nightmare, Emerald Drakes can reach into the Dream, converting a portion of their life energy into a highly damaging attack that leaves the target weakened, reducing its damage for a short time.' /* Text0_0: Emerald Drakes excel at healing themselves while poisoning their enemies.$B$BUsing Leeching Poison, they can steal health from their enemies.  Repeated applications of this poison can increase the effect.$B$BWith Touch the Nightmare, Emerald Drakes can reach into the Dream, converting a portion of their life energy into a highly damaging attack that leaves the target weakened, reducing its damage for a short time. */ /* Text0_1: Emerald Drakes excel at healing themselves while poisoning their enemies.$B$BUsing Leeching Poison, they can steal health from their enemies.  Repeated applications of this poison can increase the effect.$B$BWith Touch the Nightmare, Emerald Drakes can reach into the Dream, converting a portion of their life energy into a highly damaging attack that leaves the target weakened, reducing its damage for a short time. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13261;
+Text0_0_loc4='Ruby Drakes excel at mitigating damage and protecting their allies.$B$BUsing Searing Wrath, they can breathe streams of liquid fire that jump from target to target, dealing increasing damage with each jump.$B$BWhenever a Ruby drake is damaged by an enemy attack, it gains an Evasive charge.  These charges can be used to perform a series of evasive maneuvers, allowing the drake to dodge incoming attacks and spells for a time.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13255;
+Text0_0_loc4='Emerald Drakes excel at healing themselves while poisoning their enemies.$B$BUsing Leeching Poison, they can steal health from their enemies.  Repeated applications of this poison can increase the effect.$B$BWith Touch the Nightmare, Emerald Drakes can reach into the Dream, converting a portion of their life energy into a highly damaging attack that leaves the target weakened, reducing its damage for a short time.',Text0_1_loc4='Emerald Drakes excel at healing themselves while poisoning their enemies.$B$BUsing Leeching Poison, they can steal health from their enemies.  Repeated applications of this poison can increase the effect.$B$BWith Touch the Nightmare, Emerald Drakes can reach into the Dream, converting a portion of their life energy into a highly damaging attack that leaves the target weakened, reducing its damage for a short time.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13261;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13265;
-Text0_0_loc4='Belgaristrasz speaks the truth; time is running out!$B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos!' /* Text0_0: Belgaristrasz speaks the truth; time is running out!$B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos! */Text0_0_loc4='Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos!',Text0_1_loc4='Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos!' /* Text0_0: Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos! */ /* Text0_1: Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos! */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13271;
+Text0_0_loc4='Belgaristrasz speaks the truth; time is running out!$B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos!'
+Text0_0_loc4='Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos!',Text0_1_loc4='Belgaristrasz speaks the truth; the situation is grave indeed.  $B$BThe full power of your drakes has been unlocked.  Use their power to defeat Eregos!'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13271;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13293;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13302;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13308;
-Text0_0_loc4='From this dock, The Bravery travels back and forth between Stormwind and Auberdine.',Text0_1_loc4='From this dock, The Bravery travels back and forth between Stormwind and Auberdine.' /* Text0_0: From this dock, The Bravery travels back and forth between Stormwind and Auberdine. */ /* Text0_1: From this dock, The Bravery travels back and forth between Stormwind and Auberdine. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13322;
-Text0_0_loc4='Soon, $N!$B$BSoon ya be tastin\' true power. Soon ya be rewarded for your dedication and service.$B' /* Text0_0: Soon, $N!$B$BSoon ya be tastin\' true power. Soon ya be rewarded for your dedication and service.$B */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13342;
+Text0_0_loc4='From this dock, The Bravery travels back and forth between Stormwind and Auberdine.',Text0_1_loc4='From this dock, The Bravery travels back and forth between Stormwind and Auberdine.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13322;
+Text0_0_loc4='Soon, $N!$B$BSoon ya be tastin\' true power. Soon ya be rewarded for your dedication and service.$B'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13342;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13348;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13352;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13364;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Yeah?', WHERE entry=13366; /* Text1_0: Yeah? */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Something wrong?', WHERE entry=13366; /* Text3_0: Something wrong? */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Ever trip over own feet? We have. Kind of hurt. No do it, not fun. Nope.', WHERE entry=13367; /* Text1_0: Ever trip over own feet? We have. Kind of hurt. No do it, not fun. Nope. */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Want us to help with something? What we help with? We good at helping.', WHERE entry=13367; /* Text3_0: Want us to help with something? What we help with? We good at helping. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Yeah?', WHERE entry=13366;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Something wrong?', WHERE entry=13366;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Ever trip over own feet? We have. Kind of hurt. No do it, not fun. Nope.', WHERE entry=13367;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Want us to help with something? What we help with? We good at helping.', WHERE entry=13367;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13375;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13376;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13382;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='You\'re no Scourge. What you doin\' here, mon?', WHERE entry=13390; /* Text1_0: You\'re no Scourge. What you doin\' here, mon? */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I think you be lost, mon....', WHERE entry=13390; /* Text3_0: I think you be lost, mon.... */
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Zul\'Drak belongs to da Drakkari, mon. Always will!', WHERE entry=13391; /* Text1_0: Zul\'Drak belongs to da Drakkari, mon. Always will! */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Our people gunna kill every last one o\' you Scourge!', WHERE entry=13391; /* Text3_0: Our people gunna kill every last one o\' you Scourge! */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='You\'re no Scourge. What you doin\' here, mon?', WHERE entry=13390;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I think you be lost, mon....', WHERE entry=13390;
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Zul\'Drak belongs to da Drakkari, mon. Always will!', WHERE entry=13391;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Our people gunna kill every last one o\' you Scourge!', WHERE entry=13391;
 UPDATE locales_npc_text SET Text4_1_loc4='' WHERE entry=13391;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='That no good kiss-up is probably practicing ballet in his chambers.', WHERE entry=13396; /* Text1_0: That no good kiss-up is probably practicing ballet in his chambers. */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I can tell you where he\'s not...', WHERE entry=13396; /* Text3_0: I can tell you where he\'s not... */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='That no good kiss-up is probably practicing ballet in his chambers.', WHERE entry=13396;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='I can tell you where he\'s not...', WHERE entry=13396;
 UPDATE locales_npc_text SET Text4_1_loc4='' WHERE entry=13396;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13397;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13402;
@@ -2647,7 +2724,11 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13438;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13444;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13451;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13469;
-Text0_0_loc4='What are you doing all the way back here? You need to get back to Stratholme immediately! Shall I teleport you to Stratholme?',Text0_1_loc4='What are you doing all the way back here? You need to get back to Stratholme immediately! Shall I teleport you to Stratholme?' /* Text0_0: What are you doing all the way back here? You need to get back to Stratholme immediately! Shall I teleport you to Stratholme? */ /* Text0_1: What are you doing all the way back here? You need to get back to Stratholme immediately! Shall I teleport you to Stratholme? */Text0_0_loc4='Go find those hidden plagued grain crates and use your Arcane Disruptor on them! Arthas will then have the evidence he needs to begin the culling of Stratholme.',Text0_1_loc4='Go find those hidden plagued grain crates and use your Arcane Disruptor on them! Arthas will then have the evidence he needs to begin the culling of Stratholme.' /* Text0_0: Go find those hidden plagued grain crates and use your Arcane Disruptor on them! Arthas will then have the evidence he needs to begin the culling of Stratholme. */ /* Text0_1: Go find those hidden plagued grain crates and use your Arcane Disruptor on them! Arthas will then have the evidence he needs to begin the culling of Stratholme. */Text0_0_loc4='What are you doing here? Arthas is at the entrance to Stratholme right now and you should be with him! Go!',Text0_1_loc4='What are you doing here? Arthas is at the entrance to Stratholme right now and you should be with him! Go!' /* Text0_0: What are you doing here? Arthas is at the entrance to Stratholme right now and you should be with him! Go! */ /* Text0_1: What are you doing here? Arthas is at the entrance to Stratholme right now and you should be with him! Go! */Text0_0_loc4='Pet families come in one of three types. Ferocious pets, like cats, can dish out damage but can\'t take it as well. Tenacious pets, like turtles, are more defensive and can occupy an enemy\'s attention while you stay at range. Cunning pets, like spiders, have a mix of offensive and defensive abilities and are particularly useful in Battlegrounds and Arenas.$B$BAs your pet gains more experience, it can learn new talents just like you can, but at a slower rate. If you ever want to change your pet\'s talents, just come back to me.',Text0_1_loc4='Pet families come in one of three types. Ferocious pets, like cats, can dish out damage but can\'t take it as well. Tenacious pets, like turtles, are more defensive and can occupy an enemy\'s attention while you stay at range. Cunning pets, like spiders, have a mix of offensive and defensive abilities and are particularly useful in Battlegrounds and Arenas.$B$BAs your pet gains more experience, it can learn new talents just like you can, but at a slower rate. If you ever want to change your pet\'s talents, just come back to me.' /* Text0_0: Pet families come in one of three types. Ferocious pets, like cats, can dish out damage but can\'t take it as well. Tenacious pets, like turtles, are more defensive and can occupy an enemy\'s attention while you stay at range. Cunning pets, like spiders, have a mix of offensive and defensive abilities and are particularly useful in Battlegrounds and Arenas.$B$BAs your pet gains more experience, it can learn new talents just like you can, but at a slower rate. If you ever want to change your pet\'s talents, just come back to me. */ /* Text0_1: Pet families come in one of three types. Ferocious pets, like cats, can dish out damage but can\'t take it as well. Tenacious pets, like turtles, are more defensive and can occupy an enemy\'s attention while you stay at range. Cunning pets, like spiders, have a mix of offensive and defensive abilities and are particularly useful in Battlegrounds and Arenas.$B$BAs your pet gains more experience, it can learn new talents just like you can, but at a slower rate. If you ever want to change your pet\'s talents, just come back to me. */Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text' /* Text0_0: UDB Missing US text */ /* Text0_1: UDB Missing US text */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13485;
+Text0_0_loc4='What are you doing all the way back here? You need to get back to Stratholme immediately! Shall I teleport you to Stratholme?',Text0_1_loc4='What are you doing all the way back here? You need to get back to Stratholme immediately! Shall I teleport you to Stratholme?'
+Text0_0_loc4='Go find those hidden plagued grain crates and use your Arcane Disruptor on them! Arthas will then have the evidence he needs to begin the culling of Stratholme.',Text0_1_loc4='Go find those hidden plagued grain crates and use your Arcane Disruptor on them! Arthas will then have the evidence he needs to begin the culling of Stratholme.'
+Text0_0_loc4='What are you doing here? Arthas is at the entrance to Stratholme right now and you should be with him! Go!',Text0_1_loc4='What are you doing here? Arthas is at the entrance to Stratholme right now and you should be with him! Go!'
+Text0_0_loc4='Pet families come in one of three types. Ferocious pets, like cats, can dish out damage but can\'t take it as well. Tenacious pets, like turtles, are more defensive and can occupy an enemy\'s attention while you stay at range. Cunning pets, like spiders, have a mix of offensive and defensive abilities and are particularly useful in Battlegrounds and Arenas.$B$BAs your pet gains more experience, it can learn new talents just like you can, but at a slower rate. If you ever want to change your pet\'s talents, just come back to me.',Text0_1_loc4='Pet families come in one of three types. Ferocious pets, like cats, can dish out damage but can\'t take it as well. Tenacious pets, like turtles, are more defensive and can occupy an enemy\'s attention while you stay at range. Cunning pets, like spiders, have a mix of offensive and defensive abilities and are particularly useful in Battlegrounds and Arenas.$B$BAs your pet gains more experience, it can learn new talents just like you can, but at a slower rate. If you ever want to change your pet\'s talents, just come back to me.'Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13485;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13501;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13502;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13503;
@@ -2679,7 +2760,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13658;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13673;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13680;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13682;
-Text0_0_loc4='Hey, I recognize you! I guess I have you to thanks for me being here. That teleport accident was the best thing that ever happened to me.$B$BIf you find yourself back in Borean Tundra, let my goody two-shoes nerd of a duplicate know that I\'ve move up in the world quite a bit!',Text0_1_loc4='Hey, I recognize you! I guess I have you to thanks for me being here. That teleport accident was the best thing that ever happened to me.$B$BIf you find yourself back in Borean Tundra, let my goody two-shoes nerd of a duplicate know that I\'ve move up in the world quite a bit!' /* Text0_0: Hey, I recognize you! I guess I have you to thanks for me being here. That teleport accident was the best thing that ever happened to me.$B$BIf you find yourself back in Borean Tundra, let my goody two-shoes nerd of a duplicate know that I\'ve move up in the world quite a bit! */ /* Text0_1: Hey, I recognize you! I guess I have you to thanks for me being here. That teleport accident was the best thing that ever happened to me.$B$BIf you find yourself back in Borean Tundra, let my goody two-shoes nerd of a duplicate know that I\'ve move up in the world quite a bit! */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13703;
+Text0_0_loc4='Hey, I recognize you! I guess I have you to thanks for me being here. That teleport accident was the best thing that ever happened to me.$B$BIf you find yourself back in Borean Tundra, let my goody two-shoes nerd of a duplicate know that I\'ve move up in the world quite a bit!',Text0_1_loc4='Hey, I recognize you! I guess I have you to thanks for me being here. That teleport accident was the best thing that ever happened to me.$B$BIf you find yourself back in Borean Tundra, let my goody two-shoes nerd of a duplicate know that I\'ve move up in the world quite a bit!'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13703;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13731;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13734;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13737;
@@ -2688,7 +2770,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13748;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13764;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13776;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13790;
-Text0_0_loc4='We discovered these proto-drakes at the Bronze Dragonshrine in the Dragonblight. We knew at once that they were kin - our blood from ages past.$B$BMy apologies, $C. You are probably confused. I am Penumbrius of the bronze dragonflight. I have taken this form out of convenience. It is much easier to communicate and live amongst mortals while in the mortal guise.$B$BHow can I help you?$B' /* Text0_0: We discovered these proto-drakes at the Bronze Dragonshrine in the Dragonblight. We knew at once that they were kin - our blood from ages past.$B$BMy apologies, $C. You are probably confused. I am Penumbrius of the bronze dragonflight. I have taken this form out of convenience. It is much easier to communicate and live amongst mortals while in the mortal guise.$B$BHow can I help you?$B */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13841;
+Text0_0_loc4='We discovered these proto-drakes at the Bronze Dragonshrine in the Dragonblight. We knew at once that they were kin - our blood from ages past.$B$BMy apologies, $C. You are probably confused. I am Penumbrius of the bronze dragonflight. I have taken this form out of convenience. It is much easier to communicate and live amongst mortals while in the mortal guise.$B$BHow can I help you?$B'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13841;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13851;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13856;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=13857;
@@ -2704,25 +2787,29 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14040;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14042;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14050;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14051;
-Text0_0_loc4='Woah, woah, woah! Keep it down, $N. Keep it down!$B$B<Blast looks around.>$B$BWe don\'t want those frosty vrykul noticing us, now do we?$B$BWhat do you think of my jumpbot? I based it off of the mechagnome. Pretty slick, huh?' /* Text0_0: Woah, woah, woah! Keep it down, $N. Keep it down!$B$B<Blast looks around.>$B$BWe don\'t want those frosty vrykul noticing us, now do we?$B$BWhat do you think of my jumpbot? I based it off of the mechagnome. Pretty slick, huh? */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14055;
+Text0_0_loc4='Woah, woah, woah! Keep it down, $N. Keep it down!$B$B<Blast looks around.>$B$BWe don\'t want those frosty vrykul noticing us, now do we?$B$BWhat do you think of my jumpbot? I based it off of the mechagnome. Pretty slick, huh?'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14055;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14061;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I must obey.', WHERE entry=14068; /* Text1_0: I must obey. */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='It\'s all around us. It\'s in my head!', WHERE entry=14068; /* Text3_0: It\'s all around us. It\'s in my head! */
-UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='There\'s something here.  It\'s in the rocks and the earth!', WHERE entry=14068; /* Text5_0: There\'s something here.  It\'s in the rocks and the earth! */
-UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='Can you hear it speaking in your mind?', WHERE entry=14068; /* Text7_0: Can you hear it speaking in your mind? */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='I must obey.', WHERE entry=14068;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='It\'s all around us. It\'s in my head!', WHERE entry=14068;
+UPDATE locales_npc_text SET Text4_1_loc4='', Text5_0_loc4='There\'s something here.  It\'s in the rocks and the earth!', WHERE entry=14068;
+UPDATE locales_npc_text SET Text6_1_loc4='', Text7_0_loc4='Can you hear it speaking in your mind?', WHERE entry=14068;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14069;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14070;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14072;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14074;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14076;
-Text0_0_loc4='Greetings, $C.$B$BWhen the Horde controls Wintergrasp Fortress, I will open a portal for those who wish to travel there.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.',Text0_1_loc4='Greetings, $C.$B$BWhen the Horde controls Wintergrasp Fortress, I will open a portal for those who wish to travel there.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.' /* Text0_0: Greetings, $C.$B$BWhen the Horde controls Wintergrasp Fortress, I will open a portal for those who wish to travel there.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w. */ /* Text0_1: Greetings, $C.$B$BWhen the Horde controls Wintergrasp Fortress, I will open a portal for those who wish to travel there.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w. */Text0_0_loc4='Greetings, $C.$B$BThe Alliance now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.',Text0_1_loc4='Greetings, $C.$B$BThe Alliance now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.' /* Text0_0: Greetings, $C.$B$BThe Alliance now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w. */ /* Text0_1: Greetings, $C.$B$BThe Alliance now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w. */Text0_0_loc4='Greetings, $C.$B$BThe Horde now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.',Text0_1_loc4='Greetings, $C.$B$BThe Horde now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.' /* Text0_0: Greetings, $C.$B$BThe Horde now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w. */ /* Text0_1: Greetings, $C.$B$BThe Horde now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14087;
+Text0_0_loc4='Greetings, $C.$B$BWhen the Horde controls Wintergrasp Fortress, I will open a portal for those who wish to travel there.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.',Text0_1_loc4='Greetings, $C.$B$BWhen the Horde controls Wintergrasp Fortress, I will open a portal for those who wish to travel there.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.'
+Text0_0_loc4='Greetings, $C.$B$BThe Alliance now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.',Text0_1_loc4='Greetings, $C.$B$BThe Alliance now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.'
+Text0_0_loc4='Greetings, $C.$B$BThe Horde now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.',Text0_1_loc4='Greetings, $C.$B$BThe Horde now controls Wintergrasp Fortress. Use the portal, if you like.$B$BThe next battle begins in $3975w:$3976w$3782w:$3784w$3785w.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14087;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14088;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14089;
 UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=14090;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14115;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14118;
-UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Would you like to hear a story?', WHERE entry=14119; /* Text1_0: Would you like to hear a story? */
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Ah yes, I have read of you, $N.', WHERE entry=14119; /* Text3_0: Ah yes, I have read of you, $N. */
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Would you like to hear a story?', WHERE entry=14119;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Ah yes, I have read of you, $N.', WHERE entry=14119;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14120;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14134;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14142;
@@ -2730,7 +2817,8 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14149;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14150;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14159;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14160;
-Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text' /* Text0_0: UDB Missing US text */ /* Text0_1: UDB Missing US text */UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Khit\'rix the Dark Master skitters into Valhalas from the southeast!', WHERE entry=14177; /* Text1_0: Khit\'rix the Dark Master skitters into Valhalas from the southeast! */
+Text0_0_loc4='UDB Missing US text',Text0_1_loc4='UDB Missing US text'
+UPDATE locales_npc_text SET Text0_1_loc4='', Text1_0_loc4='Khit\'rix the Dark Master skitters into Valhalas from the southeast!', WHERE entry=14177;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14179;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14182;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14198;
@@ -2740,13 +2828,16 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14218;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14245;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14313;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14315;
- /* Text0_1: Greetings, $C. Our position here is a bit exposed given the build up of the Horde\'s forces to the south.$B$BAnything that you can do to help will be greatly appreciated. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14324;
+
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14324;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14325;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14334;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14344;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14362;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14363;
-Text0_0_loc4='These babies can hurl fire like none other. We\'ve even attached a secondary cannon, a grappling hook and added a manual fuel injection system.  If you can obtain liquid pyrite from the mechanognomes, you can use it to hurl high-density explosives, or turbo-boost your movement speed. $B$B$B$BLet\'s see those Explorer\'s League twirps beat that!' /* Text0_0: These babies can hurl fire like none other. We\'ve even attached a secondary cannon, a grappling hook and added a manual fuel injection system.  If you can obtain liquid pyrite from the mechanognomes, you can use it to hurl high-density explosives, or turbo-boost your movement speed. $B$B$B$BLet\'s see those Explorer\'s League twirps beat that! */Text0_0_loc4='It\'s a good thing you guys showed up! The Iron Dwarves have pushed us back to this location, and we\'re barely managing to hold the line here. $B$BEven worse, they\'ve begun to power up their magical defenses. If we don\'t attack soon, they\'ll be able to annihilate us in the blink of an eye!$B$BWe\'ve managed to rebuild several siege machines, demolishers and motorcycles from the Alliance and Horde expeditions that were here before us. However, all of our pilots died in the last assault.$B$BYou must take the vehicles and storm the gates of Ulduar! $B$BPlease, $N! You\'re our last hope!' /* Text0_0: It\'s a good thing you guys showed up! The Iron Dwarves have pushed us back to this location, and we\'re barely managing to hold the line here. $B$BEven worse, they\'ve begun to power up their magical defenses. If we don\'t attack soon, they\'ll be able to annihilate us in the blink of an eye!$B$BWe\'ve managed to rebuild several siege machines, demolishers and motorcycles from the Alliance and Horde expeditions that were here before us. However, all of our pilots died in the last assault.$B$BYou must take the vehicles and storm the gates of Ulduar! $B$BPlease, $N! You\'re our last hope! */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14372;
+Text0_0_loc4='These babies can hurl fire like none other. We\'ve even attached a secondary cannon, a grappling hook and added a manual fuel injection system.  If you can obtain liquid pyrite from the mechanognomes, you can use it to hurl high-density explosives, or turbo-boost your movement speed. $B$B$B$BLet\'s see those Explorer\'s League twirps beat that!'
+Text0_0_loc4='It\'s a good thing you guys showed up! The Iron Dwarves have pushed us back to this location, and we\'re barely managing to hold the line here. $B$BEven worse, they\'ve begun to power up their magical defenses. If we don\'t attack soon, they\'ll be able to annihilate us in the blink of an eye!$B$BWe\'ve managed to rebuild several siege machines, demolishers and motorcycles from the Alliance and Horde expeditions that were here before us. However, all of our pilots died in the last assault.$B$BYou must take the vehicles and storm the gates of Ulduar! $B$BPlease, $N! You\'re our last hope!'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14372;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14375;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14383;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14402;
@@ -2772,7 +2863,9 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14496;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14497;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14527;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14560;
-Text0_0_loc4='This is awful! I shouldn\'t be sitting here, useless, when there\'s so much to be done! If only my arm hadn\'t gotten injured up in Northrend... No use dwelling on it, though! Tahu will have me patched up and cured eventually, and we\'ll still help around here in the meantime.$B$BJust because we\'re not at the front doesn\'t mean we can\'t help out somehow.',Text0_1_loc4='This is awful! I shouldn\'t be sitting here, useless, when there\'s so much to be done! If only my arm hadn\'t gotten injured up in Northrend... No use dwelling on it, though! Tahu will have me patched up and cured eventually, and we\'ll still help around here in the meantime.$B$BJust because we\'re not at the front doesn\'t mean we can\'t help out somehow.' /* Text0_0: This is awful! I shouldn\'t be sitting here, useless, when there\'s so much to be done! If only my arm hadn\'t gotten injured up in Northrend... No use dwelling on it, though! Tahu will have me patched up and cured eventually, and we\'ll still help around here in the meantime.$B$BJust because we\'re not at the front doesn\'t mean we can\'t help out somehow. */ /* Text0_1: This is awful! I shouldn\'t be sitting here, useless, when there\'s so much to be done! If only my arm hadn\'t gotten injured up in Northrend... No use dwelling on it, though! Tahu will have me patched up and cured eventually, and we\'ll still help around here in the meantime.$B$BJust because we\'re not at the front doesn\'t mean we can\'t help out somehow. */ /* Text0_1: Another new face? It\'s so good to meet you. I\'m Dellylah. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14617;
+Text0_0_loc4='This is awful! I shouldn\'t be sitting here, useless, when there\'s so much to be done! If only my arm hadn\'t gotten injured up in Northrend... No use dwelling on it, though! Tahu will have me patched up and cured eventually, and we\'ll still help around here in the meantime.$B$BJust because we\'re not at the front doesn\'t mean we can\'t help out somehow.',Text0_1_loc4='This is awful! I shouldn\'t be sitting here, useless, when there\'s so much to be done! If only my arm hadn\'t gotten injured up in Northrend... No use dwelling on it, though! Tahu will have me patched up and cured eventually, and we\'ll still help around here in the meantime.$B$BJust because we\'re not at the front doesn\'t mean we can\'t help out somehow.'
+
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14617;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14623;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14624;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14625;
@@ -2780,12 +2873,14 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14628;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14630;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14667;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14668;
-Text0_0_loc4='We want everyone to have fun at Brewfest.  It would also help if we had some people remember it as well.$B$BThese goggles allow anyone to experience what it\'s like to be drunk, but without the drinking part.  Put the goggles on, and you\'re drunk!  Take them off, and you\'re sober!$B$BAre you interested in a pair?',Text0_1_loc4='We want everyone to have fun at Brewfest.  It would also help if we had some people remember it as well.$B$BThese goggles allow anyone to experience what it\'s like to be drunk, but without the drinking part.  Put the goggles on, and you\'re drunk!  Take them off, and you\'re sober!$B$BAre you interested in a pair?' /* Text0_0: We want everyone to have fun at Brewfest.  It would also help if we had some people remember it as well.$B$BThese goggles allow anyone to experience what it\'s like to be drunk, but without the drinking part.  Put the goggles on, and you\'re drunk!  Take them off, and you\'re sober!$B$BAre you interested in a pair? */ /* Text0_1: We want everyone to have fun at Brewfest.  It would also help if we had some people remember it as well.$B$BThese goggles allow anyone to experience what it\'s like to be drunk, but without the drinking part.  Put the goggles on, and you\'re drunk!  Take them off, and you\'re sober!$B$BAre you interested in a pair? */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14678;
+Text0_0_loc4='We want everyone to have fun at Brewfest.  It would also help if we had some people remember it as well.$B$BThese goggles allow anyone to experience what it\'s like to be drunk, but without the drinking part.  Put the goggles on, and you\'re drunk!  Take them off, and you\'re sober!$B$BAre you interested in a pair?',Text0_1_loc4='We want everyone to have fun at Brewfest.  It would also help if we had some people remember it as well.$B$BThese goggles allow anyone to experience what it\'s like to be drunk, but without the drinking part.  Put the goggles on, and you\'re drunk!  Take them off, and you\'re sober!$B$BAre you interested in a pair?'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14678;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14679;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14680;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14682;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14690;
-Text0_0_loc4='That was an impressive display.  But are you ready for your next challege?' /* Text0_0: That was an impressive display.  But are you ready for your next challege? */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14738;
+Text0_0_loc4='That was an impressive display.  But are you ready for your next challege?'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14738;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14757;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14759;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=14760;
@@ -2810,9 +2905,12 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15038;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15074;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15077;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15119;
-Text0_0_loc4='Greetings, $Glad:lass;. I\'m Grelin Whitebeard. I\'m here to examine the threat posed by the growing numbers of trolls in Coldridge Valley. What have I found? It\'s a bit troubling...' /* Text0_0: Greetings, $Glad:lass;. I\'m Grelin Whitebeard. I\'m here to examine the threat posed by the growing numbers of trolls in Coldridge Valley. What have I found? It\'s a bit troubling... */Text0_0_loc4='Why you\'re just the $C I was looking for! I\'m testing a new rocket-powered flying device, and I need your help!$B$BJust take one of these harnesses and put it on under your armor.  Hit the button on the side, and BOOM, off you go.$B$BDon\'t go trying to steal my work though. Each of these babies is fitted with a Transponster 8000 linked to the one in my hand. If you get too far from me the Transponster will shut down the main rocket and you\'ll be unable to lift off until you return.$B$BNow where did I put those liability forms?' /* Text0_0: Why you\'re just the $C I was looking for! I\'m testing a new rocket-powered flying device, and I need your help!$B$BJust take one of these harnesses and put it on under your armor.  Hit the button on the side, and BOOM, off you go.$B$BDon\'t go trying to steal my work though. Each of these babies is fitted with a Transponster 8000 linked to the one in my hand. If you get too far from me the Transponster will shut down the main rocket and you\'ll be unable to lift off until you return.$B$BNow where did I put those liability forms? */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15139;
+Text0_0_loc4='Greetings, $Glad:lass;. I\'m Grelin Whitebeard. I\'m here to examine the threat posed by the growing numbers of trolls in Coldridge Valley. What have I found? It\'s a bit troubling...'
+Text0_0_loc4='Why you\'re just the $C I was looking for! I\'m testing a new rocket-powered flying device, and I need your help!$B$BJust take one of these harnesses and put it on under your armor.  Hit the button on the side, and BOOM, off you go.$B$BDon\'t go trying to steal my work though. Each of these babies is fitted with a Transponster 8000 linked to the one in my hand. If you get too far from me the Transponster will shut down the main rocket and you\'ll be unable to lift off until you return.$B$BNow where did I put those liability forms?'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15139;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15145;
-Text0_0_loc4='I will delay here until more reinforcements arrive, but you have to keep moving. We won\'t have much time until Arthas realizes we\'re here.',Text0_1_loc4='I will delay here until more reinforcements arrive, but you have to keep moving. We won\'t have much time until Arthas realizes we\'re here.' /* Text0_0: I will delay here until more reinforcements arrive, but you have to keep moving. We won\'t have much time until Arthas realizes we\'re here. */ /* Text0_1: I will delay here until more reinforcements arrive, but you have to keep moving. We won\'t have much time until Arthas realizes we\'re here. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15155;
+Text0_0_loc4='I will delay here until more reinforcements arrive, but you have to keep moving. We won\'t have much time until Arthas realizes we\'re here.',Text0_1_loc4='I will delay here until more reinforcements arrive, but you have to keep moving. We won\'t have much time until Arthas realizes we\'re here.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15155;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15159;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15160;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15166;
@@ -2828,13 +2926,16 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15287;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15290;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15297;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15302;
-Text0_0_loc4='This is incredible! You\'re covered in potent, virulent, fantastic blight! Please, allow me to harvest these pristine samples. I will remove any lingering infection from your allies as well, and reward you all for your bravery and self-sacrifice in the name of medicine! Let me know if you are ready to proceed.$B$B[Before proceeding, make sure that ALL raid members are nearby in order for them to receive credit for your accomplishment.]',Text0_1_loc4='This is incredible! You\'re covered in potent, virulent, fantastic blight! Please, allow me to harvest these pristine samples. I will remove any lingering infection from your allies as well, and reward you all for your bravery and self-sacrifice in the name of medicine! Let me know if you are ready to proceed.$B$B[Before proceeding, make sure that ALL raid members are nearby in order for them to receive credit for your accomplishment.]' /* Text0_0: This is incredible! You\'re covered in potent, virulent, fantastic blight! Please, allow me to harvest these pristine samples. I will remove any lingering infection from your allies as well, and reward you all for your bravery and self-sacrifice in the name of medicine! Let me know if you are ready to proceed.$B$B[Before proceeding, make sure that ALL raid members are nearby in order for them to receive credit for your accomplishment.] */ /* Text0_1: This is incredible! You\'re covered in potent, virulent, fantastic blight! Please, allow me to harvest these pristine samples. I will remove any lingering infection from your allies as well, and reward you all for your bravery and self-sacrifice in the name of medicine! Let me know if you are ready to proceed.$B$B[Before proceeding, make sure that ALL raid members are nearby in order for them to receive credit for your accomplishment.] */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15400;
+Text0_0_loc4='This is incredible! You\'re covered in potent, virulent, fantastic blight! Please, allow me to harvest these pristine samples. I will remove any lingering infection from your allies as well, and reward you all for your bravery and self-sacrifice in the name of medicine! Let me know if you are ready to proceed.$B$B[Before proceeding, make sure that ALL raid members are nearby in order for them to receive credit for your accomplishment.]',Text0_1_loc4='This is incredible! You\'re covered in potent, virulent, fantastic blight! Please, allow me to harvest these pristine samples. I will remove any lingering infection from your allies as well, and reward you all for your bravery and self-sacrifice in the name of medicine! Let me know if you are ready to proceed.$B$B[Before proceeding, make sure that ALL raid members are nearby in order for them to receive credit for your accomplishment.]'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15400;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15412;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15415;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15432;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15450;
-Text0_0_loc4='Greetings, hero. I craft and sell Bloodmage armor for magi.$B$B' /* Text0_0: Greetings, hero. I craft and sell Bloodmage armor for magi.$B$B */Text0_0_loc4='Greetings, hero. I craft and sell Dark Coven armor for warlocks.$B$B' /* Text0_0: Greetings, hero. I craft and sell Dark Coven armor for warlocks.$B$B */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15512;
-UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Johaan say Gordo need a tailor to fix Gordo tummy.', WHERE entry=15531; /* Text3_0: Johaan say Gordo need a tailor to fix Gordo tummy. */
+Text0_0_loc4='Greetings, hero. I craft and sell Bloodmage armor for magi.$B$B'
+Text0_0_loc4='Greetings, hero. I craft and sell Dark Coven armor for warlocks.$B$B'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15512;
+UPDATE locales_npc_text SET Text2_1_loc4='', Text3_0_loc4='Johaan say Gordo need a tailor to fix Gordo tummy.', WHERE entry=15531;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15532;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15572;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15602;
@@ -2844,65 +2945,94 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15605;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15606;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15607;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15664;
-Text0_0_loc4='That\'s right, I\'ve seen you here before! How could I forget? I can teleport you to Stratholme now, if you wish.',Text0_1_loc4='That\'s right, I\'ve seen you here before! How could I forget? I can teleport you to Stratholme now, if you wish.' /* Text0_0: That\'s right, I\'ve seen you here before! How could I forget? I can teleport you to Stratholme now, if you wish. */ /* Text0_1: That\'s right, I\'ve seen you here before! How could I forget? I can teleport you to Stratholme now, if you wish. */Text0_0_loc4='I\'m only here in case someone faints. The new recruits get a little excited and occasionally overexert themselves.$B$B...well, that, and sometimes one of the new mechano-tank prototypes explode. Whoops!',Text0_1_loc4='I\'m only here in case someone faints. The new recruits get a little excited and occasionally overexert themselves.$B$B...well, that, and sometimes one of the new mechano-tank prototypes explode. Whoops!' /* Text0_0: I\'m only here in case someone faints. The new recruits get a little excited and occasionally overexert themselves.$B$B...well, that, and sometimes one of the new mechano-tank prototypes explode. Whoops! */ /* Text0_1: I\'m only here in case someone faints. The new recruits get a little excited and occasionally overexert themselves.$B$B...well, that, and sometimes one of the new mechano-tank prototypes explode. Whoops! */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15806;
+Text0_0_loc4='That\'s right, I\'ve seen you here before! How could I forget? I can teleport you to Stratholme now, if you wish.',Text0_1_loc4='That\'s right, I\'ve seen you here before! How could I forget? I can teleport you to Stratholme now, if you wish.'
+Text0_0_loc4='I\'m only here in case someone faints. The new recruits get a little excited and occasionally overexert themselves.$B$B...well, that, and sometimes one of the new mechano-tank prototypes explode. Whoops!',Text0_1_loc4='I\'m only here in case someone faints. The new recruits get a little excited and occasionally overexert themselves.$B$B...well, that, and sometimes one of the new mechano-tank prototypes explode. Whoops!'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15806;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15846;
-Text0_0_loc4='I\'m tellin\' you, that Corin Direbrew\'s a madman.$B$BIt\'s not MY fault he didn\'t get invited to compete at Brewfest! But that didn\'t stop him and all his Dark Iron cronies from roughin\' up my employees and drinking all my brew.$B$BSomeone\'s got to put an end to this!' /* Text0_0: I\'m tellin\' you, that Corin Direbrew\'s a madman.$B$BIt\'s not MY fault he didn\'t get invited to compete at Brewfest! But that didn\'t stop him and all his Dark Iron cronies from roughin\' up my employees and drinking all my brew.$B$BSomeone\'s got to put an end to this! */Text0_0_loc4='The Frost Lord, Ahune, must be stopped.$B$BEven now he is taking form, summoned from his elemental prison by the mad cultists of the Twilight\'s Hammer.$B$BIf he\'s allowed to enter our world completely, he\'ll bury us beneath an eternal winter.',Text0_1_loc4='The Frost Lord, Ahune, must be stopped.$B$BEven now he is taking form, summoned from his elemental prison by the mad cultists of the Twilight\'s Hammer.$B$BIf he\'s allowed to enter our world completely, he\'ll bury us beneath an eternal winter.' /* Text0_0: The Frost Lord, Ahune, must be stopped.$B$BEven now he is taking form, summoned from his elemental prison by the mad cultists of the Twilight\'s Hammer.$B$BIf he\'s allowed to enter our world completely, he\'ll bury us beneath an eternal winter. */ /* Text0_1: The Frost Lord, Ahune, must be stopped.$B$BEven now he is taking form, summoned from his elemental prison by the mad cultists of the Twilight\'s Hammer.$B$BIf he\'s allowed to enter our world completely, he\'ll bury us beneath an eternal winter. */Text0_0_loc4='What?!  What did ye say?!  How dare ye!  Me beer can stand up to any of that rot they serve at Brewfest!$B$BYou\'ll pay for this insult, $C!' /* Text0_0: What?!  What did ye say?!  How dare ye!  Me beer can stand up to any of that rot they serve at Brewfest!$B$BYou\'ll pay for this insult, $C! */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15863;
+Text0_0_loc4='I\'m tellin\' you, that Corin Direbrew\'s a madman.$B$BIt\'s not MY fault he didn\'t get invited to compete at Brewfest! But that didn\'t stop him and all his Dark Iron cronies from roughin\' up my employees and drinking all my brew.$B$BSomeone\'s got to put an end to this!'
+Text0_0_loc4='The Frost Lord, Ahune, must be stopped.$B$BEven now he is taking form, summoned from his elemental prison by the mad cultists of the Twilight\'s Hammer.$B$BIf he\'s allowed to enter our world completely, he\'ll bury us beneath an eternal winter.',Text0_1_loc4='The Frost Lord, Ahune, must be stopped.$B$BEven now he is taking form, summoned from his elemental prison by the mad cultists of the Twilight\'s Hammer.$B$BIf he\'s allowed to enter our world completely, he\'ll bury us beneath an eternal winter.'
+Text0_0_loc4='What?!  What did ye say?!  How dare ye!  Me beer can stand up to any of that rot they serve at Brewfest!$B$BYou\'ll pay for this insult, $C!'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15863;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15864;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15865;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15866;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15873;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15876;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=15877;
- /* Text0_1: While my brother, Drazial, focuses his analysis on the more physical nature of the beasts of the blasted lands, I tend to focus on the more cerebral and spiritual aspects of the wildlife.$B$BIt is true that the beasts exhibit extremely unusual strength, agility, and stamina, but some of them also possess great intelligence and regenerative abilities, untied to their physical being.$B$BPerhaps you would be interested in helping advance my research, $R? */ /* Text0_1: What you want? */Text0_1_loc4='Things can get a little stuffy here in Nethergarde. Sometimes a dwarf just needs a brew to take her mind off her duty for a bit.' /* Text0_1: Things can get a little stuffy here in Nethergarde. Sometimes a dwarf just needs a brew to take her mind off her duty for a bit. */Text0_0_loc4='Welcome to Grom\'gol, $C. Before we get off on the wrong foot, I\'ll have you know that I won\'t have slackers in my Base Camp.. I expect a healthy $R like you to pull your own weight around here.' /* Text0_0: Welcome to Grom\'gol, $C. Before we get off on the wrong foot, I\'ll have you know that I won\'t have slackers in my Base Camp.. I expect a healthy $R like you to pull your own weight around here. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16335;
+
+
+Text0_1_loc4='Things can get a little stuffy here in Nethergarde. Sometimes a dwarf just needs a brew to take her mind off her duty for a bit.'
+Text0_0_loc4='Welcome to Grom\'gol, $C. Before we get off on the wrong foot, I\'ll have you know that I won\'t have slackers in my Base Camp.. I expect a healthy $R like you to pull your own weight around here.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16335;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16336;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16390;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16418;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16432;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16440;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16441;
- /* Text0_1: Welcome to Dolanaar, $C. Let me know if you need any recipes or basic cooking ingredients. */Text0_0_loc4='This is MY WAGON!$B$BMINE!',Text1_1_loc4='On my way down here from Dun Algaz I saw a gnoll hunting Threshadons in the middle of a lake. If you\'ve never seen a dog try to use a spear, you\'re in for a treat!' /* Text0_0: This is MY WAGON!$B$BMINE! */ /* Text1_1: On my way down here from Dun Algaz I saw a gnoll hunting Threshadons in the middle of a lake. If you\'ve never seen a dog try to use a spear, you\'re in for a treat! */
-Text2_1_loc4='I was up at Whelgar\'s a few days ago attempting to...er...liberate...some titan relics from the bones of the dead raptors, and I saw him! Sarltooth lives! Well, he\'s undead, so I guess he doesn\'t live, but he exists. Sarltooth exists!' /* Text2_1: I was up at Whelgar\'s a few days ago attempting to...er...liberate...some titan relics from the bones of the dead raptors, and I saw him! Sarltooth lives! Well, he\'s undead, so I guess he doesn\'t live, but he exists. Sarltooth exists! */ /* Text3_0: They say that the raptor matriarch lives deep within Raptor Ridge, protecting her clutch of eggs. */, Text3_0_loc4='They say that the raptor matriarch lives deep within Raptor Ridge, protecting her clutch of eggs.', WHERE entry=16528; /* Text2_1: I was up at Whelgar\'s a few days ago attempting to...er...liberate...some titan relics from the bones of the dead raptors, and I saw him! Sarltooth lives! Well, he\'s undead, so I guess he doesn\'t live, but he exists. Sarltooth exists! */ /* Text3_0: They say that the raptor matriarch lives deep within Raptor Ridge, protecting her clutch of eggs. */
-Text4_0_loc4='The Dragonmaw are attempting to push out of the Angerfang Encampment and are already raiding the caravan to the east. They\'ve called in two powerful warriors who are leading the charge. If you\'re up for a challenge, you might find them at the Encampment, planning and strategizing and doing other evil Orcish things.' /* Text4_0: The Dragonmaw are attempting to push out of the Angerfang Encampment and are already raiding the caravan to the east. They\'ve called in two powerful warriors who are leading the charge. If you\'re up for a challenge, you might find them at the Encampment, planning and strategizing and doing other evil Orcish things. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16535;
+
+Text0_0_loc4='This is MY WAGON!$B$BMINE!',Text1_1_loc4='On my way down here from Dun Algaz I saw a gnoll hunting Threshadons in the middle of a lake. If you\'ve never seen a dog try to use a spear, you\'re in for a treat!'
+Text2_1_loc4='I was up at Whelgar\'s a few days ago attempting to...er...liberate...some titan relics from the bones of the dead raptors, and I saw him! Sarltooth lives! Well, he\'s undead, so I guess he doesn\'t live, but he exists. Sarltooth exists!'
+, Text3_0_loc4='They say that the raptor matriarch lives deep within Raptor Ridge, protecting her clutch of eggs.', WHERE entry=16528;
+Text4_0_loc4='The Dragonmaw are attempting to push out of the Angerfang Encampment and are already raiding the caravan to the east. They\'ve called in two powerful warriors who are leading the charge. If you\'re up for a challenge, you might find them at the Encampment, planning and strategizing and doing other evil Orcish things.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16535;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16583;
-Text0_1_loc4='Hey there, cutie! Mind rubbing some lotion on my exposed areas?' /* Text0_1: Hey there, cutie! Mind rubbing some lotion on my exposed areas? */ /* Text0_1: We must take what is ours. Our survival depends on it. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16667;
+Text0_1_loc4='Hey there, cutie! Mind rubbing some lotion on my exposed areas?'
+
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16667;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=16719;
- /* Text0_1: You won\'t find a finer firearm anywhere else in Orgrimmar. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17038;
+
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17038;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17140;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17151;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17200;
-Text0_0_loc4='<Eris nods>$BThe Eye has seen so many horrors and wonders.$BIt displays what it feels the one looking into it is most suited to see.' /* Text0_0: <Eris nods>$BThe Eye has seen so many horrors and wonders.$BIt displays what it feels the one looking into it is most suited to see. */Text0_0_loc4='You were. The Eye is never wrong.$BYou are a $G priest:priestess; after all. A powerful $G priest:priestess;, if the Eye showed you this horrible memory.$BYou have come for redemption, yet you yourself do not realize this... Do you?' /* Text0_0: You were. The Eye is never wrong.$BYou are a $G priest:priestess; after all. A powerful $G priest:priestess;, if the Eye showed you this horrible memory.$BYou have come for redemption, yet you yourself do not realize this... Do you? */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17203;
+Text0_0_loc4='<Eris nods>$BThe Eye has seen so many horrors and wonders.$BIt displays what it feels the one looking into it is most suited to see.'
+Text0_0_loc4='You were. The Eye is never wrong.$BYou are a $G priest:priestess; after all. A powerful $G priest:priestess;, if the Eye showed you this horrible memory.$BYou have come for redemption, yet you yourself do not realize this... Do you?'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17203;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17204;
-Text0_0_loc4='You must do what I could not: Save the peasants that were cut down while fleeing from Stratholme.$BThey will walk towards the light, you must ensure their survival. Should too many fall, our cursed existence shall continue - you will have failed.$BEvery ability, prayer and spell that you have learned will be tested. May the Light protect you, $N.' /* Text0_0: You must do what I could not: Save the peasants that were cut down while fleeing from Stratholme.$BThey will walk towards the light, you must ensure their survival. Should too many fall, our cursed existence shall continue - you will have failed.$BEvery ability, prayer and spell that you have learned will be tested. May the Light protect you, $N. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17268;
+Text0_0_loc4='You must do what I could not: Save the peasants that were cut down while fleeing from Stratholme.$BThey will walk towards the light, you must ensure their survival. Should too many fall, our cursed existence shall continue - you will have failed.$BEvery ability, prayer and spell that you have learned will be tested. May the Light protect you, $N.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17268;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17511;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17586;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17772;
-Text0_0_loc4='What!' /* Text0_0: What! */Text0_0_loc4='Weary of one of your demonic charges? Hoping for one with a more pleasing name?$B$B$B$BFor a price, I can assist you in the obliteration of a current minion so that you may summon an entirely new one...',Text0_1_loc4='Weary of one of your demonic charges? Hoping for one with a more pleasing name?$B$B$B$BFor a price, I can assist you in the obliteration of a current minion so that you may summon an entirely new one...' /* Text0_0: Weary of one of your demonic charges? Hoping for one with a more pleasing name?$B$B$B$BFor a price, I can assist you in the obliteration of a current minion so that you may summon an entirely new one... */ /* Text0_1: Weary of one of your demonic charges? Hoping for one with a more pleasing name?$B$B$B$BFor a price, I can assist you in the obliteration of a current minion so that you may summon an entirely new one... */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17838;
+Text0_0_loc4='What!'
+Text0_0_loc4='Weary of one of your demonic charges? Hoping for one with a more pleasing name?$B$B$B$BFor a price, I can assist you in the obliteration of a current minion so that you may summon an entirely new one...',Text0_1_loc4='Weary of one of your demonic charges? Hoping for one with a more pleasing name?$B$B$B$BFor a price, I can assist you in the obliteration of a current minion so that you may summon an entirely new one...'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17838;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17861;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=17880;
-Text0_0_loc4='With all the Siege Engines nearly complete, I\'m getting a bit bored!$B$B$B$BYou\'re not an engineer, are you? Care to compare blueprints...?' /* Text0_0: With all the Siege Engines nearly complete, I\'m getting a bit bored!$B$B$B$BYou\'re not an engineer, are you? Care to compare blueprints...? */UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=20551;
-Text0_0_loc4='<Omarion grumbles something under his breath.>$B$BBut of course I can help you, dear $N. It is my dying wish... my final desire. Please, take this handbook. The information on its pages are a compilation of all that I know and have learned in the past 30 some-odd years of my miserable life. Give the handbook to that good for nothing apprentice of mine that\'s probably sitting on his fat duff at Light\'s Hope Chapel.' /* Text0_0: <Omarion grumbles something under his breath.>$B$BBut of course I can help you, dear $N. It is my dying wish... my final desire. Please, take this handbook. The information on its pages are a compilation of all that I know and have learned in the past 30 some-odd years of my miserable life. Give the handbook to that good for nothing apprentice of mine that\'s probably sitting on his fat duff at Light\'s Hope Chapel. */Text0_0_loc4='A tailor, eh? Very well. What would you like to learn about, tailor?$B$B' /* Text0_0: A tailor, eh? Very well. What would you like to learn about, tailor?$B$B */Text0_0_loc4='A blacksmith, eh? Very well. What would you like to learn about, blacksmith?$B$B' /* Text0_0: A blacksmith, eh? Very well. What would you like to learn about, blacksmith?$B$B */Text0_0_loc4='A leatherworker, eh? Very well. What would you like to learn about, leatherworker?$B$B' /* Text0_0: A leatherworker, eh? Very well. What would you like to learn about, leatherworker?$B$B */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=24404;
+Text0_0_loc4='With all the Siege Engines nearly complete, I\'m getting a bit bored!$B$B$B$BYou\'re not an engineer, are you? Care to compare blueprints...?'
+UPDATE locales_npc_text SET Text2_1_loc4='' WHERE entry=20551;
+Text0_0_loc4='<Omarion grumbles something under his breath.>$B$BBut of course I can help you, dear $N. It is my dying wish... my final desire. Please, take this handbook. The information on its pages are a compilation of all that I know and have learned in the past 30 some-odd years of my miserable life. Give the handbook to that good for nothing apprentice of mine that\'s probably sitting on his fat duff at Light\'s Hope Chapel.'
+Text0_0_loc4='A tailor, eh? Very well. What would you like to learn about, tailor?$B$B'
+Text0_0_loc4='A blacksmith, eh? Very well. What would you like to learn about, blacksmith?$B$B'
+Text0_0_loc4='A leatherworker, eh? Very well. What would you like to learn about, leatherworker?$B$B'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=24404;
 Text0_0_loc4='Of course I do not have the shard. That would be asinine. I walk amongst savages in this cursed land! I cannot take five steps without some crazed orc or human trying to thrust a sharp stick into my hide. At any given time you could very well be speaking to my ghostly spirit.
 Anyhow...$B$BI hid it.
-$B$BGo on... ask me where.' /* Text0_0: Of course I do not have the shard. That would be asinine. I walk amongst savages in this cursed land! I cannot take five steps without some crazed orc or human trying to thrust a sharp stick into my hide. At any given time you could very well be speaking to my ghostly spirit.
-Anyhow...$B$BI hid it.
-$B$BGo on... ask me where. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25006;
+$B$BGo on... ask me where.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25006;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25007;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25008;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25009;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25010;
 Text0_0_loc4='Correct. You\'ve been listening! This minnow is really quite a terrible creature to of my own creation. When I am relaxing I like to think of the unlucky fishermen who have run into this minnow and been devoured whole. I bet they were quite surprised!
-$B$B<Azuregos laughs.>' /* Text0_0: Correct. You\'ve been listening! This minnow is really quite a terrible creature to of my own creation. When I am relaxing I like to think of the unlucky fishermen who have run into this minnow and been devoured whole. I bet they were quite surprised!
-$B$B<Azuregos laughs.> */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25012;
+$B$B<Azuregos laughs.>'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25012;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25013;
-Text0_0_loc4='Right then... You have to build an arcanite buoy and place it in the ocean. My minnow will be attracted to the magical emanations. When he gets near the buoy - BLAMMO! It will explode in a glorious pulse of arcane energy, revealing the minnow\'s true form. Also, you may or may not incur the wrath of Neptulon. A 50/50 chance I would say.' /* Text0_0: Right then... You have to build an arcanite buoy and place it in the ocean. My minnow will be attracted to the magical emanations. When he gets near the buoy - BLAMMO! It will explode in a glorious pulse of arcane energy, revealing the minnow\'s true form. Also, you may or may not incur the wrath of Neptulon. A 50/50 chance I would say. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25015;
+Text0_0_loc4='Right then... You have to build an arcanite buoy and place it in the ocean. My minnow will be attracted to the magical emanations. When he gets near the buoy - BLAMMO! It will explode in a glorious pulse of arcane energy, revealing the minnow\'s true form. Also, you may or may not incur the wrath of Neptulon. A 50/50 chance I would say.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25015;
 Text0_0_loc4='Take this ledger to an old acquaintance of mine in Tanaris. His name is Narain Soothfancy - terrible, terrible psychic but an amazing engineer! He should be able to make sense of it all.
 $B$B
 No need to thank me, $N. It\'s the least I could do.$B$B
-Good day!' /* Text0_0: Take this ledger to an old acquaintance of mine in Tanaris. His name is Narain Soothfancy - terrible, terrible psychic but an amazing engineer! He should be able to make sense of it all.
-$B$B
-No need to thank me, $N. It\'s the least I could do.$B$B
-Good day! */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25017;
-Text0_0_loc4='Hello, $N. What can I do for you?',Text0_1_loc4='Hello, $N. What can I do for you?' /* Text0_0: Hello, $N. What can I do for you? */ /* Text0_1: Hello, $N. What can I do for you? */Text0_0_loc4='You must be hard up to be wandering these Badlands, $C. Hard up like me.$B$BOr maybe you\'re here because you\'re crazy. Crazy, like me.' /* Text0_0: You must be hard up to be wandering these Badlands, $C. Hard up like me.$B$BOr maybe you\'re here because you\'re crazy. Crazy, like me. */Text0_0_loc4='In order to serve the Dark Lady and Varimathras we need to advance the front on the Human Infestation.' /* Text0_0: In order to serve the Dark Lady and Varimathras we need to advance the front on the Human Infestation. */Text0_0_loc4='We are but so close to developing the New Plague that our Dark Lady desires with such fervor.' /* Text0_0: We are but so close to developing the New Plague that our Dark Lady desires with such fervor. */Text0_0_loc4='Thanks to the Warchief, even here in the remains of our former prison, some hope remains, and the Horde rises anew.' /* Text0_0: Thanks to the Warchief, even here in the remains of our former prison, some hope remains, and the Horde rises anew. */UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=60000;
+Good day!'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=25017;
+Text0_0_loc4='Hello, $N. What can I do for you?',Text0_1_loc4='Hello, $N. What can I do for you?'
+Text0_0_loc4='You must be hard up to be wandering these Badlands, $C. Hard up like me.$B$BOr maybe you\'re here because you\'re crazy. Crazy, like me.'
+Text0_0_loc4='In order to serve the Dark Lady and Varimathras we need to advance the front on the Human Infestation.'
+Text0_0_loc4='We are but so close to developing the New Plague that our Dark Lady desires with such fervor.'
+Text0_0_loc4='Thanks to the Warchief, even here in the remains of our former prison, some hope remains, and the Horde rises anew.'
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=60000;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=60001;
-Text0_0_loc4='You got me good boss! How you get by Slip\'kik?? I smart though. I watch next time! Har har!$B$B Nobody get by Slip\'kik no more. Slip\'kik promise!' /* Text0_0: You got me good boss! How you get by Slip\'kik?? I smart though. I watch next time! Har har!$B$B Nobody get by Slip\'kik no more. Slip\'kik promise! */
+Text0_0_loc4='You got me good boss! How you get by Slip\'kik?? I smart though. I watch next time! Har har!$B$B Nobody get by Slip\'kik no more. Slip\'kik promise!'
+
 SET NAMES 'latin1';
