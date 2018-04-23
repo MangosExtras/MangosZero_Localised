@@ -3424,6 +3424,7 @@ UPDATE locales_creature SET name_loc5='[Deprecated for 4.x]黛西',subname_loc5=
 UPDATE locales_creature SET name_loc5='進口商威利克斯' WHERE entry=4508;
 UPDATE locales_creature SET name_loc5='薩迦斯' WHERE entry=4509;
 UPDATE locales_creature SET name_loc5='赫爾拉斯·靜水' WHERE entry=4510;
+UPDATE locales_creature SET name_loc5='阿迦瑪甘沉默之淚' WHERE entry=4511;
 UPDATE locales_creature SET name_loc5='腐爛的阿迦瑪' WHERE entry=4512;
 UPDATE locales_creature SET name_loc5='盛怒的阿迦瑪' WHERE entry=4514;
 UPDATE locales_creature SET name_loc5='亡首侍僧' WHERE entry=4515;
@@ -8770,7 +8771,7 @@ UPDATE locales_creature SET name_loc5='憎恨者' WHERE entry=16011;
 UPDATE locales_creature SET name_loc5='莫克瓦' WHERE entry=16012;
 UPDATE locales_creature SET name_loc5='德莉娜' WHERE entry=16013;
 UPDATE locales_creature SET name_loc5='莫克斯·法力爭奪者' WHERE entry=16014;
-UPDATE locales_creature SET name_loc5='',subname_loc5='奇特試劑商人' WHERE entry=16015;
+UPDATE locales_creature SET name_loc5='兇惡鬥士裁決錘',subname_loc5='奇特試劑商人' WHERE entry=16015;
 UPDATE locales_creature SET name_loc5='安希恩·哈莫' WHERE entry=16016;
 UPDATE locales_creature SET name_loc5='縫補魔像' WHERE entry=16017;
 UPDATE locales_creature SET name_loc5='膽汁反胃者' WHERE entry=16018;
