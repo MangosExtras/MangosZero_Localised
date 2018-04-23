@@ -3744,6 +3744,7 @@ UPDATE locales_item SET name_loc8='Накидка капера' WHERE entry=6179
 UPDATE locales_item SET name_loc8='Кожа сларка' WHERE entry=6180;
 UPDATE locales_item SET name_loc8='Фетиш Хаккара' WHERE entry=6181;
 UPDATE locales_item SET name_loc8='Горящий Факел' WHERE entry=6182;
+UPDATE locales_item SET name_loc8='Незажженный плохой факел' WHERE entry=6183;
 UPDATE locales_item SET name_loc8='Ножка чудовищного краба' WHERE entry=6184;
 UPDATE locales_item SET name_loc8='Медвежья шаль' WHERE entry=6185;
 UPDATE locales_item SET name_loc8='Троггорез' WHERE entry=6186;
