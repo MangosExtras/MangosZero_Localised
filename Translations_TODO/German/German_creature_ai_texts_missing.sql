@@ -14,7 +14,6 @@ UPDATE trans_words SET content_loc3='Obsidion, Rise and Serve your Master!' WHER
 UPDATE trans_words SET content_loc3='At last: one among you is worthy of my knowledge. Worry not: I have probed your thoughts, no harm will come to you.' WHERE word_id = 5906;
 UPDATE trans_words SET content_loc3='This will teach you to lay off the herb, $R.' WHERE word_id = 5600;
 UPDATE trans_words SET content_loc3='You are in the presence of a god!' WHERE word_id = 5575;
-UPDATE trans_words SET content_loc3='Please tell me that you didn\'t just do what I think you just did. Please tell me that I\'m not going to have to hurt you...' WHERE word_id = 95;
 UPDATE trans_words SET content_loc3='You just got MALOWNED!' WHERE word_id = 5562;
 UPDATE trans_words SET content_loc3='TIMMY!' WHERE word_id = 5561;
 UPDATE trans_words SET content_loc3='No rest, for the angry dead.' WHERE word_id = 5555;

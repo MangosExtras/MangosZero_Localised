@@ -64,8 +64,6 @@ UPDATE trans_words SET content_loc3='Aaahhh... Another glorious victory for The 
 UPDATE trans_words SET content_loc3='When is pappa comming back from the fights in Warsong? It has been so long...' WHERE word_id = 7263;
 UPDATE trans_words SET content_loc3='$N, I\'ll make sure all my friends in the Cartel know that you\'ve saved my life today. Here - I\'m going to need to be able to travel light, so please help yourself to my cache of tailoring and leatherworking supplies! Thanks again - see ya!' WHERE word_id = 7342;
 UPDATE trans_words SET content_loc3='%s listens to Sigilbringer\'s report...' WHERE word_id = 7252;
-UPDATE trans_words SET content_loc3='What?? The Burning Blade is spreading! We must investigate!' WHERE word_id = 7253;
-UPDATE trans_words SET content_loc3='%s smashes the dead, twisted claw.' WHERE word_id = 7254;
 UPDATE trans_words SET content_loc3='%s I have created the totem. You, %n, must cleanse the well.' WHERE word_id = 7344;
 UPDATE trans_words SET content_loc3='Zarlman Two-Moons begins chanting as he mixes the well stones and ambercom before the Tribal Fire.' WHERE word_id = 7345;
 

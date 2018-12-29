@@ -462,7 +462,6 @@ UPDATE locales_item SET description_loc3='Teaches you how to permanently enchant
 UPDATE locales_item SET description_loc3='Gor\'tesh\'s severed head, propped up on a pike.' WHERE entry=11079;
 UPDATE locales_item SET description_loc3='Squishy, Smelly, Slimy' WHERE entry=11080;
 UPDATE locales_item SET description_loc3='Teaches you how to permanently enchant a shield with +30 armor.' WHERE entry=11081;
-UPDATE locales_item SET description_loc3='Teaches you how to permanently enchant a cloak so it grants 10 shadow resistance.' WHERE entry=11098;
 UPDATE locales_item SET description_loc3='Teaches you how to permanently enchant a bracer to give +3 Strength.' WHERE entry=11101;
 UPDATE locales_item SET description_loc3='Good for twenty packs of Tharlendris seeds.' WHERE entry=11103;
 UPDATE locales_item SET description_loc3='It always points towards the center of Ungoro Crater...' WHERE entry=11104;

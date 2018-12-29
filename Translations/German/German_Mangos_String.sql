@@ -17,6 +17,7 @@ UPDATE mangos_string SET content_loc3='Ja' WHERE entry=421;
 UPDATE mangos_string SET content_loc3='Nein' WHERE entry=422;
 UPDATE mangos_string SET content_loc3='beliebig' WHERE entry=456;
 UPDATE mangos_string SET content_loc3='Allianz' WHERE entry=457;
+UPDATE mangos_string SET content_loc3='Horde' WHERE entry=458;
 UPDATE mangos_string SET content_loc3='Die Allianz siegt!' WHERE entry=600;
 UPDATE mangos_string SET content_loc3='Die Horde siegt!' WHERE entry=601;
 UPDATE mangos_string SET content_loc3='Der Kampf um die Kriegshymnenschlucht beginnt in 1 Minute.' WHERE entry=602;
@@ -32,6 +33,7 @@ UPDATE mangos_string SET content_loc3='Die Flaggen wurden jetzt wieder an ihren 
 UPDATE mangos_string SET content_loc3='Die Flagge der Allianz steht nun auf ihrem Stützpunkt.' WHERE entry=614;
 UPDATE mangos_string SET content_loc3='Die Flagge der Horde steht nun auf ihrem Stützpunkt.' WHERE entry=615;
 UPDATE mangos_string SET content_loc3='Allianz' WHERE entry=650;
+UPDATE mangos_string SET content_loc3='Horde' WHERE entry=651;
 UPDATE mangos_string SET content_loc3='Ställe' WHERE entry=652;
 UPDATE mangos_string SET content_loc3='Schmied' WHERE entry=653;
 UPDATE mangos_string SET content_loc3='Hof' WHERE entry=654;

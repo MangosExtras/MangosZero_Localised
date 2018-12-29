@@ -346,6 +346,7 @@ UPDATE creature_ai_texts SET content_loc3='Die Gefangenen kommen nicht frei! Mal
 UPDATE creature_ai_texts SET content_loc3='Zu spät zum Weglaufen!' WHERE entry=-1154;
 UPDATE creature_ai_texts SET content_loc3='Sammelt euch...' WHERE entry=-1155;
 UPDATE creature_ai_texts SET content_loc3='Niemand soll entkommen!' WHERE entry=-1156;
+UPDATE creature_ai_texts SET content_loc3='Bitte sagt mir, dass lhr nicht gerade das getan habt, was ich denke. Bitte sagt mir, dass ich Euch nicht wehtun muss...' WHERE entry=-1157;
 UPDATE creature_ai_texts SET content_loc3='Zittert, Würmer!' WHERE entry=-1158;
 UPDATE creature_ai_texts SET content_loc3='Ich zerschmetter\' euch!' WHERE entry=-1159;
 UPDATE creature_ai_texts SET content_loc3='Könnt ihr fliegen?' WHERE entry=-1160;

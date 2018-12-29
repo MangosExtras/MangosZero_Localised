@@ -6602,7 +6602,7 @@ UPDATE locales_item SET name_loc3='Große Astralessenz' WHERE entry=11082;
 UPDATE locales_item SET name_loc3='Seelenstaub' WHERE entry=11083;
 UPDATE locales_item SET name_loc3='Großer gleißender Splitter' WHERE entry=11084;
 UPDATE locales_item SET name_loc3='Jang\'thraze der Beschützer' WHERE entry=11086;
-UPDATE locales_item SET name_loc3='Formel: Umhang - Geringer Schattenwiderstand' WHERE entry=11098;
+UPDATE locales_item SET name_loc3='Formel: Umhang - Geringer Schattenwiderstand',description_loc3='Lehrt Euch, Umhänge dauerhaft zu verzaubern, sodass sie den Schattenwiderstand um 10 erhöhen.' WHERE entry=11098;
 UPDATE locales_item SET name_loc3='Formel: Armschiene - Geringe Stärke' WHERE entry=11101;
 UPDATE locales_item SET name_loc3='Unausgebrütetes Grimmlingflitzerei' WHERE entry=11102;
 UPDATE locales_item SET name_loc3='Samenkorngutschein' WHERE entry=11103;
