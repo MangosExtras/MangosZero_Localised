@@ -210,7 +210,7 @@ color 08
 CLS
 echo.
 echo     __  __      _  _  ___  ___  ___      
-echo    ^|  \/  ^|__ _^| \^| ^|/ __^|/ _ \/ __^|    Database Setup                                      
+echo    ^|  \/  ^|__ _^| \^| ^|/ __^|/ _ \/ __^|    Database Setup
 echo    ^| ^|\/^| / _` ^| .` ^| (_ ^| (_) \__ \
 echo    ^|_^|  ^|_\__,_^|_^|\_^|\___^|\___/^|___/  and World Loader
 echo.
