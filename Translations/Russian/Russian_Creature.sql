@@ -119,7 +119,7 @@ UPDATE locales_creature SET name_loc8='Управляющий Фольсом' WH
 UPDATE locales_creature SET name_loc8='Больной молодой волк' WHERE entry=299;
 UPDATE locales_creature SET name_loc8='Ззарк\'Вул' WHERE entry=300;
 UPDATE locales_creature SET name_loc8='Слепая Мэри' WHERE entry=302;
-UPDATE locales_creature SET name_loc8='Скакун Скверны' WHERE entry=304;
+UPDATE locales_creature SET name_loc8='Конь скверны' WHERE entry=304;
 UPDATE locales_creature SET name_loc8='Белый жеребец' WHERE entry=305;
 UPDATE locales_creature SET name_loc8='Игреневый конь' WHERE entry=306;
 UPDATE locales_creature SET name_loc8='Пегий конь' WHERE entry=307;
@@ -679,7 +679,7 @@ UPDATE locales_creature SET name_loc8='Грюндель Харкин',subname_lo
 UPDATE locales_creature SET name_loc8='Джерн Шлеморог',subname_loc8='Лига Исследователей' WHERE entry=1105;
 UPDATE locales_creature SET name_loc8='Повар из племени Заблудших' WHERE entry=1106;
 UPDATE locales_creature SET name_loc8='Горилла Мглистой долины' WHERE entry=1108;
-UPDATE locales_creature SET name_loc8='Шкуродер' WHERE entry=1109;
+UPDATE locales_creature SET name_loc8='Потрошитель плоти' WHERE entry=1109;
 UPDATE locales_creature SET name_loc8='Скелет-налетчик' WHERE entry=1110;
 UPDATE locales_creature SET name_loc8='Ловец-кровопийца' WHERE entry=1111;
 UPDATE locales_creature SET name_loc8='Кровавая Вдова' WHERE entry=1112;
@@ -2259,7 +2259,7 @@ UPDATE locales_creature SET name_loc8='Пятнистый вепрь' WHERE entr
 UPDATE locales_creature SET name_loc8='Лютый пятнистый вепрь' WHERE entry=3099;
 UPDATE locales_creature SET name_loc8='Старый крапчатый вепрь' WHERE entry=3100;
 UPDATE locales_creature SET name_loc8='Злобный фамилиар' WHERE entry=3101;
-UPDATE locales_creature SET name_loc8='Ловец Скверны' WHERE entry=3102;
+UPDATE locales_creature SET name_loc8='Ловчий Скверны' WHERE entry=3102;
 UPDATE locales_creature SET name_loc8='Макрура-трещот' WHERE entry=3103;
 UPDATE locales_creature SET name_loc8='Макрура-панцирник' WHERE entry=3104;
 UPDATE locales_creature SET name_loc8='Макрура-клешнехват' WHERE entry=3105;
@@ -5291,7 +5291,7 @@ UPDATE locales_creature SET name_loc8='Ангелас Лунный Бриз' WHE
 UPDATE locales_creature SET name_loc8='Сорвиголова-охотник за сокровищами' WHERE entry=7901;
 UPDATE locales_creature SET name_loc8='Буканьер-охотник за сокровищами' WHERE entry=7902;
 UPDATE locales_creature SET name_loc8='Бриллиант',subname_loc8='Питомец Трояса' WHERE entry=7903;
-UPDATE locales_creature SET name_loc8='Джейкоб',subname_loc8='Питомец Ангелас' WHERE entry=7904;
+UPDATE locales_creature SET name_loc8='Джейкоб',subname_loc8='Питомец Анджелы' WHERE entry=7904;
 UPDATE locales_creature SET name_loc8='Дарин Добрый Ветер',subname_loc8='Кенарийский хранитель знаний' WHERE entry=7907;
 UPDATE locales_creature SET name_loc8='Ходячая бомба' WHERE entry=7915;
 UPDATE locales_creature SET name_loc8='Эрелас Янтарное Небо' WHERE entry=7916;
