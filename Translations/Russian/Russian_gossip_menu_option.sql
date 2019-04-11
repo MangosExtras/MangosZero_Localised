@@ -308,6 +308,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Горное дело' W
 UPDATE locales_gossip_menu_option SET option_text_loc8='Снятие шкур' WHERE menu_id=1942 AND id=10;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Портняжное дело' WHERE menu_id=1942 AND id=11;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Мрак\'нел, поведай мне свои тайны!' WHERE menu_id=1945 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc8='Ты получил свое, Мрак\'нел. А теперь поделись своими секретами!' WHERE menu_id=1945 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Ваше рабство заканчивается, Doom\'rel. Я бросаю вам вызов!' WHERE menu_id=1947 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Охотник' WHERE menu_id=1949 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Дробящее оружие' WHERE menu_id=1949 AND id=1;
@@ -340,6 +341,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Ну и где его д
 UPDATE locales_gossip_menu_option SET option_text_loc8='А как он умер?' WHERE menu_id=2055 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Вот так и умер Виндзор...' WHERE menu_id=2056 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Интересно... продолжайте, Джон.' WHERE menu_id=2057 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc8='Железогубитель?' WHERE menu_id=2058 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='И что же вы сделали?' WHERE menu_id=2060 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Почему бы вам с Камнеузлом не пойти и найти какое-нибудь укромное место...' WHERE menu_id=2076 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Где сейчас дирижабль?' WHERE menu_id=2101 AND id=0;
@@ -469,6 +471,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Давай погово�
 UPDATE locales_gossip_menu_option SET option_text_loc8='Я весь внимание.' WHERE menu_id=2950 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Скажи сначала, как тебе вообще удалось туда попасть?' WHERE menu_id=2951 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Мне бы хотелось купить что-нибудь у вас.' WHERE menu_id=2952 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc8='Прошу меня извинить, Лоракс, но я не произносила слова "сумасшедший".' WHERE menu_id=3049 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Уныние' WHERE menu_id=3062 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Вросший ноготь' WHERE menu_id=3062 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Общий упадок сил' WHERE menu_id=3062 AND id=2;
@@ -1180,6 +1183,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Расскажи мне 
 UPDATE locales_gossip_menu_option SET option_text_loc8='Пожалуйста, расскажи мне еще про Зейтара.' WHERE menu_id=5347 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Пожалуйста, расскажи мне еще о Марадоне.' WHERE menu_id=5349 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Доктор, научите меня делать и использовать плотные бинты из магической ткани.' WHERE menu_id=5382 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc8='Доктор, научите меня делать и использовать бинты из рунической ткани.' WHERE menu_id=5382 AND id=1;
+UPDATE locales_gossip_menu_option SET option_text_loc8='Доктор, научите меня, как делать плотные бинты из рунической ткани и как ими пользоваться.' WHERE menu_id=5382 AND id=2;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Я хочу нарисовать герб гильдии.' WHERE menu_id=5461 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Как мне создать гильдию?' WHERE menu_id=5461 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Я хочу нарисовать герб гильдии.' WHERE menu_id=5462 AND id=0;
@@ -1245,6 +1250,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Позвольте вз�
 UPDATE locales_gossip_menu_option SET option_text_loc8='Позвольте взглянуть на ваши товары.' WHERE menu_id=6083 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Позвольте взглянуть на ваши товары.' WHERE menu_id=6085 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Мне бы хотелось купить что-нибудь у вас.' WHERE menu_id=6086 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc8='Я хотел бы оставить своего питомца здесь.' WHERE menu_id=6088 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Нужно собрать маяк для этого чудесного устройства!' WHERE menu_id=6094 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Валестраз, нет!!!' WHERE menu_id=6101 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Мне нужен транспорт.' WHERE menu_id=6162 AND id=0;
@@ -2094,6 +2100,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Я тоже мечтаю
 UPDATE locales_gossip_menu_option SET option_text_loc8='Я не достоин такой похвалы, полководец Клинозуб.' WHERE menu_id=50306 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Сэр! Пока в моем теле есть жизнь!' WHERE menu_id=50307 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Да, сэр! Благодарю, сэр!' WHERE menu_id=50308 AND id=0;
+UPDATE locales_gossip_menu_option SET option_text_loc8='Ага, ты и впрямь умник. Но вот как думаешь, насколько ты умный, а, Слип\'кик?' WHERE menu_id=51002 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Ну, а раз я королева... Что вы мне принесли?!' WHERE menu_id=51003 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc8='Зови меня "босс". Что там у тебя?!' WHERE menu_id=51004 AND id=0;
 

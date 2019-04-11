@@ -100,6 +100,7 @@ UPDATE creature_ai_texts SET content_loc8='Пора повеселиться!' W
 UPDATE creature_ai_texts SET content_loc8='% выпрыгивает из теней!' WHERE entry=-341;
 UPDATE creature_ai_texts SET content_loc8='% призывает больше своих союзников из теней.' WHERE entry=-342;
 UPDATE creature_ai_texts SET content_loc8='%s рычит, а затем обнюхивает вас.' WHERE entry=-343;
+UPDATE creature_ai_texts SET content_loc8='%s смотрит на юго-восток и плачет, а потом вновь поворачивается к вам.' WHERE entry=-344;
 UPDATE creature_ai_texts SET content_loc8='% зовет подкрепление!' WHERE entry=-346;
 UPDATE creature_ai_texts SET content_loc8='Я не стану бежать подобно тебе $C' WHERE entry=-353;
 UPDATE creature_ai_texts SET content_loc8='Ай! Меня убивают!' WHERE entry=-354;
@@ -142,6 +143,7 @@ UPDATE creature_ai_texts SET content_loc8='Должно быть, у них бы
 UPDATE creature_ai_texts SET content_loc8='Внезапно они появились отовсюду.' WHERE entry=-416;
 UPDATE creature_ai_texts SET content_loc8='Да, мои морщины глубоки, как колеи на дороге.' WHERE entry=-423;
 UPDATE creature_ai_texts SET content_loc8='Ах, какая сладкая парочка! А я тут воду разношу, одна на всю округу.' WHERE entry=-424;
+UPDATE creature_ai_texts SET content_loc8='Где вода, Эмма? Найди воду, Эмма... Если бы не я, они бы вообще не знали, как вода выглядит.' WHERE entry=-426;
 UPDATE creature_ai_texts SET content_loc8='Как будто в моем возрасте заняться больше нечем – знай ведра носи!' WHERE entry=-427;
 UPDATE creature_ai_texts SET content_loc8='Мы уже пришли?' WHERE entry=-429;
 UPDATE creature_ai_texts SET content_loc8='Мои ноги повреждены.' WHERE entry=-430;
@@ -313,13 +315,16 @@ UPDATE creature_ai_texts SET content_loc8='Эй! Прочь от наших со
 UPDATE creature_ai_texts SET content_loc8='Вот $N – убейте $Gего:ее;!' WHERE entry=-1119;
 UPDATE creature_ai_texts SET content_loc8='За Калимдор!' WHERE entry=-1133;
 UPDATE creature_ai_texts SET content_loc8='Повелители Змей непобедимы!' WHERE entry=-1135;
+UPDATE creature_ai_texts SET content_loc8='Ану\'дора!' WHERE entry=-1136;
 UPDATE creature_ai_texts SET content_loc8='Иди, $N. Взгляни, что ждет тебя в Кошмаре...' WHERE entry=-1139;
 UPDATE creature_ai_texts SET content_loc8='Кошмар нельзя остановить!' WHERE entry=-1140;
 UPDATE creature_ai_texts SET content_loc8='%s выжимает остатки жизни из |3-1($N) и поглощает $Gего:ее; душу.' WHERE entry=-1141;
 UPDATE creature_ai_texts SET content_loc8='Вы об этом пожалеете.' WHERE entry=-1148;
 UPDATE creature_ai_texts SET content_loc8='Отведай моего клинка, пес!' WHERE entry=-1156;
+UPDATE creature_ai_texts SET content_loc8='Прошу вас, скажите мне, что вы не делали того, о чем я думаю. Я очень не хочу делать вам больно...' WHERE entry=-1157;
 UPDATE creature_ai_texts SET content_loc8='Нам что, без тебя проблем не хватает?!' WHERE entry=-1158;
 UPDATE creature_ai_texts SET content_loc8='Это лучшее, на что ты $Gспособен:способна;?' WHERE entry=-1159;
+UPDATE creature_ai_texts SET content_loc8='Я плохо вижу через этот туман, но запах-то чую! Умри, проклятый огр!' WHERE entry=-1160;
 UPDATE creature_ai_texts SET content_loc8='Император Тауриссан не желает, чтобы его беспокоили! Поворачивайте назад или встречайте свою погибель, жалкие смертные!' WHERE entry=-1194;
 UPDATE creature_ai_texts SET content_loc8='Сейчас тебя отмэлоунят!' WHERE entry=-1195;
 UPDATE creature_ai_texts SET content_loc8='Тебя ОТМЭЛОУНИЛИ!' WHERE entry=-1196;
@@ -332,6 +337,8 @@ UPDATE creature_ai_texts SET content_loc8='Мы жаждем мести.' WHERE 
 UPDATE creature_ai_texts SET content_loc8='Нет покоя свирепому мертвецу!' WHERE entry=-1203;
 UPDATE creature_ai_texts SET content_loc8='Еще... Еще душ!' WHERE entry=-1204;
 UPDATE creature_ai_texts SET content_loc8='Спустить псов!' WHERE entry=-1205;
+UPDATE creature_ai_texts SET content_loc8='ВЫХОДИ К ВЕРШИНЕ ЖАНЕЙРО. Я ЖДУ ТЕБЯ, СМОТТС...' WHERE entry=-1209;
+UPDATE creature_ai_texts SET content_loc8='ОБЕЩАЮ, ЧТО В ЭТОТ РАЗ Я ТВОЮ КОМАНДУ НЕ УБЬЮ. ХА! НО ВОТ БРАТ МОЙ МОЖЕТ ЕЮ ПОЛАКОМИТЬСЯ!' WHERE entry=-1210;
 UPDATE creature_ai_texts SET content_loc8='В ТОТ РАЗ МЫ ТАК СЛАВНО ПОВЕСЕЛИЛИСЬ... ВЫХОДИ ЖЕ!' WHERE entry=-1212;
 UPDATE creature_ai_texts SET content_loc8='Вы не уйдете отсюда живыми.' WHERE entry=-1221;
 UPDATE creature_ai_texts SET content_loc8='Ко мне, слуги мои!' WHERE entry=-1222;

@@ -4005,6 +4005,7 @@ UPDATE locales_gameobject SET name_loc8='Транстелепорт' WHERE entry
 UPDATE locales_gameobject SET name_loc8='Транстелепорт' WHERE entry=142176;
 UPDATE locales_gameobject SET name_loc8='Соларсальская Беседка' WHERE entry=142179;
 UPDATE locales_gameobject SET name_loc8='Краденый груз' WHERE entry=142181;
+UPDATE locales_gameobject SET name_loc8='Сундук капитана' WHERE entry=142184;
 UPDATE locales_gameobject SET name_loc8='Пламя Бильтана' WHERE entry=142185;
 UPDATE locales_gameobject SET name_loc8='Пламя Лахассы' WHERE entry=142186;
 UPDATE locales_gameobject SET name_loc8='Пламя Имбела' WHERE entry=142187;
