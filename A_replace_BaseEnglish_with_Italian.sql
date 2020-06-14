@@ -5,7 +5,7 @@
 -- -----------------------------------------------------------------------------------------------------------------------
 -- ATTENZIONE: Eseguire questo script sostituirà il testo Inglese nel Database World originale con la versione localizzata
 -- -----------------------------------------------------------------------------------------------------------------------
--- 1/13
+-- 1/14
 -- Update Creature_Template
 UPDATE `creature_template`
 INNER JOIN `locales_creature` ON `creature_template`.`entry` = `locales_creature`.`Entry`
@@ -18,26 +18,26 @@ INNER JOIN `locales_creature` ON `creature_template`.`entry` = `locales_creature
 SET creature_template.`subName`=`locales_creature`.`subname_loc9`
 WHERE `locales_creature`.`subname_loc9` <>'';
 
--- 2/13
+-- 2/14
 UPDATE `creature_ai_texts`
 SET `content_default` = `content_loc9`;
 
--- 3/13
+-- 3/14
 UPDATE `db_script_string`
 SET `content_default` = `content_loc9` ;
 
--- 4/13
+-- 4/14
 -- Update GameObject_Template
 UPDATE `gameobject_template`
 INNER JOIN `locales_gameobject` ON `gameobject_template`.`entry` = `locales_gameobject`.`Entry`
 SET gameobject_template.`Name` = `locales_gameobject`.`name_loc9`
 WHERE `locales_gameobject`.`name_loc9` <>'';
 
--- 5/13
+-- 5/14
 UPDATE `gossip_texts`
 SET `content_default` = `content_loc9` ;
 
--- 6/13
+-- 6/14
 -- Update Gossip_menu
 UPDATE `gossip_menu_option`
 INNER JOIN `locales_gossip_menu_option` ON gossip_menu_option.`menu_id`=`locales_gossip_menu_option`.`menu_id` AND gossip_menu_option.`id`=`locales_gossip_menu_option`.`id`
@@ -50,7 +50,7 @@ INNER JOIN `locales_gossip_menu_option` ON gossip_menu_option.`menu_id`=`locales
 SET gossip_menu_option.`box_text`=`locales_gossip_menu_option`.`box_text_loc9`
 WHERE `locales_gossip_menu_option`.`box_text_loc9` <>'';
 
--- 7/13
+-- 7/14
 -- Update item_template
 UPDATE `item_template`
 INNER JOIN `locales_item` ON item_template.`Entry`=`locales_item`.`entry`
@@ -63,7 +63,7 @@ INNER JOIN `locales_item` ON item_template.`Entry`=`locales_item`.`entry`
 SET item_template.`description`=COALESCE(`locales_item`.`description_loc9`,'')
 WHERE `locales_item`.`description_loc9` <>'';
  
--- 8/13 
+-- 8/14 
 UPDATE `mangos_string`
 SET `content_default` = `content_loc9` ; 
 
@@ -138,11 +138,11 @@ INNER JOIN `locales_quest` ON quest_template.`entry`=`locales_quest`.`entry`
 SET quest_template.`ObjectiveText4`=`locales_quest`.`ObjectiveText4_loc9`
 WHERE `locales_quest`.`ObjectiveText4_loc9` <>'';
 
--- 12/13
+-- 12/14
 UPDATE `script_texts`
 SET `content_default` = `content_loc9`;
 
--- 13/13
+-- 13/14
 -- Update npc_text
 UPDATE `npc_text`
 INNER JOIN `locales_npc_text` ON npc_text.`id`=`locales_npc_text`.`entry` 
@@ -239,4 +239,8 @@ INNER JOIN `locales_npc_text` ON npc_text.`id`=`locales_npc_text`.`entry`
 SET npc_text.`Text7_1`=`locales_npc_text`.`Text7_1_loc9`
 WHERE `locales_npc_text`.`Text7_1_loc9`<>'';
 
-
+-- 14/14
+UPDATE `command`
+INNER JOIN `locales_command` ON `command`.`id`=`locales_command`.`id`
+SET `command`.`help_text`=`locales_command`.`help_text_loc9`);
+WHERE `locales_command`.`help_text_loc9`<>'';

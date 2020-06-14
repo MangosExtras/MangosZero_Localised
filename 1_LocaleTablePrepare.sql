@@ -2,6 +2,9 @@
 -- It will only add entries in the locale table for tables which are missing
 
 -- Create the Locales base entries from main table
+INSERT INTO `locales_command` (`id`)  SELECT `id` FROM `command` WHERE `id` NOT IN (SELECT `id` FROM `locales_command`);
+
+-- Create the Locales base entries from main table
 INSERT INTO `locales_creature` (`entry`) SELECT `entry` FROM `creature_template` WHERE `entry` NOT IN (SELECT `entry` FROM `locales_creature`);
 
 -- Create the Locales base entries from main table
