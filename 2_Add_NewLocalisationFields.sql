@@ -1,6 +1,6 @@
         ALTER TABLE `locales_command`
-            ADD COLUMN `help_text_loc0` VARCHAR(100) NOT NULL DEFAULT '' AFTER `id`,
-            ADD COLUMN `help_text_loc9` VARCHAR(100) AFTER `help_text_loc8`;
+            ADD COLUMN `help_text_loc0` LONGTEXT DEFAULT '' AFTER `id`,
+            ADD COLUMN `help_text_loc9` LONGTEXT AFTER `help_text_loc8`;
 
         ALTER TABLE `locales_creature`
             ADD COLUMN `name_loc0` VARCHAR(100) NOT NULL DEFAULT '' AFTER `entry`,
