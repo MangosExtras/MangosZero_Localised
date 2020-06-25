@@ -1,7 +1,7 @@
 -- 1/14
 UPDATE `locales_creature`
-INNER JOIN `creature_template` ON `locales_creature`.`entry` = 'creature_template'.`Entry`
-SET `locales_creature`.`name_loc0` = 'creature_template'.`Name`,`locales_creature`.`subname_loc0` = COALESCE('creature_template'.`subName`,'');
+INNER JOIN `creature_template` ON `locales_creature`.`entry` = `creature_template`.`Entry`
+SET `locales_creature`.`name_loc0` = `creature_template`.`Name`,`locales_creature`.`subname_loc0` = COALESCE(`creature_template`.`subName`,'');
 
 -- 2/14
 UPDATE `creature_ai_texts`
