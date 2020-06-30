@@ -18,8 +18,6 @@ UPDATE `trans_words` SET `content_loc2`='All players saved.' WHERE `word_id` = 4
 UPDATE `trans_words` SET `content_loc2`='There are the following active GMs on this server:' WHERE `word_id` = 4179;
 UPDATE `trans_words` SET `content_loc2`='There are no GMs currently logged in on this server.' WHERE `word_id` = 4180;
 UPDATE `trans_words` SET `content_loc2`='Cannot do that while flying.' WHERE `word_id` = 4181;
-UPDATE `trans_words` SET `content_loc2`='Cannot do that in Battlegrounds.' WHERE `word_id` = 4182;
-UPDATE `trans_words` SET `content_loc2`='Target is flying you can\'t do that.' WHERE `word_id` = 4183;
 UPDATE `trans_words` SET `content_loc2`='You are not mounted so you can\'t dismount.' WHERE `word_id` = 4185;
 UPDATE `trans_words` SET `content_loc2`='Cannot do that while fighting.' WHERE `word_id` = 4186;
 UPDATE `trans_words` SET `content_loc2`='You used it recently.' WHERE `word_id` = 4187;
