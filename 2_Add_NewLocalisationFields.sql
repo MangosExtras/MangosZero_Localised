@@ -1,5 +1,5 @@
         ALTER TABLE `locales_command`
-            ADD COLUMN `help_text_loc0` LONGTEXT DEFAULT '' AFTER `id`,
+            ADD COLUMN `help_text_loc0` LONGTEXT AFTER `id`,
             ADD COLUMN `help_text_loc9` LONGTEXT AFTER `help_text_loc8`;
 
         ALTER TABLE `locales_creature`
