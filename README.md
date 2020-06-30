@@ -36,20 +36,20 @@ The language pack currently consists of 14 files:
     <Language>_CommandHelp.sql
     <Language>_Creature.sql
     <Language>_Creature_AI_Texts.sql
+    <Language>_db_script_string.sql
     <Language>_Gameobject.sql
+    <Language>_gossip_menu_option.sql
     <Language>_Gossip_texts.sql
     <Language>_Items.sql
     <Language>_Mangos_String.sql
     <Language>_NpcText.sql
     <Language>_Pagetext.sql
+    <Language>_points_of_interest.sql
     <Language>_Quest.sql
     <Language>_Script_texts.sql
-    <Language>_db_script_string.sql
-    <Language>_gossip_menu_option.sql
-    <Language>_points_of_interest.sql
 
 
-The 13 files ending in `_missing.sql` are entries that need to be translated.
+The 14 files ending in `_missing.sql` are entries that need to be translated.
 
 ### Using the Translated Locale on a different language client than the Locale
 
@@ -66,17 +66,17 @@ The language pack currently consists of 14 files:
     <Language>_CommandHelp.sql
     <Language>_Creature.sql
     <Language>_Creature_AI_Texts.sql
+    <Language>_db_script_string.sql
     <Language>_Gameobject.sql
+    <Language>_gossip_menu_option.sql
     <Language>_Gossip_texts.sql
     <Language>_Items.sql
     <Language>_Mangos_String.sql
     <Language>_NpcText.sql
     <Language>_Pagetext.sql
+    <Language>_points_of_interest.sql
     <Language>_Quest.sql
     <Language>_Script_texts.sql
-    <Language>_db_script_string.sql
-    <Language>_gossip_menu_option.sql
-    <Language>_points_of_interest.sql
     
 3) Then run the remaining script
     `A_replace_BaseEnglish_with_<Language>.sql`
