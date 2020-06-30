@@ -4937,9 +4937,9 @@ UPDATE `locales_quest` SET `title_loc4`='展开攻击！',`offerrewardtext_loc4`
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='我的军队已经整装待发，准备攻击。只要诺雷格.雷矛中尉一声令下，我们就会发起冲锋!' WHERE `entry`=6846;
 UPDATE `locales_quest` SET `title_loc4`='雷尔松的全视之眼',`details_loc4`='你们在奥特莱克山脉大举交战对辛迪加来说没什么意义，$C。我们会按照惯例来做，等待时机，直到看见你们分出胜负，然后趁势发起攻击。但是，那并不是我们现在留在这里的原因。我的全视之眼不见了，它被这里的冰斧巨魔给拿走了。找到全视之眼，然后我们就会为你效力——直到分出胜负。当你拿到全视之眼后就回到我这里来，然后我就可以好好看看你了。$N;指挥官雷尔松咧嘴笑着。$G;',`objectives_loc4`='从冰斧巨魔洞穴中找到雷尔松的全视之眼，然后回到指挥官雷尔松那里。要当心，据说雷尔松的全视之眼带有可怕的诅咒！' WHERE `entry`=6847;
 UPDATE `locales_quest` SET `title_loc4`='雷尔松的全视之眼',`details_loc4`='你们在奥特莱克山脉大举交战对辛迪加来说没什么意义，$C。我们会按照惯例来做，等待时机，直到看见你们分出胜负，然后趁势发起攻击。但是，那并不是我们现在留在这里的原因。我的全视之眼不见了，它被这里的冰斧巨魔给拿走了。找到全视之眼，然后我们就会为你效力——直到分出胜负。当你拿到全视之眼后就回到我这里来，然后我就可以好好看看你了。$N;指挥官雷尔松咧嘴笑着。$G;',`objectives_loc4`='从冰斧巨魔洞穴中找到雷尔松的全视之眼，然后回到指挥官雷尔松那里。要当心，据说雷尔松的全视之眼带有可怕的诅咒！' WHERE `entry`=6848;
-UPDATE `locales_quest` SET `title_loc4`='斯菲莱克斯的便携式伐木机',`objectives_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。' WHERE `entry`=6861;
+UPDATE `locales_quest` SET `title_loc4`='斯菲莱克斯的便携式伐木机',`details_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。',`objectives_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。' WHERE `entry`=6861;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='「像山那么大的一堆」是个哥布尔工程学的术语……' WHERE `entry`=6861;
-UPDATE `locales_quest` SET `title_loc4`='斯菲莱克斯的便携式伐木机',`objectives_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。' WHERE `entry`=6862;
+UPDATE `locales_quest` SET `title_loc4`='斯菲莱克斯的便携式伐木机',`details_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。',`objectives_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。' WHERE `entry`=6862;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='「像山那么大的一堆」是个哥布尔工程学的术语……' WHERE `entry`=6862;
 UPDATE `locales_quest` SET `title_loc4`='森林之王伊弗斯',`offerrewardtext_loc4`='干得好，$N，但是我们还需要更多的水晶。森林之王是我们对抗堕落力量的关键!$B$B' WHERE `entry`=6881;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='霜狼氏族被一种堕落的元素能量保护着。如果我们不加以注意的话，他们的萨满必然会利用这种力量来毁掉我们。$B$B这种能量已经不是议会可以控制的了!我们必须找到伊弗斯，寻求他的帮助。$B$B霜狼氏族的战士身上带着一种名叫暴风水晶的符咒，我们可以用这些符咒来召唤伊弗斯。快去拿来那些水晶吧，$N!' WHERE `entry`=6881;
@@ -5100,7 +5100,7 @@ UPDATE `locales_quest` SET `title_loc4`='通缉：兽人!',`details_loc4`='根�
 UPDATE `locales_quest` SET `title_loc4`='暗矛的防御' WHERE `entry`=7421;
 UPDATE `locales_quest` SET `title_loc4`='踏平侏儒' WHERE `entry`=7422;
 UPDATE `locales_quest` SET `title_loc4`='更多的骨头' WHERE `entry`=7423;
-UPDATE `locales_quest` SET `title_loc4`='牛头人的蹄子',`details_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。',`offerrewardtext_loc4`='<德尔克把蹄子丢到他身后的一堆蹄子里面去。>$B$B继续好好做，$N。' WHERE `entry`=7424;
+UPDATE `locales_quest` SET `title_loc4`='牛头人的蹄子',`details_loc4`='让他们个个都变成瘸子，$N。让他们知道地精可不是好欺负的!',`offerrewardtext_loc4`='<德尔克把蹄子丢到他身后的一堆蹄子里面去。>$B$B继续好好做，$N。' WHERE `entry`=7424;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='让他们个个都变成瘸子，$N。让他们知道地精可不是好欺负的!' WHERE `entry`=7424;
 UPDATE `locales_quest` SET `title_loc4`='鹿盔的魔精悬赏' WHERE `entry`=7425;
 UPDATE `locales_quest` SET `title_loc4`='光明的关爱' WHERE `entry`=7426;
@@ -5762,7 +5762,7 @@ UPDATE `locales_quest` SET `title_loc4`='钓鱼学徒',`offerrewardtext_loc4`='�
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='虽然比赛冠军已经出来了，但是我仍然会以合理的价格收购你钓到的鱼。怎麽样?' WHERE `entry`=8194;
 UPDATE `locales_quest` SET `title_loc4`='祖利安、拉扎什和哈卡莱硬币',`offerrewardtext_loc4`='棒极了─这套硬币将进一步扩充我们的宝库……并用於抵抗血神哈卡崛起的邪恶势力。$N，你已经获得了荣誉勳章以及整个部族的感谢!$B$B' WHERE `entry`=8195;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='我在寻找被称为部族硬币的权力珍宝。在过去，祖尔格拉布的居民们将它们作为流通货币使用，每一枚硬币都浸入了微量而强效的魔精。$B$B这些硬币分为9种。如果你有多余的硬币，我可以按三枚硬币对应一枚荣誉勳章的价值跟你交换，然後你就可以用勳章跟林沃斯换取某些特殊的物品。' WHERE `entry`=8195;
-UPDATE `locales_quest` SET `title_loc4`='芒果精华',`offerrewardtext_loc4`='公平的交易，我的朋友─请接受部族的祝福，并尽情享受来自南海的甘甜水果吧!$B$B' WHERE `entry`=8196;
+UPDATE `locales_quest` SET `title_loc4`='芒果精华',`details_loc4`='南海的许多岛屿上都生长着拥有强效精华的芒果树。吃下芒果的人在身体上和精神上都会有焕然一新的感觉。如果你没有吃过，那真是太可惜了!$B$B这岛上有足够的芒果，你可以用赞达拉荣誉勳章来跟我们交换。如果你想知道如何获得勳章，就去跟温卡萨谈谈。如果你有勳章的话，我们就立即交易吧!',`offerrewardtext_loc4`='公平的交易，我的朋友─请接受部族的祝福，并尽情享受来自南海的甘甜水果吧!$B$B' WHERE `entry`=8196;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='南海的许多岛屿上都生长着拥有强效精华的芒果树。吃下芒果的人在身体上和精神上都会有焕然一新的感觉。如果你没有吃过，那真是太可惜了!$B$B这岛上有足够的芒果，你可以用赞达拉荣誉勳章来跟我们交换。如果你想知道如何获得勳章，就去跟温卡萨谈谈。如果你有勳章的话，我们就立即交易吧!' WHERE `entry`=8196;
 UPDATE `locales_quest` SET `title_loc4`='祭司的头颅',`details_loc4`='这是真的。哈卡现在藏身在祖尔格拉布中，他正沐浴在我们的神的力量之下。被迷惑的高阶祭司们正将我们最神圣的能量传输给夺灵者，他的力量即将超过艾泽拉斯世界上所有的生物。我们必须阻止他！$B$B拿着这根神圣之索，将它穿过负责传输我们神的能量的高阶祭司们的头颅。$B$B当你完成了这一步之后，就回到我这里来。',`objectives_loc4`='将神圣之索穿上5颗导魔师的头颅，然后把这一串头颅交给尤亚姆巴岛上的伊克萨尔。',`offerrewardtext_loc4`='你拿到头颅了!你阻止了哈卡继续劫掠我们的神之力量，并削弱了哈卡!$B$B你做出了英雄般的壮举，$N。愿这些食人妖头颅的主人在他们的鲜血流尽之後得到宽恕。$B$B' WHERE `entry`=8201;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='你拿到那些头颅了吗，$N?我们必须在哈卡获得更多力量前阻止他!' WHERE `entry`=8201;

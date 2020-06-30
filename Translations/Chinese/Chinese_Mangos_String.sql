@@ -5,8 +5,6 @@ UPDATE `mangos_string` SET `content_loc4`='你需要选择一个生物' WHERE `e
 UPDATE `mangos_string` SET `content_loc4`='|cffff0000[系统消息]: %s|r' WHERE `entry`=3;
 UPDATE `mangos_string` SET `content_loc4`='|cffff0000[事件消息]: %s|r' WHERE `entry`=4;
 UPDATE `mangos_string` SET `content_loc4`='飞行时不能那样做' WHERE `entry`=18;
-UPDATE `mangos_string` SET `content_loc4`='战场中不能那样做' WHERE `entry`=19;
-UPDATE `mangos_string` SET `content_loc4`='目标在飞行中，你不能那样做' WHERE `entry`=20;
 UPDATE `mangos_string` SET `content_loc4`='没有上马，因此你不能下马' WHERE `entry`=22;
 UPDATE `mangos_string` SET `content_loc4`='战斗中不能那样做' WHERE `entry`=23;
 UPDATE `mangos_string` SET `content_loc4`='你最近刚使用过' WHERE `entry`=24;
