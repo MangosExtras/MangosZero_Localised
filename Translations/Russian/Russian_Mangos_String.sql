@@ -18,8 +18,6 @@ UPDATE `mangos_string` SET `content_loc8`='Все игроки сохранен�
 UPDATE `mangos_string` SET `content_loc8`='На этом сервере есть следующие активные гейм-мастеры' WHERE `entry`=16;
 UPDATE `mangos_string` SET `content_loc8`='На этом сервере нет гейм-мастеров вошедших в игру.' WHERE `entry`=17;
 UPDATE `mangos_string` SET `content_loc8`='Не могу сделать это в полете.' WHERE `entry`=18;
-UPDATE `mangos_string` SET `content_loc8`='Не могу сделать это на Полях битвы.' WHERE `entry`=19;
-UPDATE `mangos_string` SET `content_loc8`='Цель летает, вы не можете сделать этого.' WHERE `entry`=20;
 UPDATE `mangos_string` SET `content_loc8`='%s летает, команда не выполнена.' WHERE `entry`=21;
 UPDATE `mangos_string` SET `content_loc8`='Вы не можете слезть с ездового животного, так как вы не на нем.' WHERE `entry`=22;
 UPDATE `mangos_string` SET `content_loc8`='Не могу сделать это в бою.' WHERE `entry`=23;
