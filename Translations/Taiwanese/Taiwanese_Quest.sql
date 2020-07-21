@@ -1100,8 +1100,8 @@ UPDATE `locales_quest` SET `RequestItemsText_loc5`='你需要什麼嗎?' WHERE `
 UPDATE `locales_quest` SET `title_loc5`='來自前線的信件' WHERE `entry`=9295;
 UPDATE `locales_quest` SET `title_loc5`='黯淡的亡域水晶' WHERE `entry`=9310;
 UPDATE `locales_quest` SET `title_loc5`='受祝福的巫師之油' WHERE `entry`=9318;
-UPDATE `locales_quest` SET `ObjectiveText1_loc5`='營火 - 厄運之槌',`ObjectiveText2_loc5`='營火 - 黑石塔' WHERE `entry`=9319;
-UPDATE `locales_quest` SET `ObjectiveText3_loc5`='營火 - 斯坦索姆',`ObjectiveText4_loc5`='營火 - 通靈學院' WHERE `entry`=9319;
+UPDATE `locales_quest` SET `ObjectiveText1_loc5`='營火 - 黑石塔',`ObjectiveText2_loc5`='營火 - 厄運之槌' WHERE `entry`=9319;
+UPDATE `locales_quest` SET `ObjectiveText3_loc5`='營火 - 通靈學院',`ObjectiveText4_loc5`='營火 - 斯坦索姆' WHERE `entry`=9319;
 UPDATE `locales_quest` SET `title_loc5`='極效法力藥水' WHERE `entry`=9320;
 UPDATE `locales_quest` SET `title_loc5`='受祝福的巫師之油' WHERE `entry`=9334;
 UPDATE `locales_quest` SET `title_loc5`='極效治療藥水' WHERE `entry`=9336;
@@ -1109,7 +1109,7 @@ UPDATE `locales_quest` SET `title_loc5`='極效法力藥水' WHERE `entry`=9337;
 UPDATE `locales_quest` SET `title_loc5`='銀色黎明外袍' WHERE `entry`=9341;
 UPDATE `locales_quest` SET `title_loc5`='銀色黎明外袍' WHERE `entry`=9343;
 UPDATE `locales_quest` SET `title_loc5`='督軍克雷利安' WHERE `entry`=9362;
-UPDATE `locales_quest` SET `ObjectiveText1_loc5`='營火 - 厄運之槌',`ObjectiveText2_loc5`='營火 - 黑石塔' WHERE `entry`=9386;
-UPDATE `locales_quest` SET `ObjectiveText3_loc5`='營火 - 斯坦索姆',`ObjectiveText4_loc5`='營火 - 通靈學院' WHERE `entry`=9386;
+UPDATE `locales_quest` SET `ObjectiveText1_loc5`='營火 - 黑石塔',`ObjectiveText2_loc5`='營火 - 厄運之槌' WHERE `entry`=9386;
+UPDATE `locales_quest` SET `ObjectiveText3_loc5`='營火 - 通靈學院',`ObjectiveText4_loc5`='營火 - 斯坦索姆' WHERE `entry`=9386;
 
 SET NAMES 'latin1';

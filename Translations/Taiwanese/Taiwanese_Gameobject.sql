@@ -6343,9 +6343,6 @@ UPDATE `locales_gameobject` SET `name_loc5`='帕米拉的洋娃娃陷阱' WHERE 
 UPDATE `locales_gameobject` SET `name_loc5`='帕米拉的洋娃娃的左身' WHERE `entry`=176142;
 UPDATE `locales_gameobject` SET `name_loc5`='帕米拉的洋娃娃的右身' WHERE `entry`=176143;
 UPDATE `locales_gameobject` SET `name_loc5`='約瑟夫·雷德帕斯的紀念碑' WHERE `entry`=176145;
-UPDATE `locales_gameobject` SET `name_loc5`='Doodad_Ahn_Qiraj_DoorPlug01' WHERE `entry`=176146;
-UPDATE `locales_gameobject` SET `name_loc5`='Doodad_Ahn_Qiraj_DoorRoots01' WHERE `entry`=176147;
-UPDATE `locales_gameobject` SET `name_loc5`='Doodad_Ahn_Qiraj_DoorRunes01' WHERE `entry`=176148;
 UPDATE `locales_gameobject` SET `name_loc5`='發黴的書籍' WHERE `entry`=176150;
 UPDATE `locales_gameobject` SET `name_loc5`='發黴的書籍' WHERE `entry`=176151;
 UPDATE `locales_gameobject` SET `name_loc5`='發黴的書籍陷阱' WHERE `entry`=176152;
@@ -7288,7 +7285,6 @@ UPDATE `locales_gameobject` SET `name_loc5`='范達爾的文件' WHERE `entry`=1
 UPDATE `locales_gameobject` SET `name_loc5`='范達爾的文件' WHERE `entry`=179008;
 UPDATE `locales_gameobject` SET `name_loc5`='雷矛旌旗' WHERE `entry`=179024;
 UPDATE `locales_gameobject` SET `name_loc5`='霜狼旌旗' WHERE `entry`=179025;
-UPDATE `locales_gameobject` SET `name_loc5`='[PH] Horde Graveyard Banner BIG' WHERE `entry`=179064;
 UPDATE `locales_gameobject` SET `name_loc5`='熊熊大火' WHERE `entry`=179065;
 UPDATE `locales_gameobject` SET `name_loc5`='煙霧生成器, 大型 AOI, 規模 2' WHERE `entry`=179066;
 UPDATE `locales_gameobject` SET `name_loc5`='篝火' WHERE `entry`=179084;
