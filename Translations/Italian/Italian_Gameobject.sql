@@ -6348,7 +6348,6 @@ UPDATE `locales_gameobject` SET `name_loc9`='Trappola Bambola di Pamela' WHERE `
 UPDATE `locales_gameobject` SET `name_loc9`='Parte Sinistra della Bambola di Pamela' WHERE `entry`=176142;
 UPDATE `locales_gameobject` SET `name_loc9`='Parte Destra della Bambola di Pamela' WHERE `entry`=176143;
 UPDATE `locales_gameobject` SET `name_loc9`='Monumento di Joseph Redpath' WHERE `entry`=176145;
-UPDATE `locales_gameobject` SET `name_loc9`='Cancelli di Ahn\'Qiraj' WHERE `entry`=176146;
 UPDATE `locales_gameobject` SET `name_loc9`='Radici dei Cancelli di Ahn\'Qiraj' WHERE `entry`=176147;
 UPDATE `locales_gameobject` SET `name_loc9`='Rune dei Cancelli di Ahn\'Qiraj' WHERE `entry`=176148;
 UPDATE `locales_gameobject` SET `name_loc9`='Tomo Ammuffito' WHERE `entry`=176150;
@@ -7271,7 +7270,6 @@ UPDATE `locales_gameobject` SET `name_loc9`='Documenti di Vanndar' WHERE `entry`
 UPDATE `locales_gameobject` SET `name_loc9`='Stendardo Stormpike' WHERE `entry`=179024;
 UPDATE `locales_gameobject` SET `name_loc9`='Stendardo Frostwolf' WHERE `entry`=179025;
 UPDATE `locales_gameobject` SET `name_loc9`='[PH] Stendardo Alleanza Cimitero di Mezzo GRANDE' WHERE `entry`=179044;
-UPDATE `locales_gameobject` SET `name_loc9`='[PH] Stendardo Orda Cimitero di Mezzo GRANDE' WHERE `entry`=179064;
 UPDATE `locales_gameobject` SET `name_loc9`='Fiamma Ruggente' WHERE `entry`=179065;
 UPDATE `locales_gameobject` SET `name_loc9`='Emettitore di Fumo, AOI Grande, dimensione 2' WHERE `entry`=179066;
 UPDATE `locales_gameobject` SET `name_loc9`='Fuoco da Campo' WHERE `entry`=179084;
