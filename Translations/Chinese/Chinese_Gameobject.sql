@@ -6586,7 +6586,6 @@ UPDATE `locales_gameobject` SET `name_loc4`='帕米拉的洋娃娃陷阱' WHERE 
 UPDATE `locales_gameobject` SET `name_loc4`='帕米拉的洋娃娃的左身' WHERE `entry`=176142;
 UPDATE `locales_gameobject` SET `name_loc4`='帕米拉的洋娃娃的右身' WHERE `entry`=176143;
 UPDATE `locales_gameobject` SET `name_loc4`='约瑟夫·雷德帕斯的纪念碑' WHERE `entry`=176145;
-UPDATE `locales_gameobject` SET `name_loc4`='安其拉大门' WHERE `entry`=176146;
 UPDATE `locales_gameobject` SET `name_loc4`='安其拉大门' WHERE `entry`=176147;
 UPDATE `locales_gameobject` SET `name_loc4`='安其拉大门' WHERE `entry`=176148;
 UPDATE `locales_gameobject` SET `name_loc4`='发霉的书籍' WHERE `entry`=176150;
@@ -7550,7 +7549,6 @@ UPDATE `locales_gameobject` SET `name_loc4`='范达尔的文件' WHERE `entry`=1
 UPDATE `locales_gameobject` SET `name_loc4`='雷矛军旗' WHERE `entry`=179024;
 UPDATE `locales_gameobject` SET `name_loc4`='霜狼军旗' WHERE `entry`=179025;
 UPDATE `locales_gameobject` SET `name_loc4`='[PH] 联盟 墓地中大旗帜' WHERE `entry`=179044;
-UPDATE `locales_gameobject` SET `name_loc4`='[PH] Horde 墓地军旗 BIG' WHERE `entry`=179064;
 UPDATE `locales_gameobject` SET `name_loc4`='烈焰' WHERE `entry`=179065;
 UPDATE `locales_gameobject` SET `name_loc4`='"烟火,大型,大小2"' WHERE `entry`=179066;
 UPDATE `locales_gameobject` SET `name_loc4`='营火' WHERE `entry`=179084;

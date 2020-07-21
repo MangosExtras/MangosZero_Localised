@@ -4941,9 +4941,7 @@ UPDATE `locales_quest` SET `RequestItemsText_loc4`='我的军队已经整装待�
 UPDATE `locales_quest` SET `title_loc4`='雷尔松的全视之眼',`details_loc4`='你们在奥特莱克山脉大举交战对辛迪加来说没什么意义，$C。我们会按照惯例来做，等待时机，直到看见你们分出胜负，然后趁势发起攻击。但是，那并不是我们现在留在这里的原因。我的全视之眼不见了，它被这里的冰斧巨魔给拿走了。找到全视之眼，然后我们就会为你效力——直到分出胜负。当你拿到全视之眼后就回到我这里来，然后我就可以好好看看你了。$N;指挥官雷尔松咧嘴笑着。$G;',`objectives_loc4`='从冰斧巨魔洞穴中找到雷尔松的全视之眼，然后回到指挥官雷尔松那里。要当心，据说雷尔松的全视之眼带有可怕的诅咒！' WHERE `entry`=6847;
 UPDATE `locales_quest` SET `title_loc4`='雷尔松的全视之眼',`details_loc4`='你们在奥特莱克山脉大举交战对辛迪加来说没什么意义，$C。我们会按照惯例来做，等待时机，直到看见你们分出胜负，然后趁势发起攻击。但是，那并不是我们现在留在这里的原因。我的全视之眼不见了，它被这里的冰斧巨魔给拿走了。找到全视之眼，然后我们就会为你效力——直到分出胜负。当你拿到全视之眼后就回到我这里来，然后我就可以好好看看你了。$N;指挥官雷尔松咧嘴笑着。$G;',`objectives_loc4`='从冰斧巨魔洞穴中找到雷尔松的全视之眼，然后回到指挥官雷尔松那里。要当心，据说雷尔松的全视之眼带有可怕的诅咒！' WHERE `entry`=6848;
 UPDATE `locales_quest` SET `title_loc4`='斯菲莱克斯的便携式伐木机',`details_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。',`objectives_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。' WHERE `entry`=6861;
-UPDATE `locales_quest` SET `RequestItemsText_loc4`='「像山那么大的一堆」是个哥布尔工程学的术语……' WHERE `entry`=6861;
 UPDATE `locales_quest` SET `title_loc4`='斯菲莱克斯的便携式伐木机',`details_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。',`objectives_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。' WHERE `entry`=6862;
-UPDATE `locales_quest` SET `RequestItemsText_loc4`='「像山那么大的一堆」是个哥布尔工程学的术语……' WHERE `entry`=6862;
 UPDATE `locales_quest` SET `title_loc4`='森林之王伊弗斯',`offerrewardtext_loc4`='干得好，$N，但是我们还需要更多的水晶。森林之王是我们对抗堕落力量的关键!$B$B' WHERE `entry`=6881;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='霜狼氏族被一种堕落的元素能量保护着。如果我们不加以注意的话，他们的萨满必然会利用这种力量来毁掉我们。$B$B这种能量已经不是议会可以控制的了!我们必须找到伊弗斯，寻求他的帮助。$B$B霜狼氏族的战士身上带着一种名叫暴风水晶的符咒，我们可以用这些符咒来召唤伊弗斯。快去拿来那些水晶吧，$N!' WHERE `entry`=6881;
 UPDATE `locales_quest` SET `title_loc4`='开始攻击!',`offerrewardtext_loc4`='一切准备就绪!现在我会让那些联盟的蠢货知道闯入奥特兰克山谷是个多麽严重的错误!$B$B' WHERE `entry`=6901;
@@ -4973,7 +4971,7 @@ UPDATE `locales_quest` SET `title_loc4`='深铁矿洞补给品',`details_loc4`='
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='你去过深铁矿坑了吗，$N?你有没有拿到那里的补给品?' WHERE `entry`=6985;
 UPDATE `locales_quest` SET `title_loc4`='补充坐骑',`details_loc4`='奥特兰克山谷中的战争在不断消耗我们的军力，因此我们必须不断补充新的力量！$B$B如果我们可以找到更多的坐骑，狼骑兵部队就能再一次投入战斗之中。$B$B拿上这根缰绳，去追踪附近森林中的霜狼。一旦你找到了霜狼，就对它使用缰绳以驯服它。把驯服的霜狼带回我这里来，这样我就可以把它编入骑兵部队了。$B$B当我们拥有足够的坐骑之后，狼骑兵就会再一次冲锋陷阵！',`objectives_loc4`='找到奥特兰克山谷中的霜狼。使用霜狼口套来驯服它们。被驯服的霜狼会跟随你回到兽栏管理员那里，然后与兽栏管理员谈话以获得你的奖励。',`offerrewardtext_loc4`='我希望那些收集山羊皮的家伙具有与你一样坚定的决心，$N。$B$B按照这种速度，我们的兽栏很快就将爆满!$B$B' WHERE `entry`=7001;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='没有你的帮助，霜狼氏族的狼骑兵就无法获得足够的坐骑来进行作战。你干得很好!',`EndText_loc4`='驯服并上缴霜狼' WHERE `entry`=7001;
-UPDATE `locales_quest` SET `title_loc4`='羊皮坐具',`objectives_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。',`offerrewardtext_loc4`='干得好，士兵。当我收集到足够的皮毛时，我会通知你的。$B$B继续好好干吧!$B$B' WHERE `entry`=7002;
+UPDATE `locales_quest` SET `title_loc4`='羊皮坐具',`offerrewardtext_loc4`='干得好，士兵。当我收集到足够的皮毛时，我会通知你的。$B$B继续好好干吧!$B$B' WHERE `entry`=7002;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='在我们的一些战士帮助兽栏管理员捕捉巨狼的同时，其他人还需要去找一些将它们变成坐骑所必需的东西，比如缰绳和坐鞍。$B$B你必须去猎捕这个地区的山羊，也就是那些与雷矛骑兵的坐骑很相似的山羊!$B$B杀了它们，把它们的皮交给我。只要收集到足够多的羊皮，我们就可以开始为骑手们制作坐具了。霜狼部族的狼骑兵很快就将再次驰骋在战场上!' WHERE `entry`=7002;
 UPDATE `locales_quest` SET `title_loc4`='被缩小的巨人',`details_loc4`='如果我还想继续在这里混的话，就必须对那些巨人采取一些措施了！他们把我的生意搞得一团糟，难道不是吗？$B$B眼下我正在实验各种各样的侏儒缩小射线，但是重点在于，我用尖端的地精科技强化了这种装置！为了防止它可能对我自身造成的各种不良影响，比如死亡之类的，我希望你用它在菲拉斯的任何一种巨人身上试验一下。在你把他们缩小之后，就可以从他们身上找到微缩残渣——把那种东西拿来给我！',`objectives_loc4`='使用索尔宾的超级压缩器来缩小菲拉斯的任意种类的巨人，将他们缩小到更容易控制的体积。从缩小过的巨人身上收集15份微缩残渣，把它们交给菲拉斯被遗忘的海岸码头的索尔宾·范达瑟。',`offerrewardtext_loc4`='太棒了!让我高兴的不仅是你带回了微缩残渣，而且你压根没有缺胳膊少腿!这就是说，使用超级压缩器没有危险，太好了!$B$B感谢你对我的帮助，$N。你真是哥布林的朋友。请收下这个吧!$B$B' WHERE `entry`=7003;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='微缩残渣，我可以确信地告诉你，它是工程学中非常重要的一种材料!好吧，它可以确保压缩器不会发生诸如爆炸之类的让人感到不爽的故障。$B$B哦，我说的当然不是给你的那一台。当然不是!' WHERE `entry`=7003;
@@ -4983,7 +4981,7 @@ UPDATE `locales_quest` SET `title_loc4`='冬天爷爷来了！',`details_loc4`='
 UPDATE `locales_quest` SET `title_loc4`='暂无内容',`details_loc4`='朋友，祝你在冬幕节玩得开心！记得跟奥格瑞玛的冬天爷爷问好！如果你今年表现得好的话，就能在冬幕节那天收到很多礼物。记得告诉他你希望收到礼物！$B$B另外，别忘了准备一些礼品，送给那些今年表现良好的朋友！我们有很多东西可供选择，都是从农场精心挑选的新鲜食物——来自烟林牧场的馈赠！',`objectives_loc4`='和冬天爷爷谈谈；他在奥格瑞玛Smokywood Pastures商人区旁边。',`offerrewardtext_loc4`='吼吼，你好啊。我是冬天爷爷，作为熏木牧场的良好成员……我这里有「一应俱全的东西，包括所有熏木牧场精心为您准备的货物」，希望你度过一个愉快的冬幕节。如果你在这一年表现得很好的话，你将在冬幕节这一天收到来自于熏木牧场的礼物。哈哈。' WHERE `entry`=7024;
 UPDATE `locales_quest` SET `title_loc4`='冬幕节的礼物',`details_loc4`='嗨，年轻的$G小伙子:姑娘;，你能帮冬天爷爷一个忙吗？$B$B似乎没有必要以第三人称来称呼自己，但是冬天爷爷在这儿一整天了，他也想要一份礼品呢。小姜饼和冰镇牛奶正合他的胃口。你能为冬天爷爷取些来吗？',`objectives_loc4`='将5个小姜饼和一杯冰镇牛奶交给铁炉堡的冬天爷爷。',`offerrewardtext_loc4`='你对冬天爷爷真是太好了，$N。祝你冬幕节快乐。$B$B这些小东西……就当作给你的奖励吧。$B$B' WHERE `entry`=7025;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='一天到晚给别人礼物让我自己也想要礼物了。嗯……我要姜饼和牛奶……' WHERE `entry`=7025;
-UPDATE `locales_quest` SET `title_loc4`='山羊坐具',`details_loc4`='没有鞍具，雷矛部族就无法重新投入到战斗中!我们必须为坐骑配上鞍具，这样我们才不会像野蛮人一样骑着一头光溜溜的山羊。$B$B我们可以简单地干掉基地周围的山羊来获得皮革，但是那样做是非常愚蠢的。因为我们还要把那些山羊驯化成坐骑哪!$B$B你必须去攻击敌人的基地，杀死他们的霜狼坐骑，然後拿回他们的皮。把它们的皮交给我，这样我就可以帮我们的骑兵制作鞍具了。出发吧!',`objectives_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。',`offerrewardtext_loc4`='干得好，士兵。当我收集到足够的皮毛时，我会通知你的。$B$B继续好好干吧!$B$B' WHERE `entry`=7026;
+UPDATE `locales_quest` SET `title_loc4`='山羊坐具',`offerrewardtext_loc4`='干得好，士兵。当我收集到足够的皮毛时，我会通知你的。$B$B继续好好干吧!$B$B' WHERE `entry`=7026;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='没有鞍具，雷矛部族就无法重新投入到战斗中!我们必须为坐骑配上鞍具，这样我们才不会像野蛮人一样骑着一头光溜溜的山羊。$B$B我们可以简单地干掉基地周围的山羊来获得皮革，但是那样做是非常愚蠢的。因为我们还要把那些山羊驯化成坐骑哪!$B$B你必须去攻击敌人的基地，杀死他们的霜狼坐骑，然後拿回他们的皮。把它们的皮交给我，这样我就可以帮我们的骑兵制作鞍具了。出发吧!' WHERE `entry`=7026;
 UPDATE `locales_quest` SET `title_loc4`='补充坐骑',`details_loc4`='看看这里的兽栏，$N！空空如也！雷矛部族的骑兵部队没有坐骑——它已经名存实亡了。$B$B你必须帮助我们，士兵。拿着这根颈圈，到山谷中去寻找四处徘徊的奥特兰克山羊，并使用训练颈圈来抓住它们。当你抓住山羊之后，就把它给我带回来，然后我就可以将它配备给骑兵部队了。$B$B当我们有足够的山羊之后，山羊骑兵将再次准备就绪。有了你的帮助，骑兵部队将会获得重生！',`objectives_loc4`='找到奥特兰克山谷中的山羊。使用雷矛训练颈圈来驯服它们。被驯服的山羊会跟随你回到兽栏管理员那里，然后与兽栏管理员谈话以获得你的奖励。',`offerrewardtext_loc4`='兽栏马上就会被山羊挤满了。继续好好干!$B$B' WHERE `entry`=7027;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='没有你的帮助，雷矛部族的山羊骑兵就无法获得足够的坐骑来进行作战。你干得很好!',`EndText_loc4`='驯服并上缴山羊' WHERE `entry`=7027;
@@ -5093,9 +5091,9 @@ UPDATE `locales_quest` SET `title_loc4`='科尔拉克归来',`details_loc4`='虽
 UPDATE `locales_quest` SET `title_loc4`='永生的科尔拉克',`details_loc4`='现在有一件紧急的事情……有没有人想过要焚烧科尔拉克的尸体？那些巨魔一定会想法设法复活他们的领袖，你知道，那些蓝皮肤的怪物经常会那么做。$B$B你要小心了，$N。如果科尔拉克重新出现在你的面前，千万不要惊慌失措。如果他真的复活了，那么我要你把他干掉，然后烧掉他的尸体。$B$B为了以防万一，在焚烧尸体之前砍掉他的头颅，然后把他的颅骨交给我。',`objectives_loc4`='如果科尔拉克重新出现在奥特兰克山谷的冰斧山洞中，就找到并干掉他。$B$B将科尔拉克的颅骨交给丹巴达尔的哈格丁中尉。' WHERE `entry`=7382;
 UPDATE `locales_quest` SET `title_loc4`='大地之冠',`details_loc4`='然而泰达希尔并不是一切都尽如人意。范达尔·鹿盔对于世界之树的计划正如他自己所希望的那样一步步展开了，但是还有一个小问题，这个问题或许会给泰达希尔带来一些麻烦。$B$B不过我不打算介入此事。你得去一趟最后一口月亮井，就在这里西北面的神谕林地里，就在神谕之树的树干下面，那是我们的第一口也是最强大的一口月亮井。在那里灌一瓶水，然后回来向我报告。',`objectives_loc4`='用月亮井的水装满紫水晶瓶，然后把它交给多兰纳尔的科瑞萨斯·月怒。',`offerrewardtext_loc4`='在神谕之树面前……你会感觉到自己几乎能把智慧抓在手里。让我继续说下去……$B$B随着泰达希尔的成长，大德鲁伊去祈求巨龙的祝福，因为在古代，那些巨龙的地位远在诺达希尔之上。但是时间之王诺兹多姆拒绝祝福泰达希尔，反而斥责德鲁伊的傲慢。和诺兹多姆一样，雅立史卓莎也拒绝了德鲁伊们的要求，但是没有她的祝福，泰达希尔的成长就会受到不良的影响，后果难以预料……' WHERE `entry`=7383;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='神谕之树、大德鲁伊和德鲁伊们一起密切关注着泰达希尔的成长。但是虽然我们有了一个新家，但我们还没有重新得到不朽的生命。' WHERE `entry`=7383;
-UPDATE `locales_quest` SET `title_loc4`='联盟之血',`objectives_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。',`offerrewardtext_loc4`='我们敌人的鲜血洒满了战场。我会将这些血液和先前收集到的血液混合，在献祭结束之後，冰雪之王就会让这些雷矛矮人看看霜狼氏族的威力!$B$B' WHERE `entry`=7385;
+UPDATE `locales_quest` SET `title_loc4`='联盟之血',`offerrewardtext_loc4`='我们敌人的鲜血洒满了战场。我会将这些血液和先前收集到的血液混合，在献祭结束之後，冰雪之王就会让这些雷矛矮人看看霜狼氏族的威力!$B$B' WHERE `entry`=7385;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='你可以为我提供更多敌人的鲜血。我很乐意接受更多，$N。' WHERE `entry`=7385;
-UPDATE `locales_quest` SET `title_loc4`='水晶簇',`objectives_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。',`offerrewardtext_loc4`='干得好，$N。我可以使用这些水晶中的力量来增强现有的魔法。当我积累了足够的力量之後，就可以释放这些力量，召唤森林之王来帮助我们。$B$B' WHERE `entry`=7386;
+UPDATE `locales_quest` SET `title_loc4`='水晶簇',`offerrewardtext_loc4`='干得好，$N。我可以使用这些水晶中的力量来增强现有的魔法。当我积累了足够的力量之後，就可以释放这些力量，召唤森林之王来帮助我们。$B$B' WHERE `entry`=7386;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='你可以避开硝烟弥漫的战场。在激烈的战斗之外，你可以帮我收集霜狼氏族的风暴水晶。$B$B议会正在收集这样的水晶，$N。' WHERE `entry`=7386;
 UPDATE `locales_quest` SET `title_loc4`='通缉：矮人!',`details_loc4`='根据亚斯拉·血矛的命令，在战场上遇到矮人的时候要格杀勿论。$B$B如果你在战场上干掉了矮人，就把他们的脊椎骨挖出来，留下那具血迹斑斑的尸体，警告所有胆敢冒犯霜狼氏族的蠢货。$B$B把脊椎骨交给亚斯拉·血矛，以此来证明你的功勋。',`objectives_loc4`='你被指派去杀死奥特兰克山谷中的矮人玩家。$B$B杀掉一个矮人，然后把矮人的脊椎交给霜狼要塞的亚斯拉·血矛。',`offerrewardtext_loc4`='你现在被授权大批屠杀矮人，$C!$B$B<亚斯拉眺望了一会儿远方。>$B$B你永远不会忘记这一次的行动……' WHERE `entry`=7401;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='你是来观光的么，$C?' WHERE `entry`=7401;
@@ -5651,7 +5649,6 @@ UPDATE `locales_quest` SET `RequestItemsText_loc4`='你拿到资源木箱了吗�
 UPDATE `locales_quest` SET `title_loc4`='更多的资源',`details_loc4`='所有士兵都会这样告诉你，我们必须依靠我们的士兵进行战斗。他们还会告诉你，他们正使用破烂不堪的装备，饥肠辘辘地迎向战场!$B这就是阿拉希盆地显得非常重要的原因。金属，武器，食物，木材─所有我们所需要的东西都可以从那里获得。$B那就是我需要你的地方，魔兽资料库网友。进入阿拉希盆地，比敌人占据更多的基地，以此来获得战斗的胜利并给我带回一箱资源来。',`objectives_loc4`='获得阿拉希盆地战斗的胜利，获取一个阿拉希资源木箱，然后向避难谷地的玛克里尔中士覆命。',`offerrewardtext_loc4`='啊，你抢到了更多的资源木箱!没有资源补给的联盟肯定会一败涂地的!$B$B感谢你，$N。你的努力已经为我们所知，并且也为瓦里玛萨斯所知。' WHERE `entry`=8081;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='虽然在破坏阿拉索联军的补给线方面，污染者做得已经很不错了，但是联盟还在继续对阿拉希盆地进行攻击。我们必须向盆地增派部队，并夺回更多的资源。' WHERE `entry`=8081;
 UPDATE `locales_quest` SET `title_loc4`='卡亚罗之石',`offerrewardtext_loc4`='$C，这块坠饰上镶嵌的卡亚罗之石来自南海的卡亚罗山脉。卡亚罗山脉地带分布着许多活火山，那里的地质地形不断发生剧烈的变动。$B$B随着你与赞达拉食人妖的关系日益密切，卡亚罗之石的力量也会增强。利用这块石头的力量打败我们的敌人吧。就像卡亚罗山脉那样:迅速、致命、富有爆炸力……' WHERE `entry`=8101;
-UPDATE `locales_quest` SET `RequestItemsText_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。' WHERE `entry`=8101;
 UPDATE `locales_quest` SET `title_loc4`='卡亚罗之石',`offerrewardtext_loc4`='$C，这块坠饰上镶嵌的卡亚罗之石来自南海的卡亚罗山脉。卡亚罗山脉地带分布着许多活火山，那里的地质地形不断发生剧烈的变动。$B$B随着你与赞达拉食人妖的关系日益密切，卡亚罗之石的力量也会增强。利用这块石头的力量打败我们的敌人吧。就像卡亚罗山脉那样:迅速、致命、富有爆炸力……' WHERE `entry`=8102;
 UPDATE `locales_quest` SET `title_loc4`='卡亚罗之石',`offerrewardtext_loc4`='继续追杀祖尔格拉布食人妖。要让哈卡明白，这个世界不会屈从於他的强大意志。$B$B' WHERE `entry`=8103;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='哈卡的爪牙畏惧你，$N。他们谈论你的时候露出的那种畏惧的神情，只有在他们面对神灵时才会出现。卡亚罗之石的力量让他们闻风丧胆。$B$B是时候进一步强化卡亚罗之石了，把坠饰给我吧。' WHERE `entry`=8103;
@@ -5665,7 +5662,6 @@ UPDATE `locales_quest` SET `title_loc4`='科赞的玷污',`offerrewardtext_loc4`
 UPDATE `locales_quest` SET `title_loc4`='科赞的强力玷污',`offerrewardtext_loc4`='剥去他们屍体上的鲜肉。看着黑暗的力量吞噬哈卡，从他们的恐惧中汲取力量，$C。让科赞的玷污再次强化……$B$B' WHERE `entry`=8109;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='召唤恶魔，$C。让它们汲取玷污科赞的黑暗能量。指挥它们大开杀戒!$B$B是的……是时候对科赞的玷污进行最後一次强化了。把它给我吧。' WHERE `entry`=8109;
 UPDATE `locales_quest` SET `title_loc4`='南海魔化海藻',`offerrewardtext_loc4`='看到这些海藻了吗?它们产自南海。我们往其中添加了一点魔精和魔法，它就成为一件非常有用的饰品。$B$B你是个德鲁伊，这对你来说相当容易。把它戴在你的脖子上，想像一下大自然、松鼠或是所有你们会喜欢的东西。' WHERE `entry`=8110;
-UPDATE `locales_quest` SET `RequestItemsText_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。' WHERE `entry`=8110;
 UPDATE `locales_quest` SET `title_loc4`='南海魔化海藻',`offerrewardtext_loc4`='看到这些海藻了吗?它们产自南海。我们往其中添加了一点魔精和魔法，它就成为一件非常有用的饰品。$B$B你是个德鲁伊，这对你来说相当容易。把它戴在你的脖子上，想像一下大自然、松鼠或是所有你们会喜欢的东西。' WHERE `entry`=8111;
 UPDATE `locales_quest` SET `title_loc4`='南海魔化海藻',`offerrewardtext_loc4`='看到这些海藻了吗?它们产自南海。我们往其中添加了一点魔精和魔法，它就成为一件非常有用的饰品。$B$B你是个德鲁伊，这对你来说相当容易。把它戴在你的脖子上，想像一下大自然、松鼠或是所有你们会喜欢的东西。' WHERE `entry`=8112;
 UPDATE `locales_quest` SET `title_loc4`='原始南海魔化海藻',`offerrewardtext_loc4`='$N，旅途愉快。继续取哈卡和他的爪牙的性命吧。' WHERE `entry`=8113;
@@ -5673,7 +5669,6 @@ UPDATE `locales_quest` SET `RequestItemsText_loc4`='$N!好久不见。拉斯塔�
 UPDATE `locales_quest` SET `title_loc4`='控制四座基地',`details_loc4`='$N，你赢得了在阿拉希盆地的战争，并在战场上证明了自己有资格得到荣耀和尊重。你是一个有价值的$C，你让我们的敌人知道我们绝对不会向他们的暴行屈服！$B$B现在我有一项艰巨的任务要交给你。我需要你进入阿拉希盆地，占领至少四座基地。如果你可以完成这个任务的话，那么我们不仅保证了重要资源的供给，而且还向部落展示了我们的力量！$B$B出发吧，$N，祝你好运。',`objectives_loc4`='进入阿拉希盆地，同时占据并控制四座基地，当任务完成之后向避难谷地的奥斯莱特元帅报告。' WHERE `entry`=8114;
 UPDATE `locales_quest` SET `title_loc4`='控制五座基地',`details_loc4`='$N，阿拉希盆地的资源之战是一场血腥的战斗。阿拉索联军需要你的帮助。$B$B我们还有一个任务需要交给你。$B$B联军想要对污染者进行一次大规模攻击。我们要把他们从这个战场中的每个重要战略点里赶出去！$B$B这个任务不简单，但是如果说有人可以完成它的话，那个人就是你。',`objectives_loc4`='同时控制阿拉希盆地中的五座基地，然后向避难谷地的奥斯莱特元帅复命。' WHERE `entry`=8115;
 UPDATE `locales_quest` SET `title_loc4`='巫毒幻象',`offerrewardtext_loc4`='当心那些邪恶的哈卡之灵。老实说，它们令人毛骨悚然。$B$B' WHERE `entry`=8116;
-UPDATE `locales_quest` SET `RequestItemsText_loc4`='我和你一样焦急地想要试一下我的便携式伐木机，$C，但是我必须要弄到一些材料——我是说很多材料——才能制作出配套的工具！$B$B实际上，我需要像山那么大的一堆瑟银、秘银和铁，另外每一台伐木机还需要有一个蒸汽锯才能完工，你最好到伐木场去找找看。$B$B我在这里游荡的时候（在我被抓住之前），曾在雷矛伐木场里看到很多的蒸汽锯。' WHERE `entry`=8116;
 UPDATE `locales_quest` SET `title_loc4`='巫毒幻象',`offerrewardtext_loc4`='当心那些邪恶的哈卡之灵。老实说，它们令人毛骨悚然。$B$B' WHERE `entry`=8117;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='好消息，$N。莫托尔最近对你赞不绝口，他说你会成为赞达拉真正的英雄。$B$B他还让梅维克再次帮你磨亮宝珠呢!把它放在这儿吧，梅维克会磨亮幻象。' WHERE `entry`=8117;
 UPDATE `locales_quest` SET `title_loc4`='巫毒幻象',`offerrewardtext_loc4`='看看吧，$N。巫毒的力量更加强大了，不是吗?让原始的力量流遍你吧。' WHERE `entry`=8118;
@@ -6540,6 +6535,7 @@ UPDATE `locales_quest` SET `title_loc4`='永恒之王的财宝' WHERE `entry`=87
 UPDATE `locales_quest` SET `title_loc4`='驯鹿梅森',`details_loc4`='出大事啦！驯鹿梅森被绑架了！$B$B冬天爷爷有八头驯鹿，梅森是其中的一头，也是烟林牧场的财产。我们收到了宣称对此次绑架事件负责的组织寄来的勒索信，而且不是一封，是两封！两封，你明白吗？节日即将来临，我们早已经穷得叮当响啦！帮帮忙吧，帮我们找到梅森，把它救回来！$B$B你可以看看这些勒索信里面有什么线索，找到梅森之后，把驯鹿之尘洒在它身上，这样就可以让它摆脱一切束缚！$B$B事不宜迟！',`objectives_loc4`='找到驯鹿梅森。在你手头上的便笺中查找有关梅森下落的线索。$B$B当你找到它之后，往它身上洒一些驯鹿之尘，这样就可以让它摆脱任何束缚。$B$B解救梅森之后，把驯鹿之尘还给奥格瑞玛的凯玛德·考伯宾奇。',`offerrewardtext_loc4`='你办到了!万岁!$B$B梅特森已经飞回去冬天爷爷的兽栏里了－－是的，梅特森是会飞的－－就在不久之前!这个尘土有点像是个符咒;我知道它可以的。你拯救了冬幕节还有燻木牧场免於疾病的侵袭。谢谢你，$N。$B$B听着……因为你对这里的贡献，我希望你可以拿着这个。这是一个非常特别的东西;如果你有坐骑的话，我想你可以好好的试试它。冬幕节快乐!$B$B' WHERE `entry`=8746;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='$N!你找到牠了吗?我给你的背包中的纸条，有给你足够的讯息来确定梅特森的位置吗?我简直不敢去想那些恶棍会对梅特森做些什麽……但我们绝对不会对这样的绑架勒索行为妥协!',`ObjectiveText1_loc4`='寻找麋鹿梅特森并且解救它' WHERE `entry`=8746;
 UPDATE `locales_quest` SET `title_loc4`='保护者之路',`offerrewardtext_loc4`='你的兴起是所有人之中最出色的，$N。愿你永远不会在保卫者之路上迷失!$B$B' WHERE `entry`=8747;
+UPDATE `locales_quest` SET `RequestItemsText_loc4`='你的兴起是所有人之中最出色的，$N。愿你永远不会在保卫者之路上迷失!$B$B' WHERE `entry`=8747;
 UPDATE `locales_quest` SET `title_loc4`='保护者之路',`offerrewardtext_loc4`='相当出色，小家伙。你吃了不少苦才获得青铜龙军团的青睐。你的奉献已被记录下来。$B$B防卫者的徽记之戒将会在你对抗邪恶力量时提供更多的保护。$B$B提高警觉，一旦你选择了你的道路，就无法回头了。' WHERE `entry`=8748;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='如此巨大的奉献真是少有。你已证明了你的意志坚定，$N。你会因为勇敢的守护着我们的世界而获得重赏。$B$B将你的徽记之戒交给我，这样我才能强化它的附魔。' WHERE `entry`=8748;
 UPDATE `locales_quest` SET `title_loc4`='保护者之路',`offerrewardtext_loc4`='相当出色，小家伙。你吃了不少苦才获得青铜龙军团的青睐。你的奉献已被记录下来。$B$B防卫者的徽记之戒将会在你对抗邪恶力量时提供更多的保护。$B$B提高警觉，一旦你选择了你的道路，就无法回头了。' WHERE `entry`=8749;
@@ -6549,6 +6545,7 @@ UPDATE `locales_quest` SET `RequestItemsText_loc4`='如此巨大的奉献真是�
 UPDATE `locales_quest` SET `title_loc4`='卡利姆多的保护者',`details_loc4`='我从没看过这样不屈不挠的人!青铜龙军团将给你最後的附魔强化。这是永恒之王本人的希望!$B$B将你的徽记之戒交给我，这样我才能做些必要的调整。',`offerrewardtext_loc4`='起身吧，卡林多的保卫者!让世人看到你的力量!$B$B' WHERE `entry`=8751;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='我从没看过这样不屈不挠的人!青铜龙军团将给你最後的附魔强化。这是永恒之王本人的希望!$B$B将你的徽记之戒交给我，这样我才能做些必要的调整。' WHERE `entry`=8751;
 UPDATE `locales_quest` SET `title_loc4`='征服者之路',`offerrewardtext_loc4`='你的兴起是所有人之中最出色的，$N。愿你永远不会在征服者之路上迷失!$B$B' WHERE `entry`=8752;
+UPDATE `locales_quest` SET `RequestItemsText_loc4`='你的兴起是所有人之中最出色的，$N。愿你永远不会在征服者之路上迷失!$B$B' WHERE `entry`=8752;
 UPDATE `locales_quest` SET `title_loc4`='征服者之路',`offerrewardtext_loc4`='你的兴起是所有人之中最出色的，$N。愿你永远不会在征服者之路上迷失!$B$B' WHERE `entry`=8753;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='如此巨大的奉献真是少有。你已证明了你的意志坚定，$N。你会因为勇敢的守护着我们的世界而获得重赏。$B$B将你的徽记之戒交给我，这样我才能强化它的附魔。' WHERE `entry`=8753;
 UPDATE `locales_quest` SET `title_loc4`='征服者之路',`offerrewardtext_loc4`='你的兴起是所有人之中最出色的，$N。愿你永远不会在征服者之路上迷失!$B$B' WHERE `entry`=8754;
@@ -6558,6 +6555,7 @@ UPDATE `locales_quest` SET `RequestItemsText_loc4`='如此巨大的奉献真是�
 UPDATE `locales_quest` SET `title_loc4`='其拉虫人的征服者',`details_loc4`='我从没看过这样不屈不挠的人!青铜龙军团将给你最後的附魔强化。这是永恒之王本人的希望!$B$B将你的徽记之戒交给我，这样我才能做些必要的调整。',`offerrewardtext_loc4`='起身吧，其拉的征服者!让世人看到你的力量!$B$B' WHERE `entry`=8756;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='我从没看过这样不屈不挠的人!青铜龙军团将给你最後的附魔强化。这是永恒之王本人的希望!$B$B将你的徽记之戒交给我，这样我才能做些必要的调整。' WHERE `entry`=8756;
 UPDATE `locales_quest` SET `title_loc4`='祈求者之路',`offerrewardtext_loc4`='相当出色，小家伙。你吃了不少苦才获得青铜龙军团的青睐。你的奉献令人印象深刻。$B$B塑能师的徽记之戒将会大大提升你的魔法和自然能力。$B$B提高警觉，一旦你选择了你的道路，就无法回头了。' WHERE `entry`=8757;
+UPDATE `locales_quest` SET `RequestItemsText_loc4`='相当出色，小家伙。你吃了不少苦才获得青铜龙军团的青睐。你的奉献令人印象深刻。$B$B塑能师的徽记之戒将会大大提升你的魔法和自然能力。$B$B提高警觉，一旦你选择了你的道路，就无法回头了。' WHERE `entry`=8757;
 UPDATE `locales_quest` SET `title_loc4`='祈求者之路',`offerrewardtext_loc4`='相当出色，小家伙。你吃了不少苦才获得青铜龙军团的青睐。你的奉献令人印象深刻。$B$B塑能师的徽记之戒将会大大提升你的魔法和自然能力。$B$B提高警觉，一旦你选择了你的道路，就无法回头了。' WHERE `entry`=8758;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='如此巨大的奉献真是少有。你已证明了你的意志坚定，$N。你会因为勇敢的守护着我们的世界而获得重赏。$B$B将你的徽记之戒交给我，这样我才能强化它的附魔。' WHERE `entry`=8758;
 UPDATE `locales_quest` SET `title_loc4`='祈求者之路',`offerrewardtext_loc4`='相当出色，小家伙。你吃了不少苦才获得青铜龙军团的青睐。你的奉献令人印象深刻。$B$B塑能师的徽记之戒将会大大提升你的魔法和自然能力。$B$B提高警觉，一旦你选择了你的道路，就无法回头了。' WHERE `entry`=8759;
@@ -7339,8 +7337,8 @@ UPDATE `locales_quest` SET `title_loc4`='暗淡的死灵水晶',`details_loc4`='
 UPDATE `locales_quest` SET `title_loc4`='神圣的磨刀石' WHERE `entry`=9317;
 UPDATE `locales_quest` SET `title_loc4`='神圣巫师之油' WHERE `entry`=9318;
 UPDATE `locales_quest` SET `title_loc4`='黑暗中的光明',`details_loc4`='我们不是这世界上唯一庆祝这个节日的人， $N。所有种族，所有文化，都曾为火焰的寓意所深深触动。即使是在这世界上最阴暗、最寒冷的处所，仍有明亮的火焰在跳动。$B$B如果你想自己证实这一点，就到那些地下城里去看看吧。去看看通灵学院、斯坦索姆、黑石塔和厄运之槌厅堂内的篝火，我会在这里等你回来的。',`objectives_loc4`='找到并碰触在黑石塔、厄运之槌、通灵学院和斯坦索姆内的火盆，并回到节日护火者处。',`offerrewardtext_loc4`='你再一次的回来了，闪耀着你触摸的火焰精华。做的好，$N。来，收下这些和我的祝福。$B$B' WHERE `entry`=9319;
-UPDATE `locales_quest` SET `RequestItemsText_loc4`='你找到你在黑暗中的路了吗?',`ObjectiveText1_loc4`='厄运之槌烈焰',`ObjectiveText2_loc4`='黑石塔烈焰' WHERE `entry`=9319;
-UPDATE `locales_quest` SET `ObjectiveText3_loc4`='斯坦索姆烈焰',`ObjectiveText4_loc4`='通灵学院烈焰' WHERE `entry`=9319;
+UPDATE `locales_quest` SET `RequestItemsText_loc4`='你找到你在黑暗中的路了吗?',`ObjectiveText1_loc4`='黑石塔烈焰',`ObjectiveText2_loc4`='厄运之槌烈焰' WHERE `entry`=9319;
+UPDATE `locales_quest` SET `ObjectiveText3_loc4`='通灵学院烈焰',`ObjectiveText4_loc4`='斯坦索姆烈焰' WHERE `entry`=9319;
 UPDATE `locales_quest` SET `title_loc4`='特效法力药水' WHERE `entry`=9320;
 UPDATE `locales_quest` SET `title_loc4`='卡利姆多的野火',`details_loc4`='艾泽拉斯世界上的每一处地方都会庆祝仲夏的来临，广袤的卡利姆多大陆也是如此，或许你会有兴趣那那边看一看。$B$B若你没有真正地感受过那些熊熊燃烧着的火焰，那么你是无法彻底了解仲夏的。庆祝者已经在寒冷的冬泉谷西部、艾萨拉东北部、希利苏斯废土上的勇士之墓附近，以及富饶美丽的安戈洛环行山入口处都点起了火焰，去看看吧。你的旅程结束以后，别忘了回来找我。',`objectives_loc4`='造访艾萨拉、希利苏斯、安戈洛环行山和冬泉谷的仲夏庆典营地，然后回到节日护火者处。',`offerrewardtext_loc4`='你的精神闪耀着卡林多火焰温暖的光，朋友。热度不够鼓舞你吗?$B$B一旦力量从你身上褪去，或许这些能够帮你重新振作感觉。$B$B' WHERE `entry`=9322;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='卡林多的火焰烧地旺吗?' WHERE `entry`=9322;
@@ -7379,8 +7377,8 @@ UPDATE `locales_quest` SET `title_loc4`='火焰的节日',`details_loc4`='仲夏
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='进度如何了，$N?' WHERE `entry`=9368;
 UPDATE `locales_quest` SET `title_loc4`='DND FLAG可怕的堡垒 - 纳克萨玛斯',`details_loc4`='在浓密的病木林里有个入口通往纳克萨玛斯的可怕堡垒。以前，任何想尝试进入的人都被符文传送门外的魔法守卫挡下来。直到现在。$B$B我们设计了一个方法，透过一个永久的秘法掩护 - 肯瑞托的古老咒语加上一些我自己做的修改。说到这，那个斗篷是要钱的；不过，你对银色黎明的贡献不可动摇!我们会取消所有的费用。',`objectives_loc4`='东瘟疫之地圣光之愿礼拜堂的大法师安琪拉·多桑杜将免费给你秘法掩护。你一定要在银色黎明达到崇拜声望。' WHERE `entry`=9378;
 UPDATE `locales_quest` SET `title_loc4`='黑暗中的光明',`details_loc4`='我们不是这世界上唯一庆祝这个节日的人， 迅捷之刃。所有种族，所有文化，都曾为火焰的寓意所深深触动。即使是在这世界上最阴暗、最寒冷的处所，仍有明亮的火焰在跳动。如果你想自己证实这一点，就到那些地下城里去看看吧。去看看通灵学院、斯坦索姆、黑石塔和厄运之槌厅堂内的篝火，我会在这里等你回来的。',`objectives_loc4`='找到并碰触在黑石塔、厄运之槌、通灵学院和斯坦索姆内的火盆，并回到节日护火者处。',`offerrewardtext_loc4`='你再一次的回来了，闪耀着你触摸的火焰精华。做的好，$N。来，收下这些和我的祝福。$B$B' WHERE `entry`=9386;
-UPDATE `locales_quest` SET `RequestItemsText_loc4`='你找到你在黑暗中的路了吗?',`ObjectiveText1_loc4`='厄运之槌烈焰',`ObjectiveText2_loc4`='黑石塔烈焰' WHERE `entry`=9386;
-UPDATE `locales_quest` SET `ObjectiveText3_loc4`='斯坦索姆烈焰',`ObjectiveText4_loc4`='通灵学院烈焰' WHERE `entry`=9386;
+UPDATE `locales_quest` SET `RequestItemsText_loc4`='你找到你在黑暗中的路了吗?',`ObjectiveText1_loc4`='黑石塔烈焰',`ObjectiveText2_loc4`='厄运之槌烈焰' WHERE `entry`=9386;
+UPDATE `locales_quest` SET `ObjectiveText3_loc4`='通灵学院烈焰',`ObjectiveText4_loc4`='斯坦索姆烈焰' WHERE `entry`=9386;
 UPDATE `locales_quest` SET `title_loc4`='卡利姆多的火焰',`details_loc4`='今天，全世界上各处有无数的火焰在熊熊燃烧着，$N。那些最狡诈的火焰往往都是绿色的，如果不小心照看的话，它们很快就会灭掉。为我们的护火者确认一下卡利姆多上的几处翡翠烈焰是否还在燃烧着，好吗？$B$B你能在贫瘠之地的棘齿城、黑海岸的主宰之剑、银翼岗哨附近的桥，以及石爪山尘风峡谷的路旁去寻找这样的篝火堆。',`objectives_loc4`='造访灰谷、贫瘠之地、黑海岸和石爪山的篝火堆，然后回来与节日护火者交谈。',`offerrewardtext_loc4`='啊，所以它们真的还在燃烧。我很高兴;时间没到之前那些火焰不能熄灭。你做的很好，$N。收下这个和我的祝福。$B$B' WHERE `entry`=9388;
 UPDATE `locales_quest` SET `RequestItemsText_loc4`='庆典结束之前火焰都不能熄灭!' WHERE `entry`=9388;
 UPDATE `locales_quest` SET `title_loc4`='东部王国的火焰',`details_loc4`='仲夏火焰节的传统就是建起一座金字塔状的火焰。有些人说绿色的火焰是最好的，因为它们最难以维持燃烧，而且有着如此美丽的颜色。$B$B你去为我们的护火者确认一下东部王国的绿色火焰是否都在正常燃烧吧。它们分别座落于湿地的丹莫德，银松森林的焚木村旁，西部荒野能望见灯塔的悬崖边，以及希尔斯布莱德那座被废弃的哨塔边。',`objectives_loc4`='造访希尔斯布莱德丘陵、银松森林、西部荒野和湿地的篝火堆，然后回来与节日护火者交谈。',`offerrewardtext_loc4`='你回来了，也见过大陆上翠绿色的火焰了。你觉得怎麽样呢?确切的说，那是一种罕见又美好的景象。不过，我知道，还是要有实质的奖励比较好……那麽拜托你，收下这个做为奖励。$B$B' WHERE `entry`=9389;
