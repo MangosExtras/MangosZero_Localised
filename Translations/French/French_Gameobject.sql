@@ -6309,9 +6309,6 @@ UPDATE `locales_gameobject` SET `name_loc2`='Piège de la poupée de Pamela' WHE
 UPDATE `locales_gameobject` SET `name_loc2`='Flanc gauche de la poupée de Pamela' WHERE `entry`=176142;
 UPDATE `locales_gameobject` SET `name_loc2`='Flanc droit de la poupée de Pamela' WHERE `entry`=176143;
 UPDATE `locales_gameobject` SET `name_loc2`='Monument de Joseph Senterouge' WHERE `entry`=176145;
-UPDATE `locales_gameobject` SET `name_loc2`='Doodad_Ahn_Qiraj_DoorPlug01' WHERE `entry`=176146;
-UPDATE `locales_gameobject` SET `name_loc2`='Doodad_Ahn_Qiraj_DoorRoots01' WHERE `entry`=176147;
-UPDATE `locales_gameobject` SET `name_loc2`='Doodad_Ahn_Qiraj_DoorRunes01' WHERE `entry`=176148;
 UPDATE `locales_gameobject` SET `name_loc2`='Tome moisi' WHERE `entry`=176150;
 UPDATE `locales_gameobject` SET `name_loc2`='Tome moisi' WHERE `entry`=176151;
 UPDATE `locales_gameobject` SET `name_loc2`='Tome moisi PIEGE' WHERE `entry`=176152;
@@ -7236,7 +7233,6 @@ UPDATE `locales_gameobject` SET `name_loc2`='Les documents de Vanndar' WHERE `en
 UPDATE `locales_gameobject` SET `name_loc2`='Les documents de Vanndar' WHERE `entry`=179008;
 UPDATE `locales_gameobject` SET `name_loc2`='Bannière foudrepique' WHERE `entry`=179024;
 UPDATE `locales_gameobject` SET `name_loc2`='Bannière loup-de-givre' WHERE `entry`=179025;
-UPDATE `locales_gameobject` SET `name_loc2`='[PH] Horde Graveyard Banner BIG' WHERE `entry`=179064;
 UPDATE `locales_gameobject` SET `name_loc2`='Flamme ronflante' WHERE `entry`=179065;
 UPDATE `locales_gameobject` SET `name_loc2`='Feu de camp' WHERE `entry`=179084;
 UPDATE `locales_gameobject` SET `name_loc2`='Feu de camp' WHERE `entry`=179085;
