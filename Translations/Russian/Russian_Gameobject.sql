@@ -6504,9 +6504,6 @@ UPDATE `locales_gameobject` SET `name_loc8`='Кукла Памелы - лову�
 UPDATE `locales_gameobject` SET `name_loc8`='Левая половинка куклы Памелы' WHERE `entry`=176142;
 UPDATE `locales_gameobject` SET `name_loc8`='Правая половинка куклы Памелы' WHERE `entry`=176143;
 UPDATE `locales_gameobject` SET `name_loc8`='Монумент Джозефа Редпата' WHERE `entry`=176145;
-UPDATE `locales_gameobject` SET `name_loc8`='Doodad_Ahn_Qiraj_DoorPlug01' WHERE `entry`=176146;
-UPDATE `locales_gameobject` SET `name_loc8`='Doodad_Ahn_Qiraj_DoorRoots01' WHERE `entry`=176147;
-UPDATE `locales_gameobject` SET `name_loc8`='Doodad_Ahn_Qiraj_DoorRunes01' WHERE `entry`=176148;
 UPDATE `locales_gameobject` SET `name_loc8`='Заплесневелый фолиант' WHERE `entry`=176150;
 UPDATE `locales_gameobject` SET `name_loc8`='Заплесневелый фолиант' WHERE `entry`=176151;
 UPDATE `locales_gameobject` SET `name_loc8`='Заплесневелый фолиант - ловушка' WHERE `entry`=176152;
@@ -7463,7 +7460,6 @@ UPDATE `locales_gameobject` SET `name_loc8`='Документы Вандара' 
 UPDATE `locales_gameobject` SET `name_loc8`='Знамя Грозовой Вершины' WHERE `entry`=179024;
 UPDATE `locales_gameobject` SET `name_loc8`='Знамя Северного Волка' WHERE `entry`=179025;
 UPDATE `locales_gameobject` SET `name_loc8`='[PH] Альянс - кладбище - середина - указатель - БОЛЬШОЙ' WHERE `entry`=179044;
-UPDATE `locales_gameobject` SET `name_loc8`='[PH] Орда Кладбище - середина - указатель - БОЛЬШОЙ' WHERE `entry`=179064;
 UPDATE `locales_gameobject` SET `name_loc8`='Ревущее пламя' WHERE `entry`=179065;
 UPDATE `locales_gameobject` SET `name_loc8`='Источник дыма повышенной эффекктивности, масштаб 2' WHERE `entry`=179066;
 UPDATE `locales_gameobject` SET `name_loc8`='Костер' WHERE `entry`=179084;

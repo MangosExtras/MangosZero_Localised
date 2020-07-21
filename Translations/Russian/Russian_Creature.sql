@@ -122,7 +122,6 @@ UPDATE `locales_creature` SET `name_loc8`='Ззарк\'Вул' WHERE `entry`=300
 UPDATE `locales_creature` SET `name_loc8`='Слепая Мэри' WHERE `entry`=302;
 UPDATE `locales_creature` SET `name_loc8`='Конь скверны' WHERE `entry`=304;
 UPDATE `locales_creature` SET `name_loc8`='Верховая езда (Белый жеребец)' WHERE `entry`=305;
-UPDATE `locales_creature` SET `name_loc8`='Верховая езда (Игреневый конь)' WHERE `entry`=306;
 UPDATE `locales_creature` SET `name_loc8`='Пегий конь' WHERE `entry`=307;
 UPDATE `locales_creature` SET `name_loc8`='Вороной жеребец' WHERE `entry`=308;
 UPDATE `locales_creature` SET `name_loc8`='Свен Йорген' WHERE `entry`=311;
@@ -362,7 +361,6 @@ UPDATE `locales_creature` SET `name_loc8`='Ардо Грязнолап' WHERE `e
 UPDATE `locales_creature` SET `name_loc8`='Твердозуб из стаи Красногорья' WHERE `entry`=712;
 UPDATE `locales_creature` SET `name_loc8`='Балир Морозный Молот' WHERE `entry`=713;
 UPDATE `locales_creature` SET `name_loc8`='Талин Остроглаз' WHERE `entry`=714;
-UPDATE `locales_creature` SET `name_loc8`='Хеминг Эрнестуэй' WHERE `entry`=715;
 UPDATE `locales_creature` SET `name_loc8`='Барнил Каменный Горшок' WHERE `entry`=716;
 UPDATE `locales_creature` SET `name_loc8`='Ажек Руак' WHERE `entry`=717;
 UPDATE `locales_creature` SET `name_loc8`='Сэр С. Дж. Эрлгедин' WHERE `entry`=718;
@@ -7845,7 +7843,6 @@ UPDATE `locales_creature` SET `name_loc8`='Шеллена',`subname_loc8`='Хо�
 UPDATE `locales_creature` SET `name_loc8`='Тосамина' WHERE `entry`=14498;
 UPDATE `locales_creature` SET `name_loc8`='Ордынский сирота' WHERE `entry`=14499;
 UPDATE `locales_creature` SET `name_loc8`='Д\'жииви' WHERE `entry`=14500;
-UPDATE `locales_creature` SET `name_loc8`='Ритуальный скакун чернокнижника, тип 3, демон (DND)' WHERE `entry`=14501;
 UPDATE `locales_creature` SET `name_loc8`='Зоротианский конь погибели' WHERE `entry`=14502;
 UPDATE `locales_creature` SET `name_loc8`='Чистильщик' WHERE `entry`=14503;
 UPDATE `locales_creature` SET `name_loc8`='Дух коня погибели' WHERE `entry`=14504;
@@ -8763,7 +8760,6 @@ UPDATE `locales_creature` SET `name_loc8`='Могильный ужас' WHERE `e
 UPDATE `locales_creature` SET `name_loc8`='Служитель культа Наксрамаса' WHERE `entry`=15980;
 UPDATE `locales_creature` SET `name_loc8`='Послушник из Наксрамаса' WHERE `entry`=15981;
 UPDATE `locales_creature` SET `name_loc8`='Королевский страж Сартуры' WHERE `entry`=15984;
-UPDATE `locales_creature` SET `name_loc8`='Сапфирон' WHERE `entry`=15989;
 UPDATE `locales_creature` SET `name_loc8`='Кел\'Тузад' WHERE `entry`=15990;
 UPDATE `locales_creature` SET `name_loc8`='Альдрис Четыре Облака' WHERE `entry`=16001;
 UPDATE `locales_creature` SET `name_loc8`='Колара Дин' WHERE `entry`=16002;
