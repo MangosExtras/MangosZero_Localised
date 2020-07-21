@@ -120,7 +120,6 @@ UPDATE `locales_creature` SET `name_loc1`='짜르크불' WHERE `entry`=300;
 UPDATE `locales_creature` SET `name_loc1`='눈먼 메리' WHERE `entry`=302;
 UPDATE `locales_creature` SET `name_loc1`='지옥마' WHERE `entry`=304;
 UPDATE `locales_creature` SET `name_loc1`='백마' WHERE `entry`=305;
-UPDATE `locales_creature` SET `name_loc1`='황토마' WHERE `entry`=306;
 UPDATE `locales_creature` SET `name_loc1`='적마' WHERE `entry`=307;
 UPDATE `locales_creature` SET `name_loc1`='흑마' WHERE `entry`=308;
 UPDATE `locales_creature` SET `name_loc1`='스벤 요르겐' WHERE `entry`=311;
@@ -360,7 +359,6 @@ UPDATE `locales_creature` SET `name_loc1`='진창발 아르도' WHERE `entry`=71
 UPDATE `locales_creature` SET `name_loc1`='붉은마루 약탈자' WHERE `entry`=712;
 UPDATE `locales_creature` SET `name_loc1`='발리르 프로스트해머' WHERE `entry`=713;
 UPDATE `locales_creature` SET `name_loc1`='탈린 킨아이' WHERE `entry`=714;
-UPDATE `locales_creature` SET `name_loc1`='헤멧 네싱워리 2세' WHERE `entry`=715;
 UPDATE `locales_creature` SET `name_loc1`='바닐 스톤팟' WHERE `entry`=716;
 UPDATE `locales_creature` SET `name_loc1`='아제크 루아크' WHERE `entry`=717;
 UPDATE `locales_creature` SET `name_loc1`='얼가딘 경' WHERE `entry`=718;
@@ -7839,7 +7837,6 @@ UPDATE `locales_creature` SET `name_loc1`='쉘린',`subname_loc1`='보육원 선
 UPDATE `locales_creature` SET `name_loc1`='토사미나' WHERE `entry`=14498;
 UPDATE `locales_creature` SET `name_loc1`='호드 고아' WHERE `entry`=14499;
 UPDATE `locales_creature` SET `name_loc1`='지비' WHERE `entry`=14500;
-UPDATE `locales_creature` SET `name_loc1`='흑마법사 탈것 소환수 Infernal (DND)' WHERE `entry`=14501;
 UPDATE `locales_creature` SET `name_loc1`='소로시안 공포마' WHERE `entry`=14502;
 UPDATE `locales_creature` SET `name_loc1`='척살자' WHERE `entry`=14503;
 UPDATE `locales_creature` SET `name_loc1`='공포마 영혼' WHERE `entry`=14504;
@@ -8757,7 +8754,6 @@ UPDATE `locales_creature` SET `name_loc1`='공포의 무덤마귀' WHERE `entry`
 UPDATE `locales_creature` SET `name_loc1`='낙스라마스 신도' WHERE `entry`=15980;
 UPDATE `locales_creature` SET `name_loc1`='낙스라마스 수행사제' WHERE `entry`=15981;
 UPDATE `locales_creature` SET `name_loc1`='살투라의 근위병' WHERE `entry`=15984;
-UPDATE `locales_creature` SET `name_loc1`='사피론' WHERE `entry`=15989;
 UPDATE `locales_creature` SET `name_loc1`='켈투자드' WHERE `entry`=15990;
 UPDATE `locales_creature` SET `name_loc1`='알드리스 포클라우즈' WHERE `entry`=16001;
 UPDATE `locales_creature` SET `name_loc1`='콜라라 딘' WHERE `entry`=16002;

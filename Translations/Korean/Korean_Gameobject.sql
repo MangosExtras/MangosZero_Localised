@@ -6356,7 +6356,6 @@ UPDATE `locales_gameobject` SET `name_loc1`='파멜라의 인형' WHERE `entry`=
 UPDATE `locales_gameobject` SET `name_loc1`='파멜라의 인형 왼쪽 몸통' WHERE `entry`=176142;
 UPDATE `locales_gameobject` SET `name_loc1`='파멜라의 인형 오른쪽 몸통' WHERE `entry`=176143;
 UPDATE `locales_gameobject` SET `name_loc1`='조셉 레드패스의 기념비' WHERE `entry`=176145;
-UPDATE `locales_gameobject` SET `name_loc1`='문' WHERE `entry`=176146;
 UPDATE `locales_gameobject` SET `name_loc1`='문' WHERE `entry`=176147;
 UPDATE `locales_gameobject` SET `name_loc1`='문' WHERE `entry`=176148;
 UPDATE `locales_gameobject` SET `name_loc1`='곰팡이 슨 고서' WHERE `entry`=176150;
