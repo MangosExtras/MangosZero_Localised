@@ -6182,8 +6182,6 @@ UPDATE `locales_gameobject` SET `name_loc7`='Cabeza de la muñeca de Pamela' WHE
 UPDATE `locales_gameobject` SET `name_loc7`='Parte izquierda de la muñeca de Pamela' WHERE `entry`=176142;
 UPDATE `locales_gameobject` SET `name_loc7`='Parte derecha de la muñeca de Pamela' WHERE `entry`=176143;
 UPDATE `locales_gameobject` SET `name_loc7`='Monumento de Joseph Rutagrana' WHERE `entry`=176145;
-UPDATE `locales_gameobject` SET `name_loc7`='Doodad_Ahn_Qiraj_DoorPlug01' WHERE `entry`=176146;
-UPDATE `locales_gameobject` SET `name_loc7`='Doodad_Ahn_Qiraj_DoorRoots01' WHERE `entry`=176147;
 UPDATE `locales_gameobject` SET `name_loc7`='Doodad_Ahn_Qiraj_DoorRunas01' WHERE `entry`=176148;
 UPDATE `locales_gameobject` SET `name_loc7`='Libro enmohecido' WHERE `entry`=176150;
 UPDATE `locales_gameobject` SET `name_loc7`='Libro enmohecido' WHERE `entry`=176151;
