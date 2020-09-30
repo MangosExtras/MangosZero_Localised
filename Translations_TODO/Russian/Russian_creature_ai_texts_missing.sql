@@ -7,7 +7,6 @@ UPDATE `trans_words` SET `content_loc8`='We\'re under attack! Avast ya swabs! Re
 UPDATE `trans_words` SET `content_loc8`='You land lovers are tougher then I thought! I will need to improvise' WHERE `word_id` = 5836; -- creature_ai_texts - content : entry=-175
 UPDATE `trans_words` SET `content_loc8`='Aaaahhhhhh!' WHERE `word_id` = 5806; -- creature_ai_texts - content : entry=-212
 UPDATE `trans_words` SET `content_loc8`='%s\'s death cry has stirred the nearby silithid hive.' WHERE `word_id` = 5892; -- creature_ai_texts - content : entry=-345
-UPDATE `trans_words` SET `content_loc8`='Seems like a hundred times a day I walk all the way to get more water. No respect for their elders I tell ya.' WHERE `word_id` = 5747; -- creature_ai_texts - content : entry=-425
 UPDATE `trans_words` SET `content_loc8`='O\'ourse I\'m talking to myself. Only way to get a decent conversation in this city.' WHERE `word_id` = 5744; -- creature_ai_texts - content : entry=-428
 UPDATE `trans_words` SET `content_loc8`='Fools. I knew that if I played upon my brother\'s feeble emotions, he would send \'rescuers.\'' WHERE `word_id` = 5898; -- creature_ai_texts - content : entry=-658
 UPDATE `trans_words` SET `content_loc8`='How easy it was to manipulate you into recovering the last Suntara stone from those imbeciles of the Twilight\'s Hammer..' WHERE `word_id` = 5899; -- creature_ai_texts - content : entry=-659
@@ -16,10 +15,8 @@ UPDATE `trans_words` SET `content_loc8`='Obsidion, Rise and Serve your Master!' 
 UPDATE `trans_words` SET `content_loc8`='At last: one among you is worthy of my knowledge. Worry not: I have probed your thoughts, no harm will come to you.' WHERE `word_id` = 5906; -- creature_ai_texts - content : entry=-666
 UPDATE `trans_words` SET `content_loc8`='I have... failed.' WHERE `word_id` = 5654; -- creature_ai_texts - content : entry=-700
 UPDATE `trans_words` SET `content_loc8`='%s attacks Karang\'s Banner!' WHERE `word_id` = 5624; -- creature_ai_texts - content : entry=-828
-UPDATE `trans_words` SET `content_loc8`='%s grabs the back of his neck and his eyes go wide.' WHERE `word_id` = 5609; -- creature_ai_texts - content : entry=-934
 UPDATE `trans_words` SET `content_loc8`='Are They all.... Dead?' WHERE `word_id` = 5607; -- creature_ai_texts - content : entry=-981
 UPDATE `trans_words` SET `content_loc8`='Mistress!! They seek to destroy your work!' WHERE `word_id` = 5603; -- creature_ai_texts - content : entry=-985
-UPDATE `trans_words` SET `content_loc8`='This will teach you to lay off the herb, $R.' WHERE `word_id` = 5600; -- creature_ai_texts - content : entry=-1019
 UPDATE `trans_words` SET `content_loc8`='The Scarlet Crusade shall not fail in it\'s mission!' WHERE `word_id` = 5591; -- creature_ai_texts - content : entry=-1030
 UPDATE `trans_words` SET `content_loc8`='The Agamand Mills is held by the Scourge, $C. Join us!' WHERE `word_id` = 5587; -- creature_ai_texts - content : entry=-1034
 UPDATE `trans_words` SET `content_loc8`='You are in the presence of a god!' WHERE `word_id` = 5575; -- creature_ai_texts - content : entry=-1048
@@ -40,16 +37,9 @@ UPDATE `trans_words` SET `content_loc8`='You make big mistake, mon.' WHERE `word
 UPDATE `trans_words` SET `content_loc8`='Here come the voodoo!' WHERE `word_id` = 5660; -- creature_ai_texts - content : entry=-1154
 UPDATE `trans_words` SET `content_loc8`='For the Darkspear tribe!' WHERE `word_id` = 5659; -- creature_ai_texts - content : entry=-1155
 UPDATE `trans_words` SET `content_loc8`='Ooooooooh... $B To the plaguelands went old Duggan, ta\' send them Scourge back inta\' th\' groun\'. $B Where th\' scent of death is on th\' wind and everythin\' is mostly brown. $B An\' when he did arrive there, what\'d his dwarf eyes see? $B A hundred crates of barley there ta\' be makin\' inta\' mead! $B But tha\' mead was cursed with th\' plague o\' death, and now old Duggan, too. $B An\' surrounded by the Lich King\'s beasts, what could old Duggan do? $B But though I feel the plague within, my hopes \'ave not yet sunk. $B If\'n I\'m gonna be Scourge anyway, I might as well be drunk!' WHERE `word_id` = 5917; -- creature_ai_texts - content : entry=-1161
-UPDATE `trans_words` SET `content_loc8`='SMOTTS, I HAVE YOUR LITTLE BELT....COME GET IT!' WHERE `word_id` = 5909; -- creature_ai_texts - content : entry=-1206
-UPDATE `trans_words` SET `content_loc8`='SMOTTS! HEY, SMOTTS! COME OUT AND PLAY!' WHERE `word_id` = 5910; -- creature_ai_texts - content : entry=-1207
-UPDATE `trans_words` SET `content_loc8`='DON\'T LET THIS STATUE BE MY ONLY COMPANY, COME OUT AND PLAY!' WHERE `word_id` = 5911; -- creature_ai_texts - content : entry=-1208
-UPDATE `trans_words` SET `content_loc8`='HAVE YOU RUN OUT OF SHIPS TO SEND? WHERE IS YOUR COURAGE?' WHERE `word_id` = 5914; -- creature_ai_texts - content : entry=-1211
-UPDATE `trans_words` SET `content_loc8`='I HAVE YOUR LITTLE BELT TIED AROUND MY FINGER, SMOTTS. DON\'T YOU WANT IT BACK?' WHERE `word_id` = 5916; -- creature_ai_texts - content : entry=-1213
 UPDATE `trans_words` SET `content_loc8`='Foolish mortal, you serve me now!' WHERE `word_id` = 5545; -- creature_ai_texts - content : entry=-1295
 UPDATE `trans_words` SET `content_loc8`='At last, it ends...' WHERE `word_id` = 5542; -- creature_ai_texts - content : entry=-1298
 UPDATE `trans_words` SET `content_loc8`='Silithid Creeper lays an egg!' WHERE `word_id` = 5529; -- creature_ai_texts - content : entry=-1317
-UPDATE `trans_words` SET `content_loc8`='Silithid Creeper Egg begins to crack and open...' WHERE `word_id` = 5528; -- creature_ai_texts - content : entry=-1318
-UPDATE `trans_words` SET `content_loc8`='Silithid Creeper Egg splits open!' WHERE `word_id` = 5530; -- creature_ai_texts - content : entry=-1319
 UPDATE `trans_words` SET `content_loc8`='Now that you have had a chance to study imp, let us move on the next minion you will be able to summon, the voidwalker.' WHERE `word_id` = 5927; -- creature_ai_texts - content : entry=-1414
 
 SET NAMES 'latin1';
