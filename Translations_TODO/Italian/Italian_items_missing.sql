@@ -302,8 +302,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Frost Protect
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Nature Protection Potion.' WHERE `word_id`=12660; -- locales_item - description : entry=6057
 UPDATE `trans_words` SET `content_loc9`='These documents are sealed by a magical force.' WHERE `word_id`=12669; -- locales_item - description : entry=6065
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make Shadow Oil.' WHERE `word_id`=12673; -- locales_item - description : entry=6068
-UPDATE `trans_words` SET `content_loc9`='Vimes\'s Report' WHERE `word_id`=12680; -- locales_item - name : entry=6075
-UPDATE `trans_words` SET `content_loc9`='0' WHERE `word_id`=12681; -- locales_item - description : entry=6075
 UPDATE `trans_words` SET `content_loc9`='Deepstrider Tumor' WHERE `word_id`=12688; -- locales_item - name : entry=6082
 UPDATE `trans_words` SET `content_loc9`='Zraedus\'s Brew' WHERE `word_id`=12694; -- locales_item - name : entry=6089
 UPDATE `trans_words` SET `content_loc9`='Place upon Yuriv\'s grave.' WHERE `word_id`=12709; -- locales_item - description : entry=6145
@@ -1861,7 +1859,6 @@ UPDATE `trans_words` SET `content_loc9`='The indelible mark of the Argent Dawn i
 UPDATE `trans_words` SET `content_loc9`='A splinter of Atiesh, Greatstaff of the Guardian.' WHERE `word_id`=23730; -- locales_item - description : entry=22726
 UPDATE `trans_words` SET `content_loc9`='The head and base are missing.' WHERE `word_id`=23732; -- locales_item - description : entry=22727
 UPDATE `trans_words` SET `content_loc9`='This blade is dimensional. It appears to be fading from this plane of existence.' WHERE `word_id`=23739; -- locales_item - description : entry=22736
-UPDATE `trans_words` SET `content_loc9`='0' WHERE `word_id`=12681; -- locales_item - description : entry=22737
 UPDATE `trans_words` SET `content_loc9`='Teaches Polymorph: Turtle.' WHERE `word_id`=23741; -- locales_item - description : entry=22739
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make an Ironvine Breastplate.' WHERE `word_id`=23766; -- locales_item - description : entry=22766
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make Ironvine Gloves.' WHERE `word_id`=23768; -- locales_item - description : entry=22767
@@ -1902,8 +1899,6 @@ UPDATE `trans_words` SET `content_loc9`='The McWeaksauce Classic' WHERE `word_id
 UPDATE `trans_words` SET `content_loc9`='The Original.' WHERE `word_id`=24084; -- locales_item - description : entry=23579
 UPDATE `trans_words` SET `content_loc9`='Teaches Ferocious Bite (Rank 5).' WHERE `word_id`=24092; -- locales_item - description : entry=24101
 UPDATE `trans_words` SET `content_loc9`='Teaches Eviscerate (Rank 9).' WHERE `word_id`=24094; -- locales_item - description : entry=24102
-UPDATE `trans_words` SET `content_loc9`='0' WHERE `word_id`=12681; -- locales_item - description : entry=24231
-UPDATE `trans_words` SET `content_loc9`='0' WHERE `word_id`=12681; -- locales_item - description : entry=24232
 UPDATE `trans_words` SET `content_loc9`='Looks like the carving was never finished...' WHERE `word_id`=24099; -- locales_item - description : entry=24281
 UPDATE `trans_words` SET `content_loc9`='All the pages are blank.' WHERE `word_id`=24101; -- locales_item - description : entry=24282
 UPDATE `trans_words` SET `content_loc9`='The name \'Lasitor\' is etched into the barrel.' WHERE `word_id`=24103; -- locales_item - description : entry=24283

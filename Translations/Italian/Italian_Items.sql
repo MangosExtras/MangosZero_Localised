@@ -3597,6 +3597,7 @@ UPDATE `locales_item` SET `name_loc9`='Cristallo di Draenetista' WHERE `entry`=6
 UPDATE `locales_item` SET `name_loc9`='Testa di Khan Jehn' WHERE `entry`=6072;
 UPDATE `locales_item` SET `name_loc9`='Testa di Khan Shaka' WHERE `entry`=6073;
 UPDATE `locales_item` SET `name_loc9`='Ancia del Corno da Guerra' WHERE `entry`=6074;
+UPDATE `locales_item` SET `name_loc9`='' WHERE `entry`=6075;
 UPDATE `locales_item` SET `name_loc9`='Pantaloni Affusolati' WHERE `entry`=6076;
 UPDATE `locales_item` SET `name_loc9`='Frammento della Chiave di Maraudon' WHERE `entry`=6077;
 UPDATE `locales_item` SET `name_loc9`='Scudo del Picchiere' WHERE `entry`=6078;

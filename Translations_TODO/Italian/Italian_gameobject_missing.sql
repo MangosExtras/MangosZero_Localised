@@ -159,9 +159,6 @@ UPDATE `trans_words` SET `content_loc9`='PX-238 Winter Wondervolt' WHERE `word_i
 UPDATE `trans_words` SET `content_loc9`='War Map' WHERE `word_id` = 116360; -- locales_gameobject - name : entry=180852
 UPDATE `trans_words` SET `content_loc9`='Duke\'s Box' WHERE `word_id` = 116361; -- locales_gameobject - name : entry=180853
 UPDATE `trans_words` SET `content_loc9`='Kel\'Thuzad Trigger' WHERE `word_id` = 116527; -- locales_gameobject - name : entry=181444
-UPDATE `trans_words` SET `content_loc9`='0' WHERE `word_id` = 12681; -- locales_gameobject - name : entry=182215
-UPDATE `trans_words` SET `content_loc9`='0' WHERE `word_id` = 12681; -- locales_gameobject - name : entry=182509
-UPDATE `trans_words` SET `content_loc9`='0' WHERE `word_id` = 12681; -- locales_gameobject - name : entry=183276
 UPDATE `trans_words` SET `content_loc9`='Fel Reaver Cap Pt' WHERE `word_id` = 116695; -- locales_gameobject - name : entry=184081
 UPDATE `trans_words` SET `content_loc9`='Scrying Aura' WHERE `word_id` = 116700; -- locales_gameobject - name : entry=184119
 UPDATE `trans_words` SET `content_loc9`='Logs on fire' WHERE `word_id` = 116717; -- locales_gameobject - name : entry=184507

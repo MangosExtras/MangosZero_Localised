@@ -12,9 +12,6 @@ UPDATE `trans_words`SET `content_loc9`='Laurena is the High Priestess of Stormwi
 UPDATE `trans_words`SET `content_loc9`='Warlocks, eh. Well, you didn\'t hear it from me, but I\'ve heard rumors that those types gather at a bar called the Slaughtered Lamb in the Mage Quarter.' WHERE `word_id`=192130; -- locales_npc_text - Text1_0 : entry=906
 UPDATE `trans_words`SET `content_loc9`='You mean you can\'t smell the smoke of the Dwarven forges from here?  Well, you will be looking for Therum Deepforge if you want to learn blacksmithing. He\'s over in the Dwarven District which is just north of the Cathedral Square.' WHERE `word_id`=192137; -- locales_npc_text - Text1_0 : entry=920
 UPDATE `trans_words`SET `content_loc9`='Ah, you\'re looking for Lucan Cordell. He runs a shop on the outside of the Magic Quarter on your way to the Stockade.' WHERE `word_id`=192166; -- locales_npc_text - Text1_0 : entry=941
-UPDATE `trans_words`SET `content_loc9`='I sell only the finest arcane gear, made by the crafters and mages here in the city of Stormwind.' WHERE `word_id`=192230; -- locales_npc_text - Text1_0 : entry=1231
-UPDATE `trans_words`SET `content_loc9`='I sell only the finest arcane gear, made by the crafters and mages here in the city of Stormwind.' WHERE `word_id`=192230; -- locales_npc_text - Text1_0 : entry=1232
-UPDATE `trans_words`SET `content_loc9`='I sell only the finest arcane gear, made by the crafters and mages here in the city of Stormwind.' WHERE `word_id`=192230; -- locales_npc_text - Text1_0 : entry=1234
 UPDATE `trans_words`SET `content_loc9`='Welcome to the Bank of Stormwind. We offer financial accounts and safety deposit boxes for valuable items. Do you already have an account with us $G sir : ma\'am;?' WHERE `word_id`=192240; -- locales_npc_text - Text1_0 : entry=1250
 UPDATE `trans_words`SET `content_loc9`='These great beasts know paths that ye can\'t find on foot, they\'ll get ye there fast and maybe show ye something new at the same time.' WHERE `word_id`=192246; -- locales_npc_text - Text1_0 : entry=1256
 UPDATE `trans_words`SET `content_loc9`='Any friend of the animals is a friend of mine. The Hunter\'s Hall is what you seek. It sits atop the Hunter Rise.' WHERE `word_id`=192261; -- locales_npc_text - Text1_0 : entry=1295
@@ -93,12 +90,7 @@ UPDATE `trans_words`SET `content_loc9`='Nothing quite like the feel of something
 UPDATE `trans_words`SET `content_loc9`='I guess your first exercise is going to be to mine your way down to the Undercity. Heh, get it?  Mine... nevermind. To get to the Undercity go to the rear of the Ruins of Lordaeron south of Brill, and take the elevator down. Ask one of the Undercity Guardians there for further assistance.' WHERE `word_id`=193222; -- locales_npc_text - Text1_0 : entry=4091
 UPDATE `trans_words`SET `content_loc9`='You aiming to be a taxidermist?  I don\'t like people who think they can stuff and mount me because they think I\'m dead. No?  Good!  Look for Rand Rhobart at a camp to the southeast of town. To get to him take the road southeast out of Brill and hang a left at the intersection.' WHERE `word_id`=193224; -- locales_npc_text - Text1_0 : entry=4092
 UPDATE `trans_words`SET `content_loc9`='Black, grey and dark purple are the prescribed colors. See to it that you don\'t stray onto the wrong side of fashion street friend. Bowen Brisboise can help to see that you don\'t. You\'ll find him inside Cold Hearth Manor on the other side of the bridge to the southwest of town.' WHERE `word_id`=193226; -- locales_npc_text - Text1_0 : entry=4093
-UPDATE `trans_words`SET `content_loc9`='Have you tried our bread? Baker Masterson must be the most gifted chef to have ever lived!' WHERE `word_id`=193231; -- locales_npc_text - Text1_0 : entry=4118
 UPDATE `trans_words`SET `content_loc9`='We\'re not really rude people, stranger, it\'s just that everyone is in a rush, trying to make sure that everything is perfect for Uther\'s arrival. It\'s not often that the Lightbringer comes to town.' WHERE `word_id`=193233; -- locales_npc_text - Text3_0 : entry=4118
-UPDATE `trans_words`SET `content_loc9`='I\'ve got my eye on you, $R.' WHERE `word_id`=193236; -- locales_npc_text - Text1_0 : entry=4119
-UPDATE `trans_words`SET `content_loc9`='Why, you look like a common street urchin!' WHERE `word_id`=193238; -- locales_npc_text - Text3_0 : entry=4119
-UPDATE `trans_words`SET `content_loc9`='My job title is Waste Management Specialist.' WHERE `word_id`=193250; -- locales_npc_text - Text1_0 : entry=4133
-UPDATE `trans_words`SET `content_loc9`='Ah, my sweet Brandy, I miss her so!' WHERE `word_id`=193252; -- locales_npc_text - Text3_0 : entry=4133
 UPDATE `trans_words`SET `content_loc9`='Oh, you must mean the Stormwind Counting House. It\'s not far from the gates after you enter Stormwind.' WHERE `word_id`=193263; -- locales_npc_text - Text1_0 : entry=4260
 UPDATE `trans_words`SET `content_loc9`='The gryphon master oversees the gryphon flights from within Stormwind. If you\'re looking to take a ride, then that\'s where you should be headed.' WHERE `word_id`=193265; -- locales_npc_text - Text1_0 : entry=4261
 UPDATE `trans_words`SET `content_loc9`='All that official business is handled up in Stormwind these days. You could stop by the Stormwind Visitor\'s Center if you want to start a guild.' WHERE `word_id`=193267; -- locales_npc_text - Text1_0 : entry=4262
@@ -356,8 +348,6 @@ UPDATE `trans_words`SET `content_loc9`='Truth be told, I never liked that gnome.
 UPDATE `trans_words`SET `content_loc9`='I wonder how many more of them live among us. I knew Spark for years - never could I have imagined that he was a traitor.' WHERE `word_id`=197032; -- locales_npc_text - Text5_0 : entry=8893
 UPDATE `trans_words`SET `content_loc9`='If you have something to say, say it!' WHERE `word_id`=195419; -- locales_npc_text - Text1_0 : entry=8962
 UPDATE `trans_words`SET `content_loc9`='I\'m busy, make it fast!' WHERE `word_id`=195421; -- locales_npc_text - Text3_0 : entry=8962
-UPDATE `trans_words`SET `content_loc9`='[Furbolg] Poorov\'tarkh!' WHERE `word_id`=195431; -- locales_npc_text - Text1_0 : entry=8983
-UPDATE `trans_words`SET `content_loc9`='[Furbolg] Boro gomsho!' WHERE `word_id`=195433; -- locales_npc_text - Text3_0 : entry=8983
 UPDATE `trans_words`SET `content_loc9`='Can you not see that I am busy here?' WHERE `word_id`=195521; -- locales_npc_text - Text1_0 : entry=9124
 UPDATE `trans_words`SET `content_loc9`='Yes? What do you want' WHERE `word_id`=278487; -- locales_npc_text - Text2_1 : entry=9124
 UPDATE `trans_words`SET `content_loc9`='And you are?' WHERE `word_id`=195523; -- locales_npc_text - Text3_0 : entry=9124
@@ -437,7 +427,6 @@ UPDATE `trans_words`SET `content_loc9`='You need something fixed? Use the Vend-O
 UPDATE `trans_words`SET `content_loc9`='I don\'t have time to talk now.' WHERE `word_id`=278922; -- locales_npc_text - Text2_1 : entry=12332
 UPDATE `trans_words`SET `content_loc9`='Mawurrgggl, gurgl lur!' WHERE `word_id`=197207; -- locales_npc_text - Text1_0 : entry=12362
 UPDATE `trans_words`SET `content_loc9`='Brggl-brggl Mrgl-Mrgl! Gluk!' WHERE `word_id`=197209; -- locales_npc_text - Text3_0 : entry=12362
-UPDATE `trans_words`SET `content_loc9`='RAWGRLRLRLRRLGLRL!!!' WHERE `word_id`=197211; -- locales_npc_text - Text5_0 : entry=12362
 UPDATE `trans_words`SET `content_loc9`='Mrglmrgl Glrggl!' WHERE `word_id`=197213; -- locales_npc_text - Text7_0 : entry=12362
 UPDATE `trans_words`SET `content_loc9`='You can understand me? I can understand you!' WHERE `word_id`=197215; -- locales_npc_text - Text1_0 : entry=12363
 UPDATE `trans_words`SET `content_loc9`='There are clams to be collected and orcas to be killed. Help or stay out of the way!' WHERE `word_id`=197217; -- locales_npc_text - Text3_0 : entry=12363
