@@ -53,6 +53,8 @@ UPDATE `trans_words` SET `content_loc3`='Your efforts are utterly pointless, foo
 UPDATE `trans_words` SET `content_loc3`='Prepare to meet your doom at the hands of Ragnaros\' most powerful servant!' WHERE `word_id` = 1322; -- script_texts - content : entry=-1230065
 UPDATE `trans_words` SET `content_loc3`='Who you gonna call?' WHERE `word_id` = 966; -- script_texts - content : entry=-1329002
 UPDATE `trans_words` SET `content_loc3`='Don\'t cross those beams!' WHERE `word_id` = 967; -- script_texts - content : entry=-1329003
+UPDATE `trans_words` SET `content_loc3`='The king is dead - OH NOES! Summon Mizzle da Crafty! He knows what to do next!' WHERE `word_id` = 337438; -- script_texts - content : entry=-1429003
+UPDATE `trans_words` SET `content_loc3`='D\'oh !' WHERE `word_id` = 337437; -- script_texts - content : entry=-1429004
 UPDATE `trans_words` SET `content_loc3`='Run! They are coming.' WHERE `word_id` = 1044; -- script_texts - content : entry=-1469034
 UPDATE `trans_words` SET `content_loc3`='Orb of Domination loses power and shuts off!' WHERE `word_id` = 1045; -- script_texts - content : entry=-1469035
 UPDATE `trans_words` SET `content_loc3`='The feast of souls begin now...' WHERE `word_id` = 1096; -- script_texts - content : entry=-1531018

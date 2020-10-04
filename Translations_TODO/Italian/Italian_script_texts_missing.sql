@@ -1022,6 +1022,8 @@ UPDATE `trans_words` SET `content_loc9`='Impudent whelps! You\'ve rushed headlon
 UPDATE `trans_words` SET `content_loc9`='The demon is loose! Quickly we must restrain him!' WHERE `word_id` = 1007; -- script_texts - content : entry=-1429000
 UPDATE `trans_words` SET `content_loc9`='Who dares disrupt the sanctity of Eldre\'Thalas? Face me, cowards!' WHERE `word_id` = 1008; -- script_texts - content : entry=-1429001
 UPDATE `trans_words` SET `content_loc9`='At last... Freed from his cursed grasp!' WHERE `word_id` = 1009; -- script_texts - content : entry=-1429002
+UPDATE `trans_words` SET `content_loc9`='The king is dead - OH NOES! Summon Mizzle da Crafty! He knows what to do next!' WHERE `word_id` = 337438; -- script_texts - content : entry=-1429003
+UPDATE `trans_words` SET `content_loc9`='D\'oh !' WHERE `word_id` = 337437; -- script_texts - content : entry=-1429004
 UPDATE `trans_words` SET `content_loc9`='None of your kind should be here! You\'ve doomed only yourselves!' WHERE `word_id` = 1010; -- script_texts - content : entry=-1469000
 UPDATE `trans_words` SET `content_loc9`='Clever Mortals but I am not so easily lured away from my sanctum!' WHERE `word_id` = 1011; -- script_texts - content : entry=-1469001
 UPDATE `trans_words` SET `content_loc9`='Run! They are coming!' WHERE `word_id` = 1012; -- script_texts - content : entry=-1469002

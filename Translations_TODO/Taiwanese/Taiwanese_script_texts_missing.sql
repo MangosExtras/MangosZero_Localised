@@ -272,6 +272,8 @@ UPDATE `trans_words` SET `content_loc5`='Brashly you have come to rest the secre
 UPDATE `trans_words` SET `content_loc5`='I go now to summon the lord whos house this is. Should you seek an audiance with him your paltry lives will surly be forfit. Nevertheless seek out his lair if you dare!' WHERE `word_id` = 1003; -- script_texts - content : entry=-1409021
 UPDATE `trans_words` SET `content_loc5`='My flame! Please don\'t take away my flame...' WHERE `word_id` = 1004; -- script_texts - content : entry=-1409022
 UPDATE `trans_words` SET `content_loc5`='The demon is loose! Quickly we must restrain him!' WHERE `word_id` = 1007; -- script_texts - content : entry=-1429000
+UPDATE `trans_words` SET `content_loc5`='The king is dead - OH NOES! Summon Mizzle da Crafty! He knows what to do next!' WHERE `word_id` = 337438; -- script_texts - content : entry=-1429003
+UPDATE `trans_words` SET `content_loc5`='D\'oh !' WHERE `word_id` = 337437; -- script_texts - content : entry=-1429004
 UPDATE `trans_words` SET `content_loc5`='Clever Mortals but I am not so easily lured away from my sanctum!' WHERE `word_id` = 1011; -- script_texts - content : entry=-1469001
 UPDATE `trans_words` SET `content_loc5`='Well done, my minions. The mortals\' courage begins to wane! Now, let\'s see how they contend with the true Lord of Blackrock Spire!' WHERE `word_id` = 1017; -- script_texts - content : entry=-1469007
 UPDATE `trans_words` SET `content_loc5`='Enough! Now you vermin shall feel the force of my birthright, the fury of the earth itself.' WHERE `word_id` = 1018; -- script_texts - content : entry=-1469008
