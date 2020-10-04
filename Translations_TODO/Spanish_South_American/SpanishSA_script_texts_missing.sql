@@ -142,7 +142,6 @@ UPDATE `trans_words` SET `content_loc7`='My lady, I am unworthy of your prayer. 
 UPDATE `trans_words` SET `content_loc7`='Let us leave Nighthave, hero. Seek me out at the grove.' WHERE `word_id` = 543; -- script_texts - content : entry=-1000705
 UPDATE `trans_words` SET `content_loc7`='Please, light this while I am channeling' WHERE `word_id` = 547; -- script_texts - content : entry=-1000709
 UPDATE `trans_words` SET `content_loc7`='Look above you; thara dormil dorah...' WHERE `word_id` = 561; -- script_texts - content : entry=-1000723
-UPDATE `trans_words` SET `content_loc7`='Anu\'dorini Talah, Ru shallora enudoril.' WHERE `word_id` = 567; -- script_texts - content : entry=-1000729
 UPDATE `trans_words` SET `content_loc7`='Thank you for you help, $N. I wish you well in your adventures.' WHERE `word_id` = 574; -- script_texts - content : entry=-1000736
 UPDATE `trans_words` SET `content_loc7`='Remember, I need your help to properly channel. I will ask you to aid me several times in our path, so please be ready.' WHERE `word_id` = 577; -- script_texts - content : entry=-1000739
 UPDATE `trans_words` SET `content_loc7`='We must act quickly or shall be lost!' WHERE `word_id` = 578; -- script_texts - content : entry=-1000740

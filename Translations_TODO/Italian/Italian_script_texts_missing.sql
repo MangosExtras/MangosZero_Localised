@@ -547,7 +547,6 @@ UPDATE `trans_words` SET `content_loc9`='Through the gem, Elune channeled her in
 UPDATE `trans_words` SET `content_loc9`='Realizing that the gem needed to be protected, we turned to the goddess herself.' WHERE `word_id` = 564; -- script_texts - content : entry=-1000726
 UPDATE `trans_words` SET `content_loc9`='Soon after, we began to have visions of a creature... A creature with the feathers of an owl, but the will and might of a bear...' WHERE `word_id` = 565; -- script_texts - content : entry=-1000727
 UPDATE `trans_words` SET `content_loc9`='It was on that day that the wildkin were given to us. Fierce guardians, the goddess assigned the wildkin to protect all of her sacred places.' WHERE `word_id` = 283255; -- script_texts - content : entry=-1000728
-UPDATE `trans_words` SET `content_loc9`='Anu\'dorini Talah, Ru shallora enudoril.' WHERE `word_id` = 567; -- script_texts - content : entry=-1000729
 UPDATE `trans_words` SET `content_loc9`='But now, many years later, the wildkin have grown more feral, and without the guidance of the goddess, they are confused...' WHERE `word_id` = 283256; -- script_texts - content : entry=-1000730
 UPDATE `trans_words` SET `content_loc9`='Without a purpose, they wander... But many find their way back to the sacred areas that they once were sworn to protect.' WHERE `word_id` = 283257; -- script_texts - content : entry=-1000731
 UPDATE `trans_words` SET `content_loc9`='Wildkin are inherently magical; this power was bestowed upon them by the goddess.' WHERE `word_id` = 570; -- script_texts - content : entry=-1000732

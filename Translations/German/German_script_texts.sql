@@ -562,7 +562,6 @@ UPDATE `script_texts` SET `content_loc3`='Durch diesen Edelstein kanalisierte El
 UPDATE `script_texts` SET `content_loc3`='Als wir erkannten, dass der Edelstein beschützt werden musste, wandten wir uns an die Göttin persönlich.' WHERE `entry`=-1000726;
 UPDATE `script_texts` SET `content_loc3`='Bald darauf begannen wir, Visionen von einer Kreatur zu haben... Einer Kreatur mit den Federn einer Eule, aber der Willenskraft und der Stärke eines Bären...' WHERE `entry`=-1000727;
 UPDATE `script_texts` SET `content_loc3`='An jenem Tag wurden uns die Wildekin gegeben. Die Göttin berief die Wildekin, diese grimmigen Wächter, dazu, all ihre heiligen Orte zu beschützen.' WHERE `entry`=-1000728;
-UPDATE `script_texts` SET `content_loc3`='Anu\'dorini Talah, Ru shallora enudoril' WHERE `entry`=-1000729;
 UPDATE `script_texts` SET `content_loc3`='Doch nun, viele Jahre später, sind die Wildekin nicht mehr so friedfertig wie früher, und ohne die Führung der Göttin sind sie verwirrt...' WHERE `entry`=-1000730;
 UPDATE `script_texts` SET `content_loc3`='Sie wandern herum ohne jedes Ziel, ohne jeden Zweck... Doch viele verschlägt es zurück zu den heiligen Gebieten, von denen sie einst geschworen hatten, sie zu beschützen.' WHERE `entry`=-1000731;
 UPDATE `script_texts` SET `content_loc3`='Wildekin sind von Natur aus magisch, diese Macht wurde ihnen von der Göttin verliehen.' WHERE `entry`=-1000732;
