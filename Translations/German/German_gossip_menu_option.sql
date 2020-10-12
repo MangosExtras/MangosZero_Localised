@@ -407,8 +407,6 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte meine Ta
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ähem... tut mir leid, dass ich störe, aber dürfte ich Goldstahls Geschäftsbuch noch einmal sehen... falls Ihr es gerade nicht braucht.' WHERE `menu_id`=2387 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte einen Blick in mein Schließfach werfen.' WHERE `menu_id`=2404 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Gibt es einen Unterschied zwischen Schlammen und Schleimen?' WHERE `menu_id`=2405 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Was soll das heißen, \'rein\'?' WHERE `menu_id`=2405 AND `id`=1;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Fallen Euch Gegenden ein, die so unberührt wären?' WHERE `menu_id`=2405 AND `id`=2;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Was haltet Ihr von Dadanga?' WHERE `menu_id`=2422 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wo befindet sich der Zeppelin gerade?' WHERE `menu_id`=2441 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=2464 AND `id`=0;

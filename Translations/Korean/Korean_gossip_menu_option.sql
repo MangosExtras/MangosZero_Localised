@@ -392,8 +392,6 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='습득한 특성을 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='엄... 방해해서 미안하지만, 혹시 지금 보고 있지 않으면... 굿스틸 장부를 다시 보여 줄 수 없겠습니까?' WHERE `menu_id`=2387 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='내 보관함을 보고 싶습니다.' WHERE `menu_id`=2404 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='수액괴물과 진흙괴물 사이에 무슨 차이가 있습니까?' WHERE `menu_id`=2405 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='"순수하다"니 무슨 말씀입니까?' WHERE `menu_id`=2405 AND `id`=1;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그렇게 천연 그대로일만한 장소가 있습니까?' WHERE `menu_id`=2405 AND `id`=2;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='다단가는 어떤 짐승인가요?' WHERE `menu_id`=2422 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='지금 비행선은 어디쯤 있나요?' WHERE `menu_id`=2441 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='물건을 구입하고 싶습니다.' WHERE `menu_id`=2464 AND `id`=0;

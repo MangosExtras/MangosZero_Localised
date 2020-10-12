@@ -410,8 +410,6 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Я хочу забы
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Э... прости, что беспокою, но нельзя ли мне еще раз взглянуть на гроссбух Сталлера... если он тебе сейчас не нужен?' WHERE `menu_id`=2387 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Я хотел бы проверить свою ячейку.' WHERE `menu_id`=2404 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Чем слизнюк отличается от обычной слизи?' WHERE `menu_id`=2405 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Что значит "чистый?"' WHERE `menu_id`=2405 AND `id`=1;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Вам когда-нибудь доводилось видеть столь же первозданную природу, как в наших краях?' WHERE `menu_id`=2405 AND `id`=2;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Как тебе Даданга?' WHERE `menu_id`=2422 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Где сейчас дирижабль?' WHERE `menu_id`=2441 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Позвольте взглянуть на ваши товары.' WHERE `menu_id`=2464 AND `id`=0;
