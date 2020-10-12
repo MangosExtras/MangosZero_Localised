@@ -118,8 +118,10 @@ UPDATE `creature_ai_texts` SET `content_loc2`='Quelqu\'un a dû les aider.' WHER
 UPDATE `creature_ai_texts` SET `content_loc2`='Tout à coup, ils étaient partout.' WHERE `entry`=-416;
 UPDATE `creature_ai_texts` SET `content_loc2`='J\'ai l\'impression de m\'enraciner dans les pavés.' WHERE `entry`=-423;
 UPDATE `creature_ai_texts` SET `content_loc2`='C\'est moi qui transporte toute l\'eau par ici.' WHERE `entry`=-424;
+UPDATE `creature_ai_texts` SET `content_loc2`='J\'ai l\'impression de faire le chemin cent fois par jour pour récupérer de l\'eau. Aucun respect pour leurs aînés moi je vous dis.' WHERE `entry`=-425;
 UPDATE `creature_ai_texts` SET `content_loc2`='Où est l\'eau, Emma ? Va chercher l\'eau, Emma ! Si je m\'en chargeais pas, y\'en aurait beaucoup qui n\'sauraient pas à quoi r\'semble l\'eau.' WHERE `entry`=-426;
 UPDATE `creature_ai_texts` SET `content_loc2`='Comme si, à mon grand âge, je n\'avais pas mieux à faire que de porter des seaux d\'eau.' WHERE `entry`=-427;
+UPDATE `creature_ai_texts` SET `content_loc2`='Bien sûr, je me parle à moi-même. C\'est le seul moyen d\'avoir une conversation décente dans cette ville.' WHERE `entry`=-428;
 UPDATE `creature_ai_texts` SET `content_loc2`='On est arrivés ?' WHERE `entry`=-429;
 UPDATE `creature_ai_texts` SET `content_loc2`='J\'ai mal aux pieds.' WHERE `entry`=-430;
 UPDATE `creature_ai_texts` SET `content_loc2`='Pourquoi passons-nous toujours par le même chemin ?' WHERE `entry`=-432;
@@ -180,6 +182,7 @@ UPDATE `creature_ai_texts` SET `content_loc2`='MOUREZ, MORTELS !' WHERE `entry`
 UPDATE `creature_ai_texts` SET `content_loc2`='Bijou sait où les trésors sont cachés.' WHERE `entry`=-582;
 UPDATE `creature_ai_texts` SET `content_loc2`='GROA !! *tousse* *tousse* Faut que j\'arrête de fumer.' WHERE `entry`=-583;
 UPDATE `creature_ai_texts` SET `content_loc2`='Demandez à Kibler pour le trésor ! GROA !' WHERE `entry`=-584;
+UPDATE `creature_ai_texts` SET `content_loc2`='Ils vont tous au Pic mais aucun ne revient jamais ... comme Bijou.' WHERE `entry`=-585;
 UPDATE `creature_ai_texts` SET `content_loc2`='Opus veut l\'or de Cuergo... avec des vers.' WHERE `entry`=-586;
 UPDATE `creature_ai_texts` SET `content_loc2`='La SgPA mène une enquête sur Kibler.' WHERE `entry`=-587;
 UPDATE `creature_ai_texts` SET `content_loc2`='%s pousse un rugissement qui alerte ses alliés proches, et devient enragé !' WHERE `entry`=-648;

@@ -392,8 +392,6 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Je voudrais oublier 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Um... Ça m\'ennuie de vous déranger, mais pourrais-je voir encore le livre de Bonnacier ? Si vous ne l\'utilisez pas...' WHERE `menu_id`=2387 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='J\'aimerais regarder le contenu de mon coffre.' WHERE `menu_id`=2404 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Y a-t-il une différence entre les limons et les gelées ?' WHERE `menu_id`=2405 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Que voulez-vous dire par "pur" ?' WHERE `menu_id`=2405 AND `id`=1;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Y a-t-il beaucoup d\'endroits susceptibles de répondre à cette définition ?' WHERE `menu_id`=2405 AND `id`=2;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Que pensez-vous de Dadanga ?' WHERE `menu_id`=2422 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Où se trouve le zeppelin en ce moment ?' WHERE `menu_id`=2441 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Laissez-moi jeter un coup d\'œil sur vos marchandises.' WHERE `menu_id`=2464 AND `id`=0;

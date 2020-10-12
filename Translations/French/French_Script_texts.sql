@@ -720,7 +720,7 @@ UPDATE `script_texts` SET `content_loc2`='Exécutez-le.' WHERE `entry`=-1000887;
 UPDATE `script_texts` SET `content_loc2`='Soldat, allez faire votre rapport à Kargath immédiatement !' WHERE `entry`=-1000888;
 UPDATE `script_texts` SET `content_loc2`='%s se soumet.' WHERE `entry`=-1000889;
 UPDATE `script_texts` SET `content_loc2`='Vous êtes $Gvenu:venue; jouer ? Alors jouons !' WHERE `entry`=-1000890;
-UPDATE `script_texts` SET `content_loc2`='Méfiez-vous $N ! Regardez à l\'ouest !' WHERE `entry`=-1000891;
+UPDATE `script_texts` SET `content_loc2`='Attention, $n ! Regardez à l\'ouest !' WHERE `entry`=-1000891;
 UPDATE `script_texts` SET `content_loc2`='Un défenseur est tombé !' WHERE `entry`=-1000892;
 UPDATE `script_texts` SET `content_loc2`='Les envahisseurs Kolkars se retirent!' WHERE `entry`=-1000893;
 UPDATE `script_texts` SET `content_loc2`='Les Kolkars sont les plus forts !' WHERE `entry`=-1000894;

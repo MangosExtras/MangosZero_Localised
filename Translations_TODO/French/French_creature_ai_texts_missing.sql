@@ -32,8 +32,6 @@ UPDATE `trans_words` SET `content_loc2`='[Orcish] Tago mog regas gi mog Tov\'nok
 UPDATE `trans_words` SET `content_loc2`='Hearty Kill!' WHERE `word_id` = 5763; -- creature_ai_texts - content : entry=-388
 UPDATE `trans_words` SET `content_loc2`='I cannot permit you to enter the temple! I must destroy you for your own good!' WHERE `word_id` = 5762; -- creature_ai_texts - content : entry=-404
 UPDATE `trans_words` SET `content_loc2`='Spare some change for a poor blind man?...What do you mean I\'m not blind?...I\'M NOT BLIND! I CAN SEE! ITS A MIRACLE!' WHERE `word_id` = 5754; -- creature_ai_texts - content : entry=-412
-UPDATE `trans_words` SET `content_loc2`='Seems like a hundred times a day I walk all the way to get more water. No respect for their elders I tell ya.' WHERE `word_id` = 5747; -- creature_ai_texts - content : entry=-425
-UPDATE `trans_words` SET `content_loc2`='O\'ourse I\'m talking to myself. Only way to get a decent conversation in this city.' WHERE `word_id` = 5744; -- creature_ai_texts - content : entry=-428
 UPDATE `trans_words` SET `content_loc2`='Is it true? Are there crocolisks in the canal?' WHERE `word_id` = 5741; -- creature_ai_texts - content : entry=-431
 UPDATE `trans_words` SET `content_loc2`='Looks like you\'ll have to go ahead to Ratchet and tell Sputtervalve that I\'ve wrecked the shredder.' WHERE `word_id` = 5736; -- creature_ai_texts - content : entry=-436
 UPDATE `trans_words` SET `content_loc2`='I\'ll stay behind and guard the wreck. Hurry! Hopefully no one will notice the smoke...' WHERE `word_id` = 5735; -- creature_ai_texts - content : entry=-437
@@ -45,7 +43,6 @@ UPDATE `trans_words` SET `content_loc2`='Just... Dust...' WHERE `word_id` = 5684
 UPDATE `trans_words` SET `content_loc2`='Aku\'mai is dead! At last, I can leave this wretched place!' WHERE `word_id` = 5683; -- creature_ai_texts - content : entry=-569
 UPDATE `trans_words` SET `content_loc2`='No! You must no do this!' WHERE `word_id` = 5679; -- creature_ai_texts - content : entry=-579
 UPDATE `trans_words` SET `content_loc2`='By the Light, you will leave this tomb!' WHERE `word_id` = 5677; -- creature_ai_texts - content : entry=-581
-UPDATE `trans_words` SET `content_loc2`='They all go to the Spire but none never come back... just like Bijou.' WHERE `word_id` = 5673; -- creature_ai_texts - content : entry=-585
 UPDATE `trans_words` SET `content_loc2`='Snivvle is here! Snivvle claims the Coldtooth Mine!' WHERE `word_id` = 5668; -- creature_ai_texts - content : entry=-654
 UPDATE `trans_words` SET `content_loc2`='Fools. I knew that if I played upon my brother\'s feeble emotions, he would send \'rescuers.\'' WHERE `word_id` = 5898; -- creature_ai_texts - content : entry=-658
 UPDATE `trans_words` SET `content_loc2`='How easy it was to manipulate you into recovering the last Suntara stone from those imbeciles of the Twilight\'s Hammer..' WHERE `word_id` = 5899; -- creature_ai_texts - content : entry=-659
