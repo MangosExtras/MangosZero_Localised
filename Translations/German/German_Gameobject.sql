@@ -6062,7 +6062,7 @@ UPDATE `locales_gameobject` SET `name_loc3`='Angesengter Brief' WHERE `entry`=17
 UPDATE `locales_gameobject` SET `name_loc3`='Türen' WHERE `entry`=175705;
 UPDATE `locales_gameobject` SET `name_loc3`='Schwarzfelsaltar' WHERE `entry`=175706;
 UPDATE `locales_gameobject` SET `name_loc3`='Lagerfeuer' WHERE `entry`=175707;
-UPDATE `locales_gameobject` SET `name_loc3`='Vorratskiste des Wegekreuzes' WHERE `entry`=175708;
+UPDATE `locales_gameobject` SET `name_loc3`='Crossroads Vorratskisten' WHERE `entry`=175708;
 UPDATE `locales_gameobject` SET `name_loc3`='Sargeras und der Verrat' WHERE `entry`=175724;
 UPDATE `locales_gameobject` SET `name_loc3`='Die Alten Götter und die Ordnung von Azeroth' WHERE `entry`=175725;
 UPDATE `locales_gameobject` SET `name_loc3`='Der Bund der Drachenschwärme' WHERE `entry`=175726;

@@ -6,6 +6,7 @@ UPDATE `mangos_string` SET `content_loc3`='Unsichtbar' WHERE `entry`=42;
 UPDATE `mangos_string` SET `content_loc3`='Du' WHERE `entry`=44;
 UPDATE `mangos_string` SET `content_loc3`='<Fehler>' WHERE `entry`=46;
 UPDATE `mangos_string` SET `content_loc3`='UNBEKANNT' WHERE `entry`=48;
+UPDATE `mangos_string` SET `content_loc3`='Hallo! Wollt Ihr ein bisschen üben?' WHERE `entry`=51;
 UPDATE `mangos_string` SET `content_loc3`='Hatte' WHERE `entry`=318;
 UPDATE `mangos_string` SET `content_loc3`='Unfreundliche' WHERE `entry`=320;
 UPDATE `mangos_string` SET `content_loc3`='Befreundet' WHERE `entry`=322;

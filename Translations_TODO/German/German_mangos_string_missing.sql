@@ -41,7 +41,6 @@ UPDATE `trans_words` SET `content_loc3`=' <unknown>' WHERE `word_id` = 4208; -- 
 UPDATE `trans_words` SET `content_loc3`='<non-existing character>' WHERE `word_id` = 4210; -- mangos_string - content : entry=47
 UPDATE `trans_words` SET `content_loc3`='You must be at least level %u to enter.' WHERE `word_id` = 4440; -- mangos_string - content : entry=49
 UPDATE `trans_words` SET `content_loc3`='You must have item %s to enter.' WHERE `word_id` = 4213; -- mangos_string - content : entry=50
-UPDATE `trans_words` SET `content_loc3`='Hello! Ready for some training?' WHERE `word_id` = 4214; -- mangos_string - content : entry=51
 UPDATE `trans_words` SET `content_loc3`='Invaid item count (%u) for item %u' WHERE `word_id` = 4215; -- mangos_string - content : entry=52
 UPDATE `trans_words` SET `content_loc3`='Mail can\'t have more %u item stacks' WHERE `word_id` = 4216; -- mangos_string - content : entry=53
 UPDATE `trans_words` SET `content_loc3`='The new passwords do not match' WHERE `word_id` = 4217; -- mangos_string - content : entry=54

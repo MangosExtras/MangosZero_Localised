@@ -2858,7 +2858,7 @@ UPDATE `locales_item` SET `name_loc3`='Minshinas Schädel' WHERE `entry`=4864;
 UPDATE `locales_item` SET `name_loc3`='Verdorbener Pelz' WHERE `entry`=4865;
 UPDATE `locales_item` SET `name_loc3`='Zalazanes Kopf' WHERE `entry`=4866;
 UPDATE `locales_item` SET `name_loc3`='Gebrochenes Skorpidbein' WHERE `entry`=4867;
-UPDATE `locales_item` SET `name_loc3`='Zischels Klaue' WHERE `entry`=4869;
+UPDATE `locales_item` SET `name_loc3`='Fizzles Klaue' WHERE `entry`=4869;
 UPDATE `locales_item` SET `name_loc3`='Segeltuchreste' WHERE `entry`=4870;
 UPDATE `locales_item` SET `name_loc3`='Senghalsband' WHERE `entry`=4871;
 UPDATE `locales_item` SET `name_loc3`='Trockenes Skorpidauge' WHERE `entry`=4872;
@@ -3022,7 +3022,7 @@ UPDATE `locales_item` SET `name_loc3`='Gazlowes Geschäftsbuch' WHERE `entry`=50
 UPDATE `locales_item` SET `name_loc3`='Kodobalgtasche' WHERE `entry`=5081;
 UPDATE `locales_item` SET `name_loc3`='Dünnes Kodoleder' WHERE `entry`=5082;
 UPDATE `locales_item` SET `name_loc3`='Muster: Kodobalgtasche' WHERE `entry`=5083;
-UPDATE `locales_item` SET `name_loc3`='Käpt\'n Garveys Kopf' WHERE `entry`=5084;
+UPDATE `locales_item` SET `name_loc3`='Baron Küstenschippers Kopf' WHERE `entry`=5084;
 UPDATE `locales_item` SET `name_loc3`='Stacheleberhauer' WHERE `entry`=5085;
 UPDATE `locales_item` SET `name_loc3`='Zhevrahufe' WHERE `entry`=5086;
 UPDATE `locales_item` SET `name_loc3`='Ebenenschreiterschnabel' WHERE `entry`=5087;
@@ -3032,7 +3032,7 @@ UPDATE `locales_item` SET `name_loc3`='Verkohlter Klingenmähnenzauberstab' WHER
 UPDATE `locales_item` SET `name_loc3`='Klingenmähnenrückenstecher' WHERE `entry`=5093;
 UPDATE `locales_item` SET `name_loc3`='Klingenmähnenkriegsschild' WHERE `entry`=5094;
 UPDATE `locales_item` SET `name_loc3`='Regenbogenflossenthunfisch' WHERE `entry`=5095;
-UPDATE `locales_item` SET `name_loc3`='Klauen der Jägerin' WHERE `entry`=5096;
+UPDATE `locales_item` SET `name_loc3`='Streunerklauen' WHERE `entry`=5096;
 UPDATE `locales_item` SET `name_loc3`='Katzenaugensmaragd' WHERE `entry`=5097;
 UPDATE `locales_item` SET `name_loc3`='Veränderter Schnappkieferpanzer' WHERE `entry`=5098;
 UPDATE `locales_item` SET `name_loc3`='Huf von Lakota\'mani' WHERE `entry`=5099;
@@ -7465,7 +7465,7 @@ UPDATE `locales_item` SET `name_loc3`='Pläne: Thoriumgamaschen' WHERE `entry`=1
 UPDATE `locales_item` SET `name_loc3`='Pläne: Imperiale Plattenrüstung' WHERE `entry`=12705;
 UPDATE `locales_item` SET `name_loc3`='Pläne: Runenverzierte Plattenschultern' WHERE `entry`=12706;
 UPDATE `locales_item` SET `name_loc3`='Pläne: Runenverzierte Plattenstiefel' WHERE `entry`=12707;
-UPDATE `locales_item` SET `name_loc3`='Vorratskiste des Wegekreuzes' WHERE `entry`=12708;
+UPDATE `locales_item` SET `name_loc3`='Crossroads Vorratskisten' WHERE `entry`=12708;
 UPDATE `locales_item` SET `name_loc3`='Finkles Kürschner' WHERE `entry`=12709;
 UPDATE `locales_item` SET `name_loc3`='Leuchtendes Fleisch der Bestie' WHERE `entry`=12710;
 UPDATE `locales_item` SET `name_loc3`='Pläne: Helm der weißen Seele' WHERE `entry`=12711;

@@ -228,6 +228,7 @@ UPDATE `db_script_string` SET `content_loc3`='Ja?' WHERE `entry`=2000000792;
 UPDATE `db_script_string` SET `content_loc3`='Können wir eine Pause machen? Meine Füße bringen mich noch um und diese... Dinger da unten finde ich unheimlich.' WHERE `entry`=2000000793;
 UPDATE `db_script_string` SET `content_loc3`='Ich weiß nicht, Jill. Wenn uns Klaven erwischt, während wir hier dösen, gehören wir vielleicht selbst bald zu diesen Dingern!' WHERE `entry`=2000000794;
 UPDATE `db_script_string` SET `content_loc3`='*Seufz* Du hast wahrscheinlich Recht, Krähe. Ich dreh dann mal wieder meine Runde...' WHERE `entry`=2000000796;
+UPDATE `db_script_string` SET `content_loc3`='Ich danke Euch, $N. Und mein Bruder dankt Euch.' WHERE `entry`=2000000808;
 UPDATE `db_script_string` SET `content_loc3`='Sprecht mit mir, um Euch meine Geschichte anzuhören.' WHERE `entry`=2000000813;
 UPDATE `db_script_string` SET `content_loc3`='Opus möchte etwas von Cuergos Gold... mit Wurm.' WHERE `entry`=2000005001;
 UPDATE `db_script_string` SET `content_loc3`='Bijou ist verloren! KRÄCHZ! *hust*' WHERE `entry`=2000005002;

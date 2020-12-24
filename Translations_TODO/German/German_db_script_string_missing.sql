@@ -30,7 +30,6 @@ UPDATE `trans_words` SET `content_loc3`='A History... Hmmmm... Let me examine th
 UPDATE `trans_words` SET `content_loc3`='Amazing! I think I have found it, $N.' WHERE `word_id` = 7365; -- db_script_string - content : entry=2000000525
 UPDATE `trans_words` SET `content_loc3`='They will live of only to see the fruits of their labor: the destruction and chaos that will surely ensue as the legion of Blackrock invade the gorge.' WHERE `word_id` = 7371; -- db_script_string - content : entry=2000000531
 UPDATE `trans_words` SET `content_loc3`='Klaven doesn\'t pay me enough to deal with those zombies, drones or whatever he calls \'em. I don\'t know, Jill. If Klaven comes down while we\'re slacking, we might end up as those things!' WHERE `word_id` = 7397; -- db_script_string - content : entry=2000000795
-UPDATE `trans_words` SET `content_loc3`='I thank you. $N. And my brother thanks you.' WHERE `word_id` = 7060; -- db_script_string - content : entry=2000000808
 UPDATE `trans_words` SET `content_loc3`='Greetings, mortals! I have been activated by the Discs of Norgannon to assist you!' WHERE `word_id` = 7409; -- db_script_string - content : entry=2000000817
 UPDATE `trans_words` SET `content_loc3`='The discs are now ready! Engage the Discs of Norgannon once again to retrieve them!' WHERE `word_id` = 7410; -- db_script_string - content : entry=2000000818
 UPDATE `trans_words` SET `content_loc3`='\'s soft voice trails away into the mists. "Know that I love you always..."' WHERE `word_id` = 7208; -- db_script_string - content : entry=2000005344

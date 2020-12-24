@@ -2110,7 +2110,7 @@ UPDATE `locales_creature` SET `name_loc3`='Neophyt der Brennenden Klinge' WHERE 
 UPDATE `locales_creature` SET `name_loc3`='Fanatiker der Brennenden Klinge' WHERE `entry`=3197;
 UPDATE `locales_creature` SET `name_loc3`='Lehrling der Brennenden Klinge' WHERE `entry`=3198;
 UPDATE `locales_creature` SET `name_loc3`='Kultist der Brennenden Klinge' WHERE `entry`=3199;
-UPDATE `locales_creature` SET `name_loc3`='Zischel Dunkelklaue' WHERE `entry`=3203;
+UPDATE `locales_creature` SET `name_loc3`='Fizzle Dunkelsturm' WHERE `entry`=3203;
 UPDATE `locales_creature` SET `name_loc3`='Voodootroll' WHERE `entry`=3206;
 UPDATE `locales_creature` SET `name_loc3`='Verhexter Troll' WHERE `entry`=3207;
 UPDATE `locales_creature` SET `name_loc3`='Kriegerheldin Windfeder' WHERE `entry`=3209;
