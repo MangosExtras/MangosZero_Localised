@@ -9,8 +9,7 @@
 -- Update Creature_Template
 UPDATE `creature_template`
 INNER JOIN `locales_creature` ON `creature_template`.`entry` = `locales_creature`.`Entry`
-SET creature_template.`Name`=`locales_creature`.`name_loc9`
-WHERE `locales_creature`.`name_loc9` <>'';
+SET creature_template.`Name`=`locales_creature`.`name_loc9` WHERE `locales_creature`.`name_loc9` <>'';
 
 -- Update Creature_Template
 UPDATE `creature_template`
@@ -20,11 +19,11 @@ WHERE `locales_creature`.`subname_loc9` <>'';
 
 -- 2/14
 UPDATE `creature_ai_texts`
-SET `content_default` = `content_loc9`;
+SET `content_default` = COALESCE(`content_loc9`,`content_default`);
 
 -- 3/14
 UPDATE `db_script_string`
-SET `content_default` = `content_loc9` ;
+SET `content_default` = COALESCE(`content_loc9`,`content_default`) ;
 
 -- 4/14
 -- Update GameObject_Template
@@ -35,7 +34,7 @@ WHERE `locales_gameobject`.`name_loc9` <>'';
 
 -- 5/14
 UPDATE `gossip_texts`
-SET `content_default` = `content_loc9` ;
+SET `content_default` = COALESCE(`content_loc9`,`content_default`) ;
 
 -- 6/14
 -- Update Gossip_menu
@@ -65,7 +64,7 @@ WHERE `locales_item`.`description_loc9` <>'';
  
 -- 8/14 
 UPDATE `mangos_string`
-SET `content_default` = `content_loc9` ; 
+SET `content_default` = COALESCE(`content_loc9`,`content_default`) ; 
 
 -- Update page_text
 UPDATE `page_text`
@@ -140,7 +139,7 @@ WHERE `locales_quest`.`ObjectiveText4_loc9` <>'';
 
 -- 12/14
 UPDATE `script_texts`
-SET `content_default` = `content_loc9`;
+SET `content_default` = COALESCE(`content_loc9`,`content_default`);
 
 -- 13/14
 -- Update npc_text
@@ -242,5 +241,5 @@ WHERE `locales_npc_text`.`Text7_1_loc9`<>'';
 -- 14/14
 UPDATE `command`
 INNER JOIN `locales_command` ON `command`.`id`=`locales_command`.`id`
-SET `command`.`help_text`=`locales_command`.`help_text_loc9`);
+SET `command`.`help_text`=COALESCE(`locales_command`.`help_text_loc9`,`command`.`help_text`);
 WHERE `locales_command`.`help_text_loc9`<>'';

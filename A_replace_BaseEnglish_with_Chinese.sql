@@ -13,11 +13,11 @@ SET creature_template.`Name`=`locales_creature`.`name_loc4`,creature_template.`s
 
 -- 2/14
 UPDATE `creature_ai_texts`
-SET `content_default` = `content_loc4`;
+SET `content_default` = COALESCE(`content_loc4`,`content_default`);
 
 -- 3/14
 UPDATE `db_script_string`
-SET `content_default` = `content_loc4` ;
+SET `content_default` = COALESCE(`content_loc4`,`content_default`) ;
 
 -- 4/14
 UPDATE `gameobject_template`
@@ -26,7 +26,7 @@ SET gameobject_template.`Name` = `locales_gameobject`.`name_loc4`;
 
 -- 5/14
 UPDATE `gossip_texts`
-SET `content_default` = `content_loc4` ;
+SET `content_default` = COALESCE(`content_loc4`,`content_default`) ;
 
 -- 6/14
 UPDATE `gossip_menu_option`
@@ -40,7 +40,7 @@ SET item_template.`Name`=`locales_item`.`name_loc4`,item_template.`description`=
  
 -- 8/14 
 UPDATE `mangos_string`
-SET `content_default` = `content_loc4` ; 
+SET `content_default` = COALESCE(`content_loc4`,`content_default`) ; 
 
 -- 9/14
 UPDATE `page_text`
@@ -68,7 +68,7 @@ SET quest_template.`Title`=`locales_quest`.`Title_loc4`,
 
 -- 12/14
 UPDATE `script_texts`
-SET `content_default` = `content_loc4`;
+SET `content_default` = COALESCE(`content_loc4`,`content_default`);
 
 -- 13/14
 UPDATE `npc_text`
@@ -93,4 +93,4 @@ SET npc_text.`Text0_0`=`locales_npc_text`.`Text0_0_loc4`,
 -- 14/14
 UPDATE `command`
 INNER JOIN `locales_command` ON `command`.`id`=`locales_command`.`id`
-SET `command`.`help_text`=COALESCE(`locales_command`.`help_text_loc4`,`locales_command`.`help_text_loc0`);
+SET `command`.`help_text`=COALESCE(`locales_command`.`help_text_loc4`,`command`.`help_text`);
