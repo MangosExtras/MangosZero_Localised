@@ -882,7 +882,5 @@ UPDATE `trans_words` SET `content_loc2`='Ghoul/Skeleton spawner' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc2`='finder' WHERE `word_id`=81715; -- locales_creature - subname : entry=16356
 UPDATE `trans_words` SET `content_loc2`='Blizzard' WHERE `word_id`=81777; -- locales_creature - name : entry=16474
 UPDATE `trans_words` SET `content_loc2`='Garon Hutchins' WHERE `word_id`=81792; -- locales_creature - name : entry=16543
-UPDATE `trans_words` SET `content_loc2`='Renn\'az' WHERE `word_id`=81853; -- locales_creature - name : entry=17598
-UPDATE `trans_words` SET `content_loc2`='Ammunition Vendor' WHERE `word_id`=81854; -- locales_creature - subname : entry=17598
 
 SET NAMES 'latin1';

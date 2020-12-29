@@ -8207,6 +8207,7 @@ UPDATE `locales_creature` SET `name_loc2`='Gaz de jardin' WHERE `entry`=17231;
 UPDATE `locales_creature` SET `name_loc2`='Landro Tirauloin',`subname_loc2`='La Flamme noire' WHERE `entry`=17249;
 UPDATE `locales_creature` SET `name_loc2`='Gangregarde' WHERE `entry`=17252;
 UPDATE `locales_creature` SET `name_loc2`='Tortue de monte' WHERE `entry`=17266;
+UPDATE `locales_creature` SET `subname_loc2`='Vendeur de munitions' WHERE `entry`=17598;
 UPDATE `locales_creature` SET `name_loc2`='Commandant de Lordaeron' WHERE `entry`=17635;
 UPDATE `locales_creature` SET `name_loc2`='Soldat de Lordaeron' WHERE `entry`=17647;
 UPDATE `locales_creature` SET `name_loc2`='Doodad de prise de la tour de la Couronne (Horde)' WHERE `entry`=17688;
