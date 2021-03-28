@@ -1067,6 +1067,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Zeigt mir, worauf ic
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Hmm, ich höre Euch zu. Wie lautet das Angebot?' WHERE `menu_id`=4781 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte, dass mein Begleiter alles verlernt.' WHERE `menu_id`=4783 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte, dass mein Begleiter alles verlernt.' WHERE `menu_id`=4783 AND `id`=2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte meinen Begleiter trainieren.' WHERE `menu_id`=4783 AND `id`=3;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Bitte unterrichtet mich.' WHERE `menu_id`=4821 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Bitte unterrichtet mich.' WHERE `menu_id`=4822 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Bitte unterrichtet mich.' WHERE `menu_id`=4823 AND `id`=0;
