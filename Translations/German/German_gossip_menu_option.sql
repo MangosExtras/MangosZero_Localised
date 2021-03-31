@@ -340,14 +340,14 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ihr seid ein Taugeni
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wo befindet sich der Zeppelin gerade?' WHERE `menu_id`=1971 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich würde gern Kochunterricht bekommen.' WHERE `menu_id`=2021 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Danke, Ragged John. Ihre Geschichte war sehr erhebend und informativ.' WHERE `menu_id`=2050 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ahh ... Eisenschmiede.' WHERE `menu_id`=2051 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ahh... Eisenschmiede.' WHERE `menu_id`=2051 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='300? Also haben die Dunkeleisenzwerge ihn getötet und in die Tiefen geschleppt?' WHERE `menu_id`=2052 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='WARUM ist er in den Schwarzfelstiefen?' WHERE `menu_id`=2053 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Gut, also wo, zum Teufel, ist er? Moment mal! Seid Ihr betrunken?' WHERE `menu_id`=2054 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Und wie ist er gestorben?' WHERE `menu_id`=2055 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='So ist Windsor also gestorben...' WHERE `menu_id`=2056 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Interessant... weiter im Text, John.' WHERE `menu_id`=2057 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Eisenfeind?' WHERE `menu_id`=2058 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Eisenschmiede?' WHERE `menu_id`=2058 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Mach Sinn, Zwerg. Ich möchte nichts mit deinem Crack, deinem Pappy oder irgendeiner Art von "Diskreditierung" zu tun haben.' WHERE `menu_id`=2059 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Was habt Ihr also getan?' WHERE `menu_id`=2060 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Offizielles Geschäft, John. Ich brauche Informationen über Marschall Windsor. Erzählt mir von dem letzten Mal, als Ihr ihn gesehen habt' WHERE `menu_id`=2061 AND `id`=0;
