@@ -7,7 +7,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Bringt mich ins Lebe
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte dieses Gasthaus zu meinem Heimatort machen.' WHERE `menu_id`=0 AND `id`=6;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte einen Blick in mein Schließfach werfen.' WHERE `menu_id`=0 AND `id`=7;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wie gründe ich eine Gilde?' WHERE `menu_id`=0 AND `id`=8;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gilddenwappen herstellen.' WHERE `menu_id`=0 AND `id`=9;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gildenwappen herstellen.' WHERE `menu_id`=0 AND `id`=9;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte mich dem Kampf anschließen!' WHERE `menu_id`=0 AND `id`=10;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich hätte gern einen Platz im Stall für meinen Begleiter.' WHERE `menu_id`=0 AND `id`=12;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte meine Talente verlernen.' WHERE `menu_id`=0 AND `id`=14;
@@ -154,8 +154,8 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein weni
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich brauche einen Flug.' WHERE `menu_id`=704 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=705 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=706 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gilddenwappen herstellen.' WHERE `menu_id`=708 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gilddenwappen herstellen.' WHERE `menu_id`=708 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wie gründe ich eine Gilde?' WHERE `menu_id`=708 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gildenwappen herstellen.' WHERE `menu_id`=708 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Auktionshaus' WHERE `menu_id`=721 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Die Bank' WHERE `menu_id`=721 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Das Gasthaus' WHERE `menu_id`=721 AND `id`=2;
@@ -279,8 +279,8 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte dieses G
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=1582 AND `id`=3;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte einen Blick in mein Schließfach werfen.' WHERE `menu_id`=1623 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=1624 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gilddenwappen herstellen.' WHERE `menu_id`=1626 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gilddenwappen herstellen.' WHERE `menu_id`=1626 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gildenwappen herstellen.' WHERE `menu_id`=1626 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wie gründe ich eine Gilde?' WHERE `menu_id`=1626 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich habe meinen Goblin-Transponder verloren. Könnte ich noch einen haben?' WHERE `menu_id`=1628 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Was treibt Ihr hier draußen?' WHERE `menu_id`=1662 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Erstaunlich! Ich habe noch nie mit einer Geisterscheinung gesprochen. Ich möchte lernen!' WHERE `menu_id`=1663 AND `id`=0;
@@ -1193,10 +1193,10 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Bitte erzähl mir me
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Lehrt mich, wie man einen schweren Magiestoffverband herstellt und anlegt, Doktor.' WHERE `menu_id`=5382 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Lehrt mich, wie man einen Runenstoffverband herstellt und anlegt, Doktor.' WHERE `menu_id`=5382 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Lehrt mich, wie man einen schweren Runenstoffverband herstellt und anlegt, Doktor.' WHERE `menu_id`=5382 AND `id`=2;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gilddenwappen herstellen.' WHERE `menu_id`=5461 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gildenwappen herstellen.' WHERE `menu_id`=5461 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wie gründe ich eine Gilde?' WHERE `menu_id`=5461 AND `id`=1;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gilddenwappen herstellen.' WHERE `menu_id`=5462 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gilddenwappen herstellen.' WHERE `menu_id`=5462 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gildenwappen herstellen.' WHERE `menu_id`=5462 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wie gründe ich eine Gilde?' WHERE `menu_id`=5462 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=5541 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=5542 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Danke, Eisenborke. Wir öffnen Euch die Tür.' WHERE `menu_id`=5602 AND `id`=0;
@@ -1760,8 +1760,8 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Also, warum seid Ihr
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Bis was?' WHERE `menu_id`=7476 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wer oder was genau ist Ysera und wie hat man Euch gesegnet?' WHERE `menu_id`=7477 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Warum leidet Ihr?' WHERE `menu_id`=7478 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gilddenwappen herstellen.' WHERE `menu_id`=7487 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gilddenwappen herstellen.' WHERE `menu_id`=7487 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gildenwappen herstellen.' WHERE `menu_id`=7487 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wie gründe ich eine Gilde?' WHERE `menu_id`=7487 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=7524 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte etwas von Euch kaufen.' WHERE `menu_id`=7611 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte etwas von Euch kaufen.' WHERE `menu_id`=7628 AND `id`=0;
@@ -2032,7 +2032,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein weni
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich benötige eine Ausbildung.' WHERE `menu_id`=10365 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=10365 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=10392 AND `id`=0;
-UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gilddenwappen herstellen.' WHERE `menu_id`=10392 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein Gildenwappen herstellen.' WHERE `menu_id`=10392 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Tharnariun, die Falle ist verloren. Hast Du einen anderen?' WHERE `menu_id`=10482 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=10526 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=10598 AND `id`=0;
