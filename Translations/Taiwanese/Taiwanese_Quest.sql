@@ -448,6 +448,7 @@ UPDATE `locales_quest` SET `title_loc5`='侍從瑪特拉克' WHERE `entry`=3462;
 UPDATE `locales_quest` SET `title_loc5`='埃沃隆的解藥' WHERE `entry`=3521;
 UPDATE `locales_quest` SET `title_loc5`='埃沃隆的解藥' WHERE `entry`=3522;
 UPDATE `locales_quest` SET `title_loc5`='與聖光同在' WHERE `entry`=3636;
+UPDATE `locales_quest` SET `details_loc5`='我猜你想要得到該有的報酬，對吧?提醒我我的生命?。哼。把東西拿走，然後離開。' WHERE `entry`=3646;
 UPDATE `locales_quest` SET `title_loc5`='聖潔之書' WHERE `entry`=3681;
 UPDATE `locales_quest` SET `title_loc5`='尼達的項鍊' WHERE `entry`=3741;
 UPDATE `locales_quest` SET `title_loc5`='安戈洛的泥土' WHERE `entry`=3761;

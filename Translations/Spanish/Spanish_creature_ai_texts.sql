@@ -124,6 +124,8 @@ UPDATE `creature_ai_texts` SET `content_loc6`='¿Por qué siempre vamos por el m
 UPDATE `creature_ai_texts` SET `content_loc6`='¿Adónde vamos?' WHERE `entry`=-433;
 UPDATE `creature_ai_texts` SET `content_loc6`='Quiero ver la Torre de los Magos.' WHERE `entry`=-434;
 UPDATE `creature_ai_texts` SET `content_loc6`='Esto es un ejemplo de lo que no invocar. Mira, es frágil y delicado. Un buen golpe de maza y sus huesos se esparcirían hechos pedazos.' WHERE `entry`=-435;
+UPDATE `creature_ai_texts` SET `content_loc6`='Parece que tendrás que ir a Trinquete y decirle a Petardol que he echado a perder la trituradora.' WHERE `entry`=-436;
+UPDATE `creature_ai_texts` SET `content_loc6`='Me situaré detrás y vigilaré los restos. ¡Date prisa! Ojalá nadie se dé cuenta del humo…' WHERE `entry`=-437;
 UPDATE `creature_ai_texts` SET `content_loc6`='¡Nos han traicionado!' WHERE `entry`=-438;
 UPDATE `creature_ai_texts` SET `content_loc6`='%s suelta un grito agudo.' WHERE `entry`=-448;
 UPDATE `creature_ai_texts` SET `content_loc6`='¿Quién se cree $Geste:esta; $R para jugar con el pasado? ¡Que la leyenda de Stalvan vaya a la tumba contigo!' WHERE `entry`=-449;
@@ -212,6 +214,7 @@ UPDATE `creature_ai_texts` SET `content_loc6`='¡Hakkar volverá a la vida!' WHE
 UPDATE `creature_ai_texts` SET `content_loc6`='¡No podemos permitir que el mal entre en este mundo! ¡Venid, hijos míos!' WHERE `entry`=-825;
 UPDATE `creature_ai_texts` SET `content_loc6`='¡Eres un mosquitajo para los Maderiza! ¡Muere!' WHERE `entry`=-826;
 UPDATE `creature_ai_texts` SET `content_loc6`='¡No! ¡No puedes ser más fuerte que los Maderiza! ¡¡No!!' WHERE `entry`=-827;
+UPDATE `creature_ai_texts` SET `content_loc6`='ataca el estandarte de Karang.' WHERE `entry`=-828;
 UPDATE `creature_ai_texts` SET `content_loc6`='¡%s carga!' WHERE `entry`=-829;
 UPDATE `creature_ai_texts` SET `content_loc6`='No tienes escapatoria. La Cruzada destruirá a todo aquel que lleve la peste de la Plaga.' WHERE `entry`=-895;
 UPDATE `creature_ai_texts` SET `content_loc6`='Tú llevas la peste de la Plaga. Prepárate para entrar en El Vacío Abisal.' WHERE `entry`=-896;

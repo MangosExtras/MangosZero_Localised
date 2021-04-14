@@ -128,6 +128,8 @@ UPDATE `creature_ai_texts` SET `content_loc2`='Pourquoi passons-nous toujours pa
 UPDATE `creature_ai_texts` SET `content_loc2`='Où on va ?' WHERE `entry`=-433;
 UPDATE `creature_ai_texts` SET `content_loc2`='J\'veux voir la tour des Mages.' WHERE `entry`=-434;
 UPDATE `creature_ai_texts` SET `content_loc2`='Voici un exemple de ce qu\'il ne faut pas invoquer. Regardez cette silhouette rachitique, cette ossature fragile. Un bon coup de masse projetterait des éclats d\'os un peu partout.' WHERE `entry`=-435;
+UPDATE `creature_ai_texts` SET `content_loc2`='J\'ai l\'impression que vous allez devoir aller à Ratchet dire à Sputtervalve que j\'ai esquinté le découpeur.' WHERE `entry`=-436;
+UPDATE `creature_ai_texts` SET `content_loc2`='Je vais rester ici surveiller l\'épave. Dépêchez-vous ! J\'espère que personne ne remarquera la fumée...' WHERE `entry`=-437;
 UPDATE `creature_ai_texts` SET `content_loc2`='Nous avons été trahis !' WHERE `entry`=-438;
 UPDATE `creature_ai_texts` SET `content_loc2`='%s pousse un cri strident.' WHERE `entry`=-448;
 UPDATE `creature_ai_texts` SET `content_loc2`='$GQuel est ce simple:Quelle est cette simple:r; $R qui vient se mêler de ce qui appartient au passé ? Que la légende de Stalvan périsse avec toi !' WHERE `entry`=-449;

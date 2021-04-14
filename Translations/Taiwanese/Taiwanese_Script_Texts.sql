@@ -68,6 +68,7 @@ UPDATE `script_texts` SET `content_loc5`='請告訴我你沒有做那些我所�
 UPDATE `script_texts` SET `content_loc5`='好像我們麻煩還不夠多似的，你又跑去惹事生非!' WHERE `entry`=-1000200;
 UPDATE `script_texts` SET `content_loc5`='我得救了!謝謝你，醫生!' WHERE `entry`=-1000201;
 UPDATE `script_texts` SET `content_loc5`='萬歲!我得救了!' WHERE `entry`=-1000202;
+UPDATE `script_texts` SET `content_loc5`='親愛的，擁抱我...擁抱我...' WHERE `entry`=-1000203;
 UPDATE `script_texts` SET `content_loc5`='%s疑惑地看著你。或許你該仔細看看?' WHERE `entry`=-1000204;
 UPDATE `script_texts` SET `content_loc5`='如果你回去狂心就殺你。你不再受歡迎了!' WHERE `entry`=-1000208;
 UPDATE `script_texts` SET `content_loc5`='很好。來看看你要給我看的東西，$N。' WHERE `entry`=-1000209;
@@ -222,6 +223,7 @@ UPDATE `script_texts` SET `content_loc5`='真對不起，我花了這麼多時�
 UPDATE `script_texts` SET `content_loc5`='我們馬上就要回塔裡去了。如果你有話想要和我們說，可以到那裡找我們。' WHERE `entry`=-1000414;
 UPDATE `script_texts` SET `content_loc5`='%s因傷勢太重而放棄追擊。' WHERE `entry`=-1000415;
 UPDATE `script_texts` SET `content_loc5`='嗯，我不知道自己還能撐多久...我感到有些乏力...' WHERE `entry`=-1000416;
+UPDATE `script_texts` SET `content_loc5`='如果我看起來暈暈的，就給我一巴掌。如果我昏了過去，就用水壺澆我。我們走吧!' WHERE `entry`=-1000417;
 UPDATE `script_texts` SET `content_loc5`='熱...我受不了了...' WHERE `entry`=-1000418;
 UPDATE `script_texts` SET `content_loc5`='你...能不能背我一程?' WHERE `entry`=-1000419;
 UPDATE `script_texts` SET `content_loc5`='啊啊啊啊...' WHERE `entry`=-1000420;
@@ -246,6 +248,7 @@ UPDATE `script_texts` SET `content_loc5`='保持警惕!這片區域有許多黑�
 UPDATE `script_texts` SET `content_loc5`='真安靜...太安靜了...' WHERE `entry`=-1000443;
 UPDATE `script_texts` SET `content_loc5`='哦，我能從這兒看見利拉迪斯...告訴她我在這兒，好嗎?' WHERE `entry`=-1000444;
 UPDATE `script_texts` SET `content_loc5`='%s醒了!' WHERE `entry`=-1000445;
+UPDATE `script_texts` SET `content_loc5`='艾米可以動。艾米回家。你跟艾米說話來改變行進方向的設定。' WHERE `entry`=-1000446;
 UPDATE `script_texts` SET `content_loc5`='好...很好，艾米。艾米好。家。找到家。' WHERE `entry`=-1000447;
 UPDATE `script_texts` SET `content_loc5`='危險。危險!$N要傷害艾米。' WHERE `entry`=-1000450;
 UPDATE `script_texts` SET `content_loc5`='壞，$N。$N，壞!' WHERE `entry`=-1000451;
@@ -317,6 +320,7 @@ UPDATE `script_texts` SET `content_loc5`='如你所願，伊利丹王。' WHERE 
 UPDATE `script_texts` SET `content_loc5`='什麼樣的蠢蛋敢在伊利丹·怒風面前站著?士兵，毀滅這些小蟲!' WHERE `entry`=-1000536;
 UPDATE `script_texts` SET `content_loc5`='趁你還能跑時快點跑。大領主很快就到了...' WHERE `entry`=-1000538;
 UPDATE `script_texts` SET `content_loc5`='所以你擊敗了赤紅法印。現在想挑戰我的統治嗎?連阿薩斯都沒辦法戰勝我，你還膽敢懷有這樣的想法嗎?那麼我對你說，來吧!來吧$N!黑暗神廟等著你...' WHERE `entry`=-1000540;
+UPDATE `script_texts` SET `content_loc5`='%s順從地跟隨著$n。' WHERE `entry`=-1000542;
 UPDATE `script_texts` SET `content_loc5`='你為什麼到這裡來，外來者?你將只有痛苦而已!你的命運將與我們相同...' WHERE `entry`=-1000543;
 UPDATE `script_texts` SET `content_loc5`='黑暗...墮落...來得比任何人得知的還快...' WHERE `entry`=-1000545;
 UPDATE `script_texts` SET `content_loc5`='黑暗將會消滅所有...所有活著的事物...' WHERE `entry`=-1000546;
@@ -386,6 +390,7 @@ UPDATE `script_texts` SET `content_loc5`='%s狂怒地大吼。' WHERE `entry`=-1
 UPDATE `script_texts` SET `content_loc5`='快，$N!我們一定要找到保護的掩蔽處!' WHERE `entry`=-1000682;
 UPDATE `script_texts` SET `content_loc5`='拜託你，勇士，保護我們的人民。' WHERE `entry`=-1000683;
 UPDATE `script_texts` SET `content_loc5`='起來吧，夢魘的奴僕們!起來摧毀這個世界!不要放過任何一個人...' WHERE `entry`=-1000684;
+UPDATE `script_texts` SET `content_loc5`='你的救星在哪?你還能抵擋我的攻擊多久?' WHERE `entry`=-1000686;
 UPDATE `script_texts` SET `content_loc5`='擊敗我的奴僕們?那就來挑戰我吧，人類!' WHERE `entry`=-1000687;
 UPDATE `script_texts` SET `content_loc5`='雷姆洛斯，看看他們有多容易就被我給擊敗了?你可以阻止這一切的，笨蛋。把德魯伊交給我就能結束這一切...' WHERE `entry`=-1000688;
 UPDATE `script_texts` SET `content_loc5`='伊露恩，聆聽我的祈禱。給我們寧靜!守護我們的先人...' WHERE `entry`=-1000689;
@@ -414,6 +419,7 @@ UPDATE `script_texts` SET `content_loc5`='女祭司，請原諒我們的闖入�
 UPDATE `script_texts` SET `content_loc5`='我們只是希望知道梟獸為什麼要守衛這片地區...' WHERE `entry`=-1000720;
 UPDATE `script_texts` SET `content_loc5`='(達納蘇斯語)伊奴·索拉\'西拉朵。這是一片神聖之地。' WHERE `entry`=-1000721;
 UPDATE `script_texts` SET `content_loc5`='我們會給你看...' WHERE `entry`=-1000722;
+UPDATE `script_texts` SET `content_loc5`='朝上看，(達納蘇斯語)薩拉·多米爾·多哈...' WHERE `entry`=-1000723;
 UPDATE `script_texts` SET `content_loc5`='這寶石曾允許與伊露恩本人進行直接溝通。' WHERE `entry`=-1000724;
 UPDATE `script_texts` SET `content_loc5`='伊露恩通過寶石傳達著她無盡的智慧...' WHERE `entry`=-1000725;
 UPDATE `script_texts` SET `content_loc5`='寶石需要得到保護，我們向女神本人求助。' WHERE `entry`=-1000726;
@@ -503,6 +509,7 @@ UPDATE `script_texts` SET `content_loc5`='願光明與你同在，先生。' WHE
 UPDATE `script_texts` SET `content_loc5`='我們不過是您腳下的塵土。' WHERE `entry`=-1000843;
 UPDATE `script_texts` SET `content_loc5`='...瑟銀的膽量。' WHERE `entry`=-1000844;
 UPDATE `script_texts` SET `content_loc5`='前進!' WHERE `entry`=-1000845;
+UPDATE `script_texts` SET `content_loc5`='生動的傳說...' WHERE `entry`=-1000846;
 UPDATE `script_texts` SET `content_loc5`='我永遠都會記住這一刻。' WHERE `entry`=-1000847;
 UPDATE `script_texts` SET `content_loc5`='你對我們所有人都是一種激勵，閣下。' WHERE `entry`=-1000848;
 UPDATE `script_texts` SET `content_loc5`='朋友，勇敢些。這只爬蟲會劇烈地翻滾起來。那是絕望的表現。你準備好了就跟我說一聲。' WHERE `entry`=-1000849;
@@ -512,6 +519,7 @@ UPDATE `script_texts` SET `content_loc5`='尊貴的王，請到安全的大廳�
 UPDATE `script_texts` SET `content_loc5`='化妝舞會結束了，普瑞斯托女士。我能叫你的本名嗎...奧妮克希亞...' WHERE `entry`=-1000853;
 UPDATE `script_texts` SET `content_loc5`='%s大笑。' WHERE `entry`=-1000854;
 UPDATE `script_texts` SET `content_loc5`='你會被監禁並以叛國罪接受審判，溫德索爾。我很高興看到他們宣佈有罪判決並判處你絞刑...' WHERE `entry`=-1000855;
+UPDATE `script_texts` SET `content_loc5`='你柔軟的屍體隨著木筏搖擺著，我很高興得知一個瘋子又被殺死了。畢竟，你有什麼證據呢?你難道想要到這裡來挑釁一個貴族，然後毫髮無傷地離開?' WHERE `entry`=-1000856;
 UPDATE `script_texts` SET `content_loc5`='妳逃脫不了妳的命運的，奧妮克希亞。這已經被預言了-由宏偉的卡拉贊大廳裡呈現的景象。一切將在此結束...' WHERE `entry`=-1000857;
 UPDATE `script_texts` SET `content_loc5`='黑鐵矮人認為這些石板被加密過。這不是什麼密碼，只是古老的龍族語言。' WHERE `entry`=-1000859;
 UPDATE `script_texts` SET `content_loc5`='聽著，飛龍。讓真相在大廳中迴響吧。' WHERE `entry`=-1000860;
@@ -544,6 +552,7 @@ UPDATE `script_texts` SET `content_loc5`='一個防衛者倒下了!' WHERE `entr
 UPDATE `script_texts` SET `content_loc5`='為了部落!' WHERE `entry`=-1000895;
 UPDATE `script_texts` SET `content_loc5`='保衛碉堡!' WHERE `entry`=-1000896;
 UPDATE `script_texts` SET `content_loc5`='我們的敵人必將敗北!' WHERE `entry`=-1000897;
+UPDATE `script_texts` SET `content_loc5`='好了，從這邊開始就要加倍小心。準備好!' WHERE `entry`=-1000949;
 UPDATE `script_texts` SET `content_loc5`='你可以攻擊我，但是你依然無法阻止我回到奎艾那裡去。' WHERE `entry`=-1000950;
 UPDATE `script_texts` SET `content_loc5`='替我斷後!我要看看在這些垃圾裡能找到什麼...' WHERE `entry`=-1000952;
 UPDATE `script_texts` SET `content_loc5`='%s開始翻找藥劑師的東西。' WHERE `entry`=-1000953;
@@ -580,6 +589,7 @@ UPDATE `script_texts` SET `content_loc5`='啊哈!' WHERE `entry`=-1033016;
 UPDATE `script_texts` SET `content_loc5`='你也一樣必須臣服!' WHERE `entry`=-1033017;
 UPDATE `script_texts` SET `content_loc5`='又幹掉了一個蠢貨!' WHERE `entry`=-1033018;
 UPDATE `script_texts` SET `content_loc5`='釋放你的怒氣吧!' WHERE `entry`=-1033019;
+UPDATE `script_texts` SET `content_loc5`='你們幾個!去看看那邊是怎麼回事!' WHERE `entry`=-1036000;
 UPDATE `script_texts` SET `content_loc5`='我們被攻擊了!把入侵者全都趕出去!' WHERE `entry`=-1036001;
 UPDATE `script_texts` SET `content_loc5`='你們這些旱鴨子比我想像得要厲害多了!看來我要認真一些了!' WHERE `entry`=-1036002;
 UPDATE `script_texts` SET `content_loc5`='啊!這下子我真的生氣了!' WHERE `entry`=-1036003;
@@ -647,6 +657,7 @@ UPDATE `script_texts` SET `content_loc5`='房間的牆壁震動著。有什麼�
 UPDATE `script_texts` SET `content_loc5`='要保持鎮定，勇士。我知道你來這裡的目的，我也知道你要尋找的東西。伊蘭尼庫斯不會輕易交出裂片的。他的心靈被某種力量扭曲了，那力量正是你想要打敗的東西。' WHERE `entry`=-1109001;
 UPDATE `script_texts` SET `content_loc5`='你真的很驚訝嗎?是不是很難相信上古之神的力量居然能穿越翡翠夢境?這是真的─伊蘭尼庫斯，夢境暴君，已經向我們發起挑戰了。隨他而來的，是夢魘般的毀滅力量。' WHERE `entry`=-1109002;
 UPDATE `script_texts` SET `content_loc5`='你要明白，伊蘭尼庫斯無非是想離開翡翠夢境，進入艾澤拉斯。一旦他得以脫身，他一定會瘋狂地摧毀我的肉身。但是，這也是獲取權杖裂片的唯一方法。' WHERE `entry`=-1109003;
+UPDATE `script_texts` SET `content_loc5`='勇士，你會將他帶回這個世界的。' WHERE `entry`=-1109004;
 UPDATE `script_texts` SET `content_loc5`='防護盾消失了!起來吧，阿塔萊!起來吧!' WHERE `entry`=-1109005;
 UPDATE `script_texts` SET `content_loc5`='哈卡復活了!' WHERE `entry`=-1109006;
 UPDATE `script_texts` SET `content_loc5`='我要品嘗生命的鮮血!' WHERE `entry`=-1109007;
@@ -702,6 +713,7 @@ UPDATE `script_texts` SET `content_loc5`='你關錯元帥了，$N。準備受死
 UPDATE `script_texts` SET `content_loc5`='你最好抓牢我，否則$N就有苦頭吃了!' WHERE `entry`=-1230013;
 UPDATE `script_texts` SET `content_loc5`='我們行動吧。我的裝備應該在這條路上的某個儲物間裡。' WHERE `entry`=-1230014;
 UPDATE `script_texts` SET `content_loc5`='檢查那間牢房，$N。如果那裡還有人活著，我們就得把他們救出來。' WHERE `entry`=-1230015;
+UPDATE `script_texts` SET `content_loc5`='幹得好!我們差不多成功了!走這邊。' WHERE `entry`=-1230016;
 UPDATE `script_texts` SET `content_loc5`='沒錯，$N，我的東西都在那個房間裡。保護我，我準備衝進去了!' WHERE `entry`=-1230017;
 UPDATE `script_texts` SET `content_loc5`='啊，它在那兒!' WHERE `entry`=-1230018;
 UPDATE `script_texts` SET `content_loc5`='你能感受到這力量嗎，$N?讓我們舞動起來吧!' WHERE `entry`=-1230019;
@@ -756,7 +768,9 @@ UPDATE `script_texts` SET `content_loc5`='希瓦拉爾，給我憤怒的力量�
 UPDATE `script_texts` SET `content_loc5`='比塞克，你的祭司在召喚你的力量!' WHERE `entry`=-1309011;
 UPDATE `script_texts` SET `content_loc5`='吞噬$N的軀體吧，我的小可愛們!' WHERE `entry`=-1309012;
 UPDATE `script_texts` SET `content_loc5`='我終於擺脫了奪魂者!' WHERE `entry`=-1309013;
+UPDATE `script_texts` SET `content_loc5`='別抵抗，蟲子們，我會親手把你們送到哈卡那去!' WHERE `entry`=-1309015;
 UPDATE `script_texts` SET `content_loc5`='升級啦!' WHERE `entry`=-1309016;
+UPDATE `script_texts` SET `content_loc5`='恭喜啊，老兄!' WHERE `entry`=-1309017;
 UPDATE `script_texts` SET `content_loc5`='$N!我正在監視你!' WHERE `entry`=-1309018;
 UPDATE `script_texts` SET `content_loc5`='凡人，逃跑對你不會有好處的!' WHERE `entry`=-1309021;
 UPDATE `script_texts` SET `content_loc5`='你膽敢踏足哈卡的聖地?哈卡的部下們，摧毀這些異教徒!' WHERE `entry`=-1309022;
@@ -767,6 +781,7 @@ UPDATE `script_texts` SET `content_loc5`='%s發出了震耳欲聾的尖嘯聲!' 
 UPDATE `script_texts` SET `content_loc5`='%s開始施展強效治療術!' WHERE `entry`=-1309027;
 UPDATE `script_texts` SET `content_loc5`='阿莎利水晶已經被摧毀了!我的兄弟們，忠誠於巫妖王,重新召喚它!' WHERE `entry`=-1329004;
 UPDATE `script_texts` SET `content_loc5`='一塊阿莎利水晶已經被摧毀了!殺死入侵者!' WHERE `entry`=-1329005;
+UPDATE `script_texts` SET `content_loc5`='阿莎利水晶已經被摧毀了!在屠宰房遭到攻擊之前修復通靈塔!' WHERE `entry`=-1329006;
 UPDATE `script_texts` SET `content_loc5`='阿莎利水晶已經被摧毀了!屠宰房危險!' WHERE `entry`=-1329007;
 UPDATE `script_texts` SET `content_loc5`='入侵者到達側門了!趕快通知瑞文戴爾男爵!' WHERE `entry`=-1329008;
 UPDATE `script_texts` SET `content_loc5`='你還在?你的愚蠢還真好笑!這銀色黎明的蠢女人不需要白白犧牲的。立刻離開我就饒了她!' WHERE `entry`=-1329010;
@@ -777,6 +792,7 @@ UPDATE `script_texts` SET `content_loc5`='是我親自動手的時候了。來�
 UPDATE `script_texts` SET `content_loc5`='你辦到了...你殺了瑞文戴爾男爵!銀色黎明都會知道你英勇的行為!' WHERE `entry`=-1329015;
 UPDATE `script_texts` SET `content_loc5`='你弄壞了我耗費數年才創造出的東西!我要殺了你!' WHERE `entry`=-1329016;
 UPDATE `script_texts` SET `content_loc5`='你們這些笨蛋以為可以這麼容易就打敗我嗎?看看納斯雷茲姆的真正力量吧!' WHERE `entry`=-1329017;
+UPDATE `script_texts` SET `content_loc5`='詛咒你們凡人!我所有的復仇計畫，我所有的仇恨...有人會為我報仇的...' WHERE `entry`=-1329018;
 UPDATE `script_texts` SET `content_loc5`='不用擔心我!殺掉這可怕的怪獸，清掉這個廢渣!' WHERE `entry`=-1329019;
 UPDATE `script_texts` SET `content_loc5`='我的死不算什麼...光明...將...戰勝!' WHERE `entry`=-1329020;
 UPDATE `script_texts` SET `content_loc5`='塵歸塵，土歸土!' WHERE `entry`=-1409005;
@@ -807,7 +823,10 @@ UPDATE `script_texts` SET `content_loc5`='盜賊?不要躲了，面對我吧!' W
 UPDATE `script_texts` SET `content_loc5`='愚蠢的人!這些蛋比你知道的要珍貴的多!' WHERE `entry`=-1469023;
 UPDATE `script_texts` SET `content_loc5`='不─不應該再發生的!我要你的頭顱來彌補你的暴行!' WHERE `entry`=-1469024;
 UPDATE `script_texts` SET `content_loc5`='太遲了，朋友! 奈法利斯的腐化已經掌握了我...我已經無法...控制我自己了。' WHERE `entry`=-1469026;
+UPDATE `script_texts` SET `content_loc5`='我乞求你，凡人─快逃吧!在我失去控制前快逃吧!黑色的火焰在我心中狂烈的燃燒著!我必須要─釋放它!' WHERE `entry`=-1469027;
+UPDATE `script_texts` SET `content_loc5`='火焰!死亡!毀滅!畏縮吧，面對奈法利安大王的盛怒的凡人們...不─我必須要對抗它!幫我，雅立史卓莎，我必須要對抗它!' WHERE `entry`=-1469028;
 UPDATE `script_texts` SET `content_loc5`='奈法利斯的恨意讓我比先前變得更加強大!你們應該要在可以逃走前，趕快逃走，凡人!黑石族的狂怒，已經在我的血管中流動了!' WHERE `entry`=-1469029;
+UPDATE `script_texts` SET `content_loc5`='原諒我，$n!你的死只是徒增我的失敗而已!' WHERE `entry`=-1469030;
 UPDATE `script_texts` SET `content_loc5`='升空吧，小紅雙足龍...毀滅他們!' WHERE `entry`=-1469032;
 UPDATE `script_texts` SET `content_loc5`='%s在寶珠的控制力消失之前逃走。' WHERE `entry`=-1469033;
 UPDATE `script_texts` SET `content_loc5`='%s因神態失常而坐立不安。' WHERE `entry`=-1509000;
@@ -824,6 +843,7 @@ UPDATE `script_texts` SET `content_loc5`='厚顏無恥的笨蛋!我要親手殺�
 UPDATE `script_texts` SET `content_loc5`='牆壁遭到破壞!' WHERE `entry`=-1509022;
 UPDATE `script_texts` SET `content_loc5`='沙漠之沙，上升也遮蔽太陽!' WHERE `entry`=-1509025;
 UPDATE `script_texts` SET `content_loc5`='你已被終止。' WHERE `entry`=-1509026;
+UPDATE `script_texts` SET `content_loc5`='我...已...失敗。' WHERE `entry`=-1509027;
 UPDATE `script_texts` SET `content_loc5`='%s吸取你的法力後變成了石頭。' WHERE `entry`=-1509028;
 UPDATE `script_texts` SET `content_loc5`='嚐嚐我的厲害!' WHERE `entry`=-1509029;
 UPDATE `script_texts` SET `content_loc5`='先殺再說...他們來了!' WHERE `entry`=-1509030;
@@ -877,11 +897,13 @@ UPDATE `script_texts` SET `content_loc5`='逃走吧，否則就太遲了!' WHERE
 UPDATE `script_texts` SET `content_loc5`='入侵者，立刻結束這無謂的冒險!趁你們還活著，馬上離開這裡!' WHERE `entry`=-1533059;
 UPDATE `script_texts` SET `content_loc5`='不要繼續了!趁還有時間快撤退!' WHERE `entry`=-1533061;
 UPDATE `script_texts` SET `content_loc5`='原諒我!' WHERE `entry`=-1533063;
+UPDATE `script_texts` SET `content_loc5`='這就是...必然的歸宿。' WHERE `entry`=-1533064;
 UPDATE `script_texts` SET `content_loc5`='你找死嗎?' WHERE `entry`=-1533065;
 UPDATE `script_texts` SET `content_loc5`='不准通行!' WHERE `entry`=-1533066;
 UPDATE `script_texts` SET `content_loc5`='不許動!' WHERE `entry`=-1533067;
 UPDATE `script_texts` SET `content_loc5`='你死後也永遠不得安寧。' WHERE `entry`=-1533068;
 UPDATE `script_texts` SET `content_loc5`='主人的意志已經達成。' WHERE `entry`=-1533069;
+UPDATE `script_texts` SET `content_loc5`='臣服於天譴軍的力量吧!' WHERE `entry`=-1533070;
 UPDATE `script_texts` SET `content_loc5`='生命本身毫無意義。只有死亡才能讓你瞭解人性的真諦。' WHERE `entry`=-1533073;
 UPDATE `script_texts` SET `content_loc5`='榮耀歸於我主!' WHERE `entry`=-1533075;
 UPDATE `script_texts` SET `content_loc5`='你們終將失去生命!' WHERE `entry`=-1533076;
@@ -890,6 +912,7 @@ UPDATE `script_texts` SET `content_loc5`='起來吧，我的戰士們!起來，�
 UPDATE `script_texts` SET `content_loc5`='我的任務完成了!' WHERE `entry`=-1533079;
 UPDATE `script_texts` SET `content_loc5`='停止呼吸吧!' WHERE `entry`=-1533080;
 UPDATE `script_texts` SET `content_loc5`='%s深深地吸了一口氣...' WHERE `entry`=-1533082;
+UPDATE `script_texts` SET `content_loc5`='如你所願，主人!' WHERE `entry`=-1533088;
 UPDATE `script_texts` SET `content_loc5`='不!!!我詛咒你們這些闖入者!巫妖王的軍隊會追擊你們。你們逃不過命運的...' WHERE `entry`=-1533089;
 UPDATE `script_texts` SET `content_loc5`='這場遊戲已經讓我覺得無聊了。繼續吧，到我這裏來，我會親自毀滅你們的靈魂!' WHERE `entry`=-1533092;
 UPDATE `script_texts` SET `content_loc5`='看來你們還不知道自己將面臨怎樣的恐怖?看來你們根本一無所知!納克薩瑪斯的霜寒之心正等待著你們!' WHERE `entry`=-1533093;

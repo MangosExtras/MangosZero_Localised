@@ -1383,6 +1383,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Dites m\'en plus sur
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Que puis-je acheter ?' WHERE `menu_id`=6582 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Que sont les tickets de prix de la foire de Sombrelune et comment les obtenir?' WHERE `menu_id`=6582 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Que sont les cartes de Sombrelune?' WHERE `menu_id`=6582 AND `id`=2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Que puis-je faire d\'autre à la foire ?' WHERE `menu_id`=6582 AND `id`=3;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Et qu\'en pensez-vous ?' WHERE `menu_id`=6586 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Que disent-ils ?' WHERE `menu_id`=6587 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Comment le savez-vous ?' WHERE `menu_id`=6588 AND `id`=0;
@@ -1820,6 +1821,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='J\'aimerais jeter un
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='De quoi parlez-vous, mage ?' WHERE `menu_id`=8400 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Pourquoi avez-vous commis de telles horreurs ?' WHERE `menu_id`=8401 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Je ne comprends toujours pas.' WHERE `menu_id`=8402 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Ce que vous racontez n\'a aucun sens, mage.' WHERE `menu_id`=8403 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Quel bâton ?' WHERE `menu_id`=8404 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Vous dites que vous voulez le récupérer. Qu\'est-ce que cela implique ?' WHERE `menu_id`=8405 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc2`='Qu\'est-il arrivé au bâton ?' WHERE `menu_id`=8406 AND `id`=0;

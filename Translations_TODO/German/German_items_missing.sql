@@ -92,7 +92,6 @@ UPDATE `trans_words` SET `content_loc3`='Atiesh, Greatstaff of the Guardian' WHE
 UPDATE `trans_words` SET `content_loc3`='Atiesh, Greatstaff of the Guardian' WHERE `word_id`=23638; -- locales_item - name : entry=22630
 UPDATE `trans_words` SET `content_loc3`='Atiesh, Greatstaff of the Guardian' WHERE `word_id`=23638; -- locales_item - name : entry=22631
 UPDATE `trans_words` SET `content_loc3`='Atiesh, Greatstaff of the Guardian' WHERE `word_id`=23638; -- locales_item - name : entry=22632
-UPDATE `trans_words` SET `content_loc3`='Atiesh, Greatstaff of the Guardian' WHERE `word_id`=23638; -- locales_item - name : entry=22737
 UPDATE `trans_words` SET `content_loc3`='Return to the iCoke redemption vendor to receive a virtual prize' WHERE `word_id`=23805; -- locales_item - description : entry=22822
 UPDATE `trans_words` SET `content_loc3`='Glaive of the Defender' WHERE `word_id`=23918; -- locales_item - name : entry=23051
 UPDATE `trans_words` SET `content_loc3`='Jom Gabbar' WHERE `word_id`=24079; -- locales_item - name : entry=23570

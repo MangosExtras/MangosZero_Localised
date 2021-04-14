@@ -37,8 +37,6 @@ UPDATE `trans_words` SET `content_loc5`='Spare some change for a poor blind man?
 UPDATE `trans_words` SET `content_loc5`='Seems like a hundred times a day I walk all the way to get more water. No respect for their elders I tell ya.' WHERE `word_id` = 5747; -- creature_ai_texts - content : entry=-425
 UPDATE `trans_words` SET `content_loc5`='O\'ourse I\'m talking to myself. Only way to get a decent conversation in this city.' WHERE `word_id` = 5744; -- creature_ai_texts - content : entry=-428
 UPDATE `trans_words` SET `content_loc5`='Is it true? Are there crocolisks in the canal?' WHERE `word_id` = 5741; -- creature_ai_texts - content : entry=-431
-UPDATE `trans_words` SET `content_loc5`='Looks like you\'ll have to go ahead to Ratchet and tell Sputtervalve that I\'ve wrecked the shredder.' WHERE `word_id` = 5736; -- creature_ai_texts - content : entry=-436
-UPDATE `trans_words` SET `content_loc5`='I\'ll stay behind and guard the wreck. Hurry! Hopefully no one will notice the smoke...' WHERE `word_id` = 5735; -- creature_ai_texts - content : entry=-437
 UPDATE `trans_words` SET `content_loc5`='We need better representation from Stormwind. Our homes are falling to the undead.' WHERE `word_id` = 5726; -- creature_ai_texts - content : entry=-455
 UPDATE `trans_words` SET `content_loc5`='%s is getting hungry!' WHERE `word_id` = 5697; -- creature_ai_texts - content : entry=-539
 UPDATE `trans_words` SET `content_loc5`='%s is getting VERY hungry!' WHERE `word_id` = 5696; -- creature_ai_texts - content : entry=-540
@@ -66,7 +64,6 @@ UPDATE `trans_words` SET `content_loc5`='I am summoned! Intruders, come to my te
 UPDATE `trans_words` SET `content_loc5`='Alright! We Surrender... Just put your weapons down, I\'ll cooperate' WHERE `word_id` = 5638; -- creature_ai_texts - content : entry=-775
 UPDATE `trans_words` SET `content_loc5`='So or\'manley fi siame Dim fus siame yudo' WHERE `word_id` = 5633; -- creature_ai_texts - content : entry=-817
 UPDATE `trans_words` SET `content_loc5`='You know not what you do! We must destroy you for your own good.' WHERE `word_id` = 5631; -- creature_ai_texts - content : entry=-820
-UPDATE `trans_words` SET `content_loc5`='%s attacks Karang\'s Banner!' WHERE `word_id` = 5624; -- creature_ai_texts - content : entry=-828
 UPDATE `trans_words` SET `content_loc5`='%s grabs the back of his neck and his eyes go wide.' WHERE `word_id` = 5609; -- creature_ai_texts - content : entry=-934
 UPDATE `trans_words` SET `content_loc5`='Are They all.... Dead?' WHERE `word_id` = 5607; -- creature_ai_texts - content : entry=-981
 UPDATE `trans_words` SET `content_loc5`='Mistress!! They seek to destroy your work!' WHERE `word_id` = 5603; -- creature_ai_texts - content : entry=-985

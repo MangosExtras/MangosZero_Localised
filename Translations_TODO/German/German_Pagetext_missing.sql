@@ -2,6 +2,6 @@
 SET NAMES 'utf8';
 UPDATE `trans_words` SET `content_loc3`='English Missing: 268925' WHERE `word_id` = 268925; -- locales_page_text - text : entry=2605
 UPDATE `trans_words` SET `content_loc3`='Item Text Missing:2822' WHERE `word_id` = 125697; -- locales_page_text - text : entry=2822
-UPDATE `trans_words` SET `content_loc3`='Howdy! You have found a loot bug in UDB. We are terribly sorry about that, and we will try and fix it just as SOON as possible. However, You need to help us a little bit. If you will go to http://www.udbforums.org and fill out a loot bug report, with the location you found this, we will try and get it fixed ASAP. Thanks, the UDB team!' WHERE `word_id` = 125871; -- locales_page_text - text : entry=9999
+UPDATE `trans_words` SET `content_loc3`='Howdy! You have found a loot bug in MaNGOS. We are terribly sorry about that, and we will try and fix it just as SOON as possible. However, You need to help us a little bit. If you will go to http://www.udbforums.org and fill out a loot bug report, with the location you found this, we will try and get it fixed ASAP. Thanks, the MaNGOS team!' WHERE `word_id` = 125871; -- locales_page_text - text : entry=9999
 
 SET NAMES 'latin1';

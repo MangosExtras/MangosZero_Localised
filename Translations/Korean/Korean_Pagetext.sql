@@ -1394,6 +1394,6 @@ UPDATE `locales_page_text` SET `text_loc1`='우리의 시간은 지금입니다.
 UPDATE `locales_page_text` SET `text_loc1`='넵투론의 봉사는 아후 네라는 큰 서리 영주입니다. 지금도 그는 라그나로스와 전쟁을 벌이려는 자신의 힘을 모으고 있습니다. 그가 필요로하는 것은 우리의 세계로 들어가는 통로입니다. 우리가 제공 할 게이트웨이. 우리는 동맹국을 가지고 있습니다. 우리는 그 위치를 가지고있다. 우리는 힘과 의지를 가지고 있습니다.$B$B 우리의 신실한 동맹국들과 손님들과의 최종 협상은 Ashenvale의 주된 위치에서 북서쪽으로 안전한 장소에서 실시 될 것입니다.$B$B무지한 대중들이 가까이 오면, Ahune은 Blackrock의 그늘에서 Ragnaros를 만나게 될 것이다. 힘이 풀린 상태에서 세계가 흔들릴 것입니다.' WHERE `entry`=3066;
 UPDATE `locales_page_text` SET `text_loc1`='우리의 모든 수고가이 순간에 맞춰 이루어졌습니다. 우리 주인공들은 아제로스를 찢어 버릴 영광스러운 싸움에서 서로를 대적 할 것입니다.$B$B 우리는 마지막 시간에 살고 있습니다, 형제들. 당신의 임무를 잡아라.노력하십시오. 우리는 곧 승리 할 것입니다!$B$B' WHERE `entry`=3072;
 UPDATE `locales_page_text` SET `text_loc1`='<이 심하게 태운 페이지에는 인식 할 수없는 단어가 없습니다.>' WHERE `entry`=3076;
-UPDATE `locales_page_text` SET `text_loc1`='안녕! UDB에서 전리품 버그를 발견했습니다. 우리는 그 점에 대해 대단히 유감스럽게 생각하며 가능한 한 빨리 그렇게하려고 노력할 것입니다.그러나, 당신은 우리를 조금 도와야합니다.http://www.udbforums.org로 가서 약점 발견 버그 보고서를 작성하면, 발견 한 위치와 함께 최대한 빨리 수정해볼 것입니다. 감사합니다, UDB 팀!' WHERE `entry`=9999;
+UPDATE `locales_page_text` SET `text_loc1`='안녕! MaNGOS 에서 전리품 버그를 발견했습니다. 우리는 그 점에 대해 대단히 유감스럽게 생각하며 가능한 한 빨리 그렇게하려고 노력할 것입니다.그러나, 당신은 우리를 조금 도와야합니다.http://www.udbforums.org로 가서 약점 발견 버그 보고서를 작성하면, 발견 한 위치와 함께 최대한 빨리 수정해볼 것입니다. 감사합니다, MaNGOS 팀!' WHERE `entry`=9999;
 
 SET NAMES 'latin1';

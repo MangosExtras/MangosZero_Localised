@@ -124,6 +124,8 @@ UPDATE `creature_ai_texts` SET `content_loc1`='왜 계속 같은 길로 가는 �
 UPDATE `creature_ai_texts` SET `content_loc1`='어디로 가는 거예요?' WHERE `entry`=-433;
 UPDATE `creature_ai_texts` SET `content_loc1`='마법사의 탑도 보고 싶어요.' WHERE `entry`=-434;
 UPDATE `creature_ai_texts` SET `content_loc1`='바로 이런 걸 소환해서는 안 되는 거야. 약해빠졌잖아. 철퇴로 한 대만 치면 뼛조각이 날아다닐걸.' WHERE `entry`=-435;
+UPDATE `creature_ai_texts` SET `content_loc1`='이런 세상에. 벌목기가 아주 약간... 작동에 문제가 있다고 하면 스퍼터밸브가 싫어할 것 같나?' WHERE `entry`=-436;
+UPDATE `creature_ai_texts` SET `content_loc1`='난 이 녀석을 다시 움직이게 해보겠어. 자넨 먼저 가보라고. 난 알아서 돌아갈 테니.' WHERE `entry`=-437;
 UPDATE `creature_ai_texts` SET `content_loc1`='우릴 배반했군!' WHERE `entry`=-438;
 UPDATE `creature_ai_texts` SET `content_loc1`='%s|1이;가; 날카로운 비명을 지릅니다.' WHERE `entry`=-448;
 UPDATE `creature_ai_texts` SET `content_loc1`='어떤 $R|1이;가; 이미 지난 일에 간섭하는가? 너도 스탈반의 전설과 함께 잠재워 주마!' WHERE `entry`=-449;
@@ -210,6 +212,7 @@ UPDATE `creature_ai_texts` SET `content_loc1`='학카르 님이 곧 오실 것�
 UPDATE `creature_ai_texts` SET `content_loc1`='악의 세력이 이 세계에 발을 들여놓게 해서는 안 된다! 싸워라, 나의 아이들아!' WHERE `entry`=-825;
 UPDATE `creature_ai_texts` SET `content_loc1`='썩은나무 일족에게 너 같은 놈은 한낱 날벌레에 불과하다! 죽어라!' WHERE `entry`=-826;
 UPDATE `creature_ai_texts` SET `content_loc1`='말도 안 돼! 네놈 따위가 썩은나무 일족보다 강하다니! 안 돼!' WHERE `entry`=-827;
+UPDATE `creature_ai_texts` SET `content_loc1`='%s|1이;가; 깃발을 공격합니다!' WHERE `entry`=-828;
 UPDATE `creature_ai_texts` SET `content_loc1`='%s|1이;가; 돌진하여 공격합니다!' WHERE `entry`=-829;
 UPDATE `creature_ai_texts` SET `content_loc1`='도망칠 곳은 없다! 붉은십자군은 타락한 스컬지 녀석들을 모두 없애버릴 것이다.' WHERE `entry`=-895;
 UPDATE `creature_ai_texts` SET `content_loc1`='타락한 스컬지의 냄새가 나는군. 뒤틀린 황천에 갈 준비나 해라!' WHERE `entry`=-896;

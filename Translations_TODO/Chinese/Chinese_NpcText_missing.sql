@@ -3,9 +3,6 @@ SET NAMES 'utf8';
 UPDATE `trans_words`SET `content_loc4`='Well, if it isn\'t a young, bristling $C, no doubt drawn here by talk of my exploits in fields of battle!$B$BNo time for stories now, for there are great, important deeds that need doing!  So if you\'re looking for glory, then luck shines on you today...' WHERE `word_id`=197875; -- locales_npc_text - Text0_1 : entry=1244
 UPDATE `trans_words`SET `content_loc4`='Hey there, friend. My name\'s Remy. I\'m from Redridge to the east, and came here looking for business, looking for business. You got any...got any??' WHERE `word_id`=197874; -- locales_npc_text - Text0_1 : entry=6157
 UPDATE `trans_words`SET `content_loc4`='Missing US text.' WHERE `word_id`=196442; -- locales_npc_text - Text0_1 : entry=7775
-UPDATE `trans_words`SET `content_loc4`='Elder Hammershout can be found within the walls of Stormwind.' WHERE `word_id`=196431; -- locales_npc_text - Text0_1 : entry=8174
-UPDATE `trans_words`SET `content_loc4`='Elder Starweave can be found at the coastal village of Auberdine in Darkshore.' WHERE `word_id`=196427; -- locales_npc_text - Text0_1 : entry=8179
-UPDATE `trans_words`SET `content_loc4`='Elder Moonwarden is observing the Crossroads in the Barrens.' WHERE `word_id`=196801; -- locales_npc_text - Text0_1 : entry=8187
 UPDATE `trans_words`SET `content_loc4`='UDB Missing US text' WHERE `word_id`=197021; -- locales_npc_text - Text3_0 : entry=10734
 UPDATE `trans_words`SET `content_loc4`='UDB Missing US text' WHERE `word_id`=197021; -- locales_npc_text - Text5_0 : entry=10734
 UPDATE `trans_words`SET `content_loc4`='UDB Missing US text' WHERE `word_id`=197021; -- locales_npc_text - Text7_0 : entry=10734

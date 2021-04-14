@@ -1523,6 +1523,7 @@ UPDATE `locales_quest` SET `title_loc1`='노움 기계공학' WHERE `entry`=3637
 UPDATE `locales_quest` SET `title_loc1`='직접 만든 물건',`objectives_loc1`='가젯잔에 있는 닉스 스프로켓스프링에게 대형 철제 폭탄 20개, 조밀한 다이너마이트 20개, 그리고 양 폭탄 5개를 가져가야 합니다.' WHERE `entry`=3639;
 UPDATE `locales_quest` SET `title_loc1`='직접 만든 물건' WHERE `entry`=3641;
 UPDATE `locales_quest` SET `title_loc1`='직접 만든 물건',`objectives_loc1`='무법항에 있는 오글소프 오브노티쿠스에게 미스릴관 6개, 정밀한 조준경 1개, 고급 표적 허수아비 2개를 가져가야 합니다.' WHERE `entry`=3643;
+UPDATE `locales_quest` SET `details_loc1`='자네가 한 일에 대한 대가를 원하는 것 같은데, 그런가? 내 생애를 떠올려 보라고? 흥. 내가 가진 거나 가져가고 날 혼자 내버려 두게나.' WHERE `entry`=3646;
 UPDATE `locales_quest` SET `title_loc1`='엘룬의 피조물',`details_loc1`='올빼미야수는 정말 예측할 수 없는 생물이오. 한없이 순하다가도 자신들이 중요하게 여기는 것이 위협을 받으면 극도로 포악해지거든.$B$B들리는 소문에 의하면 올빼미야수는 엘룬이 창조했다고 하오. 난 그게 사실인지 정말 궁금하다오.$B$B동부 내륙지에 올빼미야수 무리가 서식한다는 소리를 최근에 들었는데 그들에 대해서 좀 더 알고 싶소. 가서 올빼미야수 깃털 15개를 모아 내게 가져다주지 않겠소?',`objectives_loc1`='에렐라스 앰버스카이에게 동부 내륙지에 있는 올빼미야수 깃털 15개를 가져가야 합니다.' WHERE `entry`=3661;
 UPDATE `locales_quest` SET `title_loc1`='신앙의 고서' WHERE `entry`=3681;
 UPDATE `locales_quest` SET `title_loc1`='불타는 타우릿산의 폐허' WHERE `entry`=3701;

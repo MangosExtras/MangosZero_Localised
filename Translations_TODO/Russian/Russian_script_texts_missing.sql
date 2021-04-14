@@ -8,7 +8,6 @@ UPDATE `trans_words` SET `content_loc8`='No doubt the fools that banished me are
 UPDATE `trans_words` SET `content_loc8`='NOOOOooooooo!' WHERE `word_id` = 70; -- script_texts - content : entry=-1000173
 UPDATE `trans_words` SET `content_loc8`='Thank you, dear $C, you just saved my life.' WHERE `word_id` = 84; -- script_texts - content : entry=-1000187
 UPDATE `trans_words` SET `content_loc8`='%s kneels down and pick up the amulet.' WHERE `word_id` = 93; -- script_texts - content : entry=-1000197
-UPDATE `trans_words` SET `content_loc8`='Sweet, sweet embrace... take me...' WHERE `word_id` = 99; -- script_texts - content : entry=-1000203
 UPDATE `trans_words` SET `content_loc8`='%s looks at you unexpectadly.' WHERE `word_id` = 101; -- script_texts - content : entry=-1000205
 UPDATE `trans_words` SET `content_loc8`='%s starts pecking at the feed.' WHERE `word_id` = 102; -- script_texts - content : entry=-1000206
 UPDATE `trans_words` SET `content_loc8`='Warning! %s emergency shutdown process initiated by $N. Shutdown will complete in two minutes.' WHERE `word_id` = 106; -- script_texts - content : entry=-1000211
@@ -23,11 +22,9 @@ UPDATE `trans_words` SET `content_loc8`='YARRR! Swabie, what have ye done?! He\'
 UPDATE `trans_words` SET `content_loc8`='And try not to get lost this time...' WHERE `word_id` = 292; -- script_texts - content : entry=-1000398
 UPDATE `trans_words` SET `content_loc8`='Attack my sisters! The troll must not escape!' WHERE `word_id` = 298; -- script_texts - content : entry=-1000404
 UPDATE `trans_words` SET `content_loc8`='Why don\'t we deal with you now, Hendel? Lady Proudmoore will speak for you back in the tower.' WHERE `word_id` = 305; -- script_texts - content : entry=-1000411
-UPDATE `trans_words` SET `content_loc8`='Remember, if I faint again, the water that Spraggle gave you will revive me.' WHERE `word_id` = 311; -- script_texts - content : entry=-1000417
 UPDATE `trans_words` SET `content_loc8`='%s collapses onto the ground.' WHERE `word_id` = 323; -- script_texts - content : entry=-1000429
 UPDATE `trans_words` SET `content_loc8`='%s stands up after a short pause.' WHERE `word_id` = 324; -- script_texts - content : entry=-1000430
 UPDATE `trans_words` SET `content_loc8`='%s fades away after a long pause.' WHERE `word_id` = 327; -- script_texts - content : entry=-1000433
-UPDATE `trans_words` SET `content_loc8`='A-Me good. Good, A-Me. Follow... follow A-Me. Home. A-Me go home.' WHERE `word_id` = 340; -- script_texts - content : entry=-1000446
 UPDATE `trans_words` SET `content_loc8`='$C, no hurt A-Me. A-Me good.' WHERE `word_id` = 343; -- script_texts - content : entry=-1000449
 UPDATE `trans_words` SET `content_loc8`='I swear. I didn\'t steal anything from you! Here, take some of my supplies, just go away!' WHERE `word_id` = 349; -- script_texts - content : entry=-1000455
 UPDATE `trans_words` SET `content_loc8`='Khadgar himself is showing you around? You must have made a good impression, $N.' WHERE `word_id` = 387; -- script_texts - content : entry=-1000495
@@ -38,7 +35,6 @@ UPDATE `trans_words` SET `content_loc8`='Destroy them, Torloth. Let lose their b
 UPDATE `trans_words` SET `content_loc8`='You are no challenge for the Crimson Sigil. Mind breakers, end this nonsense.' WHERE `word_id` = 429; -- script_texts - content : entry=-1000537
 UPDATE `trans_words` SET `content_loc8`='Torloth your master calls!' WHERE `word_id` = 431; -- script_texts - content : entry=-1000539
 UPDATE `trans_words` SET `content_loc8`='%s jumps into the moonwell and goes underwater...' WHERE `word_id` = 433; -- script_texts - content : entry=-1000541
-UPDATE `trans_words` SET `content_loc8`='%s follows $N obediently.' WHERE `word_id` = 434; -- script_texts - content : entry=-1000542
 UPDATE `trans_words` SET `content_loc8`='I think those weird bird guys were going to eat us. Gross!' WHERE `word_id` = 468; -- script_texts - content : entry=-1000591
 UPDATE `trans_words` SET `content_loc8`='Don\'t leave me in here! Cause if you do I will find you!' WHERE `word_id` = 487; -- script_texts - content : entry=-1000631
 UPDATE `trans_words` SET `content_loc8`='Calm down lad, it\'s just a birdshot!' WHERE `word_id` = 497; -- script_texts - content : entry=-1000650
@@ -50,7 +46,6 @@ UPDATE `trans_words` SET `content_loc8`='%s has entered our world' WHERE `word_i
 UPDATE `trans_words` SET `content_loc8`='Pitful predictable mortals... You know not what you have done! The master\'s will fulfilled. The Moonglade shall be destroyed and Malfurion along with it!' WHERE `word_id` = 513; -- script_texts - content : entry=-1000675
 UPDATE `trans_words` SET `content_loc8`='You are certanly not your father, insect. Should it interest me, I would crush you with but a swipe of my claws. Turn Shan\'do Stormrage over to me and your pitiful life will be spared along with the lives of your people.' WHERE `word_id` = 516; -- script_texts - content : entry=-1000678
 UPDATE `trans_words` SET `content_loc8`='We will battle these fiends, together! Nighthaven\'s Defenders are also among us. They will fight to the death if asked. Now, quickly, we must drive these aberations back to the Nightmare. Destroy them all!' WHERE `word_id` = 523; -- script_texts - content : entry=-1000685
-UPDATE `trans_words` SET `content_loc8`='Where is your savior? How long can you hold out against my attacks?' WHERE `word_id` = 524; -- script_texts - content : entry=-1000686
 UPDATE `trans_words` SET `content_loc8`='The grasp of the Old Gods is unmoving. He is consumed by their dark thoughts... I... I... I cannot... cannot channel much longer... Elune aide me.' WHERE `word_id` = 531; -- script_texts - content : entry=-1000693
 UPDATE `trans_words` SET `content_loc8`='IT BURNS! THE PAIN.. SEARING...' WHERE `word_id` = 532; -- script_texts - content : entry=-1000694
 UPDATE `trans_words` SET `content_loc8`='WHY? Why did this happen to... to me? Where were you Tyrande? Where were you when I fell from the grace of Elune?' WHERE `word_id` = 533; -- script_texts - content : entry=-1000695
@@ -58,15 +53,12 @@ UPDATE `trans_words` SET `content_loc8`='%s is wholly consumed by the Light of E
 UPDATE `trans_words` SET `content_loc8`='For so long, I was lost... The Nightmare\'s corruption had consumed me... And now, you... all of you.. you have saved me. Released me from its grasp.' WHERE `word_id` = 538; -- script_texts - content : entry=-1000700
 UPDATE `trans_words` SET `content_loc8`='My lady, I am unworthy of your prayer. Truly, you are an angel of light. Please, assist me in returning to the barrow den so that I may return to the Dream. I like Malfurion, also have a love awaiting me... I must return to her... to protect her...' WHERE `word_id` = 540; -- script_texts - content : entry=-1000702
 UPDATE `trans_words` SET `content_loc8`='Let us leave Nighthave, hero. Seek me out at the grove.' WHERE `word_id` = 543; -- script_texts - content : entry=-1000705
-UPDATE `trans_words` SET `content_loc8`='Look above you; thara dormil dorah...' WHERE `word_id` = 561; -- script_texts - content : entry=-1000723
 UPDATE `trans_words` SET `content_loc8`='We must act quickly or shall be lost!' WHERE `word_id` = 578; -- script_texts - content : entry=-1000740
 UPDATE `trans_words` SET `content_loc8`='NOW,STAGHELM! WE GO NOW! Prepare your magic!' WHERE `word_id` = 590; -- script_texts - content : entry=-1000752
 UPDATE `trans_words` SET `content_loc8`='Let\'s go $N!' WHERE `word_id` = 609; -- script_texts - content : entry=-1000771
 UPDATE `trans_words` SET `content_loc8`='A $C! Slaying him would please the master. Attack!' WHERE `word_id` = 613; -- script_texts - content : entry=-1000775
 UPDATE `trans_words` SET `content_loc8`='OK boss, I get back to tree hitting.' WHERE `word_id` = 629; -- script_texts - content : entry=-1000795
 UPDATE `trans_words` SET `content_loc8`='Seek sanctuary in Hearthglen! It is our only hope!' WHERE `word_id` = 655; -- script_texts - content : entry=-1000821
-UPDATE `trans_words` SET `content_loc8`='A living legend...' WHERE `word_id` = 680; -- script_texts - content : entry=-1000846
-UPDATE `trans_words` SET `content_loc8`='And as your limp body dangles from the rafters, I shall take pleasure in knowing that a mad man has been put to death. After all, what proof do you have? Did you expect to come in here and point your fingers at royalty and leave unscathed?' WHERE `word_id` = 690; -- script_texts - content : entry=-1000856
 UPDATE `trans_words` SET `content_loc8`='%s reaches into his pack and pulls out the encoded tablets...' WHERE `word_id` = 692; -- script_texts - content : entry=-1000858
 UPDATE `trans_words` SET `content_loc8`='%s reads from the tablets. Unknown, unheard sounds flow through your consciousness' WHERE `word_id` = 695; -- script_texts - content : entry=-1000861
 UPDATE `trans_words` SET `content_loc8`='Was this fabled, Windsor? If it was death that you came for then the prophecy has been fulfilled. May your consciousness rot in the Twisting Nether. Finish the rest of these meddlesome insects, children. Bolvar, you have been a pleasureable puppet.' WHERE `word_id` = 701; -- script_texts - content : entry=-1000867
@@ -89,13 +81,11 @@ UPDATE `trans_words` SET `content_loc8`='DIE DEMON DOGS!' WHERE `word_id` = 1286
 UPDATE `trans_words` SET `content_loc8`='Ah! Fresh air at last! I never thought I\'d see the day.' WHERE `word_id` = 1287; -- script_texts - content : entry=-1001154
 UPDATE `trans_words` SET `content_loc8`='What was that?! Trey? TREY?' WHERE `word_id` = 1289; -- script_texts - content : entry=-1001156
 UPDATE `trans_words` SET `content_loc8`='You kept me in the cell for too long, monster!' WHERE `word_id` = 1290; -- script_texts - content : entry=-1001157
-UPDATE `trans_words` SET `content_loc8`='You there! Check out that noise.' WHERE `word_id` = 771; -- script_texts - content : entry=-1036000
 UPDATE `trans_words` SET `content_loc8`='I DRAW CLOSER TO YOUR WORLD!' WHERE `word_id` = 847; -- script_texts - content : entry=-1109008
 UPDATE `trans_words` SET `content_loc8`='The monster got what he deserved.' WHERE `word_id` = 868; -- script_texts - content : entry=-1189015
 UPDATE `trans_words` SET `content_loc8`='The master has fallen! Avenge him my brethren!' WHERE `word_id` = 871; -- script_texts - content : entry=-1189035
 UPDATE `trans_words` SET `content_loc8`='Intruders are destroying our eggs! Stop!!' WHERE `word_id` = 895; -- script_texts - content : entry=-1229020
 UPDATE `trans_words` SET `content_loc8`='I bet you\'re sorry now, aren\'t you?' WHERE `word_id` = 908; -- script_texts - content : entry=-1230012
-UPDATE `trans_words` SET `content_loc8`='Good work! We\'re almost there, $N. This way.' WHERE `word_id` = 912; -- script_texts - content : entry=-1230016
 UPDATE `trans_words` SET `content_loc8`='Thank you! I will run for safety immediately!' WHERE `word_id` = 928; -- script_texts - content : entry=-1230032
 UPDATE `trans_words` SET `content_loc8`='I want more ale! Give me more ale!' WHERE `word_id` = 1294; -- script_texts - content : entry=-1230036
 UPDATE `trans_words` SET `content_loc8`='Oh! Now I\'m pissed!' WHERE `word_id` = 1297; -- script_texts - content : entry=-1230039
@@ -104,11 +94,9 @@ UPDATE `trans_words` SET `content_loc8`='Is that the best you can do? Do you rea
 UPDATE `trans_words` SET `content_loc8`='Your efforts are utterly pointless, fools! You will never be able to defeat me!' WHERE `word_id` = 1320; -- script_texts - content : entry=-1230063
 UPDATE `trans_words` SET `content_loc8`='Prepare to meet your doom at the hands of Ragnaros\' most powerful servant!' WHERE `word_id` = 1322; -- script_texts - content : entry=-1230065
 UPDATE `trans_words` SET `content_loc8`='Draw me to your web mistress Shadra. Unleash your venom!' WHERE `word_id` = 941; -- script_texts - content : entry=-1309005
-UPDATE `trans_words` SET `content_loc8`='I\'ll feed your souls to Hakkar himself!' WHERE `word_id` = 951; -- script_texts - content : entry=-1309015
 UPDATE `trans_words` SET `content_loc8`='Don\'t make me angry. You won\'t like it when I\'m angry.' WHERE `word_id` = 955; -- script_texts - content : entry=-1309019
 UPDATE `trans_words` SET `content_loc8`='Who you gonna call?' WHERE `word_id` = 966; -- script_texts - content : entry=-1329002
 UPDATE `trans_words` SET `content_loc8`='Don\'t cross those beams!' WHERE `word_id` = 967; -- script_texts - content : entry=-1329003
-UPDATE `trans_words` SET `content_loc8`='An Ash\'ari Crystal has been toppled! Restore the ziggurat before the Necropolis is vulnerable!' WHERE `word_id` = 970; -- script_texts - content : entry=-1329006
 UPDATE `trans_words` SET `content_loc8`='Intruders! More pawns of the Argent Dawn, no doubt. I already count one of their number among my prisoners. Withdraw from my domain before she is executed!' WHERE `word_id` = 973; -- script_texts - content : entry=-1329009
 UPDATE `trans_words` SET `content_loc8`='%s refuses to die while its master is in trouble.' WHERE `word_id` = 984; -- script_texts - content : entry=-1409002
 UPDATE `trans_words` SET `content_loc8`='The runes of warding have been destroyed! Hunt down the infedels my bretheren.' WHERE `word_id` = 986; -- script_texts - content : entry=-1409004
@@ -165,7 +153,6 @@ UPDATE `trans_words` SET `content_loc8`='Please, nooo!' WHERE `word_id` = 1158; 
 UPDATE `trans_words` SET `content_loc8`='Come, Zeliek, do not drive them out. Not before we\'ve had our fun.' WHERE `word_id` = 1164; -- script_texts - content : entry=-1533045
 UPDATE `trans_words` SET `content_loc8`='I heard about enough of yer sniveling. Shut yer fly trap \'afore I shut it for ye!' WHERE `word_id` = 1172; -- script_texts - content : entry=-1533053
 UPDATE `trans_words` SET `content_loc8`='Perhaps they will come to their senses, and run away as fast as they can!' WHERE `word_id` = 1179; -- script_texts - content : entry=-1533060
-UPDATE `trans_words` SET `content_loc8`='Bow to the might of the Highlord!' WHERE `word_id` = 1189; -- script_texts - content : entry=-1533070
 UPDATE `trans_words` SET `content_loc8`='Enough prattling. Let them come! We shall grind their bones to dust.' WHERE `word_id` = 1190; -- script_texts - content : entry=-1533071
 UPDATE `trans_words` SET `content_loc8`='Conserve your anger! Harness your rage! You will all have outlets for your frustration soon enough.' WHERE `word_id` = 1191; -- script_texts - content : entry=-1533072
 UPDATE `trans_words` SET `content_loc8`='I...am...released! Perhaps it\'s not too late to' WHERE `word_id` = 1193; -- script_texts - content : entry=-1533074
@@ -174,7 +161,6 @@ UPDATE `trans_words` SET `content_loc8`='Our preparations continue as planned ma
 UPDATE `trans_words` SET `content_loc8`='It is good that you serve me so faithfully. Soon... all will serve the Lich King and in the end, you shall be rewarded. So long as you do not falter.' WHERE `word_id` = 1203; -- script_texts - content : entry=-1533085
 UPDATE `trans_words` SET `content_loc8`='I foresee no complications at this... wait! What is this!?' WHERE `word_id` = 1204; -- script_texts - content : entry=-1533086
 UPDATE `trans_words` SET `content_loc8`='Your security measures have failed! See to this interruption immediately!' WHERE `word_id` = 1205; -- script_texts - content : entry=-1533087
-UPDATE `trans_words` SET `content_loc8`='Yes, master!' WHERE `word_id` = 1206; -- script_texts - content : entry=-1533088
 UPDATE `trans_words` SET `content_loc8`='Who dares violate the sanctity of my domain? Be warned, all who trespass here are doomed.' WHERE `word_id` = 1208; -- script_texts - content : entry=-1533090
 UPDATE `trans_words` SET `content_loc8`='Fools, you think yourselves triumphant? You have only taken one step closer to the abyss!' WHERE `word_id` = 1209; -- script_texts - content : entry=-1533091
 UPDATE `trans_words` SET `content_loc8`='<Kel\'Thuzad cackles maniacally!>' WHERE `word_id` = 1216; -- script_texts - content : entry=-1533098

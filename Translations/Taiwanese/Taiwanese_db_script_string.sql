@@ -27,6 +27,7 @@ UPDATE `db_script_string` SET `content_loc5`='解散，$N。' WHERE `entry`=2000
 UPDATE `db_script_string` SET `content_loc5`='我們怎能忍受有惡魔的爪牙在這片土地上肆虐橫行!' WHERE `entry`=2000000065;
 UPDATE `db_script_string` SET `content_loc5`='願安寧和耐心永遠與你同在，$N。' WHERE `entry`=2000000066;
 UPDATE `db_script_string` SET `content_loc5`='我...我...感到有些不對勁...' WHERE `entry`=2000000082;
+UPDATE `db_script_string` SET `content_loc5`='我的精神...我的血肉...我開始腐爛了!' WHERE `entry`=2000000083;
 UPDATE `db_script_string` SET `content_loc5`='嗯...' WHERE `entry`=2000000092;
 UPDATE `db_script_string` SET `content_loc5`='石爪山的自然之靈依然十分憤怒，$N。' WHERE `entry`=2000000105;
 UPDATE `db_script_string` SET `content_loc5`='我擔心無法使他們平靜下來...' WHERE `entry`=2000000106;
@@ -150,6 +151,8 @@ UPDATE `db_script_string` SET `content_loc5`='很抱歉。我們不得不動身�
 UPDATE `db_script_string` SET `content_loc5`='我在尋找願意保護基澤爾頓商隊的守衛。我們被擋在了考米克小屋東面的路上，就在科卡爾半人馬村的北邊。' WHERE `entry`=2000000401;
 UPDATE `db_script_string` SET `content_loc5`='里格·基澤爾頓尋求幫助，護送我的商隊穿過瑪諾洛克集會所。我在葬影村東面的路上。' WHERE `entry`=2000000403;
 UPDATE `db_script_string` SET `content_loc5`='做好準備!若是納迦知道我們還活著，他們就會馬上進攻的。' WHERE `entry`=2000000466;
+UPDATE `db_script_string` SET `content_loc5`='墳地之子們，回應我吧!' WHERE `entry`=2000000500;
+UPDATE `db_script_string` SET `content_loc5`='在生前，我們承受了難以言喻的悲劇。' WHERE `entry`=2000000501;
 UPDATE `db_script_string` SET `content_loc5`='15分鐘之後將點燃稻草人!快來幽暗城西邊歡慶節日吧，慶祝萬鬼節，慶祝我們擺脫天譴軍團，獲得自由!' WHERE `entry`=2000000509;
 UPDATE `db_script_string` SET `content_loc5`='5分鐘之後將點燃稻草人!快來幽暗城西邊歡慶節日吧，慶祝萬鬼節，慶祝我們擺脫天譴軍團，獲得自由!' WHERE `entry`=2000000510;
 UPDATE `db_script_string` SET `content_loc5`='我...我覺得我看夠了...我已經筋疲力盡...' WHERE `entry`=2000000522;
@@ -193,6 +196,7 @@ UPDATE `db_script_string` SET `content_loc5`='問問基布雷爾關於寶藏的�
 UPDATE `db_script_string` SET `content_loc5`='哇!*咳**咳*我要戒煙!' WHERE `entry`=2000005008;
 UPDATE `db_script_string` SET `content_loc5`='士兵們，幹得好!輕鬆一下吧!' WHERE `entry`=2000005009;
 UPDATE `db_script_string` SET `content_loc5`='嘖嘖!樂意幫忙!' WHERE `entry`=2000005010;
+UPDATE `db_script_string` SET `content_loc5`='馬上，媽媽!' WHERE `entry`=2000005011;
 UPDATE `db_script_string` SET `content_loc5`='現在出發，$N。去找沃科爾...記著，除了交談以外，與任何人交流都會使你身上的魔法保護失效。' WHERE `entry`=2000005016;
 UPDATE `db_script_string` SET `content_loc5`='趕快去，$N。我的命運掌握在你手中。' WHERE `entry`=2000005017;
 UPDATE `db_script_string` SET `content_loc5`='好吧，不管它是什麼，效果很好!' WHERE `entry`=2000005021;
@@ -338,6 +342,7 @@ UPDATE `db_script_string` SET `content_loc5`='誰能收養我可愛的小貓咪�
 UPDATE `db_script_string` SET `content_loc5`='有沒有人願意給我的小貓一個溫暖的家?' WHERE `entry`=2000005318;
 UPDATE `db_script_string` SET `content_loc5`='賣貓咪啦，我要給它找個好人家。' WHERE `entry`=2000005319;
 UPDATE `db_script_string` SET `content_loc5`='爸爸，我能出去收集更多的石頭來做項鍊嗎?' WHERE `entry`=2000005320;
+UPDATE `db_script_string` SET `content_loc5`='當然，奧克拉。但是不要離家太遠了。' WHERE `entry`=2000005321;
 UPDATE `db_script_string` SET `content_loc5`='好的!我會小心的，爸爸!' WHERE `entry`=2000005322;
 UPDATE `db_script_string` SET `content_loc5`='哦...這塊石頭真是漂亮。看看我能不能找到更多這樣的石頭...' WHERE `entry`=2000005323;
 UPDATE `db_script_string` SET `content_loc5`='嗯...那塊石頭很不錯，但是太小了一點。' WHERE `entry`=2000005324;
@@ -410,6 +415,8 @@ UPDATE `db_script_string` SET `content_loc5`='去找一個鷹身人!' WHERE `ent
 UPDATE `db_script_string` SET `content_loc5`='那兒有一個!為了部落!' WHERE `entry`=2000005769;
 UPDATE `db_script_string` SET `content_loc5`='看招，你們這些卑鄙的鷹身人!哈哈!' WHERE `entry`=2000005770;
 UPDATE `db_script_string` SET `content_loc5`='你是無法從部落戰士手中逃脫的!吃我一招!還有這招!' WHERE `entry`=2000005771;
+UPDATE `db_script_string` SET `content_loc5`='回到屬於你自己的地方去!' WHERE `entry`=2000005772;
+UPDATE `db_script_string` SET `content_loc5`='啊...部落又一次光榮的勝利!' WHERE `entry`=2000005773;
 UPDATE `db_script_string` SET `content_loc5`='摩戈，到裡面去。你父親不在的時候，外面可是不太安全的。' WHERE `entry`=2000005774;
 UPDATE `db_script_string` SET `content_loc5`='$N，我會讓我所有的盟友朋友都知道你今天救了我的命。給你─我需要輕裝上路，請你幫忙收下我的裁縫和製皮物品!再次感謝你─再見!' WHERE `entry`=2000005776;
 UPDATE `db_script_string` SET `content_loc5`='%s擊碎了那毫無生氣的扭曲的爪子。' WHERE `entry`=2000005779;

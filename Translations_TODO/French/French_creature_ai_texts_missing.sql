@@ -33,8 +33,6 @@ UPDATE `trans_words` SET `content_loc2`='Hearty Kill!' WHERE `word_id` = 5763; -
 UPDATE `trans_words` SET `content_loc2`='I cannot permit you to enter the temple! I must destroy you for your own good!' WHERE `word_id` = 5762; -- creature_ai_texts - content : entry=-404
 UPDATE `trans_words` SET `content_loc2`='Spare some change for a poor blind man?...What do you mean I\'m not blind?...I\'M NOT BLIND! I CAN SEE! ITS A MIRACLE!' WHERE `word_id` = 5754; -- creature_ai_texts - content : entry=-412
 UPDATE `trans_words` SET `content_loc2`='Is it true? Are there crocolisks in the canal?' WHERE `word_id` = 5741; -- creature_ai_texts - content : entry=-431
-UPDATE `trans_words` SET `content_loc2`='Looks like you\'ll have to go ahead to Ratchet and tell Sputtervalve that I\'ve wrecked the shredder.' WHERE `word_id` = 5736; -- creature_ai_texts - content : entry=-436
-UPDATE `trans_words` SET `content_loc2`='I\'ll stay behind and guard the wreck. Hurry! Hopefully no one will notice the smoke...' WHERE `word_id` = 5735; -- creature_ai_texts - content : entry=-437
 UPDATE `trans_words` SET `content_loc2`='We need better representation from Stormwind. Our homes are falling to the undead.' WHERE `word_id` = 5726; -- creature_ai_texts - content : entry=-455
 UPDATE `trans_words` SET `content_loc2`='Arrrhhh...Guards!' WHERE `word_id` = 5692; -- creature_ai_texts - content : entry=-548
 UPDATE `trans_words` SET `content_loc2`='Greetings citizen.' WHERE `word_id` = 5688; -- creature_ai_texts - content : entry=-552

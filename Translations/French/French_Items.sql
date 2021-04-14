@@ -2109,7 +2109,7 @@ UPDATE `locales_item` SET `name_loc2`='Armure brisée d\'Ana\'thek' WHERE `entry
 UPDATE `locales_item` SET `name_loc2`='Tabac à priser' WHERE `entry`=3910;
 UPDATE `locales_item` SET `name_loc2`='Eclat bleu vibrant' WHERE `entry`=3911;
 UPDATE `locales_item` SET `name_loc2`='Gemme d\'âme' WHERE `entry`=3912;
-UPDATE `locales_item` SET `name_loc2`='Gemme d\'âme capturée' WHERE `entry`=3913;
+UPDATE `locales_item` SET `name_loc2`='Gemme d\'âme capturée',`description_loc2`='Une gemme luminescente qui renferme l\'âme de Yenniku.' WHERE `entry`=3913;
 UPDATE `locales_item` SET `name_loc2`='Sac à dos de compagnon' WHERE `entry`=3914;
 UPDATE `locales_item` SET `name_loc2`='Collier d\'os sanglant' WHERE `entry`=3915;
 UPDATE `locales_item` SET `name_loc2`='Collier d\'os brisés' WHERE `entry`=3916;
@@ -3325,7 +3325,7 @@ UPDATE `locales_item` SET `name_loc2`='Chair de palourde relevée' WHERE `entry`
 UPDATE `locales_item` SET `name_loc2`='Journal de Teronis' WHERE `entry`=5505;
 UPDATE `locales_item` SET `name_loc2`='Oeil pédonculé globuleux' WHERE `entry`=5506;
 UPDATE `locales_item` SET `name_loc2`='Longue-vue ornée' WHERE `entry`=5507;
-UPDATE `locales_item` SET `name_loc2`='Pierre de lune tombée' WHERE `entry`=5508;
+UPDATE `locales_item` SET `name_loc2`='Pierre de lune tombée',`description_loc2`='Un éclat brillant brille sur la pierre de lune volée avec un soupçon de quelque chose de puissant à l\'intérieur.' WHERE `entry`=5508;
 UPDATE `locales_item` SET `name_loc2`='Pierre de soins' WHERE `entry`=5509;
 UPDATE `locales_item` SET `name_loc2`='Pierre de soins supérieure' WHERE `entry`=5510;
 UPDATE `locales_item` SET `name_loc2`='Pierre de soins inférieure' WHERE `entry`=5511;
@@ -7919,7 +7919,7 @@ UPDATE `locales_item` SET `name_loc2`='Jouet ingénieux' WHERE `entry`=13366;
 UPDATE `locales_item` SET `name_loc2`='Cadeau emballé' WHERE `entry`=13367;
 UPDATE `locales_item` SET `name_loc2`='Lacéreuse' WHERE `entry`=13368;
 UPDATE `locales_item` SET `name_loc2`='Cuissardes des esprits enflammés' WHERE `entry`=13369;
-UPDATE `locales_item` SET `name_loc2`='Focalisateur vitré' WHERE `entry`=13370;
+UPDATE `locales_item` SET `name_loc2`='Focalisateur vitré',`description_loc2`='Un objet qui permet d\'identifier les composants magiques qui sont dans le cadavre.' WHERE `entry`=13370;
 UPDATE `locales_item` SET `name_loc2`='Flamme du père' WHERE `entry`=13371;
 UPDATE `locales_item` SET `name_loc2`='Canne d\'esclavagiste' WHERE `entry`=13372;
 UPDATE `locales_item` SET `name_loc2`='Bague de chair' WHERE `entry`=13373;

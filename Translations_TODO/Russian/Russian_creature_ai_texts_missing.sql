@@ -14,7 +14,6 @@ UPDATE `trans_words` SET `content_loc8`='%s\'s laughter trails off..' WHERE `wor
 UPDATE `trans_words` SET `content_loc8`='Obsidion, Rise and Serve your Master!' WHERE `word_id` = 5905; -- creature_ai_texts - content : entry=-665
 UPDATE `trans_words` SET `content_loc8`='At last: one among you is worthy of my knowledge. Worry not: I have probed your thoughts, no harm will come to you.' WHERE `word_id` = 5906; -- creature_ai_texts - content : entry=-666
 UPDATE `trans_words` SET `content_loc8`='I have... failed.' WHERE `word_id` = 5654; -- creature_ai_texts - content : entry=-700
-UPDATE `trans_words` SET `content_loc8`='%s attacks Karang\'s Banner!' WHERE `word_id` = 5624; -- creature_ai_texts - content : entry=-828
 UPDATE `trans_words` SET `content_loc8`='Are They all.... Dead?' WHERE `word_id` = 5607; -- creature_ai_texts - content : entry=-981
 UPDATE `trans_words` SET `content_loc8`='Mistress!! They seek to destroy your work!' WHERE `word_id` = 5603; -- creature_ai_texts - content : entry=-985
 UPDATE `trans_words` SET `content_loc8`='The Scarlet Crusade shall not fail in it\'s mission!' WHERE `word_id` = 5591; -- creature_ai_texts - content : entry=-1030

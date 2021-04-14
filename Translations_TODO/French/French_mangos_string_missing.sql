@@ -382,11 +382,9 @@ UPDATE `trans_words` SET `content_loc2`='Current gamemasters:' WHERE `word_id` =
 UPDATE `trans_words` SET `content_loc2`='|    Account    |  GM  |' WHERE `word_id` = 4651; -- mangos_string - content : entry=598
 UPDATE `trans_words` SET `content_loc2`='No gamemasters.' WHERE `word_id` = 4652; -- mangos_string - content : entry=599
 UPDATE `trans_words` SET `content_loc2`='The battle for Warsong Gulch begins in 30 seconds. Prepare yourselves!' WHERE `word_id` = 4656; -- mangos_string - content : entry=603
-UPDATE `trans_words` SET `content_loc2`='Let the battle for Warsong Gulch begin!' WHERE `word_id` = 4657; -- mangos_string - content : entry=604
 UPDATE `trans_words` SET `content_loc2`='The %s has taken the %s' WHERE `word_id` = 4674; -- mangos_string - content : entry=657
 UPDATE `trans_words` SET `content_loc2`='The Battle for Arathi Basin begins in 1 minute.' WHERE `word_id` = 4678; -- mangos_string - content : entry=661
 UPDATE `trans_words` SET `content_loc2`='The Battle for Arathi Basin begins in 30 seconds. Prepare yourselves!' WHERE `word_id` = 4679; -- mangos_string - content : entry=662
-UPDATE `trans_words` SET `content_loc2`='The Battle for Arathi Basin has begun!' WHERE `word_id` = 4680; -- mangos_string - content : entry=663
 UPDATE `trans_words` SET `content_loc2`='After your recent battle in %s our best attempts to award you a Mark of Honor failed. Enclosed you will find the Mark of Honor we were not able to deliver to you at the time. Thanks for fighting in %s!' WHERE `word_id` = 4683; -- mangos_string - content : entry=666
 UPDATE `trans_words` SET `content_loc2`='You must wait %s before speaking again.' WHERE `word_id` = 4684; -- mangos_string - content : entry=705
 UPDATE `trans_words` SET `content_loc2`='This item(s) has problems with equipping/storing to inventory.' WHERE `word_id` = 4685; -- mangos_string - content : entry=706

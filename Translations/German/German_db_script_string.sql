@@ -194,6 +194,8 @@ UPDATE `db_script_string` SET `content_loc3`='Es tut mir ja schrecklich leid, ei
 UPDATE `db_script_string` SET `content_loc3`='Ich suche nach Leibwächtern, die Gizeltons Karawane beschützen möchten. Wir halten auf der Straße östlich von Kormeks Hütte, nördlich vom Dorf der Kolkarzentauren.' WHERE `entry`=2000000401;
 UPDATE `db_script_string` SET `content_loc3`='Hier spricht Rigger Gizelton - ich brauche für meine Karawane eine Eskorte, um am Zirkel der Mannoroc vorbeizukommen. Ich bin auf der Straße östlich von Schattenflucht.' WHERE `entry`=2000000403;
 UPDATE `db_script_string` SET `content_loc3`='Seid bereit! Wenn die Naga erst wissen, dass wir am Leben sind, werden sie nicht zögern, ihren Vorteil zu nutzen.' WHERE `entry`=2000000466;
+UPDATE `db_script_string` SET `content_loc3`='Kinder der Nacht, hört auf den Ruf Eurer Königin!' WHERE `entry`=2000000500;
+UPDATE `db_script_string` SET `content_loc3`='Ich werde Euch beim Feiern dieser Nacht der Nächte begleiten - die Nacht, in der wir Verlassenen die Willkür der Geißel brachen.' WHERE `entry`=2000000501;
 UPDATE `db_script_string` SET `content_loc3`='Die Verbrennung des Weidenmanns beginnt in fünfzehn Minuten! Besucht das Fest, westlich von Unterstadt, und feiert mit uns die Schlotternächte und unsere Befreiung von der Geißel!' WHERE `entry`=2000000509;
 UPDATE `db_script_string` SET `content_loc3`='Die Verbrennung des Weidenmanns beginnt in fünf Minuten! Besucht das Fest, westlich von Unterstadt, und feiert mit uns die Schlotternächte und unsere Befreiung von der Geißel!' WHERE `entry`=2000000510;
 UPDATE `db_script_string` SET `content_loc3`='Ich... Ich habe genug gesehen, glaube ich... das ist überaus anstrengend...' WHERE `entry`=2000000522;
@@ -485,6 +487,8 @@ UPDATE `db_script_string` SET `content_loc3`='Zeit, sich eine ahnungslose Harpyi
 UPDATE `db_script_string` SET `content_loc3`='Hier ist einer! Für die Horde!' WHERE `entry`=2000005769;
 UPDATE `db_script_string` SET `content_loc3`='Nimm das, räudige Harpyie!' WHERE `entry`=2000005770;
 UPDATE `db_script_string` SET `content_loc3`='Einem Krieger der Horde könnt Ihr nicht entkommen! Nehmt das! Und das!' WHERE `entry`=2000005771;
+UPDATE `db_script_string` SET `content_loc3`='Verschwindet in Eure Heimat, wo Ihr hingehört!' WHERE `entry`=2000005772;
+UPDATE `db_script_string` SET `content_loc3`='Aaahhh... Ein weiterer glorreicher Sieg für die Horde!' WHERE `entry`=2000005773;
 UPDATE `db_script_string` SET `content_loc3`='Mogg, sieh zu, dass du reinkommst. Hier draußen ist es nicht sicher, solange dein Vater weg ist.' WHERE `entry`=2000005774;
 UPDATE `db_script_string` SET `content_loc3`='$N, ich werde sicherstellen, dass alle meine Freunde im Kartell von meiner Rettung durch Euch erfahren. Hier – ich muss immer mit leichtem Gepäck reisen, also nehmt Euch doch aus meinem Vorrat an Schneider- und Lederverarbeitungszubehör, was Ihr braucht. Nochmals danke – man sieht sich!' WHERE `entry`=2000005776;
 UPDATE `db_script_string` SET `content_loc3`='Was?? Die Brennende Klinge breitet sich aus! Das müssen wir untersuchen!' WHERE `entry`=2000005778;

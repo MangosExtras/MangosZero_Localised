@@ -317,6 +317,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='지금 비행선은 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='넌 아무짝에도 쓸모가 없는 녀석이야, 리블리. 버릇없는 행동의 대가를 치를 때다!' WHERE `menu_id`=1970 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='지금 비행선은 어디쯤 있나요?' WHERE `menu_id`=1971 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='요리를 배우고 싶습니다.' WHERE `menu_id`=2021 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='고마워요, 털보 존. 당신의 이야기를 듣고 나니 용기가 생기는 듯하군요. 매우 알찬 정보였습니다.' WHERE `menu_id`=2050 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='300명이라고요? 검은무쇠 녀석들이 윈저를 죽이고 검은바위 나락으로 끌고 간 겁니까?' WHERE `menu_id`=2052 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='도대체 어째서 윈저가 검은바위 나락에 있는 겁니까?' WHERE `menu_id`=2053 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='좋아요. 그렇다면 대체 윈저는 어디에 있는 겁니까? 가만! 지금 당신 술 취했어요?' WHERE `menu_id`=2054 AND `id`=0;
@@ -358,6 +359,9 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='가죽세공' WHERE 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='채광' WHERE `menu_id`=2168 AND `id`=9;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='무두질' WHERE `menu_id`=2168 AND `id`=10;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='재봉술' WHERE `menu_id`=2168 AND `id`=11;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='수정탑 조사' WHERE `menu_id`=2177 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='수정탑 조사' WHERE `menu_id`=2178 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='수정탑 조사' WHERE `menu_id`=2179 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='동쪽 수정탑에 대해 더 말씀해 주십시오.' WHERE `menu_id`=2184 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='북쪽 수정탑에 대해 더 말씀해 주십시오.' WHERE `menu_id`=2184 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='서쪽 수정탑에 대해 더 말씀해 주십시오.' WHERE `menu_id`=2184 AND `id`=2;
@@ -447,6 +451,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='물론, 말리퍼스
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='다음번에 이런 괴물을 보면 잘 기억해 두죠.' WHERE `menu_id`=2946 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='사례라고요?' WHERE `menu_id`=2947 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='한가지 알고 싶은 게 있는데, 그걸 입고 화장실은 어떻게 갑니까?' WHERE `menu_id`=2948 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그러니까 당신 말은 이... 용암 방열복이라는 걸 입고 용암 속에서 헤엄을... 아니, 배영을 했다는 거죠? 그리고 갑자기 이 괴물이 나타나서는 당신을 통째로 집어삼켰고요?' WHERE `menu_id`=2949 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그래도 듣고 싶습니다.' WHERE `menu_id`=2950 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='저긴 애초에 어떻게 들어간 겁니까?' WHERE `menu_id`=2951 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='거래를 하고 싶습니다.' WHERE `menu_id`=2952 AND `id`=0;
@@ -931,6 +936,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='드루이드 훈련�
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='습득한 특성을 취소하고 싶습니다.' WHERE `menu_id`=4607 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='흑마법사 훈련을 받고 싶습니다.' WHERE `menu_id`=4609 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='습득한 특성을 취소하고 싶습니다.' WHERE `menu_id`=4609 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='가르침을 내려 주시기 바랍니다.' WHERE `menu_id`=4610 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='습득한 특성을 취소하고 싶습니다.' WHERE `menu_id`=4610 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='사냥꾼의 도를 배우고자 합니다.' WHERE `menu_id`=4621 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='습득한 특성을 취소하고 싶습니다.' WHERE `menu_id`=4621 AND `id`=1;
@@ -958,7 +964,9 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='전사 훈련을 받
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='습득한 특성을 취소하고 싶습니다.' WHERE `menu_id`=4653 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='마법사 훈련을 받고 싶습니다.' WHERE `menu_id`=4654 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='습득한 특성을 취소하고 싶습니다.' WHERE `menu_id`=4654 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='가르침을 내려 주시기 바랍니다.' WHERE `menu_id`=4655 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='습득한 특성을 취소하고 싶습니다.' WHERE `menu_id`=4655 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='가르침을 내려 주시기 바랍니다.' WHERE `menu_id`=4656 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='습득한 특성을 취소하고 싶습니다.' WHERE `menu_id`=4656 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='사냥꾼의 도를 배우고자 합니다.' WHERE `menu_id`=4657 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='습득한 특성을 취소하고 싶습니다.' WHERE `menu_id`=4657 AND `id`=1;
@@ -1192,6 +1200,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='거래를 하고 싶
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='여기에 제 소환수를 맡기고 싶어요.' WHERE `menu_id`=6088 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='이 놀라운 장치에 쓸 유도장치를 반드시 만들겠습니다!' WHERE `menu_id`=6094 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='타고 갈 것이 필요합니다.' WHERE `menu_id`=6162 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='실라스, 어떻게 이 축제는 대부분이 무료로 운영되고 있나요? 대체 수익은 어떻게 내는 겁니까?' WHERE `menu_id`=6182 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그자는 도적에 거짓말쟁이일 뿐이므로 주군의 뜻대로 즉석에서 처형하겠습니다.' WHERE `menu_id`=6185 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그자는 법을 어겼고 저는 법을 집행하겠다고 맹세했기 때문에 주군에게 끌고 가 처벌받게 하겠습니다.' WHERE `menu_id`=6185 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그자가 훔친 옥수수를 몰수하고 절도는 저주와 파멸에 이르는 길이라는 경고를 한 후 훈방 조치로 가족에게 돌려보내겠습니다.' WHERE `menu_id`=6185 AND `id`=2;
@@ -1279,8 +1288,14 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='탁본 장치를 사
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='타고 갈 것이 필요합니다.' WHERE `menu_id`=6563 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='비밀 암호를 입력하고 제 멀록을 받고 싶습니다.' WHERE `menu_id`=6565 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='물건을 보고 싶습니다.' WHERE `menu_id`=6568 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='블라스텐하이머 5000 초특급 대포는 어떻게 사용합니까?' WHERE `menu_id`=6575 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='더 얘기해 주세요.' WHERE `menu_id`=6579 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='통통 전차는 뭔가요?' WHERE `menu_id`=6581 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='대포는 뭔가요?' WHERE `menu_id`=6581 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='어떤 물건을 구입할 수 있습니까?' WHERE `menu_id`=6582 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='다크문 축제 상품권은 뭔가요?' WHERE `menu_id`=6582 AND `id`=1;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='다크문 카드는 뭔가요?' WHERE `menu_id`=6582 AND `id`=2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='즐길 거리는 뭐가 있습니까?' WHERE `menu_id`=6582 AND `id`=3;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그래서 당신은 뭐라고 했습니까?' WHERE `menu_id`=6586 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='뭐라고 합니까?' WHERE `menu_id`=6587 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='이곳에 대해 어떻게 아십니까?' WHERE `menu_id`=6588 AND `id`=0;
@@ -1331,6 +1346,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그 밖에 묻고 �
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그 밖에 묻고 싶은 게 더 있습니다.' WHERE `menu_id`=6722 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그 밖에 묻고 싶은 게 더 있습니다.' WHERE `menu_id`=6724 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그 밖에 묻고 싶은 게 더 있습니다.' WHERE `menu_id`=6726 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='멧젠, 넌 이제 자유야. 못된 그린치는 더는 널 괴롭히지 못해.' WHERE `menu_id`=6763 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='축제 특선으로 나온 물건을 보고 싶습니다.' WHERE `menu_id`=6768 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='축제 특선으로 나온 물건을 보고 싶습니다.' WHERE `menu_id`=6769 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그 밖에 묻고 싶은 게 더 있습니다.' WHERE `menu_id`=6771 AND `id`=0;
@@ -1707,6 +1723,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='물건을 보여주�
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그게 무슨 말입니까?' WHERE `menu_id`=8400 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='왜 그런 짓을 저질렀습니까?' WHERE `menu_id`=8401 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='이해가 되지 않는군요.' WHERE `menu_id`=8402 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='대마법사님, 말도 안 되는 소리를 하시는군요.' WHERE `menu_id`=8403 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='무슨 지팡이 말입니까?' WHERE `menu_id`=8404 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='그것을 되찾으려 했다고 하셨는데, 무슨 뜻입니까?' WHERE `menu_id`=8405 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc1`='지팡이는 어떻게 됐습니까?' WHERE `menu_id`=8406 AND `id`=0;

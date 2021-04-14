@@ -8543,10 +8543,10 @@ UPDATE `locales_gameobject` SET `name_loc4`='艾萨拉烈焰' WHERE `entry`=1813
 UPDATE `locales_gameobject` SET `name_loc4`='安戈洛烈焰' WHERE `entry`=181343;
 UPDATE `locales_gameobject` SET `name_loc4`='诅咒之地烈焰' WHERE `entry`=181344;
 UPDATE `locales_gameobject` SET `name_loc4`='辛特兰烈焰' WHERE `entry`=181345;
-UPDATE `locales_gameobject` SET `name_loc4`='厄运之槌烈焰' WHERE `entry`=181346;
-UPDATE `locales_gameobject` SET `name_loc4`='黑石塔烈焰' WHERE `entry`=181347;
-UPDATE `locales_gameobject` SET `name_loc4`='斯坦索姆烈焰' WHERE `entry`=181348;
-UPDATE `locales_gameobject` SET `name_loc4`='通灵学院烈焰' WHERE `entry`=181349;
+UPDATE `locales_gameobject` SET `name_loc4`='黑石塔烈焰' WHERE `entry`=181346;
+UPDATE `locales_gameobject` SET `name_loc4`='厄运之槌烈焰' WHERE `entry`=181347;
+UPDATE `locales_gameobject` SET `name_loc4`='通灵学院烈焰' WHERE `entry`=181348;
+UPDATE `locales_gameobject` SET `name_loc4`='斯坦索姆烈焰' WHERE `entry`=181349;
 UPDATE `locales_gameobject` SET `name_loc4`='营火' WHERE `entry`=181350;
 UPDATE `locales_gameobject` SET `name_loc4`='营火' WHERE `entry`=181351;
 UPDATE `locales_gameobject` SET `name_loc4`='营火' WHERE `entry`=181352;

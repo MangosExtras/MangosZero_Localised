@@ -27,6 +27,7 @@ UPDATE `db_script_string` SET `content_loc1`='이제 그만 가 보십시오, $N
 UPDATE `db_script_string` SET `content_loc1`='어떤 악마의 앞잡이도 우리 땅에 발을 들이도록 허락할 수 없다!' WHERE `entry`=2000000065;
 UPDATE `db_script_string` SET `content_loc1`='$N, 평화와 인내가 그대와 함께하기를. 항상 강함을 유지하시기 바랍니다.' WHERE `entry`=2000000066;
 UPDATE `db_script_string` SET `content_loc1`='아아아... 속이... 안 좋아...' WHERE `entry`=2000000082;
+UPDATE `db_script_string` SET `content_loc1`='아아아... 내 영혼... 내 살이... 썩어 들어가고 있어...!' WHERE `entry`=2000000083;
 UPDATE `db_script_string` SET `content_loc1`='음...' WHERE `entry`=2000000092;
 UPDATE `db_script_string` SET `content_loc1`='돌발톱 산맥의 정령들이 아직도 분노하고 있어요.' WHERE `entry`=2000000105;
 UPDATE `db_script_string` SET `content_loc1`='영원히 그들을 진정시키지 못하는 건 아닐까 걱정이에요...' WHERE `entry`=2000000106;
@@ -150,6 +151,8 @@ UPDATE `db_script_string` SET `content_loc1`='손님을 남겨 놓고 가기는 
 UPDATE `db_script_string` SET `content_loc1`='기젤톤 대상단을 보호할 경호원을 구합니다! 저희는 코르메크의 오두막에서 동쪽, 콜카르 켄타우로스 마을에서 북쪽에 있는 길가에 서 있습니다.' WHERE `entry`=2000000401;
 UPDATE `db_script_string` SET `content_loc1`='리거 기젤톤입니다! 제 짐마차가 만노로크 소굴을 무사히 통과할 수 있도록 도움이 필요합니다. 저희는 지금 그늘수렵 마을의 동쪽 길에 있습니다.' WHERE `entry`=2000000403;
 UPDATE `db_script_string` SET `content_loc1`='단단히 준비하세요! 나가들이 우리가 살아 있다는 걸 알면 곧 다시 공격하려 올 겁니다.' WHERE `entry`=2000000466;
+UPDATE `db_script_string` SET `content_loc1`='어둠의 자식들이여, 나의 부름을 들어라!' WHERE `entry`=2000000500;
+UPDATE `db_script_string` SET `content_loc1`='살아생전 우리는 이루 말할 수 없는 비극을 겪었다.' WHERE `entry`=2000000501;
 UPDATE `db_script_string` SET `content_loc1`='15분 후에 밀짚인형 화형식이 시작됩니다! 축제에 참가하여 할로윈 축제도 즐기고 우리가 스컬지로부터 해방된 날을 축하하세요! 장소는 바로 언더시티 서쪽입니다.' WHERE `entry`=2000000509;
 UPDATE `db_script_string` SET `content_loc1`='5분 후에 밀짚인형 화형식이 시작됩니다! 축제에 참가하여 할로윈 축제도 즐기고 우리가 스컬지로부터 해방된 날을 축하하세요! 장소는 바로 언더시티 서쪽입니다.' WHERE `entry`=2000000510;
 UPDATE `db_script_string` SET `content_loc1`='이... 이제 충분히 본 것 같소... 정말 지치는군...' WHERE `entry`=2000000522;
@@ -193,6 +196,7 @@ UPDATE `db_script_string` SET `content_loc1`='보물? 키블러에게 물어봐!
 UPDATE `db_script_string` SET `content_loc1`='꽤액!! 콜록... 콜록! 담배를 끊어야겠군!' WHERE `entry`=2000005008;
 UPDATE `db_script_string` SET `content_loc1`='잘했다, 제군들! 편히 쉬도록!' WHERE `entry`=2000005009;
 UPDATE `db_script_string` SET `content_loc1`='저그 저그! 남을 돕는다는 건 정말 행복한 일 같아요!' WHERE `entry`=2000005010;
+UPDATE `db_script_string` SET `content_loc1`='네, 엄마! 지금 가요.' WHERE `entry`=2000005011;
 UPDATE `db_script_string` SET `content_loc1`='이제 가시오, $N. 가서 볼코르를 찾으시오. 그리고 망토를 쓰면 대화만 할 수 있소. 누군가와 맞서 싸우게 될 경우 그대를 보호하는 마법이 사라진다는 사실을 명심하시오.' WHERE `entry`=2000005016;
 UPDATE `db_script_string` SET `content_loc1`='$N, 서둘러 가시오. 내 운명이 당신 손에 달려 있소.' WHERE `entry`=2000005017;
 UPDATE `db_script_string` SET `content_loc1`='이유야 어쨌건 간에 아주 효과가 좋더라고요!' WHERE `entry`=2000005021;
@@ -338,6 +342,7 @@ UPDATE `db_script_string` SET `content_loc1`='누구... 제 귀여운 냐옹이 
 UPDATE `db_script_string` SET `content_loc1`='누가 우리 야옹이 좀 입양해 주세요! 털도 별로 안 빠져요.' WHERE `entry`=2000005318;
 UPDATE `db_script_string` SET `content_loc1`='귀여운 새끼 고양이 팔아요! 좋은 주인이 돼주실 분 찾습니다!' WHERE `entry`=2000005319;
 UPDATE `db_script_string` SET `content_loc1`='아빠, 목걸이 만들 돌멩이 모으러 나가도 돼요?' WHERE `entry`=2000005320;
+UPDATE `db_script_string` SET `content_loc1`='그러거라, 오클라. 하지만 집에서 너무 멀리 떨어지면 안 돼요.' WHERE `entry`=2000005321;
 UPDATE `db_script_string` SET `content_loc1`='다부! 조심할게요, 아빠!' WHERE `entry`=2000005322;
 UPDATE `db_script_string` SET `content_loc1`='와아! 이 돌은 모양도 색깔도 정말 예쁘네. 이런 게 더 있나 어디 한번 볼까...' WHERE `entry`=2000005323;
 UPDATE `db_script_string` SET `content_loc1`='흠... 저 돌은 예쁜데 너무 작아.' WHERE `entry`=2000005324;
@@ -410,6 +415,8 @@ UPDATE `db_script_string` SET `content_loc1`='어디... 넋 놓고 있는 하피
 UPDATE `db_script_string` SET `content_loc1`='저기 한 마리 있다! 호드를 위하여!' WHERE `entry`=2000005769;
 UPDATE `db_script_string` SET `content_loc1`='받아랏, 더러운 하피 녀석! 이얍!' WHERE `entry`=2000005770;
 UPDATE `db_script_string` SET `content_loc1`='호드의 용감한 전사한테서 절대 도망 못가지롱! 받아랏! 얏!' WHERE `entry`=2000005771;
+UPDATE `db_script_string` SET `content_loc1`='너네 집으로 꺼져라!' WHERE `entry`=2000005772;
+UPDATE `db_script_string` SET `content_loc1`='와우... 또다시 호드에 영광스러운 승리다!' WHERE `entry`=2000005773;
 UPDATE `db_script_string` SET `content_loc1`='모그! 아가야... 어서 들어오렴. 아버지도 안 계신데 바깥을 돌아다니는 건 위험해요.' WHERE `entry`=2000005774;
 UPDATE `db_script_string` SET `content_loc1`='$N, 오늘 내 목숨을 구해준 사실을 무역회사의 모든 동료에게 알리도록 하지. 자, 이제 길을 떠나려면 짐을 최대한 줄여서 가야 하니까... 이 재봉용품과 가죽세공용품 중에서 골라보라고! 다시 한번 정말 고마웠어. 안녕!' WHERE `entry`=2000005776;
 UPDATE `db_script_string` SET `content_loc1`='%s|1이;가; 죽은 악마의 뒤틀린 발톱을 부숴버립니다.' WHERE `entry`=2000005779;

@@ -262,6 +262,7 @@ UPDATE `creature_ai_texts` SET `content_loc8`='Хаккар возродится
 UPDATE `creature_ai_texts` SET `content_loc8`='Это зло не должно проникнуть в наш мир! Ко мне, дети мои!' WHERE `entry`=-825;
 UPDATE `creature_ai_texts` SET `content_loc8`='Для Гиблой Чащи ты - жалкая букашка! Умри!' WHERE `entry`=-826;
 UPDATE `creature_ai_texts` SET `content_loc8`='Нет! Ты не можешь быть сильнее детей Гиблой Чащи! Нет!!!' WHERE `entry`=-827;
+UPDATE `creature_ai_texts` SET `content_loc8`='%s нападает на знамя Каранга!' WHERE `entry`=-828;
 UPDATE `creature_ai_texts` SET `content_loc8`='%s атакует!' WHERE `entry`=-829;
 UPDATE `creature_ai_texts` SET `content_loc8`='Тебе не скрыться. Орден уничтожит всех, кто носит метку Плети.' WHERE `entry`=-895;
 UPDATE `creature_ai_texts` SET `content_loc8`='На тебе скверна Плети! Сейчас ты отправишься в Круговерть Пустоты!' WHERE `entry`=-896;

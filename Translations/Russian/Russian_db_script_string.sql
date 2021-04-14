@@ -190,6 +190,8 @@ UPDATE `db_script_string` SET `content_loc8`='Жаль бросать клиен
 UPDATE `db_script_string` SET `content_loc8`='Каравану Гизлтона требуются надежные охранники. Ищите нас к востоку от хижины Кормека, севернее деревни кентавров из клана Колкар.' WHERE `entry`=2000000401;
 UPDATE `db_script_string` SET `content_loc8`='Я Риггер Гизлтон. Мне нужны охранники для сопровождения каравана через Поле Маннорок. Ищите меня на дороге восточнее Деревни Ночных Охотников.' WHERE `entry`=2000000403;
 UPDATE `db_script_string` SET `content_loc8`='Будь настороже! Наги не замедлят закрепить свое преимущество, если узнают, что мы еще живы.' WHERE `entry`=2000000466;
+UPDATE `db_script_string` SET `content_loc8`='Дети Ночи, услышьте зов королевы!' WHERE `entry`=2000000500;
+UPDATE `db_script_string` SET `content_loc8`='Я, как и ты, буду праздновать эту великую ночь – ночь, когда мы, Отрекшиеся, сбросили иго Плети!' WHERE `entry`=2000000501;
 UPDATE `db_script_string` SET `content_loc8`='Сжигать Плетеного человека начнут через 15 минут! Отправляйся на праздник – он проводится западнее Подгорода, – и отмечай Тыквовин, а также нашу свободу от Плети!' WHERE `entry`=2000000509;
 UPDATE `db_script_string` SET `content_loc8`='Сожжение Плетеного человека начнется через пять минут! Приходите на торжество – оно проходит чуть западнее Подгорода! Празднуйте Тыквовин и наше освобождение от Плети!' WHERE `entry`=2000000510;
 UPDATE `db_script_string` SET `content_loc8`='Я должен сосредоточить свою энергию на этом ноже. Тогда я смогу ощутить наиболее сильные эмоциональные переживания, которые были с ним связаны.' WHERE `entry`=2000000521;
@@ -239,6 +241,7 @@ UPDATE `db_script_string` SET `content_loc8`='Спросите Киблера о
 UPDATE `db_script_string` SET `content_loc8`='Ааа!!! Я не выношу табачного дыма!' WHERE `entry`=2000005008;
 UPDATE `db_script_string` SET `content_loc8`='Отлично, бойцы! Вольно!' WHERE `entry`=2000005009;
 UPDATE `db_script_string` SET `content_loc8`='Заг-заг! Рад был помочь!' WHERE `entry`=2000005010;
+UPDATE `db_script_string` SET `content_loc8`='Да, мамочка, сейчас!' WHERE `entry`=2000005011;
 UPDATE `db_script_string` SET `content_loc8`='Ступайте, $N. Найдите Волкора... и помните, что магическая защита исчезнет, как только вы попытаетесь с кем-нибудь взаимодействовать иначе, чем посредством речи.' WHERE `entry`=2000005016;
 UPDATE `db_script_string` SET `content_loc8`='Поспеши, $N. Моя судьба в твоих руках.' WHERE `entry`=2000005017;
 UPDATE `db_script_string` SET `content_loc8`='О, это должен быть он... нет? Тьфу!' WHERE `entry`=2000005018;

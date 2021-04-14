@@ -68,6 +68,7 @@ UPDATE `script_texts` SET `content_loc1`='제발 그 일만은 저지르지 않�
 UPDATE `script_texts` SET `content_loc1`='가만히 있지 말고 가서 놀 거리를 많이 만들어 주도록!' WHERE `entry`=-1000200;
 UPDATE `script_texts` SET `content_loc1`='살았다! 정말 고맙습니다, 의사 선생님!' WHERE `entry`=-1000201;
 UPDATE `script_texts` SET `content_loc1`='만세! 살았다!' WHERE `entry`=-1000202;
+UPDATE `script_texts` SET `content_loc1`='달콤한 죽음이여... 나를 데려가주오...' WHERE `entry`=-1000203;
 UPDATE `script_texts` SET `content_loc1`='%s|1이;가; 아리송하다는 듯이 당신을 올려다봅니다. 자세히 살펴봐야 하지 않을까요?' WHERE `entry`=-1000204;
 UPDATE `script_texts` SET `content_loc1`='다시 돌아온다면 광란심장 일족 손에 죽을 것이다. 우리는 이제 너 환영하지 않는다!' WHERE `entry`=-1000208;
 UPDATE `script_texts` SET `content_loc1`='좋아. 뭘 보여준다는 건지 확인해 보자고.' WHERE `entry`=-1000209;
@@ -222,6 +223,7 @@ UPDATE `script_texts` SET `content_loc1`='여기 오는 데 너무 오래 걸려
 UPDATE `script_texts` SET `content_loc1`='우리는 잠시 머물렀다 다시 탑으로 돌아가야 합니다. 우리와 더 얘기를 나누고 싶다면 그곳으로 오시기 바랍니다.' WHERE `entry`=-1000414;
 UPDATE `script_texts` SET `content_loc1`='%s|1이;가; 심각한 부상으로 추적을 포기합니다.' WHERE `entry`=-1000415;
 UPDATE `script_texts` SET `content_loc1`='이거, 이래서야 얼마나 멀리 갈 수 있을지 모르겠네요... 현기증이 좀 나는데...' WHERE `entry`=-1000416;
+UPDATE `script_texts` SET `content_loc1`='만약 내가 어지러워하면, 마구 때려. 만약 내가 쓰러지면, 수통을 사용하고. 이제 가자고!' WHERE `entry`=-1000417;
 UPDATE `script_texts` SET `content_loc1`='뜨거워... 견딜 수가 없어요...' WHERE `entry`=-1000418;
 UPDATE `script_texts` SET `content_loc1`='혹시... 날 업어 줄 수 없나요?' WHERE `entry`=-1000419;
 UPDATE `script_texts` SET `content_loc1`='으으으으으윽...' WHERE `entry`=-1000420;
@@ -246,6 +248,7 @@ UPDATE `script_texts` SET `content_loc1`='이 지역에는 검은나무 펄볼�
 UPDATE `script_texts` SET `content_loc1`='조용하군... 너무 조용해...' WHERE `entry`=-1000443;
 UPDATE `script_texts` SET `content_loc1`='아, 여기서 릴라드리스가 보이는군... 내가 왔다고 좀 전해 주시지 않겠소?' WHERE `entry`=-1000444;
 UPDATE `script_texts` SET `content_loc1`='%s|1이;가; 깨어납니다!' WHERE `entry`=-1000445;
+UPDATE `script_texts` SET `content_loc1`='에이미 작동 개시. 에이미 집에 간다. 에이미에게 말을 걸어 이동 시스템 설정을 변경해라.' WHERE `entry`=-1000446;
 UPDATE `script_texts` SET `content_loc1`='착해... 착해, 에이미. 에이미 착해. 집. 집 찾아.' WHERE `entry`=-1000447;
 UPDATE `script_texts` SET `content_loc1`='조심! 조심! $N|1이;가; 에이미 해치려고 해.' WHERE `entry`=-1000450;
 UPDATE `script_texts` SET `content_loc1`='나빠, $N. $N, 나빠!' WHERE `entry`=-1000451;
@@ -317,6 +320,7 @@ UPDATE `script_texts` SET `content_loc1`='일리단 님, 주인님을 기쁘게 
 UPDATE `script_texts` SET `content_loc1`='어떤 바보들이 감히 이 일리단 스톰레이지 님의 길을 막느냐? 병사들아, 저 벌레들을 제거해라!' WHERE `entry`=-1000536;
 UPDATE `script_texts` SET `content_loc1`='두 다리가 성할 때 달아나라. 곧 대군주들을 보내겠다...' WHERE `entry`=-1000538;
 UPDATE `script_texts` SET `content_loc1`='결국, 붉은 인장대에게 승리했군. 그리고 이제는 내게 도전하겠다는 건가? 아서스도 날 꺾지 못했는데 감히 너희 따위가 그런 생각을 품다니? 어디 덤벼봐라! $N, 검은 사원이 너를 기다리고 있다...' WHERE `entry`=-1000540;
+UPDATE `script_texts` SET `content_loc1`='%S|1이;가; 순순히 $N|1을;를; 따릅니다.' WHERE `entry`=-1000542;
 UPDATE `script_texts` SET `content_loc1`='왜 여기에 왔나요, 이방인이여? 고통만이 있을 뿐인데! 당신도 우리와 같은 운명에 놓일 텐데요...' WHERE `entry`=-1000543;
 UPDATE `script_texts` SET `content_loc1`='암흑... 부패... 이 모두가 아무도 눈치를 못 챌 만큼 빠르게 들이닥쳤어요.' WHERE `entry`=-1000545;
 UPDATE `script_texts` SET `content_loc1`='암흑이 남김없이 삼켜버릴 거예요... 살아 있는 존재는 모두...' WHERE `entry`=-1000546;
@@ -387,6 +391,7 @@ UPDATE `script_texts` SET `content_loc1`='%s|1이;가; 격분하여 포효합니
 UPDATE `script_texts` SET `content_loc1`='서둘러라, $N! 몸을 숨길 만한 곳을 찾아야 한다!' WHERE `entry`=-1000682;
 UPDATE `script_texts` SET `content_loc1`='부디 우리 백성들을 지켜다오.' WHERE `entry`=-1000683;
 UPDATE `script_texts` SET `content_loc1`='악몽의 종들아, 일어서라! 일어서서 너희의 광기로 이 세계를 파괴해라! 살아 있는 모든 생명을 없애라...' WHERE `entry`=-1000684;
+UPDATE `script_texts` SET `content_loc1`='너의 구세주는 어디 있지? 내 공격을 얼마나 버틸 수 있을까?' WHERE `entry`=-1000686;
 UPDATE `script_texts` SET `content_loc1`='내 부하들을 해치웠다는 건가? 그럼 어디 날 상대해 봐라, 필멸의 존재여!' WHERE `entry`=-1000687;
 UPDATE `script_texts` SET `content_loc1`='레물로스, 이들이 내 앞에서 얼마나 쉽게 목숨을 잃어 가는지 똑똑히 지켜봐라. 아직 기회는 있다, 레물로스. 그 드루이드 녀석만 내게 넘기면, 이 모든 고통이 끝날 것이며 너는 이 학살을 막는 영웅이 될 것이다...' WHERE `entry`=-1000688;
 UPDATE `script_texts` SET `content_loc1`='엘룬이시여, 저의 기도를 들어주소서. 저희에게 평화를 내려 주소서! 죽어 간 동료를 굽어살피소서...' WHERE `entry`=-1000689;
@@ -415,6 +420,7 @@ UPDATE `script_texts` SET `content_loc1`='여사제시여, 성소에 들어와 �
 UPDATE `script_texts` SET `content_loc1`='저희는 단지 올빼미야수가 이 지역을 수호하는 이유를 알고자 할 뿐입니다.' WHERE `entry`=-1000720;
 UPDATE `script_texts` SET `content_loc1`='에누도라 세라도르... 이곳은 성스럽고 무서운 곳이다.' WHERE `entry`=-1000721;
 UPDATE `script_texts` SET `content_loc1`='이제 그대들에게 보여주도록 하겠노라...' WHERE `entry`=-1000722;
+UPDATE `script_texts` SET `content_loc1`='위를 보라... 타라 도르밀 도라...' WHERE `entry`=-1000723;
 UPDATE `script_texts` SET `content_loc1`='한 때 우리는 저 보석을 통해 엘룬 님과 직접 대화를 할 수가 있었느니라.' WHERE `entry`=-1000724;
 UPDATE `script_texts` SET `content_loc1`='엘룬께서는 보석을 통해서 무한한 지혜를 보내셨다.' WHERE `entry`=-1000725;
 UPDATE `script_texts` SET `content_loc1`='우리는 엘룬 님을 섬기는 자로서, 보석을 수호해야 한다는 사실을 깨달았느니...' WHERE `entry`=-1000726;
@@ -505,6 +511,7 @@ UPDATE `script_texts` SET `content_loc1`='성스러운 빛이 함께하기를 �
 UPDATE `script_texts` SET `content_loc1`='우리는 그저 대장님의 발아래 흙 같은 존재일 뿐입니다.' WHERE `entry`=-1000843;
 UPDATE `script_texts` SET `content_loc1`='담력이 토륨같이 센 분이라는군.' WHERE `entry`=-1000844;
 UPDATE `script_texts` SET `content_loc1`='길을 비켜라!' WHERE `entry`=-1000845;
+UPDATE `script_texts` SET `content_loc1`='살아있는 전설...' WHERE `entry`=-1000846;
 UPDATE `script_texts` SET `content_loc1`='이날을 언제까지나 기억할 것입니다.' WHERE `entry`=-1000847;
 UPDATE `script_texts` SET `content_loc1`='대장님께서는 우리 모두의 귀감이십니다.' WHERE `entry`=-1000848;
 UPDATE `script_texts` SET `content_loc1`='용기를 내시오, 친구들. 파충류들이 사정없이 공격해 올 것이오. 하지만 그것은 녀석들의 절박함에서 나오는 행동일 뿐이오.' WHERE `entry`=-1000849;
@@ -514,6 +521,7 @@ UPDATE `script_texts` SET `content_loc1`='어서 안전한 곳으로 가시지�
 UPDATE `script_texts` SET `content_loc1`='무도회는 끝났다, 프레스톨. 아니면 진짜 이름으로 불러 줄까? 오닉시아...' WHERE `entry`=-1000853;
 UPDATE `script_texts` SET `content_loc1`='%s|1이;가; 웃습니다.' WHERE `entry`=-1000854;
 UPDATE `script_texts` SET `content_loc1`='너는 반역죄로 재판을 받아 투옥될 것이다, 윈저! 유죄 판결과 함께 사형을 선고 받고 교수형 당하는 꼴을 즐겁게 지켜봐 주지.' WHERE `entry`=-1000855;
+UPDATE `script_texts` SET `content_loc1`='너의 힘없는 사체가 교수대에 매달려 있을 때 나는 미치광이를 처리했다는 사실에 매우 기쁠 것이야. 결국 아무런 증거도 없지 않는가? 이런 식으로 쳐들어와서 이 여군주에게 손가락질을 해대고도 무사할 줄 알았더냐?' WHERE `entry`=-1000856;
 UPDATE `script_texts` SET `content_loc1`='죽음을 면치 못하리라, 오닉시아! 그 예언은 카라잔의 위대한 전당에 울려 퍼져왔다. 이제야 끝나는구나...' WHERE `entry`=-1000857;
 UPDATE `script_texts` SET `content_loc1`='검은무쇠 부족은 이 서판이 암호화되었다고 생각했다. 암호가 아니라 고대 용족의 언어이다.' WHERE `entry`=-1000859;
 UPDATE `script_texts` SET `content_loc1`='잘 들어라, 용이여. 진실이 이곳에 울려 퍼질 것이다.' WHERE `entry`=-1000860;
@@ -546,6 +554,7 @@ UPDATE `script_texts` SET `content_loc1`='경비병 하나가 쓰러졌다!' WHE
 UPDATE `script_texts` SET `content_loc1`='호드를 위하여!' WHERE `entry`=-1000895;
 UPDATE `script_texts` SET `content_loc1`='감시탑을 사수하라!' WHERE `entry`=-1000896;
 UPDATE `script_texts` SET `content_loc1`='우리의 적은 쓰러지리라!' WHERE `entry`=-1000897;
+UPDATE `script_texts` SET `content_loc1`='좋아요, 여기서부터 오크들의 공격이 드세질 겁니다. 준비하세요!' WHERE `entry`=-1000949;
 UPDATE `script_texts` SET `content_loc1`='덤벼 보시지, 이 오크들. 하지만 내가 쿠에에게 돌아가는 걸 막을 순 없을 걸!' WHERE `entry`=-1000950;
 UPDATE `script_texts` SET `content_loc1`='이 쓰레기 더미 속에 뭐가 있는지 살펴봐야겠으니... 뒤를 엄호하세요!' WHERE `entry`=-1000952;
 UPDATE `script_texts` SET `content_loc1`='%s|1이;가; 연금술사의 소지품을 샅샅이 뒤지기 시작합니다.' WHERE `entry`=-1000953;
@@ -582,6 +591,7 @@ UPDATE `script_texts` SET `content_loc1`='으아아!' WHERE `entry`=-1033016;
 UPDATE `script_texts` SET `content_loc1`='나의 노예가 되어라!' WHERE `entry`=-1033017;
 UPDATE `script_texts` SET `content_loc1`='또 하나 처치했다!' WHERE `entry`=-1033018;
 UPDATE `script_texts` SET `content_loc1`='너의 분노를 폭발시켜라!' WHERE `entry`=-1033019;
+UPDATE `script_texts` SET `content_loc1`='거기 너! 무슨 소린지 알아봐라!' WHERE `entry`=-1036000;
 UPDATE `script_texts` SET `content_loc1`='적의 공격이다! 모조리 쓸어 버리자!' WHERE `entry`=-1036001;
 UPDATE `script_texts` SET `content_loc1`='버러지 같은 놈들! 생각보다 세구나! 곧 끝장을 내주겠다!' WHERE `entry`=-1036002;
 UPDATE `script_texts` SET `content_loc1`='오늘이 네놈들 제삿날이 될 줄 알아라!' WHERE `entry`=-1036003;
@@ -649,6 +659,7 @@ UPDATE `script_texts` SET `content_loc1`='벽이 흔들리다니... 누군가 �
 UPDATE `script_texts` SET `content_loc1`='마음을 굳게 먹어라, 용사여. 그대가 왜 여기로 왔는지, 무얼 찾고 있는지 알고 있다. 에라니쿠스는 절대 홀 조각을 포기하지 않을 것이다. 그는 타락했다... 그대가 파괴하려는 바로 그 힘에 의해서.' WHERE `entry`=-1109001;
 UPDATE `script_texts` SET `content_loc1`='많이 놀랐나? 고대 신의 힘이 꿈속까지 미칠 것이라고 믿기 어렵겠지? 하지만 사실이다. 꿈의 폭군 에라니쿠스는 우리 모두를 상대로 싸움을 걸고 있느니, 그가 파괴하고 지나간 곳에는 악몽이 뒤따른다.' WHERE `entry`=-1109002;
 UPDATE `script_texts` SET `content_loc1`='명심해라. 에라니쿠스가 원하는 것은 오직 꿈속에서 빠져 나와 아제로스로 가는 것이다. 그가 꿈에서 나오면 내 현신을 파괴하기 위해 수단과 방법을 가리지 않을 것이나, 그대가 홀 파편을 되찾으려면 이 방법 밖에 없다.' WHERE `entry`=-1109003;
+UPDATE `script_texts` SET `content_loc1`='그를 이 세계로 데려올지어다, 용사여.' WHERE `entry`=-1109004;
 UPDATE `script_texts` SET `content_loc1`='보호막이 무너졌다. 일어나라, 아탈라이여! 일어나라!' WHERE `entry`=-1109005;
 UPDATE `script_texts` SET `content_loc1`='학카르가 깨어났노라!' WHERE `entry`=-1109006;
 UPDATE `script_texts` SET `content_loc1`='생명의 피 맛이 느껴진다!' WHERE `entry`=-1109007;
@@ -704,6 +715,7 @@ UPDATE `script_texts` SET `content_loc1`='네놈은 잘못된 치안대장을 �
 UPDATE `script_texts` SET `content_loc1`='날 붙잡는 게 좋을 거요. 안 그러면 $N에게 교도소란 곳의 구타가 어떤 것인지 가르쳐주겠어.' WHERE `entry`=-1230013;
 UPDATE `script_texts` SET `content_loc1`='어서 갑시다. 이쪽으로 가면 있는 저장소에 내 장비들이 있을 거요...' WHERE `entry`=-1230014;
 UPDATE `script_texts` SET `content_loc1`='저 방을 살펴보시오, $N. 아직도 살아 있는 자가 있다면 꺼내주어야 하오.' WHERE `entry`=-1230015;
+UPDATE `script_texts` SET `content_loc1`='잘했소! 거의 다 왔소이다! 이쪽이오.' WHERE `entry`=-1230016;
 UPDATE `script_texts` SET `content_loc1`='여기요, $N. 내 장비가 저 방 안에 있을 거요. 방으로 들어 갈 테니 날 엄호해주시오!' WHERE `entry`=-1230017;
 UPDATE `script_texts` SET `content_loc1`='아, 저기 있군!' WHERE `entry`=-1230018;
 UPDATE `script_texts` SET `content_loc1`='힘이 느껴지시오, $N? 이제 한판 붙어봐야지!' WHERE `entry`=-1230019;
@@ -758,7 +770,9 @@ UPDATE `script_texts` SET `content_loc1`='시르밸라시여, 분노를 채워 �
 UPDATE `script_texts` SET `content_loc1`='베데크시여, 저에게 힘을 내려주소서!' WHERE `entry`=-1309011;
 UPDATE `script_texts` SET `content_loc1`='내 귀여운 것들아, $N|1을;를; 잡아먹어라!' WHERE `entry`=-1309012;
 UPDATE `script_texts` SET `content_loc1`='마침내... 영혼의 구속에서 풀려나는구나!' WHERE `entry`=-1309013;
+UPDATE `script_texts` SET `content_loc1`='칼을 버려라, 벌레들아. 내가 너희를 학카르 님께 데려간다!' WHERE `entry`=-1309015;
 UPDATE `script_texts` SET `content_loc1`='땡!' WHERE `entry`=-1309016;
+UPDATE `script_texts` SET `content_loc1`='어이! 축하해!' WHERE `entry`=-1309017;
 UPDATE `script_texts` SET `content_loc1`='$N! 널 지켜보고 있겠다!' WHERE `entry`=-1309018;
 UPDATE `script_texts` SET `content_loc1`='도망쳐 봐야 소용없다, 어리석은 생명체여!' WHERE `entry`=-1309021;
 UPDATE `script_texts` SET `content_loc1`='감히 학카리 성지에 발을 들여놓는 게냐? 학카르의 종들이여, 저 이단자들을 처단하라!' WHERE `entry`=-1309022;
@@ -769,6 +783,7 @@ UPDATE `script_texts` SET `content_loc1`='%s|1이;가; 귀가 찢어질 듯한 �
 UPDATE `script_texts` SET `content_loc1`='%s|1이;가; 상급 치유를 시전합니다!' WHERE `entry`=-1309027;
 UPDATE `script_texts` SET `content_loc1`='애쉬아리 수정 하나가 쓰러졌다! 형제들이여, 리치 왕에 대한 충성을 지켜 수정을 다시 소환하라!' WHERE `entry`=-1329004;
 UPDATE `script_texts` SET `content_loc1`='애쉬아리 수정 하나가 파괴되었다! 침략자들을 처치하라!' WHERE `entry`=-1329005;
+UPDATE `script_texts` SET `content_loc1`='애쉬아리 수정 하나가 무너졌다! 도살장이 공격받기 전에 지구라트를 복원하라!' WHERE `entry`=-1329006;
 UPDATE `script_texts` SET `content_loc1`='애쉬아리 수정이 파괴되었다! 도살장이 위험하다!' WHERE `entry`=-1329007;
 UPDATE `script_texts` SET `content_loc1`='광장 정문에 침입자들이 나타났다! 리븐데어 군주님께 알려드려야 해!' WHERE `entry`=-1329008;
 UPDATE `script_texts` SET `content_loc1`='아직 여기 있었나? 정말 놀랍도록 멍청하군! 저 은빛 여명회의 계집이 쓸데없이 고통을 받을 필요는 없지 않을까? 당장 떠나라. 그러면 여죄수는 목숨을 건지게 되리라!' WHERE `entry`=-1329010;
@@ -779,6 +794,7 @@ UPDATE `script_texts` SET `content_loc1`='내가 직접 나설 때가 되었군.
 UPDATE `script_texts` SET `content_loc1`='당신이 해냈어요... 리븐데어 남작을 해치웠군요! 은빛 여명회에서도 당신의 영웅적인 업적에 대한 소식을 듣게 될 거예요!' WHERE `entry`=-1329015;
 UPDATE `script_texts` SET `content_loc1`='내가 수년 동안 이룩한 것을 네놈들이 하루아침에 무너뜨리다니! 오늘 그 대가로 모두 내 손에 죽게 될 것이다!' WHERE `entry`=-1329016;
 UPDATE `script_texts` SET `content_loc1`='내가 그리 쉽게 무너질 것이라 생각했더냐, 어리석은 것들! 나스레짐의 진정한 힘을 맛보아라!' WHERE `entry`=-1329017;
+UPDATE `script_texts` SET `content_loc1`='저주를 받으리라, 평범한 생명체들이여! 내 복수의 계획, 내가 품은 증오... 되값아 주리라...' WHERE `entry`=-1329018;
 UPDATE `script_texts` SET `content_loc1`='제 걱정은 하지 마세요! 이 끔찍한 짐승을 해치우고 그의 더러운 손에서 이 세상을 구원해 주세요!' WHERE `entry`=-1329019;
 UPDATE `script_texts` SET `content_loc1`='내가 죽는 것은 아무것도 아니다... 빛의 힘이... 승리할... 것이다!' WHERE `entry`=-1329020;
 UPDATE `script_texts` SET `content_loc1`='재로 돌아가라!' WHERE `entry`=-1409005;
@@ -809,7 +825,10 @@ UPDATE `script_texts` SET `content_loc1`='도적들인가? 숨어 다니지만 �
 UPDATE `script_texts` SET `content_loc1`='바보들아! 이 알들이 얼마나 귀한 것인데!' WHERE `entry`=-1469023;
 UPDATE `script_texts` SET `content_loc1`='더 이상은 안 돼! 죗값은 너희들 머리로 받겠다!' WHERE `entry`=-1469024;
 UPDATE `script_texts` SET `content_loc1`='너무 늦었어! 네파리우스의 타락이 뿌리를 내려... 난... 나 자신을 통제할 수가 없어.' WHERE `entry`=-1469026;
+UPDATE `script_texts` SET `content_loc1`='부탁이다. 도망쳐라! 내가 자제력을 완전히 잃기 전에! 내 가슴 속에 검은 불길이 끓고 있다! 내뿜어야만 해!' WHERE `entry`=-1469027;
+UPDATE `script_texts` SET `content_loc1`='불! 파괴! 죽음! 군주의 분노를 두려워하라! 안 돼! 난 싸워야해! 알렉스트라자여, 도와주소서! 난 싸워야해!' WHERE `entry`=-1469028;
 UPDATE `script_texts` SET `content_loc1`='네파리우스가 나를 강하게 만들었다. 내 혈관에는 네파리우스의 증오와 검은바위 부족의 분노가 흐르고 있다!' WHERE `entry`=-1469029;
+UPDATE `script_texts` SET `content_loc1`='용서해라! 나도 죗값을 치르게 될 것이다!' WHERE `entry`=-1469030;
 UPDATE `script_texts` SET `content_loc1`='일어나라! 붉은고룡이여... 놈들을 처치하라!' WHERE `entry`=-1469032;
 UPDATE `script_texts` SET `content_loc1`='수정 구슬에서 통제력이 빠져나가자 %s|1이;가; 도망칩니다.' WHERE `entry`=-1469033;
 UPDATE `script_texts` SET `content_loc1`='%s|1이;가; 당신의 공포를 알아챕니다.' WHERE `entry`=-1509000;
@@ -826,6 +845,7 @@ UPDATE `script_texts` SET `content_loc1`='건방진... 내 친히 너희를 처�
 UPDATE `script_texts` SET `content_loc1`='성벽이 무너졌다!' WHERE `entry`=-1509022;
 UPDATE `script_texts` SET `content_loc1`='사막의 모래여, 일어나 태양을 가려주소서!' WHERE `entry`=-1509025;
 UPDATE `script_texts` SET `content_loc1`='너는 제거됐다.' WHERE `entry`=-1509026;
+UPDATE `script_texts` SET `content_loc1`='내가... 졌다.' WHERE `entry`=-1509027;
 UPDATE `script_texts` SET `content_loc1`='당신의 마나를 흡수한 %s|1이;가; 돌처럼 변합니다.' WHERE `entry`=-1509028;
 UPDATE `script_texts` SET `content_loc1`='와서 덤벼 보아라!' WHERE `entry`=-1509029;
 UPDATE `script_texts` SET `content_loc1`='질문은 우선 놈을 처치한 다음에 하도록... 온다!' WHERE `entry`=-1509030;
@@ -879,11 +899,13 @@ UPDATE `script_texts` SET `content_loc1`='도망가라! 더 늦기 전에!' WHER
 UPDATE `script_texts` SET `content_loc1`='침입자들이여, 무모한 도전은 당장 멈추고 더 늦기 전에 돌아가라!' WHERE `entry`=-1533059;
 UPDATE `script_texts` SET `content_loc1`='이제 그만! 돌아가! 더 늦기 전에!' WHERE `entry`=-1533061;
 UPDATE `script_texts` SET `content_loc1`='날 용서해줘!' WHERE `entry`=-1533063;
+UPDATE `script_texts` SET `content_loc1`='이것이... 나의 운명...' WHERE `entry`=-1533064;
 UPDATE `script_texts` SET `content_loc1`='죽고 싶나?' WHERE `entry`=-1533065;
 UPDATE `script_texts` SET `content_loc1`='아무도 못 나간다!' WHERE `entry`=-1533066;
 UPDATE `script_texts` SET `content_loc1`='꼼짝 마라!' WHERE `entry`=-1533067;
 UPDATE `script_texts` SET `content_loc1`='죽어서도 평화는 없을 것이다.' WHERE `entry`=-1533068;
 UPDATE `script_texts` SET `content_loc1`='주인님의 뜻이다.' WHERE `entry`=-1533069;
+UPDATE `script_texts` SET `content_loc1`='스컬지의 힘을 숭배하라!' WHERE `entry`=-1533070;
 UPDATE `script_texts` SET `content_loc1`='삶은 무의미하다. 진정한 시험은 죽음과 함께 시작되지!' WHERE `entry`=-1533073;
 UPDATE `script_texts` SET `content_loc1`='주인님께 영광을!' WHERE `entry`=-1533075;
 UPDATE `script_texts` SET `content_loc1`='너희 생명은 끝이다!' WHERE `entry`=-1533076;
@@ -892,6 +914,7 @@ UPDATE `script_texts` SET `content_loc1`='일어나라, 병사들이여! 다시 
 UPDATE `script_texts` SET `content_loc1`='임무를 완료했다!' WHERE `entry`=-1533079;
 UPDATE `script_texts` SET `content_loc1`='이제 숨을 거두어라!' WHERE `entry`=-1533080;
 UPDATE `script_texts` SET `content_loc1`='%s|1이;가; 숨을 깊게 들이쉽니다.' WHERE `entry`=-1533082;
+UPDATE `script_texts` SET `content_loc1`='명령을 따르겠습니다... 주인님!' WHERE `entry`=-1533088;
 UPDATE `script_texts` SET `content_loc1`='안 돼! 저주가 내릴 것이다, 침입자 녀석! 리치 왕께서 이끄는 군대가 널 추적하리라. 운명의 굴레를 벗어나지는 못할 것이야...' WHERE `entry`=-1533089;
 UPDATE `script_texts` SET `content_loc1`='이런 놀음도 이젠 지겹군. 와라, 너희 영혼을 망각의 저편으로 보내 주마!' WHERE `entry`=-1533092;
 UPDATE `script_texts` SET `content_loc1`='어떤 공포가 닥쳐올지 모르는군. 지금까진 아무것도 아니다. 기다리고 있노라. 낙스라마스의 얼어붙은 심장이!' WHERE `entry`=-1533093;

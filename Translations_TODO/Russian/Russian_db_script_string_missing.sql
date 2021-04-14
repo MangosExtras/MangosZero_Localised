@@ -22,8 +22,6 @@ UPDATE `trans_words` SET `content_loc8`='Feegly the Exiled begins to make strang
 UPDATE `trans_words` SET `content_loc8`='Hey Nagmara! How about a mug of Dark Iron Ale?' WHERE `word_id` = 7380; -- db_script_string - content : entry=2000000261
 UPDATE `trans_words` SET `content_loc8`='Nagmara! Have any mutton left?' WHERE `word_id` = 7381; -- db_script_string - content : entry=2000000262
 UPDATE `trans_words` SET `content_loc8`='Time for the Gizelton Caravan to head on out! We\'ll be back soon but if you cannot wait, head north to Kormek\'s Hut. We open shop in about an hour.' WHERE `word_id` = 7406; -- db_script_string - content : entry=2000000402
-UPDATE `trans_words` SET `content_loc8`='Children of the Night, heed your Queen\'s call!' WHERE `word_id` = 7411; -- db_script_string - content : entry=2000000500
-UPDATE `trans_words` SET `content_loc8`='I join you in celebration of this most revered of nights - the night we Forsaken broke the Scourge\'s yoke of oppression!' WHERE `word_id` = 7412; -- db_script_string - content : entry=2000000501
 UPDATE `trans_words` SET `content_loc8`='It is this night that our enemies fear us the most. It is THIS night that we show our enemies what it means to stand against the Forsaken!' WHERE `word_id` = 7413; -- db_script_string - content : entry=2000000502
 UPDATE `trans_words` SET `content_loc8`='We burn the effigy of the Wickerman as a symbol of our struggle against those who would oppose us. We wear the ashes of the burnt Wickerman as a symbol of our neverending fight against those who would enslave us.' WHERE `word_id` = 7414; -- db_script_string - content : entry=2000000503
 UPDATE `trans_words` SET `content_loc8`='Now is the time to shake the world to its foundations! NOW is the time to remind those who would enslave us that we shall never yield!' WHERE `word_id` = 7415; -- db_script_string - content : entry=2000000504
@@ -34,7 +32,6 @@ UPDATE `trans_words` SET `content_loc8`='Klaven doesn\'t pay me enough to deal w
 UPDATE `trans_words` SET `content_loc8`='I thank you. $N. And my brother thanks you.' WHERE `word_id` = 7060; -- db_script_string - content : entry=2000000808
 UPDATE `trans_words` SET `content_loc8`='Greetings, mortals! I have been activated by the Discs of Norgannon to assist you!' WHERE `word_id` = 7409; -- db_script_string - content : entry=2000000817
 UPDATE `trans_words` SET `content_loc8`='The discs are now ready! Engage the Discs of Norgannon once again to retrieve them!' WHERE `word_id` = 7410; -- db_script_string - content : entry=2000000818
-UPDATE `trans_words` SET `content_loc8`='Yes right away momma!' WHERE `word_id` = 7066; -- db_script_string - content : entry=2000005011
 UPDATE `trans_words` SET `content_loc8`='Terenthis begins to cast a spell as you take the cloak from him.' WHERE `word_id` = 7067; -- db_script_string - content : entry=2000005015
 UPDATE `trans_words` SET `content_loc8`='Our oldest clutch of dragons are still far from maturity, but with patience and study, we are confident the dragons will soon be ready.' WHERE `word_id` = 7078; -- db_script_string - content : entry=2000005029
 UPDATE `trans_words` SET `content_loc8`='Ograbisi needs new hat.' WHERE `word_id` = 7360; -- db_script_string - content : entry=2000005102

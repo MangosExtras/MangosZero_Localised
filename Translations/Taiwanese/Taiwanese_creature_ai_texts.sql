@@ -124,6 +124,8 @@ UPDATE `creature_ai_texts` SET `content_loc5`='你說，為什麼咱們總是沿
 UPDATE `creature_ai_texts` SET `content_loc5`='我們要去哪裡?' WHERE `entry`=-433;
 UPDATE `creature_ai_texts` SET `content_loc5`='我要去看法師塔。' WHERE `entry`=-434;
 UPDATE `creature_ai_texts` SET `content_loc5`='不要召喚這樣的東西。它如此脆弱，用棒敲擊就能使它粉身碎骨。' WHERE `entry`=-435;
+UPDATE `creature_ai_texts` SET `content_loc5`='老天。你覺得斯布特瓦夫會在意伐木機有點...嗯...無法使用嗎?' WHERE `entry`=-436;
+UPDATE `creature_ai_texts` SET `content_loc5`='我會試著修好它。你先走。我自己可以回去。' WHERE `entry`=-437;
 UPDATE `creature_ai_texts` SET `content_loc5`='我們被出賣了!' WHERE `entry`=-438;
 UPDATE `creature_ai_texts` SET `content_loc5`='%s發出了一聲尖叫。' WHERE `entry`=-448;
 UPDATE `creature_ai_texts` SET `content_loc5`='是哪個$R在這裡多管閒事?讓斯塔文的傳說和你一起消亡吧!' WHERE `entry`=-449;
@@ -210,6 +212,7 @@ UPDATE `creature_ai_texts` SET `content_loc5`='哈卡會再次醒來的!' WHERE 
 UPDATE `creature_ai_texts` SET `content_loc5`='絕不能讓邪惡力量侵襲這個世界!來吧，孩子們!' WHERE `entry`=-825;
 UPDATE `creature_ai_texts` SET `content_loc5`='對汙林熊怪來說，你真是個小麻煩!死吧!' WHERE `entry`=-826;
 UPDATE `creature_ai_texts` SET `content_loc5`='不!你不可能比汙林熊怪更強壯的!不!!' WHERE `entry`=-827;
+UPDATE `creature_ai_texts` SET `content_loc5`='%s朝旌旗進攻!' WHERE `entry`=-828;
 UPDATE `creature_ai_texts` SET `content_loc5`='%s衝鋒!' WHERE `entry`=-829;
 UPDATE `creature_ai_texts` SET `content_loc5`='你是無法逃走的，十字軍將會清除被天譴軍團玷污過的一切。' WHERE `entry`=-895;
 UPDATE `creature_ai_texts` SET `content_loc5`='你身上有天譴軍團的邪惡氣息，準備墜入扭曲虛空吧!' WHERE `entry`=-896;

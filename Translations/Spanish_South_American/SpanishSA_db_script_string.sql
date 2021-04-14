@@ -27,6 +27,7 @@ UPDATE `db_script_string` SET `content_loc7`='Retírate, $N.' WHERE `entry`=2000
 UPDATE `db_script_string` SET `content_loc7`='¡No aguantaremos a ningún sirviente de los demonios en nuestra tierra!' WHERE `entry`=2000000065;
 UPDATE `db_script_string` SET `content_loc7`='Que la paz y la paciencia te acompañen, $N. Permanece siempre fuerte.' WHERE `entry`=2000000066;
 UPDATE `db_script_string` SET `content_loc7`='Yo... no... me siento... bien...' WHERE `entry`=2000000082;
+UPDATE `db_script_string` SET `content_loc7`='Mi mente... mi carne... ¡Me... estoy... pudriendo!' WHERE `entry`=2000000083;
 UPDATE `db_script_string` SET `content_loc7`='Mmm...' WHERE `entry`=2000000092;
 UPDATE `db_script_string` SET `content_loc7`='Los espíritus del Espolón están furiosos aún, $N.' WHERE `entry`=2000000105;
 UPDATE `db_script_string` SET `content_loc7`='Me temo que nunca los aplacaremos...' WHERE `entry`=2000000106;
@@ -150,6 +151,8 @@ UPDATE `db_script_string` SET `content_loc7`='Siento mucho tener que dejar a un 
 UPDATE `db_script_string` SET `content_loc7`='Estoy buscando guardaespaldas que quieran proteger la caravana Gizelton. Estamos parados en el camino al este de la Cabaña de Kormek, al norte del Poblado centauro Kolkar.' WHERE `entry`=2000000401;
 UPDATE `db_script_string` SET `content_loc7`='Aquí Rigger Gizelton, pidiendo ayuda para escoltar mi caravana a través de Aquelarre Mannoroc. Estoy en el camino, al este de Aldea Cazasombras.' WHERE `entry`=2000000403;
 UPDATE `db_script_string` SET `content_loc7`='¡Mantente alerta! Los nagas no esperarán demasiado para aventajarnos una vez que sepan que estamos vivos.' WHERE `entry`=2000000466;
+UPDATE `db_script_string` SET `content_loc7`='Hijos de la Noche, ¡atiendan a la llamada de su Reina!' WHERE `entry`=2000000500;
+UPDATE `db_script_string` SET `content_loc7`='Me uno a ustedes para celebrar esta noche tan importante, la noche en la que los Renegados nos liberamos del yugo de la opresión de la Plaga.' WHERE `entry`=2000000501;
 UPDATE `db_script_string` SET `content_loc7`='¡La quema del Hombre de Mimbre dará comienzo en quince minutos! Ven al festival, que se celebra en el oeste de Entrañas, y festeja Halloween y nuestra liberación de la Plaga.' WHERE `entry`=2000000509;
 UPDATE `db_script_string` SET `content_loc7`='¡La quema del Hombre de Mimbre dará comienzo en cinco minutos! Ven al festival, que se celebra en el oeste de Entrañas, y festeja Halloween y nuestra liberación de la Plaga.' WHERE `entry`=2000000510;
 UPDATE `db_script_string` SET `content_loc7`='Yo... creo que ya he visto bastante... demasiado agotador...' WHERE `entry`=2000000522;
@@ -193,6 +196,7 @@ UPDATE `db_script_string` SET `content_loc7`='¡Pregunta a Kibler acerca del tes
 UPDATE `db_script_string` SET `content_loc7`='¡¡¡KRUAAAAC!!! *tose* *tose* ¡Tengo que dejar de fumar!' WHERE `entry`=2000005008;
 UPDATE `db_script_string` SET `content_loc7`='¡Bien hecho, Soldados! ¡Descansad!' WHERE `entry`=2000005009;
 UPDATE `db_script_string` SET `content_loc7`='¡Zug zug! ¡Encantado de ayudar!' WHERE `entry`=2000005010;
+UPDATE `db_script_string` SET `content_loc7`='¡Ahora mismo, mamá!' WHERE `entry`=2000005011;
 UPDATE `db_script_string` SET `content_loc7`='Ahora vete, $N. Encuentra a Volcor... y recuerda: la magia que te protege fallará si te mezclas con otros. Solo puedes hablar con ellos.' WHERE `entry`=2000005016;
 UPDATE `db_script_string` SET `content_loc7`='Actúa con rapidez, $N. Mi destino está en tus manos.' WHERE `entry`=2000005017;
 UPDATE `db_script_string` SET `content_loc7`='Bien, sea lo que sea, ¡funciona bastante bien!' WHERE `entry`=2000005021;
@@ -338,6 +342,7 @@ UPDATE `db_script_string` SET `content_loc7`='¿Alguien puede darle un hogar a m
 UPDATE `db_script_string` SET `content_loc7`='¿Alguien podría proporcionar un buen hogar a mi gatito?' WHERE `entry`=2000005318;
 UPDATE `db_script_string` SET `content_loc7`='Gatitos en venta, estamos buscándoles un buen hogar.' WHERE `entry`=2000005319;
 UPDATE `db_script_string` SET `content_loc7`='¿Puedo ir a buscar más piedras para mi collar, papá?' WHERE `entry`=2000005320;
+UPDATE `db_script_string` SET `content_loc7`='Puedes, Okla. Pero no te alejes demasiado de mí.' WHERE `entry`=2000005321;
 UPDATE `db_script_string` SET `content_loc7`='¡Dabu! ¡Tendré cuidado, papá!' WHERE `entry`=2000005322;
 UPDATE `db_script_string` SET `content_loc7`='Ooohh... Esta piedra es bonita y me gusta mucho el color. A ver si puedo encontrar más iguales...' WHERE `entry`=2000005323;
 UPDATE `db_script_string` SET `content_loc7`='Mmm... Esa piedra es bonita, pero demasiado pequeña.' WHERE `entry`=2000005324;
@@ -410,6 +415,8 @@ UPDATE `db_script_string` SET `content_loc7`='¡Ahora, voy a buscar a una arpía
 UPDATE `db_script_string` SET `content_loc7`='¡Ahí hay una! ¡Por la Horda!' WHERE `entry`=2000005769;
 UPDATE `db_script_string` SET `content_loc7`='¡Toma eso, asquerosa arpía! ¡Síiiii!' WHERE `entry`=2000005770;
 UPDATE `db_script_string` SET `content_loc7`='¡No puedes escaparte de un guerrero de la Horda! ¡Toma esto! ¡Y esto!' WHERE `entry`=2000005771;
+UPDATE `db_script_string` SET `content_loc7`='Y ahora, vuelve a casa, donde tienes que estar.' WHERE `entry`=2000005772;
+UPDATE `db_script_string` SET `content_loc7`='Aaahhh... ¡Otra gloriosa victoria para la Horda!' WHERE `entry`=2000005773;
 UPDATE `db_script_string` SET `content_loc7`='Mogg, entra. No es seguro que estés ahí fuera mientras tu padre no está.' WHERE `entry`=2000005774;
 UPDATE `db_script_string` SET `content_loc7`='$N, me aseguraré de que todos mis amigos del Cártel sepan que me has salvado la vida. Necesito viajar ligero de peso así que, por favor, coge lo que quieras de mi alijo de suministros de sastrería y peletería. ¡Gracias de nuevo, hasta luego!' WHERE `entry`=2000005776;
 UPDATE `db_script_string` SET `content_loc7`='%s hace añicos el cadáver con las garras retorcidas.' WHERE `entry`=2000005779;

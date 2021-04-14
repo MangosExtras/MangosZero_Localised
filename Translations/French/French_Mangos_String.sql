@@ -129,6 +129,7 @@ UPDATE `mangos_string` SET `content_loc2`='Déplacer le mouvement' WHERE `entry`
 UPDATE `mangos_string` SET `content_loc2`='L\'Alliance gagne !' WHERE `entry`=600;
 UPDATE `mangos_string` SET `content_loc2`='La Horde gagne !' WHERE `entry`=601;
 UPDATE `mangos_string` SET `content_loc2`='La bataille pour le goulet des Chanteguerres commence dans 1 minute.' WHERE `entry`=602;
+UPDATE `mangos_string` SET `content_loc2`='Que la bataille pour le goulet des Warsong commence !' WHERE `entry`=604;
 UPDATE `mangos_string` SET `content_loc2`='$N a pris le drapeau de la Horde !' WHERE `entry`=605;
 UPDATE `mangos_string` SET `content_loc2`='$N a pris le drapeau de l\'Alliance !' WHERE `entry`=606;
 UPDATE `mangos_string` SET `content_loc2`='Le drapeau de la Horde a été lâché par $N !' WHERE `entry`=607;
@@ -150,6 +151,7 @@ UPDATE `mangos_string` SET `content_loc2`='Elle est à moi !' WHERE `entry`=656
 UPDATE `mangos_string` SET `content_loc2`='$N a défendu le%s' WHERE `entry`=658;
 UPDATE `mangos_string` SET `content_loc2`='$N a agressé le%s' WHERE `entry`=659;
 UPDATE `mangos_string` SET `content_loc2`='$N réclame le%s! S\'il n\'est pas contesté, le%s le contrôlera en 1 minute!' WHERE `entry`=660;
+UPDATE `mangos_string` SET `content_loc2`='La bataille pour le bassin d\'Arathi a commencé !' WHERE `entry`=663;
 UPDATE `mangos_string` SET `content_loc2`='L\'Alliance a réuni $1776W unités de ressources, et est proche de la victoire !' WHERE `entry`=664;
 UPDATE `mangos_string` SET `content_loc2`='La Horde a réuni $1777W unités de ressources, et est proche de la victoire !' WHERE `entry`=665;
 UPDATE `mangos_string` SET `content_loc2`='%s ne souhaite pas être dérangé:%s' WHERE `entry`=707;

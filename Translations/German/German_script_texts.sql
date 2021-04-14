@@ -667,6 +667,7 @@ UPDATE `script_texts` SET `content_loc3`='Das Licht sei mit Euch.' WHERE `entry`
 UPDATE `script_texts` SET `content_loc3`='Wir sind nur Staub unter Euren Füßen.' WHERE `entry`=-1000843;
 UPDATE `script_texts` SET `content_loc3`='... Nerven aus Thorium.' WHERE `entry`=-1000844;
 UPDATE `script_texts` SET `content_loc3`='Macht Platz!' WHERE `entry`=-1000845;
+UPDATE `script_texts` SET `content_loc3`='Eine lebende Legende...' WHERE `entry`=-1000846;
 UPDATE `script_texts` SET `content_loc3`='Ein Moment, an den ich mich auf ewig erinnern werde.' WHERE `entry`=-1000847;
 UPDATE `script_texts` SET `content_loc3`='Ihr seid eine Inspiration für uns alle.' WHERE `entry`=-1000848;
 UPDATE `script_texts` SET `content_loc3`='Seid mutig, Freunde. Das Reptil wird sich sehr wehren. Es ist ein Akt der Verzweiflung. Wenn Ihr bereit seid, gebt mir Bescheid.' WHERE `entry`=-1000849;
@@ -676,6 +677,7 @@ UPDATE `script_texts` SET `content_loc3`='Zur sicheren Halle, Eure Majestät.' W
 UPDATE `script_texts` SET `content_loc3`='Die Maskerade ist vorüber, Lady Prestor. Oder soll ich Euch mit Eurem richtigen Namen ansprechen... Onyxia...' WHERE `entry`=-1000853;
 UPDATE `script_texts` SET `content_loc3`='%s lacht.' WHERE `entry`=-1000854;
 UPDATE `script_texts` SET `content_loc3`='Ihr werdet eingekerkert und man wird Euch wegen Verrats den Prozess machen, Windsor. Ich werde freudig zusehen, wie sie Euch für schuldig befinden und Euch zum Tode durch Hängen verurteilen...' WHERE `entry`=-1000855;
+UPDATE `script_texts` SET `content_loc3`='Und wenn Euer schlaffer Körper am Galgen baumelt, werde ich mich an der Gewissheit erfreuen, dass ein Verrückter hingerichtet wurde. Welchen Beweis habt Ihr denn schon? Habt Ihr gedacht, Ihr könntet hierher kommen, mit dem Finger auf königliche Personen zeigen und ungeschoren davonkommen?' WHERE `entry`=-1000856;
 UPDATE `script_texts` SET `content_loc3`='Ihr werdet Eurem Schicksal nicht entkommen, Onyxia. Es wurde vorhergesagt - eine Vision, die in den großen Hallen von Karazhan widerhallt. Das alles endet nun...' WHERE `entry`=-1000857;
 UPDATE `script_texts` SET `content_loc3`='Die Dunkeleisenzwerge dachten, diese Schrifttafeln wären verschlüsselt. Das hier ist keine Form der Verschlüsselung, es ist die Sprache der uralten Großdrachen.' WHERE `entry`=-1000859;
 UPDATE `script_texts` SET `content_loc3`='Hört zu, Drache. Lasst die Wahrheit durch diese Hallen tönen.' WHERE `entry`=-1000860;
@@ -709,6 +711,7 @@ UPDATE `script_texts` SET `content_loc3`='Ein Verteidiger ist gefallen!' WHERE `
 UPDATE `script_texts` SET `content_loc3`='Für die Horde!' WHERE `entry`=-1000895;
 UPDATE `script_texts` SET `content_loc3`='Verteidigt die Bunker!' WHERE `entry`=-1000896;
 UPDATE `script_texts` SET `content_loc3`='Unsere Gegner werden fallen!' WHERE `entry`=-1000897;
+UPDATE `script_texts` SET `content_loc3`='Gut, hier müssen wir wirklich achtsam sein. Haltet Euch bereit!' WHERE `entry`=-1000949;
 UPDATE `script_texts` SET `content_loc3`='Greift mich an, wenn Ihr wollt, aber Ihr werdet mich nicht davon abhalten, zu Quae zurückzukehren.' WHERE `entry`=-1000950;
 UPDATE `script_texts` SET `content_loc3`='Gebt mir Deckung! Ich schaue mal, was ich zwischen all diesem Gerümpel finden kann...' WHERE `entry`=-1000952;
 UPDATE `script_texts` SET `content_loc3`='%s fängt an, die Habseligkeiten des Apothekers zu durchwühlen.' WHERE `entry`=-1000953;
@@ -885,6 +888,7 @@ UPDATE `script_texts` SET `content_loc3`='Ihr habt Euch den falschen Marschall a
 UPDATE `script_texts` SET `content_loc3`='Ihr haltet mich besser zurück, sonst wird $N schwere Prügel beziehen.' WHERE `entry`=-1230013;
 UPDATE `script_texts` SET `content_loc3`='Dann legen wir mal los. Meine Ausrüstung sollte im Lagerbereich da oben sein...' WHERE `entry`=-1230014;
 UPDATE `script_texts` SET `content_loc3`='Untersucht diese Zelle, $N. Wenn jemand da drin am Leben ist, müssen wir ihn rausholen.' WHERE `entry`=-1230015;
+UPDATE `script_texts` SET `content_loc3`='Gute Arbeit! Wir haben es fast geschafft, $N. Hier geht\'s lang.' WHERE `entry`=-1230016;
 UPDATE `script_texts` SET `content_loc3`='Das ist es, $N. Mein Zeug müsste in dem Raum da sein. Gebt mir Deckung, ich geh rein!' WHERE `entry`=-1230017;
 UPDATE `script_texts` SET `content_loc3`='Ah, da haben wir\'s!' WHERE `entry`=-1230018;
 UPDATE `script_texts` SET `content_loc3`='Spürt Ihr die Energie, $N??? Zeit für ROCK \'N\' ROLL!' WHERE `entry`=-1230019;

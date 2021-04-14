@@ -335,6 +335,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Где сейчас 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Ты ни на что не годишься, Риббли. Пора тебе платить за свою слабость!' WHERE `menu_id`=1970 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Где сейчас дирижабль?' WHERE `menu_id`=1971 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Я бы хотела учиться кулинарии.' WHERE `menu_id`=2021 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Спасибо, Джон-Оборванец. Твоя история была очень интересной и познавательной.' WHERE `menu_id`=2050 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='300? То есть дворфы Черного Железа убили его и утащили в глубины?' WHERE `menu_id`=2052 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='ПОЧЕМУ он в глубинах Черной горы?' WHERE `menu_id`=2053 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Ну и где его демоны носят? Постой-ка! Ты что, $Gпьян:пьяна;?' WHERE `menu_id`=2054 AND `id`=0;
@@ -376,6 +377,9 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Кожевничес
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Горное дело' WHERE `menu_id`=2168 AND `id`=9;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Снятие шкур' WHERE `menu_id`=2168 AND `id`=10;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Портняжное дело' WHERE `menu_id`=2168 AND `id`=11;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Я хочу осмотреть этот пилон.' WHERE `menu_id`=2177 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Я хочу осмотреть этот пилон.' WHERE `menu_id`=2178 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Я хочу осмотреть этот пилон.' WHERE `menu_id`=2179 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Расскажите мне о восточном хрустальном пилоне.' WHERE `menu_id`=2184 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Расскажи мне еще о Северном хрустальном пилоне.' WHERE `menu_id`=2184 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Расскажите мне еще про Западный хрустальный пилон.' WHERE `menu_id`=2184 AND `id`=2;
@@ -1805,6 +1809,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Я хочу прос
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='О чем ты говоришь, маг?' WHERE `menu_id`=8400 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Что заставило вас поступить так ужасно?' WHERE `menu_id`=8401 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Я все равно не понимаю.' WHERE `menu_id`=8402 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Это полная бессмыслица, маг.' WHERE `menu_id`=8403 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Какой посох?' WHERE `menu_id`=8404 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Вы сказали, что вернете его. Что вы имели в виду?' WHERE `menu_id`=8405 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc8`='Что случилось с посохом?' WHERE `menu_id`=8406 AND `id`=0;

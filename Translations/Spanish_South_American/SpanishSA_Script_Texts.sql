@@ -68,6 +68,7 @@ UPDATE `script_texts` SET `content_loc7`='Por favor, dime que no hiciste lo que 
 UPDATE `script_texts` SET `content_loc7`='Como si no tuviéramos bastantes problemas, ¡vas tú y creas más!' WHERE `entry`=-1000200;
 UPDATE `script_texts` SET `content_loc7`='¡Estoy salvado! ¡Gracias, doctor!' WHERE `entry`=-1000201;
 UPDATE `script_texts` SET `content_loc7`='¡HURRA! ¡ME HA SALVADO!' WHERE `entry`=-1000202;
+UPDATE `script_texts` SET `content_loc7`='Dulce, dulce olvido... llévame contigo...' WHERE `entry`=-1000203;
 UPDATE `script_texts` SET `content_loc7`='%s te mira socarronamente. ¿Tal vez deberías examinarlo?' WHERE `entry`=-1000204;
 UPDATE `script_texts` SET `content_loc7`='Corazón Frenético matarte si tú volver. ¡Tú ya no $Gbienvenido:bienvenida; aquí!' WHERE `entry`=-1000208;
 UPDATE `script_texts` SET `content_loc7`='Muy bien, veamos lo que tienes que mostrarme, $N.' WHERE `entry`=-1000209;
@@ -222,6 +223,7 @@ UPDATE `script_texts` SET `content_loc7`='Pido disculpas por tardar tanto en lle
 UPDATE `script_texts` SET `content_loc7`='Solo podemos quedarnos poco tiempo antes de regresar a la torre. Si queréis hablar más con nosotros, podréis encontrarnos aquí.' WHERE `entry`=-1000414;
 UPDATE `script_texts` SET `content_loc7`='%s abandona la persecución, ha recibido demasiado daño.' WHERE `entry`=-1000415;
 UPDATE `script_texts` SET `content_loc7`='No sé hasta dónde llegaré en este estado... me siento muy débil...' WHERE `entry`=-1000416;
+UPDATE `script_texts` SET `content_loc7`='Recuerda, si pierdo el conocimiento otra vez, el agua que te dio Spraggle me hará recuperar el sentido.' WHERE `entry`=-1000417;
 UPDATE `script_texts` SET `content_loc7`='El calor... no puedo soportarlo...' WHERE `entry`=-1000418;
 UPDATE `script_texts` SET `content_loc7`='Quizás... puedas llevarme.' WHERE `entry`=-1000419;
 UPDATE `script_texts` SET `content_loc7`='Uuuuuuggggghhhhh...' WHERE `entry`=-1000420;
@@ -246,6 +248,7 @@ UPDATE `script_texts` SET `content_loc7`='¡Estate alerta! Los fúrbolgs del Bos
 UPDATE `script_texts` SET `content_loc7`='Está tranquilo... demasiado tranquilo...' WHERE `entry`=-1000443;
 UPDATE `script_texts` SET `content_loc7`='Oh, puedo ver a Liladris desde aquí... Dile que estoy aquí, ¿no lo harás?' WHERE `entry`=-1000444;
 UPDATE `script_texts` SET `content_loc7`='¡%s se despierta!' WHERE `entry`=-1000445;
+UPDATE `script_texts` SET `content_loc7`='Memo bueno. Bueno, Memo. Seguir... seguir a Memo. Casa. Memo ir a casa.' WHERE `entry`=-1000446;
 UPDATE `script_texts` SET `content_loc7`='Bueno... bueno, Memo. Memo bueno. Casa. Encontrar casa.' WHERE `entry`=-1000447;
 UPDATE `script_texts` SET `content_loc7`='Peligro. ¡Peligro! $N intentar hacer daño a Memo.' WHERE `entry`=-1000450;
 UPDATE `script_texts` SET `content_loc7`='Malo, $N. ¡$N, malo!' WHERE `entry`=-1000451;
@@ -317,6 +320,7 @@ UPDATE `script_texts` SET `content_loc7`='Como desees, Lord Illidan.' WHERE `ent
 UPDATE `script_texts` SET `content_loc7`='¿Qué clase de persona estúpida osa alzarse ante Illidan Tempestira? ¡Soldados, destruid a estos insectos!' WHERE `entry`=-1000536;
 UPDATE `script_texts` SET `content_loc7`='Corre mientras puedas. Los altos señores vienen pronto...' WHERE `entry`=-1000538;
 UPDATE `script_texts` SET `content_loc7`='Así que has derrotado al Sigilo Carmesí. ¿Y ahora quieres desafiar mi dominio? Ni siquiera Arthas pudo derrotarme y, aun así, ¿osas siquiera albergar tales pensamientos? Entonces, ¡te digo que vengas! ¡Ven, $N! El Templo Oscuro aguarda...' WHERE `entry`=-1000540;
+UPDATE `script_texts` SET `content_loc7`='%s sigue a $n con obediencia.' WHERE `entry`=-1000542;
 UPDATE `script_texts` SET `content_loc7`='¿Por qué has venido aquí? ¡Solo encontrarás dolor! Nuestro destino será el tuyo...' WHERE `entry`=-1000543;
 UPDATE `script_texts` SET `content_loc7`='La oscuridad... la corrupción... vinieron demasiado rápido sin que nadie se diera cuenta...' WHERE `entry`=-1000545;
 UPDATE `script_texts` SET `content_loc7`='La oscuridad consumirá a todos... todos los vivos...' WHERE `entry`=-1000546;
@@ -387,6 +391,7 @@ UPDATE `script_texts` SET `content_loc7`='%s ruge con furia.' WHERE `entry`=-100
 UPDATE `script_texts` SET `content_loc7`='¡Date prisa, $N! ¡Debemos ponernos a cubierto!' WHERE `entry`=-1000682;
 UPDATE `script_texts` SET `content_loc7`='Por favor, valiente, protege a nuestra gente.' WHERE `entry`=-1000683;
 UPDATE `script_texts` SET `content_loc7`='¡Erguíos, sirvientes de la Pesadilla! ¡Erguíos y destruid este mundo!' WHERE `entry`=-1000684;
+UPDATE `script_texts` SET `content_loc7`='¿Dónde está su salvador? ¿Cuánto tiempo podrán resistir mis ataques?' WHERE `entry`=-1000686;
 UPDATE `script_texts` SET `content_loc7`='¿Derrotasteis a mis esbirros? ¡Pues ahora enfrentaos a mí, mortales!' WHERE `entry`=-1000687;
 UPDATE `script_texts` SET `content_loc7`='Remulos, ¿ves cómo caen ante mí? ¡No puedes hacer nada, idiota! Entrégame al druida y todo habrá acabado...' WHERE `entry`=-1000688;
 UPDATE `script_texts` SET `content_loc7`='Elune, escucha mis plegarias. ¡Concédenos sosiego! Vela por nuestros caídos...' WHERE `entry`=-1000689;
@@ -415,6 +420,7 @@ UPDATE `script_texts` SET `content_loc7`='Por favor, sacerdotisa, perdona nuestr
 UPDATE `script_texts` SET `content_loc7`='Solo queremos saber por qué los lechúcicos salvajes guardan esta zona...' WHERE `entry`=-1000720;
 UPDATE `script_texts` SET `content_loc7`='Enu thora\'serador. Este lugar es sagrado.' WHERE `entry`=-1000721;
 UPDATE `script_texts` SET `content_loc7`='Te enseñaremos...' WHERE `entry`=-1000722;
+UPDATE `script_texts` SET `content_loc7`='Mira ahí arriba; thara dormil dorah...' WHERE `entry`=-1000723;
 UPDATE `script_texts` SET `content_loc7`='Antaño esta gema permitía comunicarse directamente con la propia Elune.' WHERE `entry`=-1000724;
 UPDATE `script_texts` SET `content_loc7`='A través de la gema, Elune canalizaba su sabiduría infinita...' WHERE `entry`=-1000725;
 UPDATE `script_texts` SET `content_loc7`='Al comprender que la gema debía ser protegida, recurrimos a la propia diosa.' WHERE `entry`=-1000726;
@@ -504,6 +510,7 @@ UPDATE `script_texts` SET `content_loc7`='Que la Luz sea contigo, señor.' WHERE
 UPDATE `script_texts` SET `content_loc7`='Solo somos suciedad bajo sus pies, señor.' WHERE `entry`=-1000843;
 UPDATE `script_texts` SET `content_loc7`='... coraje de torio.' WHERE `entry`=-1000844;
 UPDATE `script_texts` SET `content_loc7`='¡Haced sitio!' WHERE `entry`=-1000845;
+UPDATE `script_texts` SET `content_loc7`='Una leyenda viviente...' WHERE `entry`=-1000846;
 UPDATE `script_texts` SET `content_loc7`='Un momento que recordaré eternamente.' WHERE `entry`=-1000847;
 UPDATE `script_texts` SET `content_loc7`='Eres una inspiración para todos nosotros, señor.' WHERE `entry`=-1000848;
 UPDATE `script_texts` SET `content_loc7`='Sed valientes, amigos. El reptil se sacudirá violentamente. Es un acto de desesperación. Cuando estéis listos, avisad.' WHERE `entry`=-1000849;
@@ -513,6 +520,7 @@ UPDATE `script_texts` SET `content_loc7`='A la sala asegurada, su majestad.' WHE
 UPDATE `script_texts` SET `content_loc7`='La farsa se ha terminado, Lady Prestor. O... debería llamarte por tu verdadero nombre... Onyxia...' WHERE `entry`=-1000853;
 UPDATE `script_texts` SET `content_loc7`='%s ríe.' WHERE `entry`=-1000854;
 UPDATE `script_texts` SET `content_loc7`='Windsor, serás encarcelado y juzgado por traición. Estaré observando con júbilo mientras pronuncian el veredicto de culpabilidad y dictan tu sentencia de muerte... en la horca.' WHERE `entry`=-1000855;
+UPDATE `script_texts` SET `content_loc7`='Y, cuando tu cadáver lacio y sin vida, cuelgue de las vigas, me complacerá saber que un hombre loco ha sido ejecutado. Después de todo, ¿qué pruebas tienes? ¿Esperabas venir aquí, señalar con el dedo a un miembro de la familia real y salir indemne?' WHERE `entry`=-1000856;
 UPDATE `script_texts` SET `content_loc7`='No escaparás a tu destino, Onyxia. La profecía así lo cuenta... una visión resonando en las grandes salas de Karazhan. Acaba ahora...' WHERE `entry`=-1000857;
 UPDATE `script_texts` SET `content_loc7`='Los Hierro Negro creían que esas tablillas estaban codificadas. Esto no se trata de ningún código, es la lengua antigua de los dragones.' WHERE `entry`=-1000859;
 UPDATE `script_texts` SET `content_loc7`='Escucha, dragón. Que la verdad resuene en estas salas.' WHERE `entry`=-1000860;
@@ -545,6 +553,7 @@ UPDATE `script_texts` SET `content_loc7`='¡Ha caído un defensor!' WHERE `entry
 UPDATE `script_texts` SET `content_loc7`='¡Por la Horda!' WHERE `entry`=-1000895;
 UPDATE `script_texts` SET `content_loc7`='¡Defended los búnkeres!' WHERE `entry`=-1000896;
 UPDATE `script_texts` SET `content_loc7`='¡Nuestros enemigos caerán!' WHERE `entry`=-1000897;
+UPDATE `script_texts` SET `content_loc7`='Bien, aquí es donde debemos estar. ¡Prepárense!' WHERE `entry`=-1000949;
 UPDATE `script_texts` SET `content_loc7`='Atácame si quieres, pero no vas a impedir que regrese con Quae.' WHERE `entry`=-1000950;
 UPDATE `script_texts` SET `content_loc7`='¡Vigilad mi retaguardia! Veré qué puedo encontrar en toda esta basura...' WHERE `entry`=-1000952;
 UPDATE `script_texts` SET `content_loc7`='%s empieza a hurgar en las pertenencias del boticario.' WHERE `entry`=-1000953;
@@ -581,6 +590,7 @@ UPDATE `script_texts` SET `content_loc7`='¡Arrrgh!' WHERE `entry`=-1033016;
 UPDATE `script_texts` SET `content_loc7`='¡Tú también servirás!' WHERE `entry`=-1033017;
 UPDATE `script_texts` SET `content_loc7`='¡Otro que cae!' WHERE `entry`=-1033018;
 UPDATE `script_texts` SET `content_loc7`='¡Libera tu furia!' WHERE `entry`=-1033019;
+UPDATE `script_texts` SET `content_loc7`='¡Oye, tú! Mira a ver de dónde viene ese ruido.' WHERE `entry`=-1036000;
 UPDATE `script_texts` SET `content_loc7`='¡Nos atacan! ¡A sus puestos, escoria! ¡Hay que rechazar al invasor!' WHERE `entry`=-1036001;
 UPDATE `script_texts` SET `content_loc7`='¡Marineros de agua dulce, son más fuertes de lo que pensé! ¡Tendré que improvisar!' WHERE `entry`=-1036002;
 UPDATE `script_texts` SET `content_loc7`='¡Ah! ¡Me están haciendo enojar!' WHERE `entry`=-1036003;
@@ -648,6 +658,7 @@ UPDATE `script_texts` SET `content_loc7`='Las paredes de la cámara se estremece
 UPDATE `script_texts` SET `content_loc7`='Incorpórate, por favor. Sé por qué has venido y sé lo que andas buscando. Eranikus no te dará el fragmento de buen grado. Está corrupto... corrupto por las mismas fuerzas que tú pretendes destruir.' WHERE `entry`=-1109001;
 UPDATE `script_texts` SET `content_loc7`='¿De verdad te sorprende? ¿Es tan difícil de creer que el poder de un dios antiguo pudiera entrar en el Sueño? Pues así es. Eranikus, Tirano del Sueño, está enfrentado con todos nosotros. La Pesadilla continúa con su estela de destrucción.' WHERE `entry`=-1109002;
 UPDATE `script_texts` SET `content_loc7`='Ten presente que lo que Eranikus desea es salir del Sueño para entrar en Azeroth. Cuando lo consiga, no se detendrá ante nada e intentará destruir mi manifestación física. Sin embargo, es el único modo que existe para que puedas recuperar el fragmento de cetro.' WHERE `entry`=-1109003;
+UPDATE `script_texts` SET `content_loc7`='Lo traerás de vuelta a este mundo, valiente.' WHERE `entry`=-1109004;
 UPDATE `script_texts` SET `content_loc7`='¡El escudo está bajo! ¡Levántense Atal\'ai! ¡Levántense!' WHERE `entry`=-1109005;
 UPDATE `script_texts` SET `content_loc7`='¡HAKKAR VIVE!' WHERE `entry`=-1109006;
 UPDATE `script_texts` SET `content_loc7`='¡SABOREO LA SANGRE DE LA VIDA!' WHERE `entry`=-1109007;
@@ -703,6 +714,7 @@ UPDATE `script_texts` SET `content_loc7`='Has encerrado al alguacil equivocado, 
 UPDATE `script_texts` SET `content_loc7`='Será mejor que me detengáis o, de lo contrario, $N va a recibir una paliza memorable.' WHERE `entry`=-1230013;
 UPDATE `script_texts` SET `content_loc7`='Démonos prisa. Mis herramientas deberían estar en el almacén por aquí...' WHERE `entry`=-1230014;
 UPDATE `script_texts` SET `content_loc7`='Comprueba esa celda, $N. Si todavía hay vivos dentro, tendremos que sacarlos de ahí.' WHERE `entry`=-1230015;
+UPDATE `script_texts` SET `content_loc7`='¡Buen trabajo! Estamos a punto de llegar, $N. Por aquí.' WHERE `entry`=-1230016;
 UPDATE `script_texts` SET `content_loc7`='Aquí es, $N. Mis cosas tienen que estar en esa habitación. ¡Cúbreme, voy a entrar!' WHERE `entry`=-1230017;
 UPDATE `script_texts` SET `content_loc7`='Ah, ahí está.' WHERE `entry`=-1230018;
 UPDATE `script_texts` SET `content_loc7`='¿¿¿Sientes el poder, $N??? ¡Es hora de JUGAR!' WHERE `entry`=-1230019;
@@ -757,7 +769,9 @@ UPDATE `script_texts` SET `content_loc7`='Shirvallah, ¡lléname de FURIA!' WHER
 UPDATE `script_texts` SET `content_loc7`='Bethekk, ¡tu sacerdotisa invoca tu poder!' WHERE `entry`=-1309011;
 UPDATE `script_texts` SET `content_loc7`='¡Daos un festín con $N, mis pequeños!' WHERE `entry`=-1309012;
 UPDATE `script_texts` SET `content_loc7`='¡Por fin soy libre del Cazador de Almas!' WHERE `entry`=-1309013;
+UPDATE `script_texts` SET `content_loc7`='¡Hakkar devorará sus almas!' WHERE `entry`=-1309015;
 UPDATE `script_texts` SET `content_loc7`='¡Ding!' WHERE `entry`=-1309016;
+UPDATE `script_texts` SET `content_loc7`='¡Enhorabuena!' WHERE `entry`=-1309017;
 UPDATE `script_texts` SET `content_loc7`='¡$N! ¡Te estoy vigilando!' WHERE `entry`=-1309018;
 UPDATE `script_texts` SET `content_loc7`='¡Huir no os solucionará nada, mortales!' WHERE `entry`=-1309021;
 UPDATE `script_texts` SET `content_loc7`='¿Osas poner pie en este terreno sagrado de Hakkari? Esbirros de Hakkar, ¡destruid a los infieles!' WHERE `entry`=-1309022;
@@ -768,6 +782,7 @@ UPDATE `script_texts` SET `content_loc7`='%s emite un chillido ensordecedor.' WH
 UPDATE `script_texts` SET `content_loc7`='%s empieza a lanzar una Curación superior.' WHERE `entry`=-1309027;
 UPDATE `script_texts` SET `content_loc7`='¡Ha caído uno de los Cristales de Ash\'ari! Manteneos fieles al Rey Exánime, hermanos míos, e intentad invocarlo de nuevo.' WHERE `entry`=-1329004;
 UPDATE `script_texts` SET `content_loc7`='¡Ha sido destruido uno de los Cristales de Ash\'ari! ¡Eliminad a esos intrusos!' WHERE `entry`=-1329005;
+UPDATE `script_texts` SET `content_loc7`='¡Un Cristal de Ash\'ari se ha venido abajo! ¡Restaurad el zigurat antes de que la Necrópolis sea vulnerable!' WHERE `entry`=-1329006;
 UPDATE `script_texts` SET `content_loc7`='¡Han destruido los Cristales de Ash\'ari! ¡El Degolladero es vulnerable!' WHERE `entry`=-1329007;
 UPDATE `script_texts` SET `content_loc7`='¡Intrusos en la Puerta de Servicio! ¡Hay que avisar a Lord Osahendido!' WHERE `entry`=-1329008;
 UPDATE `script_texts` SET `content_loc7`='¿Todavía están aquí? ¡Su insensatez resulta divertida! La chica de El Alba Argenta no tiene por qué sufrir en vano. ¡Marchénse inmediatamente y le perdonaremos la vida!' WHERE `entry`=-1329010;
@@ -778,6 +793,7 @@ UPDATE `script_texts` SET `content_loc7`='Ya es hora de tomar el asunto en mis p
 UPDATE `script_texts` SET `content_loc7`='Lo has conseguido... ¡has dado muerte al Barón Osahendido! ¡El Alba Argenta debe conocer tus heroicas hazañas!' WHERE `entry`=-1329015;
 UPDATE `script_texts` SET `content_loc7`='¡Has deshecho en un solo día lo que me ha costado crear años! ¡Mereces que te mate con mis propias manos!' WHERE `entry`=-1329016;
 UPDATE `script_texts` SET `content_loc7`='Idiotas, ¿pensabais que podríais derrotarme tan fácilmente? ¡Enfrentaos al verdadero poder de Nathrezim!' WHERE `entry`=-1329017;
+UPDATE `script_texts` SET `content_loc7`='¡Malditos sean, mortales! Todos mis planes de venganza, todo mi odio... todo reducido a cenizas...' WHERE `entry`=-1329018;
 UPDATE `script_texts` SET `content_loc7`='¡No os preocupéis por mí! ¡Acabad con estas atroces bestias y liberad al mundo de su inmunda presencia!' WHERE `entry`=-1329019;
 UPDATE `script_texts` SET `content_loc7`='¡Mi muerte no cambia nada... la luz... seguirá... imperando!' WHERE `entry`=-1329020;
 UPDATE `script_texts` SET `content_loc7`='¡Polvo al polvo!' WHERE `entry`=-1409005;
@@ -808,7 +824,10 @@ UPDATE `script_texts` SET `content_loc7`='¿Pícaros? ¡Dejad de esconderos y en
 UPDATE `script_texts` SET `content_loc7`='¡Locos! ¡Esos huevos son más valiosos de lo que creéis!' WHERE `entry`=-1469023;
 UPDATE `script_texts` SET `content_loc7`='¡No, otro no! ¡Rodarán sus cabezas por esta infamia!' WHERE `entry`=-1469024;
 UPDATE `script_texts` SET `content_loc7`='¡Demasiado tarde, amigos! Ahora estoy poseído por la corrupción de Nefarius... No puedo... controlarme.' WHERE `entry`=-1469026;
+UPDATE `script_texts` SET `content_loc7`='Se los ruego, mortales, ¡ESCAPEN! ¡Escapen antes de que pierda todo el control! ¡Las llamaradas negras se extienden en mi corazón! ¡DEBO liberarlas!' WHERE `entry`=-1469027;
+UPDATE `script_texts` SET `content_loc7`='¡FUEGO! ¡MUERTE! ¡DESTRUCCIÓN! Póstrense mortales ante la ira del Señor... ¡NO, TENGO que combatirlo! ¡Alexstrasza ayúdame, tengo que combatirlo!' WHERE `entry`=-1469028;
 UPDATE `script_texts` SET `content_loc7`='¡El odio de Nefarius me ha hecho más fuerte que nunca! ¡Deberían haber escapado mientras podrían, mortales! ¡La furia de Roca Negra corre por mis venas!' WHERE `entry`=-1469029;
+UPDATE `script_texts` SET `content_loc7`='¡Perdóname, $n! ¡Tu muerte se añade a mi fracaso!' WHERE `entry`=-1469030;
 UPDATE `script_texts` SET `content_loc7`='Levántate, dragoncito rojo... ¡Y destrúyelos!' WHERE `entry`=-1469032;
 UPDATE `script_texts` SET `content_loc7`='%s huyen mientras se consume el poder del orbe.' WHERE `entry`=-1469033;
 UPDATE `script_texts` SET `content_loc7`='%s siente tu miedo.' WHERE `entry`=-1509000;
@@ -879,11 +898,13 @@ UPDATE `script_texts` SET `content_loc7`='¡Huye, antes de que sea demasiado tar
 UPDATE `script_texts` SET `content_loc7`='¡Invasores, abandonen su absurdo cometido! ¡Huyen ahora, mientras puedan!' WHERE `entry`=-1533059;
 UPDATE `script_texts` SET `content_loc7`='¡No continúen! ¡Regresen! ¡Regresen mientras puedan!' WHERE `entry`=-1533061;
 UPDATE `script_texts` SET `content_loc7`='¡Perdóname!' WHERE `entry`=-1533063;
+UPDATE `script_texts` SET `content_loc7`='Es... como debería ser.' WHERE `entry`=-1533064;
 UPDATE `script_texts` SET `content_loc7`='¿Buscan la muerte?' WHERE `entry`=-1533065;
 UPDATE `script_texts` SET `content_loc7`='¡Nadie pasará!' WHERE `entry`=-1533066;
 UPDATE `script_texts` SET `content_loc7`='¡Quietos!' WHERE `entry`=-1533067;
 UPDATE `script_texts` SET `content_loc7`='No hallarán sosiego en la muerte.' WHERE `entry`=-1533068;
 UPDATE `script_texts` SET `content_loc7`='Se ha cumplido la voluntad del amo.' WHERE `entry`=-1533069;
+UPDATE `script_texts` SET `content_loc7`='¡Mostrad respeto ante la fuerza del Gran Señor!' WHERE `entry`=-1533070;
 UPDATE `script_texts` SET `content_loc7`='La vida carece de sentido. En la muerte es realmente cuando nos ponen a prueba.' WHERE `entry`=-1533073;
 UPDATE `script_texts` SET `content_loc7`='¡Gloria al amo!' WHERE `entry`=-1533075;
 UPDATE `script_texts` SET `content_loc7`='¡No tienes derecho a vivir!' WHERE `entry`=-1533076;
@@ -892,6 +913,7 @@ UPDATE `script_texts` SET `content_loc7`='¡Levántense, soldados míos! ¡Levá
 UPDATE `script_texts` SET `content_loc7`='¡He cumplido mi cometido!' WHERE `entry`=-1533079;
 UPDATE `script_texts` SET `content_loc7`='¡Muere!' WHERE `entry`=-1533080;
 UPDATE `script_texts` SET `content_loc7`='%s toma aliento...' WHERE `entry`=-1533082;
+UPDATE `script_texts` SET `content_loc7`='¡Sí, amo!' WHERE `entry`=-1533088;
 UPDATE `script_texts` SET `content_loc7`='¡No! ¡Malditos sean, intrusos! Los ejércitos del Rey Exánime les darán caza. No evadirán su destino…' WHERE `entry`=-1533089;
 UPDATE `script_texts` SET `content_loc7`='Me cansé de estos juegos. ¡Avancen, y expulsaré sus almas al olvido eterno!' WHERE `entry`=-1533092;
 UPDATE `script_texts` SET `content_loc7`='No tienen idea de los espantos que acechan. ¡No han visto nada! ¡El corazón gélido de Naxxramas los espera!' WHERE `entry`=-1533093;
