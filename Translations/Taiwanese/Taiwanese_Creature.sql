@@ -1790,7 +1790,7 @@ UPDATE `locales_creature` SET `name_loc5`='拇指蘇克' WHERE `entry`=2537;
 UPDATE `locales_creature` SET `name_loc5`='安伯米爾毒蛇' WHERE `entry`=2540;
 UPDATE `locales_creature` SET `name_loc5`='薩克拉希斯領主' WHERE `entry`=2541;
 UPDATE `locales_creature` SET `name_loc5`='『利刃』凱特琳',`subname_loc5`='黑水強盜' WHERE `entry`=2542;
-UPDATE `locales_creature` SET `name_loc5`='大法師安斯雷姆·織符者',`subname_loc5`='祈倫托' WHERE `entry`=2543;
+UPDATE `locales_creature` SET `name_loc5`='大法師安斯雷姆·織符者' WHERE `entry`=2543;
 UPDATE `locales_creature` SET `name_loc5`='南部沙蟹' WHERE `entry`=2544;
 UPDATE `locales_creature` SET `name_loc5`='『漂亮男孩』鄧肯' WHERE `entry`=2545;
 UPDATE `locales_creature` SET `name_loc5`='艦隊指揮官菲爾拉倫' WHERE `entry`=2546;
