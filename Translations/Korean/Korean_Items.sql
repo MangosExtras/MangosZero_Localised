@@ -1207,7 +1207,6 @@ UPDATE `locales_item` SET `name_loc1`='조리법: 양념 늑대 케밥',`descrip
 UPDATE `locales_item` SET `name_loc1`='라이트포지 주괴' WHERE `entry`=2702;
 UPDATE `locales_item` SET `name_loc1`='라이트포지 주괴가 든 상자' WHERE `entry`=2712;
 UPDATE `locales_item` SET `name_loc1`='큰곰 숯검댕이의 머리' WHERE `entry`=2713;
-UPDATE `locales_item` SET `name_loc1`='몬스터 - Item, Lantern - Round' WHERE `entry`=2715;
 UPDATE `locales_item` SET `name_loc1`='작은 놋쇠 열쇠' WHERE `entry`=2719;
 UPDATE `locales_item` SET `name_loc1`='진흙투성이 쪽지' WHERE `entry`=2720;
 UPDATE `locales_item` SET `name_loc1`='성스러운 쓰개' WHERE `entry`=2721;
@@ -3678,7 +3677,7 @@ UPDATE `locales_item` SET `name_loc1`='드레니시스트 수정' WHERE `entry`=
 UPDATE `locales_item` SET `name_loc1`='칸 젠의 머리띠' WHERE `entry`=6072;
 UPDATE `locales_item` SET `name_loc1`='칸 샤카의 머리띠' WHERE `entry`=6073;
 UPDATE `locales_item` SET `name_loc1`='전쟁 뿔피리 파이프' WHERE `entry`=6074;
-UPDATE `locales_item` SET `name_loc1`='바임스의 보고서',`description_loc1`='모닥불' WHERE `entry`=6075;
+UPDATE `locales_item` SET `name_loc1`='바임스의 보고서' WHERE `entry`=6075;
 UPDATE `locales_item` SET `name_loc1`='녹색 바지' WHERE `entry`=6076;
 UPDATE `locales_item` SET `name_loc1`='마라우돈 열쇠 파편' WHERE `entry`=6077;
 UPDATE `locales_item` SET `name_loc1`='창병 방패' WHERE `entry`=6078;
@@ -5230,7 +5229,7 @@ UPDATE `locales_item` SET `name_loc1`='OOX-17/TN 조난 탐지기' WHERE `entry`
 UPDATE `locales_item` SET `name_loc1`='붉은 불꽃봉' WHERE `entry`=8624;
 UPDATE `locales_item` SET `name_loc1`='백색 불꽃봉' WHERE `entry`=8625;
 UPDATE `locales_item` SET `name_loc1`='푸른 불꽃봉' WHERE `entry`=8626;
-UPDATE `locales_item` SET `name_loc1`='',`description_loc1`='탈것 소환하는 법을 배웁니다.' WHERE `entry`=8628;
+UPDATE `locales_item` SET `description_loc1`='탈것 소환하는 법을 배웁니다.' WHERE `entry`=8628;
 UPDATE `locales_item` SET `name_loc1`='줄무늬밤호랑이 고삐',`description_loc1`='탈것 소환하는 법을 배웁니다.' WHERE `entry`=8629;
 UPDATE `locales_item` SET `name_loc1`='줄무늬눈호랑이 고삐',`description_loc1`='탈것 소환하는 법을 배웁니다.' WHERE `entry`=8631;
 UPDATE `locales_item` SET `name_loc1`='점박이눈호랑이 고삐',`description_loc1`='탈것 소환하는 법을 배웁니다.' WHERE `entry`=8632;
@@ -11783,7 +11782,7 @@ UPDATE `locales_item` SET `name_loc1`='알터랙 샘물',`description_loc1`='알
 UPDATE `locales_item` SET `name_loc1`='하피 가죽 화살통' WHERE `entry`=19319;
 UPDATE `locales_item` SET `name_loc1`='놀 가죽 탄띠' WHERE `entry`=19320;
 UPDATE `locales_item` SET `name_loc1`='불굴의 방패' WHERE `entry`=19321;
-UPDATE `locales_item` SET `name_loc1`='',`description_loc1`='전쟁노래 협곡 전투를 승리로 이끌어 이를 수여함' WHERE `entry`=19322;
+UPDATE `locales_item` SET `description_loc1`='전쟁노래 협곡 전투를 승리로 이끌어 이를 수여함' WHERE `entry`=19322;
 UPDATE `locales_item` SET `name_loc1`='단호의 철퇴' WHERE `entry`=19323;
 UPDATE `locales_item` SET `name_loc1`='절개의 단검' WHERE `entry`=19324;
 UPDATE `locales_item` SET `name_loc1`='돈 훌리오의 고리' WHERE `entry`=19325;
@@ -14023,7 +14022,7 @@ UPDATE `locales_item` SET `name_loc1`='크툰의 문장' WHERE `entry`=22732;
 UPDATE `locales_item` SET `name_loc1`='아티쉬의 지팡이 머리' WHERE `entry`=22733;
 UPDATE `locales_item` SET `name_loc1`='아티쉬의 밑동' WHERE `entry`=22734;
 UPDATE `locales_item` SET `name_loc1`='안도니수스 - 영혼 절단기' WHERE `entry`=22736;
-UPDATE `locales_item` SET `name_loc1`='아티쉬 - 수호자의 지팡이',`description_loc1`='모닥불' WHERE `entry`=22737;
+UPDATE `locales_item` SET `name_loc1`='아티쉬 - 수호자의 지팡이' WHERE `entry`=22737;
 UPDATE `locales_item` SET `name_loc1`='마법서: 변이 - 거북이',`description_loc1`='변이: 거북이 주문을 배웁니다.' WHERE `entry`=22739;
 UPDATE `locales_item` SET `name_loc1`='수색병의 가죽 바지' WHERE `entry`=22740;
 UPDATE `locales_item` SET `name_loc1`='수색병의 도마뱀가죽 바지' WHERE `entry`=22741;
@@ -14380,8 +14379,8 @@ UPDATE `locales_item` SET `name_loc1`='십자군 사령관의 다리보호구' W
 UPDATE `locales_item` SET `name_loc1`='서적: 흉포한 이빨 V',`description_loc1`='풍파에 손상된 듯합니다. 내용을 읽을 수 없습니다.' WHERE `entry`=24101;
 UPDATE `locales_item` SET `name_loc1`='안내서: 절개 IX',`description_loc1`='풍파에 손상된 듯합니다. 내용을 읽을 수 없습니다.' WHERE `entry`=24102;
 UPDATE `locales_item` SET `name_loc1`='어둠자락 단도' WHERE `entry`=24222;
-UPDATE `locales_item` SET `name_loc1`='싸구려 코담배',`description_loc1`='모닥불' WHERE `entry`=24231;
-UPDATE `locales_item` SET `name_loc1`='닳아해진 매듭',`description_loc1`='모닥불' WHERE `entry`=24232;
+UPDATE `locales_item` SET `name_loc1`='싸구려 코담배' WHERE `entry`=24231;
+UPDATE `locales_item` SET `name_loc1`='닳아해진 매듭' WHERE `entry`=24232;
 UPDATE `locales_item` SET `name_loc1`='조각된 상아색 뼈',`description_loc1`='조각이 미처 완성되지 못한 것 같습니다.' WHERE `entry`=24281;
 UPDATE `locales_item` SET `name_loc1`='도적의 일기',`description_loc1`='아무런 내용도 적혀 있지 않습니다.' WHERE `entry`=24282;
 UPDATE `locales_item` SET `name_loc1`='골동품 총',`description_loc1`='총신에 \'레지터\'라는 이름이 새겨져 있습니다.' WHERE `entry`=24283;

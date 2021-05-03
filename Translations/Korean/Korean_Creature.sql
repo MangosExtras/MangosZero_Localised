@@ -1790,7 +1790,7 @@ UPDATE `locales_creature` SET `name_loc1`='"왕손가락" 처키' WHERE `entry`=
 UPDATE `locales_creature` SET `name_loc1`='호박색 농장 독사' WHERE `entry`=2540;
 UPDATE `locales_creature` SET `name_loc1`='군주 사크라시스' WHERE `entry`=2541;
 UPDATE `locales_creature` SET `name_loc1`='검술의달인 케이틀린',`subname_loc1`='검은바다 해적단' WHERE `entry`=2542;
-UPDATE `locales_creature` SET `name_loc1`='대마법사 앤자이럼 룬위버',`subname_loc1`='키린 토' WHERE `entry`=2543;
+UPDATE `locales_creature` SET `name_loc1`='대마법사 앤자이럼 룬위버' WHERE `entry`=2543;
 UPDATE `locales_creature` SET `name_loc1`='남쪽바다 모래게' WHERE `entry`=2544;
 UPDATE `locales_creature` SET `name_loc1`='"꽃미남" 던컨' WHERE `entry`=2545;
 UPDATE `locales_creature` SET `name_loc1`='함장 피랠론' WHERE `entry`=2546;
