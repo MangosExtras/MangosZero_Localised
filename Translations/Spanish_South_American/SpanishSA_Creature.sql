@@ -99,7 +99,6 @@ UPDATE `locales_creature` SET `name_loc7`='Posadero Hann',`subname_loc7`='Camare
 UPDATE `locales_creature` SET `subname_loc7`='Entendido en vino dulce' WHERE `entry`=277;
 UPDATE `locales_creature` SET `name_loc7`='Morgan Mortero' WHERE `entry`=279;
 UPDATE `locales_creature` SET `name_loc7`='Caballo marrón' WHERE `entry`=284;
-UPDATE `locales_creature` SET `name_loc7`='Múrloc' WHERE `entry`=285;
 UPDATE `locales_creature` SET `name_loc7`='Alterio' WHERE `entry`=288;
 UPDATE `locales_creature` SET `subname_loc7`='El Ermitaño' WHERE `entry`=289;
 UPDATE `locales_creature` SET `name_loc7`='Mariscal Haggard' WHERE `entry`=294;
@@ -168,7 +167,6 @@ UPDATE `locales_creature` SET `name_loc7`='Taumaturgo umbrío Roca Negra' WHERE 
 UPDATE `locales_creature` SET `name_loc7`='Renegado Roca Negra' WHERE `entry`=437;
 UPDATE `locales_creature` SET `name_loc7`='Bruto Roca Negra' WHERE `entry`=440;
 UPDATE `locales_creature` SET `name_loc7`='Cría de dragón Negro' WHERE `entry`=441;
-UPDATE `locales_creature` SET `name_loc7`='Tarántula' WHERE `entry`=442;
 UPDATE `locales_creature` SET `name_loc7`='Alfa de Crestagrana' WHERE `entry`=445;
 UPDATE `locales_creature` SET `name_loc7`='Partecaras de Crestagrana' WHERE `entry`=446;
 UPDATE `locales_creature` SET `name_loc7`='Nudillos Defias' WHERE `entry`=449;
@@ -697,7 +695,7 @@ UPDATE `locales_creature` SET `name_loc7`='Camorrista' WHERE `entry`=1207;
 UPDATE `locales_creature` SET `name_loc7`='Gnomo paria' WHERE `entry`=1211;
 UPDATE `locales_creature` SET `name_loc7`='Obispo Lontananza' WHERE `entry`=1212;
 UPDATE `locales_creature` SET `subname_loc7`='Fabricante de armaduras y escudos' WHERE `entry`=1213;
-UPDATE `locales_creature` SET `name_loc7`='Aldren Cordón',`subname_loc7`='Sastre' WHERE `entry`=1214;
+UPDATE `locales_creature` SET `subname_loc7`='Sastre' WHERE `entry`=1214;
 UPDATE `locales_creature` SET `name_loc7`='Alquimista Mallory',`subname_loc7`='Instructor de alquimia' WHERE `entry`=1215;
 UPDATE `locales_creature` SET `name_loc7`='Reptador de costas' WHERE `entry`=1216;
 UPDATE `locales_creature` SET `name_loc7`='Glorin Frenteacerada' WHERE `entry`=1217;
@@ -1421,7 +1419,6 @@ UPDATE `locales_creature` SET `subname_loc7`='Maestra de batalla de la Garganta 
 UPDATE `locales_creature` SET `name_loc7`='Lyranne Melopluma',`subname_loc7`='Alimentos y bebidas' WHERE `entry`=2303;
 UPDATE `locales_creature` SET `name_loc7`='Capitán Ferrocolina' WHERE `entry`=2304;
 UPDATE `locales_creature` SET `name_loc7`='Supervisor Bonds' WHERE `entry`=2305;
-UPDATE `locales_creature` SET `name_loc7`='Barón Vardus' WHERE `entry`=2306;
 UPDATE `locales_creature` SET `name_loc7`='Custodio Caice' WHERE `entry`=2307;
 UPDATE `locales_creature` SET `name_loc7`='Sahvan Sombrasangre' WHERE `entry`=2314;
 UPDATE `locales_creature` SET `name_loc7`='[DEPRECATED]Gol\'dir' WHERE `entry`=2316;
@@ -1559,7 +1556,6 @@ UPDATE `locales_creature` SET `name_loc7`='Whiskey el Delgado',`subname_loc7`='A
 UPDATE `locales_creature` SET `subname_loc7`='Instructora de portal' WHERE `entry`=2492;
 UPDATE `locales_creature` SET `name_loc7`='Dizzy el Tuerto',`subname_loc7`='Asaltantes Aguasnegras' WHERE `entry`=2493;
 UPDATE `locales_creature` SET `name_loc7`='Corsario Bloads' WHERE `entry`=2494;
-UPDATE `locales_creature` SET `name_loc7`='Barón Revilgaz' WHERE `entry`=2496;
 UPDATE `locales_creature` SET `name_loc7`='Loquillo Pinchabujas' WHERE `entry`=2498;
 UPDATE `locales_creature` SET `name_loc7`='Capitán Hecklebury Smotts' WHERE `entry`=2500;
 UPDATE `locales_creature` SET `name_loc7`='MacKinley "Lobo de Mar"' WHERE `entry`=2501;
@@ -2410,7 +2406,7 @@ UPDATE `locales_creature` SET `subname_loc7`='Aprendiz peletero' WHERE `entry`=3
 UPDATE `locales_creature` SET `subname_loc7`='Suministros de pesca' WHERE `entry`=3550;
 UPDATE `locales_creature` SET `subname_loc7`='Suministros de venenos' WHERE `entry`=3551;
 UPDATE `locales_creature` SET `subname_loc7`='Mercader de armaduras de cuero' WHERE `entry`=3552;
-UPDATE `locales_creature` SET `name_loc7`='Sebastián Meloche',`subname_loc7`='Armero' WHERE `entry`=3553;
+UPDATE `locales_creature` SET `subname_loc7`='Armero' WHERE `entry`=3553;
 UPDATE `locales_creature` SET `subname_loc7`='Sastre' WHERE `entry`=3554;
 UPDATE `locales_creature` SET `subname_loc7`='Instructor de minería' WHERE `entry`=3555;
 UPDATE `locales_creature` SET `subname_loc7`='Suministros comerciales' WHERE `entry`=3556;
@@ -5254,7 +5250,6 @@ UPDATE `locales_creature` SET `name_loc7`='Embajador Latifuego' WHERE `entry`=91
 UPDATE `locales_creature` SET `name_loc7`='Peste Sangrepétalo' WHERE `entry`=9157;
 UPDATE `locales_creature` SET `name_loc7`='Caballo de guerra' WHERE `entry`=9158;
 UPDATE `locales_creature` SET `name_loc7`='Diemetradón joven' WHERE `entry`=9162;
-UPDATE `locales_creature` SET `name_loc7`='Diemetradón' WHERE `entry`=9163;
 UPDATE `locales_creature` SET `name_loc7`='Diemetradón viejo' WHERE `entry`=9164;
 UPDATE `locales_creature` SET `name_loc7`='Pterrordáctilo volantón' WHERE `entry`=9165;
 UPDATE `locales_creature` SET `name_loc7`='Pterrordáctilo' WHERE `entry`=9166;
@@ -5781,7 +5776,6 @@ UPDATE `locales_creature` SET `name_loc7`='Hitah\'ya la Guardiana' WHERE `entry`
 UPDATE `locales_creature` SET `name_loc7`='Fusilero Ruedas' WHERE `entry`=10803;
 UPDATE `locales_creature` SET `name_loc7`='Fusilero de mediocampo' WHERE `entry`=10804;
 UPDATE `locales_creature` SET `name_loc7`='Avistador Klemmy' WHERE `entry`=10805;
-UPDATE `locales_creature` SET `name_loc7`='Brumerán' WHERE `entry`=10807;
 UPDATE `locales_creature` SET `name_loc7`='Timmy el Cruel' WHERE `entry`=10808;
 UPDATE `locales_creature` SET `name_loc7`='Pidrespina' WHERE `entry`=10809;
 UPDATE `locales_creature` SET `name_loc7`='Instructor Galford' WHERE `entry`=10811;
@@ -6361,7 +6355,6 @@ UPDATE `locales_creature` SET `name_loc7`='Defensor Pico Tormenta' WHERE `entry`
 UPDATE `locales_creature` SET `name_loc7`='Legionario Lobo Gélido' WHERE `entry`=12051;
 UPDATE `locales_creature` SET `name_loc7`='Guerrero Lobo Gélido' WHERE `entry`=12052;
 UPDATE `locales_creature` SET `name_loc7`='Guardián Lobo Gélido' WHERE `entry`=12053;
-UPDATE `locales_creature` SET `name_loc7`='Barón Geddon' WHERE `entry`=12056;
 UPDATE `locales_creature` SET `name_loc7`='Elemental de lava' WHERE `entry`=12076;
 UPDATE `locales_creature` SET `name_loc7`='Intendente Pico Tormenta' WHERE `entry`=12096;
 UPDATE `locales_creature` SET `name_loc7`='Intendente Lobo Gélido' WHERE `entry`=12097;
@@ -6614,7 +6607,6 @@ UPDATE `locales_creature` SET `name_loc7`='Corredor Grito de Guerra' WHERE `entr
 UPDATE `locales_creature` SET `name_loc7`='Escolta Grito de Guerra' WHERE `entry`=12864;
 UPDATE `locales_creature` SET `name_loc7`='Embajador Malcin' WHERE `entry`=12865;
 UPDATE `locales_creature` SET `name_loc7`='Myriam Lunacanta' WHERE `entry`=12866;
-UPDATE `locales_creature` SET `name_loc7`='Barón Aquanis' WHERE `entry`=12876;
 UPDATE `locales_creature` SET `name_loc7`='Ertog Colmillorrabioso' WHERE `entry`=12877;
 UPDATE `locales_creature` SET `name_loc7`='Centinela Ala de Plata' WHERE `entry`=12896;
 UPDATE `locales_creature` SET `name_loc7`='Guerrera Ala de Plata' WHERE `entry`=12897;
@@ -6979,7 +6971,6 @@ UPDATE `locales_creature` SET `name_loc7`='Clamatierras Franzahl' WHERE `entry`=
 UPDATE `locales_creature` SET `name_loc7`='Hidrizo' WHERE `entry`=14350;
 UPDATE `locales_creature` SET `name_loc7`='Arbusloco Gordok' WHERE `entry`=14351;
 UPDATE `locales_creature` SET `name_loc7`='Mizzle el Astuto' WHERE `entry`=14353;
-UPDATE `locales_creature` SET `name_loc7`='Pusillín' WHERE `entry`=14354;
 UPDATE `locales_creature` SET `name_loc7`='Furia sierraleta' WHERE `entry`=14356;
 UPDATE `locales_creature` SET `name_loc7`='Trillador del Lago' WHERE `entry`=14357;
 UPDATE `locales_creature` SET `name_loc7`='Ancestro Shen\'dralar' WHERE `entry`=14358;
@@ -7060,7 +7051,6 @@ UPDATE `locales_creature` SET `name_loc7`='Princesa Tempestria' WHERE `entry`=14
 UPDATE `locales_creature` SET `name_loc7`='Invasor acuático' WHERE `entry`=14458;
 UPDATE `locales_creature` SET `name_loc7`='Tropas de Nefarian' WHERE `entry`=14459;
 UPDATE `locales_creature` SET `name_loc7`='Invasor llameante' WHERE `entry`=14460;
-UPDATE `locales_creature` SET `name_loc7`='Barón Charr' WHERE `entry`=14461;
 UPDATE `locales_creature` SET `name_loc7`='Invasor tronador' WHERE `entry`=14462;
 UPDATE `locales_creature` SET `name_loc7`='Daio el Decrépito' WHERE `entry`=14463;
 UPDATE `locales_creature` SET `name_loc7`='Confalón de batalla de la Alianza' WHERE `entry`=14465;
@@ -7277,7 +7267,6 @@ UPDATE `locales_creature` SET `name_loc7`='Serpiente parasitaria' WHERE `entry`=
 UPDATE `locales_creature` SET `name_loc7`='Colmillos' WHERE `entry`=14892;
 UPDATE `locales_creature` SET `name_loc7`='Guardia Kurall' WHERE `entry`=14893;
 UPDATE `locales_creature` SET `name_loc7`='Enjambre de abejas' WHERE `entry`=14894;
-UPDATE `locales_creature` SET `name_loc7`='Peón' WHERE `entry`=14901;
 UPDATE `locales_creature` SET `name_loc7`='Jin\'rokh el Rompedor' WHERE `entry`=14902;
 UPDATE `locales_creature` SET `name_loc7`='Al\'tabim, El que todo lo ve' WHERE `entry`=14903;
 UPDATE `locales_creature` SET `name_loc7`='Maywiki de Zuldazar' WHERE `entry`=14904;
@@ -7421,7 +7410,7 @@ UPDATE `locales_creature` SET `name_loc7`='Flamatracador Crepuscular' WHERE `ent
 UPDATE `locales_creature` SET `name_loc7`='Vyral el Vil',`subname_loc7`='Martillo Crepuscular' WHERE `entry`=15202;
 UPDATE `locales_creature` SET `name_loc7`='Príncipe Skaldrenox',`subname_loc7`='Alto Consejo Abisal' WHERE `entry`=15203;
 UPDATE `locales_creature` SET `name_loc7`='Alto mariscal Eje Torbellino',`subname_loc7`='Alto Consejo Abisal' WHERE `entry`=15204;
-UPDATE `locales_creature` SET `name_loc7`='Barón Kazum',`subname_loc7`='Alto Consejo Abisal' WHERE `entry`=15205;
+UPDATE `locales_creature` SET `subname_loc7`='Alto Consejo Abisal' WHERE `entry`=15205;
 UPDATE `locales_creature` SET `name_loc7`='Duque de las Brasas',`subname_loc7`='Consejo Abisal' WHERE `entry`=15206;
 UPDATE `locales_creature` SET `name_loc7`='Duque de las Profundidades',`subname_loc7`='Consejo Abisal' WHERE `entry`=15207;
 UPDATE `locales_creature` SET `name_loc7`='Duque de las Esquirlas',`subname_loc7`='Consejo Abisal' WHERE `entry`=15208;
@@ -8106,7 +8095,6 @@ UPDATE `locales_creature` SET `name_loc7`='Guardia de élite de Ventormenta' WHE
 UPDATE `locales_creature` SET `name_loc7`='Apoderado de la Necrópolis' WHERE `entry`=16398;
 UPDATE `locales_creature` SET `name_loc7`='Traidor Velasangre' WHERE `entry`=16399;
 UPDATE `locales_creature` SET `name_loc7`='Túnel tóxico' WHERE `entry`=16400;
-UPDATE `locales_creature` SET `name_loc7`='Necrópolis' WHERE `entry`=16401;
 UPDATE `locales_creature` SET `name_loc7`='Bronn Desgarradar' WHERE `entry`=16416;
 UPDATE `locales_creature` SET `name_loc7`='Rumsen Esfomolecho' WHERE `entry`=16417;
 UPDATE `locales_creature` SET `name_loc7`='Mupsi Fricadena' WHERE `entry`=16418;
