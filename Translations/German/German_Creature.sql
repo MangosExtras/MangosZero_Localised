@@ -3369,7 +3369,6 @@ UPDATE `locales_creature` SET `subname_loc3`='Rüstungsschmied' WHERE `entry`=48
 UPDATE `locales_creature` SET `subname_loc3`='Waffenschmiedin' WHERE `entry`=4884;
 UPDATE `locales_creature` SET `subname_loc3`='Pferdezüchterin' WHERE `entry`=4885;
 UPDATE `locales_creature` SET `subname_loc3`='Rüstungs- & Schildschmied' WHERE `entry`=4886;
-UPDATE `locales_creature` SET `name_loc3`='Ghamoo-Ra' WHERE `entry`=4887;
 UPDATE `locales_creature` SET `name_loc3`='Marie Haltsten',`subname_loc3`='Waffenschmiedin' WHERE `entry`=4888;
 UPDATE `locales_creature` SET `name_loc3`='Torq Sprengeisen',`subname_loc3`='Büchsenmacherin' WHERE `entry`=4889;
 UPDATE `locales_creature` SET `subname_loc3`='Waffen- & Rüstungsschmied' WHERE `entry`=4890;
