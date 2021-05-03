@@ -3679,7 +3679,7 @@ UPDATE `locales_item` SET `name_loc8`='Кристалл дренетиста' WH
 UPDATE `locales_item` SET `name_loc8`='Голова вождя Джена' WHERE `entry`=6072;
 UPDATE `locales_item` SET `name_loc8`='Голова вождя Шака' WHERE `entry`=6073;
 UPDATE `locales_item` SET `name_loc8`='Загубник боевого горна' WHERE `entry`=6074;
-UPDATE `locales_item` SET `name_loc8`='Доклад Вимеса',`description_loc8`='Костер' WHERE `entry`=6075;
+UPDATE `locales_item` SET `name_loc8`='Доклад Вимеса' WHERE `entry`=6075;
 UPDATE `locales_item` SET `name_loc8`='Зауженные штаны' WHERE `entry`=6076;
 UPDATE `locales_item` SET `name_loc8`='Фрагмент ключа Мародина' WHERE `entry`=6077;
 UPDATE `locales_item` SET `name_loc8`='Щит копейщика' WHERE `entry`=6078;
@@ -14034,7 +14034,7 @@ UPDATE `locales_item` SET `name_loc8`='Знак К\'Туна' WHERE `entry`=2273
 UPDATE `locales_item` SET `name_loc8`='Навершие посоха Атиеша' WHERE `entry`=22733;
 UPDATE `locales_item` SET `name_loc8`='Основание Атиеша' WHERE `entry`=22734;
 UPDATE `locales_item` SET `name_loc8`='Адонис, Жнец душ',`description_loc8`='Это пространственный клинок. Иногда он выпадает с этого уровня реальности.' WHERE `entry`=22736;
-UPDATE `locales_item` SET `name_loc8`='Атиеш, большой посох Стража',`description_loc8`='Костер' WHERE `entry`=22737;
+UPDATE `locales_item` SET `name_loc8`='Атиеш, большой посох Стража' WHERE `entry`=22737;
 UPDATE `locales_item` SET `name_loc8`='Фолиант Превращения: черепаха',`description_loc8`='Обучает заклинанию "Превращение в черепаху".' WHERE `entry`=22739;
 UPDATE `locales_item` SET `name_loc8`='Кожаные штаны всадника' WHERE `entry`=22740;
 UPDATE `locales_item` SET `name_loc8`='Штаны всадника из шкуры ящерицы' WHERE `entry`=22741;
@@ -14393,8 +14393,8 @@ UPDATE `locales_item` SET `name_loc8`='Поножи верховного рыц�
 UPDATE `locales_item` SET `name_loc8`='Книга Свирепого укуса V',`description_loc8`='Обучает заклинанию "Свирепый укус" (уровень 5).' WHERE `entry`=24101;
 UPDATE `locales_item` SET `name_loc8`='Учебник Потрошения IX',`description_loc8`='Обучает способности "Потрошение" (уровень 9).' WHERE `entry`=24102;
 UPDATE `locales_item` SET `name_loc8`='Протыкатель Тенеследа' WHERE `entry`=24222;
-UPDATE `locales_item` SET `name_loc8`='Грубый порошок',`description_loc8`='Костер' WHERE `entry`=24231;
-UPDATE `locales_item` SET `name_loc8`='Потертый узелок',`description_loc8`='Костер' WHERE `entry`=24232;
+UPDATE `locales_item` SET `name_loc8`='Грубый порошок' WHERE `entry`=24231;
+UPDATE `locales_item` SET `name_loc8`='Потертый узелок' WHERE `entry`=24232;
 UPDATE `locales_item` SET `name_loc8`='Резная слоновая кость',`description_loc8`='Кажется, резной узор не имеет конца.' WHERE `entry`=24281;
 UPDATE `locales_item` SET `name_loc8`='Дневник разбойника',`description_loc8`='Страницы пусты.' WHERE `entry`=24282;
 UPDATE `locales_item` SET `name_loc8`='Старинное ружье',`description_loc8`='На стволе выгравировано имя "Ласитор"' WHERE `entry`=24283;

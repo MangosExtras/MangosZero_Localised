@@ -1792,7 +1792,7 @@ UPDATE `locales_creature` SET `name_loc8`='Чаки "Недотепа"' WHERE `e
 UPDATE `locales_creature` SET `name_loc8`='Даларанский змей' WHERE `entry`=2540;
 UPDATE `locales_creature` SET `name_loc8`='Лорд Сакрасис' WHERE `entry`=2541;
 UPDATE `locales_creature` SET `name_loc8`='Кателина Клинок',`subname_loc8`='Пираты Черноводья' WHERE `entry`=2542;
-UPDATE `locales_creature` SET `name_loc8`='Верховный маг Ансарем Руноплет',`subname_loc8`='Кирин-Тор' WHERE `entry`=2543;
+UPDATE `locales_creature` SET `name_loc8`='Верховный маг Ансарем Руноплет' WHERE `entry`=2543;
 UPDATE `locales_creature` SET `name_loc8`='Южный песчаный краб' WHERE `entry`=2544;
 UPDATE `locales_creature` SET `name_loc8`='"Красавчик" Дункан' WHERE `entry`=2545;
 UPDATE `locales_creature` SET `name_loc8`='Командир флота Фираллон' WHERE `entry`=2546;
