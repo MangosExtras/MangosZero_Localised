@@ -2,13 +2,10 @@
 SET NAMES 'utf8';
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to cook Westfall Stew.' WHERE `word_id`=8869; -- locales_item - description : entry=728
 UPDATE `trans_words` SET `content_loc9`='Also serves as a mining pick.' WHERE `word_id`=8891; -- locales_item - description : entry=756
-UPDATE `trans_words` SET `content_loc9`='Malachite' WHERE `word_id`=8902; -- locales_item - name : entry=774
 UPDATE `trans_words` SET `content_loc9`='Also serves as a mining pick.' WHERE `word_id`=8891; -- locales_item - description : entry=778
-UPDATE `trans_words` SET `content_loc9`='A Dusty Unsent Letter' WHERE `word_id`=8983; -- locales_item - name : entry=889
 UPDATE `trans_words` SET `content_loc9`='This dusty letter from long ago was never sent.' WHERE `word_id`=8984; -- locales_item - description : entry=889
 UPDATE `trans_words` SET `content_loc9`='Weathered and old, this letter was never delivered.' WHERE `word_id`=8993; -- locales_item - description : entry=910
 UPDATE `trans_words` SET `content_loc9`='Only the bottom half of this journal page remains.' WHERE `word_id`=8998; -- locales_item - description : entry=916
-UPDATE `trans_words` SET `content_loc9`='A Faded Journal Page' WHERE `word_id`=9001; -- locales_item - name : entry=921
 UPDATE `trans_words` SET `content_loc9`='Although most of the text is long faded, some words can still be read.' WHERE `word_id`=9002; -- locales_item - description : entry=921
 UPDATE `trans_words` SET `content_loc9`='Although the pages are covered in mud, some words can be read.' WHERE `word_id`=9018; -- locales_item - description : entry=938
 UPDATE `trans_words` SET `content_loc9`='Through thick blood a few words still remain legible.' WHERE `word_id`=9020; -- locales_item - description : entry=939
@@ -16,7 +13,6 @@ UPDATE `trans_words` SET `content_loc9`='There is a note attached.' WHERE `word_
 UPDATE `trans_words` SET `content_loc9`='Princess - First Prize' WHERE `word_id`=9034; -- locales_item - description : entry=1006
 UPDATE `trans_words` SET `content_loc9`='Red Linen Bandana' WHERE `word_id`=9042; -- locales_item - name : entry=1019
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=1132
-UPDATE `trans_words` SET `content_loc9`='A Gold Tooth' WHERE `word_id`=9074; -- locales_item - name : entry=1175
 UPDATE `trans_words` SET `content_loc9`='Scroll of Spirit' WHERE `word_id`=9079; -- locales_item - name : entry=1181
 UPDATE `trans_words` SET `content_loc9`='Lesser Firestone' WHERE `word_id`=9113; -- locales_item - name : entry=1254
 UPDATE `trans_words` SET `content_loc9`='There\'s a note attached to this crate.' WHERE `word_id`=9131; -- locales_item - description : entry=1284
@@ -31,7 +27,6 @@ UPDATE `trans_words` SET `content_loc9`='This torn piece of parchment contains s
 UPDATE `trans_words` SET `content_loc9`='This torn piece of parchment contains scribbled writing.' WHERE `word_id`=9169; -- locales_item - description : entry=1362
 UPDATE `trans_words` SET `content_loc9`='This soot-covered note contains some cryptic text.' WHERE `word_id`=9187; -- locales_item - description : entry=1381
 UPDATE `trans_words` SET `content_loc9`='Green Tea Leaf' WHERE `word_id`=9200; -- locales_item - name : entry=1401
-UPDATE `trans_words` SET `content_loc9`='Shadowfang' WHERE `word_id`=9261; -- locales_item - name : entry=1482
 UPDATE `trans_words` SET `content_loc9`='Scroll of Spirit II' WHERE `word_id`=9345; -- locales_item - name : entry=1712
 UPDATE `trans_words` SET `content_loc9`='Also serves as a mining pick.' WHERE `word_id`=8891; -- locales_item - description : entry=1819
 UPDATE `trans_words` SET `content_loc9`='Foreman Thistlenettle - Member of the Explorers\' League' WHERE `word_id`=9468; -- locales_item - description : entry=1875
@@ -42,16 +37,11 @@ UPDATE `trans_words` SET `content_loc9`='Also serves as a mining pick.' WHERE `w
 UPDATE `trans_words` SET `content_loc9`='Glowing Shadowhide Pendant' WHERE `word_id`=9502; -- locales_item - name : entry=1962
 UPDATE `trans_words` SET `content_loc9`='This pendant glows with magic.' WHERE `word_id`=9503; -- locales_item - description : entry=1962
 UPDATE `trans_words` SET `content_loc9`='An improved pot, with extra whistles and choppers.' WHERE `word_id`=9520; -- locales_item - description : entry=1987
-UPDATE `trans_words` SET `content_loc9`='Archeus' WHERE `word_id`=9530; -- locales_item - name : entry=2000
 UPDATE `trans_words` SET `content_loc9`='Morgan Ladimore\'s sword.' WHERE `word_id`=9531; -- locales_item - description : entry=2000
 UPDATE `trans_words` SET `content_loc9`='Priest\'s Mace' WHERE `word_id`=9585; -- locales_item - name : entry=2075
 UPDATE `trans_words` SET `content_loc9`='Sarah Ladimore\'s ring.' WHERE `word_id`=9650; -- locales_item - description : entry=2162
 UPDATE `trans_words` SET `content_loc9`='Foreman\'s Boots' WHERE `word_id`=9656; -- locales_item - name : entry=2168
-UPDATE `trans_words` SET `content_loc9`='Monster - Staff, Ornate Priest Staff' WHERE `word_id`=24123; -- locales_item - name : entry=2176
-UPDATE `trans_words` SET `content_loc9`='Monster - Staff, Ornate Mage Staff' WHERE `word_id`=24122; -- locales_item - name : entry=2177
 UPDATE `trans_words` SET `content_loc9`='Outfitter Belt' WHERE `word_id`=9661; -- locales_item - name : entry=2186
-UPDATE `trans_words` SET `content_loc9`='Jambiya' WHERE `word_id`=9669; -- locales_item - name : entry=2207
-UPDATE `trans_words` SET `content_loc9`='Kris' WHERE `word_id`=9671; -- locales_item - name : entry=2209
 UPDATE `trans_words` SET `content_loc9`='Engraved with the words \'For years of service: -EVC.\'' WHERE `word_id`=9700; -- locales_item - description : entry=2239
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Fine Leather Boots.' WHERE `word_id`=9808; -- locales_item - description : entry=2406
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft a White Leather Jerkin.' WHERE `word_id`=9810; -- locales_item - description : entry=2407
@@ -59,10 +49,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Fine Leather G
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft a Dark Leather Tunic.' WHERE `word_id`=9814; -- locales_item - description : entry=2409
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=2411
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=2414
-UPDATE `trans_words` SET `content_loc9`='Gladius' WHERE `word_id`=9873; -- locales_item - name : entry=2488
-UPDATE `trans_words` SET `content_loc9`='Tomahawk' WHERE `word_id`=9875; -- locales_item - name : entry=2490
-UPDATE `trans_words` SET `content_loc9`='Stiletto' WHERE `word_id`=9879; -- locales_item - name : entry=2494
-UPDATE `trans_words` SET `content_loc9`='Francisca' WHERE `word_id`=9904; -- locales_item - name : entry=2530
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make an Elixir of Minor Agility.' WHERE `word_id`=9917; -- locales_item - description : entry=2553
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Swiftness Potion.' WHERE `word_id`=9919; -- locales_item - description : entry=2555
 UPDATE `trans_words` SET `content_loc9`='Flask of Port' WHERE `word_id`=9950; -- locales_item - name : entry=2593
@@ -76,7 +62,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to cook a Crab Claw.' W
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to cook a delicious Redridge Goulash.' WHERE `word_id`=10041; -- locales_item - description : entry=2699
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to cook Succulent Pork Ribs.' WHERE `word_id`=10043; -- locales_item - description : entry=2700
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to cook a Seasoned Wolf Kabob.' WHERE `word_id`=10045; -- locales_item - description : entry=2701
-UPDATE `trans_words` SET `content_loc9`='Monster - Item, Lantern - Round' WHERE `word_id`=10049; -- locales_item - name : entry=2715
 UPDATE `trans_words` SET `content_loc9`='Small Brass Key' WHERE `word_id`=10050; -- locales_item - name : entry=2719
 UPDATE `trans_words` SET `content_loc9`='Bottle of Pinot Noir' WHERE `word_id`=10054; -- locales_item - name : entry=2723
 UPDATE `trans_words` SET `content_loc9`='An Old History Book' WHERE `word_id`=10100; -- locales_item - name : entry=2794
@@ -117,7 +102,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Minor Magic R
 UPDATE `trans_words` SET `content_loc9`='Recipe: Elixir of Poison Resistance' WHERE `word_id`=10555; -- locales_item - name : entry=3394
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Limited Invulnerability Potion.' WHERE `word_id`=10557; -- locales_item - description : entry=3395
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make an Elixir of Lesser Agility.' WHERE `word_id`=10559; -- locales_item - description : entry=3396
-UPDATE `trans_words` SET `content_loc9`='Monster - Spear, Badass' WHERE `word_id`=24124; -- locales_item - name : entry=3433
 UPDATE `trans_words` SET `content_loc9`='Johaan\'s Special Drink' WHERE `word_id`=10615; -- locales_item - name : entry=3460
 UPDATE `trans_words` SET `content_loc9`='Used by Blacksmiths to remove impurities.' WHERE `word_id`=10172; -- locales_item - description : entry=3466
 UPDATE `trans_words` SET `content_loc9`='Dull Iron Key' WHERE `word_id`=10622; -- locales_item - name : entry=3467
@@ -236,7 +220,6 @@ UPDATE `trans_words` SET `content_loc9`='Weapon of Mass Destruction (test)' WHER
 UPDATE `trans_words` SET `content_loc9`='In remarkably good condition all things considered.' WHERE `word_id`=12218; -- locales_item - description : entry=5424
 UPDATE `trans_words` SET `content_loc9`='Runescale Girdle' WHERE `word_id`=12219; -- locales_item - name : entry=5425
 UPDATE `trans_words` SET `content_loc9`='How To Serve Man' WHERE `word_id`=12223; -- locales_item - description : entry=5428
-UPDATE `trans_words` SET `content_loc9`='A Pretty Rock' WHERE `word_id`=12224; -- locales_item - name : entry=5429
 UPDATE `trans_words` SET `content_loc9`='The maple-like leaves glisten with the promise of new life and the potential for deadly misuse.' WHERE `word_id`=12231; -- locales_item - description : entry=5437
 UPDATE `trans_words` SET `content_loc9`='A strange code is written upon the inside of the ring in the language of the night elves.' WHERE `word_id`=12239; -- locales_item - description : entry=5445
 UPDATE `trans_words` SET `content_loc9`='This paper is covered in glowing runes.' WHERE `word_id`=12245; -- locales_item - description : entry=5455
@@ -273,7 +256,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' 
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=5656
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=5665
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=5668
-UPDATE `trans_words` SET `content_loc9`='Monster - Trident, Copper' WHERE `word_id`=24119; -- locales_item - name : entry=5746
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to sew a Red Linen Bag.' WHERE `word_id`=12475; -- locales_item - description : entry=5771
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to sew a Red Woolen Bag.' WHERE `word_id`=12477; -- locales_item - description : entry=5772
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to sew Robes of Arcana.' WHERE `word_id`=12479; -- locales_item - description : entry=5773
@@ -284,7 +266,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft a Murloc Scale
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Thick Murloc Armor.' WHERE `word_id`=12499; -- locales_item - description : entry=5788
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Murloc Scale Bracers.' WHERE `word_id`=12501; -- locales_item - description : entry=5789
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=5864
-UPDATE `trans_words` SET `content_loc9`='Monster - Throwing Spear' WHERE `word_id`=24125; -- locales_item - name : entry=5870
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=5872
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=5873
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Fine Leather Pants.' WHERE `word_id`=12619; -- locales_item - description : entry=5972
@@ -302,10 +283,10 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Frost Protect
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Nature Protection Potion.' WHERE `word_id`=12660; -- locales_item - description : entry=6057
 UPDATE `trans_words` SET `content_loc9`='These documents are sealed by a magical force.' WHERE `word_id`=12669; -- locales_item - description : entry=6065
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make Shadow Oil.' WHERE `word_id`=12673; -- locales_item - description : entry=6068
+UPDATE `trans_words` SET `content_loc9`='Vimes\'s Report' WHERE `word_id`=12680; -- locales_item - name : entry=6075
 UPDATE `trans_words` SET `content_loc9`='Deepstrider Tumor' WHERE `word_id`=12688; -- locales_item - name : entry=6082
 UPDATE `trans_words` SET `content_loc9`='Zraedus\'s Brew' WHERE `word_id`=12694; -- locales_item - name : entry=6089
 UPDATE `trans_words` SET `content_loc9`='Place upon Yuriv\'s grave.' WHERE `word_id`=12709; -- locales_item - description : entry=6145
-UPDATE `trans_words` SET `content_loc9`='A Frayed Knot' WHERE `word_id`=12714; -- locales_item - name : entry=6150
 UPDATE `trans_words` SET `content_loc9`='Lost Supplies' WHERE `word_id`=12721; -- locales_item - name : entry=6172
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make an Elixir of Ogre\'s Strength.' WHERE `word_id`=12755; -- locales_item - description : entry=6211
 UPDATE `trans_words` SET `content_loc9`='Needed by an Enchanter to make a runed copper rod.' WHERE `word_id`=12760; -- locales_item - description : entry=6217
@@ -412,7 +393,6 @@ UPDATE `trans_words` SET `content_loc9`='Easter Dress' WHERE `word_id`=13872; --
 UPDATE `trans_words` SET `content_loc9`='Inside this lockbox are the empty thaumaturgy vessels.' WHERE `word_id`=13883; -- locales_item - description : entry=7870
 UPDATE `trans_words` SET `content_loc9`='You do not understand the writing in the journal.' WHERE `word_id`=13886; -- locales_item - description : entry=7886
 UPDATE `trans_words` SET `content_loc9`='Defias Tower Key' WHERE `word_id`=13906; -- locales_item - name : entry=7923
-UPDATE `trans_words` SET `content_loc9`='E.C.A.C.' WHERE `word_id`=13944; -- locales_item - name : entry=7970
 UPDATE `trans_words` SET `content_loc9`='Enormous Chemically Altered Cracker' WHERE `word_id`=13945; -- locales_item - description : entry=7970
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make Heavy Mithril Pants.' WHERE `word_id`=13951; -- locales_item - description : entry=7975
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Mithril Shield Spike.' WHERE `word_id`=13953; -- locales_item - description : entry=7976
@@ -484,7 +464,7 @@ UPDATE `trans_words` SET `content_loc9`='Using this power source will activate t
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=8563
 UPDATE `trans_words` SET `content_loc9`='It\'s huge!' WHERE `word_id`=13559; -- locales_item - description : entry=8564
 UPDATE `trans_words` SET `content_loc9`='Whistle of the Mottled Red Raptor' WHERE `word_id`=14341; -- locales_item - name : entry=8586
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=8586
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=8586
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=8588
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=8591
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=8592
@@ -543,7 +523,6 @@ UPDATE `trans_words` SET `content_loc9`='Data card only' WHERE `word_id`=14542; 
 UPDATE `trans_words` SET `content_loc9`='New & Improved!' WHERE `word_id`=14554; -- locales_item - description : entry=9328
 UPDATE `trans_words` SET `content_loc9`='Tied with a bow.' WHERE `word_id`=14556; -- locales_item - description : entry=9329
 UPDATE `trans_words` SET `content_loc9`='She\'s so photogenic...' WHERE `word_id`=14558; -- locales_item - description : entry=9330
-UPDATE `trans_words` SET `content_loc9`='A Parrot Skeleton' WHERE `word_id`=14567; -- locales_item - name : entry=9357
 UPDATE `trans_words` SET `content_loc9`='Handle With Care' WHERE `word_id`=14575; -- locales_item - description : entry=9364
 UPDATE `trans_words` SET `content_loc9`='DANGER! DO NOT INGEST!' WHERE `word_id`=14577; -- locales_item - description : entry=9365
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make Golden Scale Gauntlets.' WHERE `word_id`=14580; -- locales_item - description : entry=9367
@@ -605,7 +584,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Deepdive Helm
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Sniper Scope.' WHERE `word_id`=15601; -- locales_item - description : entry=10608
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Mithril Mechanical Dragonling.' WHERE `word_id`=15603; -- locales_item - description : entry=10609
 UPDATE `trans_words` SET `content_loc9`='Blood of the Sea Queen' WHERE `word_id`=15605; -- locales_item - description : entry=10610
-UPDATE `trans_words` SET `content_loc9`='Monster - Sword, Horde Sword Black' WHERE `word_id`=24120; -- locales_item - name : entry=10614
 UPDATE `trans_words` SET `content_loc9`='Painted Chain Leggings' WHERE `word_id`=15621; -- locales_item - name : entry=10635
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make Goblin Rocket Fuel.' WHERE `word_id`=15631; -- locales_item - description : entry=10644
 UPDATE `trans_words` SET `content_loc9`='Death or Serious Injury may result from use of this device.' WHERE `word_id`=15633; -- locales_item - description : entry=10645
@@ -614,7 +592,7 @@ UPDATE `trans_words` SET `content_loc9`='Barkmail Vest' WHERE `word_id`=15642; -
 UPDATE `trans_words` SET `content_loc9`='Etched across the blade: Rakh\'likh' WHERE `word_id`=15668; -- locales_item - description : entry=10696
 UPDATE `trans_words` SET `content_loc9`='Engraved upon the blade: Rakh\'likh' WHERE `word_id`=15670; -- locales_item - description : entry=10697
 UPDATE `trans_words` SET `content_loc9`='Carved into the shaft: Rakh\'likh' WHERE `word_id`=15672; -- locales_item - description : entry=10698
-UPDATE `trans_words` SET `content_loc9`='Teaches you how to make an Inlaid Mithril Cylinder. This item is used by Gnomish Engineers.' WHERE `word_id`=15688; -- locales_item - description : entry=10713
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to make an Inlaid Mithril Cylinder.  This item is used by Gnomish Engineers.' WHERE `word_id`=15688; -- locales_item - description : entry=10713
 UPDATE `trans_words` SET `content_loc9`='Hot out of the oven.' WHERE `word_id`=15690; -- locales_item - description : entry=10714
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to sew a Black Swashbuckler\'s Shirt.' WHERE `word_id`=15703; -- locales_item - description : entry=10728
 UPDATE `trans_words` SET `content_loc9`='The massive box is surprisingly light.' WHERE `word_id`=15705; -- locales_item - description : entry=10738
@@ -694,8 +672,6 @@ UPDATE `trans_words` SET `content_loc9`='Sealed' WHERE `word_id`=13794; -- local
 UPDATE `trans_words` SET `content_loc9`='Solomon\'s Plea to Bolvar' WHERE `word_id`=16026; -- locales_item - name : entry=11367
 UPDATE `trans_words` SET `content_loc9`='Bolvar\'s Decree' WHERE `word_id`=16027; -- locales_item - name : entry=11368
 UPDATE `trans_words` SET `content_loc9`='Bears the Seal of Stormwind' WHERE `word_id`=16028; -- locales_item - description : entry=11368
-UPDATE `trans_words` SET `content_loc9`='A Crumpled Up Note' WHERE `word_id`=16067; -- locales_item - name : entry=11446
-UPDATE `trans_words` SET `content_loc9`='Undelivered Parcel' WHERE `word_id`=16069; -- locales_item - name : entry=11463
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=11474
 UPDATE `trans_words` SET `content_loc9`='This device helps identify corrupted elements of nature.' WHERE `word_id`=16096; -- locales_item - description : entry=11511
 UPDATE `trans_words` SET `content_loc9`='This druidic brew is used to cleanse corrupted plants.' WHERE `word_id`=16102; -- locales_item - description : entry=11516
@@ -722,8 +698,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companio
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=11826
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make your own Lil\' Smoky robot.' WHERE `word_id`=16242; -- locales_item - description : entry=11827
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Pet Bombling.' WHERE `word_id`=16244; -- locales_item - description : entry=11828
-UPDATE `trans_words` SET `content_loc9`='A Dingy Fanny Pack' WHERE `word_id`=16292; -- locales_item - name : entry=11883
-UPDATE `trans_words` SET `content_loc9`='Monster - Trident, Wicked' WHERE `word_id`=24127; -- locales_item - name : entry=12063
 UPDATE `trans_words` SET `content_loc9`='Eggscilloscope' WHERE `word_id`=16470; -- locales_item - name : entry=12144
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Hardened Iron Shortsword.' WHERE `word_id`=16472; -- locales_item - description : entry=12162
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Moonsteel Broadsword.' WHERE `word_id`=16474; -- locales_item - description : entry=12163
@@ -741,10 +715,9 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to cook Heavy Kodo Stew
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Searing Golden Blade.' WHERE `word_id`=16545; -- locales_item - description : entry=12261
 UPDATE `trans_words` SET `content_loc9`='The cage rattles and shakes.' WHERE `word_id`=16548; -- locales_item - description : entry=12263
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=12264
-UPDATE `trans_words` SET `content_loc9`='Draco-Incarcinatrix 900' WHERE `word_id`=16552; -- locales_item - name : entry=12284
 UPDATE `trans_words` SET `content_loc9`='Bamboo Cage Key' WHERE `word_id`=16564; -- locales_item - name : entry=12301
 UPDATE `trans_words` SET `content_loc9`='Reins of the Frostsaber' WHERE `word_id`=16565; -- locales_item - name : entry=12302
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=12303
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=12303
 UPDATE `trans_words` SET `content_loc9`='Reins of the Primal Leopard' WHERE `word_id`=16569; -- locales_item - name : entry=12325
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=12325
 UPDATE `trans_words` SET `content_loc9`='Reins of the Tawny Sabercat' WHERE `word_id`=16570; -- locales_item - name : entry=12326
@@ -752,11 +725,11 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' 
 UPDATE `trans_words` SET `content_loc9`='Reins of the Golden Sabercat' WHERE `word_id`=16571; -- locales_item - name : entry=12327
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=12327
 UPDATE `trans_words` SET `content_loc9`='Horn of the Red Wolf' WHERE `word_id`=16572; -- locales_item - name : entry=12330
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=12330
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=12330
 UPDATE `trans_words` SET `content_loc9`='Draconic runes appear and disappear along the inner band.' WHERE `word_id`=16582; -- locales_item - description : entry=12344
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=12351
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=12353
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=12354
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=12351
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=12353
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=12354
 UPDATE `trans_words` SET `content_loc9`='Dawn\'s Gambit' WHERE `word_id`=16603; -- locales_item - name : entry=12368
 UPDATE `trans_words` SET `content_loc9`='Key to the City' WHERE `word_id`=16604; -- locales_item - name : entry=12382
 UPDATE `trans_words` SET `content_loc9`='Master Key to the City of Stratholme' WHERE `word_id`=16605; -- locales_item - description : entry=12382
@@ -813,7 +786,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to make an Enchanted Th
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make Enchanted Thorium Leggings.' WHERE `word_id`=16848; -- locales_item - description : entry=12726
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make an Enchanted Thorium Breastplate.' WHERE `word_id`=16850; -- locales_item - description : entry=12727
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make Invulnerable Mail.' WHERE `word_id`=16852; -- locales_item - description : entry=12728
-UPDATE `trans_words` SET `content_loc9`='Monster - Item, Orb - Lava' WHERE `word_id`=24115; -- locales_item - name : entry=12746
 UPDATE `trans_words` SET `content_loc9`='Covered in Demonic runes.' WHERE `word_id`=16899; -- locales_item - description : entry=12806
 UPDATE `trans_words` SET `content_loc9`='It\'s got enough juice to set a large tent on fire!' WHERE `word_id`=16908; -- locales_item - description : entry=12814
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make an Ornate Thorium Handaxe.' WHERE `word_id`=16911; -- locales_item - description : entry=12819
@@ -837,8 +809,7 @@ UPDATE `trans_words` SET `content_loc9`='A ritual candle from the depths of Jaed
 UPDATE `trans_words` SET `content_loc9`='Alex\'s Ring of Audacity' WHERE `word_id`=16991; -- locales_item - name : entry=12947
 UPDATE `trans_words` SET `content_loc9`='Looks great. Less filling.' WHERE `word_id`=16992; -- locales_item - description : entry=12947
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to transmute Thorium and Arcane Crystals into Arcanite.' WHERE `word_id`=17000; -- locales_item - description : entry=12958
-UPDATE `trans_words` SET `content_loc9`='Serathil' WHERE `word_id`=17045; -- locales_item - name : entry=13015
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=13086
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=13086
 UPDATE `trans_words` SET `content_loc9`='Blood Red Key' WHERE `word_id`=17162; -- locales_item - name : entry=13140
 UPDATE `trans_words` SET `content_loc9`='The key looks tiny enough to fit a small lock.' WHERE `word_id`=17163; -- locales_item - description : entry=13140
 UPDATE `trans_words` SET `content_loc9`='Bears the mark of Fras Siabi.' WHERE `word_id`=17187; -- locales_item - description : entry=13172
@@ -861,19 +832,19 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to make an Accurate Sco
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Mechanical Dragonling.' WHERE `word_id`=17275; -- locales_item - description : entry=13311
 UPDATE `trans_words` SET `content_loc9`='The pages are tattered and worn...' WHERE `word_id`=17277; -- locales_item - description : entry=13313
 UPDATE `trans_words` SET `content_loc9`='Whistle of the Ivory Raptor' WHERE `word_id`=17280; -- locales_item - name : entry=13317
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=13317
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=13317
 UPDATE `trans_words` SET `content_loc9`='This is used as a catalyst in transforming the toxins of the Scourge\'s cauldrons.' WHERE `word_id`=17282; -- locales_item - description : entry=13320
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=13321
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=13322
 UPDATE `trans_words` SET `content_loc9`='White Mechanostrider Mod A' WHERE `word_id`=17285; -- locales_item - name : entry=13326
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=13327
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=13328
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=13329
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=13327
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=13328
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=13329
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=13331
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=13332
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=13333
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=13334
-UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon Baron Rivendare\'s steed. This is a very fast mount.' WHERE `word_id`=17294; -- locales_item - description : entry=13335
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=13334
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon Baron Rivendare\'s steed.  This is a very fast mount.' WHERE `word_id`=17294; -- locales_item - description : entry=13335
 UPDATE `trans_words` SET `content_loc9`='It\'s white and looks longer than your average cloak or cape.' WHERE `word_id`=17350; -- locales_item - description : entry=13397
 UPDATE `trans_words` SET `content_loc9`='Carries the Seal of Barov.' WHERE `word_id`=17370; -- locales_item - description : entry=13448
 UPDATE `trans_words` SET `content_loc9`='Carries the Seal of Barov.' WHERE `word_id`=17370; -- locales_item - description : entry=13450
@@ -919,11 +890,8 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companio
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=13583
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=13584
 UPDATE `trans_words` SET `content_loc9`='All of the pages are torn out.' WHERE `word_id`=17494; -- locales_item - description : entry=13585
-UPDATE `trans_words` SET `content_loc9`='Monster - Spear, Badass Blue' WHERE `word_id`=24126; -- locales_item - name : entry=13632
-UPDATE `trans_words` SET `content_loc9`='Monster - Staff, Ornate Warlock Staff Black Glow Low' WHERE `word_id`=24118; -- locales_item - name : entry=13698
 UPDATE `trans_words` SET `content_loc9`='Not to be confused with gloom weed, womb weed, or broom weed. Or doom seed.' WHERE `word_id`=17503; -- locales_item - description : entry=13702
 UPDATE `trans_words` SET `content_loc9`='Skeleton Key' WHERE `word_id`=17505; -- locales_item - name : entry=13704
-UPDATE `trans_words` SET `content_loc9`='Monster - Staff, Wood w/ Spiral Head White Low Purple Glow' WHERE `word_id`=24117; -- locales_item - name : entry=13723
 UPDATE `trans_words` SET `content_loc9`='Bears the mark of the Grand Crusader.' WHERE `word_id`=17532; -- locales_item - description : entry=13852
 UPDATE `trans_words` SET `content_loc9`='Viewing Room Key' WHERE `word_id`=17548; -- locales_item - name : entry=13873
 UPDATE `trans_words` SET `content_loc9`='Venture Company Supplies' WHERE `word_id`=12884; -- locales_item - description : entry=13874
@@ -1021,8 +989,8 @@ UPDATE `trans_words` SET `content_loc9`='Saltstone Legplates' WHERE `word_id`=18
 UPDATE `trans_words` SET `content_loc9`='Heavy Scorpid Gauntlet' WHERE `word_id`=18537; -- locales_item - name : entry=15078
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=15277
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=15290
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=15292
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=15293
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=15292
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=15293
 UPDATE `trans_words` SET `content_loc9`='An old, worthless tome.' WHERE `word_id`=19137; -- locales_item - description : entry=15696
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Heavy Scorpid Bracers.' WHERE `word_id`=19152; -- locales_item - description : entry=15724
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Wicked Leather Gauntlets.' WHERE `word_id`=19154; -- locales_item - description : entry=15725
@@ -1077,16 +1045,13 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Runic Leather 
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft a Frostsaber Tunic.' WHERE `word_id`=19255; -- locales_item - description : entry=15779
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Black Dragonscale Leggings.' WHERE `word_id`=19257; -- locales_item - description : entry=15781
 UPDATE `trans_words` SET `content_loc9`='This book is written in a language you cannot understand.' WHERE `word_id`=19267; -- locales_item - description : entry=15790
-UPDATE `trans_words` SET `content_loc9`='A Chewed Bone' WHERE `word_id`=19270; -- locales_item - name : entry=15793
 UPDATE `trans_words` SET `content_loc9`='This book emits a faint glow.' WHERE `word_id`=19305; -- locales_item - description : entry=15847
 UPDATE `trans_words` SET `content_loc9`='Bears the Seal of the Scarlet Crusade' WHERE `word_id`=19326; -- locales_item - description : entry=15868
 UPDATE `trans_words` SET `content_loc9`='The Worm is the Best Part.' WHERE `word_id`=19334; -- locales_item - description : entry=15875
 UPDATE `trans_words` SET `content_loc9`='The pendant is missing its aquatic counterpart.' WHERE `word_id`=19342; -- locales_item - description : entry=15882
-UPDATE `trans_words` SET `content_loc9`='A Crazy Grab Bag' WHERE `word_id`=19354; -- locales_item - name : entry=15902
 UPDATE `trans_words` SET `content_loc9`='Right-Handed Claw' WHERE `word_id`=19355; -- locales_item - name : entry=15903
 UPDATE `trans_words` SET `content_loc9`='Right-Handed Blades' WHERE `word_id`=19356; -- locales_item - name : entry=15904
 UPDATE `trans_words` SET `content_loc9`='Right-Handed Brass Knuckles' WHERE `word_id`=19357; -- locales_item - name : entry=15905
-UPDATE `trans_words` SET `content_loc9`='Monster - Trident, Dark Ornate' WHERE `word_id`=24121; -- locales_item - name : entry=15910
 UPDATE `trans_words` SET `content_loc9`='Embersilk Stave' WHERE `word_id`=19405; -- locales_item - name : entry=15979
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=15996
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Thorium Grenade.' WHERE `word_id`=19441; -- locales_item - description : entry=16041
@@ -1170,7 +1135,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to sew Flarecore Gloves
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Corehound Boots.' WHERE `word_id`=20146; -- locales_item - description : entry=17022
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft a Molten Helm.' WHERE `word_id`=20148; -- locales_item - description : entry=17023
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Black Dragonscale Boots.' WHERE `word_id`=20150; -- locales_item - description : entry=17025
-UPDATE `trans_words` SET `content_loc9`='Ankh' WHERE `word_id`=20154; -- locales_item - name : entry=17030
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Fiery Chain Girdle.' WHERE `word_id`=20172; -- locales_item - description : entry=17049
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make Dark Iron Bracers.' WHERE `word_id`=20175; -- locales_item - description : entry=17051
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make Dark Iron Leggings.' WHERE `word_id`=20177; -- locales_item - description : entry=17052
@@ -1178,7 +1142,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to make Fiery Chain Sho
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Dark Iron Reaver.' WHERE `word_id`=20186; -- locales_item - description : entry=17059
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Dark Iron Destroyer.' WHERE `word_id`=20188; -- locales_item - description : entry=17060
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to cook Mithril Head Trout.' WHERE `word_id`=20191; -- locales_item - description : entry=17062
-UPDATE `trans_words` SET `content_loc9`='Earthshaker' WHERE `word_id`=20202; -- locales_item - name : entry=17073
 UPDATE `trans_words` SET `content_loc9`='Handle With Care' WHERE `word_id`=14575; -- locales_item - description : entry=17118
 UPDATE `trans_words` SET `content_loc9`='Elegant Letter' WHERE `word_id`=20227; -- locales_item - name : entry=17126
 UPDATE `trans_words` SET `content_loc9`='Egg Nog' WHERE `word_id`=20235; -- locales_item - name : entry=17198
@@ -1217,7 +1180,6 @@ UPDATE `trans_words` SET `content_loc9`='Found on the body of Veng...' WHERE `wo
 UPDATE `trans_words` SET `content_loc9`='Talisman of Binding Shard' WHERE `word_id`=20467; -- locales_item - name : entry=17782
 UPDATE `trans_words` SET `content_loc9`='Charged Scale of Onyxia' WHERE `word_id`=20489; -- locales_item - name : entry=17968
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to cook a Tender Wolf Steak.' WHERE `word_id`=20497; -- locales_item - description : entry=18046
-UPDATE `trans_words` SET `content_loc9`='Monster - Staff, Ornate Jeweled Staff - Blue High Blue Glow' WHERE `word_id`=24116; -- locales_item - name : entry=18122
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to brew a Thistle Tea.' WHERE `word_id`=13798; -- locales_item - description : entry=18160
 UPDATE `trans_words` SET `content_loc9`='Lasher Root' WHERE `word_id`=20531; -- locales_item - name : entry=18224
 UPDATE `trans_words` SET `content_loc9`='This item has seen much use.' WHERE `word_id`=20535; -- locales_item - description : entry=18227
@@ -1228,14 +1190,14 @@ UPDATE `trans_words` SET `content_loc9`='On the inside collar it reads, "Inspect
 UPDATE `trans_words` SET `content_loc9`='The owner of this item could have probably used a hug.' WHERE `word_id`=20546; -- locales_item - description : entry=18233
 UPDATE `trans_words` SET `content_loc9`='You think that you can make out some numbers. This appears to be a repair bill.' WHERE `word_id`=20548; -- locales_item - description : entry=18234
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Shadowskin Gloves.' WHERE `word_id`=20553; -- locales_item - description : entry=18239
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18241
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18242
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18243
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18244
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18245
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18246
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18247
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18248
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18241
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18242
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18243
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18244
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18245
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18246
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18247
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18248
 UPDATE `trans_words` SET `content_loc9`='Crescent Key' WHERE `word_id`=20563; -- locales_item - name : entry=18249
 UPDATE `trans_words` SET `content_loc9`='Used with Gordok ogre shackles.' WHERE `word_id`=20565; -- locales_item - description : entry=18250
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft a Core Armor Kit.' WHERE `word_id`=20568; -- locales_item - description : entry=18252
@@ -1260,7 +1222,6 @@ UPDATE `trans_words` SET `content_loc9`='Dark runes skitter across the surface.'
 UPDATE `trans_words` SET `content_loc9`='Dark runes skitter across the surface.' WHERE `word_id`=16181; -- locales_item - description : entry=18333
 UPDATE `trans_words` SET `content_loc9`='Dark runes skitter across the surface.' WHERE `word_id`=16181; -- locales_item - description : entry=18334
 UPDATE `trans_words` SET `content_loc9`='This gauntlet looks as though it once was imbued with potent magic.' WHERE `word_id`=20648; -- locales_item - description : entry=18336
-UPDATE `trans_words` SET `content_loc9`='Quel\'Serrar' WHERE `word_id`=20658; -- locales_item - name : entry=18348
 UPDATE `trans_words` SET `content_loc9`='The High Blade' WHERE `word_id`=20659; -- locales_item - description : entry=18348
 UPDATE `trans_words` SET `content_loc9`='The tome is magically sealed.' WHERE `word_id`=20667; -- locales_item - description : entry=18356
 UPDATE `trans_words` SET `content_loc9`='The tome is magically sealed.' WHERE `word_id`=20667; -- locales_item - description : entry=18357
@@ -1292,7 +1253,6 @@ UPDATE `trans_words` SET `content_loc9`='Blessed by the Shen\'dralar Ancients.' 
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to sew a Mooncloth Robe.' WHERE `word_id`=20781; -- locales_item - description : entry=18487
 UPDATE `trans_words` SET `content_loc9`='Unfired Ancient Blade' WHERE `word_id`=20783; -- locales_item - name : entry=18489
 UPDATE `trans_words` SET `content_loc9`='Tempered in the blood of Onyxia.' WHERE `word_id`=20787; -- locales_item - description : entry=18492
-UPDATE `trans_words` SET `content_loc9`='A Dull and Flat Elven Blade' WHERE `word_id`=20808; -- locales_item - name : entry=18513
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft a Girdle of Insight.' WHERE `word_id`=20810; -- locales_item - description : entry=18514
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Mongoose Boots.' WHERE `word_id`=20812; -- locales_item - description : entry=18515
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Swift Flight Bracers.' WHERE `word_id`=20814; -- locales_item - description : entry=18516
@@ -1308,8 +1268,8 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Sulfuron Hamm
 UPDATE `trans_words` SET `content_loc9`='Teaches Arcane Brilliance (Rank 1).' WHERE `word_id`=20872; -- locales_item - description : entry=18600
 UPDATE `trans_words` SET `content_loc9`='Bound in Dark Iron Wiring' WHERE `word_id`=20891; -- locales_item - description : entry=18628
 UPDATE `trans_words` SET `content_loc9`='Be strong Randis, and aspire to be the hero you were meant to be. -- Lady Jaina Proudmoore' WHERE `word_id`=20905; -- locales_item - description : entry=18642
-UPDATE `trans_words` SET `content_loc9`='Heed the spirits, young Grunth. It is there that true heroes hear their calling. -- Cairne Bloodhoof' WHERE `word_id`=20907; -- locales_item - description : entry=18643
-UPDATE `trans_words` SET `content_loc9`='Alarm-O-Bot' WHERE `word_id`=20908; -- locales_item - name : entry=18645
+UPDATE `trans_words` SET `content_loc9`='Heed the spirits, young Grunth.  It is there that true heroes hear their calling.  -- Cairne Bloodhoof' WHERE `word_id`=20907; -- locales_item - description : entry=18643
+UPDATE `trans_words` SET `content_loc9`='Alarm-o-Bot' WHERE `word_id`=20908; -- locales_item - name : entry=18645
 UPDATE `trans_words` SET `content_loc9`='You can see movement when you peer into the Eye.' WHERE `word_id`=20910; -- locales_item - description : entry=18646
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Red Firework.' WHERE `word_id`=20912; -- locales_item - description : entry=18647
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Green Firework.' WHERE `word_id`=20914; -- locales_item - description : entry=18648
@@ -1330,8 +1290,8 @@ UPDATE `trans_words` SET `content_loc9`='Seething darkness engulfs the eye.' WHE
 UPDATE `trans_words` SET `content_loc9`='A very large petrified leaf.' WHERE `word_id`=20979; -- locales_item - description : entry=18703
 UPDATE `trans_words` SET `content_loc9`='An almost indestructible string. Perfect for a mighty bow stave.' WHERE `word_id`=21002; -- locales_item - description : entry=18724
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft a Heavy Leather Ball.' WHERE `word_id`=21010; -- locales_item - description : entry=18731
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18766
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18767
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18766
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18767
 UPDATE `trans_words` SET `content_loc9`='Reins of the Swift Dawnsaber' WHERE `word_id`=21038; -- locales_item - name : entry=18768
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.' WHERE `word_id`=9060; -- locales_item - description : entry=18768
 UPDATE `trans_words` SET `content_loc9`='Enchanted Thorium Platemail' WHERE `word_id`=21039; -- locales_item - name : entry=18769
@@ -1340,37 +1300,37 @@ UPDATE `trans_words` SET `content_loc9`='Enchanted Thorium Platemail' WHERE `wor
 UPDATE `trans_words` SET `content_loc9`='Volume II' WHERE `word_id`=21041; -- locales_item - description : entry=18770
 UPDATE `trans_words` SET `content_loc9`='Enchanted Thorium Platemail' WHERE `word_id`=21039; -- locales_item - name : entry=18771
 UPDATE `trans_words` SET `content_loc9`='Volume III' WHERE `word_id`=21042; -- locales_item - description : entry=18771
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18772
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18773
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18774
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18772
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18773
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18774
 UPDATE `trans_words` SET `content_loc9`='Oats and grains specially mixed with the Argent Dawn\'s enriched manna biscuits.' WHERE `word_id`=21047; -- locales_item - description : entry=18775
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18776
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18777
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18778
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18776
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18777
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18778
 UPDATE `trans_words` SET `content_loc9`='Bottom Half of Advanced Armorsmithing: Volume I' WHERE `word_id`=21051; -- locales_item - name : entry=18779
 UPDATE `trans_words` SET `content_loc9`='Top Half of Advanced Armorsmithing: Volume I' WHERE `word_id`=21052; -- locales_item - name : entry=18780
 UPDATE `trans_words` SET `content_loc9`='Bottom Half of Advanced Armorsmithing: Volume II' WHERE `word_id`=21053; -- locales_item - name : entry=18781
 UPDATE `trans_words` SET `content_loc9`='Top Half of Advanced Armorsmithing: Volume II' WHERE `word_id`=21054; -- locales_item - name : entry=18782
 UPDATE `trans_words` SET `content_loc9`='Bottom Half of Advanced Armorsmithing: Volume III' WHERE `word_id`=21055; -- locales_item - name : entry=18783
 UPDATE `trans_words` SET `content_loc9`='Top Half of Advanced Armorsmithing: Volume III' WHERE `word_id`=21056; -- locales_item - name : entry=18784
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18785
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18786
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18787
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18788
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18789
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18790
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18791
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18793
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18794
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18795
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18796
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18797
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18798
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18785
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18786
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18787
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18788
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18789
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18790
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18791
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18793
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18794
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18795
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18796
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18797
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18798
 UPDATE `trans_words` SET `content_loc9`='Property of Finkle Einhorn, Grandmaster Adventurer' WHERE `word_id`=16819; -- locales_item - description : entry=18803
 UPDATE `trans_words` SET `content_loc9`='Your finished Divination Scryer and Blessed Arcanite Barding are inside the satchel.' WHERE `word_id`=21075; -- locales_item - description : entry=18804
 UPDATE `trans_words` SET `content_loc9`='Grand Marshal\'s Left Hand Blade' WHERE `word_id`=21116; -- locales_item - name : entry=18847
 UPDATE `trans_words` SET `content_loc9`='High Warlord\'s Left Claw' WHERE `word_id`=21117; -- locales_item - name : entry=18848
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=18902
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=18902
 UPDATE `trans_words` SET `content_loc9`='Keep away from Thorium Brotherhood.' WHERE `word_id`=21141; -- locales_item - description : entry=18922
 UPDATE `trans_words` SET `content_loc9`='Rage Scar Yeti Hide' WHERE `word_id`=21146; -- locales_item - name : entry=18947
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Barbaric Bracers.' WHERE `word_id`=21149; -- locales_item - description : entry=18949
@@ -1382,12 +1342,11 @@ UPDATE `trans_words` SET `content_loc9`='The head of Nefarian: Brood of Deathwin
 UPDATE `trans_words` SET `content_loc9`='Minor Healthstone' WHERE `word_id`=12310; -- locales_item - name : entry=19004
 UPDATE `trans_words` SET `content_loc9`='Minor Healthstone' WHERE `word_id`=12310; -- locales_item - name : entry=19005
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Snake Burst Firework.' WHERE `word_id`=21179; -- locales_item - description : entry=19027
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=19029
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=19030
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=19029
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=19030
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=19054
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=19055
 UPDATE `trans_words` SET `content_loc9`='Laquered Wooden Plate Legplates' WHERE `word_id`=21252; -- locales_item - name : entry=19117
-UPDATE `trans_words` SET `content_loc9`='Luffa' WHERE `word_id`=21274; -- locales_item - name : entry=19141
 UPDATE `trans_words` SET `content_loc9`='Darkmoon Faire Prize Ticket' WHERE `word_id`=21302; -- locales_item - name : entry=19182
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Heavy Timbermaw Belt.' WHERE `word_id`=21305; -- locales_item - description : entry=19202
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Girdle of the Dawn.' WHERE `word_id`=21307; -- locales_item - description : entry=19203
@@ -1446,7 +1405,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft a Lava Belt.' 
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft Chromatic Gauntlets.' WHERE `word_id`=21476; -- locales_item - description : entry=19331
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft a Corehound Belt.' WHERE `word_id`=21478; -- locales_item - description : entry=19332
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to craft a Molten Belt.' WHERE `word_id`=21480; -- locales_item - description : entry=19333
-UPDATE `trans_words` SET `content_loc9`='Lok\'amir il Romathis' WHERE `word_id`=21506; -- locales_item - name : entry=19360
 UPDATE `trans_words` SET `content_loc9`='The Hand of Nefarius' WHERE `word_id`=21507; -- locales_item - description : entry=19360
 UPDATE `trans_words` SET `content_loc9`='The initials A.L. are etched on the hilt.' WHERE `word_id`=21512; -- locales_item - description : entry=19364
 UPDATE `trans_words` SET `content_loc9`='The threading is unlike anything you have ever seen. It appears metallic in origin.' WHERE `word_id`=21527; -- locales_item - description : entry=19378
@@ -1533,7 +1491,7 @@ UPDATE `trans_words` SET `content_loc9`='The doll resembles a priest.' WHERE `wo
 UPDATE `trans_words` SET `content_loc9`='The doll resembles a druid.' WHERE `word_id`=21765; -- locales_item - description : entry=19821
 UPDATE `trans_words` SET `content_loc9`='Forged in...' WHERE `word_id`=21806; -- locales_item - description : entry=19865
 UPDATE `trans_words` SET `content_loc9`='The seething flames of hatred.' WHERE `word_id`=21807; -- locales_item - description : entry=19866
-UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon Bloodlord Mandokir\'s raptor. This is a very fast mount.' WHERE `word_id`=21813; -- locales_item - description : entry=19872
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon Bloodlord Mandokir\'s raptor.  This is a very fast mount.' WHERE `word_id`=21813; -- locales_item - description : entry=19872
 UPDATE `trans_words` SET `content_loc9`='Alex\'s Test Beatdown Staff' WHERE `word_id`=21820; -- locales_item - name : entry=19879
 UPDATE `trans_words` SET `content_loc9`='Jin\'do\'s Judgement' WHERE `word_id`=21825; -- locales_item - name : entry=19884
 UPDATE `trans_words` SET `content_loc9`='Bears the mark of Jin.' WHERE `word_id`=21841; -- locales_item - description : entry=19900
@@ -1667,12 +1625,12 @@ UPDATE `trans_words` SET `content_loc9`='Chapter VII' WHERE `word_id`=22562; -- 
 UPDATE `trans_words` SET `content_loc9`='Chapter VIII' WHERE `word_id`=22563; -- locales_item - description : entry=21110
 UPDATE `trans_words` SET `content_loc9`='A shamanistic device fashioned by the Timbermaw to summon forth corrupting demons.' WHERE `word_id`=22583; -- locales_item - description : entry=21144
 UPDATE `trans_words` SET `content_loc9`='This truesilver-wrought item is a furbolg symbol of peace. A sealed message is attached to it.' WHERE `word_id`=22595; -- locales_item - description : entry=21155
-UPDATE `trans_words` SET `content_loc9`='"Teaches you how to summon this mount. This is a very fast mount."' WHERE `word_id`=72178; -- locales_item - description : entry=21176
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This is a very fast mount.' WHERE `word_id`=72178; -- locales_item - description : entry=21176
 UPDATE `trans_words` SET `content_loc9`='This strange dust should allow Metzen to be freed when sprinkled on him.' WHERE `word_id`=22630; -- locales_item - description : entry=21211
 UPDATE `trans_words` SET `content_loc9`='Tome of Frostbolt XI' WHERE `word_id`=22633; -- locales_item - name : entry=21214
 UPDATE `trans_words` SET `content_loc9`='Teaches Frostbolt (Rank 11).' WHERE `word_id`=22634; -- locales_item - description : entry=21214
 UPDATE `trans_words` SET `content_loc9`='Preserved with Graccu\'s special spices!  It\'ll be a very long time before these turn bad...' WHERE `word_id`=22636; -- locales_item - description : entry=21215
-UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount. This mount may only be summoned in the Temple of Ahn\'Qiraj.' WHERE `word_id`=22640; -- locales_item - description : entry=21218
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This mount may only be summoned in the Temple of Ahn\'Qiraj.' WHERE `word_id`=22640; -- locales_item - description : entry=21218
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to cook Sagefish Delight.' WHERE `word_id`=22642; -- locales_item - description : entry=21219
 UPDATE `trans_words` SET `content_loc9`='Ceremonial Armaments of the Qiraji Lords. Used by Qiraji infantry.' WHERE `word_id`=22655; -- locales_item - description : entry=21232
 UPDATE `trans_words` SET `content_loc9`='Regalia of Qiraji Nobility. Used by Qiraji spell casters.' WHERE `word_id`=22658; -- locales_item - description : entry=21237
@@ -1741,16 +1699,15 @@ UPDATE `trans_words` SET `content_loc9`='Teaches Aspect of the Hawk (Rank 7).' W
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=21308
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=21309
 UPDATE `trans_words` SET `content_loc9`='Inside are the things you will need to rescue Metzen the Reindeer!' WHERE `word_id`=22753; -- locales_item - description : entry=21315
-UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount. This mount may only be summoned in the Temple of Ahn\'Qiraj.' WHERE `word_id`=22640; -- locales_item - description : entry=21321
-UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount. This mount may only be summoned in the Temple of Ahn\'Qiraj.' WHERE `word_id`=22640; -- locales_item - description : entry=21323
-UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount. This mount may only be summoned in the Temple of Ahn\'Qiraj.' WHERE `word_id`=22640; -- locales_item - description : entry=21324
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This mount may only be summoned in the Temple of Ahn\'Qiraj.' WHERE `word_id`=22640; -- locales_item - description : entry=21321
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This mount may only be summoned in the Temple of Ahn\'Qiraj.' WHERE `word_id`=22640; -- locales_item - description : entry=21323
+UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this mount.  This mount may only be summoned in the Temple of Ahn\'Qiraj.' WHERE `word_id`=22640; -- locales_item - description : entry=21324
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to sew a Soul Pouch.' WHERE `word_id`=22796; -- locales_item - description : entry=21358
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to sew a Core Felcloth Bag.' WHERE `word_id`=22809; -- locales_item - description : entry=21371
 UPDATE `trans_words` SET `content_loc9`='These may be gathered for the Timbermaw furbolgs to earn their trust.' WHERE `word_id`=22816; -- locales_item - description : entry=21377
 UPDATE `trans_words` SET `content_loc9`='These may be gathered for the Timbermaw furbolgs to earn their trust.' WHERE `word_id`=22816; -- locales_item - description : entry=21383
 UPDATE `trans_words` SET `content_loc9`='Seek out an Alliance Commendation Officer to exchange signets for recognition.' WHERE `word_id`=22851; -- locales_item - description : entry=21436
 UPDATE `trans_words` SET `content_loc9`='Seek out an Horde Commendation Officer to exchange signets for recognition.' WHERE `word_id`=22853; -- locales_item - description : entry=21438
-UPDATE `trans_words` SET `content_loc9`='Monster - Axe, Insano' WHERE `word_id`=24112; -- locales_item - name : entry=21465
 UPDATE `trans_words` SET `content_loc9`='Ouch' WHERE `word_id`=22890; -- locales_item - description : entry=21488
 UPDATE `trans_words` SET `content_loc9`='Still dripping with blood' WHERE `word_id`=22901; -- locales_item - description : entry=21498
 UPDATE `trans_words` SET `content_loc9`='A tiny fragment of a very large insect.' WHERE `word_id`=22931; -- locales_item - description : entry=21533
@@ -1776,8 +1733,6 @@ UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Large Green R
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Large Red Rocket Cluster.' WHERE `word_id`=23099; -- locales_item - description : entry=21735
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Firework Cluster Launcher.' WHERE `word_id`=23101; -- locales_item - description : entry=21737
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to make a Firework Launcher.' WHERE `word_id`=23103; -- locales_item - description : entry=21738
-UPDATE `trans_words` SET `content_loc9`='Monster - Sword2H, Ahn\'Qiraj' WHERE `word_id`=24113; -- locales_item - name : entry=21794
-UPDATE `trans_words` SET `content_loc9`='Monster - Item, Ahn\'Qiraj Held Scepter' WHERE `word_id`=24114; -- locales_item - name : entry=21796
 UPDATE `trans_words` SET `content_loc9`='Bag of Candies' WHERE `word_id`=23127; -- locales_item - name : entry=21813
 UPDATE `trans_words` SET `content_loc9`='A small message of affection...' WHERE `word_id`=23130; -- locales_item - description : entry=21815
 UPDATE `trans_words` SET `content_loc9`='This one is missing...' WHERE `word_id`=23141; -- locales_item - description : entry=21830
@@ -1876,15 +1831,11 @@ UPDATE `trans_words` SET `content_loc9`='Grimoire of Shadow Ward IV' WHERE `word
 UPDATE `trans_words` SET `content_loc9`='Teaches Shadow Ward (Rank 4).' WHERE `word_id`=23841; -- locales_item - description : entry=22891
 UPDATE `trans_words` SET `content_loc9`='Tome of Conjure Food VII' WHERE `word_id`=23844; -- locales_item - name : entry=22897
 UPDATE `trans_words` SET `content_loc9`='Teaches Conjure Food (Rank 7).' WHERE `word_id`=23845; -- locales_item - description : entry=22897
-UPDATE `trans_words` SET `content_loc9`='A Crumpled Missive' WHERE `word_id`=23857; -- locales_item - name : entry=22944
-UPDATE `trans_words` SET `content_loc9`='A Careworn Note' WHERE `word_id`=23858; -- locales_item - name : entry=22945
-UPDATE `trans_words` SET `content_loc9`='A Careworn Note' WHERE `word_id`=23858; -- locales_item - name : entry=22972
-UPDATE `trans_words` SET `content_loc9`='A Crumpled Missive' WHERE `word_id`=23857; -- locales_item - name : entry=22973
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=23002
 UPDATE `trans_words` SET `content_loc9`='Counts as an Air, Earth, Fire, and Water totem.' WHERE `word_id`=23479; -- locales_item - description : entry=23005
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=23007
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=23015
-UPDATE `trans_words` SET `content_loc9`='A bag of 5 gold. For those who like telling children there\'s no Great Father Winter...' WHERE `word_id`=23891; -- locales_item - description : entry=23022
+UPDATE `trans_words` SET `content_loc9`='A bag of 5 gold.  For those who like telling children there\'s no Great Father Winter...' WHERE `word_id`=23891; -- locales_item - description : entry=23022
 UPDATE `trans_words` SET `content_loc9`='Glaive of the Defender' WHERE `word_id`=23918; -- locales_item - name : entry=23051
 UPDATE `trans_words` SET `content_loc9`='Teaches you how to summon this companion.' WHERE `word_id`=11389; -- locales_item - description : entry=23083
 UPDATE `trans_words` SET `content_loc9`='Counts as an Air, Earth, Fire, and Water totem.' WHERE `word_id`=23479; -- locales_item - description : entry=23199
@@ -1892,7 +1843,6 @@ UPDATE `trans_words` SET `content_loc9`='Counts as an Air, Earth, Fire, and Wate
 UPDATE `trans_words` SET `content_loc9`='Gooey, melty, good.' WHERE `word_id`=23990; -- locales_item - description : entry=23211
 UPDATE `trans_words` SET `content_loc9`='Tablet of Flame Shock VI' WHERE `word_id`=24053; -- locales_item - name : entry=23320
 UPDATE `trans_words` SET `content_loc9`='Teaches Flame Shock (Rank 6).' WHERE `word_id`=24054; -- locales_item - description : entry=23320
-UPDATE `trans_words` SET `content_loc9`='Jom Gabbar' WHERE `word_id`=24079; -- locales_item - name : entry=23570
 UPDATE `trans_words` SET `content_loc9`='Diet McWeaksauce' WHERE `word_id`=24081; -- locales_item - name : entry=23578
 UPDATE `trans_words` SET `content_loc9`='Food for the Mind' WHERE `word_id`=24082; -- locales_item - description : entry=23578
 UPDATE `trans_words` SET `content_loc9`='The McWeaksauce Classic' WHERE `word_id`=24083; -- locales_item - name : entry=23579

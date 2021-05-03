@@ -3,19 +3,34 @@ SET NAMES 'utf8';
 UPDATE `trans_words` SET `content_loc9`='GM Visual' WHERE `word_id`=72308; -- locales_creature - subname : entry=1
 UPDATE `trans_words` SET `content_loc9`='Spawnpoint' WHERE `word_id`=72309; -- locales_creature - name : entry=2
 UPDATE `trans_words` SET `content_loc9`='GM Visual' WHERE `word_id`=72308; -- locales_creature - subname : entry=2
+UPDATE `trans_words` SET `content_loc9`='Corina Steele' WHERE `word_id`=72319; -- locales_creature - name : entry=54
 UPDATE `trans_words` SET `content_loc9`='Thuros Lightfingers' WHERE `word_id`=72322; -- locales_creature - name : entry=61
+UPDATE `trans_words` SET `content_loc9`='Tharynn Bouden' WHERE `word_id`=72323; -- locales_creature - name : entry=66
+UPDATE `trans_words` SET `content_loc9`='Kurran Steele' WHERE `word_id`=72327; -- locales_creature - name : entry=74
+UPDATE `trans_words` SET `content_loc9`='Janos Hammerknuckle' WHERE `word_id`=72329; -- locales_creature - name : entry=78
 UPDATE `trans_words` SET `content_loc9`='Gruff Swiftbite' WHERE `word_id`=72339; -- locales_creature - name : entry=100
 UPDATE `trans_words` SET `content_loc9`='Garrick Padfoot' WHERE `word_id`=72340; -- locales_creature - name : entry=103
 UPDATE `trans_words` SET `content_loc9`='Longsnout' WHERE `word_id`=72347; -- locales_creature - name : entry=119
+UPDATE `trans_words` SET `content_loc9`='Brog Hamfist' WHERE `word_id`=72355; -- locales_creature - name : entry=151
+UPDATE `trans_words` SET `content_loc9`='Brother Danil' WHERE `word_id`=72357; -- locales_creature - name : entry=152
 UPDATE `trans_words` SET `content_loc9`='Goretusk' WHERE `word_id`=72359; -- locales_creature - name : entry=157
+UPDATE `trans_words` SET `content_loc9`='Morhan Coppertongue' WHERE `word_id`=72360; -- locales_creature - name : entry=167
+UPDATE `trans_words` SET `content_loc9`='Dermot Johns' WHERE `word_id`=72363; -- locales_creature - name : entry=190
 UPDATE `trans_words` SET `content_loc9`='Eagan Peltskinner' WHERE `word_id`=72365; -- locales_creature - name : entry=196
+UPDATE `trans_words` SET `content_loc9`='Khelden Bremen' WHERE `word_id`=72367; -- locales_creature - name : entry=198
 UPDATE `trans_words` SET `content_loc9`='Nightbane Vile Fang' WHERE `word_id`=72373; -- locales_creature - name : entry=206
+UPDATE `trans_words` SET `content_loc9`='Nillen Andemar' WHERE `word_id`=72380; -- locales_creature - name : entry=222
+UPDATE `trans_words` SET `content_loc9`='Dan Golthas' WHERE `word_id`=72382; -- locales_creature - name : entry=223
+UPDATE `trans_words` SET `content_loc9`='Gavin Gnarltree' WHERE `word_id`=72384; -- locales_creature - name : entry=225
+UPDATE `trans_words` SET `content_loc9`='Morg Gnarltree' WHERE `word_id`=72385; -- locales_creature - name : entry=226
+UPDATE `trans_words` SET `content_loc9`='Mabel Solaj' WHERE `word_id`=72387; -- locales_creature - name : entry=227
+UPDATE `trans_words` SET `content_loc9`='Avette Fellwood' WHERE `word_id`=72389; -- locales_creature - name : entry=228
+UPDATE `trans_words` SET `content_loc9`='Gryan Stoutmantle' WHERE `word_id`=72393; -- locales_creature - name : entry=234
 UPDATE `trans_words` SET `content_loc9`='Salma Saldean' WHERE `word_id`=72395; -- locales_creature - name : entry=235
 UPDATE `trans_words` SET `content_loc9`='Verna Furlbrow' WHERE `word_id`=72397; -- locales_creature - name : entry=238
 UPDATE `trans_words` SET `content_loc9`='Grimbooze Thunderbrew' WHERE `word_id`=72398; -- locales_creature - name : entry=239
 UPDATE `trans_words` SET `content_loc9`='Remy "Two Times"' WHERE `word_id`=72400; -- locales_creature - name : entry=241
 UPDATE `trans_words` SET `content_loc9`='Ma Stonefield' WHERE `word_id`=72401; -- locales_creature - name : entry=244
-UPDATE `trans_words` SET `content_loc9`='"Auntie" Bernice Stonefield' WHERE `word_id`=72402; -- locales_creature - name : entry=246
 UPDATE `trans_words` SET `content_loc9`='Billy Maclure' WHERE `word_id`=72403; -- locales_creature - name : entry=247
 UPDATE `trans_words` SET `content_loc9`='Gramma Stonefield' WHERE `word_id`=72404; -- locales_creature - name : entry=248
 UPDATE `trans_words` SET `content_loc9`='Pa Maclure' WHERE `word_id`=72405; -- locales_creature - name : entry=250
@@ -23,26 +38,37 @@ UPDATE `trans_words` SET `content_loc9`='Maybell Maclure' WHERE `word_id`=72406;
 UPDATE `trans_words` SET `content_loc9`='Tommy Joe Stonefield' WHERE `word_id`=72407; -- locales_creature - name : entry=252
 UPDATE `trans_words` SET `content_loc9`='William Pestle' WHERE `word_id`=72408; -- locales_creature - name : entry=253
 UPDATE `trans_words` SET `content_loc9`='Gerard Tiller' WHERE `word_id`=72409; -- locales_creature - name : entry=255
+UPDATE `trans_words` SET `content_loc9`='Joshua Maclure' WHERE `word_id`=72411; -- locales_creature - name : entry=258
 UPDATE `trans_words` SET `content_loc9`='Guard Thomas' WHERE `word_id`=72413; -- locales_creature - name : entry=261
+UPDATE `trans_words` SET `content_loc9`='Lord Ello Ebonlocke' WHERE `word_id`=72414; -- locales_creature - name : entry=263
 UPDATE `trans_words` SET `content_loc9`='Leader of The Night Watch' WHERE `word_id`=72417; -- locales_creature - subname : entry=264
 UPDATE `trans_words` SET `content_loc9`='Madame Eva' WHERE `word_id`=72418; -- locales_creature - name : entry=265
 UPDATE `trans_words` SET `content_loc9`='Clerk Daltry' WHERE `word_id`=72420; -- locales_creature - name : entry=267
+UPDATE `trans_words` SET `content_loc9`='Sirra Von\'Indi' WHERE `word_id`=72421; -- locales_creature - name : entry=268
+UPDATE `trans_words` SET `content_loc9`='Role Dreuger' WHERE `word_id`=72423; -- locales_creature - name : entry=269
 UPDATE `trans_words` SET `content_loc9`='Chef Grual' WHERE `word_id`=72428; -- locales_creature - name : entry=272
 UPDATE `trans_words` SET `content_loc9`='Tavernkeep Smitts' WHERE `word_id`=72429; -- locales_creature - name : entry=273
+UPDATE `trans_words` SET `content_loc9`='Barkeep Hann' WHERE `word_id`=72430; -- locales_creature - name : entry=274
 UPDATE `trans_words` SET `content_loc9`='Whit Wantmal' WHERE `word_id`=72432; -- locales_creature - name : entry=275
 UPDATE `trans_words` SET `content_loc9`='Viktori Prism\'Antras' WHERE `word_id`=72433; -- locales_creature - name : entry=276
+UPDATE `trans_words` SET `content_loc9`='Roberto Pupellyverbos' WHERE `word_id`=72434; -- locales_creature - name : entry=277
 UPDATE `trans_words` SET `content_loc9`='Sara Timberlain' WHERE `word_id`=72436; -- locales_creature - name : entry=278
 UPDATE `trans_words` SET `content_loc9`='Morgan Pestle' WHERE `word_id`=72437; -- locales_creature - name : entry=279
-UPDATE `trans_words` SET `content_loc9`='Murloc' WHERE `word_id`=72439; -- locales_creature - name : entry=285
 UPDATE `trans_words` SET `content_loc9`='Jitters' WHERE `word_id`=72440; -- locales_creature - name : entry=288
+UPDATE `trans_words` SET `content_loc9`='Abercrombie' WHERE `word_id`=72441; -- locales_creature - name : entry=289
 UPDATE `trans_words` SET `content_loc9`='Caretaker Folsom' WHERE `word_id`=72446; -- locales_creature - name : entry=297
 UPDATE `trans_words` SET `content_loc9`='Zzarc\' Vul' WHERE `word_id`=72448; -- locales_creature - name : entry=300
 UPDATE `trans_words` SET `content_loc9`='Blind Mary' WHERE `word_id`=72449; -- locales_creature - name : entry=302
 UPDATE `trans_words` SET `content_loc9`='Pinto' WHERE `word_id`=72453; -- locales_creature - name : entry=307
 UPDATE `trans_words` SET `content_loc9`='Sven Yorgen' WHERE `word_id`=72455; -- locales_creature - name : entry=311
+UPDATE `trans_words` SET `content_loc9`='Theocritus' WHERE `word_id`=72456; -- locales_creature - name : entry=313
+UPDATE `trans_words` SET `content_loc9`='Eliza' WHERE `word_id`=72458; -- locales_creature - name : entry=314
 UPDATE `trans_words` SET `content_loc9`='Stalvan Mistmantle' WHERE `word_id`=72460; -- locales_creature - name : entry=315
 UPDATE `trans_words` SET `content_loc9`='Hogan Ference' WHERE `word_id`=72461; -- locales_creature - name : entry=325
 UPDATE `trans_words` SET `content_loc9`='Goldtooth' WHERE `word_id`=72462; -- locales_creature - name : entry=327
+UPDATE `trans_words` SET `content_loc9`='Zaldimar Wefhellt' WHERE `word_id`=72463; -- locales_creature - name : entry=328
+UPDATE `trans_words` SET `content_loc9`='Maginor Dumas' WHERE `word_id`=72466; -- locales_creature - name : entry=331
+UPDATE `trans_words` SET `content_loc9`='Gath\'Ilzogg' WHERE `word_id`=72470; -- locales_creature - name : entry=334
 UPDATE `trans_words` SET `content_loc9`='Singe' WHERE `word_id`=72472; -- locales_creature - name : entry=335
 UPDATE `trans_words` SET `content_loc9`='Mazen Mac\'Nadir' WHERE `word_id`=72473; -- locales_creature - name : entry=338
 UPDATE `trans_words` SET `content_loc9`='Academy of Arcane Arts and Sciences' WHERE `word_id`=72474; -- locales_creature - subname : entry=338
@@ -56,8 +82,10 @@ UPDATE `trans_words` SET `content_loc9`='Grizzle Halfmane' WHERE `word_id`=72483
 UPDATE `trans_words` SET `content_loc9`='Alterac Valley Battlemaster' WHERE `word_id`=72484; -- locales_creature - subname : entry=347
 UPDATE `trans_words` SET `content_loc9`='Zem Leeward' WHERE `word_id`=72485; -- locales_creature - name : entry=348
 UPDATE `trans_words` SET `content_loc9`='Corporal Keeshan' WHERE `word_id`=72486; -- locales_creature - name : entry=349
+UPDATE `trans_words` SET `content_loc9`='Dungar Longdrink' WHERE `word_id`=72487; -- locales_creature - name : entry=352
 UPDATE `trans_words` SET `content_loc9`='Black Wolf' WHERE `word_id`=72489; -- locales_creature - name : entry=356
 UPDATE `trans_words` SET `content_loc9`='Riding Wolf (Winter)' WHERE `word_id`=72490; -- locales_creature - name : entry=359
+UPDATE `trans_words` SET `content_loc9`='Karm Ironquill' WHERE `word_id`=72491; -- locales_creature - name : entry=372
 UPDATE `trans_words` SET `content_loc9`='Cog Glitzspinner' WHERE `word_id`=72493; -- locales_creature - name : entry=374
 UPDATE `trans_words` SET `content_loc9`='Priestess Anetta' WHERE `word_id`=72494; -- locales_creature - name : entry=375
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=375
@@ -82,7 +110,6 @@ UPDATE `trans_words` SET `content_loc9`='Morganth' WHERE `word_id`=72511; -- loc
 UPDATE `trans_words` SET `content_loc9`='Stitches' WHERE `word_id`=72512; -- locales_creature - name : entry=412
 UPDATE `trans_words` SET `content_loc9`='Gift from the Embalmer' WHERE `word_id`=72513; -- locales_creature - subname : entry=412
 UPDATE `trans_words` SET `content_loc9`='Verner Osgood' WHERE `word_id`=72514; -- locales_creature - name : entry=415
-UPDATE `trans_words` SET `content_loc9`='Imp' WHERE `word_id`=72515; -- locales_creature - name : entry=416
 UPDATE `trans_words` SET `content_loc9`='Murloc Flesheater' WHERE `word_id`=72517; -- locales_creature - name : entry=422
 UPDATE `trans_words` SET `content_loc9`='Redridge Mongrel' WHERE `word_id`=72518; -- locales_creature - name : entry=423
 UPDATE `trans_words` SET `content_loc9`='Redridge Poacher' WHERE `word_id`=72519; -- locales_creature - name : entry=424
@@ -117,6 +144,7 @@ UPDATE `trans_words` SET `content_loc9`='Demisette Cloyce' WHERE `word_id`=72547
 UPDATE `trans_words` SET `content_loc9`='Warlock Trainer' WHERE `word_id`=72545; -- locales_creature - subname : entry=461
 UPDATE `trans_words` SET `content_loc9`='Vultros' WHERE `word_id`=72548; -- locales_creature - name : entry=462
 UPDATE `trans_words` SET `content_loc9`='Guard Parker' WHERE `word_id`=72549; -- locales_creature - name : entry=464
+UPDATE `trans_words` SET `content_loc9`='Barkeep Dobbins' WHERE `word_id`=72550; -- locales_creature - name : entry=465
 UPDATE `trans_words` SET `content_loc9`='General Marcus Jonathan' WHERE `word_id`=72551; -- locales_creature - name : entry=466
 UPDATE `trans_words` SET `content_loc9`='High Commander of Stormwind Defense' WHERE `word_id`=72552; -- locales_creature - subname : entry=466
 UPDATE `trans_words` SET `content_loc9`='The Defias Traitor' WHERE `word_id`=72553; -- locales_creature - name : entry=467
@@ -137,6 +165,10 @@ UPDATE `trans_words` SET `content_loc9`='Elaine Trias' WHERE `word_id`=72567; --
 UPDATE `trans_words` SET `content_loc9`='Mistress of Cheese' WHERE `word_id`=72568; -- locales_creature - subname : entry=483
 UPDATE `trans_words` SET `content_loc9`='Blackrock Outrunner' WHERE `word_id`=72569; -- locales_creature - name : entry=485
 UPDATE `trans_words` SET `content_loc9`='Tharil\'zun' WHERE `word_id`=72570; -- locales_creature - name : entry=486
+UPDATE `trans_words` SET `content_loc9`='Protector Bialon' WHERE `word_id`=72571; -- locales_creature - name : entry=487
+UPDATE `trans_words` SET `content_loc9`='Protector Weaver' WHERE `word_id`=72572; -- locales_creature - name : entry=488
+UPDATE `trans_words` SET `content_loc9`='Protector Dutfield' WHERE `word_id`=72573; -- locales_creature - name : entry=489
+UPDATE `trans_words` SET `content_loc9`='Protector Gariel' WHERE `word_id`=72574; -- locales_creature - name : entry=490
 UPDATE `trans_words` SET `content_loc9`='Quartermaster Lewis' WHERE `word_id`=72575; -- locales_creature - name : entry=491
 UPDATE `trans_words` SET `content_loc9`='Quartermaster' WHERE `word_id`=72576; -- locales_creature - subname : entry=491
 UPDATE `trans_words` SET `content_loc9`='Watcher Bukouris' WHERE `word_id`=72577; -- locales_creature - name : entry=494
@@ -164,10 +196,12 @@ UPDATE `trans_words` SET `content_loc9`='Slark' WHERE `word_id`=72597; -- locale
 UPDATE `trans_words` SET `content_loc9`='Brack' WHERE `word_id`=72598; -- locales_creature - name : entry=520
 UPDATE `trans_words` SET `content_loc9`='Lupos' WHERE `word_id`=72599; -- locales_creature - name : entry=521
 UPDATE `trans_words` SET `content_loc9`='Mor\'Ladim' WHERE `word_id`=72600; -- locales_creature - name : entry=522
+UPDATE `trans_words` SET `content_loc9`='Thor' WHERE `word_id`=72601; -- locales_creature - name : entry=523
 UPDATE `trans_words` SET `content_loc9`='Rockhide Boar' WHERE `word_id`=72602; -- locales_creature - name : entry=524
 UPDATE `trans_words` SET `content_loc9`='Mangy Wolf' WHERE `word_id`=72603; -- locales_creature - name : entry=525
 UPDATE `trans_words` SET `content_loc9`='Skeletal Fiend' WHERE `word_id`=72604; -- locales_creature - name : entry=531
 UPDATE `trans_words` SET `content_loc9`='Nightbane Shadow Weaver' WHERE `word_id`=72605; -- locales_creature - name : entry=533
+UPDATE `trans_words` SET `content_loc9`='Nefaru' WHERE `word_id`=72606; -- locales_creature - name : entry=534
 UPDATE `trans_words` SET `content_loc9`='Pygmy Venom Web Spider' WHERE `word_id`=72608; -- locales_creature - name : entry=539
 UPDATE `trans_words` SET `content_loc9`='Riding Gryphon' WHERE `word_id`=72609; -- locales_creature - name : entry=541
 UPDATE `trans_words` SET `content_loc9`='Nalesette Wildbringer' WHERE `word_id`=72610; -- locales_creature - name : entry=543
@@ -216,13 +250,13 @@ UPDATE `trans_words` SET `content_loc9`='Black Ravager' WHERE `word_id`=72653; -
 UPDATE `trans_words` SET `content_loc9`='Elaine Carevin' WHERE `word_id`=72654; -- locales_creature - name : entry=633
 UPDATE `trans_words` SET `content_loc9`='Defias Overseer' WHERE `word_id`=72655; -- locales_creature - name : entry=634
 UPDATE `trans_words` SET `content_loc9`='Defias Blackguard' WHERE `word_id`=72656; -- locales_creature - name : entry=636
-UPDATE `trans_words` SET `content_loc9`='Edwin VanCleef' WHERE `word_id`=72657; -- locales_creature - name : entry=639
 UPDATE `trans_words` SET `content_loc9`='Defias Kingpin' WHERE `word_id`=72658; -- locales_creature - subname : entry=639
 UPDATE `trans_words` SET `content_loc9`='Goblin Woodcarver' WHERE `word_id`=72659; -- locales_creature - name : entry=641
 UPDATE `trans_words` SET `content_loc9`='Sneed\'s Shredder' WHERE `word_id`=72660; -- locales_creature - name : entry=642
 UPDATE `trans_words` SET `content_loc9`='Lumbermaster' WHERE `word_id`=72661; -- locales_creature - subname : entry=642
 UPDATE `trans_words` SET `content_loc9`='Sneed' WHERE `word_id`=72662; -- locales_creature - name : entry=643
 UPDATE `trans_words` SET `content_loc9`='Lumbermaster' WHERE `word_id`=72661; -- locales_creature - subname : entry=643
+UPDATE `trans_words` SET `content_loc9`='Rhahk\'Zor' WHERE `word_id`=72663; -- locales_creature - name : entry=644
 UPDATE `trans_words` SET `content_loc9`='Cookie' WHERE `word_id`=72665; -- locales_creature - name : entry=645
 UPDATE `trans_words` SET `content_loc9`='The Ship\'s Cook' WHERE `word_id`=72666; -- locales_creature - subname : entry=645
 UPDATE `trans_words` SET `content_loc9`='Mr. Smite' WHERE `word_id`=72667; -- locales_creature - name : entry=646
@@ -339,8 +373,10 @@ UPDATE `trans_words` SET `content_loc9`='Skullsplitter Beastmaster' WHERE `word_
 UPDATE `trans_words` SET `content_loc9`='Skeletal Warder' WHERE `word_id`=72780; -- locales_creature - name : entry=785
 UPDATE `trans_words` SET `content_loc9`='Grelin Whitebeard' WHERE `word_id`=72781; -- locales_creature - name : entry=786
 UPDATE `trans_words` SET `content_loc9`='Skeletal Healer' WHERE `word_id`=72782; -- locales_creature - name : entry=787
+UPDATE `trans_words` SET `content_loc9`='Kimberly Hiett' WHERE `word_id`=72783; -- locales_creature - name : entry=789
 UPDATE `trans_words` SET `content_loc9`='Karen Taylor' WHERE `word_id`=72785; -- locales_creature - name : entry=790
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing & Mining Supplies' WHERE `word_id`=72786; -- locales_creature - subname : entry=790
+UPDATE `trans_words` SET `content_loc9`='Lindsay Ashlock' WHERE `word_id`=72787; -- locales_creature - name : entry=791
 UPDATE `trans_words` SET `content_loc9`='Kara Adams' WHERE `word_id`=72788; -- locales_creature - name : entry=793
 UPDATE `trans_words` SET `content_loc9`='Shield Crafter' WHERE `word_id`=72789; -- locales_creature - subname : entry=793
 UPDATE `trans_words` SET `content_loc9`='Matt' WHERE `word_id`=72790; -- locales_creature - name : entry=794
@@ -366,6 +402,8 @@ UPDATE `trans_words` SET `content_loc9`='Sergeant Malthus' WHERE `word_id`=72809
 UPDATE `trans_words` SET `content_loc9`='Bookie Herod' WHERE `word_id`=72810; -- locales_creature - name : entry=815
 UPDATE `trans_words` SET `content_loc9`='Mai\'Zoth' WHERE `word_id`=72811; -- locales_creature - name : entry=818
 UPDATE `trans_words` SET `content_loc9`='Servant of Ilgalar' WHERE `word_id`=72812; -- locales_creature - name : entry=819
+UPDATE `trans_words` SET `content_loc9`='Scout Riell' WHERE `word_id`=72813; -- locales_creature - name : entry=820
+UPDATE `trans_words` SET `content_loc9`='Captain Danuvin' WHERE `word_id`=72814; -- locales_creature - name : entry=821
 UPDATE `trans_words` SET `content_loc9`='Deputy Willem' WHERE `word_id`=72816; -- locales_creature - name : entry=823
 UPDATE `trans_words` SET `content_loc9`='Defias Digger' WHERE `word_id`=72817; -- locales_creature - name : entry=824
 UPDATE `trans_words` SET `content_loc9`='Watcher Jan' WHERE `word_id`=72818; -- locales_creature - name : entry=826
@@ -374,16 +412,19 @@ UPDATE `trans_words` SET `content_loc9`='Watcher Mocarski' WHERE `word_id`=72819
 UPDATE `trans_words` SET `content_loc9`='The Night Watch' WHERE `word_id`=72578; -- locales_creature - subname : entry=827
 UPDATE `trans_words` SET `content_loc9`='Watcher Petras' WHERE `word_id`=72820; -- locales_creature - name : entry=828
 UPDATE `trans_words` SET `content_loc9`='The Night Watch' WHERE `word_id`=72578; -- locales_creature - subname : entry=828
+UPDATE `trans_words` SET `content_loc9`='Adlin Pridedrift' WHERE `word_id`=72821; -- locales_creature - name : entry=829
 UPDATE `trans_words` SET `content_loc9`='Sand Crawler' WHERE `word_id`=72822; -- locales_creature - name : entry=830
 UPDATE `trans_words` SET `content_loc9`='Sea Crawler' WHERE `word_id`=72823; -- locales_creature - name : entry=831
 UPDATE `trans_words` SET `content_loc9`='Dust Devil' WHERE `word_id`=72824; -- locales_creature - name : entry=832
 UPDATE `trans_words` SET `content_loc9`='Coyote Packleader' WHERE `word_id`=72825; -- locales_creature - name : entry=833
 UPDATE `trans_words` SET `content_loc9`='Coyote' WHERE `word_id`=72826; -- locales_creature - name : entry=834
+UPDATE `trans_words` SET `content_loc9`='Durnan Furcutter' WHERE `word_id`=72827; -- locales_creature - name : entry=836
 UPDATE `trans_words` SET `content_loc9`='Branstock Khalder' WHERE `word_id`=72828; -- locales_creature - name : entry=837
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=837
 UPDATE `trans_words` SET `content_loc9`='Watcher Backus' WHERE `word_id`=72829; -- locales_creature - name : entry=840
 UPDATE `trans_words` SET `content_loc9`='The Night Watch' WHERE `word_id`=72578; -- locales_creature - subname : entry=840
 UPDATE `trans_words` SET `content_loc9`='Lumberjack' WHERE `word_id`=72830; -- locales_creature - name : entry=842
+UPDATE `trans_words` SET `content_loc9`='Gina MacGregor' WHERE `word_id`=72831; -- locales_creature - name : entry=843
 UPDATE `trans_words` SET `content_loc9`='Antonio Perelli' WHERE `word_id`=72832; -- locales_creature - name : entry=844
 UPDATE `trans_words` SET `content_loc9`='Traveling Salesman' WHERE `word_id`=72833; -- locales_creature - subname : entry=844
 UPDATE `trans_words` SET `content_loc9`='Rotten Ghoul' WHERE `word_id`=72834; -- locales_creature - name : entry=846
@@ -409,10 +450,15 @@ UPDATE `trans_words` SET `content_loc9`='Stonard Wayfinder' WHERE `word_id`=7285
 UPDATE `trans_words` SET `content_loc9`='Stonard Grunt' WHERE `word_id`=72854; -- locales_creature - name : entry=866
 UPDATE `trans_words` SET `content_loc9`='Stonard Cartographer' WHERE `word_id`=72855; -- locales_creature - name : entry=867
 UPDATE `trans_words` SET `content_loc9`='Stonard Shaman' WHERE `word_id`=72856; -- locales_creature - name : entry=868
+UPDATE `trans_words` SET `content_loc9`='Protector Dorana' WHERE `word_id`=72857; -- locales_creature - name : entry=869
+UPDATE `trans_words` SET `content_loc9`='Protector Deni' WHERE `word_id`=72858; -- locales_creature - name : entry=870
 UPDATE `trans_words` SET `content_loc9`='Saltscale Warrior' WHERE `word_id`=72859; -- locales_creature - name : entry=871
 UPDATE `trans_words` SET `content_loc9`='Saltscale Oracle' WHERE `word_id`=72860; -- locales_creature - name : entry=873
+UPDATE `trans_words` SET `content_loc9`='Protector Korelor' WHERE `word_id`=72861; -- locales_creature - name : entry=874
 UPDATE `trans_words` SET `content_loc9`='Saltscale Tide Lord' WHERE `word_id`=72862; -- locales_creature - name : entry=875
+UPDATE `trans_words` SET `content_loc9`='Protector Leick' WHERE `word_id`=72863; -- locales_creature - name : entry=876
 UPDATE `trans_words` SET `content_loc9`='Saltscale Forager' WHERE `word_id`=72864; -- locales_creature - name : entry=877
+UPDATE `trans_words` SET `content_loc9`='Scout Galiaan' WHERE `word_id`=72865; -- locales_creature - name : entry=878
 UPDATE `trans_words` SET `content_loc9`='Saltscale Hunter' WHERE `word_id`=72866; -- locales_creature - name : entry=879
 UPDATE `trans_words` SET `content_loc9`='Erlan Drudgemoor' WHERE `word_id`=72867; -- locales_creature - name : entry=880
 UPDATE `trans_words` SET `content_loc9`='Surena Caledon' WHERE `word_id`=72868; -- locales_creature - name : entry=881
@@ -474,6 +520,7 @@ UPDATE `trans_words` SET `content_loc9`='Paladin Trainer' WHERE `word_id`=72909;
 UPDATE `trans_words` SET `content_loc9`='Lord Grayson Shadowbreaker' WHERE `word_id`=72912; -- locales_creature - name : entry=928
 UPDATE `trans_words` SET `content_loc9`='Paladin Trainer' WHERE `word_id`=72909; -- locales_creature - subname : entry=928
 UPDATE `trans_words` SET `content_loc9`='Black Widow Hatchling' WHERE `word_id`=72913; -- locales_creature - name : entry=930
+UPDATE `trans_words` SET `content_loc9`='Ariena Stormfeather' WHERE `word_id`=72914; -- locales_creature - name : entry=931
 UPDATE `trans_words` SET `content_loc9`='Guard Ashlock' WHERE `word_id`=72915; -- locales_creature - name : entry=932
 UPDATE `trans_words` SET `content_loc9`='Guard Hiett' WHERE `word_id`=72916; -- locales_creature - name : entry=933
 UPDATE `trans_words` SET `content_loc9`='Guard Clarke' WHERE `word_id`=72917; -- locales_creature - name : entry=934
@@ -486,6 +533,8 @@ UPDATE `trans_words` SET `content_loc9`='Kurzen Medicine Man' WHERE `word_id`=72
 UPDATE `trans_words` SET `content_loc9`='Kurzen Headshrinker' WHERE `word_id`=72924; -- locales_creature - name : entry=941
 UPDATE `trans_words` SET `content_loc9`='Kurzen Witch Doctor' WHERE `word_id`=72925; -- locales_creature - name : entry=942
 UPDATE `trans_words` SET `content_loc9`='Kurzen Wrangler' WHERE `word_id`=72926; -- locales_creature - name : entry=943
+UPDATE `trans_words` SET `content_loc9`='Marryk Nurribit' WHERE `word_id`=72927; -- locales_creature - name : entry=944
+UPDATE `trans_words` SET `content_loc9`='Rybrad Coldbank' WHERE `word_id`=72928; -- locales_creature - name : entry=945
 UPDATE `trans_words` SET `content_loc9`='Frostmane Novice' WHERE `word_id`=72929; -- locales_creature - name : entry=946
 UPDATE `trans_words` SET `content_loc9`='Grik\'nir\'s Servant' WHERE `word_id`=72930; -- locales_creature - subname : entry=946
 UPDATE `trans_words` SET `content_loc9`='Rohh the Silent' WHERE `word_id`=72931; -- locales_creature - name : entry=947
@@ -499,6 +548,7 @@ UPDATE `trans_words` SET `content_loc9`='Kat Sampson' WHERE `word_id`=72938; -- 
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=954
 UPDATE `trans_words` SET `content_loc9`='Sergeant De Vries' WHERE `word_id`=72939; -- locales_creature - name : entry=955
 UPDATE `trans_words` SET `content_loc9`='Morale Officer' WHERE `word_id`=72940; -- locales_creature - subname : entry=955
+UPDATE `trans_words` SET `content_loc9`='Dorin Songblade' WHERE `word_id`=72941; -- locales_creature - name : entry=956
 UPDATE `trans_words` SET `content_loc9`='Dane Lindgren' WHERE `word_id`=72942; -- locales_creature - name : entry=957
 UPDATE `trans_words` SET `content_loc9`='Journeyman Blacksmith' WHERE `word_id`=72593; -- locales_creature - subname : entry=957
 UPDATE `trans_words` SET `content_loc9`='Dawn Brightstar' WHERE `word_id`=72943; -- locales_creature - name : entry=958
@@ -520,14 +570,15 @@ UPDATE `trans_words` SET `content_loc9`='Thultash' WHERE `word_id`=72958; -- loc
 UPDATE `trans_words` SET `content_loc9`='Food & Drink Vendor' WHERE `word_id`=72959; -- locales_creature - subname : entry=982
 UPDATE `trans_words` SET `content_loc9`='Thultazor' WHERE `word_id`=72960; -- locales_creature - name : entry=983
 UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies & Reagents' WHERE `word_id`=72961; -- locales_creature - subname : entry=983
+UPDATE `trans_words` SET `content_loc9`='Thralosh' WHERE `word_id`=72962; -- locales_creature - name : entry=984
 UPDATE `trans_words` SET `content_loc9`='Malosh' WHERE `word_id`=72963; -- locales_creature - name : entry=985
 UPDATE `trans_words` SET `content_loc9`='Warrior Trainer' WHERE `word_id`=72895; -- locales_creature - subname : entry=985
-UPDATE `trans_words` SET `content_loc9`='Haromm' WHERE `word_id`=72964; -- locales_creature - name : entry=986
 UPDATE `trans_words` SET `content_loc9`='Shaman Trainer' WHERE `word_id`=72965; -- locales_creature - subname : entry=986
 UPDATE `trans_words` SET `content_loc9`='Ogromm' WHERE `word_id`=72966; -- locales_creature - name : entry=987
 UPDATE `trans_words` SET `content_loc9`='Hunter Trainer' WHERE `word_id`=72882; -- locales_creature - subname : entry=987
 UPDATE `trans_words` SET `content_loc9`='Kartosh' WHERE `word_id`=72967; -- locales_creature - name : entry=988
 UPDATE `trans_words` SET `content_loc9`='Warlock Trainer' WHERE `word_id`=72545; -- locales_creature - subname : entry=988
+UPDATE `trans_words` SET `content_loc9`='Banalash' WHERE `word_id`=72968; -- locales_creature - name : entry=989
 UPDATE `trans_words` SET `content_loc9`='Watcher Royce' WHERE `word_id`=72969; -- locales_creature - name : entry=999
 UPDATE `trans_words` SET `content_loc9`='The Night Watch' WHERE `word_id`=72578; -- locales_creature - subname : entry=999
 UPDATE `trans_words` SET `content_loc9`='Watcher Blomberg' WHERE `word_id`=72970; -- locales_creature - name : entry=1000
@@ -597,8 +648,11 @@ UPDATE `trans_words` SET `content_loc9`='Gorn' WHERE `word_id`=73031; -- locales
 UPDATE `trans_words` SET `content_loc9`='Crimson Whelp' WHERE `word_id`=73032; -- locales_creature - name : entry=1069
 UPDATE `trans_words` SET `content_loc9`='Deputy Feldon' WHERE `word_id`=73033; -- locales_creature - name : entry=1070
 UPDATE `trans_words` SET `content_loc9`='Roggo Harlbarrow' WHERE `word_id`=73035; -- locales_creature - name : entry=1072
+UPDATE `trans_words` SET `content_loc9`='Ashlan Stonesmirk' WHERE `word_id`=73036; -- locales_creature - name : entry=1073
 UPDATE `trans_words` SET `content_loc9`='Motley Garmason' WHERE `word_id`=73038; -- locales_creature - name : entry=1074
 UPDATE `trans_words` SET `content_loc9`='Rhag Garmason' WHERE `word_id`=73039; -- locales_creature - name : entry=1075
+UPDATE `trans_words` SET `content_loc9`='Merrin Rockweaver' WHERE `word_id`=73040; -- locales_creature - name : entry=1076
+UPDATE `trans_words` SET `content_loc9`='Prospector Whelgar' WHERE `word_id`=73042; -- locales_creature - name : entry=1077
 UPDATE `trans_words` SET `content_loc9`='Ormer Ironbraid' WHERE `word_id`=73043; -- locales_creature - name : entry=1078
 UPDATE `trans_words` SET `content_loc9`='Mire Lord' WHERE `word_id`=73044; -- locales_creature - name : entry=1081
 UPDATE `trans_words` SET `content_loc9`='Sawtooth Crocolisk' WHERE `word_id`=73045; -- locales_creature - name : entry=1082
@@ -626,6 +680,8 @@ UPDATE `trans_words` SET `content_loc9`='Watcher Thayer' WHERE `word_id`=73063; 
 UPDATE `trans_words` SET `content_loc9`='The Night Watch' WHERE `word_id`=72578; -- locales_creature - subname : entry=1101
 UPDATE `trans_words` SET `content_loc9`='Eldrin' WHERE `word_id`=73064; -- locales_creature - name : entry=1103
 UPDATE `trans_words` SET `content_loc9`='Journeyman Tailor' WHERE `word_id`=73065; -- locales_creature - subname : entry=1103
+UPDATE `trans_words` SET `content_loc9`='Grundel Harkin' WHERE `word_id`=73066; -- locales_creature - name : entry=1104
+UPDATE `trans_words` SET `content_loc9`='Jern Hornhelm' WHERE `word_id`=73067; -- locales_creature - name : entry=1105
 UPDATE `trans_words` SET `content_loc9`='Lost One Cook' WHERE `word_id`=73068; -- locales_creature - name : entry=1106
 UPDATE `trans_words` SET `content_loc9`='Mistvale Gorilla' WHERE `word_id`=73069; -- locales_creature - name : entry=1108
 UPDATE `trans_words` SET `content_loc9`='Skeletal Raider' WHERE `word_id`=73070; -- locales_creature - name : entry=1110
@@ -661,11 +717,16 @@ UPDATE `trans_words` SET `content_loc9`='Mosh\'Ogg Brute' WHERE `word_id`=73101;
 UPDATE `trans_words` SET `content_loc9`='Mosh\'Ogg Witch Doctor' WHERE `word_id`=73102; -- locales_creature - name : entry=1144
 UPDATE `trans_words` SET `content_loc9`='Vharr' WHERE `word_id`=73103; -- locales_creature - name : entry=1146
 UPDATE `trans_words` SET `content_loc9`='Superior Weaponsmith' WHERE `word_id`=73104; -- locales_creature - subname : entry=1146
+UPDATE `trans_words` SET `content_loc9`='Hragran' WHERE `word_id`=73105; -- locales_creature - name : entry=1147
+UPDATE `trans_words` SET `content_loc9`='Nerrist' WHERE `word_id`=73106; -- locales_creature - name : entry=1148
+UPDATE `trans_words` SET `content_loc9`='Uthok' WHERE `word_id`=73108; -- locales_creature - name : entry=1149
 UPDATE `trans_words` SET `content_loc9`='River Crocolisk' WHERE `word_id`=73109; -- locales_creature - name : entry=1150
 UPDATE `trans_words` SET `content_loc9`='Saltwater Crocolisk' WHERE `word_id`=73110; -- locales_creature - name : entry=1151
 UPDATE `trans_words` SET `content_loc9`='Snapjaw Crocolisk' WHERE `word_id`=73111; -- locales_creature - name : entry=1152
+UPDATE `trans_words` SET `content_loc9`='Torren Squarejaw' WHERE `word_id`=73112; -- locales_creature - name : entry=1153
 UPDATE `trans_words` SET `content_loc9`='Marek Ironheart' WHERE `word_id`=73113; -- locales_creature - name : entry=1154
 UPDATE `trans_words` SET `content_loc9`='Kelt Thomasin' WHERE `word_id`=73114; -- locales_creature - name : entry=1155
+UPDATE `trans_words` SET `content_loc9`='Vyrin Swiftwind' WHERE `word_id`=73115; -- locales_creature - name : entry=1156
 UPDATE `trans_words` SET `content_loc9`='Cursed Sailor' WHERE `word_id`=73116; -- locales_creature - name : entry=1157
 UPDATE `trans_words` SET `content_loc9`='Cursed Marine' WHERE `word_id`=73117; -- locales_creature - name : entry=1158
 UPDATE `trans_words` SET `content_loc9`='First Mate Snellig' WHERE `word_id`=73118; -- locales_creature - name : entry=1159
@@ -704,6 +765,7 @@ UPDATE `trans_words` SET `content_loc9`='Mountain Buzzard' WHERE `word_id`=73151
 UPDATE `trans_words` SET `content_loc9`='Forest Lurker' WHERE `word_id`=73152; -- locales_creature - name : entry=1195
 UPDATE `trans_words` SET `content_loc9`='Ice Claw Bear' WHERE `word_id`=73153; -- locales_creature - name : entry=1196
 UPDATE `trans_words` SET `content_loc9`='Stonesplinter Shaman' WHERE `word_id`=73154; -- locales_creature - name : entry=1197
+UPDATE `trans_words` SET `content_loc9`='Rallic Finn' WHERE `word_id`=73155; -- locales_creature - name : entry=1198
 UPDATE `trans_words` SET `content_loc9`='Juvenile Snow Leopard' WHERE `word_id`=73156; -- locales_creature - name : entry=1199
 UPDATE `trans_words` SET `content_loc9`='Morbent Fel' WHERE `word_id`=73157; -- locales_creature - name : entry=1200
 UPDATE `trans_words` SET `content_loc9`='Snow Leopard' WHERE `word_id`=73158; -- locales_creature - name : entry=1201
@@ -730,6 +792,7 @@ UPDATE `trans_words` SET `content_loc9`='Young Threshadon' WHERE `word_id`=73177
 UPDATE `trans_words` SET `content_loc9`='Ol\' Sooty' WHERE `word_id`=73178; -- locales_creature - name : entry=1225
 UPDATE `trans_words` SET `content_loc9`='Maxan Anvol' WHERE `word_id`=73179; -- locales_creature - name : entry=1226
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=1226
+UPDATE `trans_words` SET `content_loc9`='Magis Sparkmantle' WHERE `word_id`=73180; -- locales_creature - name : entry=1228
 UPDATE `trans_words` SET `content_loc9`='Granis Swiftaxe' WHERE `word_id`=73181; -- locales_creature - name : entry=1229
 UPDATE `trans_words` SET `content_loc9`='Warrior Trainer' WHERE `word_id`=72895; -- locales_creature - subname : entry=1229
 UPDATE `trans_words` SET `content_loc9`='Grif Wildheart' WHERE `word_id`=73182; -- locales_creature - name : entry=1231
@@ -741,22 +804,28 @@ UPDATE `trans_words` SET `content_loc9`='Rogue Trainer' WHERE `word_id`=72900; -
 UPDATE `trans_words` SET `content_loc9`='Kobold Digger' WHERE `word_id`=73185; -- locales_creature - name : entry=1236
 UPDATE `trans_words` SET `content_loc9`='Kazan Mogosh' WHERE `word_id`=73186; -- locales_creature - name : entry=1237
 UPDATE `trans_words` SET `content_loc9`='Food & Drink Merchant' WHERE `word_id`=73187; -- locales_creature - subname : entry=1237
+UPDATE `trans_words` SET `content_loc9`='Gamili Frosthide' WHERE `word_id`=73188; -- locales_creature - name : entry=1238
 UPDATE `trans_words` SET `content_loc9`='First Mate Fitzsimmons' WHERE `word_id`=73189; -- locales_creature - name : entry=1239
+UPDATE `trans_words` SET `content_loc9`='Boran Ironclink' WHERE `word_id`=73190; -- locales_creature - name : entry=1240
 UPDATE `trans_words` SET `content_loc9`='Tognus Flintfire' WHERE `word_id`=73191; -- locales_creature - name : entry=1241
 UPDATE `trans_words` SET `content_loc9`='Journeyman Blacksmith' WHERE `word_id`=72593; -- locales_creature - subname : entry=1241
 UPDATE `trans_words` SET `content_loc9`='Karl Boran' WHERE `word_id`=73192; -- locales_creature - name : entry=1242
+UPDATE `trans_words` SET `content_loc9`='Hegnar Rumbleshot' WHERE `word_id`=73193; -- locales_creature - name : entry=1243
 UPDATE `trans_words` SET `content_loc9`='Rethiel the Greenwarden' WHERE `word_id`=73194; -- locales_creature - name : entry=1244
 UPDATE `trans_words` SET `content_loc9`='Kogan Forgestone' WHERE `word_id`=73195; -- locales_creature - name : entry=1245
 UPDATE `trans_words` SET `content_loc9`='Vosur Brakthel' WHERE `word_id`=73196; -- locales_creature - name : entry=1246
 UPDATE `trans_words` SET `content_loc9`='Journeyman Alchemist' WHERE `word_id`=73172; -- locales_creature - subname : entry=1246
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Belm' WHERE `word_id`=73197; -- locales_creature - name : entry=1247
 UPDATE `trans_words` SET `content_loc9`='Quartermaster Hudson' WHERE `word_id`=73198; -- locales_creature - name : entry=1249
 UPDATE `trans_words` SET `content_loc9`='Armorer & Shieldcrafter' WHERE `word_id`=73169; -- locales_creature - subname : entry=1249
 UPDATE `trans_words` SET `content_loc9`='Drake Lindgren' WHERE `word_id`=73199; -- locales_creature - name : entry=1250
 UPDATE `trans_words` SET `content_loc9`='General & Trade Supplies' WHERE `word_id`=73200; -- locales_creature - subname : entry=1250
 UPDATE `trans_words` SET `content_loc9`='Splinter Fist Firemonger' WHERE `word_id`=73201; -- locales_creature - name : entry=1251
 UPDATE `trans_words` SET `content_loc9`='Senir Whitebeard' WHERE `word_id`=73202; -- locales_creature - name : entry=1252
+UPDATE `trans_words` SET `content_loc9`='Father Gavin' WHERE `word_id`=73203; -- locales_creature - name : entry=1253
 UPDATE `trans_words` SET `content_loc9`='Foreman Stonebrow' WHERE `word_id`=73205; -- locales_creature - name : entry=1254
 UPDATE `trans_words` SET `content_loc9`='Miners\' League' WHERE `word_id`=73206; -- locales_creature - subname : entry=1254
+UPDATE `trans_words` SET `content_loc9`='Prospector Gehn' WHERE `word_id`=73207; -- locales_creature - name : entry=1255
 UPDATE `trans_words` SET `content_loc9`='Quarrymaster Thesten' WHERE `word_id`=73208; -- locales_creature - name : entry=1256
 UPDATE `trans_words` SET `content_loc9`='Miners\' League' WHERE `word_id`=73206; -- locales_creature - subname : entry=1256
 UPDATE `trans_words` SET `content_loc9`='Keldric Boucher' WHERE `word_id`=73209; -- locales_creature - name : entry=1257
@@ -774,6 +843,7 @@ UPDATE `trans_words` SET `content_loc9`='Ozzie Togglevolt' WHERE `word_id`=73219
 UPDATE `trans_words` SET `content_loc9`='Razzle Sprysprocket' WHERE `word_id`=73220; -- locales_creature - name : entry=1269
 UPDATE `trans_words` SET `content_loc9`='Fetid Corpse' WHERE `word_id`=73221; -- locales_creature - name : entry=1270
 UPDATE `trans_words` SET `content_loc9`='Old Icebeard' WHERE `word_id`=73222; -- locales_creature - name : entry=1271
+UPDATE `trans_words` SET `content_loc9`='Grawn Thromwyn' WHERE `word_id`=73223; -- locales_creature - name : entry=1273
 UPDATE `trans_words` SET `content_loc9`='Senator Barin Redstone' WHERE `word_id`=73224; -- locales_creature - name : entry=1274
 UPDATE `trans_words` SET `content_loc9`='Kyra Boucher' WHERE `word_id`=73225; -- locales_creature - name : entry=1275
 UPDATE `trans_words` SET `content_loc9`='Reagents' WHERE `word_id`=73226; -- locales_creature - subname : entry=1275
@@ -785,6 +855,8 @@ UPDATE `trans_words` SET `content_loc9`='Mountaineer Droken' WHERE `word_id`=732
 UPDATE `trans_words` SET `content_loc9`='Mountaineer Zaren' WHERE `word_id`=73232; -- locales_creature - name : entry=1281
 UPDATE `trans_words` SET `content_loc9`='Mountaineer Veek' WHERE `word_id`=73233; -- locales_creature - name : entry=1282
 UPDATE `trans_words` SET `content_loc9`='Mountaineer Kalmir' WHERE `word_id`=73234; -- locales_creature - name : entry=1283
+UPDATE `trans_words` SET `content_loc9`='Thurman Mullby' WHERE `word_id`=73236; -- locales_creature - name : entry=1285
+UPDATE `trans_words` SET `content_loc9`='Edna Mullby' WHERE `word_id`=73237; -- locales_creature - name : entry=1286
 UPDATE `trans_words` SET `content_loc9`='Marda Weller' WHERE `word_id`=73238; -- locales_creature - name : entry=1287
 UPDATE `trans_words` SET `content_loc9`='Weapons Merchant' WHERE `word_id`=73239; -- locales_creature - subname : entry=1287
 UPDATE `trans_words` SET `content_loc9`='Gunther Weller' WHERE `word_id`=73240; -- locales_creature - name : entry=1289
@@ -797,6 +869,7 @@ UPDATE `trans_words` SET `content_loc9`='Aldric Moore' WHERE `word_id`=73245; --
 UPDATE `trans_words` SET `content_loc9`='Mail Armor Merchant' WHERE `word_id`=73246; -- locales_creature - subname : entry=1294
 UPDATE `trans_words` SET `content_loc9`='Lara Moore' WHERE `word_id`=73247; -- locales_creature - name : entry=1295
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=1295
+UPDATE `trans_words` SET `content_loc9`='Felder Stover' WHERE `word_id`=73248; -- locales_creature - name : entry=1296
 UPDATE `trans_words` SET `content_loc9`='Lina Stover' WHERE `word_id`=73249; -- locales_creature - name : entry=1297
 UPDATE `trans_words` SET `content_loc9`='Bow & Gun Merchant' WHERE `word_id`=73250; -- locales_creature - subname : entry=1297
 UPDATE `trans_words` SET `content_loc9`='Frederick Stover' WHERE `word_id`=73251; -- locales_creature - name : entry=1298
@@ -813,6 +886,7 @@ UPDATE `trans_words` SET `content_loc9`='Felicia Gump' WHERE `word_id`=73259; --
 UPDATE `trans_words` SET `content_loc9`='Herbalism Supplies' WHERE `word_id`=73260; -- locales_creature - subname : entry=1303
 UPDATE `trans_words` SET `content_loc9`='Darian Singh' WHERE `word_id`=73261; -- locales_creature - name : entry=1304
 UPDATE `trans_words` SET `content_loc9`='Fireworks Vendor' WHERE `word_id`=73262; -- locales_creature - subname : entry=1304
+UPDATE `trans_words` SET `content_loc9`='Jarel Moor' WHERE `word_id`=73263; -- locales_creature - name : entry=1305
 UPDATE `trans_words` SET `content_loc9`='Charys Yserian' WHERE `word_id`=73264; -- locales_creature - name : entry=1307
 UPDATE `trans_words` SET `content_loc9`='Arcane Trinkets Vendor' WHERE `word_id`=73265; -- locales_creature - subname : entry=1307
 UPDATE `trans_words` SET `content_loc9`='Owen Vaughn' WHERE `word_id`=73266; -- locales_creature - name : entry=1308
@@ -821,6 +895,7 @@ UPDATE `trans_words` SET `content_loc9`='Wynne Larson' WHERE `word_id`=73267; --
 UPDATE `trans_words` SET `content_loc9`='Robe Merchant' WHERE `word_id`=73268; -- locales_creature - subname : entry=1309
 UPDATE `trans_words` SET `content_loc9`='Evan Larson' WHERE `word_id`=73269; -- locales_creature - name : entry=1310
 UPDATE `trans_words` SET `content_loc9`='Hatter' WHERE `word_id`=73270; -- locales_creature - subname : entry=1310
+UPDATE `trans_words` SET `content_loc9`='Joachim Brenlow' WHERE `word_id`=73271; -- locales_creature - name : entry=1311
 UPDATE `trans_words` SET `content_loc9`='Ardwyn Cailen' WHERE `word_id`=73272; -- locales_creature - name : entry=1312
 UPDATE `trans_words` SET `content_loc9`='Wand Merchant' WHERE `word_id`=73273; -- locales_creature - subname : entry=1312
 UPDATE `trans_words` SET `content_loc9`='Maria Lumere' WHERE `word_id`=73274; -- locales_creature - name : entry=1313
@@ -833,10 +908,12 @@ UPDATE `trans_words` SET `content_loc9`='Adair Gilroy' WHERE `word_id`=73280; --
 UPDATE `trans_words` SET `content_loc9`='Librarian' WHERE `word_id`=72936; -- locales_creature - subname : entry=1316
 UPDATE `trans_words` SET `content_loc9`='Lucan Cordell' WHERE `word_id`=73281; -- locales_creature - name : entry=1317
 UPDATE `trans_words` SET `content_loc9`='Expert Enchanter' WHERE `word_id`=73282; -- locales_creature - subname : entry=1317
+UPDATE `trans_words` SET `content_loc9`='Jessara Cordell' WHERE `word_id`=73283; -- locales_creature - name : entry=1318
 UPDATE `trans_words` SET `content_loc9`='Bryan Cross' WHERE `word_id`=73285; -- locales_creature - name : entry=1319
 UPDATE `trans_words` SET `content_loc9`='Shield Merchant' WHERE `word_id`=73286; -- locales_creature - subname : entry=1319
 UPDATE `trans_words` SET `content_loc9`='Seoman Griffith' WHERE `word_id`=73287; -- locales_creature - name : entry=1320
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=1320
+UPDATE `trans_words` SET `content_loc9`='Alyssa Griffith' WHERE `word_id`=73288; -- locales_creature - name : entry=1321
 UPDATE `trans_words` SET `content_loc9`='Maxton Strang' WHERE `word_id`=73290; -- locales_creature - name : entry=1322
 UPDATE `trans_words` SET `content_loc9`='Mail Armor Merchant' WHERE `word_id`=73246; -- locales_creature - subname : entry=1322
 UPDATE `trans_words` SET `content_loc9`='Osric Strang' WHERE `word_id`=73291; -- locales_creature - name : entry=1323
@@ -891,6 +968,7 @@ UPDATE `trans_words` SET `content_loc9`='Cooking Trainer' WHERE `word_id`=73336;
 UPDATE `trans_words` SET `content_loc9`='Prospector Stormpike' WHERE `word_id`=73337; -- locales_creature - name : entry=1356
 UPDATE `trans_words` SET `content_loc9`='Miner Grothor' WHERE `word_id`=73338; -- locales_creature - name : entry=1358
 UPDATE `trans_words` SET `content_loc9`='Miner Grumnal' WHERE `word_id`=73339; -- locales_creature - name : entry=1360
+UPDATE `trans_words` SET `content_loc9`='Gothor Brumn' WHERE `word_id`=73340; -- locales_creature - name : entry=1362
 UPDATE `trans_words` SET `content_loc9`='Balgaras the Foul' WHERE `word_id`=73341; -- locales_creature - name : entry=1364
 UPDATE `trans_words` SET `content_loc9`='Goli Krumn' WHERE `word_id`=73342; -- locales_creature - name : entry=1365
 UPDATE `trans_words` SET `content_loc9`='Adam' WHERE `word_id`=73343; -- locales_creature - name : entry=1366
@@ -916,6 +994,7 @@ UPDATE `trans_words` SET `content_loc9`='Brawn' WHERE `word_id`=73362; -- locale
 UPDATE `trans_words` SET `content_loc9`='Expert Leatherworker' WHERE `word_id`=73363; -- locales_creature - subname : entry=1385
 UPDATE `trans_words` SET `content_loc9`='Rogvar' WHERE `word_id`=73364; -- locales_creature - name : entry=1386
 UPDATE `trans_words` SET `content_loc9`='Master Alchemist' WHERE `word_id`=73365; -- locales_creature - subname : entry=1386
+UPDATE `trans_words` SET `content_loc9`='Thysta' WHERE `word_id`=73366; -- locales_creature - name : entry=1387
 UPDATE `trans_words` SET `content_loc9`='Vagash' WHERE `word_id`=73368; -- locales_creature - name : entry=1388
 UPDATE `trans_words` SET `content_loc9`='Berserk Trogg' WHERE `word_id`=73369; -- locales_creature - name : entry=1393
 UPDATE `trans_words` SET `content_loc9`='Ol\' Beasley' WHERE `word_id`=73370; -- locales_creature - name : entry=1395
@@ -964,6 +1043,7 @@ UPDATE `trans_words` SET `content_loc9`='Lord Baurles K. Wishock' WHERE `word_id
 UPDATE `trans_words` SET `content_loc9`='House of Nobles' WHERE `word_id`=73412; -- locales_creature - subname : entry=1439
 UPDATE `trans_words` SET `content_loc9`='Milton Sheaf' WHERE `word_id`=73413; -- locales_creature - name : entry=1440
 UPDATE `trans_words` SET `content_loc9`='Librarian' WHERE `word_id`=72936; -- locales_creature - subname : entry=1440
+UPDATE `trans_words` SET `content_loc9`='Brak Durnad' WHERE `word_id`=73414; -- locales_creature - name : entry=1441
 UPDATE `trans_words` SET `content_loc9`='Helgrum the Swift' WHERE `word_id`=73415; -- locales_creature - name : entry=1442
 UPDATE `trans_words` SET `content_loc9`='Fel\'zerul' WHERE `word_id`=73416; -- locales_creature - name : entry=1443
 UPDATE `trans_words` SET `content_loc9`='Brother Kristoff' WHERE `word_id`=73417; -- locales_creature - name : entry=1444
@@ -973,8 +1053,10 @@ UPDATE `trans_words` SET `content_loc9`='Gimlok Rumdnul' WHERE `word_id`=73420; 
 UPDATE `trans_words` SET `content_loc9`='Neal Allen' WHERE `word_id`=73421; -- locales_creature - name : entry=1448
 UPDATE `trans_words` SET `content_loc9`='Engineering Supplies & General Goods' WHERE `word_id`=73422; -- locales_creature - subname : entry=1448
 UPDATE `trans_words` SET `content_loc9`='Witch Doctor Unbagwa' WHERE `word_id`=73423; -- locales_creature - name : entry=1449
+UPDATE `trans_words` SET `content_loc9`='Brahnmar' WHERE `word_id`=73424; -- locales_creature - name : entry=1450
 UPDATE `trans_words` SET `content_loc9`='Camerick Jongleur' WHERE `word_id`=73425; -- locales_creature - name : entry=1451
 UPDATE `trans_words` SET `content_loc9`='Wandering Minstrel' WHERE `word_id`=73426; -- locales_creature - subname : entry=1451
+UPDATE `trans_words` SET `content_loc9`='Gruham Rumdnul' WHERE `word_id`=73427; -- locales_creature - name : entry=1452
 UPDATE `trans_words` SET `content_loc9`='Dewin Shimmerdawn' WHERE `word_id`=73428; -- locales_creature - name : entry=1453
 UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies' WHERE `word_id`=73275; -- locales_creature - subname : entry=1453
 UPDATE `trans_words` SET `content_loc9`='Jennabink Powerseam' WHERE `word_id`=73429; -- locales_creature - name : entry=1454
@@ -985,12 +1067,18 @@ UPDATE `trans_words` SET `content_loc9`='Samor Festivus' WHERE `word_id`=73432; 
 UPDATE `trans_words` SET `content_loc9`='Shady Dealer' WHERE `word_id`=73296; -- locales_creature - subname : entry=1457
 UPDATE `trans_words` SET `content_loc9`='Telurinon Moonshadow' WHERE `word_id`=73433; -- locales_creature - name : entry=1458
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=1458
+UPDATE `trans_words` SET `content_loc9`='Naela Trance' WHERE `word_id`=73434; -- locales_creature - name : entry=1459
 UPDATE `trans_words` SET `content_loc9`='Unger Statforth' WHERE `word_id`=73435; -- locales_creature - name : entry=1460
 UPDATE `trans_words` SET `content_loc9`='Horse Breeder' WHERE `word_id`=72505; -- locales_creature - subname : entry=1460
+UPDATE `trans_words` SET `content_loc9`='Murndan Derth' WHERE `word_id`=73436; -- locales_creature - name : entry=1461
+UPDATE `trans_words` SET `content_loc9`='Edwina Monzor' WHERE `word_id`=73437; -- locales_creature - name : entry=1462
 UPDATE `trans_words` SET `content_loc9`='Falkan Armonis' WHERE `word_id`=73438; -- locales_creature - name : entry=1463
 UPDATE `trans_words` SET `content_loc9`='Reagents' WHERE `word_id`=73226; -- locales_creature - subname : entry=1463
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Helbrek' WHERE `word_id`=73439; -- locales_creature - name : entry=1464
 UPDATE `trans_words` SET `content_loc9`='Drac Roughcut' WHERE `word_id`=73440; -- locales_creature - name : entry=1465
 UPDATE `trans_words` SET `content_loc9`='Tradesman' WHERE `word_id`=72948; -- locales_creature - subname : entry=1465
+UPDATE `trans_words` SET `content_loc9`='Gretta Finespindle' WHERE `word_id`=73441; -- locales_creature - name : entry=1466
+UPDATE `trans_words` SET `content_loc9`='Vrok Blunderblast' WHERE `word_id`=73442; -- locales_creature - name : entry=1469
 UPDATE `trans_words` SET `content_loc9`='Ghak Healtouch' WHERE `word_id`=73443; -- locales_creature - name : entry=1470
 UPDATE `trans_words` SET `content_loc9`='Journeyman Alchemist' WHERE `word_id`=73172; -- locales_creature - subname : entry=1470
 UPDATE `trans_words` SET `content_loc9`='Jannos Ironwill' WHERE `word_id`=73444; -- locales_creature - name : entry=1471
@@ -1085,6 +1173,10 @@ UPDATE `trans_words` SET `content_loc9`='Bloodsail Warlock' WHERE `word_id`=7353
 UPDATE `trans_words` SET `content_loc9`='Bloodsail Sea Dog' WHERE `word_id`=73531; -- locales_creature - name : entry=1565
 UPDATE `trans_words` SET `content_loc9`='Undertaker Mordo' WHERE `word_id`=73532; -- locales_creature - name : entry=1568
 UPDATE `trans_words` SET `content_loc9`='Executor Arren' WHERE `word_id`=73534; -- locales_creature - name : entry=1570
+UPDATE `trans_words` SET `content_loc9`='Shellei Brondir' WHERE `word_id`=73535; -- locales_creature - name : entry=1571
+UPDATE `trans_words` SET `content_loc9`='Thorgrum Borrelson' WHERE `word_id`=73536; -- locales_creature - name : entry=1572
+UPDATE `trans_words` SET `content_loc9`='Gryth Thurden' WHERE `word_id`=73537; -- locales_creature - name : entry=1573
+UPDATE `trans_words` SET `content_loc9`='Adele Fielder' WHERE `word_id`=73538; -- locales_creature - name : entry=1632
 UPDATE `trans_words` SET `content_loc9`='Northshire Guard' WHERE `word_id`=73539; -- locales_creature - name : entry=1642
 UPDATE `trans_words` SET `content_loc9`='Quartermaster Hicks' WHERE `word_id`=73540; -- locales_creature - name : entry=1645
 UPDATE `trans_words` SET `content_loc9`='Master Weaponsmith' WHERE `word_id`=73541; -- locales_creature - subname : entry=1645
@@ -1108,6 +1200,7 @@ UPDATE `trans_words` SET `content_loc9`='Captain Vachon' WHERE `word_id`=73558; 
 UPDATE `trans_words` SET `content_loc9`='Captain Melrache' WHERE `word_id`=73559; -- locales_creature - name : entry=1665
 UPDATE `trans_words` SET `content_loc9`='Kam Deepfury' WHERE `word_id`=73560; -- locales_creature - name : entry=1666
 UPDATE `trans_words` SET `content_loc9`='Meven Korgal' WHERE `word_id`=73561; -- locales_creature - name : entry=1667
+UPDATE `trans_words` SET `content_loc9`='William MacGregor' WHERE `word_id`=73562; -- locales_creature - name : entry=1668
 UPDATE `trans_words` SET `content_loc9`='Defias Profiteer' WHERE `word_id`=73563; -- locales_creature - name : entry=1669
 UPDATE `trans_words` SET `content_loc9`='Free Wheeling Merchant' WHERE `word_id`=73564; -- locales_creature - subname : entry=1669
 UPDATE `trans_words` SET `content_loc9`='Mike Miller' WHERE `word_id`=73565; -- locales_creature - name : entry=1670
@@ -1122,20 +1215,28 @@ UPDATE `trans_words` SET `content_loc9`='Rot Hide Gnoll' WHERE `word_id`=73570; 
 UPDATE `trans_words` SET `content_loc9`='Rot Hide Mongrel' WHERE `word_id`=73571; -- locales_creature - name : entry=1675
 UPDATE `trans_words` SET `content_loc9`='Finbus Geargrind' WHERE `word_id`=73572; -- locales_creature - name : entry=1676
 UPDATE `trans_words` SET `content_loc9`='Expert Engineer' WHERE `word_id`=73573; -- locales_creature - subname : entry=1676
+UPDATE `trans_words` SET `content_loc9`='Vernon Hale' WHERE `word_id`=73574; -- locales_creature - name : entry=1678
 UPDATE `trans_words` SET `content_loc9`='Avarus Kharag' WHERE `word_id`=73576; -- locales_creature - name : entry=1679
 UPDATE `trans_words` SET `content_loc9`='Matthew Hooper' WHERE `word_id`=73577; -- locales_creature - name : entry=1680
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=1680
 UPDATE `trans_words` SET `content_loc9`='Brock Stoneseeker' WHERE `word_id`=73578; -- locales_creature - name : entry=1681
 UPDATE `trans_words` SET `content_loc9`='Mining Trainer' WHERE `word_id`=73579; -- locales_creature - subname : entry=1681
+UPDATE `trans_words` SET `content_loc9`='Yanni Stoutheart' WHERE `word_id`=73580; -- locales_creature - name : entry=1682
 UPDATE `trans_words` SET `content_loc9`='Warg Deepwater' WHERE `word_id`=73581; -- locales_creature - name : entry=1683
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=1683
+UPDATE `trans_words` SET `content_loc9`='Khara Deepwater' WHERE `word_id`=73582; -- locales_creature - name : entry=1684
+UPDATE `trans_words` SET `content_loc9`='Xandar Goodbeard' WHERE `word_id`=73583; -- locales_creature - name : entry=1685
+UPDATE `trans_words` SET `content_loc9`='Irene Sureshot' WHERE `word_id`=73584; -- locales_creature - name : entry=1686
+UPDATE `trans_words` SET `content_loc9`='Cliff Hadin' WHERE `word_id`=73585; -- locales_creature - name : entry=1687
 UPDATE `trans_words` SET `content_loc9`='Night Web Matriarch' WHERE `word_id`=73586; -- locales_creature - name : entry=1688
 UPDATE `trans_words` SET `content_loc9`='Scarred Crag Boar' WHERE `word_id`=73587; -- locales_creature - name : entry=1689
 UPDATE `trans_words` SET `content_loc9`='Thrawn Boltar' WHERE `word_id`=73588; -- locales_creature - name : entry=1690
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=1690
+UPDATE `trans_words` SET `content_loc9`='Kreg Bilmn' WHERE `word_id`=73590; -- locales_creature - name : entry=1691
 UPDATE `trans_words` SET `content_loc9`='Golorn Frostbeard' WHERE `word_id`=73591; -- locales_creature - name : entry=1692
 UPDATE `trans_words` SET `content_loc9`='Tradesman' WHERE `word_id`=72948; -- locales_creature - subname : entry=1692
 UPDATE `trans_words` SET `content_loc9`='Loch Crocolisk' WHERE `word_id`=73592; -- locales_creature - name : entry=1693
+UPDATE `trans_words` SET `content_loc9`='Loslor Rudge' WHERE `word_id`=73593; -- locales_creature - name : entry=1694
 UPDATE `trans_words` SET `content_loc9`='Rendow' WHERE `word_id`=73595; -- locales_creature - name : entry=1695
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=1695
 UPDATE `trans_words` SET `content_loc9`='Targorr the Dread' WHERE `word_id`=73596; -- locales_creature - name : entry=1696
@@ -1335,7 +1436,6 @@ UPDATE `trans_words` SET `content_loc9`='Mountaineer Barleybrew' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc9`='Pilot Hammerfoot' WHERE `word_id`=73794; -- locales_creature - name : entry=1960
 UPDATE `trans_words` SET `content_loc9`='Mangeclaw' WHERE `word_id`=73795; -- locales_creature - name : entry=1961
 UPDATE `trans_words` SET `content_loc9`='Vidra Hearthstove' WHERE `word_id`=73796; -- locales_creature - name : entry=1963
-UPDATE `trans_words` SET `content_loc9`='Treant' WHERE `word_id`=73797; -- locales_creature - name : entry=1964
 UPDATE `trans_words` SET `content_loc9`='Mountaineer Thalos' WHERE `word_id`=73798; -- locales_creature - name : entry=1965
 UPDATE `trans_words` SET `content_loc9`='Ivar the Foul' WHERE `word_id`=73799; -- locales_creature - name : entry=1971
 UPDATE `trans_words` SET `content_loc9`='Grimson the Pale' WHERE `word_id`=73800; -- locales_creature - name : entry=1972
@@ -1350,7 +1450,6 @@ UPDATE `trans_words` SET `content_loc9`='Nightlash' WHERE `word_id`=73808; -- lo
 UPDATE `trans_words` SET `content_loc9`='Young Thistle Boar' WHERE `word_id`=73809; -- locales_creature - name : entry=1984
 UPDATE `trans_words` SET `content_loc9`='Thistle Boar' WHERE `word_id`=73810; -- locales_creature - name : entry=1985
 UPDATE `trans_words` SET `content_loc9`='Webwood Spider' WHERE `word_id`=73811; -- locales_creature - name : entry=1986
-UPDATE `trans_words` SET `content_loc9`='Grell' WHERE `word_id`=73812; -- locales_creature - name : entry=1988
 UPDATE `trans_words` SET `content_loc9`='Grellkin' WHERE `word_id`=73813; -- locales_creature - name : entry=1989
 UPDATE `trans_words` SET `content_loc9`='Tarindrella' WHERE `word_id`=73814; -- locales_creature - name : entry=1992
 UPDATE `trans_words` SET `content_loc9`='Greenpaw' WHERE `word_id`=73815; -- locales_creature - name : entry=1993
@@ -1430,6 +1529,7 @@ UPDATE `trans_words` SET `content_loc9`='Denalan' WHERE `word_id`=73884; -- loca
 UPDATE `trans_words` SET `content_loc9`='Sentinel Kyra Starsong' WHERE `word_id`=73885; -- locales_creature - name : entry=2081
 UPDATE `trans_words` SET `content_loc9`='Gilshalan Windwalker' WHERE `word_id`=73886; -- locales_creature - name : entry=2082
 UPDATE `trans_words` SET `content_loc9`='Syral Bladeleaf' WHERE `word_id`=73887; -- locales_creature - name : entry=2083
+UPDATE `trans_words` SET `content_loc9`='Natheril Raincaller' WHERE `word_id`=73888; -- locales_creature - name : entry=2084
 UPDATE `trans_words` SET `content_loc9`='Valstag Ironjaw' WHERE `word_id`=73889; -- locales_creature - name : entry=2086
 UPDATE `trans_words` SET `content_loc9`='Giant Wetlands Crocolisk' WHERE `word_id`=73890; -- locales_creature - name : entry=2089
 UPDATE `trans_words` SET `content_loc9`='Ma\'ruk Wyrmscale' WHERE `word_id`=73891; -- locales_creature - name : entry=2090
@@ -1450,12 +1550,15 @@ UPDATE `trans_words` SET `content_loc9`='Gaerolas Talvethren' WHERE `word_id`=73
 UPDATE `trans_words` SET `content_loc9`='Garneg Charskull' WHERE `word_id`=73908; -- locales_creature - name : entry=2108
 UPDATE `trans_words` SET `content_loc9`='Sida' WHERE `word_id`=73910; -- locales_creature - name : entry=2111
 UPDATE `trans_words` SET `content_loc9`='Farrin Daris' WHERE `word_id`=73911; -- locales_creature - name : entry=2112
+UPDATE `trans_words` SET `content_loc9`='Archibald Kava' WHERE `word_id`=73912; -- locales_creature - name : entry=2113
 UPDATE `trans_words` SET `content_loc9`='Faruza' WHERE `word_id`=73913; -- locales_creature - name : entry=2114
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=2114
+UPDATE `trans_words` SET `content_loc9`='Joshua Kien' WHERE `word_id`=73914; -- locales_creature - name : entry=2115
 UPDATE `trans_words` SET `content_loc9`='Blacksmith Rand' WHERE `word_id`=73915; -- locales_creature - name : entry=2116
 UPDATE `trans_words` SET `content_loc9`='Apprentice Armorer' WHERE `word_id`=73916; -- locales_creature - subname : entry=2116
 UPDATE `trans_words` SET `content_loc9`='Harold Raims' WHERE `word_id`=73917; -- locales_creature - name : entry=2117
 UPDATE `trans_words` SET `content_loc9`='Apprentice Weaponsmith' WHERE `word_id`=73600; -- locales_creature - subname : entry=2117
+UPDATE `trans_words` SET `content_loc9`='Abigail Shiel' WHERE `word_id`=73918; -- locales_creature - name : entry=2118
 UPDATE `trans_words` SET `content_loc9`='Dannal Stern' WHERE `word_id`=73919; -- locales_creature - name : entry=2119
 UPDATE `trans_words` SET `content_loc9`='Warrior Trainer' WHERE `word_id`=72895; -- locales_creature - subname : entry=2119
 UPDATE `trans_words` SET `content_loc9`='Archmage Ataeric' WHERE `word_id`=73920; -- locales_creature - name : entry=2120
@@ -1464,10 +1567,12 @@ UPDATE `trans_words` SET `content_loc9`='David Trias' WHERE `word_id`=73922; -- 
 UPDATE `trans_words` SET `content_loc9`='Rogue Trainer' WHERE `word_id`=72900; -- locales_creature - subname : entry=2122
 UPDATE `trans_words` SET `content_loc9`='Dark Cleric Duesten' WHERE `word_id`=73923; -- locales_creature - name : entry=2123
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=2123
+UPDATE `trans_words` SET `content_loc9`='Isabella' WHERE `word_id`=73924; -- locales_creature - name : entry=2124
 UPDATE `trans_words` SET `content_loc9`='Maximillion' WHERE `word_id`=73925; -- locales_creature - name : entry=2126
 UPDATE `trans_words` SET `content_loc9`='Warlock Trainer' WHERE `word_id`=72545; -- locales_creature - subname : entry=2126
 UPDATE `trans_words` SET `content_loc9`='Rupert Boch' WHERE `word_id`=73926; -- locales_creature - name : entry=2127
 UPDATE `trans_words` SET `content_loc9`='Warlock Trainer' WHERE `word_id`=72545; -- locales_creature - subname : entry=2127
+UPDATE `trans_words` SET `content_loc9`='Cain Firesong' WHERE `word_id`=73927; -- locales_creature - name : entry=2128
 UPDATE `trans_words` SET `content_loc9`='Dark Cleric Beryl' WHERE `word_id`=73928; -- locales_creature - name : entry=2129
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=2129
 UPDATE `trans_words` SET `content_loc9`='Marion Call' WHERE `word_id`=73929; -- locales_creature - name : entry=2130
@@ -1476,12 +1581,14 @@ UPDATE `trans_words` SET `content_loc9`='Austil de Mon' WHERE `word_id`=73930; -
 UPDATE `trans_words` SET `content_loc9`='Warrior Trainer' WHERE `word_id`=72895; -- locales_creature - subname : entry=2131
 UPDATE `trans_words` SET `content_loc9`='Carolai Anise' WHERE `word_id`=73931; -- locales_creature - name : entry=2132
 UPDATE `trans_words` SET `content_loc9`='Journeyman Alchemist' WHERE `word_id`=73172; -- locales_creature - subname : entry=2132
+UPDATE `trans_words` SET `content_loc9`='Mrs. Winters' WHERE `word_id`=73932; -- locales_creature - name : entry=2134
 UPDATE `trans_words` SET `content_loc9`='Abe Winters' WHERE `word_id`=73933; -- locales_creature - name : entry=2135
 UPDATE `trans_words` SET `content_loc9`='Apprentice Armorer' WHERE `word_id`=73916; -- locales_creature - subname : entry=2135
 UPDATE `trans_words` SET `content_loc9`='Oliver Dwor' WHERE `word_id`=73934; -- locales_creature - name : entry=2136
 UPDATE `trans_words` SET `content_loc9`='Apprentice Weaponsmith' WHERE `word_id`=73600; -- locales_creature - subname : entry=2136
 UPDATE `trans_words` SET `content_loc9`='Eliza Callen' WHERE `word_id`=73935; -- locales_creature - name : entry=2137
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=2137
+UPDATE `trans_words` SET `content_loc9`='Edwin Harly' WHERE `word_id`=73936; -- locales_creature - name : entry=2140
 UPDATE `trans_words` SET `content_loc9`='The Night Watch' WHERE `word_id`=72578; -- locales_creature - subname : entry=2142
 UPDATE `trans_words` SET `content_loc9`='Dark Iron Raider' WHERE `word_id`=73938; -- locales_creature - name : entry=2149
 UPDATE `trans_words` SET `content_loc9`='Zenn Foulhoof' WHERE `word_id`=73939; -- locales_creature - name : entry=2150
@@ -1543,6 +1650,8 @@ UPDATE `trans_words` SET `content_loc9`='High Executor Darthalia' WHERE `word_id
 UPDATE `trans_words` SET `content_loc9`='Apothecary Lydon' WHERE `word_id`=73995; -- locales_creature - name : entry=2216
 UPDATE `trans_words` SET `content_loc9`='Royal Apothecary Society' WHERE `word_id`=73489; -- locales_creature - subname : entry=2216
 UPDATE `trans_words` SET `content_loc9`='Wind Rider' WHERE `word_id`=73996; -- locales_creature - name : entry=2224
+UPDATE `trans_words` SET `content_loc9`='Zora Guthrek' WHERE `word_id`=73997; -- locales_creature - name : entry=2225
+UPDATE `trans_words` SET `content_loc9`='Karos Razok' WHERE `word_id`=73998; -- locales_creature - name : entry=2226
 UPDATE `trans_words` SET `content_loc9`='Sharlindra' WHERE `word_id`=74000; -- locales_creature - name : entry=2227
 UPDATE `trans_words` SET `content_loc9`='Lieutenant Farren Orinelle' WHERE `word_id`=74001; -- locales_creature - name : entry=2228
 UPDATE `trans_words` SET `content_loc9`='Krusk' WHERE `word_id`=74002; -- locales_creature - name : entry=2229
@@ -1596,8 +1705,10 @@ UPDATE `trans_words` SET `content_loc9`='Captured Farmer' WHERE `word_id`=74050;
 UPDATE `trans_words` SET `content_loc9`='Count Remington Ridgewell' WHERE `word_id`=74051; -- locales_creature - name : entry=2285
 UPDATE `trans_words` SET `content_loc9`='House of Nobles' WHERE `word_id`=73412; -- locales_creature - subname : entry=2285
 UPDATE `trans_words` SET `content_loc9`='Crushridge Warmonger' WHERE `word_id`=74052; -- locales_creature - name : entry=2287
+UPDATE `trans_words` SET `content_loc9`='Borgus Stoutarm' WHERE `word_id`=74053; -- locales_creature - name : entry=2299
 UPDATE `trans_words` SET `content_loc9`='Aethalas' WHERE `word_id`=74054; -- locales_creature - name : entry=2302
 UPDATE `trans_words` SET `content_loc9`='Warsong Gulch Battlemaster' WHERE `word_id`=74055; -- locales_creature - subname : entry=2302
+UPDATE `trans_words` SET `content_loc9`='Lyranne Feathersong' WHERE `word_id`=74056; -- locales_creature - name : entry=2303
 UPDATE `trans_words` SET `content_loc9`='Captain Ironhill' WHERE `word_id`=74058; -- locales_creature - name : entry=2304
 UPDATE `trans_words` SET `content_loc9`='Foreman Bonds' WHERE `word_id`=74059; -- locales_creature - name : entry=2305
 UPDATE `trans_words` SET `content_loc9`='Baron Vardus' WHERE `word_id`=74060; -- locales_creature - name : entry=2306
@@ -1640,6 +1751,7 @@ UPDATE `trans_words` SET `content_loc9`='Elder Moss Creeper' WHERE `word_id`=740
 UPDATE `trans_words` SET `content_loc9`='Giant Moss Creeper' WHERE `word_id`=74097; -- locales_creature - name : entry=2349
 UPDATE `trans_words` SET `content_loc9`='Forest Moss Creeper' WHERE `word_id`=74098; -- locales_creature - name : entry=2350
 UPDATE `trans_words` SET `content_loc9`='Gray Bear' WHERE `word_id`=74099; -- locales_creature - name : entry=2351
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Anderson' WHERE `word_id`=74100; -- locales_creature - name : entry=2352
 UPDATE `trans_words` SET `content_loc9`='Vicious Gray Bear' WHERE `word_id`=74101; -- locales_creature - name : entry=2354
 UPDATE `trans_words` SET `content_loc9`='Elder Gray Bear' WHERE `word_id`=74102; -- locales_creature - name : entry=2356
 UPDATE `trans_words` SET `content_loc9`='Merideth Carlson' WHERE `word_id`=74103; -- locales_creature - name : entry=2357
@@ -1653,6 +1765,7 @@ UPDATE `trans_words` SET `content_loc9`='Neema' WHERE `word_id`=74110; -- locale
 UPDATE `trans_words` SET `content_loc9`='Waitress' WHERE `word_id`=72499; -- locales_creature - subname : entry=2364
 UPDATE `trans_words` SET `content_loc9`='Bront Coldcleave' WHERE `word_id`=74111; -- locales_creature - name : entry=2365
 UPDATE `trans_words` SET `content_loc9`='Butcher' WHERE `word_id`=74112; -- locales_creature - subname : entry=2365
+UPDATE `trans_words` SET `content_loc9`='Barkeep Kelly' WHERE `word_id`=74113; -- locales_creature - name : entry=2366
 UPDATE `trans_words` SET `content_loc9`='Donald Rabonne' WHERE `word_id`=74114; -- locales_creature - name : entry=2367
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=2367
 UPDATE `trans_words` SET `content_loc9`='Daggerspine Shorestalker' WHERE `word_id`=74115; -- locales_creature - name : entry=2368
@@ -1670,12 +1783,16 @@ UPDATE `trans_words` SET `content_loc9`='Town Historian' WHERE `word_id`=74126; 
 UPDATE `trans_words` SET `content_loc9`='Caretaker Smithers' WHERE `word_id`=74127; -- locales_creature - name : entry=2379
 UPDATE `trans_words` SET `content_loc9`='Nandar Branson' WHERE `word_id`=74128; -- locales_creature - name : entry=2380
 UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies' WHERE `word_id`=73275; -- locales_creature - subname : entry=2380
+UPDATE `trans_words` SET `content_loc9`='Micha Yance' WHERE `word_id`=74129; -- locales_creature - name : entry=2381
 UPDATE `trans_words` SET `content_loc9`='Darren Malvew' WHERE `word_id`=74130; -- locales_creature - name : entry=2382
 UPDATE `trans_words` SET `content_loc9`='Stablehand' WHERE `word_id`=74131; -- locales_creature - subname : entry=2382
+UPDATE `trans_words` SET `content_loc9`='Lindea Rabonne' WHERE `word_id`=74132; -- locales_creature - name : entry=2383
 UPDATE `trans_words` SET `content_loc9`='Starving Mountain Lion' WHERE `word_id`=74133; -- locales_creature - name : entry=2384
 UPDATE `trans_words` SET `content_loc9`='Feral Mountain Lion' WHERE `word_id`=74134; -- locales_creature - name : entry=2385
 UPDATE `trans_words` SET `content_loc9`='Southshore Guard' WHERE `word_id`=74135; -- locales_creature - name : entry=2386
 UPDATE `trans_words` SET `content_loc9`='Hillsbrad Councilman' WHERE `word_id`=74136; -- locales_creature - name : entry=2387
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Shay' WHERE `word_id`=74137; -- locales_creature - name : entry=2388
+UPDATE `trans_words` SET `content_loc9`='Zarise' WHERE `word_id`=74138; -- locales_creature - name : entry=2389
 UPDATE `trans_words` SET `content_loc9`='Aranae Venomblood' WHERE `word_id`=74139; -- locales_creature - name : entry=2390
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=2390
 UPDATE `trans_words` SET `content_loc9`='Serge Hinott' WHERE `word_id`=74140; -- locales_creature - name : entry=2391
@@ -1693,6 +1810,7 @@ UPDATE `trans_words` SET `content_loc9`='Tara Coldgaze' WHERE `word_id`=74148; -
 UPDATE `trans_words` SET `content_loc9`='Daryl Stack' WHERE `word_id`=74149; -- locales_creature - name : entry=2399
 UPDATE `trans_words` SET `content_loc9`='Master Tailor' WHERE `word_id`=74150; -- locales_creature - subname : entry=2399
 UPDATE `trans_words` SET `content_loc9`='Craig Hewitt' WHERE `word_id`=74151; -- locales_creature - name : entry=2400
+UPDATE `trans_words` SET `content_loc9`='Kayren Soothallow' WHERE `word_id`=74152; -- locales_creature - name : entry=2401
 UPDATE `trans_words` SET `content_loc9`='Shara Blazen' WHERE `word_id`=74153; -- locales_creature - name : entry=2402
 UPDATE `trans_words` SET `content_loc9`='Farmer Getz' WHERE `word_id`=74154; -- locales_creature - name : entry=2403
 UPDATE `trans_words` SET `content_loc9`='Blacksmith Verringtan' WHERE `word_id`=74155; -- locales_creature - name : entry=2404
@@ -1700,6 +1818,7 @@ UPDATE `trans_words` SET `content_loc9`='Tarren Mill Deathguard' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc9`='Mountain Lion' WHERE `word_id`=74157; -- locales_creature - name : entry=2406
 UPDATE `trans_words` SET `content_loc9`='Hulking Mountain Lion' WHERE `word_id`=74158; -- locales_creature - name : entry=2407
 UPDATE `trans_words` SET `content_loc9`='Snapjaw' WHERE `word_id`=74159; -- locales_creature - name : entry=2408
+UPDATE `trans_words` SET `content_loc9`='Felicia Maline' WHERE `word_id`=74160; -- locales_creature - name : entry=2409
 UPDATE `trans_words` SET `content_loc9`='Magus Wordeen Voidglare' WHERE `word_id`=74161; -- locales_creature - name : entry=2410
 UPDATE `trans_words` SET `content_loc9`='Ricter' WHERE `word_id`=74162; -- locales_creature - name : entry=2411
 UPDATE `trans_words` SET `content_loc9`='Alina' WHERE `word_id`=74163; -- locales_creature - name : entry=2412
@@ -1720,12 +1839,14 @@ UPDATE `trans_words` SET `content_loc9`='Jailor Marlgen' WHERE `word_id`=74177; 
 UPDATE `trans_words` SET `content_loc9`='Novice Thaivand' WHERE `word_id`=74178; -- locales_creature - name : entry=2429
 UPDATE `trans_words` SET `content_loc9`='Chef Jessen' WHERE `word_id`=74179; -- locales_creature - name : entry=2430
 UPDATE `trans_words` SET `content_loc9`='Jailor Borhuin' WHERE `word_id`=74180; -- locales_creature - name : entry=2431
+UPDATE `trans_words` SET `content_loc9`='Darla Harris' WHERE `word_id`=74181; -- locales_creature - name : entry=2432
 UPDATE `trans_words` SET `content_loc9`='Helcular\'s Remains' WHERE `word_id`=74182; -- locales_creature - name : entry=2433
 UPDATE `trans_words` SET `content_loc9`='Shadowy Assassin' WHERE `word_id`=74183; -- locales_creature - name : entry=2434
 UPDATE `trans_words` SET `content_loc9`='Southshore Crier' WHERE `word_id`=74184; -- locales_creature - name : entry=2435
 UPDATE `trans_words` SET `content_loc9`='Farmer Kent' WHERE `word_id`=74185; -- locales_creature - name : entry=2436
 UPDATE `trans_words` SET `content_loc9`='Keeper Bel\'varil' WHERE `word_id`=74186; -- locales_creature - name : entry=2437
 UPDATE `trans_words` SET `content_loc9`='Bartolo Ginsetti' WHERE `word_id`=74187; -- locales_creature - name : entry=2438
+UPDATE `trans_words` SET `content_loc9`='Major Samuelson' WHERE `word_id`=74188; -- locales_creature - name : entry=2439
 UPDATE `trans_words` SET `content_loc9`='Drunken Footpad' WHERE `word_id`=74189; -- locales_creature - name : entry=2440
 UPDATE `trans_words` SET `content_loc9`='Narillasanz' WHERE `word_id`=74191; -- locales_creature - name : entry=2447
 UPDATE `trans_words` SET `content_loc9`='Clerk Horrace Whitesteed' WHERE `word_id`=74192; -- locales_creature - name : entry=2448
@@ -1841,7 +1962,6 @@ UPDATE `trans_words` SET `content_loc9`='Lord Sakrasis' WHERE `word_id`=74282; -
 UPDATE `trans_words` SET `content_loc9`='Catelyn the Blade' WHERE `word_id`=74283; -- locales_creature - name : entry=2542
 UPDATE `trans_words` SET `content_loc9`='Blackwater Raiders' WHERE `word_id`=74228; -- locales_creature - subname : entry=2542
 UPDATE `trans_words` SET `content_loc9`='Archmage Ansirem Runeweaver' WHERE `word_id`=74284; -- locales_creature - name : entry=2543
-UPDATE `trans_words` SET `content_loc9`='Kirin Tor' WHERE `word_id`=74285; -- locales_creature - subname : entry=2543
 UPDATE `trans_words` SET `content_loc9`='Southern Sand Crawler' WHERE `word_id`=74286; -- locales_creature - name : entry=2544
 UPDATE `trans_words` SET `content_loc9`='"Pretty Boy" Duncan' WHERE `word_id`=74287; -- locales_creature - name : entry=2545
 UPDATE `trans_words` SET `content_loc9`='Fleet Master Firallon' WHERE `word_id`=74288; -- locales_creature - name : entry=2546
@@ -1924,6 +2044,7 @@ UPDATE `trans_words` SET `content_loc9`='Spirit of Old' WHERE `word_id`=74363; -
 UPDATE `trans_words` SET `content_loc9`='Gazban' WHERE `word_id`=74364; -- locales_creature - name : entry=2624
 UPDATE `trans_words` SET `content_loc9`='Viznik Goldgrubber' WHERE `word_id`=74365; -- locales_creature - name : entry=2625
 UPDATE `trans_words` SET `content_loc9`='Banker' WHERE `word_id`=74200; -- locales_creature - subname : entry=2625
+UPDATE `trans_words` SET `content_loc9`='Old Man Heming' WHERE `word_id`=74366; -- locales_creature - name : entry=2626
 UPDATE `trans_words` SET `content_loc9`='Grarnik Goodstitch' WHERE `word_id`=74367; -- locales_creature - name : entry=2627
 UPDATE `trans_words` SET `content_loc9`='Expert Tailor' WHERE `word_id`=74368; -- locales_creature - subname : entry=2627
 UPDATE `trans_words` SET `content_loc9`='Dalaran Worker' WHERE `word_id`=74369; -- locales_creature - name : entry=2628
@@ -1970,7 +2091,13 @@ UPDATE `trans_words` SET `content_loc9`='Wenna Silkbeard' WHERE `word_id`=74406;
 UPDATE `trans_words` SET `content_loc9`='Special Goods Dealer' WHERE `word_id`=74407; -- locales_creature - subname : entry=2679
 UPDATE `trans_words` SET `content_loc9`='Vilebranch Wolf Pup' WHERE `word_id`=74408; -- locales_creature - name : entry=2680
 UPDATE `trans_words` SET `content_loc9`='Vilebranch Raiding Wolf' WHERE `word_id`=74409; -- locales_creature - name : entry=2681
+UPDATE `trans_words` SET `content_loc9`='Fradd Swiftgear' WHERE `word_id`=74410; -- locales_creature - name : entry=2682
+UPDATE `trans_words` SET `content_loc9`='Namdo Bizzfizzle' WHERE `word_id`=74411; -- locales_creature - name : entry=2683
+UPDATE `trans_words` SET `content_loc9`='Rizz Loosebolt' WHERE `word_id`=74412; -- locales_creature - name : entry=2684
+UPDATE `trans_words` SET `content_loc9`='Mazk Snipeshot' WHERE `word_id`=74413; -- locales_creature - name : entry=2685
 UPDATE `trans_words` SET `content_loc9`='Witherbark Broodguard' WHERE `word_id`=74414; -- locales_creature - name : entry=2686
+UPDATE `trans_words` SET `content_loc9`='Gnaz Blunderflame' WHERE `word_id`=74415; -- locales_creature - name : entry=2687
+UPDATE `trans_words` SET `content_loc9`='Ruppo Zipcoil' WHERE `word_id`=74416; -- locales_creature - name : entry=2688
 UPDATE `trans_words` SET `content_loc9`='Highvale Outrunner' WHERE `word_id`=74417; -- locales_creature - name : entry=2691
 UPDATE `trans_words` SET `content_loc9`='Highvale Scout' WHERE `word_id`=74418; -- locales_creature - name : entry=2692
 UPDATE `trans_words` SET `content_loc9`='Highvale Marksman' WHERE `word_id`=74419; -- locales_creature - name : entry=2693
@@ -1978,9 +2105,13 @@ UPDATE `trans_words` SET `content_loc9`='Highvale Ranger' WHERE `word_id`=74420;
 UPDATE `trans_words` SET `content_loc9`='PH MODEL WIP' WHERE `word_id`=74421; -- locales_creature - subname : entry=2694
 UPDATE `trans_words` SET `content_loc9`='Sara Balloo' WHERE `word_id`=74422; -- locales_creature - name : entry=2695
 UPDATE `trans_words` SET `content_loc9`='Foggy MacKreel' WHERE `word_id`=74423; -- locales_creature - name : entry=2696
+UPDATE `trans_words` SET `content_loc9`='Clyde Ranthal' WHERE `word_id`=74424; -- locales_creature - name : entry=2697
+UPDATE `trans_words` SET `content_loc9`='George Candarte' WHERE `word_id`=74426; -- locales_creature - name : entry=2698
+UPDATE `trans_words` SET `content_loc9`='Rikqiz' WHERE `word_id`=74427; -- locales_creature - name : entry=2699
 UPDATE `trans_words` SET `content_loc9`='Captain Nials' WHERE `word_id`=74428; -- locales_creature - name : entry=2700
 UPDATE `trans_words` SET `content_loc9`='Dustbelcher Ogre' WHERE `word_id`=74429; -- locales_creature - name : entry=2701
 UPDATE `trans_words` SET `content_loc9`='Zengu' WHERE `word_id`=74430; -- locales_creature - name : entry=2703
+UPDATE `trans_words` SET `content_loc9`='Hanashi' WHERE `word_id`=74431; -- locales_creature - name : entry=2704
 UPDATE `trans_words` SET `content_loc9`='Brewmeister Bilger' WHERE `word_id`=74433; -- locales_creature - name : entry=2705
 UPDATE `trans_words` SET `content_loc9`='Tor\'gan' WHERE `word_id`=74434; -- locales_creature - name : entry=2706
 UPDATE `trans_words` SET `content_loc9`='Shadra' WHERE `word_id`=74435; -- locales_creature - name : entry=2707
@@ -2075,24 +2206,33 @@ UPDATE `trans_words` SET `content_loc9`='Lucian Fenner' WHERE `word_id`=74519; -
 UPDATE `trans_words` SET `content_loc9`='Tresa MacGregor' WHERE `word_id`=74520; -- locales_creature - name : entry=2801
 UPDATE `trans_words` SET `content_loc9`='Survival Trainer' WHERE `word_id`=74521; -- locales_creature - subname : entry=2801
 UPDATE `trans_words` SET `content_loc9`='Susan Tillinghast' WHERE `word_id`=74522; -- locales_creature - name : entry=2802
+UPDATE `trans_words` SET `content_loc9`='Malygen' WHERE `word_id`=74523; -- locales_creature - name : entry=2803
 UPDATE `trans_words` SET `content_loc9`='Kurden Bloodclaw' WHERE `word_id`=74524; -- locales_creature - name : entry=2804
 UPDATE `trans_words` SET `content_loc9`='Warsong Gulch Battlemaster' WHERE `word_id`=74055; -- locales_creature - subname : entry=2804
 UPDATE `trans_words` SET `content_loc9`='Deneb Walker' WHERE `word_id`=74525; -- locales_creature - name : entry=2805
 UPDATE `trans_words` SET `content_loc9`='Scrolls & Potions' WHERE `word_id`=74526; -- locales_creature - subname : entry=2805
+UPDATE `trans_words` SET `content_loc9`='Bale' WHERE `word_id`=74527; -- locales_creature - name : entry=2806
+UPDATE `trans_words` SET `content_loc9`='Vikki Lonsav' WHERE `word_id`=74528; -- locales_creature - name : entry=2808
 UPDATE `trans_words` SET `content_loc9`='Hammon Karwn' WHERE `word_id`=74529; -- locales_creature - name : entry=2810
 UPDATE `trans_words` SET `content_loc9`='Superior Tradesman' WHERE `word_id`=74530; -- locales_creature - subname : entry=2810
 UPDATE `trans_words` SET `content_loc9`='Drovnar Strongbrew' WHERE `word_id`=74531; -- locales_creature - name : entry=2812
 UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies' WHERE `word_id`=73275; -- locales_creature - subname : entry=2812
 UPDATE `trans_words` SET `content_loc9`='Narj Deepslice' WHERE `word_id`=74532; -- locales_creature - name : entry=2814
 UPDATE `trans_words` SET `content_loc9`='Butcher' WHERE `word_id`=74112; -- locales_creature - subname : entry=2814
+UPDATE `trans_words` SET `content_loc9`='Androd Fadran' WHERE `word_id`=74533; -- locales_creature - name : entry=2816
 UPDATE `trans_words` SET `content_loc9`='Rigglefuzz' WHERE `word_id`=74534; -- locales_creature - name : entry=2817
 UPDATE `trans_words` SET `content_loc9`='Slagg' WHERE `word_id`=74535; -- locales_creature - name : entry=2818
 UPDATE `trans_words` SET `content_loc9`='Superior Butcher' WHERE `word_id`=74536; -- locales_creature - subname : entry=2818
+UPDATE `trans_words` SET `content_loc9`='Tunkk' WHERE `word_id`=74537; -- locales_creature - name : entry=2819
+UPDATE `trans_words` SET `content_loc9`='Graud' WHERE `word_id`=74538; -- locales_creature - name : entry=2820
+UPDATE `trans_words` SET `content_loc9`='Keena' WHERE `word_id`=74539; -- locales_creature - name : entry=2821
 UPDATE `trans_words` SET `content_loc9`='Starving Buzzard' WHERE `word_id`=74540; -- locales_creature - name : entry=2829
 UPDATE `trans_words` SET `content_loc9`='Buzzard' WHERE `word_id`=74541; -- locales_creature - name : entry=2830
 UPDATE `trans_words` SET `content_loc9`='Giant Buzzard' WHERE `word_id`=74542; -- locales_creature - name : entry=2831
+UPDATE `trans_words` SET `content_loc9`='Nixxrax Fillamug' WHERE `word_id`=74543; -- locales_creature - name : entry=2832
 UPDATE `trans_words` SET `content_loc9`='Myizz Luckycatch' WHERE `word_id`=74544; -- locales_creature - name : entry=2834
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=2834
+UPDATE `trans_words` SET `content_loc9`='Cedrik Prose' WHERE `word_id`=74545; -- locales_creature - name : entry=2835
 UPDATE `trans_words` SET `content_loc9`='Brikk Keencraft' WHERE `word_id`=74546; -- locales_creature - name : entry=2836
 UPDATE `trans_words` SET `content_loc9`='Master Blacksmith' WHERE `word_id`=74547; -- locales_creature - subname : entry=2836
 UPDATE `trans_words` SET `content_loc9`='Jaxin Chong' WHERE `word_id`=74548; -- locales_creature - name : entry=2837
@@ -2101,6 +2241,7 @@ UPDATE `trans_words` SET `content_loc9`='Crazk Sparks' WHERE `word_id`=74549; --
 UPDATE `trans_words` SET `content_loc9`='Fireworks Merchant' WHERE `word_id`=74550; -- locales_creature - subname : entry=2838
 UPDATE `trans_words` SET `content_loc9`='Haren Kanmae' WHERE `word_id`=74551; -- locales_creature - name : entry=2839
 UPDATE `trans_words` SET `content_loc9`='Superior Bowyer' WHERE `word_id`=74552; -- locales_creature - subname : entry=2839
+UPDATE `trans_words` SET `content_loc9`='Kizz Bluntstrike' WHERE `word_id`=74553; -- locales_creature - name : entry=2840
 UPDATE `trans_words` SET `content_loc9`='Wigcik' WHERE `word_id`=74554; -- locales_creature - name : entry=2842
 UPDATE `trans_words` SET `content_loc9`='Superior Fisherman' WHERE `word_id`=74555; -- locales_creature - subname : entry=2842
 UPDATE `trans_words` SET `content_loc9`='Jutak' WHERE `word_id`=74556; -- locales_creature - name : entry=2843
@@ -2109,12 +2250,14 @@ UPDATE `trans_words` SET `content_loc9`='Hurklor' WHERE `word_id`=74558; -- loca
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=2844
 UPDATE `trans_words` SET `content_loc9`='Fargon Mortalak' WHERE `word_id`=74559; -- locales_creature - name : entry=2845
 UPDATE `trans_words` SET `content_loc9`='Superior Armorer' WHERE `word_id`=73357; -- locales_creature - subname : entry=2845
+UPDATE `trans_words` SET `content_loc9`='Blixrez Goodstitch' WHERE `word_id`=74560; -- locales_creature - name : entry=2846
 UPDATE `trans_words` SET `content_loc9`='Jansen Underwood' WHERE `word_id`=74561; -- locales_creature - name : entry=2847
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=2847
 UPDATE `trans_words` SET `content_loc9`='Glyx Brewright' WHERE `word_id`=74562; -- locales_creature - name : entry=2848
 UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies' WHERE `word_id`=73275; -- locales_creature - subname : entry=2848
 UPDATE `trans_words` SET `content_loc9`='Qixdi Goodstitch' WHERE `word_id`=74563; -- locales_creature - name : entry=2849
 UPDATE `trans_words` SET `content_loc9`='Cloth Armor & Accessories' WHERE `word_id`=74564; -- locales_creature - subname : entry=2849
+UPDATE `trans_words` SET `content_loc9`='Urda' WHERE `word_id`=74565; -- locales_creature - name : entry=2851
 UPDATE `trans_words` SET `content_loc9`='Enslaved Druid of the Talon' WHERE `word_id`=74566; -- locales_creature - name : entry=2852
 UPDATE `trans_words` SET `content_loc9`='Freed Druid of the Talon' WHERE `word_id`=74567; -- locales_creature - name : entry=2853
 UPDATE `trans_words` SET `content_loc9`='Snang' WHERE `word_id`=74568; -- locales_creature - name : entry=2855
@@ -2123,7 +2266,10 @@ UPDATE `trans_words` SET `content_loc9`='Angrun' WHERE `word_id`=74569; -- local
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=2856
 UPDATE `trans_words` SET `content_loc9`='Thund' WHERE `word_id`=74570; -- locales_creature - name : entry=2857
 UPDATE `trans_words` SET `content_loc9`='Journeyman Engineer' WHERE `word_id`=73605; -- locales_creature - subname : entry=2857
+UPDATE `trans_words` SET `content_loc9`='Gringer' WHERE `word_id`=74571; -- locales_creature - name : entry=2858
+UPDATE `trans_words` SET `content_loc9`='Gyll' WHERE `word_id`=74572; -- locales_creature - name : entry=2859
 UPDATE `trans_words` SET `content_loc9`='Sigrun Ironhew' WHERE `word_id`=74573; -- locales_creature - name : entry=2860
+UPDATE `trans_words` SET `content_loc9`='Gorrik' WHERE `word_id`=74574; -- locales_creature - name : entry=2861
 UPDATE `trans_words` SET `content_loc9`='Henria Derth' WHERE `word_id`=74575; -- locales_creature - name : entry=2870
 UPDATE `trans_words` SET `content_loc9`='Wolf Trainer' WHERE `word_id`=74576; -- locales_creature - subname : entry=2870
 UPDATE `trans_words` SET `content_loc9`='Grunenstur Balindom' WHERE `word_id`=74577; -- locales_creature - name : entry=2876
@@ -2143,9 +2289,15 @@ UPDATE `trans_words` SET `content_loc9`='Stonevault Bonesnapper' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc9`='Stonevault Shaman' WHERE `word_id`=74589; -- locales_creature - name : entry=2894
 UPDATE `trans_words` SET `content_loc9`='Dustbelcher Warrior' WHERE `word_id`=74590; -- locales_creature - name : entry=2906
 UPDATE `trans_words` SET `content_loc9`='Dustbelcher Mystic' WHERE `word_id`=74591; -- locales_creature - name : entry=2907
+UPDATE `trans_words` SET `content_loc9`='Grawl' WHERE `word_id`=74592; -- locales_creature - name : entry=2908
 UPDATE `trans_words` SET `content_loc9`='Hammertoe Grez' WHERE `word_id`=74593; -- locales_creature - name : entry=2909
+UPDATE `trans_words` SET `content_loc9`='Prospector Ryedol' WHERE `word_id`=74594; -- locales_creature - name : entry=2910
+UPDATE `trans_words` SET `content_loc9`='Archaeologist Flagongut' WHERE `word_id`=74595; -- locales_creature - name : entry=2911
+UPDATE `trans_words` SET `content_loc9`='Chief Archaeologist Greywhisker' WHERE `word_id`=74596; -- locales_creature - name : entry=2912
+UPDATE `trans_words` SET `content_loc9`='Archaeologist Hollee' WHERE `word_id`=74597; -- locales_creature - name : entry=2913
 UPDATE `trans_words` SET `content_loc9`='Hammertoe\'s Spirit' WHERE `word_id`=74599; -- locales_creature - name : entry=2915
 UPDATE `trans_words` SET `content_loc9`='Historian Karnik' WHERE `word_id`=74600; -- locales_creature - name : entry=2916
+UPDATE `trans_words` SET `content_loc9`='Prospector Remtravel' WHERE `word_id`=74601; -- locales_creature - name : entry=2917
 UPDATE `trans_words` SET `content_loc9`='Advisor Belgrum' WHERE `word_id`=74602; -- locales_creature - name : entry=2918
 UPDATE `trans_words` SET `content_loc9`='Fam\'retor Guardian' WHERE `word_id`=74603; -- locales_creature - name : entry=2919
 UPDATE `trans_words` SET `content_loc9`='Lucien Tosselwrench' WHERE `word_id`=74604; -- locales_creature - name : entry=2920
@@ -2163,6 +2315,7 @@ UPDATE `trans_words` SET `content_loc9`='Zaricotl' WHERE `word_id`=74615; -- loc
 UPDATE `trans_words` SET `content_loc9`='Magregan Deepshadow' WHERE `word_id`=74616; -- locales_creature - name : entry=2932
 UPDATE `trans_words` SET `content_loc9`='Keeper Bel\'dugur' WHERE `word_id`=74617; -- locales_creature - name : entry=2934
 UPDATE `trans_words` SET `content_loc9`='Dagun the Ravenous' WHERE `word_id`=74618; -- locales_creature - name : entry=2937
+UPDATE `trans_words` SET `content_loc9`='Lanie Reed' WHERE `word_id`=74619; -- locales_creature - name : entry=2941
 UPDATE `trans_words` SET `content_loc9`='Ransin Donner' WHERE `word_id`=74620; -- locales_creature - name : entry=2943
 UPDATE `trans_words` SET `content_loc9`='Boss Tho\'grun' WHERE `word_id`=74621; -- locales_creature - name : entry=2944
 UPDATE `trans_words` SET `content_loc9`='Murdaloc' WHERE `word_id`=74622; -- locales_creature - name : entry=2945
@@ -2212,6 +2365,7 @@ UPDATE `trans_words` SET `content_loc9`='Bael\'dun Digger' WHERE `word_id`=74666
 UPDATE `trans_words` SET `content_loc9`='Bael\'dun Appraiser' WHERE `word_id`=74667; -- locales_creature - name : entry=2990
 UPDATE `trans_words` SET `content_loc9`='Greatmother Hawkwind' WHERE `word_id`=74668; -- locales_creature - name : entry=2991
 UPDATE `trans_words` SET `content_loc9`='Healing Ward V' WHERE `word_id`=74669; -- locales_creature - name : entry=2992
+UPDATE `trans_words` SET `content_loc9`='Tal' WHERE `word_id`=74672; -- locales_creature - name : entry=2995
 UPDATE `trans_words` SET `content_loc9`='Torn' WHERE `word_id`=74673; -- locales_creature - name : entry=2996
 UPDATE `trans_words` SET `content_loc9`='Banker' WHERE `word_id`=74200; -- locales_creature - subname : entry=2996
 UPDATE `trans_words` SET `content_loc9`='Jyn Stonehoof' WHERE `word_id`=74674; -- locales_creature - name : entry=2997
@@ -2224,6 +2378,7 @@ UPDATE `trans_words` SET `content_loc9`='Gibbert' WHERE `word_id`=74677; -- loca
 UPDATE `trans_words` SET `content_loc9`='Weapon Merchant' WHERE `word_id`=72957; -- locales_creature - subname : entry=3000
 UPDATE `trans_words` SET `content_loc9`='Brek Stonehoof' WHERE `word_id`=74678; -- locales_creature - name : entry=3001
 UPDATE `trans_words` SET `content_loc9`='Mining Trainer' WHERE `word_id`=73579; -- locales_creature - subname : entry=3001
+UPDATE `trans_words` SET `content_loc9`='Kurm Stonehoof' WHERE `word_id`=74679; -- locales_creature - name : entry=3002
 UPDATE `trans_words` SET `content_loc9`='Fyr Mistrunner' WHERE `word_id`=74680; -- locales_creature - name : entry=3003
 UPDATE `trans_words` SET `content_loc9`='Bread Vendor' WHERE `word_id`=74681; -- locales_creature - subname : entry=3003
 UPDATE `trans_words` SET `content_loc9`='Tepa' WHERE `word_id`=74682; -- locales_creature - name : entry=3004
@@ -2232,12 +2387,14 @@ UPDATE `trans_words` SET `content_loc9`='Mahu' WHERE `word_id`=74683; -- locales
 UPDATE `trans_words` SET `content_loc9`='Leatherworking & Tailoring Supplies' WHERE `word_id`=74684; -- locales_creature - subname : entry=3005
 UPDATE `trans_words` SET `content_loc9`='Una' WHERE `word_id`=74685; -- locales_creature - name : entry=3007
 UPDATE `trans_words` SET `content_loc9`='Artisan Leatherworker' WHERE `word_id`=74686; -- locales_creature - subname : entry=3007
+UPDATE `trans_words` SET `content_loc9`='Mak' WHERE `word_id`=74687; -- locales_creature - name : entry=3008
 UPDATE `trans_words` SET `content_loc9`='Bena Winterhoof' WHERE `word_id`=74688; -- locales_creature - name : entry=3009
 UPDATE `trans_words` SET `content_loc9`='Expert Alchemist' WHERE `word_id`=74141; -- locales_creature - subname : entry=3009
 UPDATE `trans_words` SET `content_loc9`='Mani Winterhoof' WHERE `word_id`=74689; -- locales_creature - name : entry=3010
 UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies' WHERE `word_id`=73275; -- locales_creature - subname : entry=3010
 UPDATE `trans_words` SET `content_loc9`='Teg Dawnstrider' WHERE `word_id`=74690; -- locales_creature - name : entry=3011
 UPDATE `trans_words` SET `content_loc9`='Expert Enchanter' WHERE `word_id`=73282; -- locales_creature - subname : entry=3011
+UPDATE `trans_words` SET `content_loc9`='Nata Dawnstrider' WHERE `word_id`=74691; -- locales_creature - name : entry=3012
 UPDATE `trans_words` SET `content_loc9`='Komin Winterhoof' WHERE `word_id`=74692; -- locales_creature - name : entry=3013
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=3013
 UPDATE `trans_words` SET `content_loc9`='Nida Winterhoof' WHERE `word_id`=74693; -- locales_creature - name : entry=3014
@@ -2256,6 +2413,7 @@ UPDATE `trans_words` SET `content_loc9`='Etu Ragetotem' WHERE `word_id`=74704; -
 UPDATE `trans_words` SET `content_loc9`='Mace & Staff Merchant' WHERE `word_id`=74705; -- locales_creature - subname : entry=3020
 UPDATE `trans_words` SET `content_loc9`='Kard Ragetotem' WHERE `word_id`=74706; -- locales_creature - name : entry=3021
 UPDATE `trans_words` SET `content_loc9`='Sword & Dagger Merchant' WHERE `word_id`=74707; -- locales_creature - subname : entry=3021
+UPDATE `trans_words` SET `content_loc9`='Sunn Ragetotem' WHERE `word_id`=74708; -- locales_creature - name : entry=3022
 UPDATE `trans_words` SET `content_loc9`='Sura Wildmane' WHERE `word_id`=74710; -- locales_creature - name : entry=3023
 UPDATE `trans_words` SET `content_loc9`='War Harness Vendor' WHERE `word_id`=74711; -- locales_creature - subname : entry=3023
 UPDATE `trans_words` SET `content_loc9`='Tah Winterhoof' WHERE `word_id`=74712; -- locales_creature - name : entry=3024
@@ -2263,8 +2421,10 @@ UPDATE `trans_words` SET `content_loc9`='Kaga Mistrunner' WHERE `word_id`=74713;
 UPDATE `trans_words` SET `content_loc9`='Meat Vendor' WHERE `word_id`=74714; -- locales_creature - subname : entry=3025
 UPDATE `trans_words` SET `content_loc9`='Aska Mistrunner' WHERE `word_id`=74715; -- locales_creature - name : entry=3026
 UPDATE `trans_words` SET `content_loc9`='Cooking Trainer' WHERE `word_id`=73336; -- locales_creature - subname : entry=3026
+UPDATE `trans_words` SET `content_loc9`='Naal Mistrunner' WHERE `word_id`=74716; -- locales_creature - name : entry=3027
 UPDATE `trans_words` SET `content_loc9`='Kah Mistrunner' WHERE `word_id`=74718; -- locales_creature - name : entry=3028
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=3028
+UPDATE `trans_words` SET `content_loc9`='Sewa Mistrunner' WHERE `word_id`=74719; -- locales_creature - name : entry=3029
 UPDATE `trans_words` SET `content_loc9`='Siln Skychaser' WHERE `word_id`=74720; -- locales_creature - name : entry=3030
 UPDATE `trans_words` SET `content_loc9`='Shaman Trainer' WHERE `word_id`=72965; -- locales_creature - subname : entry=3030
 UPDATE `trans_words` SET `content_loc9`='Tigor Skychaser' WHERE `word_id`=74721; -- locales_creature - name : entry=3031
@@ -2297,6 +2457,9 @@ UPDATE `trans_words` SET `content_loc9`='Malakai Cross' WHERE `word_id`=74736; -
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=3045
 UPDATE `trans_words` SET `content_loc9`='Father Cobb' WHERE `word_id`=74737; -- locales_creature - name : entry=3046
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=3046
+UPDATE `trans_words` SET `content_loc9`='Archmage Shymm' WHERE `word_id`=74738; -- locales_creature - name : entry=3047
+UPDATE `trans_words` SET `content_loc9`='Ursyn Ghull' WHERE `word_id`=74739; -- locales_creature - name : entry=3048
+UPDATE `trans_words` SET `content_loc9`='Thurston Xane' WHERE `word_id`=74740; -- locales_creature - name : entry=3049
 UPDATE `trans_words` SET `content_loc9`='Veren Tallstrider' WHERE `word_id`=74741; -- locales_creature - name : entry=3050
 UPDATE `trans_words` SET `content_loc9`='Skorn Whitecloud' WHERE `word_id`=74743; -- locales_creature - name : entry=3052
 UPDATE `trans_words` SET `content_loc9`='Synge' WHERE `word_id`=74744; -- locales_creature - name : entry=3053
@@ -2304,6 +2467,7 @@ UPDATE `trans_words` SET `content_loc9`='Gun Merchant' WHERE `word_id`=74745; --
 UPDATE `trans_words` SET `content_loc9`='Zarlman Two-Moons' WHERE `word_id`=74746; -- locales_creature - name : entry=3054
 UPDATE `trans_words` SET `content_loc9`='Maur Raincaller' WHERE `word_id`=74747; -- locales_creature - name : entry=3055
 UPDATE `trans_words` SET `content_loc9`='Ghost Howl' WHERE `word_id`=74748; -- locales_creature - name : entry=3056
+UPDATE `trans_words` SET `content_loc9`='Cairne Bloodhoof' WHERE `word_id`=74749; -- locales_creature - name : entry=3057
 UPDATE `trans_words` SET `content_loc9`='Arra\'chea' WHERE `word_id`=74751; -- locales_creature - name : entry=3058
 UPDATE `trans_words` SET `content_loc9`='Harutt Thunderhorn' WHERE `word_id`=74752; -- locales_creature - name : entry=3059
 UPDATE `trans_words` SET `content_loc9`='Warrior Trainer' WHERE `word_id`=72895; -- locales_creature - subname : entry=3059
@@ -2324,20 +2488,29 @@ UPDATE `trans_words` SET `content_loc9`='Shaman Trainer' WHERE `word_id`=72965; 
 UPDATE `trans_words` SET `content_loc9`='Pyall Silentstride' WHERE `word_id`=74760; -- locales_creature - name : entry=3067
 UPDATE `trans_words` SET `content_loc9`='Cook' WHERE `word_id`=73403; -- locales_creature - subname : entry=3067
 UPDATE `trans_words` SET `content_loc9`='Mazzranache' WHERE `word_id`=74761; -- locales_creature - name : entry=3068
+UPDATE `trans_words` SET `content_loc9`='Chaw Stronghide' WHERE `word_id`=74762; -- locales_creature - name : entry=3069
+UPDATE `trans_words` SET `content_loc9`='Kawnie Softbreeze' WHERE `word_id`=74763; -- locales_creature - name : entry=3072
+UPDATE `trans_words` SET `content_loc9`='Marjak Keenblade' WHERE `word_id`=74764; -- locales_creature - name : entry=3073
 UPDATE `trans_words` SET `content_loc9`='Varia Hardhide' WHERE `word_id`=74765; -- locales_creature - name : entry=3074
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=3074
 UPDATE `trans_words` SET `content_loc9`='Bronk Steelrage' WHERE `word_id`=74766; -- locales_creature - name : entry=3075
 UPDATE `trans_words` SET `content_loc9`='Armorer & Shieldcrafter' WHERE `word_id`=73169; -- locales_creature - subname : entry=3075
+UPDATE `trans_words` SET `content_loc9`='Moorat Longstride' WHERE `word_id`=74767; -- locales_creature - name : entry=3076
+UPDATE `trans_words` SET `content_loc9`='Mahnott Roughwound' WHERE `word_id`=74768; -- locales_creature - name : entry=3077
+UPDATE `trans_words` SET `content_loc9`='Kennah Hawkseye' WHERE `word_id`=74769; -- locales_creature - name : entry=3078
 UPDATE `trans_words` SET `content_loc9`='Varg Windwhisper' WHERE `word_id`=74770; -- locales_creature - name : entry=3079
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=3079
 UPDATE `trans_words` SET `content_loc9`='Harant Ironbrace' WHERE `word_id`=74771; -- locales_creature - name : entry=3080
 UPDATE `trans_words` SET `content_loc9`='Armorer & Shieldcrafter' WHERE `word_id`=73169; -- locales_creature - subname : entry=3080
+UPDATE `trans_words` SET `content_loc9`='Wunna Darkmane' WHERE `word_id`=74772; -- locales_creature - name : entry=3081
 UPDATE `trans_words` SET `content_loc9`='Honor Guard' WHERE `word_id`=74773; -- locales_creature - name : entry=3083
 UPDATE `trans_words` SET `content_loc9`='Bluffwatcher' WHERE `word_id`=74774; -- locales_creature - name : entry=3084
+UPDATE `trans_words` SET `content_loc9`='Gloria Femmel' WHERE `word_id`=74775; -- locales_creature - name : entry=3085
 UPDATE `trans_words` SET `content_loc9`='Gretchen Vogel' WHERE `word_id`=74776; -- locales_creature - name : entry=3086
 UPDATE `trans_words` SET `content_loc9`='Waitress' WHERE `word_id`=72499; -- locales_creature - subname : entry=3086
 UPDATE `trans_words` SET `content_loc9`='Crystal Boughman' WHERE `word_id`=74777; -- locales_creature - name : entry=3087
 UPDATE `trans_words` SET `content_loc9`='Cooking Trainer' WHERE `word_id`=73336; -- locales_creature - subname : entry=3087
+UPDATE `trans_words` SET `content_loc9`='Henry Chapal' WHERE `word_id`=74778; -- locales_creature - name : entry=3088
 UPDATE `trans_words` SET `content_loc9`='Sherman Femmel' WHERE `word_id`=74779; -- locales_creature - name : entry=3089
 UPDATE `trans_words` SET `content_loc9`='Butcher' WHERE `word_id`=74112; -- locales_creature - subname : entry=3089
 UPDATE `trans_words` SET `content_loc9`='Gerald Crawley' WHERE `word_id`=74780; -- locales_creature - name : entry=3090
@@ -2359,7 +2532,7 @@ UPDATE `trans_words` SET `content_loc9`='Mottled Boar' WHERE `word_id`=74789; --
 UPDATE `trans_words` SET `content_loc9`='Dire Mottled Boar' WHERE `word_id`=74790; -- locales_creature - name : entry=3099
 UPDATE `trans_words` SET `content_loc9`='Elder Mottled Boar' WHERE `word_id`=74791; -- locales_creature - name : entry=3100
 UPDATE `trans_words` SET `content_loc9`='Vile Familiar' WHERE `word_id`=74792; -- locales_creature - name : entry=3101
-UPDATE `trans_words` SET `content_loc9`='Fel Stalker' WHERE `word_id`=85138; -- locales_creature - name : entry=3102
+UPDATE `trans_words` SET `content_loc9`='Felstalker' WHERE `word_id`=85138; -- locales_creature - name : entry=3102
 UPDATE `trans_words` SET `content_loc9`='Makrura Clacker' WHERE `word_id`=74794; -- locales_creature - name : entry=3103
 UPDATE `trans_words` SET `content_loc9`='Makrura Shellhide' WHERE `word_id`=74795; -- locales_creature - name : entry=3104
 UPDATE `trans_words` SET `content_loc9`='Makrura Snapclaw' WHERE `word_id`=74796; -- locales_creature - name : entry=3105
@@ -2422,12 +2595,20 @@ UPDATE `trans_words` SET `content_loc9`='Nartok' WHERE `word_id`=74845; -- local
 UPDATE `trans_words` SET `content_loc9`='Warlock Trainer' WHERE `word_id`=72545; -- locales_creature - subname : entry=3156
 UPDATE `trans_words` SET `content_loc9`='Shikrik' WHERE `word_id`=74846; -- locales_creature - name : entry=3157
 UPDATE `trans_words` SET `content_loc9`='Shaman Trainer' WHERE `word_id`=72965; -- locales_creature - subname : entry=3157
+UPDATE `trans_words` SET `content_loc9`='Duokna' WHERE `word_id`=74847; -- locales_creature - name : entry=3158
+UPDATE `trans_words` SET `content_loc9`='Kzan Thornslash' WHERE `word_id`=74848; -- locales_creature - name : entry=3159
+UPDATE `trans_words` SET `content_loc9`='Huklah' WHERE `word_id`=74849; -- locales_creature - name : entry=3160
 UPDATE `trans_words` SET `content_loc9`='Rarc' WHERE `word_id`=74850; -- locales_creature - name : entry=3161
 UPDATE `trans_words` SET `content_loc9`='Armorer & Shieldcrafter' WHERE `word_id`=73169; -- locales_creature - subname : entry=3161
 UPDATE `trans_words` SET `content_loc9`='Burdrak Harglhelm' WHERE `word_id`=74851; -- locales_creature - name : entry=3162
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=3162
+UPDATE `trans_words` SET `content_loc9`='Uhgar' WHERE `word_id`=74852; -- locales_creature - name : entry=3163
+UPDATE `trans_words` SET `content_loc9`='Jark' WHERE `word_id`=74853; -- locales_creature - name : entry=3164
+UPDATE `trans_words` SET `content_loc9`='Ghrawt' WHERE `word_id`=74854; -- locales_creature - name : entry=3165
+UPDATE `trans_words` SET `content_loc9`='Cutac' WHERE `word_id`=74855; -- locales_creature - name : entry=3166
 UPDATE `trans_words` SET `content_loc9`='Wuark' WHERE `word_id`=74856; -- locales_creature - name : entry=3167
 UPDATE `trans_words` SET `content_loc9`='Armorer & Shieldcrafter' WHERE `word_id`=73169; -- locales_creature - subname : entry=3167
+UPDATE `trans_words` SET `content_loc9`='Flakk' WHERE `word_id`=74857; -- locales_creature - name : entry=3168
 UPDATE `trans_words` SET `content_loc9`='Tarshaw Jaggedscar' WHERE `word_id`=74858; -- locales_creature - name : entry=3169
 UPDATE `trans_words` SET `content_loc9`='Warrior Trainer' WHERE `word_id`=72895; -- locales_creature - subname : entry=3169
 UPDATE `trans_words` SET `content_loc9`='Kaplak' WHERE `word_id`=74859; -- locales_creature - name : entry=3170
@@ -2444,6 +2625,7 @@ UPDATE `trans_words` SET `content_loc9`='Krunn' WHERE `word_id`=74864; -- locale
 UPDATE `trans_words` SET `content_loc9`='Mining Trainer' WHERE `word_id`=73579; -- locales_creature - subname : entry=3175
 UPDATE `trans_words` SET `content_loc9`='Turuk Amberstill' WHERE `word_id`=74865; -- locales_creature - name : entry=3177
 UPDATE `trans_words` SET `content_loc9`='Dwarven Weaponsmith' WHERE `word_id`=74866; -- locales_creature - subname : entry=3177
+UPDATE `trans_words` SET `content_loc9`='Stuart Fleming' WHERE `word_id`=74867; -- locales_creature - name : entry=3178
 UPDATE `trans_words` SET `content_loc9`='Harold Riggs' WHERE `word_id`=74868; -- locales_creature - name : entry=3179
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=3179
 UPDATE `trans_words` SET `content_loc9`='Dark Iron Entrepreneur' WHERE `word_id`=74869; -- locales_creature - name : entry=3180
@@ -2456,6 +2638,8 @@ UPDATE `trans_words` SET `content_loc9`='Miao\'zan' WHERE `word_id`=74874; -- lo
 UPDATE `trans_words` SET `content_loc9`='Journeyman Alchemist' WHERE `word_id`=73172; -- locales_creature - subname : entry=3184
 UPDATE `trans_words` SET `content_loc9`='Mishiki' WHERE `word_id`=74875; -- locales_creature - name : entry=3185
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=3185
+UPDATE `trans_words` SET `content_loc9`='K\'waii' WHERE `word_id`=74876; -- locales_creature - name : entry=3186
+UPDATE `trans_words` SET `content_loc9`='Tai\'tasi' WHERE `word_id`=74877; -- locales_creature - name : entry=3187
 UPDATE `trans_words` SET `content_loc9`='Master Gadrin' WHERE `word_id`=74878; -- locales_creature - name : entry=3188
 UPDATE `trans_words` SET `content_loc9`='Kor\'ghan' WHERE `word_id`=74879; -- locales_creature - name : entry=3189
 UPDATE `trans_words` SET `content_loc9`='Rhinag' WHERE `word_id`=74880; -- locales_creature - name : entry=3190
@@ -2562,16 +2746,22 @@ UPDATE `trans_words` SET `content_loc9`='Tinkers\' Union' WHERE `word_id`=74979;
 UPDATE `trans_words` SET `content_loc9`='Ophek' WHERE `word_id`=74980; -- locales_creature - name : entry=3294
 UPDATE `trans_words` SET `content_loc9`='Sludge Beast' WHERE `word_id`=74981; -- locales_creature - name : entry=3295
 UPDATE `trans_words` SET `content_loc9`='Orgrimmar Grunt' WHERE `word_id`=74982; -- locales_creature - name : entry=3296
+UPDATE `trans_words` SET `content_loc9`='Gabrielle Chase' WHERE `word_id`=74984; -- locales_creature - name : entry=3298
 UPDATE `trans_words` SET `content_loc9`='Morgan Ladimore' WHERE `word_id`=74986; -- locales_creature - name : entry=3301
 UPDATE `trans_words` SET `content_loc9`='Master Vornal' WHERE `word_id`=74987; -- locales_creature - name : entry=3304
+UPDATE `trans_words` SET `content_loc9`='Grisha' WHERE `word_id`=74988; -- locales_creature - name : entry=3305
 UPDATE `trans_words` SET `content_loc9`='Keldas' WHERE `word_id`=74989; -- locales_creature - name : entry=3306
 UPDATE `trans_words` SET `content_loc9`='Pet Trainer' WHERE `word_id`=72611; -- locales_creature - subname : entry=3306
 UPDATE `trans_words` SET `content_loc9`='Karus' WHERE `word_id`=74990; -- locales_creature - name : entry=3309
 UPDATE `trans_words` SET `content_loc9`='Banker' WHERE `word_id`=74200; -- locales_creature - subname : entry=3309
+UPDATE `trans_words` SET `content_loc9`='Doras' WHERE `word_id`=74991; -- locales_creature - name : entry=3310
 UPDATE `trans_words` SET `content_loc9`='Olvia' WHERE `word_id`=74992; -- locales_creature - name : entry=3312
 UPDATE `trans_words` SET `content_loc9`='Meat Vendor' WHERE `word_id`=74714; -- locales_creature - subname : entry=3312
+UPDATE `trans_words` SET `content_loc9`='Trak\'gen' WHERE `word_id`=74993; -- locales_creature - name : entry=3313
 UPDATE `trans_words` SET `content_loc9`='Urtharo' WHERE `word_id`=74994; -- locales_creature - name : entry=3314
 UPDATE `trans_words` SET `content_loc9`='Weapon Merchant' WHERE `word_id`=72957; -- locales_creature - subname : entry=3314
+UPDATE `trans_words` SET `content_loc9`='Tor\'phan' WHERE `word_id`=74995; -- locales_creature - name : entry=3315
+UPDATE `trans_words` SET `content_loc9`='Handor' WHERE `word_id`=74996; -- locales_creature - name : entry=3316
 UPDATE `trans_words` SET `content_loc9`='Ollanus' WHERE `word_id`=74997; -- locales_creature - name : entry=3317
 UPDATE `trans_words` SET `content_loc9`='Light Armor Merchant' WHERE `word_id`=73277; -- locales_creature - subname : entry=3317
 UPDATE `trans_words` SET `content_loc9`='Koma' WHERE `word_id`=74998; -- locales_creature - name : entry=3318
@@ -2598,10 +2788,12 @@ UPDATE `trans_words` SET `content_loc9`='Ormok' WHERE `word_id`=75009; -- locale
 UPDATE `trans_words` SET `content_loc9`='Rogue Trainer' WHERE `word_id`=72900; -- locales_creature - subname : entry=3328
 UPDATE `trans_words` SET `content_loc9`='Kor\'jus' WHERE `word_id`=75010; -- locales_creature - name : entry=3329
 UPDATE `trans_words` SET `content_loc9`='Mushroom Vendor' WHERE `word_id`=75011; -- locales_creature - subname : entry=3329
+UPDATE `trans_words` SET `content_loc9`='Muragus' WHERE `word_id`=75012; -- locales_creature - name : entry=3330
 UPDATE `trans_words` SET `content_loc9`='Kareth' WHERE `word_id`=75013; -- locales_creature - name : entry=3331
 UPDATE `trans_words` SET `content_loc9`='Blade Merchant' WHERE `word_id`=73294; -- locales_creature - subname : entry=3331
 UPDATE `trans_words` SET `content_loc9`='Lumak' WHERE `word_id`=75014; -- locales_creature - name : entry=3332
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=3332
+UPDATE `trans_words` SET `content_loc9`='Shankys' WHERE `word_id`=75015; -- locales_creature - name : entry=3333
 UPDATE `trans_words` SET `content_loc9`='Rekkul' WHERE `word_id`=75016; -- locales_creature - name : entry=3334
 UPDATE `trans_words` SET `content_loc9`='Poison Supplies' WHERE `word_id`=73298; -- locales_creature - subname : entry=3334
 UPDATE `trans_words` SET `content_loc9`='Hagrus' WHERE `word_id`=75017; -- locales_creature - name : entry=3335
@@ -2619,10 +2811,13 @@ UPDATE `trans_words` SET `content_loc9`='Kardris Dreamseeker' WHERE `word_id`=75
 UPDATE `trans_words` SET `content_loc9`='Shaman Trainer' WHERE `word_id`=72965; -- locales_creature - subname : entry=3344
 UPDATE `trans_words` SET `content_loc9`='Godan' WHERE `word_id`=75026; -- locales_creature - name : entry=3345
 UPDATE `trans_words` SET `content_loc9`='Expert Enchanter' WHERE `word_id`=73282; -- locales_creature - subname : entry=3345
+UPDATE `trans_words` SET `content_loc9`='Kithas' WHERE `word_id`=75027; -- locales_creature - name : entry=3346
 UPDATE `trans_words` SET `content_loc9`='Yelmak' WHERE `word_id`=75028; -- locales_creature - name : entry=3347
 UPDATE `trans_words` SET `content_loc9`='Expert Alchemist' WHERE `word_id`=74141; -- locales_creature - subname : entry=3347
 UPDATE `trans_words` SET `content_loc9`='Kor\'geld' WHERE `word_id`=75029; -- locales_creature - name : entry=3348
 UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies' WHERE `word_id`=73275; -- locales_creature - subname : entry=3348
+UPDATE `trans_words` SET `content_loc9`='Ukra\'nor' WHERE `word_id`=75030; -- locales_creature - name : entry=3349
+UPDATE `trans_words` SET `content_loc9`='Asoran' WHERE `word_id`=75031; -- locales_creature - name : entry=3350
 UPDATE `trans_words` SET `content_loc9`='Magenius' WHERE `word_id`=75032; -- locales_creature - name : entry=3351
 UPDATE `trans_words` SET `content_loc9`='Reagents' WHERE `word_id`=73226; -- locales_creature - subname : entry=3351
 UPDATE `trans_words` SET `content_loc9`='Ormak Grimshot' WHERE `word_id`=75033; -- locales_creature - name : entry=3352
@@ -2636,6 +2831,7 @@ UPDATE `trans_words` SET `content_loc9`='Sumi' WHERE `word_id`=75038; -- locales
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=3356
 UPDATE `trans_words` SET `content_loc9`='Makaru' WHERE `word_id`=75039; -- locales_creature - name : entry=3357
 UPDATE `trans_words` SET `content_loc9`='Mining Trainer' WHERE `word_id`=73579; -- locales_creature - subname : entry=3357
+UPDATE `trans_words` SET `content_loc9`='Gorina' WHERE `word_id`=75040; -- locales_creature - name : entry=3358
 UPDATE `trans_words` SET `content_loc9`='Kiro' WHERE `word_id`=75041; -- locales_creature - name : entry=3359
 UPDATE `trans_words` SET `content_loc9`='War Harness Maker' WHERE `word_id`=75042; -- locales_creature - subname : entry=3359
 UPDATE `trans_words` SET `content_loc9`='Koru' WHERE `word_id`=75043; -- locales_creature - name : entry=3360
@@ -2650,8 +2846,12 @@ UPDATE `trans_words` SET `content_loc9`='Borya' WHERE `word_id`=75050; -- locale
 UPDATE `trans_words` SET `content_loc9`='Tailoring Supplies' WHERE `word_id`=73325; -- locales_creature - subname : entry=3364
 UPDATE `trans_words` SET `content_loc9`='Karolek' WHERE `word_id`=75051; -- locales_creature - name : entry=3365
 UPDATE `trans_words` SET `content_loc9`='Expert Leatherworker' WHERE `word_id`=73363; -- locales_creature - subname : entry=3365
+UPDATE `trans_words` SET `content_loc9`='Tamar' WHERE `word_id`=75052; -- locales_creature - name : entry=3366
+UPDATE `trans_words` SET `content_loc9`='Felika' WHERE `word_id`=75053; -- locales_creature - name : entry=3367
 UPDATE `trans_words` SET `content_loc9`='Borstan' WHERE `word_id`=75054; -- locales_creature - name : entry=3368
 UPDATE `trans_words` SET `content_loc9`='Meat Vendor' WHERE `word_id`=74714; -- locales_creature - subname : entry=3368
+UPDATE `trans_words` SET `content_loc9`='Gotri' WHERE `word_id`=75055; -- locales_creature - name : entry=3369
+UPDATE `trans_words` SET `content_loc9`='Urtrun Clanbringer' WHERE `word_id`=75056; -- locales_creature - name : entry=3370
 UPDATE `trans_words` SET `content_loc9`='Tamaro' WHERE `word_id`=75057; -- locales_creature - name : entry=3371
 UPDATE `trans_words` SET `content_loc9`='Sarlek' WHERE `word_id`=75058; -- locales_creature - name : entry=3372
 UPDATE `trans_words` SET `content_loc9`='Arnok' WHERE `word_id`=75059; -- locales_creature - name : entry=3373
@@ -2674,12 +2874,14 @@ UPDATE `trans_words` SET `content_loc9`='Mahren Skyseer' WHERE `word_id`=75074; 
 UPDATE `trans_words` SET `content_loc9`='Regthar Deathgate' WHERE `word_id`=75075; -- locales_creature - name : entry=3389
 UPDATE `trans_words` SET `content_loc9`='Apothecary Helbrim' WHERE `word_id`=75076; -- locales_creature - name : entry=3390
 UPDATE `trans_words` SET `content_loc9`='Gazlowe' WHERE `word_id`=75077; -- locales_creature - name : entry=3391
+UPDATE `trans_words` SET `content_loc9`='Prospector Khazgorm' WHERE `word_id`=75078; -- locales_creature - name : entry=3392
 UPDATE `trans_words` SET `content_loc9`='Captain Fairmount' WHERE `word_id`=75079; -- locales_creature - name : entry=3393
 UPDATE `trans_words` SET `content_loc9`='Barak Kodobane' WHERE `word_id`=75080; -- locales_creature - name : entry=3394
 UPDATE `trans_words` SET `content_loc9`='Kolkar Bloodcharger' WHERE `word_id`=75083; -- locales_creature - name : entry=3397
 UPDATE `trans_words` SET `content_loc9`='Gesharahan' WHERE `word_id`=75084; -- locales_creature - name : entry=3398
 UPDATE `trans_words` SET `content_loc9`='Zamja' WHERE `word_id`=75085; -- locales_creature - name : entry=3399
 UPDATE `trans_words` SET `content_loc9`='Cooking Trainer' WHERE `word_id`=73336; -- locales_creature - subname : entry=3399
+UPDATE `trans_words` SET `content_loc9`='Xen\'to' WHERE `word_id`=75086; -- locales_creature - name : entry=3400
 UPDATE `trans_words` SET `content_loc9`='Shenthul' WHERE `word_id`=75087; -- locales_creature - name : entry=3401
 UPDATE `trans_words` SET `content_loc9`='Rogue Trainer' WHERE `word_id`=72900; -- locales_creature - subname : entry=3401
 UPDATE `trans_words` SET `content_loc9`='Zando\'zan' WHERE `word_id`=75088; -- locales_creature - name : entry=3402
@@ -2697,10 +2899,12 @@ UPDATE `trans_words` SET `content_loc9`='Zel\'mak' WHERE `word_id`=75094; -- loc
 UPDATE `trans_words` SET `content_loc9`='Warrior Trainer' WHERE `word_id`=72895; -- locales_creature - subname : entry=3408
 UPDATE `trans_words` SET `content_loc9`='Zendo\'jian' WHERE `word_id`=75095; -- locales_creature - name : entry=3409
 UPDATE `trans_words` SET `content_loc9`='Weapon Vendor' WHERE `word_id`=75046; -- locales_creature - subname : entry=3409
+UPDATE `trans_words` SET `content_loc9`='Jin\'sora' WHERE `word_id`=75096; -- locales_creature - name : entry=3410
 UPDATE `trans_words` SET `content_loc9`='Denni\'ka' WHERE `word_id`=75098; -- locales_creature - name : entry=3411
 UPDATE `trans_words` SET `content_loc9`='Butcher' WHERE `word_id`=74112; -- locales_creature - subname : entry=3411
 UPDATE `trans_words` SET `content_loc9`='Nogg' WHERE `word_id`=75099; -- locales_creature - name : entry=3412
 UPDATE `trans_words` SET `content_loc9`='Expert Engineer' WHERE `word_id`=73573; -- locales_creature - subname : entry=3412
+UPDATE `trans_words` SET `content_loc9`='Sovik' WHERE `word_id`=75100; -- locales_creature - name : entry=3413
 UPDATE `trans_words` SET `content_loc9`='General Twinbraid' WHERE `word_id`=75101; -- locales_creature - name : entry=3414
 UPDATE `trans_words` SET `content_loc9`='Savannah Huntress' WHERE `word_id`=75102; -- locales_creature - name : entry=3415
 UPDATE `trans_words` SET `content_loc9`='Savannah Matriarch' WHERE `word_id`=75103; -- locales_creature - name : entry=3416
@@ -2714,7 +2918,6 @@ UPDATE `trans_words` SET `content_loc9`='Korran' WHERE `word_id`=75110; -- local
 UPDATE `trans_words` SET `content_loc9`='Thork' WHERE `word_id`=75111; -- locales_creature - name : entry=3429
 UPDATE `trans_words` SET `content_loc9`='Mangletooth' WHERE `word_id`=75112; -- locales_creature - name : entry=3430
 UPDATE `trans_words` SET `content_loc9`='Grenthar' WHERE `word_id`=75113; -- locales_creature - name : entry=3431
-UPDATE `trans_words` SET `content_loc9`='Mankrik' WHERE `word_id`=75114; -- locales_creature - name : entry=3432
 UPDATE `trans_words` SET `content_loc9`='Tatternack Steelforge' WHERE `word_id`=75115; -- locales_creature - name : entry=3433
 UPDATE `trans_words` SET `content_loc9`='Nak' WHERE `word_id`=75116; -- locales_creature - name : entry=3434
 UPDATE `trans_words` SET `content_loc9`='Lok Orcbane' WHERE `word_id`=75117; -- locales_creature - name : entry=3435
@@ -2744,6 +2947,7 @@ UPDATE `trans_words` SET `content_loc9`='Wandering Barrens Giraffe' WHERE `word_
 UPDATE `trans_words` SET `content_loc9`='Gazrog' WHERE `word_id`=75141; -- locales_creature - name : entry=3464
 UPDATE `trans_words` SET `content_loc9`='Gilthares Firebough' WHERE `word_id`=75142; -- locales_creature - name : entry=3465
 UPDATE `trans_words` SET `content_loc9`='Zhevra Courser' WHERE `word_id`=75143; -- locales_creature - name : entry=3466
+UPDATE `trans_words` SET `content_loc9`='Baron Longshore' WHERE `word_id`=75144; -- locales_creature - name : entry=3467
 UPDATE `trans_words` SET `content_loc9`='Ancient of Lore' WHERE `word_id`=75146; -- locales_creature - name : entry=3468
 UPDATE `trans_words` SET `content_loc9`='Ancient of War' WHERE `word_id`=75147; -- locales_creature - name : entry=3469
 UPDATE `trans_words` SET `content_loc9`='Rathorian' WHERE `word_id`=75148; -- locales_creature - name : entry=3470
@@ -2757,8 +2961,11 @@ UPDATE `trans_words` SET `content_loc9`='Hraq' WHERE `word_id`=75155; -- locales
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=3477
 UPDATE `trans_words` SET `content_loc9`='Traugh' WHERE `word_id`=75156; -- locales_creature - name : entry=3478
 UPDATE `trans_words` SET `content_loc9`='Expert Blacksmith' WHERE `word_id`=73361; -- locales_creature - subname : entry=3478
+UPDATE `trans_words` SET `content_loc9`='Nargal Deatheye' WHERE `word_id`=75157; -- locales_creature - name : entry=3479
 UPDATE `trans_words` SET `content_loc9`='Moorane Hearthgrain' WHERE `word_id`=75158; -- locales_creature - name : entry=3480
 UPDATE `trans_words` SET `content_loc9`='Baker' WHERE `word_id`=75159; -- locales_creature - subname : entry=3480
+UPDATE `trans_words` SET `content_loc9`='Barg' WHERE `word_id`=75160; -- locales_creature - name : entry=3481
+UPDATE `trans_words` SET `content_loc9`='Tari\'qa' WHERE `word_id`=75161; -- locales_creature - name : entry=3482
 UPDATE `trans_words` SET `content_loc9`='Jahan Hawkwing' WHERE `word_id`=75162; -- locales_creature - name : entry=3483
 UPDATE `trans_words` SET `content_loc9`='Leather & Mail Armor Merchant' WHERE `word_id`=75163; -- locales_creature - subname : entry=3483
 UPDATE `trans_words` SET `content_loc9`='Kil\'hala' WHERE `word_id`=75164; -- locales_creature - name : entry=3484
@@ -2775,14 +2982,19 @@ UPDATE `trans_words` SET `content_loc9`='Zargh' WHERE `word_id`=75171; -- locale
 UPDATE `trans_words` SET `content_loc9`='Butcher' WHERE `word_id`=74112; -- locales_creature - subname : entry=3489
 UPDATE `trans_words` SET `content_loc9`='Hula\'mahi' WHERE `word_id`=75172; -- locales_creature - name : entry=3490
 UPDATE `trans_words` SET `content_loc9`='Reagents, Herbs & Poison Supplies' WHERE `word_id`=75173; -- locales_creature - subname : entry=3490
+UPDATE `trans_words` SET `content_loc9`='Ironzar' WHERE `word_id`=75174; -- locales_creature - name : entry=3491
+UPDATE `trans_words` SET `content_loc9`='Vexspindle' WHERE `word_id`=75175; -- locales_creature - name : entry=3492
 UPDATE `trans_words` SET `content_loc9`='Grazlix' WHERE `word_id`=75176; -- locales_creature - name : entry=3493
 UPDATE `trans_words` SET `content_loc9`='Armorer & Shieldcrafter' WHERE `word_id`=73169; -- locales_creature - subname : entry=3493
 UPDATE `trans_words` SET `content_loc9`='Tinkerwiz' WHERE `word_id`=75177; -- locales_creature - name : entry=3494
 UPDATE `trans_words` SET `content_loc9`='Journeyman Engineer' WHERE `word_id`=73605; -- locales_creature - subname : entry=3494
+UPDATE `trans_words` SET `content_loc9`='Gagsprocket' WHERE `word_id`=75178; -- locales_creature - name : entry=3495
 UPDATE `trans_words` SET `content_loc9`='Fuzruckle' WHERE `word_id`=75179; -- locales_creature - name : entry=3496
 UPDATE `trans_words` SET `content_loc9`='Banker' WHERE `word_id`=74200; -- locales_creature - subname : entry=3496
 UPDATE `trans_words` SET `content_loc9`='Kilxx' WHERE `word_id`=75180; -- locales_creature - name : entry=3497
 UPDATE `trans_words` SET `content_loc9`='Fisherman' WHERE `word_id`=75181; -- locales_creature - subname : entry=3497
+UPDATE `trans_words` SET `content_loc9`='Jazzik' WHERE `word_id`=75182; -- locales_creature - name : entry=3498
+UPDATE `trans_words` SET `content_loc9`='Ranik' WHERE `word_id`=75183; -- locales_creature - name : entry=3499
 UPDATE `trans_words` SET `content_loc9`='Tarhus' WHERE `word_id`=75184; -- locales_creature - name : entry=3500
 UPDATE `trans_words` SET `content_loc9`='Reagents' WHERE `word_id`=73226; -- locales_creature - subname : entry=3500
 UPDATE `trans_words` SET `content_loc9`='Horde Guard' WHERE `word_id`=75185; -- locales_creature - name : entry=3501
@@ -2817,6 +3029,7 @@ UPDATE `trans_words` SET `content_loc9`='Pyrewood Tailor' WHERE `word_id`=75213;
 UPDATE `trans_words` SET `content_loc9`='Moonrage Tailor' WHERE `word_id`=75214; -- locales_creature - name : entry=3531
 UPDATE `trans_words` SET `content_loc9`='Pyrewood Leatherworker' WHERE `word_id`=75215; -- locales_creature - name : entry=3532
 UPDATE `trans_words` SET `content_loc9`='Moonrage Leatherworker' WHERE `word_id`=75216; -- locales_creature - name : entry=3533
+UPDATE `trans_words` SET `content_loc9`='Wallace the Blind' WHERE `word_id`=75217; -- locales_creature - name : entry=3534
 UPDATE `trans_words` SET `content_loc9`='Blackmoss the Fetid' WHERE `word_id`=75218; -- locales_creature - name : entry=3535
 UPDATE `trans_words` SET `content_loc9`='Kris Legace' WHERE `word_id`=75219; -- locales_creature - name : entry=3536
 UPDATE `trans_words` SET `content_loc9`='Freewheeling Tradeswoman' WHERE `word_id`=75220; -- locales_creature - subname : entry=3536
@@ -2824,8 +3037,10 @@ UPDATE `trans_words` SET `content_loc9`='Zixil' WHERE `word_id`=75221; -- locale
 UPDATE `trans_words` SET `content_loc9`='Merchant Supreme' WHERE `word_id`=75222; -- locales_creature - subname : entry=3537
 UPDATE `trans_words` SET `content_loc9`='Overwatch Mark I' WHERE `word_id`=75223; -- locales_creature - name : entry=3538
 UPDATE `trans_words` SET `content_loc9`='Protector' WHERE `word_id`=75224; -- locales_creature - subname : entry=3538
+UPDATE `trans_words` SET `content_loc9`='Ott' WHERE `word_id`=75225; -- locales_creature - name : entry=3539
 UPDATE `trans_words` SET `content_loc9`='Hal McAllister' WHERE `word_id`=75226; -- locales_creature - name : entry=3540
 UPDATE `trans_words` SET `content_loc9`='Fish Merchant' WHERE `word_id`=75227; -- locales_creature - subname : entry=3540
+UPDATE `trans_words` SET `content_loc9`='Sarah Raycroft' WHERE `word_id`=75228; -- locales_creature - name : entry=3541
 UPDATE `trans_words` SET `content_loc9`='Jaysin Lanyda' WHERE `word_id`=75229; -- locales_creature - name : entry=3542
 UPDATE `trans_words` SET `content_loc9`='Poisons & Reagents' WHERE `word_id`=75230; -- locales_creature - subname : entry=3542
 UPDATE `trans_words` SET `content_loc9`='Robert Aebischer' WHERE `word_id`=75231; -- locales_creature - name : entry=3543
@@ -2834,18 +3049,23 @@ UPDATE `trans_words` SET `content_loc9`='Jason Lemieux' WHERE `word_id`=75233; -
 UPDATE `trans_words` SET `content_loc9`='Mushroom Seller' WHERE `word_id`=74830; -- locales_creature - subname : entry=3544
 UPDATE `trans_words` SET `content_loc9`='Claude Erksine' WHERE `word_id`=75234; -- locales_creature - name : entry=3545
 UPDATE `trans_words` SET `content_loc9`='Pet Trainer' WHERE `word_id`=72611; -- locales_creature - subname : entry=3545
+UPDATE `trans_words` SET `content_loc9`='Bernie Heisten' WHERE `word_id`=75235; -- locales_creature - name : entry=3546
 UPDATE `trans_words` SET `content_loc9`='Hamlin Atkins' WHERE `word_id`=75236; -- locales_creature - name : entry=3547
 UPDATE `trans_words` SET `content_loc9`='Mushroom Farmer' WHERE `word_id`=75237; -- locales_creature - subname : entry=3547
 UPDATE `trans_words` SET `content_loc9`='Selina Weston' WHERE `word_id`=75238; -- locales_creature - name : entry=3548
 UPDATE `trans_words` SET `content_loc9`='Alchemy & Herbalism Supplies' WHERE `word_id`=75239; -- locales_creature - subname : entry=3548
+UPDATE `trans_words` SET `content_loc9`='Shelene Rhobart' WHERE `word_id`=75240; -- locales_creature - name : entry=3549
+UPDATE `trans_words` SET `content_loc9`='Martine Tramblay' WHERE `word_id`=75241; -- locales_creature - name : entry=3550
 UPDATE `trans_words` SET `content_loc9`='Patrice Dwyer' WHERE `word_id`=75242; -- locales_creature - name : entry=3551
 UPDATE `trans_words` SET `content_loc9`='Poison Supplies' WHERE `word_id`=73298; -- locales_creature - subname : entry=3551
 UPDATE `trans_words` SET `content_loc9`='Alexandre Lefevre' WHERE `word_id`=75243; -- locales_creature - name : entry=3552
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=3552
+UPDATE `trans_words` SET `content_loc9`='Sebastian Meloche' WHERE `word_id`=75244; -- locales_creature - name : entry=3553
 UPDATE `trans_words` SET `content_loc9`='Andrea Boynton' WHERE `word_id`=75245; -- locales_creature - name : entry=3554
 UPDATE `trans_words` SET `content_loc9`='Clothier' WHERE `word_id`=72946; -- locales_creature - subname : entry=3554
 UPDATE `trans_words` SET `content_loc9`='Johan Focht' WHERE `word_id`=75246; -- locales_creature - name : entry=3555
 UPDATE `trans_words` SET `content_loc9`='Mining Trainer' WHERE `word_id`=73579; -- locales_creature - subname : entry=3555
+UPDATE `trans_words` SET `content_loc9`='Andrew Hilbert' WHERE `word_id`=75247; -- locales_creature - name : entry=3556
 UPDATE `trans_words` SET `content_loc9`='Guillaume Sorouy' WHERE `word_id`=75248; -- locales_creature - name : entry=3557
 UPDATE `trans_words` SET `content_loc9`='Journeyman Blacksmith' WHERE `word_id`=72593; -- locales_creature - subname : entry=3557
 UPDATE `trans_words` SET `content_loc9`='Kyrai' WHERE `word_id`=75250; -- locales_creature - name : entry=3561
@@ -2857,6 +3077,7 @@ UPDATE `trans_words` SET `content_loc9`='Tallonkai Swiftroot' WHERE `word_id`=75
 UPDATE `trans_words` SET `content_loc9`='Bogling' WHERE `word_id`=75255; -- locales_creature - name : entry=3569
 UPDATE `trans_words` SET `content_loc9`='Cleansed Timberling' WHERE `word_id`=75256; -- locales_creature - name : entry=3570
 UPDATE `trans_words` SET `content_loc9`='Teldrassil Sentinel' WHERE `word_id`=75257; -- locales_creature - name : entry=3571
+UPDATE `trans_words` SET `content_loc9`='Zizzek' WHERE `word_id`=75258; -- locales_creature - name : entry=3572
 UPDATE `trans_words` SET `content_loc9`='Mana Spring Totem' WHERE `word_id`=75259; -- locales_creature - name : entry=3573
 UPDATE `trans_words` SET `content_loc9`='Riding Bat' WHERE `word_id`=75260; -- locales_creature - name : entry=3574
 UPDATE `trans_words` SET `content_loc9`='Dalaran Brewmaster' WHERE `word_id`=75261; -- locales_creature - name : entry=3577
@@ -2868,6 +3089,9 @@ UPDATE `trans_words` SET `content_loc9`='Barithras Moonshade' WHERE `word_id`=75
 UPDATE `trans_words` SET `content_loc9`='Therylune' WHERE `word_id`=75267; -- locales_creature - name : entry=3584
 UPDATE `trans_words` SET `content_loc9`='Therysil' WHERE `word_id`=75268; -- locales_creature - name : entry=3585
 UPDATE `trans_words` SET `content_loc9`='Miner Johnson' WHERE `word_id`=75269; -- locales_creature - name : entry=3586
+UPDATE `trans_words` SET `content_loc9`='Lyrai' WHERE `word_id`=75270; -- locales_creature - name : entry=3587
+UPDATE `trans_words` SET `content_loc9`='Khardan Proudblade' WHERE `word_id`=75271; -- locales_creature - name : entry=3588
+UPDATE `trans_words` SET `content_loc9`='Keina' WHERE `word_id`=75272; -- locales_creature - name : entry=3589
 UPDATE `trans_words` SET `content_loc9`='Janna Brightmoon' WHERE `word_id`=75273; -- locales_creature - name : entry=3590
 UPDATE `trans_words` SET `content_loc9`='Clothier' WHERE `word_id`=72946; -- locales_creature - subname : entry=3590
 UPDATE `trans_words` SET `content_loc9`='Freja Nightwing' WHERE `word_id`=75274; -- locales_creature - name : entry=3591
@@ -2898,28 +3122,37 @@ UPDATE `trans_words` SET `content_loc9`='Cyndra Kindwhisper' WHERE `word_id`=752
 UPDATE `trans_words` SET `content_loc9`='Journeyman Alchemist' WHERE `word_id`=73172; -- locales_creature - subname : entry=3603
 UPDATE `trans_words` SET `content_loc9`='Malorne Bladeleaf' WHERE `word_id`=75287; -- locales_creature - name : entry=3604
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=3604
+UPDATE `trans_words` SET `content_loc9`='Nadyia Maneweaver' WHERE `word_id`=75288; -- locales_creature - name : entry=3605
 UPDATE `trans_words` SET `content_loc9`='Alanna Raveneye' WHERE `word_id`=75289; -- locales_creature - name : entry=3606
 UPDATE `trans_words` SET `content_loc9`='Journeyman Enchanter' WHERE `word_id`=75290; -- locales_creature - subname : entry=3606
 UPDATE `trans_words` SET `content_loc9`='Androl Oakhand' WHERE `word_id`=75291; -- locales_creature - name : entry=3607
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=3607
+UPDATE `trans_words` SET `content_loc9`='Aldia' WHERE `word_id`=75292; -- locales_creature - name : entry=3608
+UPDATE `trans_words` SET `content_loc9`='Shalomon' WHERE `word_id`=75293; -- locales_creature - name : entry=3609
+UPDATE `trans_words` SET `content_loc9`='Jeena Featherbow' WHERE `word_id`=75294; -- locales_creature - name : entry=3610
 UPDATE `trans_words` SET `content_loc9`='Brannol Eaglemoon' WHERE `word_id`=75295; -- locales_creature - name : entry=3611
 UPDATE `trans_words` SET `content_loc9`='Clothier' WHERE `word_id`=72946; -- locales_creature - subname : entry=3611
 UPDATE `trans_words` SET `content_loc9`='Sinda' WHERE `word_id`=75296; -- locales_creature - name : entry=3612
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=3612
 UPDATE `trans_words` SET `content_loc9`='Meri Ironweave' WHERE `word_id`=75297; -- locales_creature - name : entry=3613
 UPDATE `trans_words` SET `content_loc9`='Armorer & Shieldcrafter' WHERE `word_id`=73169; -- locales_creature - subname : entry=3613
+UPDATE `trans_words` SET `content_loc9`='Narret Shadowgrove' WHERE `word_id`=75298; -- locales_creature - name : entry=3614
+UPDATE `trans_words` SET `content_loc9`='Devrak' WHERE `word_id`=75299; -- locales_creature - name : entry=3615
 UPDATE `trans_words` SET `content_loc9`='Onu' WHERE `word_id`=75300; -- locales_creature - name : entry=3616
 UPDATE `trans_words` SET `content_loc9`='Ancient of Lore' WHERE `word_id`=75146; -- locales_creature - subname : entry=3616
 UPDATE `trans_words` SET `content_loc9`='Lordaeron Citizen' WHERE `word_id`=75301; -- locales_creature - name : entry=3617
 UPDATE `trans_words` SET `content_loc9`='Ghost Saber' WHERE `word_id`=75302; -- locales_creature - name : entry=3619
 UPDATE `trans_words` SET `content_loc9`='Harruk' WHERE `word_id`=75303; -- locales_creature - name : entry=3620
 UPDATE `trans_words` SET `content_loc9`='Pet Trainer' WHERE `word_id`=72611; -- locales_creature - subname : entry=3620
+UPDATE `trans_words` SET `content_loc9`='Kurll' WHERE `word_id`=75304; -- locales_creature - name : entry=3621
 UPDATE `trans_words` SET `content_loc9`='Grokor' WHERE `word_id`=75305; -- locales_creature - name : entry=3622
 UPDATE `trans_words` SET `content_loc9`='Pet Trainer' WHERE `word_id`=72611; -- locales_creature - subname : entry=3622
 UPDATE `trans_words` SET `content_loc9`='Zudd' WHERE `word_id`=75306; -- locales_creature - name : entry=3624
 UPDATE `trans_words` SET `content_loc9`='Pet Trainer' WHERE `word_id`=72611; -- locales_creature - subname : entry=3624
+UPDATE `trans_words` SET `content_loc9`='Rarck' WHERE `word_id`=75307; -- locales_creature - name : entry=3625
 UPDATE `trans_words` SET `content_loc9`='Jenn Langston' WHERE `word_id`=75308; -- locales_creature - name : entry=3626
 UPDATE `trans_words` SET `content_loc9`='Erich Lohan' WHERE `word_id`=75309; -- locales_creature - name : entry=3627
+UPDATE `trans_words` SET `content_loc9`='Steven Lohan' WHERE `word_id`=75310; -- locales_creature - name : entry=3628
 UPDATE `trans_words` SET `content_loc9`='David Langston' WHERE `word_id`=75311; -- locales_creature - name : entry=3629
 UPDATE `trans_words` SET `content_loc9`='Deviate Coiler' WHERE `word_id`=75312; -- locales_creature - name : entry=3630
 UPDATE `trans_words` SET `content_loc9`='Deviate Stinglash' WHERE `word_id`=75313; -- locales_creature - name : entry=3631
@@ -2936,7 +3169,6 @@ UPDATE `trans_words` SET `content_loc9`='Cerellean Whiteclaw' WHERE `word_id`=75
 UPDATE `trans_words` SET `content_loc9`='Thundris Windweaver' WHERE `word_id`=75324; -- locales_creature - name : entry=3649
 UPDATE `trans_words` SET `content_loc9`='Asterion' WHERE `word_id`=75325; -- locales_creature - name : entry=3650
 UPDATE `trans_words` SET `content_loc9`='Trigore the Lasher' WHERE `word_id`=75326; -- locales_creature - name : entry=3652
-UPDATE `trans_words` SET `content_loc9`='Kresh' WHERE `word_id`=75327; -- locales_creature - name : entry=3653
 UPDATE `trans_words` SET `content_loc9`='Mad Magglish' WHERE `word_id`=75329; -- locales_creature - name : entry=3655
 UPDATE `trans_words` SET `content_loc9`='Sentinel Elissa Starbreeze' WHERE `word_id`=75330; -- locales_creature - name : entry=3657
 UPDATE `trans_words` SET `content_loc9`='Lizzarik' WHERE `word_id`=75331; -- locales_creature - name : entry=3658
@@ -2958,7 +3190,6 @@ UPDATE `trans_words` SET `content_loc9`='Fanglord' WHERE `word_id`=75345; -- loc
 UPDATE `trans_words` SET `content_loc9`='Boahn' WHERE `word_id`=75348; -- locales_creature - name : entry=3672
 UPDATE `trans_words` SET `content_loc9`='Druid of the Fang' WHERE `word_id`=75349; -- locales_creature - subname : entry=3672
 UPDATE `trans_words` SET `content_loc9`='Fanglord' WHERE `word_id`=75345; -- locales_creature - subname : entry=3673
-UPDATE `trans_words` SET `content_loc9`='Skum' WHERE `word_id`=75351; -- locales_creature - name : entry=3674
 UPDATE `trans_words` SET `content_loc9`='Disciple of Naralex' WHERE `word_id`=75352; -- locales_creature - name : entry=3678
 UPDATE `trans_words` SET `content_loc9`='Naralex' WHERE `word_id`=75353; -- locales_creature - name : entry=3679
 UPDATE `trans_words` SET `content_loc9`='Serpentbloom Snake' WHERE `word_id`=75354; -- locales_creature - name : entry=3680
@@ -2973,6 +3204,7 @@ UPDATE `trans_words` SET `content_loc9`='Harb Clawhoof' WHERE `word_id`=75361; -
 UPDATE `trans_words` SET `content_loc9`='Kodo Mounts' WHERE `word_id`=75362; -- locales_creature - subname : entry=3685
 UPDATE `trans_words` SET `content_loc9`='Reban Freerunner' WHERE `word_id`=75363; -- locales_creature - name : entry=3688
 UPDATE `trans_words` SET `content_loc9`='Pet Trainer' WHERE `word_id`=72611; -- locales_creature - subname : entry=3688
+UPDATE `trans_words` SET `content_loc9`='Laer Stepperunner' WHERE `word_id`=75364; -- locales_creature - name : entry=3689
 UPDATE `trans_words` SET `content_loc9`='Kar Stormsinger' WHERE `word_id`=75365; -- locales_creature - name : entry=3690
 UPDATE `trans_words` SET `content_loc9`='Riding Trainer' WHERE `word_id`=75366; -- locales_creature - subname : entry=3690
 UPDATE `trans_words` SET `content_loc9`='Raene Wolfrunner' WHERE `word_id`=75367; -- locales_creature - name : entry=3691
@@ -2996,6 +3228,7 @@ UPDATE `trans_words` SET `content_loc9`='Tai\'jin' WHERE `word_id`=75379; -- loc
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=3706
 UPDATE `trans_words` SET `content_loc9`='Ken\'jai' WHERE `word_id`=75380; -- locales_creature - name : entry=3707
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=3707
+UPDATE `trans_words` SET `content_loc9`='Gruna' WHERE `word_id`=75381; -- locales_creature - name : entry=3708
 UPDATE `trans_words` SET `content_loc9`='Wrathtail Myrmidon' WHERE `word_id`=75382; -- locales_creature - name : entry=3711
 UPDATE `trans_words` SET `content_loc9`='Wrathtail Razortail' WHERE `word_id`=75383; -- locales_creature - name : entry=3712
 UPDATE `trans_words` SET `content_loc9`='Wrathtail Wave Rider' WHERE `word_id`=75384; -- locales_creature - name : entry=3713
@@ -3037,6 +3270,7 @@ UPDATE `trans_words` SET `content_loc9`='Bleakheart Hellcaller' WHERE `word_id`=
 UPDATE `trans_words` SET `content_loc9`='Lesser Felguard' WHERE `word_id`=75420; -- locales_creature - name : entry=3772
 UPDATE `trans_words` SET `content_loc9`='Akkrilus' WHERE `word_id`=75421; -- locales_creature - name : entry=3773
 UPDATE `trans_words` SET `content_loc9`='Felslayer' WHERE `word_id`=75422; -- locales_creature - name : entry=3774
+UPDATE `trans_words` SET `content_loc9`='Syurana' WHERE `word_id`=75423; -- locales_creature - name : entry=3779
 UPDATE `trans_words` SET `content_loc9`='Shadethicket Moss Eater' WHERE `word_id`=75424; -- locales_creature - name : entry=3780
 UPDATE `trans_words` SET `content_loc9`='Shadethicket Wood Shaper' WHERE `word_id`=75425; -- locales_creature - name : entry=3781
 UPDATE `trans_words` SET `content_loc9`='Shadethicket Stone Mover' WHERE `word_id`=75426; -- locales_creature - name : entry=3782
@@ -3073,7 +3307,9 @@ UPDATE `trans_words` SET `content_loc9`='Cenarion Vindicator' WHERE `word_id`=75
 UPDATE `trans_words` SET `content_loc9`='Crazed Ancient' WHERE `word_id`=75457; -- locales_creature - name : entry=3834
 UPDATE `trans_words` SET `content_loc9`='Mountaineer Pebblebitty' WHERE `word_id`=75459; -- locales_creature - name : entry=3836
 UPDATE `trans_words` SET `content_loc9`='Riding Hippogryph' WHERE `word_id`=75460; -- locales_creature - name : entry=3837
+UPDATE `trans_words` SET `content_loc9`='Vesprystus' WHERE `word_id`=75461; -- locales_creature - name : entry=3838
 UPDATE `trans_words` SET `content_loc9`='Druid of the Fang' WHERE `word_id`=75349; -- locales_creature - name : entry=3840
+UPDATE `trans_words` SET `content_loc9`='Caylais Moonfeather' WHERE `word_id`=75463; -- locales_creature - name : entry=3841
 UPDATE `trans_words` SET `content_loc9`='Brombar Higgleby' WHERE `word_id`=75464; -- locales_creature - name : entry=3842
 UPDATE `trans_words` SET `content_loc9`='The Keymaster' WHERE `word_id`=75465; -- locales_creature - subname : entry=3842
 UPDATE `trans_words` SET `content_loc9`='Anaya' WHERE `word_id`=75466; -- locales_creature - name : entry=3843
@@ -3148,6 +3384,7 @@ UPDATE `trans_words` SET `content_loc9`='Shadethicket Oracle' WHERE `word_id`=75
 UPDATE `trans_words` SET `content_loc9`='Bloodtooth Guard' WHERE `word_id`=75538; -- locales_creature - name : entry=3932
 UPDATE `trans_words` SET `content_loc9`='Hai\'zan' WHERE `word_id`=75539; -- locales_creature - name : entry=3933
 UPDATE `trans_words` SET `content_loc9`='Butcher' WHERE `word_id`=74112; -- locales_creature - subname : entry=3933
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Boorand Plainswind' WHERE `word_id`=75540; -- locales_creature - name : entry=3934
 UPDATE `trans_words` SET `content_loc9`='Toddrick' WHERE `word_id`=75541; -- locales_creature - name : entry=3935
 UPDATE `trans_words` SET `content_loc9`='Butcher' WHERE `word_id`=74112; -- locales_creature - subname : entry=3935
 UPDATE `trans_words` SET `content_loc9`='Shandris Feathermoon' WHERE `word_id`=75542; -- locales_creature - name : entry=3936
@@ -3166,18 +3403,23 @@ UPDATE `trans_words` SET `content_loc9`='Goblin Shipbuilder' WHERE `word_id`=755
 UPDATE `trans_words` SET `content_loc9`='Honni Goldenoat' WHERE `word_id`=75555; -- locales_creature - name : entry=3948
 UPDATE `trans_words` SET `content_loc9`='Baker' WHERE `word_id`=75159; -- locales_creature - subname : entry=3948
 UPDATE `trans_words` SET `content_loc9`='Minor Water Guardian' WHERE `word_id`=75556; -- locales_creature - name : entry=3950
+UPDATE `trans_words` SET `content_loc9`='Bhaldaran Ravenshade' WHERE `word_id`=75557; -- locales_creature - name : entry=3951
 UPDATE `trans_words` SET `content_loc9`='Aeolynn' WHERE `word_id`=75558; -- locales_creature - name : entry=3952
 UPDATE `trans_words` SET `content_loc9`='Clothier' WHERE `word_id`=72946; -- locales_creature - subname : entry=3952
 UPDATE `trans_words` SET `content_loc9`='Tandaan Lightmane' WHERE `word_id`=75559; -- locales_creature - name : entry=3953
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=3953
+UPDATE `trans_words` SET `content_loc9`='Dalria' WHERE `word_id`=75560; -- locales_creature - name : entry=3954
+UPDATE `trans_words` SET `content_loc9`='Shandrina' WHERE `word_id`=75561; -- locales_creature - name : entry=3955
 UPDATE `trans_words` SET `content_loc9`='Harklan Moongrove' WHERE `word_id`=75562; -- locales_creature - name : entry=3956
 UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies' WHERE `word_id`=73275; -- locales_creature - subname : entry=3956
+UPDATE `trans_words` SET `content_loc9`='Lardan' WHERE `word_id`=75563; -- locales_creature - name : entry=3958
 UPDATE `trans_words` SET `content_loc9`='Nantar' WHERE `word_id`=75564; -- locales_creature - name : entry=3959
 UPDATE `trans_words` SET `content_loc9`='Baker' WHERE `word_id`=75159; -- locales_creature - subname : entry=3959
 UPDATE `trans_words` SET `content_loc9`='Ulthaan' WHERE `word_id`=75565; -- locales_creature - name : entry=3960
 UPDATE `trans_words` SET `content_loc9`='Butcher' WHERE `word_id`=74112; -- locales_creature - subname : entry=3960
 UPDATE `trans_words` SET `content_loc9`='Maliynn' WHERE `word_id`=75566; -- locales_creature - name : entry=3961
 UPDATE `trans_words` SET `content_loc9`='Food & Drink Vendor' WHERE `word_id`=72959; -- locales_creature - subname : entry=3961
+UPDATE `trans_words` SET `content_loc9`='Haljan Oakheart' WHERE `word_id`=75567; -- locales_creature - name : entry=3962
 UPDATE `trans_words` SET `content_loc9`='Danlaar Nightstride' WHERE `word_id`=75568; -- locales_creature - name : entry=3963
 UPDATE `trans_words` SET `content_loc9`='Hunter Trainer' WHERE `word_id`=72882; -- locales_creature - subname : entry=3963
 UPDATE `trans_words` SET `content_loc9`='Kylanna' WHERE `word_id`=75569; -- locales_creature - name : entry=3964
@@ -3191,9 +3433,9 @@ UPDATE `trans_words` SET `content_loc9`='Fahran Silentblade' WHERE `word_id`=755
 UPDATE `trans_words` SET `content_loc9`='Tools & Supplies' WHERE `word_id`=75574; -- locales_creature - subname : entry=3969
 UPDATE `trans_words` SET `content_loc9`='Llana' WHERE `word_id`=75575; -- locales_creature - name : entry=3970
 UPDATE `trans_words` SET `content_loc9`='Reagent Supplies' WHERE `word_id`=75576; -- locales_creature - subname : entry=3970
-UPDATE `trans_words` SET `content_loc9`='Herod' WHERE `word_id`=75578; -- locales_creature - name : entry=3975
 UPDATE `trans_words` SET `content_loc9`='The Scarlet Champion' WHERE `word_id`=75579; -- locales_creature - subname : entry=3975
 UPDATE `trans_words` SET `content_loc9`='Sage Truthseeker' WHERE `word_id`=75582; -- locales_creature - name : entry=3978
+UPDATE `trans_words` SET `content_loc9`='Librarian Mae Paledust' WHERE `word_id`=75583; -- locales_creature - name : entry=3979
 UPDATE `trans_words` SET `content_loc9`='Raleigh the Devout' WHERE `word_id`=75584; -- locales_creature - name : entry=3980
 UPDATE `trans_words` SET `content_loc9`='Vorrel Sengutz' WHERE `word_id`=75585; -- locales_creature - name : entry=3981
 UPDATE `trans_words` SET `content_loc9`='Monika Sengutz' WHERE `word_id`=75586; -- locales_creature - name : entry=3982
@@ -3283,8 +3525,10 @@ UPDATE `trans_words` SET `content_loc9`='Collin Mauren' WHERE `word_id`=75672; -
 UPDATE `trans_words` SET `content_loc9`='Sentinel Thenysil' WHERE `word_id`=75673; -- locales_creature - name : entry=4079
 UPDATE `trans_words` SET `content_loc9`='Kaela Shadowspear' WHERE `word_id`=75674; -- locales_creature - name : entry=4080
 UPDATE `trans_words` SET `content_loc9`='Lomac Gearstrip' WHERE `word_id`=75675; -- locales_creature - name : entry=4081
+UPDATE `trans_words` SET `content_loc9`='Grawnal' WHERE `word_id`=75676; -- locales_creature - name : entry=4082
 UPDATE `trans_words` SET `content_loc9`='Jeeda' WHERE `word_id`=75677; -- locales_creature - name : entry=4083
 UPDATE `trans_words` SET `content_loc9`='Apprentice Witch Doctor' WHERE `word_id`=75678; -- locales_creature - subname : entry=4083
+UPDATE `trans_words` SET `content_loc9`='Chylina' WHERE `word_id`=75679; -- locales_creature - name : entry=4084
 UPDATE `trans_words` SET `content_loc9`='Nizzik' WHERE `word_id`=75680; -- locales_creature - name : entry=4085
 UPDATE `trans_words` SET `content_loc9`='Venture Armor Salesman' WHERE `word_id`=75681; -- locales_creature - subname : entry=4085
 UPDATE `trans_words` SET `content_loc9`='Veenix' WHERE `word_id`=75682; -- locales_creature - name : entry=4086
@@ -3350,6 +3594,7 @@ UPDATE `trans_words` SET `content_loc9`='Me\'lynn' WHERE `word_id`=75734; -- loc
 UPDATE `trans_words` SET `content_loc9`='Expert Tailor' WHERE `word_id`=74368; -- locales_creature - subname : entry=4159
 UPDATE `trans_words` SET `content_loc9`='Ainethil' WHERE `word_id`=75735; -- locales_creature - name : entry=4160
 UPDATE `trans_words` SET `content_loc9`='Artisan Alchemist' WHERE `word_id`=75736; -- locales_creature - subname : entry=4160
+UPDATE `trans_words` SET `content_loc9`='Lysheana' WHERE `word_id`=75737; -- locales_creature - name : entry=4161
 UPDATE `trans_words` SET `content_loc9`='Syurna' WHERE `word_id`=75738; -- locales_creature - name : entry=4163
 UPDATE `trans_words` SET `content_loc9`='Rogue Trainer' WHERE `word_id`=72900; -- locales_creature - subname : entry=4163
 UPDATE `trans_words` SET `content_loc9`='Cylania' WHERE `word_id`=75739; -- locales_creature - name : entry=4164
@@ -3362,10 +3607,12 @@ UPDATE `trans_words` SET `content_loc9`='Elynna' WHERE `word_id`=75744; -- local
 UPDATE `trans_words` SET `content_loc9`='Tailoring Supplies' WHERE `word_id`=73325; -- locales_creature - subname : entry=4168
 UPDATE `trans_words` SET `content_loc9`='Jaeana' WHERE `word_id`=75745; -- locales_creature - name : entry=4169
 UPDATE `trans_words` SET `content_loc9`='Meat Vendor' WHERE `word_id`=74714; -- locales_creature - subname : entry=4169
+UPDATE `trans_words` SET `content_loc9`='Ellandrieth' WHERE `word_id`=75746; -- locales_creature - name : entry=4170
 UPDATE `trans_words` SET `content_loc9`='Merelyssa' WHERE `word_id`=75747; -- locales_creature - name : entry=4171
 UPDATE `trans_words` SET `content_loc9`='Blade Merchant' WHERE `word_id`=73294; -- locales_creature - subname : entry=4171
 UPDATE `trans_words` SET `content_loc9`='Anadyia' WHERE `word_id`=75748; -- locales_creature - name : entry=4172
 UPDATE `trans_words` SET `content_loc9`='Robe Vendor' WHERE `word_id`=73330; -- locales_creature - subname : entry=4172
+UPDATE `trans_words` SET `content_loc9`='Landria' WHERE `word_id`=75749; -- locales_creature - name : entry=4173
 UPDATE `trans_words` SET `content_loc9`='Vinasia' WHERE `word_id`=75750; -- locales_creature - name : entry=4175
 UPDATE `trans_words` SET `content_loc9`='Cloth Armor Merchant' WHERE `word_id`=73242; -- locales_creature - subname : entry=4175
 UPDATE `trans_words` SET `content_loc9`='Melea' WHERE `word_id`=75751; -- locales_creature - name : entry=4177
@@ -3374,6 +3621,8 @@ UPDATE `trans_words` SET `content_loc9`='Ealyshia Dewwhisper' WHERE `word_id`=75
 UPDATE `trans_words` SET `content_loc9`='Two Handed Weapon Merchant' WHERE `word_id`=73308; -- locales_creature - subname : entry=4180
 UPDATE `trans_words` SET `content_loc9`='Fyrenna' WHERE `word_id`=75753; -- locales_creature - name : entry=4181
 UPDATE `trans_words` SET `content_loc9`='Food & Drink Vendor' WHERE `word_id`=72959; -- locales_creature - subname : entry=4181
+UPDATE `trans_words` SET `content_loc9`='Dalmond' WHERE `word_id`=75754; -- locales_creature - name : entry=4182
+UPDATE `trans_words` SET `content_loc9`='Naram Longclaw' WHERE `word_id`=75755; -- locales_creature - name : entry=4183
 UPDATE `trans_words` SET `content_loc9`='Geenia Sunshadow' WHERE `word_id`=75756; -- locales_creature - name : entry=4184
 UPDATE `trans_words` SET `content_loc9`='Speciality Dress Maker' WHERE `word_id`=75757; -- locales_creature - subname : entry=4184
 UPDATE `trans_words` SET `content_loc9`='Shaldyn' WHERE `word_id`=75758; -- locales_creature - name : entry=4185
@@ -3394,6 +3643,7 @@ UPDATE `trans_words` SET `content_loc9`='Taldan' WHERE `word_id`=75767; -- local
 UPDATE `trans_words` SET `content_loc9`='Drink Vendor' WHERE `word_id`=75768; -- locales_creature - subname : entry=4192
 UPDATE `trans_words` SET `content_loc9`='Grondal Moonbreeze' WHERE `word_id`=75769; -- locales_creature - name : entry=4193
 UPDATE `trans_words` SET `content_loc9`='Journeyman Tailor' WHERE `word_id`=73065; -- locales_creature - subname : entry=4193
+UPDATE `trans_words` SET `content_loc9`='Ullanna' WHERE `word_id`=75770; -- locales_creature - name : entry=4194
 UPDATE `trans_words` SET `content_loc9`='Tiyani' WHERE `word_id`=75771; -- locales_creature - name : entry=4195
 UPDATE `trans_words` SET `content_loc9`='Food & Drink Vendor' WHERE `word_id`=72959; -- locales_creature - subname : entry=4195
 UPDATE `trans_words` SET `content_loc9`='Silithid Swarm' WHERE `word_id`=75772; -- locales_creature - name : entry=4196
@@ -3437,8 +3687,13 @@ UPDATE `trans_words` SET `content_loc9`='Cyroen' WHERE `word_id`=75794; -- local
 UPDATE `trans_words` SET `content_loc9`='Reagents' WHERE `word_id`=73226; -- locales_creature - subname : entry=4220
 UPDATE `trans_words` SET `content_loc9`='Talaelar' WHERE `word_id`=75795; -- locales_creature - name : entry=4221
 UPDATE `trans_words` SET `content_loc9`='Fish Vendor' WHERE `word_id`=75776; -- locales_creature - subname : entry=4221
+UPDATE `trans_words` SET `content_loc9`='Voloren' WHERE `word_id`=75796; -- locales_creature - name : entry=4222
+UPDATE `trans_words` SET `content_loc9`='Fyldan' WHERE `word_id`=75797; -- locales_creature - name : entry=4223
+UPDATE `trans_words` SET `content_loc9`='Saenorion' WHERE `word_id`=75798; -- locales_creature - name : entry=4225
 UPDATE `trans_words` SET `content_loc9`='Ulthir' WHERE `word_id`=75799; -- locales_creature - name : entry=4226
 UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies' WHERE `word_id`=73275; -- locales_creature - subname : entry=4226
+UPDATE `trans_words` SET `content_loc9`='Vaean' WHERE `word_id`=75800; -- locales_creature - name : entry=4228
+UPDATE `trans_words` SET `content_loc9`='Mythrin\'dir' WHERE `word_id`=75801; -- locales_creature - name : entry=4229
 UPDATE `trans_words` SET `content_loc9`='Yldan' WHERE `word_id`=75802; -- locales_creature - name : entry=4230
 UPDATE `trans_words` SET `content_loc9`='Bag Merchant' WHERE `word_id`=75803; -- locales_creature - subname : entry=4230
 UPDATE `trans_words` SET `content_loc9`='Kieran' WHERE `word_id`=75804; -- locales_creature - name : entry=4231
@@ -3447,12 +3702,14 @@ UPDATE `trans_words` SET `content_loc9`='Glorandiir' WHERE `word_id`=75805; -- l
 UPDATE `trans_words` SET `content_loc9`='Axe Merchant' WHERE `word_id`=74703; -- locales_creature - subname : entry=4232
 UPDATE `trans_words` SET `content_loc9`='Mythidan' WHERE `word_id`=75806; -- locales_creature - name : entry=4233
 UPDATE `trans_words` SET `content_loc9`='Mace & Staff Merchant' WHERE `word_id`=74705; -- locales_creature - subname : entry=4233
+UPDATE `trans_words` SET `content_loc9`='Andrus' WHERE `word_id`=75807; -- locales_creature - name : entry=4234
 UPDATE `trans_words` SET `content_loc9`='Turian' WHERE `word_id`=75808; -- locales_creature - name : entry=4235
 UPDATE `trans_words` SET `content_loc9`='Thrown Weapons Merchant' WHERE `word_id`=75809; -- locales_creature - subname : entry=4235
 UPDATE `trans_words` SET `content_loc9`='Cyridan' WHERE `word_id`=75810; -- locales_creature - name : entry=4236
 UPDATE `trans_words` SET `content_loc9`='Leather Armor Merchant' WHERE `word_id`=72884; -- locales_creature - subname : entry=4236
 UPDATE `trans_words` SET `content_loc9`='Caynrus' WHERE `word_id`=75811; -- locales_creature - name : entry=4240
 UPDATE `trans_words` SET `content_loc9`='Shield Merchant' WHERE `word_id`=73286; -- locales_creature - subname : entry=4240
+UPDATE `trans_words` SET `content_loc9`='Mydrannul' WHERE `word_id`=75812; -- locales_creature - name : entry=4241
 UPDATE `trans_words` SET `content_loc9`='Frostsaber Companion' WHERE `word_id`=75813; -- locales_creature - name : entry=4242
 UPDATE `trans_words` SET `content_loc9`='Nightshade' WHERE `word_id`=75814; -- locales_creature - name : entry=4243
 UPDATE `trans_words` SET `content_loc9`='Jeen\'ra\'s Pet' WHERE `word_id`=75815; -- locales_creature - subname : entry=4243
@@ -3466,6 +3723,7 @@ UPDATE `trans_words` SET `content_loc9`='Geofram Bouldertoe' WHERE `word_id`=758
 UPDATE `trans_words` SET `content_loc9`='Mining Trainer' WHERE `word_id`=73579; -- locales_creature - subname : entry=4254
 UPDATE `trans_words` SET `content_loc9`='Brogus Thunderbrew' WHERE `word_id`=75826; -- locales_creature - name : entry=4255
 UPDATE `trans_words` SET `content_loc9`='Food and Drink' WHERE `word_id`=75827; -- locales_creature - subname : entry=4255
+UPDATE `trans_words` SET `content_loc9`='Golnir Bouldertoe' WHERE `word_id`=75828; -- locales_creature - name : entry=4256
 UPDATE `trans_words` SET `content_loc9`='Lana Thunderbrew' WHERE `word_id`=75829; -- locales_creature - name : entry=4257
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=4257
 UPDATE `trans_words` SET `content_loc9`='Bengus Deepforge' WHERE `word_id`=75830; -- locales_creature - name : entry=4258
@@ -3476,8 +3734,10 @@ UPDATE `trans_words` SET `content_loc9`='Venture Co. Shredder' WHERE `word_id`=7
 UPDATE `trans_words` SET `content_loc9`='Darnassus Sentinel' WHERE `word_id`=75834; -- locales_creature - name : entry=4262
 UPDATE `trans_words` SET `content_loc9`='Deepmoss Hatchling' WHERE `word_id`=75835; -- locales_creature - name : entry=4263
 UPDATE `trans_words` SET `content_loc9`='Deepmoss Matriarch' WHERE `word_id`=75836; -- locales_creature - name : entry=4264
+UPDATE `trans_words` SET `content_loc9`='Nyoma' WHERE `word_id`=75837; -- locales_creature - name : entry=4265
 UPDATE `trans_words` SET `content_loc9`='Danlyia' WHERE `word_id`=75838; -- locales_creature - name : entry=4266
 UPDATE `trans_words` SET `content_loc9`='Food & Drink Vendor' WHERE `word_id`=72959; -- locales_creature - subname : entry=4266
+UPDATE `trans_words` SET `content_loc9`='Daelyshia' WHERE `word_id`=75839; -- locales_creature - name : entry=4267
 UPDATE `trans_words` SET `content_loc9`='Riding Wolf (Gray)' WHERE `word_id`=75840; -- locales_creature - name : entry=4268
 UPDATE `trans_words` SET `content_loc9`='Chestnut Mare' WHERE `word_id`=75841; -- locales_creature - name : entry=4269
 UPDATE `trans_words` SET `content_loc9`='Riding Wolf (Red)' WHERE `word_id`=75842; -- locales_creature - name : entry=4270
@@ -3520,9 +3780,14 @@ UPDATE `trans_words` SET `content_loc9`='Unfettered Spirit' WHERE `word_id`=7588
 UPDATE `trans_words` SET `content_loc9`='Gorm Grimtotem' WHERE `word_id`=75882; -- locales_creature - name : entry=4309
 UPDATE `trans_words` SET `content_loc9`='Cor Grimtotem' WHERE `word_id`=75883; -- locales_creature - name : entry=4310
 UPDATE `trans_words` SET `content_loc9`='Holgar Stormaxe' WHERE `word_id`=75884; -- locales_creature - name : entry=4311
+UPDATE `trans_words` SET `content_loc9`='Tharm' WHERE `word_id`=75885; -- locales_creature - name : entry=4312
+UPDATE `trans_words` SET `content_loc9`='Gorkas' WHERE `word_id`=75886; -- locales_creature - name : entry=4314
 UPDATE `trans_words` SET `content_loc9`='Kolkar Packhound' WHERE `word_id`=75887; -- locales_creature - name : entry=4316
+UPDATE `trans_words` SET `content_loc9`='Nyse' WHERE `word_id`=75888; -- locales_creature - name : entry=4317
+UPDATE `trans_words` SET `content_loc9`='Thyssiana' WHERE `word_id`=75889; -- locales_creature - name : entry=4319
 UPDATE `trans_words` SET `content_loc9`='Caelyb' WHERE `word_id`=75890; -- locales_creature - name : entry=4320
 UPDATE `trans_words` SET `content_loc9`='Pet Trainer' WHERE `word_id`=72611; -- locales_creature - subname : entry=4320
+UPDATE `trans_words` SET `content_loc9`='Baldruc' WHERE `word_id`=75891; -- locales_creature - name : entry=4321
 UPDATE `trans_words` SET `content_loc9`='Searing Hatchling' WHERE `word_id`=75892; -- locales_creature - name : entry=4323
 UPDATE `trans_words` SET `content_loc9`='Searing Whelp' WHERE `word_id`=75893; -- locales_creature - name : entry=4324
 UPDATE `trans_words` SET `content_loc9`='Firemane Scalebane' WHERE `word_id`=75894; -- locales_creature - name : entry=4328
@@ -3581,6 +3846,7 @@ UPDATE `trans_words` SET `content_loc9`='Muckshell Snapclaw' WHERE `word_id`=759
 UPDATE `trans_words` SET `content_loc9`='Muckshell Pincer' WHERE `word_id`=75947; -- locales_creature - name : entry=4403
 UPDATE `trans_words` SET `content_loc9`='Muckshell Scrabbler' WHERE `word_id`=75948; -- locales_creature - name : entry=4404
 UPDATE `trans_words` SET `content_loc9`='Muckshell Razorclaw' WHERE `word_id`=75949; -- locales_creature - name : entry=4405
+UPDATE `trans_words` SET `content_loc9`='Teloren' WHERE `word_id`=75950; -- locales_creature - name : entry=4407
 UPDATE `trans_words` SET `content_loc9`='Gatekeeper Kordurus' WHERE `word_id`=75952; -- locales_creature - name : entry=4409
 UPDATE `trans_words` SET `content_loc9`='Darkfang Lurker' WHERE `word_id`=75953; -- locales_creature - name : entry=4411
 UPDATE `trans_words` SET `content_loc9`='Darkfang Creeper' WHERE `word_id`=75954; -- locales_creature - name : entry=4412
@@ -3687,10 +3953,13 @@ UPDATE `trans_words` SET `content_loc9`='William Montague' WHERE `word_id`=76062
 UPDATE `trans_words` SET `content_loc9`='Banker' WHERE `word_id`=74200; -- locales_creature - subname : entry=4549
 UPDATE `trans_words` SET `content_loc9`='Ophelia Montague' WHERE `word_id`=76063; -- locales_creature - name : entry=4550
 UPDATE `trans_words` SET `content_loc9`='Banker' WHERE `word_id`=74200; -- locales_creature - subname : entry=4550
+UPDATE `trans_words` SET `content_loc9`='Michael Garrett' WHERE `word_id`=76064; -- locales_creature - name : entry=4551
 UPDATE `trans_words` SET `content_loc9`='Eunice Burch' WHERE `word_id`=76065; -- locales_creature - name : entry=4552
 UPDATE `trans_words` SET `content_loc9`='Cooking Trainer' WHERE `word_id`=73336; -- locales_creature - subname : entry=4552
+UPDATE `trans_words` SET `content_loc9`='Ronald Burch' WHERE `word_id`=76066; -- locales_creature - name : entry=4553
 UPDATE `trans_words` SET `content_loc9`='Tawny Grisette' WHERE `word_id`=76067; -- locales_creature - name : entry=4554
 UPDATE `trans_words` SET `content_loc9`='Mushroom Vendor' WHERE `word_id`=75011; -- locales_creature - subname : entry=4554
+UPDATE `trans_words` SET `content_loc9`='Eleanor Rusk' WHERE `word_id`=76068; -- locales_creature - name : entry=4555
 UPDATE `trans_words` SET `content_loc9`='Gordon Wendham' WHERE `word_id`=76069; -- locales_creature - name : entry=4556
 UPDATE `trans_words` SET `content_loc9`='Weapons Merchant' WHERE `word_id`=73239; -- locales_creature - subname : entry=4556
 UPDATE `trans_words` SET `content_loc9`='Louis Warren' WHERE `word_id`=76070; -- locales_creature - name : entry=4557
@@ -3701,6 +3970,7 @@ UPDATE `trans_words` SET `content_loc9`='Timothy Weldon' WHERE `word_id`=76072; 
 UPDATE `trans_words` SET `content_loc9`='Heavy Armor Merchant' WHERE `word_id`=73292; -- locales_creature - subname : entry=4559
 UPDATE `trans_words` SET `content_loc9`='Walter Ellingson' WHERE `word_id`=76073; -- locales_creature - name : entry=4560
 UPDATE `trans_words` SET `content_loc9`='Heavy Armor Merchant' WHERE `word_id`=73292; -- locales_creature - subname : entry=4560
+UPDATE `trans_words` SET `content_loc9`='Daniel Bartlett' WHERE `word_id`=76074; -- locales_creature - name : entry=4561
 UPDATE `trans_words` SET `content_loc9`='Thomas Mordan' WHERE `word_id`=76075; -- locales_creature - name : entry=4562
 UPDATE `trans_words` SET `content_loc9`='Reagents' WHERE `word_id`=73226; -- locales_creature - subname : entry=4562
 UPDATE `trans_words` SET `content_loc9`='Kaal Soulreaper' WHERE `word_id`=76076; -- locales_creature - name : entry=4563
@@ -3709,13 +3979,18 @@ UPDATE `trans_words` SET `content_loc9`='Luther Pickman' WHERE `word_id`=76077; 
 UPDATE `trans_words` SET `content_loc9`='Warlock Trainer' WHERE `word_id`=72545; -- locales_creature - subname : entry=4564
 UPDATE `trans_words` SET `content_loc9`='Richard Kerwin' WHERE `word_id`=76078; -- locales_creature - name : entry=4565
 UPDATE `trans_words` SET `content_loc9`='Warlock Trainer' WHERE `word_id`=72545; -- locales_creature - subname : entry=4565
+UPDATE `trans_words` SET `content_loc9`='Kaelystia Hatebringer' WHERE `word_id`=76079; -- locales_creature - name : entry=4566
+UPDATE `trans_words` SET `content_loc9`='Pierce Shackleton' WHERE `word_id`=76080; -- locales_creature - name : entry=4567
+UPDATE `trans_words` SET `content_loc9`='Anastasia Hartwell' WHERE `word_id`=76081; -- locales_creature - name : entry=4568
 UPDATE `trans_words` SET `content_loc9`='Charles Seaton' WHERE `word_id`=76082; -- locales_creature - name : entry=4569
 UPDATE `trans_words` SET `content_loc9`='Blade Merchant' WHERE `word_id`=73294; -- locales_creature - subname : entry=4569
+UPDATE `trans_words` SET `content_loc9`='Sydney Upton' WHERE `word_id`=76083; -- locales_creature - name : entry=4570
 UPDATE `trans_words` SET `content_loc9`='Morley Bates' WHERE `word_id`=76084; -- locales_creature - name : entry=4571
 UPDATE `trans_words` SET `content_loc9`='Fungus Vendor' WHERE `word_id`=76085; -- locales_creature - subname : entry=4571
 UPDATE `trans_words` SET `content_loc9`='Silas Zimmer' WHERE `word_id`=76086; -- locales_creature - name : entry=4572
 UPDATE `trans_words` SET `content_loc9`='Armand Cromwell' WHERE `word_id`=76087; -- locales_creature - name : entry=4573
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=4573
+UPDATE `trans_words` SET `content_loc9`='Lizbeth Cromwell' WHERE `word_id`=76088; -- locales_creature - name : entry=4574
 UPDATE `trans_words` SET `content_loc9`='Hannah Akeley' WHERE `word_id`=76089; -- locales_creature - name : entry=4575
 UPDATE `trans_words` SET `content_loc9`='Reagents' WHERE `word_id`=73226; -- locales_creature - subname : entry=4575
 UPDATE `trans_words` SET `content_loc9`='Josef Gregorian' WHERE `word_id`=76090; -- locales_creature - name : entry=4576
@@ -3726,6 +4001,7 @@ UPDATE `trans_words` SET `content_loc9`='Josephine Lister' WHERE `word_id`=76092
 UPDATE `trans_words` SET `content_loc9`='Master Shadoweave Tailor' WHERE `word_id`=76093; -- locales_creature - subname : entry=4578
 UPDATE `trans_words` SET `content_loc9`='Lucille Castleton' WHERE `word_id`=76094; -- locales_creature - name : entry=4580
 UPDATE `trans_words` SET `content_loc9`='Robe Vendor' WHERE `word_id`=73330; -- locales_creature - subname : entry=4580
+UPDATE `trans_words` SET `content_loc9`='Salazar Bloch' WHERE `word_id`=76095; -- locales_creature - name : entry=4581
 UPDATE `trans_words` SET `content_loc9`='Carolyn Ward' WHERE `word_id`=76097; -- locales_creature - name : entry=4582
 UPDATE `trans_words` SET `content_loc9`='Rogue Trainer' WHERE `word_id`=72900; -- locales_creature - subname : entry=4582
 UPDATE `trans_words` SET `content_loc9`='Miles Dexter' WHERE `word_id`=76098; -- locales_creature - name : entry=4583
@@ -3736,8 +4012,11 @@ UPDATE `trans_words` SET `content_loc9`='Ezekiel Graves' WHERE `word_id`=76100; 
 UPDATE `trans_words` SET `content_loc9`='Poison Supplies' WHERE `word_id`=73298; -- locales_creature - subname : entry=4585
 UPDATE `trans_words` SET `content_loc9`='Graham Van Talen' WHERE `word_id`=76101; -- locales_creature - name : entry=4586
 UPDATE `trans_words` SET `content_loc9`='Journeyman Engineer' WHERE `word_id`=73605; -- locales_creature - subname : entry=4586
+UPDATE `trans_words` SET `content_loc9`='Elizabeth Van Talen' WHERE `word_id`=76102; -- locales_creature - name : entry=4587
 UPDATE `trans_words` SET `content_loc9`='Arthur Moore' WHERE `word_id`=76103; -- locales_creature - name : entry=4588
 UPDATE `trans_words` SET `content_loc9`='Expert Leatherworker' WHERE `word_id`=73363; -- locales_creature - subname : entry=4588
+UPDATE `trans_words` SET `content_loc9`='Joseph Moore' WHERE `word_id`=76104; -- locales_creature - name : entry=4589
+UPDATE `trans_words` SET `content_loc9`='Jonathan Chambers' WHERE `word_id`=76105; -- locales_creature - name : entry=4590
 UPDATE `trans_words` SET `content_loc9`='Mary Edras' WHERE `word_id`=76106; -- locales_creature - name : entry=4591
 UPDATE `trans_words` SET `content_loc9`='First Aid Trainer' WHERE `word_id`=74080; -- locales_creature - subname : entry=4591
 UPDATE `trans_words` SET `content_loc9`='Nathaniel Steenwick' WHERE `word_id`=76107; -- locales_creature - name : entry=4592
@@ -3754,6 +4033,7 @@ UPDATE `trans_words` SET `content_loc9`='Samuel Van Brunt' WHERE `word_id`=76112
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=4597
 UPDATE `trans_words` SET `content_loc9`='Brom Killian' WHERE `word_id`=76113; -- locales_creature - name : entry=4598
 UPDATE `trans_words` SET `content_loc9`='Mining Trainer' WHERE `word_id`=73579; -- locales_creature - subname : entry=4598
+UPDATE `trans_words` SET `content_loc9`='Sarah Killian' WHERE `word_id`=76114; -- locales_creature - name : entry=4599
 UPDATE `trans_words` SET `content_loc9`='Geoffrey Hartwell' WHERE `word_id`=76115; -- locales_creature - name : entry=4600
 UPDATE `trans_words` SET `content_loc9`='Weapon Merchant' WHERE `word_id`=72957; -- locales_creature - subname : entry=4600
 UPDATE `trans_words` SET `content_loc9`='Francis Eliot' WHERE `word_id`=76116; -- locales_creature - name : entry=4601
@@ -3762,6 +4042,7 @@ UPDATE `trans_words` SET `content_loc9`='Benijah Fenner' WHERE `word_id`=76117; 
 UPDATE `trans_words` SET `content_loc9`='Weapon Merchant' WHERE `word_id`=72957; -- locales_creature - subname : entry=4602
 UPDATE `trans_words` SET `content_loc9`='Nicholas Atwood' WHERE `word_id`=76118; -- locales_creature - name : entry=4603
 UPDATE `trans_words` SET `content_loc9`='Gun Merchant' WHERE `word_id`=74745; -- locales_creature - subname : entry=4603
+UPDATE `trans_words` SET `content_loc9`='Abigail Sawyer' WHERE `word_id`=76119; -- locales_creature - name : entry=4604
 UPDATE `trans_words` SET `content_loc9`='Basil Frye' WHERE `word_id`=76120; -- locales_creature - name : entry=4605
 UPDATE `trans_words` SET `content_loc9`='Journeyman Blacksmith' WHERE `word_id`=72593; -- locales_creature - subname : entry=4605
 UPDATE `trans_words` SET `content_loc9`='Aelthalyste' WHERE `word_id`=76121; -- locales_creature - name : entry=4606
@@ -3777,12 +4058,14 @@ UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies' WHERE `word_id`=73275
 UPDATE `trans_words` SET `content_loc9`='Doctor Herbert Halsey' WHERE `word_id`=76126; -- locales_creature - name : entry=4611
 UPDATE `trans_words` SET `content_loc9`='Artisan Alchemist' WHERE `word_id`=75736; -- locales_creature - subname : entry=4611
 UPDATE `trans_words` SET `content_loc9`='Boyle' WHERE `word_id`=76127; -- locales_creature - name : entry=4612
+UPDATE `trans_words` SET `content_loc9`='Christopher Drakul' WHERE `word_id`=76128; -- locales_creature - name : entry=4613
 UPDATE `trans_words` SET `content_loc9`='Martha Alliestar' WHERE `word_id`=76129; -- locales_creature - name : entry=4614
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=4614
 UPDATE `trans_words` SET `content_loc9`='Katrina Alliestar' WHERE `word_id`=76130; -- locales_creature - name : entry=4615
 UPDATE `trans_words` SET `content_loc9`='Herbalism Supplies' WHERE `word_id`=73260; -- locales_creature - subname : entry=4615
 UPDATE `trans_words` SET `content_loc9`='Lavinia Crowe' WHERE `word_id`=76131; -- locales_creature - name : entry=4616
 UPDATE `trans_words` SET `content_loc9`='Expert Enchanter' WHERE `word_id`=73282; -- locales_creature - subname : entry=4616
+UPDATE `trans_words` SET `content_loc9`='Thaddeus Webb' WHERE `word_id`=76132; -- locales_creature - name : entry=4617
 UPDATE `trans_words` SET `content_loc9`='Martek the Exiled' WHERE `word_id`=76133; -- locales_creature - name : entry=4618
 UPDATE `trans_words` SET `content_loc9`='Geltharis' WHERE `word_id`=76134; -- locales_creature - name : entry=4619
 UPDATE `trans_words` SET `content_loc9`='Fobeed' WHERE `word_id`=76135; -- locales_creature - name : entry=4620
@@ -3896,14 +4179,19 @@ UPDATE `trans_words` SET `content_loc9`='Ultham Ironhorn' WHERE `word_id`=76238;
 UPDATE `trans_words` SET `content_loc9`='Riding Trainer' WHERE `word_id`=75366; -- locales_creature - subname : entry=4772
 UPDATE `trans_words` SET `content_loc9`='Velma Warnam' WHERE `word_id`=76239; -- locales_creature - name : entry=4773
 UPDATE `trans_words` SET `content_loc9`='Riding Trainer' WHERE `word_id`=75366; -- locales_creature - subname : entry=4773
+UPDATE `trans_words` SET `content_loc9`='Felicia Doan' WHERE `word_id`=76240; -- locales_creature - name : entry=4775
 UPDATE `trans_words` SET `content_loc9`='Snufflenose Gopher' WHERE `word_id`=76241; -- locales_creature - name : entry=4781
+UPDATE `trans_words` SET `content_loc9`='Truk Wildbeard' WHERE `word_id`=76242; -- locales_creature - name : entry=4782
+UPDATE `trans_words` SET `content_loc9`='Dawnwatcher Selgorm' WHERE `word_id`=76243; -- locales_creature - name : entry=4783
+UPDATE `trans_words` SET `content_loc9`='Argent Guard Manados' WHERE `word_id`=76244; -- locales_creature - name : entry=4784
 UPDATE `trans_words` SET `content_loc9`='Illusionary Nightmare' WHERE `word_id`=76245; -- locales_creature - name : entry=4785
+UPDATE `trans_words` SET `content_loc9`='Dawnwatcher Shaedlass' WHERE `word_id`=76246; -- locales_creature - name : entry=4786
+UPDATE `trans_words` SET `content_loc9`='Argent Guard Thaelrid' WHERE `word_id`=76247; -- locales_creature - name : entry=4787
 UPDATE `trans_words` SET `content_loc9`='Fallenroot Satyr' WHERE `word_id`=76248; -- locales_creature - name : entry=4788
 UPDATE `trans_words` SET `content_loc9`='Fallenroot Rogue' WHERE `word_id`=76249; -- locales_creature - name : entry=4789
 UPDATE `trans_words` SET `content_loc9`='Nazeer Bloodpike' WHERE `word_id`=76250; -- locales_creature - name : entry=4791
 UPDATE `trans_words` SET `content_loc9`='"Swamp Eye" Jarl' WHERE `word_id`=76251; -- locales_creature - name : entry=4792
 UPDATE `trans_words` SET `content_loc9`='Morgan Stern' WHERE `word_id`=76252; -- locales_creature - name : entry=4794
-UPDATE `trans_words` SET `content_loc9`='Force of Nature' WHERE `word_id`=76253; -- locales_creature - name : entry=4795
 UPDATE `trans_words` SET `content_loc9`='Fallenroot Shadowstalker' WHERE `word_id`=76254; -- locales_creature - name : entry=4798
 UPDATE `trans_words` SET `content_loc9`='Fallenroot Hellcaller' WHERE `word_id`=76255; -- locales_creature - name : entry=4799
 UPDATE `trans_words` SET `content_loc9`='Blackfathom Tide Priestess' WHERE `word_id`=76256; -- locales_creature - name : entry=4802
@@ -3926,7 +4214,6 @@ UPDATE `trans_words` SET `content_loc9`='Barbed Crustacean' WHERE `word_id`=7627
 UPDATE `trans_words` SET `content_loc9`='Aku\'mai Fisher' WHERE `word_id`=76273; -- locales_creature - name : entry=4824
 UPDATE `trans_words` SET `content_loc9`='Aku\'mai Snapjaw' WHERE `word_id`=76274; -- locales_creature - name : entry=4825
 UPDATE `trans_words` SET `content_loc9`='Deep Pool Threshfin' WHERE `word_id`=76275; -- locales_creature - name : entry=4827
-UPDATE `trans_words` SET `content_loc9`='Aku\'mai' WHERE `word_id`=76276; -- locales_creature - name : entry=4829
 UPDATE `trans_words` SET `content_loc9`='Theramore Infiltrator' WHERE `word_id`=76280; -- locales_creature - name : entry=4834
 UPDATE `trans_words` SET `content_loc9`='Deadmire' WHERE `word_id`=76281; -- locales_creature - name : entry=4841
 UPDATE `trans_words` SET `content_loc9`='Earthcaller Halmgar' WHERE `word_id`=76282; -- locales_creature - name : entry=4842
@@ -3949,23 +4236,32 @@ UPDATE `trans_words` SET `content_loc9`='Shrike Bat' WHERE `word_id`=76299; -- l
 UPDATE `trans_words` SET `content_loc9`='Obsidian Golem' WHERE `word_id`=76301; -- locales_creature - name : entry=4872
 UPDATE `trans_words` SET `content_loc9`='Turhaw' WHERE `word_id`=76302; -- locales_creature - name : entry=4875
 UPDATE `trans_words` SET `content_loc9`='Butcher' WHERE `word_id`=74112; -- locales_creature - subname : entry=4875
+UPDATE `trans_words` SET `content_loc9`='Jawn Highmesa' WHERE `word_id`=76303; -- locales_creature - name : entry=4876
+UPDATE `trans_words` SET `content_loc9`='Jandia' WHERE `word_id`=76304; -- locales_creature - name : entry=4877
 UPDATE `trans_words` SET `content_loc9`='Montarr' WHERE `word_id`=76305; -- locales_creature - name : entry=4878
 UPDATE `trans_words` SET `content_loc9`='Lorekeeper' WHERE `word_id`=76306; -- locales_creature - subname : entry=4878
 UPDATE `trans_words` SET `content_loc9`='Ogg\'marr' WHERE `word_id`=76307; -- locales_creature - name : entry=4879
 UPDATE `trans_words` SET `content_loc9`='Butcher' WHERE `word_id`=74112; -- locales_creature - subname : entry=4879
 UPDATE `trans_words` SET `content_loc9`='"Stinky" Ignatz' WHERE `word_id`=76308; -- locales_creature - name : entry=4880
+UPDATE `trans_words` SET `content_loc9`='Krak' WHERE `word_id`=76309; -- locales_creature - name : entry=4883
+UPDATE `trans_words` SET `content_loc9`='Zulrg' WHERE `word_id`=76310; -- locales_creature - name : entry=4884
 UPDATE `trans_words` SET `content_loc9`='Gregor MacVince' WHERE `word_id`=76311; -- locales_creature - name : entry=4885
 UPDATE `trans_words` SET `content_loc9`='Horse Breeder' WHERE `word_id`=72505; -- locales_creature - subname : entry=4885
 UPDATE `trans_words` SET `content_loc9`='Hans Weston' WHERE `word_id`=76312; -- locales_creature - name : entry=4886
 UPDATE `trans_words` SET `content_loc9`='Armorer & Shieldsmith' WHERE `word_id`=75762; -- locales_creature - subname : entry=4886
-UPDATE `trans_words` SET `content_loc9`='Ghamoo-ra' WHERE `word_id`=76313; -- locales_creature - name : entry=4887
+UPDATE `trans_words` SET `content_loc9`='Marie Holdston' WHERE `word_id`=76314; -- locales_creature - name : entry=4888
+UPDATE `trans_words` SET `content_loc9`='Torq Ironblast' WHERE `word_id`=76315; -- locales_creature - name : entry=4889
 UPDATE `trans_words` SET `content_loc9`='Piter Verance' WHERE `word_id`=76316; -- locales_creature - name : entry=4890
 UPDATE `trans_words` SET `content_loc9`='Weaponsmith & Armorer' WHERE `word_id`=76317; -- locales_creature - subname : entry=4890
 UPDATE `trans_words` SET `content_loc9`='Dwane Wertle' WHERE `word_id`=76318; -- locales_creature - name : entry=4891
 UPDATE `trans_words` SET `content_loc9`='Chef' WHERE `word_id`=76319; -- locales_creature - subname : entry=4891
+UPDATE `trans_words` SET `content_loc9`='Jensen Farran' WHERE `word_id`=76320; -- locales_creature - name : entry=4892
+UPDATE `trans_words` SET `content_loc9`='Bartender Lillian' WHERE `word_id`=76321; -- locales_creature - name : entry=4893
 UPDATE `trans_words` SET `content_loc9`='Craig Nollward' WHERE `word_id`=76322; -- locales_creature - name : entry=4894
 UPDATE `trans_words` SET `content_loc9`='Cook' WHERE `word_id`=73403; -- locales_creature - subname : entry=4894
 UPDATE `trans_words` SET `content_loc9`='Smiling Jim' WHERE `word_id`=76323; -- locales_creature - name : entry=4895
+UPDATE `trans_words` SET `content_loc9`='Charity Mipsy' WHERE `word_id`=76324; -- locales_creature - name : entry=4896
+UPDATE `trans_words` SET `content_loc9`='Helenia Olden' WHERE `word_id`=76325; -- locales_creature - name : entry=4897
 UPDATE `trans_words` SET `content_loc9`='Brant Jasperbloom' WHERE `word_id`=76326; -- locales_creature - name : entry=4898
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=4898
 UPDATE `trans_words` SET `content_loc9`='Uma Bartulm' WHERE `word_id`=76327; -- locales_creature - name : entry=4899
@@ -3997,6 +4293,7 @@ UPDATE `trans_words` SET `content_loc9`='Jorgen' WHERE `word_id`=76353; -- local
 UPDATE `trans_words` SET `content_loc9`='Bishop DeLavey' WHERE `word_id`=76354; -- locales_creature - name : entry=4960
 UPDATE `trans_words` SET `content_loc9`='Dashel Stonefist' WHERE `word_id`=76355; -- locales_creature - name : entry=4961
 UPDATE `trans_words` SET `content_loc9`='Tapoke "Slim" Jahn' WHERE `word_id`=76356; -- locales_creature - name : entry=4962
+UPDATE `trans_words` SET `content_loc9`='Mikhail' WHERE `word_id`=76357; -- locales_creature - name : entry=4963
 UPDATE `trans_words` SET `content_loc9`='Commander Samaul' WHERE `word_id`=76358; -- locales_creature - name : entry=4964
 UPDATE `trans_words` SET `content_loc9`='Pained' WHERE `word_id`=76359; -- locales_creature - name : entry=4965
 UPDATE `trans_words` SET `content_loc9`='Private Hendel' WHERE `word_id`=76360; -- locales_creature - name : entry=4966
@@ -4006,6 +4303,7 @@ UPDATE `trans_words` SET `content_loc9`='Old Town Thug' WHERE `word_id`=76364; -
 UPDATE `trans_words` SET `content_loc9`='Slim\'s Friend' WHERE `word_id`=76365; -- locales_creature - name : entry=4971
 UPDATE `trans_words` SET `content_loc9`='Kagoro' WHERE `word_id`=76366; -- locales_creature - name : entry=4972
 UPDATE `trans_words` SET `content_loc9`='Guard Lasiter' WHERE `word_id`=76367; -- locales_creature - name : entry=4973
+UPDATE `trans_words` SET `content_loc9`='Aldwin Laughlin' WHERE `word_id`=76368; -- locales_creature - name : entry=4974
 UPDATE `trans_words` SET `content_loc9`='Murkshallow Softshell' WHERE `word_id`=76369; -- locales_creature - name : entry=4977
 UPDATE `trans_words` SET `content_loc9`='Aku\'mai Servant' WHERE `word_id`=76370; -- locales_creature - name : entry=4978
 UPDATE `trans_words` SET `content_loc9`='Theramore Guard' WHERE `word_id`=76371; -- locales_creature - name : entry=4979
@@ -4014,7 +4312,6 @@ UPDATE `trans_words` SET `content_loc9`='Ben Trias' WHERE `word_id`=76373; -- lo
 UPDATE `trans_words` SET `content_loc9`='Apprentice of Cheese' WHERE `word_id`=76374; -- locales_creature - subname : entry=4981
 UPDATE `trans_words` SET `content_loc9`='Thomas' WHERE `word_id`=76375; -- locales_creature - name : entry=4982
 UPDATE `trans_words` SET `content_loc9`='Altar Boy' WHERE `word_id`=76376; -- locales_creature - subname : entry=4982
-UPDATE `trans_words` SET `content_loc9`='Ogron' WHERE `word_id`=76377; -- locales_creature - name : entry=4983
 UPDATE `trans_words` SET `content_loc9`='Argos Nightwhisper' WHERE `word_id`=76378; -- locales_creature - name : entry=4984
 UPDATE `trans_words` SET `content_loc9`='Stockade Guard' WHERE `word_id`=76379; -- locales_creature - name : entry=4995
 UPDATE `trans_words` SET `content_loc9`='Injured Stockade Guard' WHERE `word_id`=76380; -- locales_creature - name : entry=4996
@@ -4031,6 +4328,7 @@ UPDATE `trans_words` SET `content_loc9`='Guild Tabard Vendor' WHERE `word_id`=76
 UPDATE `trans_words` SET `content_loc9`='Edward Remington' WHERE `word_id`=76391; -- locales_creature - name : entry=5052
 UPDATE `trans_words` SET `content_loc9`='Guild Tabard Designer' WHERE `word_id`=76392; -- locales_creature - subname : entry=5052
 UPDATE `trans_words` SET `content_loc9`='Deviate Crocolisk' WHERE `word_id`=76393; -- locales_creature - name : entry=5053
+UPDATE `trans_words` SET `content_loc9`='Krumn' WHERE `word_id`=76394; -- locales_creature - name : entry=5054
 UPDATE `trans_words` SET `content_loc9`='Deviate Lasher' WHERE `word_id`=76395; -- locales_creature - name : entry=5055
 UPDATE `trans_words` SET `content_loc9`='Deviate Dreadfang' WHERE `word_id`=76396; -- locales_creature - name : entry=5056
 UPDATE `trans_words` SET `content_loc9`='Wolfguard Worg' WHERE `word_id`=76398; -- locales_creature - name : entry=5058
@@ -4055,6 +4353,8 @@ UPDATE `trans_words` SET `content_loc9`='Blue Team Captain' WHERE `word_id`=7641
 UPDATE `trans_words` SET `content_loc9`='Lupine Delusion' WHERE `word_id`=76417; -- locales_creature - name : entry=5097
 UPDATE `trans_words` SET `content_loc9`='Soleil Stonemantle' WHERE `word_id`=76418; -- locales_creature - name : entry=5099
 UPDATE `trans_words` SET `content_loc9`='Banker' WHERE `word_id`=74200; -- locales_creature - subname : entry=5099
+UPDATE `trans_words` SET `content_loc9`='Fillius Fizzlespinner' WHERE `word_id`=76419; -- locales_creature - name : entry=5100
+UPDATE `trans_words` SET `content_loc9`='Bryllia Ironbrand' WHERE `word_id`=76420; -- locales_creature - name : entry=5101
 UPDATE `trans_words` SET `content_loc9`='Dolman Steelfury' WHERE `word_id`=76421; -- locales_creature - name : entry=5102
 UPDATE `trans_words` SET `content_loc9`='Weapon Merchant' WHERE `word_id`=72957; -- locales_creature - subname : entry=5102
 UPDATE `trans_words` SET `content_loc9`='Grenil Steelfury' WHERE `word_id`=76422; -- locales_creature - name : entry=5103
@@ -4069,6 +4369,7 @@ UPDATE `trans_words` SET `content_loc9`='Myra Tyrngaarde' WHERE `word_id`=76426;
 UPDATE `trans_words` SET `content_loc9`='Bread Vendor' WHERE `word_id`=74681; -- locales_creature - subname : entry=5109
 UPDATE `trans_words` SET `content_loc9`='Barim Jurgenstaad' WHERE `word_id`=76427; -- locales_creature - name : entry=5110
 UPDATE `trans_words` SET `content_loc9`='Reagents' WHERE `word_id`=73226; -- locales_creature - subname : entry=5110
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Firebrew' WHERE `word_id`=76428; -- locales_creature - name : entry=5111
 UPDATE `trans_words` SET `content_loc9`='Gwenna Firebrew' WHERE `word_id`=76429; -- locales_creature - name : entry=5112
 UPDATE `trans_words` SET `content_loc9`='Barmaid' WHERE `word_id`=73302; -- locales_creature - subname : entry=5112
 UPDATE `trans_words` SET `content_loc9`='Kelv Sternhammer' WHERE `word_id`=76430; -- locales_creature - name : entry=5113
@@ -4089,6 +4390,7 @@ UPDATE `trans_words` SET `content_loc9`='Brenwyn Wintersteel' WHERE `word_id`=76
 UPDATE `trans_words` SET `content_loc9`='Blade Merchant' WHERE `word_id`=73294; -- locales_creature - subname : entry=5120
 UPDATE `trans_words` SET `content_loc9`='Kelomir Ironhand' WHERE `word_id`=76438; -- locales_creature - name : entry=5121
 UPDATE `trans_words` SET `content_loc9`='Maces & Staves' WHERE `word_id`=76439; -- locales_creature - subname : entry=5121
+UPDATE `trans_words` SET `content_loc9`='Skolmin Goldfury' WHERE `word_id`=76440; -- locales_creature - name : entry=5122
 UPDATE `trans_words` SET `content_loc9`='Bretta Goldfury' WHERE `word_id`=76441; -- locales_creature - name : entry=5123
 UPDATE `trans_words` SET `content_loc9`='Gun Merchant' WHERE `word_id`=74745; -- locales_creature - subname : entry=5123
 UPDATE `trans_words` SET `content_loc9`='Sognar Cliffbeard' WHERE `word_id`=76442; -- locales_creature - name : entry=5124
@@ -4099,10 +4401,15 @@ UPDATE `trans_words` SET `content_loc9`='Olthran Craghelm' WHERE `word_id`=76444
 UPDATE `trans_words` SET `content_loc9`='Heavy Armor Merchant' WHERE `word_id`=73292; -- locales_creature - subname : entry=5126
 UPDATE `trans_words` SET `content_loc9`='Fimble Finespindle' WHERE `word_id`=76445; -- locales_creature - name : entry=5127
 UPDATE `trans_words` SET `content_loc9`='Expert Leatherworker' WHERE `word_id`=73363; -- locales_creature - subname : entry=5127
+UPDATE `trans_words` SET `content_loc9`='Bombus Finespindle' WHERE `word_id`=76446; -- locales_creature - name : entry=5128
 UPDATE `trans_words` SET `content_loc9`='Lissyphus Finespindle' WHERE `word_id`=76447; -- locales_creature - name : entry=5129
 UPDATE `trans_words` SET `content_loc9`='Light Armor Merchant' WHERE `word_id`=73277; -- locales_creature - subname : entry=5129
+UPDATE `trans_words` SET `content_loc9`='Jondor Steelbrow' WHERE `word_id`=76448; -- locales_creature - name : entry=5130
+UPDATE `trans_words` SET `content_loc9`='Pithwick' WHERE `word_id`=76449; -- locales_creature - name : entry=5132
 UPDATE `trans_words` SET `content_loc9`='Harick Boulderdrum' WHERE `word_id`=76450; -- locales_creature - name : entry=5133
 UPDATE `trans_words` SET `content_loc9`='Wands Merchant' WHERE `word_id`=76451; -- locales_creature - subname : entry=5133
+UPDATE `trans_words` SET `content_loc9`='Jonivera Farmountain' WHERE `word_id`=76452; -- locales_creature - name : entry=5134
+UPDATE `trans_words` SET `content_loc9`='Svalbrad Farmountain' WHERE `word_id`=76453; -- locales_creature - name : entry=5135
 UPDATE `trans_words` SET `content_loc9`='Reyna Stonebranch' WHERE `word_id`=76454; -- locales_creature - name : entry=5137
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=5137
 UPDATE `trans_words` SET `content_loc9`='Gwina Stonebranch' WHERE `word_id`=76455; -- locales_creature - name : entry=5138
@@ -4117,6 +4424,9 @@ UPDATE `trans_words` SET `content_loc9`='Braenna Flintcrag' WHERE `word_id`=7646
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=5142
 UPDATE `trans_words` SET `content_loc9`='Toldren Deepiron' WHERE `word_id`=76461; -- locales_creature - name : entry=5143
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=5143
+UPDATE `trans_words` SET `content_loc9`='Bink' WHERE `word_id`=76462; -- locales_creature - name : entry=5144
+UPDATE `trans_words` SET `content_loc9`='Juli Stormkettle' WHERE `word_id`=76463; -- locales_creature - name : entry=5145
+UPDATE `trans_words` SET `content_loc9`='Nittlebur Sparkfizzle' WHERE `word_id`=76464; -- locales_creature - name : entry=5146
 UPDATE `trans_words` SET `content_loc9`='Valgar Highforge' WHERE `word_id`=76465; -- locales_creature - name : entry=5147
 UPDATE `trans_words` SET `content_loc9`='Paladin Trainer' WHERE `word_id`=72909; -- locales_creature - subname : entry=5147
 UPDATE `trans_words` SET `content_loc9`='Beldruk Doombrow' WHERE `word_id`=76466; -- locales_creature - name : entry=5148
@@ -4139,10 +4449,14 @@ UPDATE `trans_words` SET `content_loc9`='Maeva Snowbraid' WHERE `word_id`=76474;
 UPDATE `trans_words` SET `content_loc9`='Robe Merchant' WHERE `word_id`=73268; -- locales_creature - subname : entry=5156
 UPDATE `trans_words` SET `content_loc9`='Gimble Thistlefuzz' WHERE `word_id`=76475; -- locales_creature - name : entry=5157
 UPDATE `trans_words` SET `content_loc9`='Expert Enchanter' WHERE `word_id`=73282; -- locales_creature - subname : entry=5157
+UPDATE `trans_words` SET `content_loc9`='Tilli Thistlefuzz' WHERE `word_id`=76476; -- locales_creature - name : entry=5158
 UPDATE `trans_words` SET `content_loc9`='Daryl Riknussun' WHERE `word_id`=76477; -- locales_creature - name : entry=5159
 UPDATE `trans_words` SET `content_loc9`='Cooking Trainer' WHERE `word_id`=73336; -- locales_creature - subname : entry=5159
+UPDATE `trans_words` SET `content_loc9`='Emrul Riknussun' WHERE `word_id`=76478; -- locales_creature - name : entry=5160
 UPDATE `trans_words` SET `content_loc9`='Grimnur Stonebrand' WHERE `word_id`=76479; -- locales_creature - name : entry=5161
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=5161
+UPDATE `trans_words` SET `content_loc9`='Tansy Puddlefizz' WHERE `word_id`=76480; -- locales_creature - name : entry=5162
+UPDATE `trans_words` SET `content_loc9`='Burbik Gearspanner' WHERE `word_id`=76481; -- locales_creature - name : entry=5163
 UPDATE `trans_words` SET `content_loc9`='Grumnus Steelshaper' WHERE `word_id`=76482; -- locales_creature - name : entry=5164
 UPDATE `trans_words` SET `content_loc9`='Master Armorsmith' WHERE `word_id`=76483; -- locales_creature - subname : entry=5164
 UPDATE `trans_words` SET `content_loc9`='Hulfdan Blackbeard' WHERE `word_id`=76484; -- locales_creature - name : entry=5165
@@ -4162,6 +4476,7 @@ UPDATE `trans_words` SET `content_loc9`='Alexander Calder' WHERE `word_id`=76490
 UPDATE `trans_words` SET `content_loc9`='Warlock Trainer' WHERE `word_id`=72545; -- locales_creature - subname : entry=5173
 UPDATE `trans_words` SET `content_loc9`='Springspindle Fizzlegear' WHERE `word_id`=76491; -- locales_creature - name : entry=5174
 UPDATE `trans_words` SET `content_loc9`='Artisan Engineer' WHERE `word_id`=76492; -- locales_creature - subname : entry=5174
+UPDATE `trans_words` SET `content_loc9`='Gearcutter Cogspinner' WHERE `word_id`=76493; -- locales_creature - name : entry=5175
 UPDATE `trans_words` SET `content_loc9`='Tally Berryfizz' WHERE `word_id`=76494; -- locales_creature - name : entry=5177
 UPDATE `trans_words` SET `content_loc9`='Expert Alchemist' WHERE `word_id`=74141; -- locales_creature - subname : entry=5177
 UPDATE `trans_words` SET `content_loc9`='Soolie Berryfizz' WHERE `word_id`=76495; -- locales_creature - name : entry=5178
@@ -4282,7 +4597,10 @@ UPDATE `trans_words` SET `content_loc9`='Northspring Harpy' WHERE `word_id`=7660
 UPDATE `trans_words` SET `content_loc9`='Northspring Roguefeather' WHERE `word_id`=76604; -- locales_creature - name : entry=5363
 UPDATE `trans_words` SET `content_loc9`='Northspring Slayer' WHERE `word_id`=76605; -- locales_creature - name : entry=5364
 UPDATE `trans_words` SET `content_loc9`='Northspring Windcaller' WHERE `word_id`=76606; -- locales_creature - name : entry=5366
+UPDATE `trans_words` SET `content_loc9`='Brohann Caskbelly' WHERE `word_id`=76607; -- locales_creature - name : entry=5384
 UPDATE `trans_words` SET `content_loc9`='Acolyte Dellis' WHERE `word_id`=76609; -- locales_creature - name : entry=5386
+UPDATE `trans_words` SET `content_loc9`='High Explorer Magellas' WHERE `word_id`=76610; -- locales_creature - name : entry=5387
+UPDATE `trans_words` SET `content_loc9`='Ingo Woolybush' WHERE `word_id`=76611; -- locales_creature - name : entry=5388
 UPDATE `trans_words` SET `content_loc9`='Sage Palerunner' WHERE `word_id`=76613; -- locales_creature - name : entry=5390
 UPDATE `trans_words` SET `content_loc9`='Galen Goodward' WHERE `word_id`=76614; -- locales_creature - name : entry=5391
 UPDATE `trans_words` SET `content_loc9`='Yarr Hammerstone' WHERE `word_id`=76615; -- locales_creature - name : entry=5392
@@ -4299,8 +4617,6 @@ UPDATE `trans_words` SET `content_loc9`='Kazkaz the Unholy' WHERE `word_id`=7662
 UPDATE `trans_words` SET `content_loc9`='Khan Hratha' WHERE `word_id`=76625; -- locales_creature - name : entry=5402
 UPDATE `trans_words` SET `content_loc9`='Riding White Stallion' WHERE `word_id`=76626; -- locales_creature - name : entry=5403
 UPDATE `trans_words` SET `content_loc9`='Pinto' WHERE `word_id`=72453; -- locales_creature - name : entry=5405
-UPDATE `trans_words` SET `content_loc9`='Palomino' WHERE `word_id`=47843; -- locales_creature - name : entry=5406
-UPDATE `trans_words` SET `content_loc9`='Nightmare' WHERE `word_id`=76627; -- locales_creature - name : entry=5407
 UPDATE `trans_words` SET `content_loc9`='Harvester Swarm' WHERE `word_id`=76628; -- locales_creature - name : entry=5409
 UPDATE `trans_words` SET `content_loc9`='Krinkle Goodsteel' WHERE `word_id`=76629; -- locales_creature - name : entry=5411
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=5411
@@ -4359,6 +4675,7 @@ UPDATE `trans_words` SET `content_loc9`='Warrior Trainer' WHERE `word_id`=72895;
 UPDATE `trans_words` SET `content_loc9`='Thistleshrub Dew Collector' WHERE `word_id`=76680; -- locales_creature - name : entry=5481
 UPDATE `trans_words` SET `content_loc9`='Stephen Ryback' WHERE `word_id`=76681; -- locales_creature - name : entry=5482
 UPDATE `trans_words` SET `content_loc9`='Cooking Trainer' WHERE `word_id`=73336; -- locales_creature - subname : entry=5482
+UPDATE `trans_words` SET `content_loc9`='Erika Tate' WHERE `word_id`=76682; -- locales_creature - name : entry=5483
 UPDATE `trans_words` SET `content_loc9`='Brother Benjamin' WHERE `word_id`=76683; -- locales_creature - name : entry=5484
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=5484
 UPDATE `trans_words` SET `content_loc9`='Thistleshrub Rootshaper' WHERE `word_id`=76684; -- locales_creature - name : entry=5485
@@ -4371,10 +4688,13 @@ UPDATE `trans_words` SET `content_loc9`='Katherine the Pure' WHERE `word_id`=766
 UPDATE `trans_words` SET `content_loc9`='Paladin Trainer' WHERE `word_id`=72909; -- locales_creature - subname : entry=5492
 UPDATE `trans_words` SET `content_loc9`='Arnold Leland' WHERE `word_id`=76689; -- locales_creature - name : entry=5493
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=5493
+UPDATE `trans_words` SET `content_loc9`='Catherine Leland' WHERE `word_id`=76690; -- locales_creature - name : entry=5494
 UPDATE `trans_words` SET `content_loc9`='Ursula Deline' WHERE `word_id`=76691; -- locales_creature - name : entry=5495
 UPDATE `trans_words` SET `content_loc9`='Warlock Trainer' WHERE `word_id`=72545; -- locales_creature - subname : entry=5495
 UPDATE `trans_words` SET `content_loc9`='Sandahl' WHERE `word_id`=76692; -- locales_creature - name : entry=5496
 UPDATE `trans_words` SET `content_loc9`='Warlock Trainer' WHERE `word_id`=72545; -- locales_creature - subname : entry=5496
+UPDATE `trans_words` SET `content_loc9`='Jennea Cannon' WHERE `word_id`=76693; -- locales_creature - name : entry=5497
+UPDATE `trans_words` SET `content_loc9`='Elsharin' WHERE `word_id`=76694; -- locales_creature - name : entry=5498
 UPDATE `trans_words` SET `content_loc9`='Lilyssia Nightbreeze' WHERE `word_id`=76695; -- locales_creature - name : entry=5499
 UPDATE `trans_words` SET `content_loc9`='Expert Alchemist' WHERE `word_id`=74141; -- locales_creature - subname : entry=5499
 UPDATE `trans_words` SET `content_loc9`='Tel\'Athir' WHERE `word_id`=76696; -- locales_creature - name : entry=5500
@@ -4391,6 +4711,7 @@ UPDATE `trans_words` SET `content_loc9`='Theridran' WHERE `word_id`=76701; -- lo
 UPDATE `trans_words` SET `content_loc9`='Druid Trainer' WHERE `word_id`=74724; -- locales_creature - subname : entry=5505
 UPDATE `trans_words` SET `content_loc9`='Maldryn' WHERE `word_id`=76702; -- locales_creature - name : entry=5506
 UPDATE `trans_words` SET `content_loc9`='Druid Trainer' WHERE `word_id`=74724; -- locales_creature - subname : entry=5506
+UPDATE `trans_words` SET `content_loc9`='Strumner Flintheel' WHERE `word_id`=76703; -- locales_creature - name : entry=5508
 UPDATE `trans_words` SET `content_loc9`='Kathrum Axehand' WHERE `word_id`=76704; -- locales_creature - name : entry=5509
 UPDATE `trans_words` SET `content_loc9`='Axe Merchant' WHERE `word_id`=74703; -- locales_creature - subname : entry=5509
 UPDATE `trans_words` SET `content_loc9`='Thulman Flintcrag' WHERE `word_id`=76705; -- locales_creature - name : entry=5510
@@ -4401,6 +4722,7 @@ UPDATE `trans_words` SET `content_loc9`='Kaita Deepforge' WHERE `word_id`=76708;
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=5512
 UPDATE `trans_words` SET `content_loc9`='Gelman Stonehand' WHERE `word_id`=76709; -- locales_creature - name : entry=5513
 UPDATE `trans_words` SET `content_loc9`='Mining Trainer' WHERE `word_id`=73579; -- locales_creature - subname : entry=5513
+UPDATE `trans_words` SET `content_loc9`='Brooke Stonebraid' WHERE `word_id`=76710; -- locales_creature - name : entry=5514
 UPDATE `trans_words` SET `content_loc9`='Einris Brightspear' WHERE `word_id`=76711; -- locales_creature - name : entry=5515
 UPDATE `trans_words` SET `content_loc9`='Hunter Trainer' WHERE `word_id`=72882; -- locales_creature - subname : entry=5515
 UPDATE `trans_words` SET `content_loc9`='Ulfir Ironbeard' WHERE `word_id`=76712; -- locales_creature - name : entry=5516
@@ -4409,6 +4731,7 @@ UPDATE `trans_words` SET `content_loc9`='Thorfin Stoneshield' WHERE `word_id`=76
 UPDATE `trans_words` SET `content_loc9`='Hunter Trainer' WHERE `word_id`=72882; -- locales_creature - subname : entry=5517
 UPDATE `trans_words` SET `content_loc9`='Lilliam Sparkspindle' WHERE `word_id`=76714; -- locales_creature - name : entry=5518
 UPDATE `trans_words` SET `content_loc9`='Expert Engineer' WHERE `word_id`=73573; -- locales_creature - subname : entry=5518
+UPDATE `trans_words` SET `content_loc9`='Billibub Cogspinner' WHERE `word_id`=76715; -- locales_creature - name : entry=5519
 UPDATE `trans_words` SET `content_loc9`='Spackle Thornberry' WHERE `word_id`=76716; -- locales_creature - name : entry=5520
 UPDATE `trans_words` SET `content_loc9`='Demon Trainer' WHERE `word_id`=76717; -- locales_creature - subname : entry=5520
 UPDATE `trans_words` SET `content_loc9`='War Party Kodo' WHERE `word_id`=76718; -- locales_creature - name : entry=5523
@@ -4417,6 +4740,7 @@ UPDATE `trans_words` SET `content_loc9`='Grunt Zuul' WHERE `word_id`=76720; -- l
 UPDATE `trans_words` SET `content_loc9`='Grunt Tharlak' WHERE `word_id`=76721; -- locales_creature - name : entry=5547
 UPDATE `trans_words` SET `content_loc9`='Simon Tanner' WHERE `word_id`=76722; -- locales_creature - name : entry=5564
 UPDATE `trans_words` SET `content_loc9`='Expert Leatherworker' WHERE `word_id`=73363; -- locales_creature - subname : entry=5564
+UPDATE `trans_words` SET `content_loc9`='Jillian Tanner' WHERE `word_id`=76723; -- locales_creature - name : entry=5565
 UPDATE `trans_words` SET `content_loc9`='Tannysa' WHERE `word_id`=76724; -- locales_creature - name : entry=5566
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=5566
 UPDATE `trans_words` SET `content_loc9`='Sellandus' WHERE `word_id`=76725; -- locales_creature - name : entry=5567
@@ -4424,6 +4748,7 @@ UPDATE `trans_words` SET `content_loc9`='Expert Tailor' WHERE `word_id`=74368; -
 UPDATE `trans_words` SET `content_loc9`='Captured Leper Gnome' WHERE `word_id`=76726; -- locales_creature - name : entry=5568
 UPDATE `trans_words` SET `content_loc9`='Fizzlebang Booms' WHERE `word_id`=76727; -- locales_creature - name : entry=5569
 UPDATE `trans_words` SET `content_loc9`='Fireworks Vendor' WHERE `word_id`=73262; -- locales_creature - subname : entry=5569
+UPDATE `trans_words` SET `content_loc9`='Bruuk Barleybeard' WHERE `word_id`=76728; -- locales_creature - name : entry=5570
 UPDATE `trans_words` SET `content_loc9`='Dar' WHERE `word_id`=76729; -- locales_creature - name : entry=5591
 UPDATE `trans_words` SET `content_loc9`='Tok\'Kar' WHERE `word_id`=76730; -- locales_creature - name : entry=5592
 UPDATE `trans_words` SET `content_loc9`='Katar' WHERE `word_id`=76731; -- locales_creature - name : entry=5593
@@ -4451,6 +4776,7 @@ UPDATE `trans_words` SET `content_loc9`='Wastewander Rogue' WHERE `word_id`=7675
 UPDATE `trans_words` SET `content_loc9`='Wastewander Thief' WHERE `word_id`=76752; -- locales_creature - name : entry=5616
 UPDATE `trans_words` SET `content_loc9`='Wastewander Shadow Mage' WHERE `word_id`=76753; -- locales_creature - name : entry=5617
 UPDATE `trans_words` SET `content_loc9`='Wastewander Bandit' WHERE `word_id`=76754; -- locales_creature - name : entry=5618
+UPDATE `trans_words` SET `content_loc9`='Bartender Wental' WHERE `word_id`=76755; -- locales_creature - name : entry=5620
 UPDATE `trans_words` SET `content_loc9`='Ongeku' WHERE `word_id`=76756; -- locales_creature - name : entry=5622
 UPDATE `trans_words` SET `content_loc9`='Wastewander Assassin' WHERE `word_id`=76757; -- locales_creature - name : entry=5623
 UPDATE `trans_words` SET `content_loc9`='Undercity Guardian' WHERE `word_id`=76758; -- locales_creature - name : entry=5624
@@ -4484,6 +4810,7 @@ UPDATE `trans_words` SET `content_loc9`='Chloe Curthas' WHERE `word_id`=76785; -
 UPDATE `trans_words` SET `content_loc9`='Andrew Hartwell' WHERE `word_id`=76786; -- locales_creature - name : entry=5659
 UPDATE `trans_words` SET `content_loc9`='Riley Walker' WHERE `word_id`=76787; -- locales_creature - name : entry=5660
 UPDATE `trans_words` SET `content_loc9`='Brother Malach' WHERE `word_id`=76788; -- locales_creature - name : entry=5661
+UPDATE `trans_words` SET `content_loc9`='Sergeant Houser' WHERE `word_id`=76789; -- locales_creature - name : entry=5662
 UPDATE `trans_words` SET `content_loc9`='Travist Bosk' WHERE `word_id`=76791; -- locales_creature - name : entry=5663
 UPDATE `trans_words` SET `content_loc9`='Eldin Partridge' WHERE `word_id`=76792; -- locales_creature - name : entry=5664
 UPDATE `trans_words` SET `content_loc9`='Alyssa Blaye' WHERE `word_id`=76793; -- locales_creature - name : entry=5665
@@ -4503,6 +4830,7 @@ UPDATE `trans_words` SET `content_loc9`='Comar Villard' WHERE `word_id`=76807; -
 UPDATE `trans_words` SET `content_loc9`='Captive Ghoul' WHERE `word_id`=76808; -- locales_creature - name : entry=5685
 UPDATE `trans_words` SET `content_loc9`='Captive Zombie' WHERE `word_id`=76809; -- locales_creature - name : entry=5686
 UPDATE `trans_words` SET `content_loc9`='Captive Abomination' WHERE `word_id`=76810; -- locales_creature - name : entry=5687
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Renee' WHERE `word_id`=76811; -- locales_creature - name : entry=5688
 UPDATE `trans_words` SET `content_loc9`='Clyde Kellen' WHERE `word_id`=76812; -- locales_creature - name : entry=5690
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=5690
 UPDATE `trans_words` SET `content_loc9`='Dalin Forgewright Projection' WHERE `word_id`=76813; -- locales_creature - name : entry=5691
@@ -4532,8 +4860,6 @@ UPDATE `trans_words` SET `content_loc9`='Hukku' WHERE `word_id`=76838; -- locale
 UPDATE `trans_words` SET `content_loc9`='Zul\'Lor' WHERE `word_id`=76839; -- locales_creature - name : entry=5716
 UPDATE `trans_words` SET `content_loc9`='Mijan' WHERE `word_id`=76840; -- locales_creature - name : entry=5717
 UPDATE `trans_words` SET `content_loc9`='Rothos' WHERE `word_id`=76841; -- locales_creature - name : entry=5718
-UPDATE `trans_words` SET `content_loc9`='Morphaz' WHERE `word_id`=76842; -- locales_creature - name : entry=5719
-UPDATE `trans_words` SET `content_loc9`='Hazzas' WHERE `word_id`=76845; -- locales_creature - name : entry=5722
 UPDATE `trans_words` SET `content_loc9`='Warug\'s Target Dummy' WHERE `word_id`=76846; -- locales_creature - name : entry=5723
 UPDATE `trans_words` SET `content_loc9`='Ageron Kargal' WHERE `word_id`=76847; -- locales_creature - name : entry=5724
 UPDATE `trans_words` SET `content_loc9`='Deathguard Lundmark' WHERE `word_id`=76848; -- locales_creature - name : entry=5725
@@ -4572,6 +4898,8 @@ UPDATE `trans_words` SET `content_loc9`='Zane Bradford' WHERE `word_id`=76872; -
 UPDATE `trans_words` SET `content_loc9`='Wand Vendor' WHERE `word_id`=76873; -- locales_creature - subname : entry=5754
 UPDATE `trans_words` SET `content_loc9`='Deviate Viper' WHERE `word_id`=76874; -- locales_creature - name : entry=5755
 UPDATE `trans_words` SET `content_loc9`='Deviate Venomwing' WHERE `word_id`=76875; -- locales_creature - name : entry=5756
+UPDATE `trans_words` SET `content_loc9`='Lilly' WHERE `word_id`=76876; -- locales_creature - name : entry=5757
+UPDATE `trans_words` SET `content_loc9`='Leo Sarn' WHERE `word_id`=76877; -- locales_creature - name : entry=5758
 UPDATE `trans_words` SET `content_loc9`='Nurse Neela' WHERE `word_id`=76878; -- locales_creature - name : entry=5759
 UPDATE `trans_words` SET `content_loc9`='First Aid Trainer' WHERE `word_id`=74080; -- locales_creature - subname : entry=5759
 UPDATE `trans_words` SET `content_loc9`='Lord Azrethoc' WHERE `word_id`=76879; -- locales_creature - name : entry=5760
@@ -4598,6 +4926,7 @@ UPDATE `trans_words` SET `content_loc9`='Silithid Creeper Egg' WHERE `word_id`=7
 UPDATE `trans_words` SET `content_loc9`='Crildor' WHERE `word_id`=76897; -- locales_creature - name : entry=5782
 UPDATE `trans_words` SET `content_loc9`='Kalldan Felmoon' WHERE `word_id`=76898; -- locales_creature - name : entry=5783
 UPDATE `trans_words` SET `content_loc9`='Specialist Leatherworking Supplies' WHERE `word_id`=76899; -- locales_creature - subname : entry=5783
+UPDATE `trans_words` SET `content_loc9`='Waldor' WHERE `word_id`=76900; -- locales_creature - name : entry=5784
 UPDATE `trans_words` SET `content_loc9`='Sister Hatelash' WHERE `word_id`=76901; -- locales_creature - name : entry=5785
 UPDATE `trans_words` SET `content_loc9`='Snagglespear' WHERE `word_id`=76902; -- locales_creature - name : entry=5786
 UPDATE `trans_words` SET `content_loc9`='Enforcer Emilgund' WHERE `word_id`=76903; -- locales_creature - name : entry=5787
@@ -4617,12 +4946,15 @@ UPDATE `trans_words` SET `content_loc9`='The Rake' WHERE `word_id`=76912; -- loc
 UPDATE `trans_words` SET `content_loc9`='Warlord Kolkanis' WHERE `word_id`=76913; -- locales_creature - name : entry=5808
 UPDATE `trans_words` SET `content_loc9`='Watch Commander Zalaphil' WHERE `word_id`=76914; -- locales_creature - name : entry=5809
 UPDATE `trans_words` SET `content_loc9`='Uzzek' WHERE `word_id`=76915; -- locales_creature - name : entry=5810
+UPDATE `trans_words` SET `content_loc9`='Kamari' WHERE `word_id`=76916; -- locales_creature - name : entry=5811
 UPDATE `trans_words` SET `content_loc9`='Tumi' WHERE `word_id`=76917; -- locales_creature - name : entry=5812
 UPDATE `trans_words` SET `content_loc9`='Heavy Armor Merchant' WHERE `word_id`=73292; -- locales_creature - subname : entry=5812
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Thulbek' WHERE `word_id`=76918; -- locales_creature - name : entry=5814
 UPDATE `trans_words` SET `content_loc9`='Kurgul' WHERE `word_id`=76919; -- locales_creature - name : entry=5815
 UPDATE `trans_words` SET `content_loc9`='Demon Trainer' WHERE `word_id`=76717; -- locales_creature - subname : entry=5815
 UPDATE `trans_words` SET `content_loc9`='Katis' WHERE `word_id`=76920; -- locales_creature - name : entry=5816
 UPDATE `trans_words` SET `content_loc9`='Wand Merchant' WHERE `word_id`=73273; -- locales_creature - subname : entry=5816
+UPDATE `trans_words` SET `content_loc9`='Shimra' WHERE `word_id`=76921; -- locales_creature - name : entry=5817
 UPDATE `trans_words` SET `content_loc9`='Mirelle Tremayne' WHERE `word_id`=76922; -- locales_creature - name : entry=5819
 UPDATE `trans_words` SET `content_loc9`='Heavy Armor Merchant' WHERE `word_id`=73292; -- locales_creature - subname : entry=5819
 UPDATE `trans_words` SET `content_loc9`='Gillian Moore' WHERE `word_id`=76923; -- locales_creature - name : entry=5820
@@ -4685,7 +5017,12 @@ UPDATE `trans_words` SET `content_loc9`='Stoneskin Totem' WHERE `word_id`=76977;
 UPDATE `trans_words` SET `content_loc9`='Strength of Earth Totem' WHERE `word_id`=76978; -- locales_creature - name : entry=5874
 UPDATE `trans_words` SET `content_loc9`='Gan\'rul Bloodeye' WHERE `word_id`=76979; -- locales_creature - name : entry=5875
 UPDATE `trans_words` SET `content_loc9`='Thun\'grim Firegaze' WHERE `word_id`=76980; -- locales_creature - name : entry=5878
+UPDATE `trans_words` SET `content_loc9`='Un\'Thuwa' WHERE `word_id`=76982; -- locales_creature - name : entry=5880
 UPDATE `trans_words` SET `content_loc9`='Cursed Sycamore' WHERE `word_id`=76983; -- locales_creature - name : entry=5881
+UPDATE `trans_words` SET `content_loc9`='Pephredo' WHERE `word_id`=76984; -- locales_creature - name : entry=5882
+UPDATE `trans_words` SET `content_loc9`='Enyo' WHERE `word_id`=76985; -- locales_creature - name : entry=5883
+UPDATE `trans_words` SET `content_loc9`='Mai\'ah' WHERE `word_id`=76986; -- locales_creature - name : entry=5884
+UPDATE `trans_words` SET `content_loc9`='Deino' WHERE `word_id`=76987; -- locales_creature - name : entry=5885
 UPDATE `trans_words` SET `content_loc9`='Gwyn Farrow' WHERE `word_id`=76988; -- locales_creature - name : entry=5886
 UPDATE `trans_words` SET `content_loc9`='Mushroom Merchant' WHERE `word_id`=76989; -- locales_creature - subname : entry=5886
 UPDATE `trans_words` SET `content_loc9`='Canaga Earthcaller' WHERE `word_id`=76990; -- locales_creature - name : entry=5887
@@ -4737,8 +5074,10 @@ UPDATE `trans_words` SET `content_loc9`='Uthan Stillwater' WHERE `word_id`=77037
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=5938
 UPDATE `trans_words` SET `content_loc9`='Vira Younghoof' WHERE `word_id`=77038; -- locales_creature - name : entry=5939
 UPDATE `trans_words` SET `content_loc9`='First Aid Trainer' WHERE `word_id`=74080; -- locales_creature - subname : entry=5939
+UPDATE `trans_words` SET `content_loc9`='Harn Longcast' WHERE `word_id`=77039; -- locales_creature - name : entry=5940
 UPDATE `trans_words` SET `content_loc9`='Lau\'Tiki' WHERE `word_id`=77040; -- locales_creature - name : entry=5941
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=5941
+UPDATE `trans_words` SET `content_loc9`='Zansoa' WHERE `word_id`=77041; -- locales_creature - name : entry=5942
 UPDATE `trans_words` SET `content_loc9`='Rawrk' WHERE `word_id`=77042; -- locales_creature - name : entry=5943
 UPDATE `trans_words` SET `content_loc9`='First Aid Trainer' WHERE `word_id`=74080; -- locales_creature - subname : entry=5943
 UPDATE `trans_words` SET `content_loc9`='Yonada' WHERE `word_id`=77043; -- locales_creature - name : entry=5944
@@ -4797,6 +5136,7 @@ UPDATE `trans_words` SET `content_loc9`='Ur\'kyo' WHERE `word_id`=77096; -- loca
 UPDATE `trans_words` SET `content_loc9`='Priest Trainer' WHERE `word_id`=72495; -- locales_creature - subname : entry=6018
 UPDATE `trans_words` SET `content_loc9`='Hornizz Brimbuzzle' WHERE `word_id`=77097; -- locales_creature - name : entry=6019
 UPDATE `trans_words` SET `content_loc9`='Slimeshell Makrura' WHERE `word_id`=77098; -- locales_creature - name : entry=6020
+UPDATE `trans_words` SET `content_loc9`='Breyk' WHERE `word_id`=77100; -- locales_creature - name : entry=6026
 UPDATE `trans_words` SET `content_loc9`='Kitha' WHERE `word_id`=77101; -- locales_creature - name : entry=6027
 UPDATE `trans_words` SET `content_loc9`='Demon Trainer' WHERE `word_id`=76717; -- locales_creature - subname : entry=6027
 UPDATE `trans_words` SET `content_loc9`='Burkrum' WHERE `word_id`=77102; -- locales_creature - name : entry=6028
@@ -4811,7 +5151,6 @@ UPDATE `trans_words` SET `content_loc9`='Warug\'s Bodyguard' WHERE `word_id`=771
 UPDATE `trans_words` SET `content_loc9`='Maraudine Khan Guard' WHERE `word_id`=77111; -- locales_creature - name : entry=6069
 UPDATE `trans_words` SET `content_loc9`='Maraudine Khan Advisor' WHERE `word_id`=77112; -- locales_creature - name : entry=6070
 UPDATE `trans_words` SET `content_loc9`='Legion Hound' WHERE `word_id`=77113; -- locales_creature - name : entry=6071
-UPDATE `trans_words` SET `content_loc9`='Diathorus the Seeker' WHERE `word_id`=77114; -- locales_creature - name : entry=6072
 UPDATE `trans_words` SET `content_loc9`='Searing Infernal' WHERE `word_id`=77115; -- locales_creature - name : entry=6073
 UPDATE `trans_words` SET `content_loc9`='Striped Frostsaber' WHERE `word_id`=77116; -- locales_creature - name : entry=6074
 UPDATE `trans_words` SET `content_loc9`='Emerald Raptor' WHERE `word_id`=77117; -- locales_creature - name : entry=6075
@@ -4823,7 +5162,7 @@ UPDATE `trans_words` SET `content_loc9`='Bartleby' WHERE `word_id`=77122; -- loc
 UPDATE `trans_words` SET `content_loc9`='Drunk' WHERE `word_id`=77123; -- locales_creature - subname : entry=6090
 UPDATE `trans_words` SET `content_loc9`='Dellylah' WHERE `word_id`=77124; -- locales_creature - name : entry=6091
 UPDATE `trans_words` SET `content_loc9`='Food & Drink Vendor' WHERE `word_id`=72959; -- locales_creature - subname : entry=6091
-UPDATE `trans_words` SET `content_loc9`='Dead-tooth Jack' WHERE `word_id`=77125; -- locales_creature - name : entry=6093
+UPDATE `trans_words` SET `content_loc9`='Dead-Tooth Jack' WHERE `word_id`=77125; -- locales_creature - name : entry=6093
 UPDATE `trans_words` SET `content_loc9`='Byancie' WHERE `word_id`=77126; -- locales_creature - name : entry=6094
 UPDATE `trans_words` SET `content_loc9`='First Aid Trainer' WHERE `word_id`=74080; -- locales_creature - subname : entry=6094
 UPDATE `trans_words` SET `content_loc9`='Azuregos' WHERE `word_id`=77127; -- locales_creature - name : entry=6109
@@ -4867,7 +5206,6 @@ UPDATE `trans_words` SET `content_loc9`='Cliff Thunderer' WHERE `word_id`=77166;
 UPDATE `trans_words` SET `content_loc9`='Cliff Walker' WHERE `word_id`=77167; -- locales_creature - name : entry=6148
 UPDATE `trans_words` SET `content_loc9`='Yorus Barleybrew' WHERE `word_id`=77168; -- locales_creature - name : entry=6166
 UPDATE `trans_words` SET `content_loc9`='Chimaera Matriarch' WHERE `word_id`=77169; -- locales_creature - name : entry=6167
-UPDATE `trans_words` SET `content_loc9`='Roogug' WHERE `word_id`=77170; -- locales_creature - name : entry=6168
 UPDATE `trans_words` SET `content_loc9`='Klockmort Spannerspan' WHERE `word_id`=77171; -- locales_creature - name : entry=6169
 UPDATE `trans_words` SET `content_loc9`='Gutspill' WHERE `word_id`=77172; -- locales_creature - name : entry=6170
 UPDATE `trans_words` SET `content_loc9`='Duthorian Rall' WHERE `word_id`=77173; -- locales_creature - name : entry=6171
@@ -4929,7 +5267,6 @@ UPDATE `trans_words` SET `content_loc9`='Big Will' WHERE `word_id`=77231; -- loc
 UPDATE `trans_words` SET `content_loc9`='Cyclonian' WHERE `word_id`=77232; -- locales_creature - name : entry=6239
 UPDATE `trans_words` SET `content_loc9`='Affray Challenger' WHERE `word_id`=77233; -- locales_creature - name : entry=6240
 UPDATE `trans_words` SET `content_loc9`='Bailor Stonehand' WHERE `word_id`=77234; -- locales_creature - name : entry=6241
-UPDATE `trans_words` SET `content_loc9`='Gelihast' WHERE `word_id`=77235; -- locales_creature - name : entry=6243
 UPDATE `trans_words` SET `content_loc9`='Takar the Seer' WHERE `word_id`=77236; -- locales_creature - name : entry=6244
 UPDATE `trans_words` SET `content_loc9`='Anathera' WHERE `word_id`=77237; -- locales_creature - name : entry=6245
 UPDATE `trans_words` SET `content_loc9`='Latherion' WHERE `word_id`=77238; -- locales_creature - name : entry=6246
@@ -4945,6 +5282,7 @@ UPDATE `trans_words` SET `content_loc9`='Acolyte Wytula' WHERE `word_id`=77247; 
 UPDATE `trans_words` SET `content_loc9`='Menara Voidrender' WHERE `word_id`=77248; -- locales_creature - name : entry=6266
 UPDATE `trans_words` SET `content_loc9`='Acolyte Porena' WHERE `word_id`=77249; -- locales_creature - name : entry=6267
 UPDATE `trans_words` SET `content_loc9`='Summoned Felhunter' WHERE `word_id`=77250; -- locales_creature - name : entry=6268
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Janene' WHERE `word_id`=77252; -- locales_creature - name : entry=6272
 UPDATE `trans_words` SET `content_loc9`='Zarrin' WHERE `word_id`=77253; -- locales_creature - name : entry=6286
 UPDATE `trans_words` SET `content_loc9`='Cook' WHERE `word_id`=73403; -- locales_creature - subname : entry=6286
 UPDATE `trans_words` SET `content_loc9`='Radnaal Maneweaver' WHERE `word_id`=77254; -- locales_creature - name : entry=6287
@@ -4965,10 +5303,12 @@ UPDATE `trans_words` SET `content_loc9`='Wilma Ranthal' WHERE `word_id`=77262; -
 UPDATE `trans_words` SET `content_loc9`='Skinning Trainer' WHERE `word_id`=73244; -- locales_creature - subname : entry=6295
 UPDATE `trans_words` SET `content_loc9`='Kurdram Stonehammer' WHERE `word_id`=77263; -- locales_creature - name : entry=6297
 UPDATE `trans_words` SET `content_loc9`='Mining Trainer' WHERE `word_id`=73579; -- locales_creature - subname : entry=6297
+UPDATE `trans_words` SET `content_loc9`='Thelgrum Stonehammer' WHERE `word_id`=77264; -- locales_creature - name : entry=6298
 UPDATE `trans_words` SET `content_loc9`='Delfrum Flintbeard' WHERE `word_id`=77265; -- locales_creature - name : entry=6299
 UPDATE `trans_words` SET `content_loc9`='Journeyman Blacksmith' WHERE `word_id`=72593; -- locales_creature - subname : entry=6299
 UPDATE `trans_words` SET `content_loc9`='Elisa Steelhand' WHERE `word_id`=77266; -- locales_creature - name : entry=6300
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=6300
+UPDATE `trans_words` SET `content_loc9`='Gorbold Steelhand' WHERE `word_id`=77267; -- locales_creature - name : entry=6301
 UPDATE `trans_words` SET `content_loc9`='Helene Peltskinner' WHERE `word_id`=77268; -- locales_creature - name : entry=6306
 UPDATE `trans_words` SET `content_loc9`='Skinning Trainer' WHERE `word_id`=73244; -- locales_creature - subname : entry=6306
 UPDATE `trans_words` SET `content_loc9`='Dannie Fizzwizzle' WHERE `word_id`=77269; -- locales_creature - name : entry=6328
@@ -4981,6 +5321,7 @@ UPDATE `trans_words` SET `content_loc9`='Makrinni Razorclaw' WHERE `word_id`=772
 UPDATE `trans_words` SET `content_loc9`='Storm Bay Oracle' WHERE `word_id`=77275; -- locales_creature - name : entry=6351
 UPDATE `trans_words` SET `content_loc9`='Coralshell Lurker' WHERE `word_id`=77276; -- locales_creature - name : entry=6352
 UPDATE `trans_words` SET `content_loc9`='Kurzen Mindslave' WHERE `word_id`=77277; -- locales_creature - name : entry=6366
+UPDATE `trans_words` SET `content_loc9`='Donni Anthania' WHERE `word_id`=77278; -- locales_creature - name : entry=6367
 UPDATE `trans_words` SET `content_loc9`='Coralshell Tortoise' WHERE `word_id`=77281; -- locales_creature - name : entry=6369
 UPDATE `trans_words` SET `content_loc9`='Makrinni Scrabbler' WHERE `word_id`=77282; -- locales_creature - name : entry=6370
 UPDATE `trans_words` SET `content_loc9`='Storm Bay Warrior' WHERE `word_id`=77283; -- locales_creature - name : entry=6371
@@ -5008,11 +5349,11 @@ UPDATE `trans_words` SET `content_loc9`='Holdout Warrior' WHERE `word_id`=77299;
 UPDATE `trans_words` SET `content_loc9`='Holdout Medic' WHERE `word_id`=77300; -- locales_creature - name : entry=6392
 UPDATE `trans_words` SET `content_loc9`='Henen Ragetotem' WHERE `word_id`=77301; -- locales_creature - name : entry=6393
 UPDATE `trans_words` SET `content_loc9`='Ruga Ragetotem' WHERE `word_id`=77302; -- locales_creature - name : entry=6394
+UPDATE `trans_words` SET `content_loc9`='Sergeant Rutger' WHERE `word_id`=77303; -- locales_creature - name : entry=6395
 UPDATE `trans_words` SET `content_loc9`='Holdout Technician' WHERE `word_id`=77304; -- locales_creature - name : entry=6407
 UPDATE `trans_words` SET `content_loc9`='Ula\'elek' WHERE `word_id`=77305; -- locales_creature - name : entry=6408
 UPDATE `trans_words` SET `content_loc9`='Orm Stonehoof' WHERE `word_id`=77306; -- locales_creature - name : entry=6410
 UPDATE `trans_words` SET `content_loc9`='Velora Nitely' WHERE `word_id`=77307; -- locales_creature - name : entry=6411
-UPDATE `trans_words` SET `content_loc9`='Skeleton' WHERE `word_id`=77308; -- locales_creature - name : entry=6412
 UPDATE `trans_words` SET `content_loc9`='Anguished Dead' WHERE `word_id`=77309; -- locales_creature - name : entry=6426
 UPDATE `trans_words` SET `content_loc9`='Haunting Phantasm' WHERE `word_id`=77310; -- locales_creature - name : entry=6427
 UPDATE `trans_words` SET `content_loc9`='Therzok' WHERE `word_id`=77311; -- locales_creature - name : entry=6446
@@ -5104,13 +5445,29 @@ UPDATE `trans_words` SET `content_loc9`='Lord Cyrik Blackforge' WHERE `word_id`=
 UPDATE `trans_words` SET `content_loc9`='The Threshwackonator 4100' WHERE `word_id`=77400; -- locales_creature - name : entry=6669
 UPDATE `trans_words` SET `content_loc9`='The First Mate' WHERE `word_id`=77401; -- locales_creature - subname : entry=6669
 UPDATE `trans_words` SET `content_loc9`='Westfall Woodworker' WHERE `word_id`=77402; -- locales_creature - name : entry=6670
+UPDATE `trans_words` SET `content_loc9`='Baritanas Skyriver' WHERE `word_id`=77403; -- locales_creature - name : entry=6706
 UPDATE `trans_words` SET `content_loc9`='Fahrad' WHERE `word_id`=77404; -- locales_creature - name : entry=6707
 UPDATE `trans_words` SET `content_loc9`='Grand Master Rogue' WHERE `word_id`=77405; -- locales_creature - subname : entry=6707
+UPDATE `trans_words` SET `content_loc9`='Thalon' WHERE `word_id`=77406; -- locales_creature - name : entry=6726
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Brianna' WHERE `word_id`=77407; -- locales_creature - name : entry=6727
 UPDATE `trans_words` SET `content_loc9`='Narnie' WHERE `word_id`=77408; -- locales_creature - name : entry=6728
 UPDATE `trans_words` SET `content_loc9`='Morridune' WHERE `word_id`=77409; -- locales_creature - name : entry=6729
+UPDATE `trans_words` SET `content_loc9`='Jinky Twizzlefixxit' WHERE `word_id`=77410; -- locales_creature - name : entry=6730
+UPDATE `trans_words` SET `content_loc9`='Harlown Darkweave' WHERE `word_id`=77411; -- locales_creature - name : entry=6731
 UPDATE `trans_words` SET `content_loc9`='Amie Pierce' WHERE `word_id`=77412; -- locales_creature - name : entry=6732
 UPDATE `trans_words` SET `content_loc9`='Stonevault Basher' WHERE `word_id`=77413; -- locales_creature - name : entry=6733
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Hearthstove' WHERE `word_id`=77414; -- locales_creature - name : entry=6734
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Saelienne' WHERE `word_id`=77415; -- locales_creature - name : entry=6735
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Keldamyr' WHERE `word_id`=77416; -- locales_creature - name : entry=6736
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Shaussiy' WHERE `word_id`=77417; -- locales_creature - name : entry=6737
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Kimlya' WHERE `word_id`=77418; -- locales_creature - name : entry=6738
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Bates' WHERE `word_id`=77419; -- locales_creature - name : entry=6739
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Allison' WHERE `word_id`=77420; -- locales_creature - name : entry=6740
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Norman' WHERE `word_id`=77421; -- locales_creature - name : entry=6741
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Pala' WHERE `word_id`=77422; -- locales_creature - name : entry=6746
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Kauth' WHERE `word_id`=77423; -- locales_creature - name : entry=6747
 UPDATE `trans_words` SET `content_loc9`='Water Spirit' WHERE `word_id`=77424; -- locales_creature - name : entry=6748
+UPDATE `trans_words` SET `content_loc9`='Erma' WHERE `word_id`=77425; -- locales_creature - name : entry=6749
 UPDATE `trans_words` SET `content_loc9`='Ravenholdt Guard' WHERE `word_id`=77427; -- locales_creature - name : entry=6766
 UPDATE `trans_words` SET `content_loc9`='Assassin\'s League' WHERE `word_id`=77428; -- locales_creature - subname : entry=6766
 UPDATE `trans_words` SET `content_loc9`='Lord Jorach Ravenholdt' WHERE `word_id`=77429; -- locales_creature - name : entry=6768
@@ -5135,8 +5492,11 @@ UPDATE `trans_words` SET `content_loc9`='Ukor' WHERE `word_id`=77445; -- locales
 UPDATE `trans_words` SET `content_loc9`='Yelnagi Blackarm' WHERE `word_id`=77446; -- locales_creature - name : entry=6787
 UPDATE `trans_words` SET `content_loc9`='Den Mother' WHERE `word_id`=77447; -- locales_creature - name : entry=6788
 UPDATE `trans_words` SET `content_loc9`='Thistle Cub' WHERE `word_id`=77448; -- locales_creature - name : entry=6789
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Trelayne' WHERE `word_id`=77449; -- locales_creature - name : entry=6790
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Wiley' WHERE `word_id`=77450; -- locales_creature - name : entry=6791
 UPDATE `trans_words` SET `content_loc9`='Tannok Frosthammer' WHERE `word_id`=77451; -- locales_creature - name : entry=6806
 UPDATE `trans_words` SET `content_loc9`='Innkeeper Assistant' WHERE `word_id`=77452; -- locales_creature - subname : entry=6806
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Skindle' WHERE `word_id`=77453; -- locales_creature - name : entry=6807
 UPDATE `trans_words` SET `content_loc9`='Talvash del Kissel' WHERE `word_id`=77454; -- locales_creature - name : entry=6826
 UPDATE `trans_words` SET `content_loc9`='Defias Dockmaster' WHERE `word_id`=77455; -- locales_creature - name : entry=6846
 UPDATE `trans_words` SET `content_loc9`='Defias Bodyguard' WHERE `word_id`=77456; -- locales_creature - name : entry=6866
@@ -5144,18 +5504,20 @@ UPDATE `trans_words` SET `content_loc9`='Tracking Hound' WHERE `word_id`=77457; 
 UPDATE `trans_words` SET `content_loc9`='Jarkal Mossmeld' WHERE `word_id`=77458; -- locales_creature - name : entry=6868
 UPDATE `trans_words` SET `content_loc9`='Onin MacHammar' WHERE `word_id`=77459; -- locales_creature - name : entry=6886
 UPDATE `trans_words` SET `content_loc9`='Yalda' WHERE `word_id`=77460; -- locales_creature - name : entry=6887
-UPDATE `trans_words` SET `content_loc9`='Baelog' WHERE `word_id`=77461; -- locales_creature - name : entry=6906
-UPDATE `trans_words` SET `content_loc9`='Olaf' WHERE `word_id`=77463; -- locales_creature - name : entry=6908
 UPDATE `trans_words` SET `content_loc9`='Sethir the Ancient' WHERE `word_id`=77464; -- locales_creature - name : entry=6909
-UPDATE `trans_words` SET `content_loc9`='Revelosh' WHERE `word_id`=77465; -- locales_creature - name : entry=6910
 UPDATE `trans_words` SET `content_loc9`='Minion of Sethir' WHERE `word_id`=77466; -- locales_creature - name : entry=6911
 UPDATE `trans_words` SET `content_loc9`='Remains of a Paladin' WHERE `word_id`=77467; -- locales_creature - name : entry=6912
 UPDATE `trans_words` SET `content_loc9`='Lost One Rift Traveler' WHERE `word_id`=77468; -- locales_creature - name : entry=6913
 UPDATE `trans_words` SET `content_loc9`='Defias Dockworker' WHERE `word_id`=77469; -- locales_creature - name : entry=6927
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Grosk' WHERE `word_id`=77470; -- locales_creature - name : entry=6928
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Gryshka' WHERE `word_id`=77471; -- locales_creature - name : entry=6929
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Karakul' WHERE `word_id`=77472; -- locales_creature - name : entry=6930
 UPDATE `trans_words` SET `content_loc9`='Swamp Spirit' WHERE `word_id`=77473; -- locales_creature - name : entry=6932
 UPDATE `trans_words` SET `content_loc9`='Renzik "The Shiv"' WHERE `word_id`=77474; -- locales_creature - name : entry=6946
 UPDATE `trans_words` SET `content_loc9`='SI:7 Operative' WHERE `word_id`=77475; -- locales_creature - subname : entry=6946
 UPDATE `trans_words` SET `content_loc9`='Lucius' WHERE `word_id`=77476; -- locales_creature - name : entry=6966
+UPDATE `trans_words` SET `content_loc9`='Dran Droffers' WHERE `word_id`=77477; -- locales_creature - name : entry=6986
+UPDATE `trans_words` SET `content_loc9`='Malton Droffers' WHERE `word_id`=77479; -- locales_creature - name : entry=6987
 UPDATE `trans_words` SET `content_loc9`='Tiev Mordune' WHERE `word_id`=77480; -- locales_creature - name : entry=7007
 UPDATE `trans_words` SET `content_loc9`='Arantir' WHERE `word_id`=77481; -- locales_creature - name : entry=7009
 UPDATE `trans_words` SET `content_loc9`='The Hand of Chaos' WHERE `word_id`=77482; -- locales_creature - subname : entry=7009
@@ -5252,8 +5614,6 @@ UPDATE `trans_words` SET `content_loc9`='Deadwood Avenger' WHERE `word_id`=77573
 UPDATE `trans_words` SET `content_loc9`='Deadwood Shaman' WHERE `word_id`=77574; -- locales_creature - name : entry=7158
 UPDATE `trans_words` SET `content_loc9`='Wrenix the Wretched' WHERE `word_id`=77575; -- locales_creature - name : entry=7161
 UPDATE `trans_words` SET `content_loc9`='Wrenix\'s Gizmotronic Apparatus' WHERE `word_id`=77576; -- locales_creature - name : entry=7166
-UPDATE `trans_words` SET `content_loc9`='Polly' WHERE `word_id`=77577; -- locales_creature - name : entry=7167
-UPDATE `trans_words` SET `content_loc9`='Polly' WHERE `word_id`=77577; -- locales_creature - name : entry=7168
 UPDATE `trans_words` SET `content_loc9`='Thragomm' WHERE `word_id`=77578; -- locales_creature - name : entry=7170
 UPDATE `trans_words` SET `content_loc9`='Horde Runner' WHERE `word_id`=74218; -- locales_creature - subname : entry=7170
 UPDATE `trans_words` SET `content_loc9`='Lore Keeper of Norgannon' WHERE `word_id`=77579; -- locales_creature - name : entry=7172
@@ -5287,6 +5647,8 @@ UPDATE `trans_words` SET `content_loc9`='Demnul Farmountain' WHERE `word_id`=776
 UPDATE `trans_words` SET `content_loc9`='Venture Co. Lookout' WHERE `word_id`=77619; -- locales_creature - name : entry=7307
 UPDATE `trans_words` SET `content_loc9`='Venture Co. Patroller' WHERE `word_id`=77620; -- locales_creature - name : entry=7308
 UPDATE `trans_words` SET `content_loc9`='Mutated Venture Co. Drone' WHERE `word_id`=77622; -- locales_creature - name : entry=7310
+UPDATE `trans_words` SET `content_loc9`='Uthel\'nay' WHERE `word_id`=77623; -- locales_creature - name : entry=7311
+UPDATE `trans_words` SET `content_loc9`='Dink' WHERE `word_id`=77624; -- locales_creature - name : entry=7312
 UPDATE `trans_words` SET `content_loc9`='Priestess A\'moora' WHERE `word_id`=77625; -- locales_creature - name : entry=7313
 UPDATE `trans_words` SET `content_loc9`='Darnath Bladesinger' WHERE `word_id`=77626; -- locales_creature - name : entry=7315
 UPDATE `trans_words` SET `content_loc9`='Warrior Trainer' WHERE `word_id`=72895; -- locales_creature - subname : entry=7315
@@ -5325,10 +5687,8 @@ UPDATE `trans_words` SET `content_loc9`='Tomb Reaver' WHERE `word_id`=77658; -- 
 UPDATE `trans_words` SET `content_loc9`='Frozen Soul' WHERE `word_id`=77659; -- locales_creature - name : entry=7352
 UPDATE `trans_words` SET `content_loc9`='Freezing Spirit' WHERE `word_id`=77660; -- locales_creature - name : entry=7353
 UPDATE `trans_words` SET `content_loc9`='Ragglesnout' WHERE `word_id`=77661; -- locales_creature - name : entry=7354
-UPDATE `trans_words` SET `content_loc9`='Tuten\'kash' WHERE `word_id`=77662; -- locales_creature - name : entry=7355
 UPDATE `trans_words` SET `content_loc9`='Plaguemaw the Rotting' WHERE `word_id`=77663; -- locales_creature - name : entry=7356
 UPDATE `trans_words` SET `content_loc9`='Dun Garok Soldier' WHERE `word_id`=77666; -- locales_creature - name : entry=7360
-UPDATE `trans_words` SET `content_loc9`='Grubbis' WHERE `word_id`=77667; -- locales_creature - name : entry=7361
 UPDATE `trans_words` SET `content_loc9`='Kum\'isha the Collector' WHERE `word_id`=77668; -- locales_creature - name : entry=7363
 UPDATE `trans_words` SET `content_loc9`='Flawless Draenethyst Fragment' WHERE `word_id`=77669; -- locales_creature - name : entry=7365
 UPDATE `trans_words` SET `content_loc9`='Stoneskin Totem IV' WHERE `word_id`=77670; -- locales_creature - name : entry=7366
@@ -5340,7 +5700,6 @@ UPDATE `trans_words` SET `content_loc9`='Deadwind Mauler' WHERE `word_id`=77675;
 UPDATE `trans_words` SET `content_loc9`='Deadwind Warlock' WHERE `word_id`=77676; -- locales_creature - name : entry=7372
 UPDATE `trans_words` SET `content_loc9`='Sky Shadow' WHERE `word_id`=77677; -- locales_creature - name : entry=7376
 UPDATE `trans_words` SET `content_loc9`='Deadwind Ogre Mage' WHERE `word_id`=77678; -- locales_creature - name : entry=7379
-UPDATE `trans_words` SET `content_loc9`='Senegal' WHERE `word_id`=77687; -- locales_creature - name : entry=7389
 UPDATE `trans_words` SET `content_loc9`='Earthen Stonebreaker' WHERE `word_id`=77691; -- locales_creature - name : entry=7396
 UPDATE `trans_words` SET `content_loc9`='Earthen Stonecarver' WHERE `word_id`=77692; -- locales_creature - name : entry=7397
 UPDATE `trans_words` SET `content_loc9`='Stoneclaw Totem V' WHERE `word_id`=77693; -- locales_creature - name : entry=7398
@@ -5409,11 +5768,13 @@ UPDATE `trans_words` SET `content_loc9`='Nature Resistance Totem II' WHERE `word
 UPDATE `trans_words` SET `content_loc9`='Nature Resistance Totem III' WHERE `word_id`=77758; -- locales_creature - name : entry=7469
 UPDATE `trans_words` SET `content_loc9`='Windfury Totem II' WHERE `word_id`=77759; -- locales_creature - name : entry=7483
 UPDATE `trans_words` SET `content_loc9`='Windfury Totem III' WHERE `word_id`=77760; -- locales_creature - name : entry=7484
+UPDATE `trans_words` SET `content_loc9`='Nargatt' WHERE `word_id`=77761; -- locales_creature - name : entry=7485
 UPDATE `trans_words` SET `content_loc9`='Grace of Air Totem' WHERE `word_id`=77762; -- locales_creature - name : entry=7486
 UPDATE `trans_words` SET `content_loc9`='Grace of Air Totem II' WHERE `word_id`=77763; -- locales_creature - name : entry=7487
 UPDATE `trans_words` SET `content_loc9`='Silverpine Deathguard' WHERE `word_id`=77764; -- locales_creature - name : entry=7489
 UPDATE `trans_words` SET `content_loc9`='Curse of the Eye' WHERE `word_id`=77765; -- locales_creature - name : entry=7503
 UPDATE `trans_words` SET `content_loc9`='Male' WHERE `word_id`=5476; -- locales_creature - subname : entry=7503
+UPDATE `trans_words` SET `content_loc9`='Curse of the Eye' WHERE `word_id`=77765; -- locales_creature - name : entry=7504
 UPDATE `trans_words` SET `content_loc9`='Bloodmage Drazial' WHERE `word_id`=77766; -- locales_creature - name : entry=7505
 UPDATE `trans_words` SET `content_loc9`='Bloodmage Lynnore' WHERE `word_id`=77767; -- locales_creature - name : entry=7506
 UPDATE `trans_words` SET `content_loc9`='Suffering Highborne' WHERE `word_id`=77768; -- locales_creature - name : entry=7523
@@ -5457,6 +5818,7 @@ UPDATE `trans_words` SET `content_loc9`='Riding Tallstrider (Gray)' WHERE `word_
 UPDATE `trans_words` SET `content_loc9`='Riding Tallstrider (Pink)' WHERE `word_id`=77821; -- locales_creature - name : entry=7711
 UPDATE `trans_words` SET `content_loc9`='Riding Tallstrider (Purple)' WHERE `word_id`=77822; -- locales_creature - name : entry=7712
 UPDATE `trans_words` SET `content_loc9`='Riding Tallstrider (Turquoise)' WHERE `word_id`=77823; -- locales_creature - name : entry=7713
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Byula' WHERE `word_id`=77824; -- locales_creature - name : entry=7714
 UPDATE `trans_words` SET `content_loc9`='Senior Surveyor Fizzledowser' WHERE `word_id`=77825; -- locales_creature - name : entry=7724
 UPDATE `trans_words` SET `content_loc9`='Gadgetzan Water Co.' WHERE `word_id`=77704; -- locales_creature - subname : entry=7724
 UPDATE `trans_words` SET `content_loc9`='Grimtotem Raider' WHERE `word_id`=77826; -- locales_creature - name : entry=7725
@@ -5465,13 +5827,18 @@ UPDATE `trans_words` SET `content_loc9`='Grimtotem Shaman' WHERE `word_id`=77828
 UPDATE `trans_words` SET `content_loc9`='Kirith the Damned' WHERE `word_id`=77829; -- locales_creature - name : entry=7728
 UPDATE `trans_words` SET `content_loc9`='Spirit of Kirith' WHERE `word_id`=77830; -- locales_creature - name : entry=7729
 UPDATE `trans_words` SET `content_loc9`='Stonetalon Grunt' WHERE `word_id`=77831; -- locales_creature - name : entry=7730
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Jayka' WHERE `word_id`=77832; -- locales_creature - name : entry=7731
 UPDATE `trans_words` SET `content_loc9`='Dupe Bug' WHERE `word_id`=77833; -- locales_creature - name : entry=7732
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Fizzgrimble' WHERE `word_id`=77834; -- locales_creature - name : entry=7733
 UPDATE `trans_words` SET `content_loc9`='Ilifar' WHERE `word_id`=77835; -- locales_creature - name : entry=7734
 UPDATE `trans_words` SET `content_loc9`='Keeper of Souls' WHERE `word_id`=77836; -- locales_creature - subname : entry=7734
 UPDATE `trans_words` SET `content_loc9`='Felcular' WHERE `word_id`=77837; -- locales_creature - name : entry=7735
 UPDATE `trans_words` SET `content_loc9`='Champion of Razelikh' WHERE `word_id`=77838; -- locales_creature - subname : entry=7735
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Shyria' WHERE `word_id`=77839; -- locales_creature - name : entry=7736
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Greul' WHERE `word_id`=77840; -- locales_creature - name : entry=7737
 UPDATE `trans_words` SET `content_loc9`='Burning Servant' WHERE `word_id`=77841; -- locales_creature - name : entry=7738
 UPDATE `trans_words` SET `content_loc9`='Gracina Spiritmight' WHERE `word_id`=77842; -- locales_creature - name : entry=7740
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Thulfram' WHERE `word_id`=77843; -- locales_creature - name : entry=7744
 UPDATE `trans_words` SET `content_loc9`='Corporal Thund Splithoof' WHERE `word_id`=77844; -- locales_creature - name : entry=7750
 UPDATE `trans_words` SET `content_loc9`='Curgle Cranklehop' WHERE `word_id`=77845; -- locales_creature - name : entry=7763
 UPDATE `trans_words` SET `content_loc9`='Troyas Moonbreeze' WHERE `word_id`=77846; -- locales_creature - name : entry=7764
@@ -5519,6 +5886,8 @@ UPDATE `trans_words` SET `content_loc9`='Homing Robot OOX-09/HL' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc9`='Homing Robot OOX-22/FE' WHERE `word_id`=77889; -- locales_creature - name : entry=7807
 UPDATE `trans_words` SET `content_loc9`='Marauding Owlbeast' WHERE `word_id`=77890; -- locales_creature - name : entry=7808
 UPDATE `trans_words` SET `content_loc9`='Vilebranch Ambusher' WHERE `word_id`=77891; -- locales_creature - name : entry=7809
+UPDATE `trans_words` SET `content_loc9`='Bera Stonehammer' WHERE `word_id`=77892; -- locales_creature - name : entry=7823
+UPDATE `trans_words` SET `content_loc9`='Bulkrek Ragefist' WHERE `word_id`=77893; -- locales_creature - name : entry=7824
 UPDATE `trans_words` SET `content_loc9`='Oran Snakewrithe' WHERE `word_id`=77894; -- locales_creature - name : entry=7825
 UPDATE `trans_words` SET `content_loc9`='Ambassador Ardalan' WHERE `word_id`=77895; -- locales_creature - name : entry=7826
 UPDATE `trans_words` SET `content_loc9`='Gnomeregan Evacuee' WHERE `word_id`=77896; -- locales_creature - name : entry=7843
@@ -5530,8 +5899,10 @@ UPDATE `trans_words` SET `content_loc9`='Lurking Feral Scar' WHERE `word_id`=779
 UPDATE `trans_words` SET `content_loc9`='Mobile Alert System' WHERE `word_id`=77902; -- locales_creature - name : entry=7849
 UPDATE `trans_words` SET `content_loc9`='Kernobee' WHERE `word_id`=77903; -- locales_creature - name : entry=7850
 UPDATE `trans_words` SET `content_loc9`='Nethergarde Elite' WHERE `word_id`=77904; -- locales_creature - name : entry=7851
+UPDATE `trans_words` SET `content_loc9`='Pratt McGrubben' WHERE `word_id`=77905; -- locales_creature - name : entry=7852
 UPDATE `trans_words` SET `content_loc9`='Scooty' WHERE `word_id`=77906; -- locales_creature - name : entry=7853
 UPDATE `trans_words` SET `content_loc9`='Chief Engineer' WHERE `word_id`=77907; -- locales_creature - subname : entry=7853
+UPDATE `trans_words` SET `content_loc9`='Jangdor Swiftstrider' WHERE `word_id`=77908; -- locales_creature - name : entry=7854
 UPDATE `trans_words` SET `content_loc9`='Southsea Pirate' WHERE `word_id`=77909; -- locales_creature - name : entry=7855
 UPDATE `trans_words` SET `content_loc9`='Southsea Freebooter' WHERE `word_id`=77910; -- locales_creature - name : entry=7856
 UPDATE `trans_words` SET `content_loc9`='Southsea Dock Worker' WHERE `word_id`=77911; -- locales_creature - name : entry=7857
@@ -5555,6 +5926,7 @@ UPDATE `trans_words` SET `content_loc9`='Death\'s Head Cultist' WHERE `word_id`=
 UPDATE `trans_words` SET `content_loc9`='Razorfen Battleguard' WHERE `word_id`=77926; -- locales_creature - name : entry=7873
 UPDATE `trans_words` SET `content_loc9`='Razorfen Thornweaver' WHERE `word_id`=77927; -- locales_creature - name : entry=7874
 UPDATE `trans_words` SET `content_loc9`='Hadoken Swiftstrider' WHERE `word_id`=77928; -- locales_creature - name : entry=7875
+UPDATE `trans_words` SET `content_loc9`='Tran\'rek' WHERE `word_id`=77929; -- locales_creature - name : entry=7876
 UPDATE `trans_words` SET `content_loc9`='Latronicus Moonspear' WHERE `word_id`=77930; -- locales_creature - name : entry=7877
 UPDATE `trans_words` SET `content_loc9`='Vestia Moonspear' WHERE `word_id`=77931; -- locales_creature - name : entry=7878
 UPDATE `trans_words` SET `content_loc9`='Quintis Jonespyre' WHERE `word_id`=77932; -- locales_creature - name : entry=7879
@@ -5586,11 +5958,15 @@ UPDATE `trans_words` SET `content_loc9`='Lyon Mountainheart' WHERE `word_id`=779
 UPDATE `trans_words` SET `content_loc9`='Feathermoon Sentinel' WHERE `word_id`=77961; -- locales_creature - name : entry=7939
 UPDATE `trans_words` SET `content_loc9`='Darnall' WHERE `word_id`=77962; -- locales_creature - name : entry=7940
 UPDATE `trans_words` SET `content_loc9`='Tailoring Supplies' WHERE `word_id`=73325; -- locales_creature - subname : entry=7940
+UPDATE `trans_words` SET `content_loc9`='Mardrack Greenwell' WHERE `word_id`=77963; -- locales_creature - name : entry=7941
+UPDATE `trans_words` SET `content_loc9`='Faralorn' WHERE `word_id`=77964; -- locales_creature - name : entry=7942
 UPDATE `trans_words` SET `content_loc9`='Harklane' WHERE `word_id`=77965; -- locales_creature - name : entry=7943
 UPDATE `trans_words` SET `content_loc9`='Fish Vendor' WHERE `word_id`=75776; -- locales_creature - subname : entry=7943
 UPDATE `trans_words` SET `content_loc9`='Gnomish Engineering Trainer' WHERE `word_id`=77702; -- locales_creature - subname : entry=7944
+UPDATE `trans_words` SET `content_loc9`='Savanne' WHERE `word_id`=77967; -- locales_creature - name : entry=7945
 UPDATE `trans_words` SET `content_loc9`='Brannock' WHERE `word_id`=77968; -- locales_creature - name : entry=7946
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=7946
+UPDATE `trans_words` SET `content_loc9`='Vivianna' WHERE `word_id`=77969; -- locales_creature - name : entry=7947
 UPDATE `trans_words` SET `content_loc9`='Kylanna Windwhisper' WHERE `word_id`=77970; -- locales_creature - name : entry=7948
 UPDATE `trans_words` SET `content_loc9`='Master Alchemist' WHERE `word_id`=73365; -- locales_creature - subname : entry=7948
 UPDATE `trans_words` SET `content_loc9`='Xylinnia Starshine' WHERE `word_id`=77971; -- locales_creature - name : entry=7949
@@ -5618,6 +5994,9 @@ UPDATE `trans_words` SET `content_loc9`='Captured Sprite Darter' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc9`='Blastmaster Emi Shortfuse' WHERE `word_id`=77991; -- locales_creature - name : entry=7998
 UPDATE `trans_words` SET `content_loc9`='Ashenvale Sentinel' WHERE `word_id`=77994; -- locales_creature - name : entry=8015
 UPDATE `trans_words` SET `content_loc9`='Barrens Guard' WHERE `word_id`=77995; -- locales_creature - name : entry=8016
+UPDATE `trans_words` SET `content_loc9`='Guthrum Thunderfist' WHERE `word_id`=77997; -- locales_creature - name : entry=8018
+UPDATE `trans_words` SET `content_loc9`='Fyldren Moonfeather' WHERE `word_id`=77998; -- locales_creature - name : entry=8019
+UPDATE `trans_words` SET `content_loc9`='Shyn' WHERE `word_id`=77999; -- locales_creature - name : entry=8020
 UPDATE `trans_words` SET `content_loc9`='Orwin Gizzmick' WHERE `word_id`=78000; -- locales_creature - name : entry=8021
 UPDATE `trans_words` SET `content_loc9`='Thadius Grimshade' WHERE `word_id`=78001; -- locales_creature - name : entry=8022
 UPDATE `trans_words` SET `content_loc9`='Sharpbeak' WHERE `word_id`=78002; -- locales_creature - name : entry=8023
@@ -5628,6 +6007,7 @@ UPDATE `trans_words` SET `content_loc9`='Dark Iron Land Mine' WHERE `word_id`=78
 UPDATE `trans_words` SET `content_loc9`='Thelsamar Mountaineer' WHERE `word_id`=78007; -- locales_creature - name : entry=8055
 UPDATE `trans_words` SET `content_loc9`='Edana Hatetalon' WHERE `word_id`=78008; -- locales_creature - name : entry=8075
 UPDATE `trans_words` SET `content_loc9`='Sul\'lithuz Sandcrawler' WHERE `word_id`=78009; -- locales_creature - name : entry=8095
+UPDATE `trans_words` SET `content_loc9`='Protector of the People' WHERE `word_id`=78010; -- locales_creature - name : entry=8096
 UPDATE `trans_words` SET `content_loc9`='Witch Doctor Uzer\'i' WHERE `word_id`=78011; -- locales_creature - name : entry=8115
 UPDATE `trans_words` SET `content_loc9`='Ziggle Sparks' WHERE `word_id`=78012; -- locales_creature - name : entry=8116
 UPDATE `trans_words` SET `content_loc9`='Holiday Fireworks Vendor' WHERE `word_id`=78013; -- locales_creature - subname : entry=8116
@@ -5650,30 +6030,35 @@ UPDATE `trans_words` SET `content_loc9`='Dirge Quikcleave' WHERE `word_id`=78022
 UPDATE `trans_words` SET `content_loc9`='Butcher' WHERE `word_id`=74112; -- locales_creature - subname : entry=8125
 UPDATE `trans_words` SET `content_loc9`='Nixx Sprocketspring' WHERE `word_id`=78023; -- locales_creature - name : entry=8126
 UPDATE `trans_words` SET `content_loc9`='Goblin Engineering Trainer' WHERE `word_id`=78024; -- locales_creature - subname : entry=8126
-UPDATE `trans_words` SET `content_loc9`='Antu\'sul' WHERE `word_id`=78025; -- locales_creature - name : entry=8127
 UPDATE `trans_words` SET `content_loc9`='Overseer of Sul' WHERE `word_id`=78026; -- locales_creature - subname : entry=8127
 UPDATE `trans_words` SET `content_loc9`='Pikkle' WHERE `word_id`=78027; -- locales_creature - name : entry=8128
 UPDATE `trans_words` SET `content_loc9`='Mining Trainer' WHERE `word_id`=73579; -- locales_creature - subname : entry=8128
 UPDATE `trans_words` SET `content_loc9`='Wrinkle Goodsteel' WHERE `word_id`=78028; -- locales_creature - name : entry=8129
 UPDATE `trans_words` SET `content_loc9`='Superior Armorer' WHERE `word_id`=73357; -- locales_creature - subname : entry=8129
 UPDATE `trans_words` SET `content_loc9`='Sul\'lithuz Hatchling' WHERE `word_id`=78029; -- locales_creature - name : entry=8130
+UPDATE `trans_words` SET `content_loc9`='Blizrik Buckshot' WHERE `word_id`=78030; -- locales_creature - name : entry=8131
 UPDATE `trans_words` SET `content_loc9`='Lord Shalzaru' WHERE `word_id`=78031; -- locales_creature - name : entry=8136
 UPDATE `trans_words` SET `content_loc9`='Gikkix' WHERE `word_id`=78032; -- locales_creature - name : entry=8137
 UPDATE `trans_words` SET `content_loc9`='Fisherman' WHERE `word_id`=75181; -- locales_creature - subname : entry=8137
 UPDATE `trans_words` SET `content_loc9`='Sul\'lithuz Broodling' WHERE `word_id`=78033; -- locales_creature - name : entry=8138
+UPDATE `trans_words` SET `content_loc9`='Jabbey' WHERE `word_id`=78034; -- locales_creature - name : entry=8139
 UPDATE `trans_words` SET `content_loc9`='Brother Karman' WHERE `word_id`=78035; -- locales_creature - name : entry=8140
 UPDATE `trans_words` SET `content_loc9`='Paladin Trainer' WHERE `word_id`=72909; -- locales_creature - subname : entry=8140
 UPDATE `trans_words` SET `content_loc9`='Captain Evencane' WHERE `word_id`=78036; -- locales_creature - name : entry=8141
 UPDATE `trans_words` SET `content_loc9`='Warrior Trainer' WHERE `word_id`=72895; -- locales_creature - subname : entry=8141
 UPDATE `trans_words` SET `content_loc9`='Jannos Lighthoof' WHERE `word_id`=78037; -- locales_creature - name : entry=8142
 UPDATE `trans_words` SET `content_loc9`='Druid Trainer' WHERE `word_id`=74724; -- locales_creature - subname : entry=8142
+UPDATE `trans_words` SET `content_loc9`='Loorana' WHERE `word_id`=78038; -- locales_creature - name : entry=8143
 UPDATE `trans_words` SET `content_loc9`='Kulleg Stonehorn' WHERE `word_id`=78039; -- locales_creature - name : entry=8144
 UPDATE `trans_words` SET `content_loc9`='Skinning Trainer' WHERE `word_id`=73244; -- locales_creature - subname : entry=8144
+UPDATE `trans_words` SET `content_loc9`='Sheendra Tallgrass' WHERE `word_id`=78040; -- locales_creature - name : entry=8145
 UPDATE `trans_words` SET `content_loc9`='Ruw' WHERE `word_id`=78041; -- locales_creature - name : entry=8146
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=8146
 UPDATE `trans_words` SET `content_loc9`='Camp Mojache Brave' WHERE `word_id`=78042; -- locales_creature - name : entry=8147
 UPDATE `trans_words` SET `content_loc9`='Sul\'lithuz Warder' WHERE `word_id`=78043; -- locales_creature - name : entry=8149
+UPDATE `trans_words` SET `content_loc9`='Janet Hommers' WHERE `word_id`=78044; -- locales_creature - name : entry=8150
 UPDATE `trans_words` SET `content_loc9`='Nijel\'s Point Guard' WHERE `word_id`=78045; -- locales_creature - name : entry=8151
+UPDATE `trans_words` SET `content_loc9`='Harnor' WHERE `word_id`=78046; -- locales_creature - name : entry=8152
 UPDATE `trans_words` SET `content_loc9`='Narv Hidecrafter' WHERE `word_id`=78047; -- locales_creature - name : entry=8153
 UPDATE `trans_words` SET `content_loc9`='Expert Leatherworker' WHERE `word_id`=73363; -- locales_creature - subname : entry=8153
 UPDATE `trans_words` SET `content_loc9`='Ghost Walker Brave' WHERE `word_id`=78048; -- locales_creature - name : entry=8154
@@ -5685,6 +6070,7 @@ UPDATE `trans_words` SET `content_loc9`='Bronk' WHERE `word_id`=78052; -- locale
 UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies' WHERE `word_id`=73275; -- locales_creature - subname : entry=8158
 UPDATE `trans_words` SET `content_loc9`='Worb Strongstitch' WHERE `word_id`=78053; -- locales_creature - name : entry=8159
 UPDATE `trans_words` SET `content_loc9`='Light Armor Merchant' WHERE `word_id`=73277; -- locales_creature - subname : entry=8159
+UPDATE `trans_words` SET `content_loc9`='Nioma' WHERE `word_id`=78054; -- locales_creature - name : entry=8160
 UPDATE `trans_words` SET `content_loc9`='Harggan' WHERE `word_id`=78055; -- locales_creature - name : entry=8161
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=8161
 UPDATE `trans_words` SET `content_loc9`='Gharash' WHERE `word_id`=78056; -- locales_creature - name : entry=8176
@@ -5770,6 +6156,9 @@ UPDATE `trans_words` SET `content_loc9`='Elki' WHERE `word_id`=78125; -- locales
 UPDATE `trans_words` SET `content_loc9`='Mail Armor Merchant' WHERE `word_id`=73246; -- locales_creature - subname : entry=8360
 UPDATE `trans_words` SET `content_loc9`='Chepi' WHERE `word_id`=78126; -- locales_creature - name : entry=8361
 UPDATE `trans_words` SET `content_loc9`='Reagents' WHERE `word_id`=73226; -- locales_creature - subname : entry=8361
+UPDATE `trans_words` SET `content_loc9`='Kuruk' WHERE `word_id`=78127; -- locales_creature - name : entry=8362
+UPDATE `trans_words` SET `content_loc9`='Shadi Mistrunner' WHERE `word_id`=78128; -- locales_creature - name : entry=8363
+UPDATE `trans_words` SET `content_loc9`='Pakwa' WHERE `word_id`=78129; -- locales_creature - name : entry=8364
 UPDATE `trans_words` SET `content_loc9`='Alexandra Blazen' WHERE `word_id`=78130; -- locales_creature - name : entry=8378
 UPDATE `trans_words` SET `content_loc9`='Archmage Xylem' WHERE `word_id`=78131; -- locales_creature - name : entry=8379
 UPDATE `trans_words` SET `content_loc9`='Captain Vanessa Beltis' WHERE `word_id`=78132; -- locales_creature - name : entry=8380
@@ -5794,7 +6183,6 @@ UPDATE `trans_words` SET `content_loc9`='Ohanko' WHERE `word_id`=78150; -- local
 UPDATE `trans_words` SET `content_loc9`='Two Handed Weapon Merchant' WHERE `word_id`=73308; -- locales_creature - subname : entry=8398
 UPDATE `trans_words` SET `content_loc9`='Nyrill' WHERE `word_id`=78151; -- locales_creature - name : entry=8399
 UPDATE `trans_words` SET `content_loc9`='Xylem\'s Apprentice' WHERE `word_id`=78152; -- locales_creature - subname : entry=8399
-UPDATE `trans_words` SET `content_loc9`='Obsidion' WHERE `word_id`=78153; -- locales_creature - name : entry=8400
 UPDATE `trans_words` SET `content_loc9`='Halpa' WHERE `word_id`=78154; -- locales_creature - name : entry=8401
 UPDATE `trans_words` SET `content_loc9`='Prairie Dog Vendor' WHERE `word_id`=78155; -- locales_creature - subname : entry=8401
 UPDATE `trans_words` SET `content_loc9`='Enslaved Archaeologist' WHERE `word_id`=78156; -- locales_creature - name : entry=8402
@@ -5817,7 +6205,9 @@ UPDATE `trans_words` SET `content_loc9`='Nilith Lokrav' WHERE `word_id`=78173; -
 UPDATE `trans_words` SET `content_loc9`='Shade of Hakkar' WHERE `word_id`=78174; -- locales_creature - name : entry=8440
 UPDATE `trans_words` SET `content_loc9`='Raze' WHERE `word_id`=78175; -- locales_creature - name : entry=8441
 UPDATE `trans_words` SET `content_loc9`='Nilith\'s Guardian' WHERE `word_id`=78176; -- locales_creature - subname : entry=8441
+UPDATE `trans_words` SET `content_loc9`='Trade Master Kovic' WHERE `word_id`=78180; -- locales_creature - name : entry=8444
 UPDATE `trans_words` SET `content_loc9`='Xiggs Fuselighter\'s Flyingmachine' WHERE `word_id`=78181; -- locales_creature - name : entry=8446
+UPDATE `trans_words` SET `content_loc9`='Clunk' WHERE `word_id`=78182; -- locales_creature - name : entry=8447
 UPDATE `trans_words` SET `content_loc9`='Skeletal Servant' WHERE `word_id`=78183; -- locales_creature - name : entry=8477
 UPDATE `trans_words` SET `content_loc9`='Second Mate Shandril' WHERE `word_id`=78184; -- locales_creature - name : entry=8478
 UPDATE `trans_words` SET `content_loc9`='Kalaran Windblade' WHERE `word_id`=78185; -- locales_creature - name : entry=8479
@@ -5829,6 +6219,7 @@ UPDATE `trans_words` SET `content_loc9`='Gibblewilt' WHERE `word_id`=78190; -- l
 UPDATE `trans_words` SET `content_loc9`='Dark Iron Sentry' WHERE `word_id`=78191; -- locales_creature - name : entry=8504
 UPDATE `trans_words` SET `content_loc9`='Eranikus the Chained' WHERE `word_id`=78193; -- locales_creature - name : entry=8506
 UPDATE `trans_words` SET `content_loc9`='Tymor' WHERE `word_id`=78194; -- locales_creature - name : entry=8507
+UPDATE `trans_words` SET `content_loc9`='Gretta Ganter' WHERE `word_id`=78195; -- locales_creature - name : entry=8508
 UPDATE `trans_words` SET `content_loc9`='Squire Maltrake' WHERE `word_id`=78196; -- locales_creature - name : entry=8509
 UPDATE `trans_words` SET `content_loc9`='Atal\'ai Totem' WHERE `word_id`=78197; -- locales_creature - name : entry=8510
 UPDATE `trans_words` SET `content_loc9`='Belnistrasz' WHERE `word_id`=78198; -- locales_creature - name : entry=8516
@@ -5868,7 +6259,6 @@ UPDATE `trans_words` SET `content_loc9`='Shadowmage' WHERE `word_id`=78229; -- l
 UPDATE `trans_words` SET `content_loc9`='Cult of the Damned' WHERE `word_id`=78226; -- locales_creature - subname : entry=8550
 UPDATE `trans_words` SET `content_loc9`='Dark Summoner' WHERE `word_id`=78230; -- locales_creature - name : entry=8551
 UPDATE `trans_words` SET `content_loc9`='Cult of the Damned' WHERE `word_id`=78226; -- locales_creature - subname : entry=8551
-UPDATE `trans_words` SET `content_loc9`='Necromancer' WHERE `word_id`=78231; -- locales_creature - name : entry=8553
 UPDATE `trans_words` SET `content_loc9`='Cult of the Damned' WHERE `word_id`=78226; -- locales_creature - subname : entry=8553
 UPDATE `trans_words` SET `content_loc9`='Chief Sharptusk Thornmantle' WHERE `word_id`=78232; -- locales_creature - name : entry=8554
 UPDATE `trans_words` SET `content_loc9`='Crypt Stalker' WHERE `word_id`=78233; -- locales_creature - name : entry=8555
@@ -5906,6 +6296,8 @@ UPDATE `trans_words` SET `content_loc9`='Carrion Devourer' WHERE `word_id`=78265
 UPDATE `trans_words` SET `content_loc9`='Living Decay' WHERE `word_id`=78266; -- locales_creature - name : entry=8606
 UPDATE `trans_words` SET `content_loc9`='Rotting Sludge' WHERE `word_id`=78267; -- locales_creature - name : entry=8607
 UPDATE `trans_words` SET `content_loc9`='Angered Infernal' WHERE `word_id`=78268; -- locales_creature - name : entry=8608
+UPDATE `trans_words` SET `content_loc9`='Alexandra Constantine' WHERE `word_id`=78269; -- locales_creature - name : entry=8609
+UPDATE `trans_words` SET `content_loc9`='Kroum' WHERE `word_id`=78270; -- locales_creature - name : entry=8610
 UPDATE `trans_words` SET `content_loc9`='Idol Room Spawner' WHERE `word_id`=78271; -- locales_creature - name : entry=8611
 UPDATE `trans_words` SET `content_loc9`='Screecher Spirit' WHERE `word_id`=78272; -- locales_creature - name : entry=8612
 UPDATE `trans_words` SET `content_loc9`='Mithril Dragonling' WHERE `word_id`=78273; -- locales_creature - name : entry=8615
@@ -5934,6 +6326,8 @@ UPDATE `trans_words` SET `content_loc9`='Auctioneer Leeka' WHERE `word_id`=78295
 UPDATE `trans_words` SET `content_loc9`='Auctioneer Thathung' WHERE `word_id`=78296; -- locales_creature - name : entry=8673
 UPDATE `trans_words` SET `content_loc9`='Auctioneer Stampi' WHERE `word_id`=78297; -- locales_creature - name : entry=8674
 UPDATE `trans_words` SET `content_loc9`='Felbeast' WHERE `word_id`=78298; -- locales_creature - name : entry=8675
+UPDATE `trans_words` SET `content_loc9`='Jubie Gadgetspring' WHERE `word_id`=78299; -- locales_creature - name : entry=8678
+UPDATE `trans_words` SET `content_loc9`='Knaz Blunderflame' WHERE `word_id`=78300; -- locales_creature - name : entry=8679
 UPDATE `trans_words` SET `content_loc9`='Massive Infernal' WHERE `word_id`=78301; -- locales_creature - name : entry=8680
 UPDATE `trans_words` SET `content_loc9`='Outfitter Eric' WHERE `word_id`=78302; -- locales_creature - name : entry=8681
 UPDATE `trans_words` SET `content_loc9`='Speciality Tailoring Supplies' WHERE `word_id`=78303; -- locales_creature - subname : entry=8681
@@ -5949,7 +6343,6 @@ UPDATE `trans_words` SET `content_loc9`='Auctioneer Golothas' WHERE `word_id`=78
 UPDATE `trans_words` SET `content_loc9`='Auctioneer Wabang' WHERE `word_id`=78313; -- locales_creature - name : entry=8724
 UPDATE `trans_words` SET `content_loc9`='Buzzek Bracketswing' WHERE `word_id`=78314; -- locales_creature - name : entry=8736
 UPDATE `trans_words` SET `content_loc9`='Master Engineer' WHERE `word_id`=78315; -- locales_creature - subname : entry=8736
-UPDATE `trans_words` SET `content_loc9`='Linken' WHERE `word_id`=78316; -- locales_creature - name : entry=8737
 UPDATE `trans_words` SET `content_loc9`='Vazario Linkgrease' WHERE `word_id`=78317; -- locales_creature - name : entry=8738
 UPDATE `trans_words` SET `content_loc9`='Goblin Engineering Trainer' WHERE `word_id`=78024; -- locales_creature - subname : entry=8738
 UPDATE `trans_words` SET `content_loc9`='Raytaf' WHERE `word_id`=78318; -- locales_creature - name : entry=8756
@@ -6016,6 +6409,8 @@ UPDATE `trans_words` SET `content_loc9`='Bloodhound Mastiff' WHERE `word_id`=783
 UPDATE `trans_words` SET `content_loc9`='Panzor the Invincible' WHERE `word_id`=78378; -- locales_creature - name : entry=8923
 UPDATE `trans_words` SET `content_loc9`='The Behemoth' WHERE `word_id`=78379; -- locales_creature - name : entry=8924
 UPDATE `trans_words` SET `content_loc9`='Princess of Ironforge' WHERE `word_id`=78385; -- locales_creature - subname : entry=8929
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Heather' WHERE `word_id`=78386; -- locales_creature - name : entry=8931
+UPDATE `trans_words` SET `content_loc9`='Christopher Hewen' WHERE `word_id`=78389; -- locales_creature - name : entry=8934
 UPDATE `trans_words` SET `content_loc9`='Pet Bomb' WHERE `word_id`=78390; -- locales_creature - name : entry=8937
 UPDATE `trans_words` SET `content_loc9`='Angerclaw Bear' WHERE `word_id`=78391; -- locales_creature - name : entry=8956
 UPDATE `trans_words` SET `content_loc9`='Angerclaw Grizzly' WHERE `word_id`=78392; -- locales_creature - name : entry=8957
@@ -6043,9 +6438,6 @@ UPDATE `trans_words` SET `content_loc9`='Kharan Mighthammer' WHERE `word_id`=784
 UPDATE `trans_words` SET `content_loc9`='Dughal Stormwing' WHERE `word_id`=78419; -- locales_creature - name : entry=9022
 UPDATE `trans_words` SET `content_loc9`='Marshal Windsor' WHERE `word_id`=78420; -- locales_creature - name : entry=9023
 UPDATE `trans_words` SET `content_loc9`='Overmaster Pyron' WHERE `word_id`=78423; -- locales_creature - name : entry=9026
-UPDATE `trans_words` SET `content_loc9`='Grizzle' WHERE `word_id`=78425; -- locales_creature - name : entry=9028
-UPDATE `trans_words` SET `content_loc9`='Anub\'shiah' WHERE `word_id`=78428; -- locales_creature - name : entry=9031
-UPDATE `trans_words` SET `content_loc9`='Verek' WHERE `word_id`=78439; -- locales_creature - name : entry=9042
 UPDATE `trans_words` SET `content_loc9`='Scarshield Grunt' WHERE `word_id`=78440; -- locales_creature - name : entry=9043
 UPDATE `trans_words` SET `content_loc9`='Scarshield Legion' WHERE `word_id`=78441; -- locales_creature - subname : entry=9043
 UPDATE `trans_words` SET `content_loc9`='Scarshield Sentry' WHERE `word_id`=78442; -- locales_creature - name : entry=9044
@@ -6086,6 +6478,7 @@ UPDATE `trans_words` SET `content_loc9`='Scarshield Spellbinder' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc9`='Scarshield Legion' WHERE `word_id`=78441; -- locales_creature - subname : entry=9098
 UPDATE `trans_words` SET `content_loc9`='Sraaz' WHERE `word_id`=78464; -- locales_creature - name : entry=9099
 UPDATE `trans_words` SET `content_loc9`='Pie Vendor' WHERE `word_id`=78465; -- locales_creature - subname : entry=9099
+UPDATE `trans_words` SET `content_loc9`='Eridan Bluewind' WHERE `word_id`=78466; -- locales_creature - name : entry=9116
 UPDATE `trans_words` SET `content_loc9`='J.D. Collie' WHERE `word_id`=78467; -- locales_creature - name : entry=9117
 UPDATE `trans_words` SET `content_loc9`='Marshal Expeditions' WHERE `word_id`=78468; -- locales_creature - subname : entry=9117
 UPDATE `trans_words` SET `content_loc9`='Larion' WHERE `word_id`=78469; -- locales_creature - name : entry=9118
@@ -6152,6 +6545,7 @@ UPDATE `trans_words` SET `content_loc9`='Wenikee Boltbucket' WHERE `word_id`=785
 UPDATE `trans_words` SET `content_loc9`='Rilli Greasygob' WHERE `word_id`=78526; -- locales_creature - name : entry=9317
 UPDATE `trans_words` SET `content_loc9`='Incendosaur' WHERE `word_id`=78527; -- locales_creature - name : entry=9318
 UPDATE `trans_words` SET `content_loc9`='Boss Copperplug' WHERE `word_id`=78529; -- locales_creature - name : entry=9336
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Shul\'kar' WHERE `word_id`=78530; -- locales_creature - name : entry=9356
 UPDATE `trans_words` SET `content_loc9`='Blazerunner' WHERE `word_id`=78531; -- locales_creature - name : entry=9376
 UPDATE `trans_words` SET `content_loc9`='Swirling Vortex' WHERE `word_id`=78532; -- locales_creature - name : entry=9377
 UPDATE `trans_words` SET `content_loc9`='Ground Pounder' WHERE `word_id`=78533; -- locales_creature - name : entry=9396
@@ -6189,6 +6583,7 @@ UPDATE `trans_words` SET `content_loc9`='Watchman Doomgrip' WHERE `word_id`=7856
 UPDATE `trans_words` SET `content_loc9`='Cloned Ooze' WHERE `word_id`=78565; -- locales_creature - name : entry=9477
 UPDATE `trans_words` SET `content_loc9`='Gorishi Egg' WHERE `word_id`=78566; -- locales_creature - name : entry=9496
 UPDATE `trans_words` SET `content_loc9`='Mistress Nagmara' WHERE `word_id`=78569; -- locales_creature - name : entry=9500
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Adegwa' WHERE `word_id`=78570; -- locales_creature - name : entry=9501
 UPDATE `trans_words` SET `content_loc9`='Private Rocknot' WHERE `word_id`=78572; -- locales_creature - name : entry=9503
 UPDATE `trans_words` SET `content_loc9`='Lord Banehollow' WHERE `word_id`=78573; -- locales_creature - name : entry=9516
 UPDATE `trans_words` SET `content_loc9`='Rakaiah' WHERE `word_id`=78575; -- locales_creature - name : entry=9518
@@ -6200,6 +6595,8 @@ UPDATE `trans_words` SET `content_loc9`='Kolkar Invader' WHERE `word_id`=78580; 
 UPDATE `trans_words` SET `content_loc9`='Freewind Brave' WHERE `word_id`=78581; -- locales_creature - name : entry=9525
 UPDATE `trans_words` SET `content_loc9`='Enraged Gryphon' WHERE `word_id`=78582; -- locales_creature - name : entry=9526
 UPDATE `trans_words` SET `content_loc9`='Enraged Hippogryph' WHERE `word_id`=78583; -- locales_creature - name : entry=9527
+UPDATE `trans_words` SET `content_loc9`='Arathandris Silversky' WHERE `word_id`=78584; -- locales_creature - name : entry=9528
+UPDATE `trans_words` SET `content_loc9`='Maybess Riverbreeze' WHERE `word_id`=78585; -- locales_creature - name : entry=9529
 UPDATE `trans_words` SET `content_loc9`='Maxwort Uberglint' WHERE `word_id`=78586; -- locales_creature - name : entry=9536
 UPDATE `trans_words` SET `content_loc9`='High Executioner Nuzrak' WHERE `word_id`=78588; -- locales_creature - name : entry=9538
 UPDATE `trans_words` SET `content_loc9`='Kargath Expeditionary Force' WHERE `word_id`=78417; -- locales_creature - subname : entry=9538
@@ -6214,10 +6611,14 @@ UPDATE `trans_words` SET `content_loc9`='Raschal the Courier' WHERE `word_id`=78
 UPDATE `trans_words` SET `content_loc9`='Guzzling Patron' WHERE `word_id`=78597; -- locales_creature - name : entry=9547
 UPDATE `trans_words` SET `content_loc9`='Cawind Trueaim' WHERE `word_id`=78598; -- locales_creature - name : entry=9548
 UPDATE `trans_words` SET `content_loc9`='Gunsmith & Bowyer' WHERE `word_id`=78599; -- locales_creature - subname : entry=9548
+UPDATE `trans_words` SET `content_loc9`='Borand' WHERE `word_id`=78600; -- locales_creature - name : entry=9549
 UPDATE `trans_words` SET `content_loc9`='Furmund' WHERE `word_id`=78601; -- locales_creature - name : entry=9550
 UPDATE `trans_words` SET `content_loc9`='Starn' WHERE `word_id`=78602; -- locales_creature - name : entry=9551
 UPDATE `trans_words` SET `content_loc9`='Gunsmith & Bowyer' WHERE `word_id`=78599; -- locales_creature - subname : entry=9551
+UPDATE `trans_words` SET `content_loc9`='Zanara' WHERE `word_id`=78603; -- locales_creature - name : entry=9552
+UPDATE `trans_words` SET `content_loc9`='Nadia Vernon' WHERE `word_id`=78604; -- locales_creature - name : entry=9553
 UPDATE `trans_words` SET `content_loc9`='Hammered Patron' WHERE `word_id`=78605; -- locales_creature - name : entry=9554
+UPDATE `trans_words` SET `content_loc9`='Mu\'uta' WHERE `word_id`=78606; -- locales_creature - name : entry=9555
 UPDATE `trans_words` SET `content_loc9`='Felhound Minion' WHERE `word_id`=78607; -- locales_creature - name : entry=9556
 UPDATE `trans_words` SET `content_loc9`='Grimble' WHERE `word_id`=78608; -- locales_creature - name : entry=9558
 UPDATE `trans_words` SET `content_loc9`='Shipmaster' WHERE `word_id`=78609; -- locales_creature - subname : entry=9558
@@ -6252,7 +6653,9 @@ UPDATE `trans_words` SET `content_loc9`='Dreka\'Sur' WHERE `word_id`=78634; -- l
 UPDATE `trans_words` SET `content_loc9`='Gargantuan Ooze' WHERE `word_id`=78635; -- locales_creature - name : entry=9621
 UPDATE `trans_words` SET `content_loc9`='U\'cha' WHERE `word_id`=78636; -- locales_creature - name : entry=9622
 UPDATE `trans_words` SET `content_loc9`='A-Me 01' WHERE `word_id`=78637; -- locales_creature - name : entry=9623
+UPDATE `trans_words` SET `content_loc9`='Kireena' WHERE `word_id`=78638; -- locales_creature - name : entry=9636
 UPDATE `trans_words` SET `content_loc9`='Agnar Beastamer' WHERE `word_id`=78640; -- locales_creature - name : entry=9660
+UPDATE `trans_words` SET `content_loc9`='Tink Sprocketwhistle' WHERE `word_id`=78642; -- locales_creature - name : entry=9676
 UPDATE `trans_words` SET `content_loc9`='Ograbisi' WHERE `word_id`=78643; -- locales_creature - name : entry=9677
 UPDATE `trans_words` SET `content_loc9`='Shill Dinger' WHERE `word_id`=78644; -- locales_creature - name : entry=9678
 UPDATE `trans_words` SET `content_loc9`='Tobias Seecher' WHERE `word_id`=78645; -- locales_creature - name : entry=9679
@@ -6313,8 +6716,21 @@ UPDATE `trans_words` SET `content_loc9`='Entropic Beast' WHERE `word_id`=78695; 
 UPDATE `trans_words` SET `content_loc9`='Entropic Horror' WHERE `word_id`=78696; -- locales_creature - name : entry=9879
 UPDATE `trans_words` SET `content_loc9`='Jarquia' WHERE `word_id`=78697; -- locales_creature - name : entry=9916
 UPDATE `trans_words` SET `content_loc9`='Common Kitten' WHERE `word_id`=78699; -- locales_creature - name : entry=9937
-UPDATE `trans_words` SET `content_loc9`='Magmus' WHERE `word_id`=78700; -- locales_creature - name : entry=9938
 UPDATE `trans_words` SET `content_loc9`='Shadowforge Flame Keeper' WHERE `word_id`=78701; -- locales_creature - name : entry=9956
+UPDATE `trans_words` SET `content_loc9`='Tharlidun' WHERE `word_id`=78702; -- locales_creature - name : entry=9976
+UPDATE `trans_words` SET `content_loc9`='Sylista' WHERE `word_id`=78703; -- locales_creature - name : entry=9977
+UPDATE `trans_words` SET `content_loc9`='Wesley' WHERE `word_id`=78704; -- locales_creature - name : entry=9978
+UPDATE `trans_words` SET `content_loc9`='Sarah Goode' WHERE `word_id`=78705; -- locales_creature - name : entry=9979
+UPDATE `trans_words` SET `content_loc9`='Shelby Stoneflint' WHERE `word_id`=78706; -- locales_creature - name : entry=9980
+UPDATE `trans_words` SET `content_loc9`='Sikwa' WHERE `word_id`=78707; -- locales_creature - name : entry=9981
+UPDATE `trans_words` SET `content_loc9`='Penny' WHERE `word_id`=78708; -- locales_creature - name : entry=9982
+UPDATE `trans_words` SET `content_loc9`='Kelsuwa' WHERE `word_id`=78709; -- locales_creature - name : entry=9983
+UPDATE `trans_words` SET `content_loc9`='Ulbrek Firehand' WHERE `word_id`=78710; -- locales_creature - name : entry=9984
+UPDATE `trans_words` SET `content_loc9`='Laziphus' WHERE `word_id`=78711; -- locales_creature - name : entry=9985
+UPDATE `trans_words` SET `content_loc9`='Shyrka Wolfrunner' WHERE `word_id`=78712; -- locales_creature - name : entry=9986
+UPDATE `trans_words` SET `content_loc9`='Shoja\'my' WHERE `word_id`=78713; -- locales_creature - name : entry=9987
+UPDATE `trans_words` SET `content_loc9`='Xon\'cha' WHERE `word_id`=78714; -- locales_creature - name : entry=9988
+UPDATE `trans_words` SET `content_loc9`='Lina Hearthstove' WHERE `word_id`=78715; -- locales_creature - name : entry=9989
 UPDATE `trans_words` SET `content_loc9`='Lanti\'gah' WHERE `word_id`=78716; -- locales_creature - name : entry=9990
 UPDATE `trans_words` SET `content_loc9`='Winna Hazzard' WHERE `word_id`=78717; -- locales_creature - name : entry=9996
 UPDATE `trans_words` SET `content_loc9`='Spraggle Frock' WHERE `word_id`=78718; -- locales_creature - name : entry=9997
@@ -6331,6 +6747,25 @@ UPDATE `trans_words` SET `content_loc9`='Gorishi Hive Guard' WHERE `word_id`=787
 UPDATE `trans_words` SET `content_loc9`='Gorishi Hive Queen' WHERE `word_id`=78728; -- locales_creature - name : entry=10041
 UPDATE `trans_words` SET `content_loc9`='Corrupted Saber' WHERE `word_id`=78729; -- locales_creature - name : entry=10042
 UPDATE `trans_words` SET `content_loc9`='Ribbly\'s Crony' WHERE `word_id`=78730; -- locales_creature - name : entry=10043
+UPDATE `trans_words` SET `content_loc9`='Kirk Maxwell' WHERE `word_id`=78731; -- locales_creature - name : entry=10045
+UPDATE `trans_words` SET `content_loc9`='Bethaine Flinthammer' WHERE `word_id`=78732; -- locales_creature - name : entry=10046
+UPDATE `trans_words` SET `content_loc9`='Michael' WHERE `word_id`=78733; -- locales_creature - name : entry=10047
+UPDATE `trans_words` SET `content_loc9`='Gereck' WHERE `word_id`=78734; -- locales_creature - name : entry=10048
+UPDATE `trans_words` SET `content_loc9`='Hekkru' WHERE `word_id`=78735; -- locales_creature - name : entry=10049
+UPDATE `trans_words` SET `content_loc9`='Seikwa' WHERE `word_id`=78736; -- locales_creature - name : entry=10050
+UPDATE `trans_words` SET `content_loc9`='Seriadne' WHERE `word_id`=78737; -- locales_creature - name : entry=10051
+UPDATE `trans_words` SET `content_loc9`='Maluressian' WHERE `word_id`=78738; -- locales_creature - name : entry=10052
+UPDATE `trans_words` SET `content_loc9`='Anya Maulray' WHERE `word_id`=78739; -- locales_creature - name : entry=10053
+UPDATE `trans_words` SET `content_loc9`='Bulrug' WHERE `word_id`=78740; -- locales_creature - name : entry=10054
+UPDATE `trans_words` SET `content_loc9`='Morganus' WHERE `word_id`=78741; -- locales_creature - name : entry=10055
+UPDATE `trans_words` SET `content_loc9`='Alassin' WHERE `word_id`=78742; -- locales_creature - name : entry=10056
+UPDATE `trans_words` SET `content_loc9`='Theodore Mont Claire' WHERE `word_id`=78743; -- locales_creature - name : entry=10057
+UPDATE `trans_words` SET `content_loc9`='Greth' WHERE `word_id`=78744; -- locales_creature - name : entry=10058
+UPDATE `trans_words` SET `content_loc9`='Antarius' WHERE `word_id`=78745; -- locales_creature - name : entry=10059
+UPDATE `trans_words` SET `content_loc9`='Grimestack' WHERE `word_id`=78746; -- locales_creature - name : entry=10060
+UPDATE `trans_words` SET `content_loc9`='Killium Bouldertoe' WHERE `word_id`=78747; -- locales_creature - name : entry=10061
+UPDATE `trans_words` SET `content_loc9`='Steven Black' WHERE `word_id`=78748; -- locales_creature - name : entry=10062
+UPDATE `trans_words` SET `content_loc9`='Reggifuz' WHERE `word_id`=78749; -- locales_creature - name : entry=10063
 UPDATE `trans_words` SET `content_loc9`='High Priestess of Thaurissan' WHERE `word_id`=78750; -- locales_creature - name : entry=10076
 UPDATE `trans_words` SET `content_loc9`='Deathmaw' WHERE `word_id`=78751; -- locales_creature - name : entry=10077
 UPDATE `trans_words` SET `content_loc9`='Terrorspark' WHERE `word_id`=78752; -- locales_creature - name : entry=10078
@@ -6339,6 +6774,7 @@ UPDATE `trans_words` SET `content_loc9`='Sandarr Dunereaver' WHERE `word_id`=787
 UPDATE `trans_words` SET `content_loc9`='Dustwraith' WHERE `word_id`=78755; -- locales_creature - name : entry=10081
 UPDATE `trans_words` SET `content_loc9`='Zerillis' WHERE `word_id`=78756; -- locales_creature - name : entry=10082
 UPDATE `trans_words` SET `content_loc9`='Rage Talon Flamescale' WHERE `word_id`=78757; -- locales_creature - name : entry=10083
+UPDATE `trans_words` SET `content_loc9`='Jaelysia' WHERE `word_id`=78758; -- locales_creature - name : entry=10085
 UPDATE `trans_words` SET `content_loc9`='Hesuwa Thunderhorn' WHERE `word_id`=78759; -- locales_creature - name : entry=10086
 UPDATE `trans_words` SET `content_loc9`='Pet Trainer' WHERE `word_id`=72611; -- locales_creature - subname : entry=10086
 UPDATE `trans_words` SET `content_loc9`='Xao\'tsu' WHERE `word_id`=78760; -- locales_creature - name : entry=10088
@@ -6361,8 +6797,8 @@ UPDATE `trans_words` SET `content_loc9`='Kaltunk' WHERE `word_id`=78777; -- loca
 UPDATE `trans_words` SET `content_loc9`='Spire Scarab' WHERE `word_id`=78778; -- locales_creature - name : entry=10177
 UPDATE `trans_words` SET `content_loc9`='Riding MechaStrider (Flourescent Green)' WHERE `word_id`=78779; -- locales_creature - name : entry=10178
 UPDATE `trans_words` SET `content_loc9`='Riding MechaStrider (Black)' WHERE `word_id`=78780; -- locales_creature - name : entry=10179
+UPDATE `trans_words` SET `content_loc9`='Rexxar' WHERE `word_id`=78783; -- locales_creature - name : entry=10182
 UPDATE `trans_words` SET `content_loc9`='Moonflare Totem' WHERE `word_id`=78785; -- locales_creature - name : entry=10183
-UPDATE `trans_words` SET `content_loc9`='Onyxia' WHERE `word_id`=78786; -- locales_creature - name : entry=10184
 UPDATE `trans_words` SET `content_loc9`='General Colbatann' WHERE `word_id`=78787; -- locales_creature - name : entry=10196
 UPDATE `trans_words` SET `content_loc9`='Mezzir the Howler' WHERE `word_id`=78788; -- locales_creature - name : entry=10197
 UPDATE `trans_words` SET `content_loc9`='Kashoch the Reaver' WHERE `word_id`=78789; -- locales_creature - name : entry=10198
@@ -6375,7 +6811,6 @@ UPDATE `trans_words` SET `content_loc9`='Gubber Blump' WHERE `word_id`=78795; --
 UPDATE `trans_words` SET `content_loc9`='Flame Buffet Totem' WHERE `word_id`=78796; -- locales_creature - name : entry=10217
 UPDATE `trans_words` SET `content_loc9`='Superior Healing Ward' WHERE `word_id`=78797; -- locales_creature - name : entry=10218
 UPDATE `trans_words` SET `content_loc9`='Gwennyth Bly\'Leggonde' WHERE `word_id`=78798; -- locales_creature - name : entry=10219
-UPDATE `trans_words` SET `content_loc9`='Halycon' WHERE `word_id`=78799; -- locales_creature - name : entry=10220
 UPDATE `trans_words` SET `content_loc9`='Bloodaxe Worg Pup' WHERE `word_id`=78800; -- locales_creature - name : entry=10221
 UPDATE `trans_words` SET `content_loc9`='Bijou' WHERE `word_id`=78801; -- locales_creature - name : entry=10257
 UPDATE `trans_words` SET `content_loc9`='Rookery Guardian' WHERE `word_id`=78802; -- locales_creature - name : entry=10258
@@ -6399,6 +6834,7 @@ UPDATE `trans_words` SET `content_loc9`='Vaelan' WHERE `word_id`=78817; -- local
 UPDATE `trans_words` SET `content_loc9`='Scarshield Infiltrator' WHERE `word_id`=78818; -- locales_creature - name : entry=10299
 UPDATE `trans_words` SET `content_loc9`='Scarshield Legion' WHERE `word_id`=78441; -- locales_creature - subname : entry=10299
 UPDATE `trans_words` SET `content_loc9`='Ranshalla' WHERE `word_id`=78819; -- locales_creature - name : entry=10300
+UPDATE `trans_words` SET `content_loc9`='Jaron Stoneshaper' WHERE `word_id`=78820; -- locales_creature - name : entry=10301
 UPDATE `trans_words` SET `content_loc9`='Krakle' WHERE `word_id`=78821; -- locales_creature - name : entry=10302
 UPDATE `trans_words` SET `content_loc9`='Marshal Expeditions' WHERE `word_id`=78468; -- locales_creature - subname : entry=10302
 UPDATE `trans_words` SET `content_loc9`='Storm Shadowhoof' WHERE `word_id`=78822; -- locales_creature - name : entry=10303
@@ -6419,7 +6855,6 @@ UPDATE `trans_words` SET `content_loc9`='Murkdeep' WHERE `word_id`=78833; -- loc
 UPDATE `trans_words` SET `content_loc9`='Riding Tiger (Leopard)' WHERE `word_id`=78834; -- locales_creature - name : entry=10336
 UPDATE `trans_words` SET `content_loc9`='Riding Tiger (Orange)' WHERE `word_id`=78835; -- locales_creature - name : entry=10337
 UPDATE `trans_words` SET `content_loc9`='Riding Tiger (Gold)' WHERE `word_id`=78836; -- locales_creature - name : entry=10338
-UPDATE `trans_words` SET `content_loc9`='Gyth' WHERE `word_id`=78837; -- locales_creature - name : entry=10339
 UPDATE `trans_words` SET `content_loc9`='Rend Blackhand\'s Mount' WHERE `word_id`=78838; -- locales_creature - subname : entry=10339
 UPDATE `trans_words` SET `content_loc9`='Vaelastrasz the Red' WHERE `word_id`=78839; -- locales_creature - name : entry=10340
 UPDATE `trans_words` SET `content_loc9`='Bayne' WHERE `word_id`=78840; -- locales_creature - name : entry=10356
@@ -6428,6 +6863,7 @@ UPDATE `trans_words` SET `content_loc9`='Fellicent\'s Shade' WHERE `word_id`=788
 UPDATE `trans_words` SET `content_loc9`='Sri\'skulk' WHERE `word_id`=78843; -- locales_creature - name : entry=10359
 UPDATE `trans_words` SET `content_loc9`='Kergul Bloodaxe' WHERE `word_id`=78844; -- locales_creature - name : entry=10360
 UPDATE `trans_words` SET `content_loc9`='Warsong Gulch Battlemaster' WHERE `word_id`=74055; -- locales_creature - subname : entry=10360
+UPDATE `trans_words` SET `content_loc9`='Gruul Darkblade' WHERE `word_id`=78845; -- locales_creature - name : entry=10361
 UPDATE `trans_words` SET `content_loc9`='Yaelika Farclaw' WHERE `word_id`=78847; -- locales_creature - name : entry=10364
 UPDATE `trans_words` SET `content_loc9`='Reagents & Poisons' WHERE `word_id`=76457; -- locales_creature - subname : entry=10364
 UPDATE `trans_words` SET `content_loc9`='Rage Talon Dragon Guard' WHERE `word_id`=78848; -- locales_creature - name : entry=10366
@@ -6442,6 +6878,7 @@ UPDATE `trans_words` SET `content_loc9`='Spire Spider' WHERE `word_id`=78854; --
 UPDATE `trans_words` SET `content_loc9`='Crystal Fang' WHERE `word_id`=78856; -- locales_creature - name : entry=10376
 UPDATE `trans_words` SET `content_loc9`='Elu' WHERE `word_id`=78857; -- locales_creature - name : entry=10377
 UPDATE `trans_words` SET `content_loc9`='Wind Rider Apprentice' WHERE `word_id`=78858; -- locales_creature - subname : entry=10377
+UPDATE `trans_words` SET `content_loc9`='Omusa Thunderhorn' WHERE `word_id`=78859; -- locales_creature - name : entry=10378
 UPDATE `trans_words` SET `content_loc9`='Altsoba Ragetotem' WHERE `word_id`=78860; -- locales_creature - name : entry=10379
 UPDATE `trans_words` SET `content_loc9`='Weapon Merchant' WHERE `word_id`=72957; -- locales_creature - subname : entry=10379
 UPDATE `trans_words` SET `content_loc9`='Sanuye Runetotem' WHERE `word_id`=78861; -- locales_creature - name : entry=10380
@@ -6482,8 +6919,7 @@ UPDATE `trans_words` SET `content_loc9`='Crimson Battle Mage' WHERE `word_id`=78
 UPDATE `trans_words` SET `content_loc9`='Crimson Inquisitor' WHERE `word_id`=78897; -- locales_creature - name : entry=10426
 UPDATE `trans_words` SET `content_loc9`='Pao\'ka Swiftmountain' WHERE `word_id`=78898; -- locales_creature - name : entry=10427
 UPDATE `trans_words` SET `content_loc9`='Motega Firemane' WHERE `word_id`=78899; -- locales_creature - name : entry=10428
-UPDATE `trans_words` SET `content_loc9`='Vectus' WHERE `word_id`=78903; -- locales_creature - name : entry=10432
-UPDATE `trans_words` SET `content_loc9`='Nerub\'enkan' WHERE `word_id`=78907; -- locales_creature - name : entry=10437
+UPDATE `trans_words` SET `content_loc9`='Gregor Greystone' WHERE `word_id`=78902; -- locales_creature - name : entry=10431
 UPDATE `trans_words` SET `content_loc9`='Plagued Rat' WHERE `word_id`=78911; -- locales_creature - name : entry=10441
 UPDATE `trans_words` SET `content_loc9`='Chromatic Whelp' WHERE `word_id`=78912; -- locales_creature - name : entry=10442
 UPDATE `trans_words` SET `content_loc9`='Selina Dourman' WHERE `word_id`=78913; -- locales_creature - name : entry=10445
@@ -6522,14 +6958,12 @@ UPDATE `trans_words` SET `content_loc9`='Ragged Ghoul' WHERE `word_id`=78944; --
 UPDATE `trans_words` SET `content_loc9`='Spectral Tutor' WHERE `word_id`=78945; -- locales_creature - name : entry=10498
 UPDATE `trans_words` SET `content_loc9`='Spectral Researcher' WHERE `word_id`=78946; -- locales_creature - name : entry=10499
 UPDATE `trans_words` SET `content_loc9`='Spectral Teacher' WHERE `word_id`=78947; -- locales_creature - name : entry=10500
-UPDATE `trans_words` SET `content_loc9`='Jandice Barov' WHERE `word_id`=78949; -- locales_creature - name : entry=10503
 UPDATE `trans_words` SET `content_loc9`='Jed Runewatcher' WHERE `word_id`=78955; -- locales_creature - name : entry=10509
 UPDATE `trans_words` SET `content_loc9`='Blackhand Legion' WHERE `word_id`=78682; -- locales_creature - subname : entry=10509
 UPDATE `trans_words` SET `content_loc9`='Plagued Maggot' WHERE `word_id`=78957; -- locales_creature - name : entry=10536
 UPDATE `trans_words` SET `content_loc9`='Cliffwatcher Longhorn' WHERE `word_id`=78958; -- locales_creature - name : entry=10537
 UPDATE `trans_words` SET `content_loc9`='Vaelastrasz' WHERE `word_id`=78959; -- locales_creature - name : entry=10538
 UPDATE `trans_words` SET `content_loc9`='Hagar Lightninghoof' WHERE `word_id`=78960; -- locales_creature - name : entry=10539
-UPDATE `trans_words` SET `content_loc9`='Vol\'jin' WHERE `word_id`=78961; -- locales_creature - name : entry=10540
 UPDATE `trans_words` SET `content_loc9`='Lazy Peon' WHERE `word_id`=78962; -- locales_creature - name : entry=10556
 UPDATE `trans_words` SET `content_loc9`='Flametongue Totem IV' WHERE `word_id`=78963; -- locales_creature - name : entry=10557
 UPDATE `trans_words` SET `content_loc9`='Lady Vespia' WHERE `word_id`=78965; -- locales_creature - name : entry=10559
@@ -6653,7 +7087,6 @@ UPDATE `trans_words` SET `content_loc9`='Brumeran' WHERE `word_id`=79089; -- loc
 UPDATE `trans_words` SET `content_loc9`='Stonespine' WHERE `word_id`=79091; -- locales_creature - name : entry=10809
 UPDATE `trans_words` SET `content_loc9`='Archivist Galford' WHERE `word_id`=79092; -- locales_creature - name : entry=10811
 UPDATE `trans_words` SET `content_loc9`='Grand Crusader Dathrohan' WHERE `word_id`=79093; -- locales_creature - name : entry=10812
-UPDATE `trans_words` SET `content_loc9`='Balnazzar' WHERE `word_id`=79094; -- locales_creature - name : entry=10813
 UPDATE `trans_words` SET `content_loc9`='Wandering Skeleton' WHERE `word_id`=79096; -- locales_creature - name : entry=10816
 UPDATE `trans_words` SET `content_loc9`='Duggan Wildhammer' WHERE `word_id`=79097; -- locales_creature - name : entry=10817
 UPDATE `trans_words` SET `content_loc9`='Hed\'mush the Rotting' WHERE `word_id`=79098; -- locales_creature - name : entry=10821
@@ -6668,12 +7101,18 @@ UPDATE `trans_words` SET `content_loc9`='High General Abbendis' WHERE `word_id`=
 UPDATE `trans_words` SET `content_loc9`='Farmer Dalson' WHERE `word_id`=79106; -- locales_creature - name : entry=10836
 UPDATE `trans_words` SET `content_loc9`='High Executor Derrington' WHERE `word_id`=79107; -- locales_creature - name : entry=10837
 UPDATE `trans_words` SET `content_loc9`='Commander Ashlam Valorfist' WHERE `word_id`=79108; -- locales_creature - name : entry=10838
+UPDATE `trans_words` SET `content_loc9`='Argent Officer Garush' WHERE `word_id`=79109; -- locales_creature - name : entry=10839
+UPDATE `trans_words` SET `content_loc9`='Argent Officer Pureheart' WHERE `word_id`=79110; -- locales_creature - name : entry=10840
+UPDATE `trans_words` SET `content_loc9`='Argent Quartermaster Hasana' WHERE `word_id`=79111; -- locales_creature - name : entry=10856
+UPDATE `trans_words` SET `content_loc9`='Argent Quartermaster Lightspark' WHERE `word_id`=79112; -- locales_creature - name : entry=10857
 UPDATE `trans_words` SET `content_loc9`='Courier Hammerfall' WHERE `word_id`=79114; -- locales_creature - name : entry=10877
 UPDATE `trans_words` SET `content_loc9`='Herald Moonstalker' WHERE `word_id`=79115; -- locales_creature - name : entry=10878
 UPDATE `trans_words` SET `content_loc9`='Harbinger Balthazad' WHERE `word_id`=79116; -- locales_creature - name : entry=10879
 UPDATE `trans_words` SET `content_loc9`='Warcaller Gorlach' WHERE `word_id`=79117; -- locales_creature - name : entry=10880
 UPDATE `trans_words` SET `content_loc9`='Bluff Runner Windstrider' WHERE `word_id`=79118; -- locales_creature - name : entry=10881
+UPDATE `trans_words` SET `content_loc9`='Arikara' WHERE `word_id`=79119; -- locales_creature - name : entry=10882
 UPDATE `trans_words` SET `content_loc9`='Arnak Grimtotem' WHERE `word_id`=79120; -- locales_creature - name : entry=10896
+UPDATE `trans_words` SET `content_loc9`='Sindrayl' WHERE `word_id`=79121; -- locales_creature - name : entry=10897
 UPDATE `trans_words` SET `content_loc9`='Goraluk Anvilcrack' WHERE `word_id`=79122; -- locales_creature - name : entry=10899
 UPDATE `trans_words` SET `content_loc9`='Blackhand Legion Armorsmith' WHERE `word_id`=79123; -- locales_creature - subname : entry=10899
 UPDATE `trans_words` SET `content_loc9`='Andorhal Tower One' WHERE `word_id`=79125; -- locales_creature - name : entry=10902
@@ -6684,6 +7123,11 @@ UPDATE `trans_words` SET `content_loc9`='Winterfall Runner' WHERE `word_id`=7912
 UPDATE `trans_words` SET `content_loc9`='Aurius' WHERE `word_id`=79130; -- locales_creature - name : entry=10917
 UPDATE `trans_words` SET `content_loc9`='Lorax' WHERE `word_id`=79131; -- locales_creature - name : entry=10918
 UPDATE `trans_words` SET `content_loc9`='Shatterspear Troll' WHERE `word_id`=79132; -- locales_creature - name : entry=10919
+UPDATE `trans_words` SET `content_loc9`='Kelek Skykeeper' WHERE `word_id`=79133; -- locales_creature - name : entry=10920
+UPDATE `trans_words` SET `content_loc9`='Taronn Redfeather' WHERE `word_id`=79134; -- locales_creature - name : entry=10921
+UPDATE `trans_words` SET `content_loc9`='Greta Mosshoof' WHERE `word_id`=79135; -- locales_creature - name : entry=10922
+UPDATE `trans_words` SET `content_loc9`='Tenell Leafrunner' WHERE `word_id`=79136; -- locales_creature - name : entry=10923
+UPDATE `trans_words` SET `content_loc9`='Ivy Leafrunner' WHERE `word_id`=79137; -- locales_creature - name : entry=10924
 UPDATE `trans_words` SET `content_loc9`='Rotting Worm' WHERE `word_id`=79138; -- locales_creature - name : entry=10925
 UPDATE `trans_words` SET `content_loc9`='Marlene Redpath' WHERE `word_id`=79140; -- locales_creature - name : entry=10927
 UPDATE `trans_words` SET `content_loc9`='Succubus Minion' WHERE `word_id`=79141; -- locales_creature - name : entry=10928
@@ -6755,8 +7199,13 @@ UPDATE `trans_words` SET `content_loc9`='Franklin Lloyd' WHERE `word_id`=79198; 
 UPDATE `trans_words` SET `content_loc9`='Expert Engineer' WHERE `word_id`=73573; -- locales_creature - subname : entry=11031
 UPDATE `trans_words` SET `content_loc9`='Malor the Zealous' WHERE `word_id`=79199; -- locales_creature - name : entry=11032
 UPDATE `trans_words` SET `content_loc9`='Smokey LaRue' WHERE `word_id`=79200; -- locales_creature - name : entry=11033
+UPDATE `trans_words` SET `content_loc9`='Lord Maxwell Tyrosus' WHERE `word_id`=79201; -- locales_creature - name : entry=11034
+UPDATE `trans_words` SET `content_loc9`='Betina Bigglezink' WHERE `word_id`=79202; -- locales_creature - name : entry=11035
+UPDATE `trans_words` SET `content_loc9`='Leonid Barthalomew the Revered' WHERE `word_id`=79203; -- locales_creature - name : entry=11036
 UPDATE `trans_words` SET `content_loc9`='Jenna Lemkenilli' WHERE `word_id`=79204; -- locales_creature - name : entry=11037
 UPDATE `trans_words` SET `content_loc9`='Journeyman Engineer' WHERE `word_id`=73605; -- locales_creature - subname : entry=11037
+UPDATE `trans_words` SET `content_loc9`='Caretaker Alen' WHERE `word_id`=79205; -- locales_creature - name : entry=11038
+UPDATE `trans_words` SET `content_loc9`='Duke Nicholas Zverenhoff' WHERE `word_id`=79206; -- locales_creature - name : entry=11039
 UPDATE `trans_words` SET `content_loc9`='Watcher Brownell' WHERE `word_id`=79207; -- locales_creature - name : entry=11040
 UPDATE `trans_words` SET `content_loc9`='The Night Watch' WHERE `word_id`=72578; -- locales_creature - subname : entry=11040
 UPDATE `trans_words` SET `content_loc9`='Milla Fairancora' WHERE `word_id`=79208; -- locales_creature - name : entry=11041
@@ -6786,6 +7235,7 @@ UPDATE `trans_words` SET `content_loc9`='Shadow Priestess Vandis' WHERE `word_id
 UPDATE `trans_words` SET `content_loc9`='Alchemist Arbington' WHERE `word_id`=79222; -- locales_creature - name : entry=11056
 UPDATE `trans_words` SET `content_loc9`='Apothecary Dithers' WHERE `word_id`=79223; -- locales_creature - name : entry=11057
 UPDATE `trans_words` SET `content_loc9`='Fras Siabi' WHERE `word_id`=79224; -- locales_creature - name : entry=11058
+UPDATE `trans_words` SET `content_loc9`='Carlin Redpath' WHERE `word_id`=79225; -- locales_creature - name : entry=11063
 UPDATE `trans_words` SET `content_loc9`='Darrowshire Spirit' WHERE `word_id`=79226; -- locales_creature - name : entry=11064
 UPDATE `trans_words` SET `content_loc9`='Thonys Pillarstone' WHERE `word_id`=79227; -- locales_creature - name : entry=11065
 UPDATE `trans_words` SET `content_loc9`='Journeyman Enchanter' WHERE `word_id`=75290; -- locales_creature - subname : entry=11065
@@ -6795,6 +7245,7 @@ UPDATE `trans_words` SET `content_loc9`='Malcomb Wynn' WHERE `word_id`=79229; --
 UPDATE `trans_words` SET `content_loc9`='Journeyman Enchanter' WHERE `word_id`=75290; -- locales_creature - subname : entry=11067
 UPDATE `trans_words` SET `content_loc9`='Betty Quin' WHERE `word_id`=79230; -- locales_creature - name : entry=11068
 UPDATE `trans_words` SET `content_loc9`='Journeyman Enchanter' WHERE `word_id`=75290; -- locales_creature - subname : entry=11068
+UPDATE `trans_words` SET `content_loc9`='Jenova Stoneshield' WHERE `word_id`=79231; -- locales_creature - name : entry=11069
 UPDATE `trans_words` SET `content_loc9`='Lalina Summermoon' WHERE `word_id`=79232; -- locales_creature - name : entry=11070
 UPDATE `trans_words` SET `content_loc9`='Journeyman Enchanter' WHERE `word_id`=75290; -- locales_creature - subname : entry=11070
 UPDATE `trans_words` SET `content_loc9`='Mot Dawnstrider' WHERE `word_id`=79233; -- locales_creature - name : entry=11071
@@ -6813,18 +7264,33 @@ UPDATE `trans_words` SET `content_loc9`='Wynd Nightchaser' WHERE `word_id`=79243
 UPDATE `trans_words` SET `content_loc9`='Faldron' WHERE `word_id`=79244; -- locales_creature - name : entry=11081
 UPDATE `trans_words` SET `content_loc9`='Expert Leatherworker' WHERE `word_id`=73363; -- locales_creature - subname : entry=11081
 UPDATE `trans_words` SET `content_loc9`='Stratholme Courier' WHERE `word_id`=79245; -- locales_creature - name : entry=11082
+UPDATE `trans_words` SET `content_loc9`='Darianna' WHERE `word_id`=79246; -- locales_creature - name : entry=11083
 UPDATE `trans_words` SET `content_loc9`='Tarn' WHERE `word_id`=79247; -- locales_creature - name : entry=11084
 UPDATE `trans_words` SET `content_loc9`='Expert Leatherworker' WHERE `word_id`=73363; -- locales_creature - subname : entry=11084
+UPDATE `trans_words` SET `content_loc9`='Randal Worth' WHERE `word_id`=79248; -- locales_creature - name : entry=11096
 UPDATE `trans_words` SET `content_loc9`='Drakk Stonehand' WHERE `word_id`=79249; -- locales_creature - name : entry=11097
 UPDATE `trans_words` SET `content_loc9`='Master Leatherworker' WHERE `word_id`=79250; -- locales_creature - subname : entry=11097
 UPDATE `trans_words` SET `content_loc9`='Hahrana Ironhide' WHERE `word_id`=79251; -- locales_creature - name : entry=11098
 UPDATE `trans_words` SET `content_loc9`='Master Leatherworker' WHERE `word_id`=79250; -- locales_creature - subname : entry=11098
+UPDATE `trans_words` SET `content_loc9`='Argent Guard' WHERE `word_id`=79252; -- locales_creature - name : entry=11099
 UPDATE `trans_words` SET `content_loc9`='Mana Tide Totem II' WHERE `word_id`=79253; -- locales_creature - name : entry=11100
 UPDATE `trans_words` SET `content_loc9`='Mana Tide Totem III' WHERE `word_id`=79254; -- locales_creature - name : entry=11101
+UPDATE `trans_words` SET `content_loc9`='Argent Rider' WHERE `word_id`=79255; -- locales_creature - name : entry=11102
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Lyshaerya' WHERE `word_id`=79256; -- locales_creature - name : entry=11103
+UPDATE `trans_words` SET `content_loc9`='Shelgrayn' WHERE `word_id`=79257; -- locales_creature - name : entry=11104
+UPDATE `trans_words` SET `content_loc9`='Aboda' WHERE `word_id`=79258; -- locales_creature - name : entry=11105
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Sikewa' WHERE `word_id`=79259; -- locales_creature - name : entry=11106
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Abeqwa' WHERE `word_id`=79260; -- locales_creature - name : entry=11116
+UPDATE `trans_words` SET `content_loc9`='Awenasa' WHERE `word_id`=79261; -- locales_creature - name : entry=11117
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Vizzie' WHERE `word_id`=79262; -- locales_creature - name : entry=11118
+UPDATE `trans_words` SET `content_loc9`='Azzleby' WHERE `word_id`=79263; -- locales_creature - name : entry=11119
 UPDATE `trans_words` SET `content_loc9`='Crimson Hammersmith' WHERE `word_id`=79264; -- locales_creature - name : entry=11120
 UPDATE `trans_words` SET `content_loc9`='Black Guard Swordsmith' WHERE `word_id`=79265; -- locales_creature - name : entry=11121
 UPDATE `trans_words` SET `content_loc9`='Restless Soul' WHERE `word_id`=79266; -- locales_creature - name : entry=11122
 UPDATE `trans_words` SET `content_loc9`='Freed Soul' WHERE `word_id`=79267; -- locales_creature - name : entry=11136
+UPDATE `trans_words` SET `content_loc9`='Xai\'ander' WHERE `word_id`=79268; -- locales_creature - name : entry=11137
+UPDATE `trans_words` SET `content_loc9`='Maethrya' WHERE `word_id`=79269; -- locales_creature - name : entry=11138
+UPDATE `trans_words` SET `content_loc9`='Yugrek' WHERE `word_id`=79270; -- locales_creature - name : entry=11139
 UPDATE `trans_words` SET `content_loc9`='Egan' WHERE `word_id`=79271; -- locales_creature - name : entry=11140
 UPDATE `trans_words` SET `content_loc9`='Spirit of Trey Lightforge' WHERE `word_id`=79272; -- locales_creature - name : entry=11141
 UPDATE `trans_words` SET `content_loc9`='Undead Postman' WHERE `word_id`=79273; -- locales_creature - name : entry=11142
@@ -6852,8 +7318,12 @@ UPDATE `trans_words` SET `content_loc9`='Blixxrak' WHERE `word_id`=79290; -- loc
 UPDATE `trans_words` SET `content_loc9`='Light Armor Merchant' WHERE `word_id`=73277; -- locales_creature - subname : entry=11183
 UPDATE `trans_words` SET `content_loc9`='Wixxrak' WHERE `word_id`=79291; -- locales_creature - name : entry=11184
 UPDATE `trans_words` SET `content_loc9`='Weaponsmith & Gunsmith' WHERE `word_id`=79292; -- locales_creature - subname : entry=11184
+UPDATE `trans_words` SET `content_loc9`='Xizzer Fizzbolt' WHERE `word_id`=79293; -- locales_creature - name : entry=11185
+UPDATE `trans_words` SET `content_loc9`='Lunnix Sprocketslip' WHERE `word_id`=79294; -- locales_creature - name : entry=11186
+UPDATE `trans_words` SET `content_loc9`='Himmik' WHERE `word_id`=79295; -- locales_creature - name : entry=11187
 UPDATE `trans_words` SET `content_loc9`='Evie Whirlbrew' WHERE `word_id`=79296; -- locales_creature - name : entry=11188
 UPDATE `trans_words` SET `content_loc9`='Alchemy Supplies' WHERE `word_id`=73275; -- locales_creature - subname : entry=11188
+UPDATE `trans_words` SET `content_loc9`='Qia' WHERE `word_id`=79297; -- locales_creature - name : entry=11189
 UPDATE `trans_words` SET `content_loc9`='Everlook Bruiser' WHERE `word_id`=79298; -- locales_creature - name : entry=11190
 UPDATE `trans_words` SET `content_loc9`='Lilith the Lithe' WHERE `word_id`=79299; -- locales_creature - name : entry=11191
 UPDATE `trans_words` SET `content_loc9`='Kilram' WHERE `word_id`=79300; -- locales_creature - name : entry=11192
@@ -6865,6 +7335,7 @@ UPDATE `trans_words` SET `content_loc9`='Crimson Cannon' WHERE `word_id`=79306; 
 UPDATE `trans_words` SET `content_loc9`='Summoned Skeleton' WHERE `word_id`=79307; -- locales_creature - name : entry=11200
 UPDATE `trans_words` SET `content_loc9`='Eva Sarkhoff' WHERE `word_id`=79308; -- locales_creature - name : entry=11216
 UPDATE `trans_words` SET `content_loc9`='Lucien Sarkhoff' WHERE `word_id`=79309; -- locales_creature - name : entry=11217
+UPDATE `trans_words` SET `content_loc9`='Kerlonian Evershade' WHERE `word_id`=79310; -- locales_creature - name : entry=11218
 UPDATE `trans_words` SET `content_loc9`='Liladris Moonriver' WHERE `word_id`=79312; -- locales_creature - name : entry=11219
 UPDATE `trans_words` SET `content_loc9`='Manifestation of Water' WHERE `word_id`=79314; -- locales_creature - name : entry=11256
 UPDATE `trans_words` SET `content_loc9`='Scholomance Handler' WHERE `word_id`=79315; -- locales_creature - name : entry=11257
@@ -6899,7 +7370,6 @@ UPDATE `trans_words` SET `content_loc9`='Earthborer' WHERE `word_id`=79344; -- l
 UPDATE `trans_words` SET `content_loc9`='Searing Blade Cultist' WHERE `word_id`=79346; -- locales_creature - name : entry=11322
 UPDATE `trans_words` SET `content_loc9`='Searing Blade Enforcer' WHERE `word_id`=79347; -- locales_creature - name : entry=11323
 UPDATE `trans_words` SET `content_loc9`='Searing Blade Warlock' WHERE `word_id`=79348; -- locales_creature - name : entry=11324
-UPDATE `trans_words` SET `content_loc9`='Zergling' WHERE `word_id`=79352; -- locales_creature - name : entry=11327
 UPDATE `trans_words` SET `content_loc9`='Eastvale Peasant' WHERE `word_id`=79353; -- locales_creature - name : entry=11328
 UPDATE `trans_words` SET `content_loc9`='Hakkari Shadowcaster' WHERE `word_id`=79354; -- locales_creature - name : entry=11338
 UPDATE `trans_words` SET `content_loc9`='Hakkari Shadow Hunter' WHERE `word_id`=79355; -- locales_creature - name : entry=11339
@@ -6981,16 +7451,15 @@ UPDATE `trans_words` SET `content_loc9`='Mana Remnant' WHERE `word_id`=79433; --
 UPDATE `trans_words` SET `content_loc9`='Residual Monstrosity' WHERE `word_id`=79434; -- locales_creature - name : entry=11484
 UPDATE `trans_words` SET `content_loc9`='Old Ironbark' WHERE `word_id`=79440; -- locales_creature - name : entry=11491
 UPDATE `trans_words` SET `content_loc9`='Alzinn Trigger' WHERE `word_id`=79442; -- locales_creature - name : entry=11494
-UPDATE `trans_words` SET `content_loc9`='Immol\'thar' WHERE `word_id`=79443; -- locales_creature - name : entry=11496
 UPDATE `trans_words` SET `content_loc9`='The Razza' WHERE `word_id`=79444; -- locales_creature - name : entry=11497
 UPDATE `trans_words` SET `content_loc9`='Skarr the Unbreakable' WHERE `word_id`=79445; -- locales_creature - name : entry=11498
-UPDATE `trans_words` SET `content_loc9`='Ragnaros' WHERE `word_id`=79447; -- locales_creature - name : entry=11502
 UPDATE `trans_words` SET `content_loc9`='Timbermaw Warder' WHERE `word_id`=79448; -- locales_creature - name : entry=11516
 UPDATE `trans_words` SET `content_loc9`='Oggleflint' WHERE `word_id`=79449; -- locales_creature - name : entry=11517
 UPDATE `trans_words` SET `content_loc9`='Ragefire Chieftain' WHERE `word_id`=79450; -- locales_creature - subname : entry=11517
 UPDATE `trans_words` SET `content_loc9`='Jergosh the Invoker' WHERE `word_id`=79451; -- locales_creature - name : entry=11518
 UPDATE `trans_words` SET `content_loc9`='Bazzalan' WHERE `word_id`=79452; -- locales_creature - name : entry=11519
 UPDATE `trans_words` SET `content_loc9`='Kodo Apparition' WHERE `word_id`=79454; -- locales_creature - name : entry=11521
+UPDATE `trans_words` SET `content_loc9`='Quartermaster Miranda Breechlock' WHERE `word_id`=79455; -- locales_creature - name : entry=11536
 UPDATE `trans_words` SET `content_loc9`='Jack Sterling' WHERE `word_id`=79456; -- locales_creature - name : entry=11546
 UPDATE `trans_words` SET `content_loc9`='Skeletal Scholomance Student' WHERE `word_id`=79457; -- locales_creature - name : entry=11547
 UPDATE `trans_words` SET `content_loc9`='Loh\'atu' WHERE `word_id`=79458; -- locales_creature - name : entry=11548
@@ -7012,7 +7481,6 @@ UPDATE `trans_words` SET `content_loc9`='Whirlwind Ripper' WHERE `word_id`=79473
 UPDATE `trans_words` SET `content_loc9`='Whirlwind Stormwalker' WHERE `word_id`=79474; -- locales_creature - name : entry=11577
 UPDATE `trans_words` SET `content_loc9`='Whirlwind Shredder' WHERE `word_id`=79475; -- locales_creature - name : entry=11578
 UPDATE `trans_words` SET `content_loc9`='Scholomance Dark Summoner' WHERE `word_id`=79476; -- locales_creature - name : entry=11582
-UPDATE `trans_words` SET `content_loc9`='Nefarian' WHERE `word_id`=79477; -- locales_creature - name : entry=11583
 UPDATE `trans_words` SET `content_loc9`='The Head of The Black Flight' WHERE `word_id`=79478; -- locales_creature - subname : entry=11583
 UPDATE `trans_words` SET `content_loc9`='Smeed Scrabblescrew' WHERE `word_id`=79479; -- locales_creature - name : entry=11596
 UPDATE `trans_words` SET `content_loc9`='Risen Guardian' WHERE `word_id`=79480; -- locales_creature - name : entry=11598
@@ -7028,6 +7496,7 @@ UPDATE `trans_words` SET `content_loc9`='Cavalier Durgen' WHERE `word_id`=79489;
 UPDATE `trans_words` SET `content_loc9`='Huntsman Radley' WHERE `word_id`=79490; -- locales_creature - name : entry=11613
 UPDATE `trans_words` SET `content_loc9`='Bloodshot' WHERE `word_id`=79491; -- locales_creature - name : entry=11614
 UPDATE `trans_words` SET `content_loc9`='Mickey Levine' WHERE `word_id`=79492; -- locales_creature - name : entry=11615
+UPDATE `trans_words` SET `content_loc9`='Nathaniel Dumah' WHERE `word_id`=79493; -- locales_creature - name : entry=11616
 UPDATE `trans_words` SET `content_loc9`='Spectral Marauder' WHERE `word_id`=79495; -- locales_creature - name : entry=11620
 UPDATE `trans_words` SET `content_loc9`='Spectral Corpse' WHERE `word_id`=79496; -- locales_creature - name : entry=11621
 UPDATE `trans_words` SET `content_loc9`='Scourge Summoning Crystal' WHERE `word_id`=79498; -- locales_creature - name : entry=11623
@@ -7068,9 +7537,13 @@ UPDATE `trans_words` SET `content_loc9`='Ghostly Raider' WHERE `word_id`=79533; 
 UPDATE `trans_words` SET `content_loc9`='Ghostly Marauder' WHERE `word_id`=79534; -- locales_creature - name : entry=11687
 UPDATE `trans_words` SET `content_loc9`='Cursed Centaur' WHERE `word_id`=79535; -- locales_creature - name : entry=11688
 UPDATE `trans_words` SET `content_loc9`='Gnarlpine Instigator' WHERE `word_id`=79536; -- locales_creature - name : entry=11690
+UPDATE `trans_words` SET `content_loc9`='Chal Fairwind' WHERE `word_id`=79537; -- locales_creature - name : entry=11696
 UPDATE `trans_words` SET `content_loc9`='Mannoroc Lasher' WHERE `word_id`=79539; -- locales_creature - name : entry=11697
 UPDATE `trans_words` SET `content_loc9`='Hive\'Ashi Stinger' WHERE `word_id`=79540; -- locales_creature - name : entry=11698
+UPDATE `trans_words` SET `content_loc9`='Varian Wrynn' WHERE `word_id`=79541; -- locales_creature - name : entry=11699
 UPDATE `trans_words` SET `content_loc9`='Sarin Starlight' WHERE `word_id`=79542; -- locales_creature - name : entry=11700
+UPDATE `trans_words` SET `content_loc9`='Mor\'vek' WHERE `word_id`=79543; -- locales_creature - name : entry=11701
+UPDATE `trans_words` SET `content_loc9`='Arin\'sor' WHERE `word_id`=79545; -- locales_creature - name : entry=11702
 UPDATE `trans_words` SET `content_loc9`='Graw Cornerstone' WHERE `word_id`=79546; -- locales_creature - name : entry=11703
 UPDATE `trans_words` SET `content_loc9`='Mail Armor Merchant' WHERE `word_id`=73246; -- locales_creature - subname : entry=11703
 UPDATE `trans_words` SET `content_loc9`='Kriss Goldenlight' WHERE `word_id`=79547; -- locales_creature - name : entry=11704
@@ -7150,6 +7623,8 @@ UPDATE `trans_words` SET `content_loc9`='Silva Fil\'naveth' WHERE `word_id`=7962
 UPDATE `trans_words` SET `content_loc9`='Darnassus Flight Master' WHERE `word_id`=79623; -- locales_creature - subname : entry=11800
 UPDATE `trans_words` SET `content_loc9`='Rabine Saturna' WHERE `word_id`=79624; -- locales_creature - name : entry=11801
 UPDATE `trans_words` SET `content_loc9`='Dendrite Starblaze' WHERE `word_id`=79625; -- locales_creature - name : entry=11802
+UPDATE `trans_words` SET `content_loc9`='Twilight Keeper Exeter' WHERE `word_id`=79626; -- locales_creature - name : entry=11803
+UPDATE `trans_words` SET `content_loc9`='Twilight Keeper Havunth' WHERE `word_id`=79627; -- locales_creature - name : entry=11804
 UPDATE `trans_words` SET `content_loc9`='Jarund Stoutstrider' WHERE `word_id`=79628; -- locales_creature - name : entry=11805
 UPDATE `trans_words` SET `content_loc9`='The Cenarion Circle' WHERE `word_id`=79629; -- locales_creature - subname : entry=11805
 UPDATE `trans_words` SET `content_loc9`='Sentinel Onaeya' WHERE `word_id`=79630; -- locales_creature - name : entry=11806
@@ -7194,7 +7669,14 @@ UPDATE `trans_words` SET `content_loc9`='Chieftain' WHERE `word_id`=79668; -- lo
 UPDATE `trans_words` SET `content_loc9`='Maggran Earthbinder' WHERE `word_id`=79670; -- locales_creature - name : entry=11860
 UPDATE `trans_words` SET `content_loc9`='Mor\'rogal' WHERE `word_id`=79671; -- locales_creature - name : entry=11861
 UPDATE `trans_words` SET `content_loc9`='Tsunaman' WHERE `word_id`=79672; -- locales_creature - name : entry=11862
+UPDATE `trans_words` SET `content_loc9`='Azore Aldamort' WHERE `word_id`=79673; -- locales_creature - name : entry=11863
 UPDATE `trans_words` SET `content_loc9`='Tammra Windfield' WHERE `word_id`=79674; -- locales_creature - name : entry=11864
+UPDATE `trans_words` SET `content_loc9`='Buliwyf Stonehand' WHERE `word_id`=79675; -- locales_creature - name : entry=11865
+UPDATE `trans_words` SET `content_loc9`='Ilyenia Moonfire' WHERE `word_id`=79676; -- locales_creature - name : entry=11866
+UPDATE `trans_words` SET `content_loc9`='Woo Ping' WHERE `word_id`=79677; -- locales_creature - name : entry=11867
+UPDATE `trans_words` SET `content_loc9`='Sayoc' WHERE `word_id`=79678; -- locales_creature - name : entry=11868
+UPDATE `trans_words` SET `content_loc9`='Ansekhwa' WHERE `word_id`=79679; -- locales_creature - name : entry=11869
+UPDATE `trans_words` SET `content_loc9`='Archibald' WHERE `word_id`=79680; -- locales_creature - name : entry=11870
 UPDATE `trans_words` SET `content_loc9`='Grinning Dog' WHERE `word_id`=79681; -- locales_creature - name : entry=11871
 UPDATE `trans_words` SET `content_loc9`='Myranda the Hag' WHERE `word_id`=79682; -- locales_creature - name : entry=11872
 UPDATE `trans_words` SET `content_loc9`='Spectral Attendant' WHERE `word_id`=79683; -- locales_creature - name : entry=11873
@@ -7205,6 +7687,10 @@ UPDATE `trans_words` SET `content_loc9`='Demon Spirit' WHERE `word_id`=79687; --
 UPDATE `trans_words` SET `content_loc9`='Roon Wildmane' WHERE `word_id`=79688; -- locales_creature - name : entry=11877
 UPDATE `trans_words` SET `content_loc9`='Nathanos Blightcaller' WHERE `word_id`=79689; -- locales_creature - name : entry=11878
 UPDATE `trans_words` SET `content_loc9`='Champion of the Banshee Queen' WHERE `word_id`=79690; -- locales_creature - subname : entry=11878
+UPDATE `trans_words` SET `content_loc9`='Twilight Avenger' WHERE `word_id`=79691; -- locales_creature - name : entry=11880
+UPDATE `trans_words` SET `content_loc9`='Twilight Geolord' WHERE `word_id`=79692; -- locales_creature - name : entry=11881
+UPDATE `trans_words` SET `content_loc9`='Twilight Stonecaller' WHERE `word_id`=79693; -- locales_creature - name : entry=11882
+UPDATE `trans_words` SET `content_loc9`='Twilight Master' WHERE `word_id`=79694; -- locales_creature - name : entry=11883
 UPDATE `trans_words` SET `content_loc9`='Obi' WHERE `word_id`=79695; -- locales_creature - name : entry=11884
 UPDATE `trans_words` SET `content_loc9`='Blighthound' WHERE `word_id`=79696; -- locales_creature - name : entry=11885
 UPDATE `trans_words` SET `content_loc9`='Mercutio Filthgorger' WHERE `word_id`=79697; -- locales_creature - name : entry=11886
@@ -7212,6 +7698,9 @@ UPDATE `trans_words` SET `content_loc9`='Crypt Robber' WHERE `word_id`=79698; --
 UPDATE `trans_words` SET `content_loc9`='Borelgore' WHERE `word_id`=79699; -- locales_creature - name : entry=11896
 UPDATE `trans_words` SET `content_loc9`='Duskwing' WHERE `word_id`=79700; -- locales_creature - name : entry=11897
 UPDATE `trans_words` SET `content_loc9`='Crusader Lord Valdelmar' WHERE `word_id`=79701; -- locales_creature - name : entry=11898
+UPDATE `trans_words` SET `content_loc9`='Shardi' WHERE `word_id`=79702; -- locales_creature - name : entry=11899
+UPDATE `trans_words` SET `content_loc9`='Brakkar' WHERE `word_id`=79703; -- locales_creature - name : entry=11900
+UPDATE `trans_words` SET `content_loc9`='Andruk' WHERE `word_id`=79704; -- locales_creature - name : entry=11901
 UPDATE `trans_words` SET `content_loc9`='Grimtotem Ruffian' WHERE `word_id`=79705; -- locales_creature - name : entry=11910
 UPDATE `trans_words` SET `content_loc9`='Grimtotem Mercenary' WHERE `word_id`=79706; -- locales_creature - name : entry=11911
 UPDATE `trans_words` SET `content_loc9`='Grimtotem Brute' WHERE `word_id`=79707; -- locales_creature - name : entry=11912
@@ -7243,27 +7732,35 @@ UPDATE `trans_words` SET `content_loc9`='Stormpike Captain' WHERE `word_id`=7973
 UPDATE `trans_words` SET `content_loc9`='Great Bear Spirit' WHERE `word_id`=79733; -- locales_creature - name : entry=11956
 UPDATE `trans_words` SET `content_loc9`='Great Cat Spirit' WHERE `word_id`=79734; -- locales_creature - name : entry=11957
 UPDATE `trans_words` SET `content_loc9`='Kim Bridenbecker' WHERE `word_id`=79735; -- locales_creature - name : entry=11979
-UPDATE `trans_words` SET `content_loc9`='Magmadar' WHERE `word_id`=79737; -- locales_creature - name : entry=11982
 UPDATE `trans_words` SET `content_loc9`='Rob Bridenbecker' WHERE `word_id`=79740; -- locales_creature - name : entry=11994
 UPDATE `trans_words` SET `content_loc9`='Ashley Bridenbecker' WHERE `word_id`=79741; -- locales_creature - name : entry=11996
 UPDATE `trans_words` SET `content_loc9`='Stormpike Herald' WHERE `word_id`=79742; -- locales_creature - name : entry=11997
 UPDATE `trans_words` SET `content_loc9`='Frostwolf Herald' WHERE `word_id`=79743; -- locales_creature - name : entry=11998
 UPDATE `trans_words` SET `content_loc9`='Dargon' WHERE `word_id`=79746; -- locales_creature - name : entry=12019
 UPDATE `trans_words` SET `content_loc9`='Food & Drink Merchant' WHERE `word_id`=73187; -- locales_creature - subname : entry=12019
+UPDATE `trans_words` SET `content_loc9`='Daeolyn Summerleaf' WHERE `word_id`=79747; -- locales_creature - name : entry=12021
+UPDATE `trans_words` SET `content_loc9`='Lorelae Wintersong' WHERE `word_id`=79748; -- locales_creature - name : entry=12022
 UPDATE `trans_words` SET `content_loc9`='Kharedon' WHERE `word_id`=79749; -- locales_creature - name : entry=12023
 UPDATE `trans_words` SET `content_loc9`='Light Armor Merchant' WHERE `word_id`=73277; -- locales_creature - subname : entry=12023
+UPDATE `trans_words` SET `content_loc9`='Meliri' WHERE `word_id`=79750; -- locales_creature - name : entry=12024
 UPDATE `trans_words` SET `content_loc9`='Malvor' WHERE `word_id`=79751; -- locales_creature - name : entry=12025
 UPDATE `trans_words` SET `content_loc9`='Herbalism Trainer' WHERE `word_id`=72807; -- locales_creature - subname : entry=12025
 UPDATE `trans_words` SET `content_loc9`='My\'lanna' WHERE `word_id`=79752; -- locales_creature - name : entry=12026
 UPDATE `trans_words` SET `content_loc9`='Food & Drink Merchant' WHERE `word_id`=73187; -- locales_creature - subname : entry=12026
+UPDATE `trans_words` SET `content_loc9`='Tukk' WHERE `word_id`=79753; -- locales_creature - name : entry=12027
+UPDATE `trans_words` SET `content_loc9`='Lah\'Mawhani' WHERE `word_id`=79754; -- locales_creature - name : entry=12028
+UPDATE `trans_words` SET `content_loc9`='Narianna' WHERE `word_id`=79755; -- locales_creature - name : entry=12029
 UPDATE `trans_words` SET `content_loc9`='Malux' WHERE `word_id`=79756; -- locales_creature - name : entry=12030
 UPDATE `trans_words` SET `content_loc9`='Skinning Trainer' WHERE `word_id`=73244; -- locales_creature - subname : entry=12030
+UPDATE `trans_words` SET `content_loc9`='Mai\'Lahii' WHERE `word_id`=79757; -- locales_creature - name : entry=12031
 UPDATE `trans_words` SET `content_loc9`='Lui\'Mala' WHERE `word_id`=79758; -- locales_creature - name : entry=12032
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=12032
+UPDATE `trans_words` SET `content_loc9`='Wulan' WHERE `word_id`=79759; -- locales_creature - name : entry=12033
 UPDATE `trans_words` SET `content_loc9`='Koiter' WHERE `word_id`=79760; -- locales_creature - name : entry=12034
 UPDATE `trans_words` SET `content_loc9`='Ursol\'lok' WHERE `word_id`=79761; -- locales_creature - name : entry=12037
 UPDATE `trans_words` SET `content_loc9`='Loganaar' WHERE `word_id`=79762; -- locales_creature - name : entry=12042
 UPDATE `trans_words` SET `content_loc9`='Druid Trainer' WHERE `word_id`=74724; -- locales_creature - subname : entry=12042
+UPDATE `trans_words` SET `content_loc9`='Kulwia' WHERE `word_id`=79763; -- locales_creature - name : entry=12043
 UPDATE `trans_words` SET `content_loc9`='Hae\'Wilani' WHERE `word_id`=79764; -- locales_creature - name : entry=12045
 UPDATE `trans_words` SET `content_loc9`='Axecrafter' WHERE `word_id`=79765; -- locales_creature - subname : entry=12045
 UPDATE `trans_words` SET `content_loc9`='Gor\'marok the Ravager' WHERE `word_id`=79766; -- locales_creature - name : entry=12046
@@ -7273,7 +7770,6 @@ UPDATE `trans_words` SET `content_loc9`='Stormpike Defender' WHERE `word_id`=797
 UPDATE `trans_words` SET `content_loc9`='Frostwolf Legionnaire' WHERE `word_id`=79770; -- locales_creature - name : entry=12051
 UPDATE `trans_words` SET `content_loc9`='Frostwolf Warrior' WHERE `word_id`=79771; -- locales_creature - name : entry=12052
 UPDATE `trans_words` SET `content_loc9`='Frostwolf Guardian' WHERE `word_id`=79772; -- locales_creature - name : entry=12053
-UPDATE `trans_words` SET `content_loc9`='Garr' WHERE `word_id`=79774; -- locales_creature - name : entry=12057
 UPDATE `trans_words` SET `content_loc9`='Lava Elemental' WHERE `word_id`=79775; -- locales_creature - name : entry=12076
 UPDATE `trans_words` SET `content_loc9`='Stormpike Quartermaster' WHERE `word_id`=79776; -- locales_creature - name : entry=12096
 UPDATE `trans_words` SET `content_loc9`='Frostwolf Quartermaster' WHERE `word_id`=79777; -- locales_creature - name : entry=12097
@@ -7281,7 +7777,6 @@ UPDATE `trans_words` SET `content_loc9`='Firesworn' WHERE `word_id`=79779; -- lo
 UPDATE `trans_words` SET `content_loc9`='Lava Reaver' WHERE `word_id`=79780; -- locales_creature - name : entry=12100
 UPDATE `trans_words` SET `content_loc9`='Lava Surger' WHERE `word_id`=79781; -- locales_creature - name : entry=12101
 UPDATE `trans_words` SET `content_loc9`='Priestess of Elune' WHERE `word_id`=79782; -- locales_creature - name : entry=12116
-UPDATE `trans_words` SET `content_loc9`='Lucifron' WHERE `word_id`=79783; -- locales_creature - name : entry=12118
 UPDATE `trans_words` SET `content_loc9`='Flamewaker Protector' WHERE `word_id`=79784; -- locales_creature - name : entry=12119
 UPDATE `trans_words` SET `content_loc9`='Plagueland Termite' WHERE `word_id`=79785; -- locales_creature - name : entry=12120
 UPDATE `trans_words` SET `content_loc9`='Drakan' WHERE `word_id`=79786; -- locales_creature - name : entry=12121
@@ -7315,6 +7810,7 @@ UPDATE `trans_words` SET `content_loc9`='Winterax Hunter' WHERE `word_id`=79811;
 UPDATE `trans_words` SET `content_loc9`='Shadowglen Sentinel' WHERE `word_id`=79813; -- locales_creature - name : entry=12160
 UPDATE `trans_words` SET `content_loc9`='Tortured Druid' WHERE `word_id`=79814; -- locales_creature - name : entry=12178
 UPDATE `trans_words` SET `content_loc9`='Tortured Sentinel' WHERE `word_id`=79815; -- locales_creature - name : entry=12179
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Kaylisk' WHERE `word_id`=79816; -- locales_creature - name : entry=12196
 UPDATE `trans_words` SET `content_loc9`='Glordrum Steelbeard' WHERE `word_id`=79817; -- locales_creature - name : entry=12197
 UPDATE `trans_words` SET `content_loc9`='Alterac Valley Battlemaster' WHERE `word_id`=72484; -- locales_creature - subname : entry=12197
 UPDATE `trans_words` SET `content_loc9`='Martin Lindsey' WHERE `word_id`=79818; -- locales_creature - name : entry=12198
@@ -7359,12 +7855,10 @@ UPDATE `trans_words` SET `content_loc9`='Mark of Detonation (CSH)' WHERE `word_i
 UPDATE `trans_words` SET `content_loc9`='Mark of Detonation (NESH)' WHERE `word_id`=79861; -- locales_creature - name : entry=12254
 UPDATE `trans_words` SET `content_loc9`='Mark of Detonation (NE)' WHERE `word_id`=79862; -- locales_creature - name : entry=12255
 UPDATE `trans_words` SET `content_loc9`='Mark of Detonation (SE)' WHERE `word_id`=79863; -- locales_creature - name : entry=12256
-UPDATE `trans_words` SET `content_loc9`='Gehennas' WHERE `word_id`=79865; -- locales_creature - name : entry=12259
 UPDATE `trans_words` SET `content_loc9`='Onyxian Drake' WHERE `word_id`=79866; -- locales_creature - name : entry=12260
 UPDATE `trans_words` SET `content_loc9`='Infected Mossflayer' WHERE `word_id`=79867; -- locales_creature - name : entry=12261
 UPDATE `trans_words` SET `content_loc9`='Ziggurat Protector' WHERE `word_id`=79868; -- locales_creature - name : entry=12262
 UPDATE `trans_words` SET `content_loc9`='Slaughterhouse Protector' WHERE `word_id`=79869; -- locales_creature - name : entry=12263
-UPDATE `trans_words` SET `content_loc9`='Shazzrah' WHERE `word_id`=79870; -- locales_creature - name : entry=12264
 UPDATE `trans_words` SET `content_loc9`='Lava Spawn' WHERE `word_id`=79871; -- locales_creature - name : entry=12265
 UPDATE `trans_words` SET `content_loc9`='Hive\'Zora Egg' WHERE `word_id`=79872; -- locales_creature - name : entry=12276
 UPDATE `trans_words` SET `content_loc9`='Melizza Brimbuzzle' WHERE `word_id`=79873; -- locales_creature - name : entry=12277
@@ -7411,6 +7905,7 @@ UPDATE `trans_words` SET `content_loc9`='Unliving Caretaker' WHERE `word_id`=799
 UPDATE `trans_words` SET `content_loc9`='Unliving Resident' WHERE `word_id`=79913; -- locales_creature - name : entry=12380
 UPDATE `trans_words` SET `content_loc9`='Ley Sprite' WHERE `word_id`=79914; -- locales_creature - name : entry=12381
 UPDATE `trans_words` SET `content_loc9`='Mana Sprite' WHERE `word_id`=79915; -- locales_creature - name : entry=12382
+UPDATE `trans_words` SET `content_loc9`='Nibbles' WHERE `word_id`=79916; -- locales_creature - name : entry=12383
 UPDATE `trans_words` SET `content_loc9`='Augustus the Touched' WHERE `word_id`=79917; -- locales_creature - name : entry=12384
 UPDATE `trans_words` SET `content_loc9`='Mortar Team Advanced Target Dummy' WHERE `word_id`=79918; -- locales_creature - name : entry=12385
 UPDATE `trans_words` SET `content_loc9`='Large Vile Slime' WHERE `word_id`=79919; -- locales_creature - name : entry=12387
@@ -7421,6 +7916,7 @@ UPDATE `trans_words` SET `content_loc9`='Gordok Hyena' WHERE `word_id`=79923; --
 UPDATE `trans_words` SET `content_loc9`='Blackwing Mage' WHERE `word_id`=79925; -- locales_creature - name : entry=12420
 UPDATE `trans_words` SET `content_loc9`='Death Talon Dragonspawn' WHERE `word_id`=79926; -- locales_creature - name : entry=12422
 UPDATE `trans_words` SET `content_loc9`='Guard Roberts' WHERE `word_id`=79927; -- locales_creature - name : entry=12423
+UPDATE `trans_words` SET `content_loc9`='Flint Shadowmore' WHERE `word_id`=79928; -- locales_creature - name : entry=12425
 UPDATE `trans_words` SET `content_loc9`='Mountaineer Dolf' WHERE `word_id`=79930; -- locales_creature - name : entry=12427
 UPDATE `trans_words` SET `content_loc9`='Deathguard Kel' WHERE `word_id`=79931; -- locales_creature - name : entry=12428
 UPDATE `trans_words` SET `content_loc9`='Sentinel Shaya' WHERE `word_id`=79932; -- locales_creature - name : entry=12429
@@ -7455,9 +7951,15 @@ UPDATE `trans_words` SET `content_loc9`='Dreamstalker' WHERE `word_id`=79961; --
 UPDATE `trans_words` SET `content_loc9`='Illusion: Black Dragonkin' WHERE `word_id`=81877; -- locales_creature - name : entry=12536
 UPDATE `trans_words` SET `content_loc9`='Grethok the Controller' WHERE `word_id`=79962; -- locales_creature - name : entry=12557
 UPDATE `trans_words` SET `content_loc9`='Grish Longrunner' WHERE `word_id`=79963; -- locales_creature - name : entry=12576
+UPDATE `trans_words` SET `content_loc9`='Jarrodenus' WHERE `word_id`=79964; -- locales_creature - name : entry=12577
+UPDATE `trans_words` SET `content_loc9`='Mishellena' WHERE `word_id`=79965; -- locales_creature - name : entry=12578
 UPDATE `trans_words` SET `content_loc9`='Bloodfury Ripper' WHERE `word_id`=79966; -- locales_creature - name : entry=12579
 UPDATE `trans_words` SET `content_loc9`='Reginald Windsor' WHERE `word_id`=79967; -- locales_creature - name : entry=12580
 UPDATE `trans_words` SET `content_loc9`='Mercutio' WHERE `word_id`=79968; -- locales_creature - name : entry=12581
+UPDATE `trans_words` SET `content_loc9`='Bibilfaz Featherwhistle' WHERE `word_id`=79969; -- locales_creature - name : entry=12596
+UPDATE `trans_words` SET `content_loc9`='Vhulgra' WHERE `word_id`=79970; -- locales_creature - name : entry=12616
+UPDATE `trans_words` SET `content_loc9`='Khaelyn Steelwing' WHERE `word_id`=79971; -- locales_creature - name : entry=12617
+UPDATE `trans_words` SET `content_loc9`='Georgia' WHERE `word_id`=79972; -- locales_creature - name : entry=12636
 UPDATE `trans_words` SET `content_loc9`='Thamarian' WHERE `word_id`=79973; -- locales_creature - name : entry=12656
 UPDATE `trans_words` SET `content_loc9`='Don Pompa' WHERE `word_id`=79974; -- locales_creature - name : entry=12657
 UPDATE `trans_words` SET `content_loc9`='Adam Lind' WHERE `word_id`=79975; -- locales_creature - name : entry=12658
@@ -7474,9 +7976,11 @@ UPDATE `trans_words` SET `content_loc9`='Mitsuwa' WHERE `word_id`=79985; -- loca
 UPDATE `trans_words` SET `content_loc9`='Vera Nightshade' WHERE `word_id`=79986; -- locales_creature - name : entry=12722
 UPDATE `trans_words` SET `content_loc9`='Har\'alen' WHERE `word_id`=79987; -- locales_creature - name : entry=12723
 UPDATE `trans_words` SET `content_loc9`='Pixel' WHERE `word_id`=79988; -- locales_creature - name : entry=12724
+UPDATE `trans_words` SET `content_loc9`='Je\'neu Sancrea' WHERE `word_id`=79989; -- locales_creature - name : entry=12736
 UPDATE `trans_words` SET `content_loc9`='Mastok Wrilehiss' WHERE `word_id`=79991; -- locales_creature - name : entry=12737
 UPDATE `trans_words` SET `content_loc9`='Nori Pridedrift' WHERE `word_id`=79992; -- locales_creature - name : entry=12738
 UPDATE `trans_words` SET `content_loc9`='Onyxia\'s Elite Guard' WHERE `word_id`=79993; -- locales_creature - name : entry=12739
+UPDATE `trans_words` SET `content_loc9`='Faustron' WHERE `word_id`=79994; -- locales_creature - name : entry=12740
 UPDATE `trans_words` SET `content_loc9`='Lady Onyxia' WHERE `word_id`=79995; -- locales_creature - name : entry=12756
 UPDATE `trans_words` SET `content_loc9`='Karang Amakkar' WHERE `word_id`=79996; -- locales_creature - name : entry=12757
 UPDATE `trans_words` SET `content_loc9`='Onyxia Trigger' WHERE `word_id`=79997; -- locales_creature - name : entry=12758
@@ -7549,9 +8053,8 @@ UPDATE `trans_words` SET `content_loc9`='Silverwing Warrior' WHERE `word_id`=800
 UPDATE `trans_words` SET `content_loc9`='Phantim Illusion' WHERE `word_id`=80056; -- locales_creature - name : entry=12898
 UPDATE `trans_words` SET `content_loc9`='Axtroz' WHERE `word_id`=80057; -- locales_creature - name : entry=12899
 UPDATE `trans_words` SET `content_loc9`='Somnus' WHERE `word_id`=80058; -- locales_creature - name : entry=12900
-UPDATE `trans_words` SET `content_loc9`='Lorgus Jett' WHERE `word_id`=80059; -- locales_creature - name : entry=12902
 UPDATE `trans_words` SET `content_loc9`='Splintertree Guard' WHERE `word_id`=80060; -- locales_creature - name : entry=12903
-UPDATE `trans_words` SET `content_loc9`='Nat Pagle' WHERE `word_id`=80064; -- locales_creature - name : entry=12919
+UPDATE `trans_words` SET `content_loc9`='Chief Murgut' WHERE `word_id`=80062; -- locales_creature - name : entry=12918
 UPDATE `trans_words` SET `content_loc9`='Doctor Gregory Victor' WHERE `word_id`=80065; -- locales_creature - name : entry=12920
 UPDATE `trans_words` SET `content_loc9`='Trauma Surgeon' WHERE `word_id`=80066; -- locales_creature - subname : entry=12920
 UPDATE `trans_words` SET `content_loc9`='Enraged Foulweald' WHERE `word_id`=80067; -- locales_creature - name : entry=12921
@@ -7564,8 +8067,16 @@ UPDATE `trans_words` SET `content_loc9`='Critically Injured Alliance Soldier' WH
 UPDATE `trans_words` SET `content_loc9`='Injured Alliance Soldier' WHERE `word_id`=80074; -- locales_creature - name : entry=12938
 UPDATE `trans_words` SET `content_loc9`='Doctor Gustaf VanHowzen' WHERE `word_id`=80075; -- locales_creature - name : entry=12939
 UPDATE `trans_words` SET `content_loc9`='Trauma Surgeon' WHERE `word_id`=80066; -- locales_creature - subname : entry=12939
+UPDATE `trans_words` SET `content_loc9`='Jase Farlane' WHERE `word_id`=80077; -- locales_creature - name : entry=12941
+UPDATE `trans_words` SET `content_loc9`='Leonard Porter' WHERE `word_id`=80078; -- locales_creature - name : entry=12942
+UPDATE `trans_words` SET `content_loc9`='Werg Thickblade' WHERE `word_id`=80079; -- locales_creature - name : entry=12943
 UPDATE `trans_words` SET `content_loc9`='Lokhtos Darkbargainer' WHERE `word_id`=80080; -- locales_creature - name : entry=12944
 UPDATE `trans_words` SET `content_loc9`='The Thorium Brotherhood' WHERE `word_id`=79000; -- locales_creature - subname : entry=12944
+UPDATE `trans_words` SET `content_loc9`='Zannok Hidepiercer' WHERE `word_id`=80081; -- locales_creature - name : entry=12956
+UPDATE `trans_words` SET `content_loc9`='Blimo Gadgetspring' WHERE `word_id`=80082; -- locales_creature - name : entry=12957
+UPDATE `trans_words` SET `content_loc9`='Gigget Zipcoil' WHERE `word_id`=80083; -- locales_creature - name : entry=12958
+UPDATE `trans_words` SET `content_loc9`='Nergal' WHERE `word_id`=80084; -- locales_creature - name : entry=12959
+UPDATE `trans_words` SET `content_loc9`='Christi Galvanis' WHERE `word_id`=80085; -- locales_creature - name : entry=12960
 UPDATE `trans_words` SET `content_loc9`='Kil\'Hiwana' WHERE `word_id`=80086; -- locales_creature - name : entry=12961
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer' WHERE `word_id`=73546; -- locales_creature - subname : entry=12961
 UPDATE `trans_words` SET `content_loc9`='Wik\'Tar' WHERE `word_id`=80087; -- locales_creature - name : entry=12962
@@ -7577,7 +8088,6 @@ UPDATE `trans_words` SET `content_loc9`='Monty' WHERE `word_id`=80092; -- locale
 UPDATE `trans_words` SET `content_loc9`='Rat Extermination Specialist' WHERE `word_id`=80093; -- locales_creature - subname : entry=12997
 UPDATE `trans_words` SET `content_loc9`='Dwarven Farmer' WHERE `word_id`=80094; -- locales_creature - name : entry=12998
 UPDATE `trans_words` SET `content_loc9`='World Invisible Trigger' WHERE `word_id`=80095; -- locales_creature - name : entry=12999
-UPDATE `trans_words` SET `content_loc9`='DO NOT DELETE' WHERE `word_id`=80096; -- locales_creature - subname : entry=12999
 UPDATE `trans_words` SET `content_loc9`='Gnome Engineer' WHERE `word_id`=80097; -- locales_creature - name : entry=13000
 UPDATE `trans_words` SET `content_loc9`='Deeprun Rat' WHERE `word_id`=80098; -- locales_creature - name : entry=13016
 UPDATE `trans_words` SET `content_loc9`='Enthralled Deeprun Rat' WHERE `word_id`=80099; -- locales_creature - name : entry=13017
@@ -7593,6 +8103,7 @@ UPDATE `trans_words` SET `content_loc9`='Irondeep Guard' WHERE `word_id`=80109; 
 UPDATE `trans_words` SET `content_loc9`='Irondeep Raider' WHERE `word_id`=80110; -- locales_creature - name : entry=13081
 UPDATE `trans_words` SET `content_loc9`='Milton Beats' WHERE `word_id`=80111; -- locales_creature - name : entry=13082
 UPDATE `trans_words` SET `content_loc9`='Giver of the Beatings' WHERE `word_id`=80112; -- locales_creature - subname : entry=13082
+UPDATE `trans_words` SET `content_loc9`='Bixi Wobblebonk' WHERE `word_id`=80113; -- locales_creature - name : entry=13084
 UPDATE `trans_words` SET `content_loc9`='Myrokos Silentform' WHERE `word_id`=80114; -- locales_creature - name : entry=13085
 UPDATE `trans_words` SET `content_loc9`='Aggi Rumblestomp' WHERE `word_id`=80115; -- locales_creature - name : entry=13086
 UPDATE `trans_words` SET `content_loc9`='Coldmine Invader' WHERE `word_id`=80116; -- locales_creature - name : entry=13087
@@ -7631,6 +8142,7 @@ UPDATE `trans_words` SET `content_loc9`='James Clark' WHERE `word_id`=80148; -- 
 UPDATE `trans_words` SET `content_loc9`='Carrion Swarmer' WHERE `word_id`=80149; -- locales_creature - name : entry=13160
 UPDATE `trans_words` SET `content_loc9`='Aerie Gryphon' WHERE `word_id`=80150; -- locales_creature - name : entry=13161
 UPDATE `trans_words` SET `content_loc9`='Smith Regzar' WHERE `word_id`=80151; -- locales_creature - name : entry=13176
+UPDATE `trans_words` SET `content_loc9`='Vahgruk' WHERE `word_id`=80152; -- locales_creature - name : entry=13177
 UPDATE `trans_words` SET `content_loc9`='War Rider' WHERE `word_id`=80153; -- locales_creature - name : entry=13178
 UPDATE `trans_words` SET `content_loc9`='Wing Commander Guse' WHERE `word_id`=80154; -- locales_creature - name : entry=13179
 UPDATE `trans_words` SET `content_loc9`='Wing Commander Jeztor' WHERE `word_id`=80155; -- locales_creature - name : entry=13180
@@ -7654,7 +8166,6 @@ UPDATE `trans_words` SET `content_loc9`='Wildspawn Imp' WHERE `word_id`=80170; -
 UPDATE `trans_words` SET `content_loc9`='Dahne Pierce' WHERE `word_id`=80171; -- locales_creature - name : entry=13277
 UPDATE `trans_words` SET `content_loc9`='Duke Hydraxis' WHERE `word_id`=80172; -- locales_creature - name : entry=13278
 UPDATE `trans_words` SET `content_loc9`='Discordant Surge' WHERE `word_id`=80173; -- locales_creature - name : entry=13279
-UPDATE `trans_words` SET `content_loc9`='Noxxion' WHERE `word_id`=80175; -- locales_creature - name : entry=13282
 UPDATE `trans_words` SET `content_loc9`='Lord Tony Romano' WHERE `word_id`=80176; -- locales_creature - name : entry=13283
 UPDATE `trans_words` SET `content_loc9`='Rogue Trainer' WHERE `word_id`=72900; -- locales_creature - subname : entry=13283
 UPDATE `trans_words` SET `content_loc9`='Frostwolf Shaman' WHERE `word_id`=80177; -- locales_creature - name : entry=13284
@@ -7789,6 +8300,8 @@ UPDATE `trans_words` SET `content_loc9`='Frostwolf Explosives Expert' WHERE `wor
 UPDATE `trans_words` SET `content_loc9`='Stormpike Explosives Expert' WHERE `word_id`=80299; -- locales_creature - name : entry=13598
 UPDATE `trans_words` SET `content_loc9`='Stolid Snapjaw' WHERE `word_id`=80300; -- locales_creature - name : entry=13599
 UPDATE `trans_words` SET `content_loc9`='The Abominable Greench' WHERE `word_id`=80302; -- locales_creature - name : entry=13602
+UPDATE `trans_words` SET `content_loc9`='Frostwolf Stable Master' WHERE `word_id`=80303; -- locales_creature - name : entry=13616
+UPDATE `trans_words` SET `content_loc9`='Stormpike Stable Master' WHERE `word_id`=80304; -- locales_creature - name : entry=13617
 UPDATE `trans_words` SET `content_loc9`='Stabled Frostwolf' WHERE `word_id`=80305; -- locales_creature - name : entry=13618
 UPDATE `trans_words` SET `content_loc9`='Strange Snowman' WHERE `word_id`=80308; -- locales_creature - name : entry=13636
 UPDATE `trans_words` SET `content_loc9`='Stabled Alterac Ram' WHERE `word_id`=80310; -- locales_creature - name : entry=13676
@@ -7907,17 +8420,16 @@ UPDATE `trans_words` SET `content_loc9`='Frostwolf Bloodhound' WHERE `word_id`=8
 UPDATE `trans_words` SET `content_loc9`='Stormpike Owl' WHERE `word_id`=80420; -- locales_creature - name : entry=14283
 UPDATE `trans_words` SET `content_loc9`='Stormpike Battleguard' WHERE `word_id`=80421; -- locales_creature - name : entry=14284
 UPDATE `trans_words` SET `content_loc9`='Frostwolf Battleguard' WHERE `word_id`=80422; -- locales_creature - name : entry=14285
+UPDATE `trans_words` SET `content_loc9`='Brinna Valanaar' WHERE `word_id`=80423; -- locales_creature - name : entry=14301
 UPDATE `trans_words` SET `content_loc9`='Chromatic Drakonid' WHERE `word_id`=80424; -- locales_creature - name : entry=14302
 UPDATE `trans_words` SET `content_loc9`='Petrified Guardian' WHERE `word_id`=80425; -- locales_creature - name : entry=14303
 UPDATE `trans_words` SET `content_loc9`='Eskhandar' WHERE `word_id`=80428; -- locales_creature - name : entry=14306
 UPDATE `trans_words` SET `content_loc9`='Black Drakonid Spawner' WHERE `word_id`=80429; -- locales_creature - name : entry=14307
-UPDATE `trans_words` SET `content_loc9`='Ferra' WHERE `word_id`=80430; -- locales_creature - name : entry=14308
 UPDATE `trans_words` SET `content_loc9`='Red Drakonid Spawner' WHERE `word_id`=80431; -- locales_creature - name : entry=14309
 UPDATE `trans_words` SET `content_loc9`='Green Drakonid Spawner' WHERE `word_id`=80432; -- locales_creature - name : entry=14310
 UPDATE `trans_words` SET `content_loc9`='Bronze Drakonid Spawner' WHERE `word_id`=80433; -- locales_creature - name : entry=14311
 UPDATE `trans_words` SET `content_loc9`='Blue Drakonid Spawner' WHERE `word_id`=80434; -- locales_creature - name : entry=14312
 UPDATE `trans_words` SET `content_loc9`='The Drunk' WHERE `word_id`=80437; -- locales_creature - subname : entry=14322
-UPDATE `trans_words` SET `content_loc9`='Lethtendris' WHERE `word_id`=80442; -- locales_creature - name : entry=14327
 UPDATE `trans_words` SET `content_loc9`='Knot Thimblejack' WHERE `word_id`=80447; -- locales_creature - name : entry=14338
 UPDATE `trans_words` SET `content_loc9`='Death Howl' WHERE `word_id`=80448; -- locales_creature - name : entry=14339
 UPDATE `trans_words` SET `content_loc9`='Alshirr Banebreath' WHERE `word_id`=80449; -- locales_creature - name : entry=14340
@@ -7927,7 +8439,6 @@ UPDATE `trans_words` SET `content_loc9`='Mongress' WHERE `word_id`=80452; -- loc
 UPDATE `trans_words` SET `content_loc9`='The Ongar' WHERE `word_id`=80453; -- locales_creature - name : entry=14345
 UPDATE `trans_words` SET `content_loc9`='Highlord Demitrian' WHERE `word_id`=80454; -- locales_creature - name : entry=14347
 UPDATE `trans_words` SET `content_loc9`='Earthcaller Franzahl' WHERE `word_id`=80455; -- locales_creature - name : entry=14348
-UPDATE `trans_words` SET `content_loc9`='Pimgib' WHERE `word_id`=80456; -- locales_creature - name : entry=14349
 UPDATE `trans_words` SET `content_loc9`='Gordok Bushwacker' WHERE `word_id`=80458; -- locales_creature - name : entry=14351
 UPDATE `trans_words` SET `content_loc9`='Mizzle the Crafty' WHERE `word_id`=80459; -- locales_creature - name : entry=14353
 UPDATE `trans_words` SET `content_loc9`='Pusillin' WHERE `word_id`=80460; -- locales_creature - name : entry=14354
@@ -7987,7 +8498,7 @@ UPDATE `trans_words` SET `content_loc9`='Duskstalker' WHERE `word_id`=80516; -- 
 UPDATE `trans_words` SET `content_loc9`='Fury Shelda' WHERE `word_id`=80517; -- locales_creature - name : entry=14431
 UPDATE `trans_words` SET `content_loc9`='Threggil' WHERE `word_id`=80518; -- locales_creature - name : entry=14432
 UPDATE `trans_words` SET `content_loc9`='Sludginn' WHERE `word_id`=80519; -- locales_creature - name : entry=14433
-UPDATE `trans_words` SET `content_loc9`='Alarm-O-Bot' WHERE `word_id`=20908; -- locales_creature - name : entry=14434
+UPDATE `trans_words` SET `content_loc9`='Alarm-o-Bot' WHERE `word_id`=20908; -- locales_creature - name : entry=14434
 UPDATE `trans_words` SET `content_loc9`='Prince Thunderaan' WHERE `word_id`=80520; -- locales_creature - name : entry=14435
 UPDATE `trans_words` SET `content_loc9`='The Wind Seeker' WHERE `word_id`=80521; -- locales_creature - subname : entry=14435
 UPDATE `trans_words` SET `content_loc9`='Mor\'zul Bloodbringer' WHERE `word_id`=80522; -- locales_creature - name : entry=14436
@@ -8029,6 +8540,7 @@ UPDATE `trans_words` SET `content_loc9`='Rex Ashil' WHERE `word_id`=80559; -- lo
 UPDATE `trans_words` SET `content_loc9`='Krellack' WHERE `word_id`=80560; -- locales_creature - name : entry=14476
 UPDATE `trans_words` SET `content_loc9`='Grubthor' WHERE `word_id`=80561; -- locales_creature - name : entry=14477
 UPDATE `trans_words` SET `content_loc9`='Huricanian' WHERE `word_id`=80562; -- locales_creature - name : entry=14478
+UPDATE `trans_words` SET `content_loc9`='Twilight Lord Everun' WHERE `word_id`=80563; -- locales_creature - name : entry=14479
 UPDATE `trans_words` SET `content_loc9`='Alowicious Czervik' WHERE `word_id`=80564; -- locales_creature - name : entry=14480
 UPDATE `trans_words` SET `content_loc9`='Sweet Treats' WHERE `word_id`=80565; -- locales_creature - subname : entry=14480
 UPDATE `trans_words` SET `content_loc9`='Emmithue Smails' WHERE `word_id`=80566; -- locales_creature - name : entry=14481
@@ -8167,16 +8679,19 @@ UPDATE `trans_words` SET `content_loc9`='Horde Cloth Quartermaster' WHERE `word_
 UPDATE `trans_words` SET `content_loc9`='Ralston Farnsley' WHERE `word_id`=80698; -- locales_creature - name : entry=14729
 UPDATE `trans_words` SET `content_loc9`='Horde Cloth Quartermaster' WHERE `word_id`=80695; -- locales_creature - subname : entry=14729
 UPDATE `trans_words` SET `content_loc9`='Revantusk Watcher' WHERE `word_id`=80699; -- locales_creature - name : entry=14730
+UPDATE `trans_words` SET `content_loc9`='Lard' WHERE `word_id`=80700; -- locales_creature - name : entry=14731
 UPDATE `trans_words` SET `content_loc9`='PvP CTF Credit Marker' WHERE `word_id`=80701; -- locales_creature - name : entry=14732
 UPDATE `trans_words` SET `content_loc9`='Sentinel Farsong' WHERE `word_id`=80702; -- locales_creature - name : entry=14733
 UPDATE `trans_words` SET `content_loc9`='Revantusk Drummer' WHERE `word_id`=80703; -- locales_creature - name : entry=14734
 UPDATE `trans_words` SET `content_loc9`='Primal Torntusk' WHERE `word_id`=80704; -- locales_creature - name : entry=14736
 UPDATE `trans_words` SET `content_loc9`='Smith Slagtree' WHERE `word_id`=80705; -- locales_creature - name : entry=14737
 UPDATE `trans_words` SET `content_loc9`='Blacksmithing Supplies' WHERE `word_id`=73589; -- locales_creature - subname : entry=14737
+UPDATE `trans_words` SET `content_loc9`='Otho Moji\'ko' WHERE `word_id`=80706; -- locales_creature - name : entry=14738
 UPDATE `trans_words` SET `content_loc9`='Mystic Yayo\'jin' WHERE `word_id`=80707; -- locales_creature - name : entry=14739
 UPDATE `trans_words` SET `content_loc9`='Reagents' WHERE `word_id`=73226; -- locales_creature - subname : entry=14739
 UPDATE `trans_words` SET `content_loc9`='Katoom the Angler' WHERE `word_id`=80708; -- locales_creature - name : entry=14740
 UPDATE `trans_words` SET `content_loc9`='Fishing Trainer & Supplies' WHERE `word_id`=80709; -- locales_creature - subname : entry=14740
+UPDATE `trans_words` SET `content_loc9`='Huntsman Markhor' WHERE `word_id`=80710; -- locales_creature - name : entry=14741
 UPDATE `trans_words` SET `content_loc9`='Zap Farflinger' WHERE `word_id`=80711; -- locales_creature - name : entry=14742
 UPDATE `trans_words` SET `content_loc9`='Unbalanced Engineer' WHERE `word_id`=80712; -- locales_creature - subname : entry=14742
 UPDATE `trans_words` SET `content_loc9`='Jhordy Lapforge' WHERE `word_id`=80713; -- locales_creature - name : entry=14743
@@ -8220,7 +8735,6 @@ UPDATE `trans_words` SET `content_loc9`='Kerri Hicks' WHERE `word_id`=80751; -- 
 UPDATE `trans_words` SET `content_loc9`='The Strongest Woman Alive!' WHERE `word_id`=80752; -- locales_creature - subname : entry=14832
 UPDATE `trans_words` SET `content_loc9`='Chronos' WHERE `word_id`=80753; -- locales_creature - name : entry=14833
 UPDATE `trans_words` SET `content_loc9`='He Who Never Forgets!' WHERE `word_id`=80754; -- locales_creature - subname : entry=14833
-UPDATE `trans_words` SET `content_loc9`='Hakkar' WHERE `word_id`=80755; -- locales_creature - name : entry=14834
 UPDATE `trans_words` SET `content_loc9`='Rinling' WHERE `word_id`=80756; -- locales_creature - name : entry=14841
 UPDATE `trans_words` SET `content_loc9`='Melnan Darkstone' WHERE `word_id`=80757; -- locales_creature - name : entry=14842
 UPDATE `trans_words` SET `content_loc9`='Darkmoon Faire Barker' WHERE `word_id`=80758; -- locales_creature - subname : entry=14842
@@ -8252,7 +8766,6 @@ UPDATE `trans_words` SET `content_loc9`='Morja' WHERE `word_id`=80782; -- locale
 UPDATE `trans_words` SET `content_loc9`='Trok' WHERE `word_id`=80783; -- locales_creature - name : entry=14872
 UPDATE `trans_words` SET `content_loc9`='Okla' WHERE `word_id`=80784; -- locales_creature - name : entry=14873
 UPDATE `trans_words` SET `content_loc9`='Karu' WHERE `word_id`=80785; -- locales_creature - name : entry=14874
-UPDATE `trans_words` SET `content_loc9`='Molthor' WHERE `word_id`=80786; -- locales_creature - name : entry=14875
 UPDATE `trans_words` SET `content_loc9`='Hand of Rastakhan' WHERE `word_id`=80787; -- locales_creature - subname : entry=14875
 UPDATE `trans_words` SET `content_loc9`='Zandalar Headshrinker' WHERE `word_id`=80788; -- locales_creature - name : entry=14876
 UPDATE `trans_words` SET `content_loc9`='Transformation Visual' WHERE `word_id`=78625; -- locales_creature - subname : entry=14877
@@ -8308,7 +8821,6 @@ UPDATE `trans_words` SET `content_loc9`='Field Marshal Oslight' WHERE `word_id`=
 UPDATE `trans_words` SET `content_loc9`='Sergeant Maclear' WHERE `word_id`=80830; -- locales_creature - name : entry=14984
 UPDATE `trans_words` SET `content_loc9`='Shade of Jin\'do' WHERE `word_id`=80831; -- locales_creature - name : entry=14986
 UPDATE `trans_words` SET `content_loc9`='Powerful Healing Ward' WHERE `word_id`=80832; -- locales_creature - name : entry=14987
-UPDATE `trans_words` SET `content_loc9`='Ohgan' WHERE `word_id`=80833; -- locales_creature - name : entry=14988
 UPDATE `trans_words` SET `content_loc9`='Poisonous Cloud' WHERE `word_id`=80834; -- locales_creature - name : entry=14989
 UPDATE `trans_words` SET `content_loc9`='Defilers Emissary' WHERE `word_id`=80835; -- locales_creature - name : entry=14990
 UPDATE `trans_words` SET `content_loc9`='League of Arathor Emissary' WHERE `word_id`=80836; -- locales_creature - name : entry=14991
@@ -8358,10 +8870,6 @@ UPDATE `trans_words` SET `content_loc9`='Fishmaster Apprentice' WHERE `word_id`=
 UPDATE `trans_words` SET `content_loc9`='Fishbot 5000' WHERE `word_id`=80878; -- locales_creature - name : entry=15079
 UPDATE `trans_words` SET `content_loc9`='Servant of the Hand' WHERE `word_id`=80879; -- locales_creature - name : entry=15080
 UPDATE `trans_words` SET `content_loc9`='Hand of Rastakhan' WHERE `word_id`=80787; -- locales_creature - subname : entry=15080
-UPDATE `trans_words` SET `content_loc9`='Gri\'lek' WHERE `word_id`=80880; -- locales_creature - name : entry=15082
-UPDATE `trans_words` SET `content_loc9`='Hazza\'rah' WHERE `word_id`=80881; -- locales_creature - name : entry=15083
-UPDATE `trans_words` SET `content_loc9`='Renataki' WHERE `word_id`=80882; -- locales_creature - name : entry=15084
-UPDATE `trans_words` SET `content_loc9`='Wushoolay' WHERE `word_id`=80883; -- locales_creature - name : entry=15085
 UPDATE `trans_words` SET `content_loc9`='Arathi Stablehand' WHERE `word_id`=80884; -- locales_creature - name : entry=15086
 UPDATE `trans_words` SET `content_loc9`='Forsaken Stablehand' WHERE `word_id`=80885; -- locales_creature - name : entry=15087
 UPDATE `trans_words` SET `content_loc9`='Booty Bay Elite' WHERE `word_id`=80886; -- locales_creature - name : entry=15088
@@ -8379,7 +8887,6 @@ UPDATE `trans_words` SET `content_loc9`='Gurubashi Prisoner' WHERE `word_id`=808
 UPDATE `trans_words` SET `content_loc9`='Mad Servant' WHERE `word_id`=80898; -- locales_creature - name : entry=15111
 UPDATE `trans_words` SET `content_loc9`='Brain Wash Totem' WHERE `word_id`=80899; -- locales_creature - name : entry=15112
 UPDATE `trans_words` SET `content_loc9`='Honored Hero' WHERE `word_id`=80900; -- locales_creature - name : entry=15113
-UPDATE `trans_words` SET `content_loc9`='Gahz\'ranka' WHERE `word_id`=80901; -- locales_creature - name : entry=15114
 UPDATE `trans_words` SET `content_loc9`='Honored Ancestor' WHERE `word_id`=80902; -- locales_creature - name : entry=15115
 UPDATE `trans_words` SET `content_loc9`='Grinkle' WHERE `word_id`=80903; -- locales_creature - name : entry=15116
 UPDATE `trans_words` SET `content_loc9`='Fishing Promoter' WHERE `word_id`=80904; -- locales_creature - subname : entry=15116
@@ -8397,6 +8904,7 @@ UPDATE `trans_words` SET `content_loc9`='Samuel Hawke' WHERE `word_id`=80913; --
 UPDATE `trans_words` SET `content_loc9`='League of Arathor Supply Officer' WHERE `word_id`=80914; -- locales_creature - subname : entry=15127
 UPDATE `trans_words` SET `content_loc9`='Defiler Elite' WHERE `word_id`=80915; -- locales_creature - name : entry=15128
 UPDATE `trans_words` SET `content_loc9`='League of Arathor Elite' WHERE `word_id`=80916; -- locales_creature - name : entry=15130
+UPDATE `trans_words` SET `content_loc9`='Qeeju' WHERE `word_id`=80917; -- locales_creature - name : entry=15131
 UPDATE `trans_words` SET `content_loc9`='Hammerfall Elite' WHERE `word_id`=80918; -- locales_creature - name : entry=15136
 UPDATE `trans_words` SET `content_loc9`='Menethil Elite' WHERE `word_id`=80919; -- locales_creature - name : entry=15137
 UPDATE `trans_words` SET `content_loc9`='Silverpine Elite' WHERE `word_id`=80920; -- locales_creature - name : entry=15138
@@ -8414,8 +8922,13 @@ UPDATE `trans_words` SET `content_loc9`='Rutgar Glyphshaper' WHERE `word_id`=809
 UPDATE `trans_words` SET `content_loc9`='Frankal Stonebridge' WHERE `word_id`=80933; -- locales_creature - name : entry=15171
 UPDATE `trans_words` SET `content_loc9`='Glibb' WHERE `word_id`=80934; -- locales_creature - name : entry=15172
 UPDATE `trans_words` SET `content_loc9`='Brann Bronzebeard\'s Pet Monkey' WHERE `word_id`=80935; -- locales_creature - subname : entry=15172
+UPDATE `trans_words` SET `content_loc9`='Calandrath' WHERE `word_id`=80936; -- locales_creature - name : entry=15174
 UPDATE `trans_words` SET `content_loc9`='Khur Hornstriker' WHERE `word_id`=80937; -- locales_creature - name : entry=15175
 UPDATE `trans_words` SET `content_loc9`='Reagents' WHERE `word_id`=73226; -- locales_creature - subname : entry=15175
+UPDATE `trans_words` SET `content_loc9`='Vargus' WHERE `word_id`=80938; -- locales_creature - name : entry=15176
+UPDATE `trans_words` SET `content_loc9`='Cloud Skydancer' WHERE `word_id`=80939; -- locales_creature - name : entry=15177
+UPDATE `trans_words` SET `content_loc9`='Runk Windtamer' WHERE `word_id`=80940; -- locales_creature - name : entry=15178
+UPDATE `trans_words` SET `content_loc9`='Mishta' WHERE `word_id`=80941; -- locales_creature - name : entry=15179
 UPDATE `trans_words` SET `content_loc9`='Baristolth of the Shifting Sands' WHERE `word_id`=80942; -- locales_creature - name : entry=15180
 UPDATE `trans_words` SET `content_loc9`='Commander Mar\'alith' WHERE `word_id`=80943; -- locales_creature - name : entry=15181
 UPDATE `trans_words` SET `content_loc9`='Vish Kozus' WHERE `word_id`=80944; -- locales_creature - name : entry=15182
@@ -8433,6 +8946,7 @@ UPDATE `trans_words` SET `content_loc9`='Wickerman Guardian' WHERE `word_id`=809
 UPDATE `trans_words` SET `content_loc9`='Deathclasp' WHERE `word_id`=80958; -- locales_creature - name : entry=15196
 UPDATE `trans_words` SET `content_loc9`='Darkcaller Yanka' WHERE `word_id`=80959; -- locales_creature - name : entry=15197
 UPDATE `trans_words` SET `content_loc9`='Sergeant Hartman' WHERE `word_id`=80960; -- locales_creature - name : entry=15199
+UPDATE `trans_words` SET `content_loc9`='Twilight Keeper Mayna' WHERE `word_id`=80961; -- locales_creature - name : entry=15200
 UPDATE `trans_words` SET `content_loc9`='Twilight Flamereaver' WHERE `word_id`=80962; -- locales_creature - name : entry=15201
 UPDATE `trans_words` SET `content_loc9`='Prince Skaldrenox' WHERE `word_id`=80964; -- locales_creature - name : entry=15203
 UPDATE `trans_words` SET `content_loc9`='Abyssal High Council' WHERE `word_id`=80965; -- locales_creature - subname : entry=15203
@@ -8452,6 +8966,7 @@ UPDATE `trans_words` SET `content_loc9`='Azure Templar' WHERE `word_id`=80973; -
 UPDATE `trans_words` SET `content_loc9`='Abyssal Council' WHERE `word_id`=80969; -- locales_creature - subname : entry=15211
 UPDATE `trans_words` SET `content_loc9`='Hoary Templar' WHERE `word_id`=80974; -- locales_creature - name : entry=15212
 UPDATE `trans_words` SET `content_loc9`='Abyssal Council' WHERE `word_id`=80969; -- locales_creature - subname : entry=15212
+UPDATE `trans_words` SET `content_loc9`='Twilight Overlord' WHERE `word_id`=80975; -- locales_creature - name : entry=15213
 UPDATE `trans_words` SET `content_loc9`='Invisible Stalker' WHERE `word_id`=80976; -- locales_creature - name : entry=15214
 UPDATE `trans_words` SET `content_loc9`='Mistress Natalia Mar\'alith' WHERE `word_id`=80977; -- locales_creature - name : entry=15215
 UPDATE `trans_words` SET `content_loc9`='High Priestess of C\'Thun' WHERE `word_id`=80978; -- locales_creature - subname : entry=15215
@@ -8489,7 +9004,6 @@ UPDATE `trans_words` SET `content_loc9`='Hive\'Ashi Overlord' WHERE `word_id`=81
 UPDATE `trans_words` SET `content_loc9`='Arakis' WHERE `word_id`=81011; -- locales_creature - name : entry=15290
 UPDATE `trans_words` SET `content_loc9`='Hive\'Zora Overlord' WHERE `word_id`=81012; -- locales_creature - subname : entry=15290
 UPDATE `trans_words` SET `content_loc9`='Aendel Windspear' WHERE `word_id`=81013; -- locales_creature - name : entry=15293
-UPDATE `trans_words` SET `content_loc9`='Viscidus' WHERE `word_id`=81014; -- locales_creature - name : entry=15299
 UPDATE `trans_words` SET `content_loc9`='Vekniss Drone' WHERE `word_id`=81015; -- locales_creature - name : entry=15300
 UPDATE `trans_words` SET `content_loc9`='Shade of Taerar' WHERE `word_id`=81016; -- locales_creature - name : entry=15302
 UPDATE `trans_words` SET `content_loc9`='Maxima Blastenheimer' WHERE `word_id`=81017; -- locales_creature - name : entry=15303
@@ -8500,10 +9014,13 @@ UPDATE `trans_words` SET `content_loc9`='Abyssal High Council' WHERE `word_id`=8
 UPDATE `trans_words` SET `content_loc9`='Bor Wildmane' WHERE `word_id`=81021; -- locales_creature - name : entry=15306
 UPDATE `trans_words` SET `content_loc9`='Earthen Templar' WHERE `word_id`=81022; -- locales_creature - name : entry=15307
 UPDATE `trans_words` SET `content_loc9`='Abyssal Council' WHERE `word_id`=80969; -- locales_creature - subname : entry=15307
+UPDATE `trans_words` SET `content_loc9`='Twilight Prophet' WHERE `word_id`=81023; -- locales_creature - name : entry=15308
 UPDATE `trans_words` SET `content_loc9`='Spoops' WHERE `word_id`=81024; -- locales_creature - name : entry=15309
 UPDATE `trans_words` SET `content_loc9`='Jesper' WHERE `word_id`=81025; -- locales_creature - name : entry=15310
 UPDATE `trans_words` SET `content_loc9`='Anubisath Warder' WHERE `word_id`=81026; -- locales_creature - name : entry=15311
 UPDATE `trans_words` SET `content_loc9`='Obsidian Nullifier' WHERE `word_id`=81027; -- locales_creature - name : entry=15312
+UPDATE `trans_words` SET `content_loc9`='Moonkin' WHERE `word_id`=78771; -- locales_creature - name : entry=15313
+UPDATE `trans_words` SET `content_loc9`='Moonkin' WHERE `word_id`=78771; -- locales_creature - name : entry=15314
 UPDATE `trans_words` SET `content_loc9`='Mylini Frostmoon' WHERE `word_id`=81028; -- locales_creature - name : entry=15315
 UPDATE `trans_words` SET `content_loc9`='Weapon Merchant' WHERE `word_id`=72957; -- locales_creature - subname : entry=15315
 UPDATE `trans_words` SET `content_loc9`='Qiraji Scarab' WHERE `word_id`=81029; -- locales_creature - name : entry=15316
@@ -8521,10 +9038,8 @@ UPDATE `trans_words` SET `content_loc9`='Giant Eye Tentacle' WHERE `word_id`=810
 UPDATE `trans_words` SET `content_loc9`='Flesh Hunter' WHERE `word_id`=81041; -- locales_creature - name : entry=15335
 UPDATE `trans_words` SET `content_loc9`='Hive\'Zara Tail Lasher' WHERE `word_id`=81042; -- locales_creature - name : entry=15336
 UPDATE `trans_words` SET `content_loc9`='Obsidian Destroyer' WHERE `word_id`=81043; -- locales_creature - name : entry=15338
-UPDATE `trans_words` SET `content_loc9`='Moam' WHERE `word_id`=81045; -- locales_creature - name : entry=15340
 UPDATE `trans_words` SET `content_loc9`='Qiraji Swarmguard' WHERE `word_id`=81047; -- locales_creature - name : entry=15343
 UPDATE `trans_words` SET `content_loc9`='Swarmguard Needler' WHERE `word_id`=81048; -- locales_creature - name : entry=15344
-UPDATE `trans_words` SET `content_loc9`='Kurinnaxx' WHERE `word_id`=81049; -- locales_creature - name : entry=15348
 UPDATE `trans_words` SET `content_loc9`='Horde Warbringer' WHERE `word_id`=81050; -- locales_creature - name : entry=15350
 UPDATE `trans_words` SET `content_loc9`='Alliance Brigadier General' WHERE `word_id`=81051; -- locales_creature - name : entry=15351
 UPDATE `trans_words` SET `content_loc9`='Katrina Shimmerstar' WHERE `word_id`=81052; -- locales_creature - name : entry=15353
@@ -8547,7 +9062,6 @@ UPDATE `trans_words` SET `content_loc9`='Fandral Staghelm' WHERE `word_id`=81070
 UPDATE `trans_words` SET `content_loc9`='Sergeant Stonebrow' WHERE `word_id`=81071; -- locales_creature - name : entry=15383
 UPDATE `trans_words` SET `content_loc9`='Copper Bar Collector' WHERE `word_id`=81072; -- locales_creature - subname : entry=15383
 UPDATE `trans_words` SET `content_loc9`='OLDWorld Trigger' WHERE `word_id`=81073; -- locales_creature - name : entry=15384
-UPDATE `trans_words` SET `content_loc9`='DO NOT DELETE' WHERE `word_id`=80096; -- locales_creature - subname : entry=15384
 UPDATE `trans_words` SET `content_loc9`='Colonel Zerran' WHERE `word_id`=81074; -- locales_creature - name : entry=15385
 UPDATE `trans_words` SET `content_loc9`='Major Yeggeth' WHERE `word_id`=81075; -- locales_creature - name : entry=15386
 UPDATE `trans_words` SET `content_loc9`='Qiraji Warrior' WHERE `word_id`=81076; -- locales_creature - name : entry=15387
@@ -8563,6 +9077,7 @@ UPDATE `trans_words` SET `content_loc9`='Caelestrasz Dragon Form' WHERE `word_id
 UPDATE `trans_words` SET `content_loc9`='Merithra Dragon Form' WHERE `word_id`=81087; -- locales_creature - name : entry=15413
 UPDATE `trans_words` SET `content_loc9`='Qiraji Wasp' WHERE `word_id`=81088; -- locales_creature - name : entry=15414
 UPDATE `trans_words` SET `content_loc9`='Southshore Stink Bomb Counter' WHERE `word_id`=81089; -- locales_creature - name : entry=15415
+UPDATE `trans_words` SET `content_loc9`='Kania' WHERE `word_id`=81090; -- locales_creature - name : entry=15419
 UPDATE `trans_words` SET `content_loc9`='Qiraji Drone' WHERE `word_id`=81091; -- locales_creature - name : entry=15421
 UPDATE `trans_words` SET `content_loc9`='Qiraji Tank' WHERE `word_id`=81092; -- locales_creature - name : entry=15422
 UPDATE `trans_words` SET `content_loc9`='Kaldorei Infantry' WHERE `word_id`=81093; -- locales_creature - name : entry=15423
@@ -8646,7 +9161,6 @@ UPDATE `trans_words` SET `content_loc9`='Purple Lotus Collector' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc9`='Buru Egg' WHERE `word_id`=81174; -- locales_creature - name : entry=15514
 UPDATE `trans_words` SET `content_loc9`='Skinner Jamani' WHERE `word_id`=81175; -- locales_creature - name : entry=15515
 UPDATE `trans_words` SET `content_loc9`='Heavy Leather Collector' WHERE `word_id`=81176; -- locales_creature - subname : entry=15515
-UPDATE `trans_words` SET `content_loc9`='Ouro' WHERE `word_id`=81178; -- locales_creature - name : entry=15517
 UPDATE `trans_words` SET `content_loc9`='O\'Reily' WHERE `word_id`=81179; -- locales_creature - name : entry=15520
 UPDATE `trans_words` SET `content_loc9`='Hive\'Zara Hatchling' WHERE `word_id`=81180; -- locales_creature - name : entry=15521
 UPDATE `trans_words` SET `content_loc9`='Sergeant Umala' WHERE `word_id`=81181; -- locales_creature - name : entry=15522
@@ -8673,6 +9187,8 @@ UPDATE `trans_words` SET `content_loc9`='Anubisath Swarmguard' WHERE `word_id`=8
 UPDATE `trans_words` SET `content_loc9`='General Zog' WHERE `word_id`=81199; -- locales_creature - name : entry=15539
 UPDATE `trans_words` SET `content_loc9`='Horde Ambassador' WHERE `word_id`=81200; -- locales_creature - subname : entry=15539
 UPDATE `trans_words` SET `content_loc9`='Windcaller Kaldon' WHERE `word_id`=81201; -- locales_creature - name : entry=15540
+UPDATE `trans_words` SET `content_loc9`='Twilight Marauder Morna' WHERE `word_id`=81202; -- locales_creature - name : entry=15541
+UPDATE `trans_words` SET `content_loc9`='Twilight Marauder' WHERE `word_id`=81203; -- locales_creature - name : entry=15542
 UPDATE `trans_words` SET `content_loc9`='Princess Yauj' WHERE `word_id`=81204; -- locales_creature - name : entry=15543
 UPDATE `trans_words` SET `content_loc9`='Vem' WHERE `word_id`=81205; -- locales_creature - name : entry=15544
 UPDATE `trans_words` SET `content_loc9`='Cenarion Outrider' WHERE `word_id`=81206; -- locales_creature - name : entry=15545
@@ -8800,11 +9316,11 @@ UPDATE `trans_words` SET `content_loc9`='Ouro Trigger' WHERE `word_id`=81326; --
 UPDATE `trans_words` SET `content_loc9`='Ouro Scarab' WHERE `word_id`=81327; -- locales_creature - name : entry=15718
 UPDATE `trans_words` SET `content_loc9`='Thunder Bluff Reveler' WHERE `word_id`=81328; -- locales_creature - name : entry=15719
 UPDATE `trans_words` SET `content_loc9`='Timbermaw Ancestor' WHERE `word_id`=81329; -- locales_creature - name : entry=15720
+UPDATE `trans_words` SET `content_loc9`='Squire Leoren Mal\'derath' WHERE `word_id`=81330; -- locales_creature - name : entry=15722
 UPDATE `trans_words` SET `content_loc9`='Booty Bay Reveler' WHERE `word_id`=81331; -- locales_creature - name : entry=15723
 UPDATE `trans_words` SET `content_loc9`='Drunken Bruiser' WHERE `word_id`=81332; -- locales_creature - name : entry=15724
 UPDATE `trans_words` SET `content_loc9`='Claw Tentacle' WHERE `word_id`=81333; -- locales_creature - name : entry=15725
 UPDATE `trans_words` SET `content_loc9`='Eye Tentacle' WHERE `word_id`=81334; -- locales_creature - name : entry=15726
-UPDATE `trans_words` SET `content_loc9`='C\'Thun' WHERE `word_id`=81335; -- locales_creature - name : entry=15727
 UPDATE `trans_words` SET `content_loc9`='Giant Claw Tentacle' WHERE `word_id`=81336; -- locales_creature - name : entry=15728
 UPDATE `trans_words` SET `content_loc9`='Father Winter\'s Helper (BIG) gm' WHERE `word_id`=81878; -- locales_creature - name : entry=15729
 UPDATE `trans_words` SET `content_loc9`='Pat\'s Snowcloud Guy' WHERE `word_id`=81879; -- locales_creature - name : entry=15730
@@ -8895,7 +9411,6 @@ UPDATE `trans_words` SET `content_loc9`='Minor Resonating Crystal' WHERE `word_i
 UPDATE `trans_words` SET `content_loc9`='Qiraji Lieutenant' WHERE `word_id`=81420; -- locales_creature - name : entry=15806
 UPDATE `trans_words` SET `content_loc9`='Minor Anubisath Warbringer' WHERE `word_id`=81421; -- locales_creature - name : entry=15807
 UPDATE `trans_words` SET `content_loc9`='Minor Silithid Flayer' WHERE `word_id`=81422; -- locales_creature - name : entry=15808
-UPDATE `trans_words` SET `content_loc9`='C\'Thun' WHERE `word_id`=81335; -- locales_creature - name : entry=15809
 UPDATE `trans_words` SET `content_loc9`='Transformation Visual' WHERE `word_id`=78625; -- locales_creature - subname : entry=15809
 UPDATE `trans_words` SET `content_loc9`='Eroded Anubisath Warbringer' WHERE `word_id`=81423; -- locales_creature - name : entry=15810
 UPDATE `trans_words` SET `content_loc9`='Faltering Silithid Flayer' WHERE `word_id`=81424; -- locales_creature - name : entry=15811
@@ -8989,13 +9504,9 @@ UPDATE `trans_words` SET `content_loc9`='Pat\'s Firework Cluster Guy (YELLOW BIG
 UPDATE `trans_words` SET `content_loc9`='Lunar Festival Reveler' WHERE `word_id`=81512; -- locales_creature - name : entry=15917
 UPDATE `trans_words` SET `content_loc9`='Pat\'s Firework Cluster Guy (ELUNE)' WHERE `word_id`=81513; -- locales_creature - name : entry=15918
 UPDATE `trans_words` SET `content_loc9`='Viscidus Trigger' WHERE `word_id`=81514; -- locales_creature - name : entry=15922
-UPDATE `trans_words` SET `content_loc9`='Thaddius' WHERE `word_id`=81515; -- locales_creature - name : entry=15928
 UPDATE `trans_words` SET `content_loc9`='Stalagg' WHERE `word_id`=81516; -- locales_creature - name : entry=15929
 UPDATE `trans_words` SET `content_loc9`='Feugen' WHERE `word_id`=81517; -- locales_creature - name : entry=15930
-UPDATE `trans_words` SET `content_loc9`='Grobbulus' WHERE `word_id`=81518; -- locales_creature - name : entry=15931
-UPDATE `trans_words` SET `content_loc9`='Gluth' WHERE `word_id`=81519; -- locales_creature - name : entry=15932
 UPDATE `trans_words` SET `content_loc9`='Hive\'Zara Hornet' WHERE `word_id`=81521; -- locales_creature - name : entry=15934
-UPDATE `trans_words` SET `content_loc9`='Maexxna' WHERE `word_id`=81523; -- locales_creature - name : entry=15952
 UPDATE `trans_words` SET `content_loc9`='Ouro Spawner' WHERE `word_id`=81527; -- locales_creature - name : entry=15957
 UPDATE `trans_words` SET `content_loc9`='Lunar Festival Sentinel' WHERE `word_id`=81528; -- locales_creature - name : entry=15961
 UPDATE `trans_words` SET `content_loc9`='Vekniss Hatchling' WHERE `word_id`=81529; -- locales_creature - name : entry=15962
@@ -9012,7 +9523,6 @@ UPDATE `trans_words` SET `content_loc9`='Tomb Horror' WHERE `word_id`=81538; -- 
 UPDATE `trans_words` SET `content_loc9`='Naxxramas Cultist' WHERE `word_id`=81539; -- locales_creature - name : entry=15980
 UPDATE `trans_words` SET `content_loc9`='Naxxramas Acolyte' WHERE `word_id`=81540; -- locales_creature - name : entry=15981
 UPDATE `trans_words` SET `content_loc9`='Sartura\'s Royal Guard' WHERE `word_id`=81541; -- locales_creature - name : entry=15984
-UPDATE `trans_words` SET `content_loc9`='Kel\'Thuzad' WHERE `word_id`=81543; -- locales_creature - name : entry=15990
 UPDATE `trans_words` SET `content_loc9`='Aldris Fourclouds' WHERE `word_id`=81544; -- locales_creature - name : entry=16001
 UPDATE `trans_words` SET `content_loc9`='Colara Dean' WHERE `word_id`=81545; -- locales_creature - name : entry=16002
 UPDATE `trans_words` SET `content_loc9`='Deathguard Tor' WHERE `word_id`=81546; -- locales_creature - name : entry=16003
@@ -9022,7 +9532,6 @@ UPDATE `trans_words` SET `content_loc9`='InCombat Trigger' WHERE `word_id`=81549
 UPDATE `trans_words` SET `content_loc9`='Orok Deathbane' WHERE `word_id`=81550; -- locales_creature - name : entry=16007
 UPDATE `trans_words` SET `content_loc9`='Temma of the Wells' WHERE `word_id`=81551; -- locales_creature - name : entry=16008
 UPDATE `trans_words` SET `content_loc9`='Tormek Stoneriver' WHERE `word_id`=81552; -- locales_creature - name : entry=16009
-UPDATE `trans_words` SET `content_loc9`='Loatheb' WHERE `word_id`=81553; -- locales_creature - name : entry=16011
 UPDATE `trans_words` SET `content_loc9`='Mokvar' WHERE `word_id`=81554; -- locales_creature - name : entry=16012
 UPDATE `trans_words` SET `content_loc9`='Deliana' WHERE `word_id`=81555; -- locales_creature - name : entry=16013
 UPDATE `trans_words` SET `content_loc9`='Mux Manascrambler' WHERE `word_id`=81556; -- locales_creature - name : entry=16014
@@ -9061,12 +9570,9 @@ UPDATE `trans_words` SET `content_loc9`='Volida' WHERE `word_id`=81592; -- local
 UPDATE `trans_words` SET `content_loc9`='Theldren' WHERE `word_id`=81593; -- locales_creature - name : entry=16059
 UPDATE `trans_words` SET `content_loc9`='Highlord Mograine' WHERE `word_id`=81596; -- locales_creature - name : entry=16062
 UPDATE `trans_words` SET `content_loc9`='The Ashbringer' WHERE `word_id`=81597; -- locales_creature - subname : entry=16062
-UPDATE `trans_words` SET `content_loc9`='Thane Korth\'azz' WHERE `word_id`=81599; -- locales_creature - name : entry=16064
 UPDATE `trans_words` SET `content_loc9`='Lady Blaumeux' WHERE `word_id`=81600; -- locales_creature - name : entry=16065
 UPDATE `trans_words` SET `content_loc9`='Spectral Assassin' WHERE `word_id`=81601; -- locales_creature - name : entry=16066
 UPDATE `trans_words` SET `content_loc9`='Deathcharger Steed' WHERE `word_id`=81602; -- locales_creature - name : entry=16067
-UPDATE `trans_words` SET `content_loc9`='Larva' WHERE `word_id`=81603; -- locales_creature - name : entry=16068
-UPDATE `trans_words` SET `content_loc9`='Gurky' WHERE `word_id`=81604; -- locales_creature - name : entry=16069
 UPDATE `trans_words` SET `content_loc9`='Garel Redrock' WHERE `word_id`=81605; -- locales_creature - name : entry=16070
 UPDATE `trans_words` SET `content_loc9`='Tidelord Rrurgaz' WHERE `word_id`=81606; -- locales_creature - name : entry=16072
 UPDATE `trans_words` SET `content_loc9`='Spirit of Lord Valthalak' WHERE `word_id`=81607; -- locales_creature - name : entry=16073
@@ -9082,6 +9588,7 @@ UPDATE `trans_words` SET `content_loc9`='Rousch' WHERE `word_id`=81615; -- local
 UPDATE `trans_words` SET `content_loc9`='Dirk Thunderwood' WHERE `word_id`=81616; -- locales_creature - name : entry=16091
 UPDATE `trans_words` SET `content_loc9`='Silithis Teleporter' WHERE `word_id`=81617; -- locales_creature - name : entry=16092
 UPDATE `trans_words` SET `content_loc9`='Spectral Stalker' WHERE `word_id`=81618; -- locales_creature - name : entry=16093
+UPDATE `trans_words` SET `content_loc9`='Durik' WHERE `word_id`=81619; -- locales_creature - name : entry=16094
 UPDATE `trans_words` SET `content_loc9`='Gnashjaw' WHERE `word_id`=81620; -- locales_creature - name : entry=16095
 UPDATE `trans_words` SET `content_loc9`='Malgen Longspear\'s Pet' WHERE `word_id`=81621; -- locales_creature - subname : entry=16095
 UPDATE `trans_words` SET `content_loc9`='Steamwheedle Bruiser' WHERE `word_id`=81622; -- locales_creature - name : entry=16096
@@ -9115,7 +9622,7 @@ UPDATE `trans_words` SET `content_loc9`='Bone Minion' WHERE `word_id`=81645; -- 
 UPDATE `trans_words` SET `content_loc9`='Bone Mage' WHERE `word_id`=81646; -- locales_creature - name : entry=16120
 UPDATE `trans_words` SET `content_loc9`='Gremnik Rizzlesprang' WHERE `word_id`=81647; -- locales_creature - name : entry=16123
 UPDATE `trans_words` SET `content_loc9`='Unrelenting Trainee' WHERE `word_id`=81648; -- locales_creature - name : entry=16124
-UPDATE `trans_words` SET `content_loc9`='Unrelenting Death Knight' WHERE `word_id`=91902; -- locales_creature - name : entry=16125
+UPDATE `trans_words` SET `content_loc9`='Unrelenting Deathknight' WHERE `word_id`=91902; -- locales_creature - name : entry=16125
 UPDATE `trans_words` SET `content_loc9`='Unrelenting Rider' WHERE `word_id`=81650; -- locales_creature - name : entry=16126
 UPDATE `trans_words` SET `content_loc9`='Spectral Trainee' WHERE `word_id`=81651; -- locales_creature - name : entry=16127
 UPDATE `trans_words` SET `content_loc9`='Shadow Fissure' WHERE `word_id`=81652; -- locales_creature - name : entry=16129
@@ -9125,20 +9632,20 @@ UPDATE `trans_words` SET `content_loc9`='Huntsman Leopold' WHERE `word_id`=81654
 UPDATE `trans_words` SET `content_loc9`='The Scarlet Crusade' WHERE `word_id`=81640; -- locales_creature - subname : entry=16132
 UPDATE `trans_words` SET `content_loc9`='Mataus the Wrathcaster' WHERE `word_id`=81655; -- locales_creature - name : entry=16133
 UPDATE `trans_words` SET `content_loc9`='The Scarlet Crusade' WHERE `word_id`=81640; -- locales_creature - subname : entry=16133
+UPDATE `trans_words` SET `content_loc9`='Rayne' WHERE `word_id`=81657; -- locales_creature - name : entry=16135
 UPDATE `trans_words` SET `content_loc9`='Necrotic Shard' WHERE `word_id`=81659; -- locales_creature - name : entry=16136
 UPDATE `trans_words` SET `content_loc9`='Naxxramas Military Sub-Boss Trigger' WHERE `word_id`=81660; -- locales_creature - name : entry=16137
 UPDATE `trans_words` SET `content_loc9`='Cenarion Hold Reservist' WHERE `word_id`=81661; -- locales_creature - name : entry=16139
 UPDATE `trans_words` SET `content_loc9`='Ghoul Berserker' WHERE `word_id`=81662; -- locales_creature - name : entry=16141
 UPDATE `trans_words` SET `content_loc9`='Bile Sludge' WHERE `word_id`=81663; -- locales_creature - name : entry=16142
 UPDATE `trans_words` SET `content_loc9`='Shadow of Doom' WHERE `word_id`=81664; -- locales_creature - name : entry=16143
-UPDATE `trans_words` SET `content_loc9`='Death Knight Captain' WHERE `word_id`=91904; -- locales_creature - name : entry=16145
-UPDATE `trans_words` SET `content_loc9`='Spectral Death Knight' WHERE `word_id`=91906; -- locales_creature - name : entry=16148
+UPDATE `trans_words` SET `content_loc9`='Spectral Deathknight' WHERE `word_id`=91906; -- locales_creature - name : entry=16148
 UPDATE `trans_words` SET `content_loc9`='Spectral Horse' WHERE `word_id`=81668; -- locales_creature - name : entry=16149
 UPDATE `trans_words` SET `content_loc9`='Spectral Rider' WHERE `word_id`=81669; -- locales_creature - name : entry=16150
 UPDATE `trans_words` SET `content_loc9`='Risen Deathknight' WHERE `word_id`=81670; -- locales_creature - name : entry=16154
+UPDATE `trans_words` SET `content_loc9`='Dark Touched Warrior' WHERE `word_id`=81671; -- locales_creature - name : entry=16156
 UPDATE `trans_words` SET `content_loc9`='Doom Touched Warrior' WHERE `word_id`=81672; -- locales_creature - name : entry=16157
 UPDATE `trans_words` SET `content_loc9`='Death Touched Warrior' WHERE `word_id`=81673; -- locales_creature - name : entry=16158
-UPDATE `trans_words` SET `content_loc9`='Death Knight Cavalier' WHERE `word_id`=91908; -- locales_creature - name : entry=16163
 UPDATE `trans_words` SET `content_loc9`='Shade of Naxxramas' WHERE `word_id`=81675; -- locales_creature - name : entry=16164
 UPDATE `trans_words` SET `content_loc9`='Necro Knight' WHERE `word_id`=81676; -- locales_creature - name : entry=16165
 UPDATE `trans_words` SET `content_loc9`='Theldren Kill Credit' WHERE `word_id`=81677; -- locales_creature - name : entry=16166
@@ -9149,6 +9656,7 @@ UPDATE `trans_words` SET `content_loc9`='Nerubian Overseer' WHERE `word_id`=8168
 UPDATE `trans_words` SET `content_loc9`='Skeletal Smith' WHERE `word_id`=81682; -- locales_creature - name : entry=16193
 UPDATE `trans_words` SET `content_loc9`='Unholy Axe' WHERE `word_id`=81683; -- locales_creature - name : entry=16194
 UPDATE `trans_words` SET `content_loc9`='Naxxramas Combat Dummy' WHERE `word_id`=81684; -- locales_creature - name : entry=16211
+UPDATE `trans_words` SET `content_loc9`='Dispatch Commander Metz' WHERE `word_id`=81685; -- locales_creature - name : entry=16212
 UPDATE `trans_words` SET `content_loc9`='Unholy Staff' WHERE `word_id`=81686; -- locales_creature - name : entry=16215
 UPDATE `trans_words` SET `content_loc9`='Unholy Swords' WHERE `word_id`=81687; -- locales_creature - name : entry=16216
 UPDATE `trans_words` SET `content_loc9`='Tesla Coil' WHERE `word_id`=81688; -- locales_creature - name : entry=16218
@@ -9156,13 +9664,22 @@ UPDATE `trans_words` SET `content_loc9`='Guard Didier' WHERE `word_id`=81689; --
 UPDATE `trans_words` SET `content_loc9`='Brotherhood of the Light' WHERE `word_id`=81637; -- locales_creature - subname : entry=16226
 UPDATE `trans_words` SET `content_loc9`='Bragok' WHERE `word_id`=81690; -- locales_creature - name : entry=16227
 UPDATE `trans_words` SET `content_loc9`='Flight Master' WHERE `word_id`=78975; -- locales_creature - subname : entry=16227
+UPDATE `trans_words` SET `content_loc9`='Argent Dawn Infantry' WHERE `word_id`=81691; -- locales_creature - name : entry=16228
+UPDATE `trans_words` SET `content_loc9`='Injured Argent Dawn Infantry' WHERE `word_id`=81692; -- locales_creature - name : entry=16229
 UPDATE `trans_words` SET `content_loc9`='Cultist Engineer' WHERE `word_id`=81693; -- locales_creature - name : entry=16230
 UPDATE `trans_words` SET `content_loc9`='Caravan Mule' WHERE `word_id`=81694; -- locales_creature - name : entry=16232
 UPDATE `trans_words` SET `content_loc9`='Eye Stalk' WHERE `word_id`=81695; -- locales_creature - name : entry=16236
+UPDATE `trans_words` SET `content_loc9`='Argent Recruiter' WHERE `word_id`=81696; -- locales_creature - name : entry=16241
 UPDATE `trans_words` SET `content_loc9`='Plague Slime' WHERE `word_id`=81697; -- locales_creature - name : entry=16243
 UPDATE `trans_words` SET `content_loc9`='Infectious Ghoul' WHERE `word_id`=81698; -- locales_creature - name : entry=16244
+UPDATE `trans_words` SET `content_loc9`='Field Marshal Chambers' WHERE `word_id`=81699; -- locales_creature - name : entry=16254
+UPDATE `trans_words` SET `content_loc9`='Argent Scout' WHERE `word_id`=81700; -- locales_creature - name : entry=16255
+UPDATE `trans_words` SET `content_loc9`='Jessica Chambers' WHERE `word_id`=81701; -- locales_creature - name : entry=16256
+UPDATE `trans_words` SET `content_loc9`='Keeper of the Rolls' WHERE `word_id`=81702; -- locales_creature - name : entry=16281
 UPDATE `trans_words` SET `content_loc9`='Packmaster Stonebruiser' WHERE `word_id`=81703; -- locales_creature - name : entry=16283
 UPDATE `trans_words` SET `content_loc9`='Brotherhood of the Light' WHERE `word_id`=81637; -- locales_creature - subname : entry=16283
+UPDATE `trans_words` SET `content_loc9`='Argent Medic' WHERE `word_id`=81704; -- locales_creature - name : entry=16284
+UPDATE `trans_words` SET `content_loc9`='Argent Emissary' WHERE `word_id`=81705; -- locales_creature - name : entry=16285
 UPDATE `trans_words` SET `content_loc9`='Fallout Slime' WHERE `word_id`=81707; -- locales_creature - name : entry=16290
 UPDATE `trans_words` SET `content_loc9`='Mutated Grub' WHERE `word_id`=81708; -- locales_creature - name : entry=16297
 UPDATE `trans_words` SET `content_loc9`='Spectral Soldier' WHERE `word_id`=81709; -- locales_creature - name : entry=16298
@@ -9175,7 +9692,9 @@ UPDATE `trans_words` SET `content_loc9`='Scourge Invasion Minion' WHERE `word_id
 UPDATE `trans_words` SET `content_loc9`='Ghoul/Skeleton spawner' WHERE `word_id`=81714; -- locales_creature - subname : entry=16338
 UPDATE `trans_words` SET `content_loc9`='Scourge Invasion Minion' WHERE `word_id`=81711; -- locales_creature - name : entry=16356
 UPDATE `trans_words` SET `content_loc9`='finder' WHERE `word_id`=81715; -- locales_creature - subname : entry=16356
+UPDATE `trans_words` SET `content_loc9`='Argent Messenger' WHERE `word_id`=81716; -- locales_creature - name : entry=16359
 UPDATE `trans_words` SET `content_loc9`='Zombie Chow' WHERE `word_id`=81717; -- locales_creature - name : entry=16360
+UPDATE `trans_words` SET `content_loc9`='Commander Thomas Helleran' WHERE `word_id`=81718; -- locales_creature - name : entry=16361
 UPDATE `trans_words` SET `content_loc9`='Grobbulus Cloud' WHERE `word_id`=81719; -- locales_creature - name : entry=16363
 UPDATE `trans_words` SET `content_loc9`='Master Craftsman Omarion' WHERE `word_id`=81720; -- locales_creature - name : entry=16365
 UPDATE `trans_words` SET `content_loc9`='Brotherhood of the Light' WHERE `word_id`=81637; -- locales_creature - subname : entry=16365
@@ -9187,17 +9706,20 @@ UPDATE `trans_words` SET `content_loc9`='Polymorphed Cockroach' WHERE `word_id`=
 UPDATE `trans_words` SET `content_loc9`='Sewage Slime' WHERE `word_id`=81726; -- locales_creature - name : entry=16375
 UPDATE `trans_words` SET `content_loc9`='Craftsman Wilhelm' WHERE `word_id`=81727; -- locales_creature - name : entry=16376
 UPDATE `trans_words` SET `content_loc9`='Brotherhood of the Light' WHERE `word_id`=81637; -- locales_creature - subname : entry=16376
+UPDATE `trans_words` SET `content_loc9`='Argent Sentry' WHERE `word_id`=81729; -- locales_creature - name : entry=16378
 UPDATE `trans_words` SET `content_loc9`='Spirit of the Damned' WHERE `word_id`=81730; -- locales_creature - name : entry=16379
 UPDATE `trans_words` SET `content_loc9`='Bone Witch' WHERE `word_id`=81731; -- locales_creature - name : entry=16380
 UPDATE `trans_words` SET `content_loc9`='Archmage Tarsis Kir-Moldir' WHERE `word_id`=81732; -- locales_creature - name : entry=16381
 UPDATE `trans_words` SET `content_loc9`='Patchwork Terror' WHERE `word_id`=81733; -- locales_creature - name : entry=16382
 UPDATE `trans_words` SET `content_loc9`='Flameshocker' WHERE `word_id`=81734; -- locales_creature - name : entry=16383
+UPDATE `trans_words` SET `content_loc9`='Argent Dawn Initiate' WHERE `word_id`=81735; -- locales_creature - name : entry=16384
 UPDATE `trans_words` SET `content_loc9`='Necropolis Relay' WHERE `word_id`=81737; -- locales_creature - name : entry=16386
 UPDATE `trans_words` SET `content_loc9`='Atiesh' WHERE `word_id`=81738; -- locales_creature - name : entry=16387
 UPDATE `trans_words` SET `content_loc9`='Hand of Sargeras' WHERE `word_id`=81739; -- locales_creature - subname : entry=16387
 UPDATE `trans_words` SET `content_loc9`='Deathchill Servant' WHERE `word_id`=81740; -- locales_creature - name : entry=16390
 UPDATE `trans_words` SET `content_loc9`='Captain Armando Ossex' WHERE `word_id`=81741; -- locales_creature - name : entry=16392
 UPDATE `trans_words` SET `content_loc9`='Pallid Horror' WHERE `word_id`=81742; -- locales_creature - name : entry=16394
+UPDATE `trans_words` SET `content_loc9`='Argent Dawn Paladin' WHERE `word_id`=81743; -- locales_creature - name : entry=16395
 UPDATE `trans_words` SET `content_loc9`='Stormwind Elite Guard' WHERE `word_id`=81744; -- locales_creature - name : entry=16396
 UPDATE `trans_words` SET `content_loc9`='Necropolis Proxy' WHERE `word_id`=81745; -- locales_creature - name : entry=16398
 UPDATE `trans_words` SET `content_loc9`='Bloodsail Traitor' WHERE `word_id`=81746; -- locales_creature - name : entry=16399
@@ -9215,6 +9737,10 @@ UPDATE `trans_words` SET `content_loc9`='Unstoppable Abomination' WHERE `word_id
 UPDATE `trans_words` SET `content_loc9`='Soul Weaver' WHERE `word_id`=81759; -- locales_creature - name : entry=16429
 UPDATE `trans_words` SET `content_loc9`='Ashbringer Trigger' WHERE `word_id`=81760; -- locales_creature - name : entry=16430
 UPDATE `trans_words` SET `content_loc9`='Undercity Elite Guardian' WHERE `word_id`=81761; -- locales_creature - name : entry=16432
+UPDATE `trans_words` SET `content_loc9`='Argent Dawn Crusader' WHERE `word_id`=81762; -- locales_creature - name : entry=16433
+UPDATE `trans_words` SET `content_loc9`='Argent Dawn Champion' WHERE `word_id`=81763; -- locales_creature - name : entry=16434
+UPDATE `trans_words` SET `content_loc9`='Argent Dawn Cleric' WHERE `word_id`=81764; -- locales_creature - name : entry=16435
+UPDATE `trans_words` SET `content_loc9`='Argent Dawn Priest' WHERE `word_id`=81765; -- locales_creature - name : entry=16436
 UPDATE `trans_words` SET `content_loc9`='Spectral Spirit' WHERE `word_id`=81766; -- locales_creature - name : entry=16437
 UPDATE `trans_words` SET `content_loc9`='Skeletal Trooper' WHERE `word_id`=81767; -- locales_creature - name : entry=16438
 UPDATE `trans_words` SET `content_loc9`='Transformation Visual' WHERE `word_id`=78625; -- locales_creature - subname : entry=16439
@@ -9228,7 +9754,14 @@ UPDATE `trans_words` SET `content_loc9`='Spirit of Naxxramas' WHERE `word_id`=81
 UPDATE `trans_words` SET `content_loc9`='Deathknight Vindicator' WHERE `word_id`=81773; -- locales_creature - name : entry=16451
 UPDATE `trans_words` SET `content_loc9`='Necro Knight Guardian' WHERE `word_id`=81774; -- locales_creature - name : entry=16452
 UPDATE `trans_words` SET `content_loc9`='Necro Stalker' WHERE `word_id`=81775; -- locales_creature - name : entry=16453
+UPDATE `trans_words` SET `content_loc9`='Innkeeper Faralia' WHERE `word_id`=81776; -- locales_creature - name : entry=16458
+UPDATE `trans_words` SET `content_loc9`='Lieutenant Orrin' WHERE `word_id`=81778; -- locales_creature - name : entry=16478
 UPDATE `trans_words` SET `content_loc9`='Polymorph Clone' WHERE `word_id`=81779; -- locales_creature - name : entry=16479
+UPDATE `trans_words` SET `content_loc9`='Lieutenant Nevell' WHERE `word_id`=81780; -- locales_creature - name : entry=16484
+UPDATE `trans_words` SET `content_loc9`='Lieutenant Lisande' WHERE `word_id`=81782; -- locales_creature - name : entry=16490
+UPDATE `trans_words` SET `content_loc9`='Lieutenant Dagel' WHERE `word_id`=81783; -- locales_creature - name : entry=16493
+UPDATE `trans_words` SET `content_loc9`='Lieutenant Rukag' WHERE `word_id`=81784; -- locales_creature - name : entry=16494
+UPDATE `trans_words` SET `content_loc9`='Lieutenant Beitha' WHERE `word_id`=81785; -- locales_creature - name : entry=16495
 UPDATE `trans_words` SET `content_loc9`='Naxxramas Follower' WHERE `word_id`=81786; -- locales_creature - name : entry=16505
 UPDATE `trans_words` SET `content_loc9`='Naxxramas Worshipper' WHERE `word_id`=81787; -- locales_creature - name : entry=16506
 UPDATE `trans_words` SET `content_loc9`='Argent Horse' WHERE `word_id`=81788; -- locales_creature - name : entry=16508
@@ -9248,8 +9781,9 @@ UPDATE `trans_words` SET `content_loc9`='Midsummer Celebrant' WHERE `word_id`=81
 UPDATE `trans_words` SET `content_loc9`='Plague Slime (Blue)' WHERE `word_id`=81881; -- locales_creature - name : entry=16783
 UPDATE `trans_words` SET `content_loc9`='Plague Slime (Red)' WHERE `word_id`=81882; -- locales_creature - name : entry=16784
 UPDATE `trans_words` SET `content_loc9`='Plague Slime (Green)' WHERE `word_id`=81883; -- locales_creature - name : entry=16785
+UPDATE `trans_words` SET `content_loc9`='Argent Quartermaster' WHERE `word_id`=81806; -- locales_creature - name : entry=16786
+UPDATE `trans_words` SET `content_loc9`='Argent Outfitter' WHERE `word_id`=81807; -- locales_creature - name : entry=16787
 UPDATE `trans_words` SET `content_loc9`='Festival Flamekeeper' WHERE `word_id`=81808; -- locales_creature - name : entry=16788
-UPDATE `trans_words` SET `content_loc9`='Death Knight Understudy' WHERE `word_id`=91913; -- locales_creature - name : entry=16803
 UPDATE `trans_words` SET `content_loc9`='Festival Loremaster' WHERE `word_id`=81810; -- locales_creature - name : entry=16817
 UPDATE `trans_words` SET `content_loc9`='Festival Talespinner' WHERE `word_id`=81811; -- locales_creature - name : entry=16818
 UPDATE `trans_words` SET `content_loc9`='Death Lord' WHERE `word_id`=81812; -- locales_creature - name : entry=16861
