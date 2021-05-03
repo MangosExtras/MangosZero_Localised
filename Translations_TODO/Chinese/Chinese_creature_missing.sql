@@ -3,11 +3,8 @@ SET NAMES 'utf8';
 UPDATE `trans_words` SET `content_loc4`='Enraged Form' WHERE `word_id`=74198; -- locales_creature - subname : entry=2454
 UPDATE `trans_words` SET `content_loc4`='PH MODEL WIP' WHERE `word_id`=74421; -- locales_creature - subname : entry=2694
 UPDATE `trans_words` SET `content_loc4`='Crocilisk Trainer' WHERE `word_id`=74578; -- locales_creature - subname : entry=2876
-UPDATE `trans_words` SET `content_loc4`='XT:4' WHERE `word_id`=75667; -- locales_creature - name : entry=4073
-UPDATE `trans_words` SET `content_loc4`='XT:9' WHERE `word_id`=75668; -- locales_creature - name : entry=4074
 UPDATE `trans_words` SET `content_loc4`='Male' WHERE `word_id`=5476; -- locales_creature - subname : entry=7503
 UPDATE `trans_words` SET `content_loc4`='Female' WHERE `word_id`=5477; -- locales_creature - subname : entry=7504
-UPDATE `trans_words` SET `content_loc4`='A-Me 01' WHERE `word_id`=78637; -- locales_creature - name : entry=9623
 UPDATE `trans_words` SET `content_loc4`='Spell Visual' WHERE `word_id`=78969; -- locales_creature - subname : entry=10579
 UPDATE `trans_words` SET `content_loc4`='Orc Female' WHERE `word_id`=79065; -- locales_creature - subname : entry=10784
 UPDATE `trans_words` SET `content_loc4`='Tauren Male' WHERE `word_id`=79066; -- locales_creature - subname : entry=10785
