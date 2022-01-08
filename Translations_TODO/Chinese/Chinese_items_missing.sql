@@ -11,4 +11,5 @@ UPDATE `trans_words` SET `content_loc4`='可以作为空气图腾，大地图腾
 UPDATE `trans_words` SET `content_loc4`='可以作为空气图腾，大地图腾，火焰图腾和水之图腾使用。' WHERE `word_id`=23479; -- locales_item - description : entry=23199
 UPDATE `trans_words` SET `content_loc4`='可以作为空气图腾，大地图腾，火焰图腾和水之图腾使用。' WHERE `word_id`=23479; -- locales_item - description : entry=23200
 
+
 SET NAMES 'latin1';
