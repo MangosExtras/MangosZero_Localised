@@ -4,11 +4,11 @@ UPDATE `trans_words` SET `content_loc4`='Engraved with the words \'For years of 
 UPDATE `trans_words` SET `content_loc4`='Teaches Inner Fire (Rank 2).' WHERE `word_id`=14419; -- locales_item - description : entry=8964
 UPDATE `trans_words` SET `content_loc4`='Teaches you how to make Thorium Shells.' WHERE `word_id`=19461; -- locales_item - description : entry=16051
 UPDATE `trans_words` SET `content_loc4`='Only ONE May Rise... (and consequently, only ONE may loot this head)' WHERE `word_id`=22115; -- locales_item - description : entry=20383
-UPDATE `trans_words` SET `content_loc4`='Counts as an Air, Earth, Fire, and Water totem.' WHERE `word_id`=23479; -- locales_item - description : entry=22345
-UPDATE `trans_words` SET `content_loc4`='Counts as an Air, Earth, Fire, and Water totem.' WHERE `word_id`=23479; -- locales_item - description : entry=22395
-UPDATE `trans_words` SET `content_loc4`='Counts as an Air, Earth, Fire, and Water totem.' WHERE `word_id`=23479; -- locales_item - description : entry=22396
-UPDATE `trans_words` SET `content_loc4`='Counts as an Air, Earth, Fire, and Water totem.' WHERE `word_id`=23479; -- locales_item - description : entry=23005
-UPDATE `trans_words` SET `content_loc4`='Counts as an Air, Earth, Fire, and Water totem.' WHERE `word_id`=23479; -- locales_item - description : entry=23199
-UPDATE `trans_words` SET `content_loc4`='Counts as an Air, Earth, Fire, and Water totem.' WHERE `word_id`=23479; -- locales_item - description : entry=23200
+UPDATE `trans_words` SET `content_loc4`='可以作为空气图腾，大地图腾，火焰图腾和水之图腾使用。' WHERE `word_id`=23479; -- locales_item - description : entry=22345
+UPDATE `trans_words` SET `content_loc4`='可以作为空气图腾，大地图腾，火焰图腾和水之图腾使用。' WHERE `word_id`=23479; -- locales_item - description : entry=22395
+UPDATE `trans_words` SET `content_loc4`='可以作为空气图腾，大地图腾，火焰图腾和水之图腾使用。' WHERE `word_id`=23479; -- locales_item - description : entry=22396
+UPDATE `trans_words` SET `content_loc4`='可以作为空气图腾，大地图腾，火焰图腾和水之图腾使用。' WHERE `word_id`=23479; -- locales_item - description : entry=23005
+UPDATE `trans_words` SET `content_loc4`='可以作为空气图腾，大地图腾，火焰图腾和水之图腾使用。' WHERE `word_id`=23479; -- locales_item - description : entry=23199
+UPDATE `trans_words` SET `content_loc4`='可以作为空气图腾，大地图腾，火焰图腾和水之图腾使用。' WHERE `word_id`=23479; -- locales_item - description : entry=23200
 
 SET NAMES 'latin1';
