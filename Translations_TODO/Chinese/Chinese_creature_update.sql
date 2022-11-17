@@ -957,7 +957,6 @@ UPDATE `locales_creature` SET `name_loc4`='玛格拉' WHERE `entry`=13740;
 UPDATE `locales_creature` SET `name_loc4`='吉尔克' WHERE `entry`=13741;
 UPDATE `locales_creature` SET `name_loc4`='考尔克' WHERE `entry`=13742;
 UPDATE `locales_creature` SET `name_loc4`='亚斯拉玛尼斯' WHERE `entry`=14187;
-UPDATE `locales_creature` SET `name_loc4`='' WHERE `entry`=14224;
 UPDATE `locales_creature` SET `name_loc4`='布琳娜·瓦兰达尔' WHERE `entry`=14301;
 UPDATE `locales_creature` SET `name_loc4`='阿罗希奥斯·瑟维克' WHERE `entry`=14480;
 UPDATE `locales_creature` SET `name_loc4`='艾米苏·斯麦尔' WHERE `entry`=14481;
