@@ -43,10 +43,7 @@ print(declaraction1)
 
 
 # setting other
-path = input("enter your MangosZero_Localised folder PATH(like: /root/MangosZero_Localised/ ) : ")
-path = path.strip()
-if path[-1] != "/":
-    path = path + "/"
+path = os.path.dirname(os.path.abspath(__file__))
 
 selectSqlType = input("select you sql type Number(1=mysql, 2=mariaDB) (enter: 1 or 2) : ")
 sqlHost = input("database connect Address is(like: 192.168.1.1 or 127.0.0.1) : ")
@@ -61,42 +58,46 @@ if len(path) < 2 or len(selectSqlType) == 0 or len(sqlHost) == 0 or len(sqlPort)
 # get sql connect secert and set sqlExecCMD
 if selectSqlType == "1":
     print("enter your sql connect PASSWORD ")
-    secretCMD = "mysql_config_editor set --login-path=local --host={sqlHost} --port={sqlPort} --user={sqlUserName} --password --skip-warn".format(sqlHost=sqlHost, sqlPort=sqlPort, sqlUserName=sqlUserName)
+    secretCMD = f"mysql_config_editor set --login-path=local --host={sqlHost} --port={sqlPort} --user={sqlUserName} --password --skip-warn".format(sqlHost=sqlHost, sqlPort=sqlPort, sqlUserName=sqlUserName)
     os.system(secretCMD)
     print(secretCMD)
     sqlExecCMD = "mysql --login-path=local -q -s " + zero_worldDBName + " <  "
 elif selectSqlType == "2":
-    mariaPassword = intput ( "input your sql connect PASSWORD : ")
-    sqlExecCMD = "mysql -h{sqlHost} -P{sqlPort} -u{sqlUserName} -p{mariaPassword}  {zero_worldDBName}  <  ".format(sqlHost=sqlHost, sqlPort=sqlPort, mariaPassword=mariaPassword, zero_worldDBName=zero_worldDBName)
+    mariaPassword = input( "input your sql connect PASSWORD : ")
+    sqlExecCMD = f"mysql -h{sqlHost} -P{sqlPort} -u{sqlUserName} -p{mariaPassword}  {zero_worldDBName}  <  ".format(sqlHost=sqlHost, sqlPort=sqlPort, mariaPassword=mariaPassword, zero_worldDBName=zero_worldDBName)
 else:
     raise TypeError("dbType Fail , when select sql Type must input 1 or 2 only")
     
 
 # process start
 for baseDBset in ["1_LocaleTablePrepare.sql", "2_Add_NewLocalisationFields.sql", "3_InitialSaveEnglish.sql"]:
-    os.system(sqlExecCMD + path + baseDBset)
-    print(sqlExecCMD + path + baseDBset)
+    baseDBitem = os.path.join(path, baseDBset)
+    command = sqlExecCMD + baseDBitem
+    os.system(command)
+    print(command)
 
 
 # install language all folder
-path2 = path + "Translations/" 
+path2 = os.path.join(path, "Translations")
 TranslationsALL = os.listdir(path2)
 langFolders = []
 
 for fName in  TranslationsALL:
-    if os.path.isdir(path2 + fName) is True:
+    if os.path.isdir(os.path.join(path2, fName)) is True:
         langFolders.append(fName)
         
 for langF in langFolders:
-    path3 = path2 + langF + "/"
+    path3 = os.path.join(path2, langF)
     files = os.listdir(path3)
     
     for filename in files:
-        if os.path.isdir(path3 + filename) is True or filename.rsplit(".", 1)[1].lower() != "sql":
+        fileFullPath = os.path.join(path3, filename)
+        if os.path.isdir(fileFullPath) is True or filename.rsplit(".")[-1].lower() != "sql":
             continue
         else:
-            print(sqlExecCMD  + path3 + filename)
-            os.system(sqlExecCMD  + path3 + filename)
+            command = sqlExecCMD + fileFullPath
+            print(command)
+            os.system(command)
 
 
 FinalSTR = """
