@@ -85,7 +85,7 @@ path2 = path + "Translations/" + langFolderName + "/"
 langFiles = os.listdir(path2)
 
 for filename in langFiles:
-    if os.path.isdir(path2 + filename) is True or filename.rsplit(".", 1)[1].lower() != "sql":
+    if os.path.isdir(path2 + filename) or not filename.endswith(".sql"):
         continue
     
     print(sqlExecCMD  + path2 + filename)
